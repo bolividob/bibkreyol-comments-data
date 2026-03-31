@@ -1,9 +1,39 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774927981888,
+  "updatedAt": 1774928161849,
   "version": 1,
   "comments": [
+    {
+      "id": "c_probe_1",
+      "text": "probe",
+      "userDeviceId": "did_probe",
+      "userName": "probe",
+      "verseName": "Daily Verse",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774928161849,
+      "updatedAt": 1774928161849,
+      "status": "active"
+    },
+    {
+      "id": "c_smoke2_c01c1a75",
+      "text": "smoke2",
+      "userDeviceId": "did_smoke2",
+      "userName": "Smoke2",
+      "verseName": "Daily Verse",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "did_smoke2"
+      ],
+      "createdAt": 1774928161849,
+      "updatedAt": 1774928161849,
+      "status": "active"
+    },
     {
       "id": "c_smoke_f3b1d279be",
       "text": "smoke comment 2026-03-31",
@@ -33,5 +63,5 @@
       "status": "active"
     }
   ],
-  "sha": "2c8fa4367174fbeaae155b7a223c2ebc77909330"
+  "sha": "60393ad9697bae0966f103877395f02c36b923bf"
 }
