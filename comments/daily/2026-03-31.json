@@ -1,7 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 0,
+  "updatedAt": 1774927682330,
   "version": 1,
-  "comments": []
+  "comments": [
+    {
+      "id": "c_test_1",
+      "text": "test comment from deploy check",
+      "userDeviceId": "did_test",
+      "userName": "tester",
+      "verseName": "Daily Verse",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774927682330,
+      "updatedAt": 1774927682330,
+      "status": "active"
+    }
+  ],
+  "sha": "efc40c716d50b66cb6b7f62853fc432758cb0330"
 }
