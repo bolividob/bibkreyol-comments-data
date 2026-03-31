@@ -1,9 +1,37 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774932181640,
+  "updatedAt": 1774932962430,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774932936763",
+      "text": "salu tout moun",
+      "userDeviceId": "local-74f17bcd-53dc-3652-8380-cf2fdbff634d",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774932962430,
+      "updatedAt": 1774932962430,
+      "status": "active"
+    },
+    {
+      "id": "local-1774932949761",
+      "text": "hi",
+      "userDeviceId": "local-74f17bcd-53dc-3652-8380-cf2fdbff634d",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774932962430,
+      "updatedAt": 1774932962430,
+      "status": "active"
+    },
     {
       "id": "c_live_66fb7908",
       "text": "Live test comment for today",
@@ -112,5 +140,5 @@
       "status": "active"
     }
   ],
-  "sha": "4d54559dc0c5857caba43f2cba35dab7893c963f"
+  "sha": "53d27762e3a9b9fec0a50f200719a1dcdd833b39"
 }
