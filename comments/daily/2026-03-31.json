@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774972563450,
+  "updatedAt": 1774972621936,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774972530522",
+      "text": "new comment style",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774932936763",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774972621936,
+      "updatedAt": 1774972621936,
+      "status": "active"
+    },
     {
       "id": "local-1774972506270",
       "text": "kaman nou ye",
@@ -99,13 +113,13 @@
       "userName": "James",
       "verseName": "Jozye 4:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "571e4caf-ac47-4690-93d2-790913c6d0e4"
       ],
       "createdAt": 1774932962430,
-      "updatedAt": 1774933862747,
+      "updatedAt": 1774972621936,
       "status": "active"
     },
     {
@@ -204,7 +218,7 @@
         "571e4caf-ac47-4690-93d2-790913c6d0e4"
       ],
       "createdAt": 1774928161849,
-      "updatedAt": 1774972563450,
+      "updatedAt": 1774972621936,
       "status": "active"
     },
     {
@@ -239,5 +253,5 @@
       "status": "active"
     }
   ],
-  "sha": "15abe675a5885a216dab4325845a45fa8a642f9b"
+  "sha": "d1dd96c5d768c2bfe711e912777362bda69b0287"
 }
