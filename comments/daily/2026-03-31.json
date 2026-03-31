@@ -1,9 +1,37 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774933862747,
+  "updatedAt": 1774933922386,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774933810647",
+      "text": "Remy by me",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774932987163",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774933922386,
+      "updatedAt": 1774933922386,
+      "status": "active"
+    },
+    {
+      "id": "local-1774933831480",
+      "text": "poste li ye",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774933922386,
+      "updatedAt": 1774933922386,
+      "status": "active"
+    },
     {
       "id": "local-1774933789531",
       "text": "reby by james",
@@ -25,13 +53,13 @@
       "userName": "James",
       "verseName": "Jozye 4:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "571e4caf-ac47-4690-93d2-790913c6d0e4"
       ],
       "createdAt": 1774933022458,
-      "updatedAt": 1774933621968,
+      "updatedAt": 1774933922386,
       "status": "active"
     },
     {
@@ -177,5 +205,5 @@
       "status": "active"
     }
   ],
-  "sha": "2b5a15cd76eed1de18c108629e2d8d7a3f62c099"
+  "sha": "d4054c3870fb7b9f692ba8f35d55c9a6b0b70865"
 }
