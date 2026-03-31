@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774932962430,
+  "updatedAt": 1774933022459,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774932987163",
+      "text": "hi, salu",
+      "userDeviceId": "local-74f17bcd-53dc-3652-8380-cf2fdbff634d",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774933022458,
+      "updatedAt": 1774933022458,
+      "status": "active"
+    },
     {
       "id": "local-1774932936763",
       "text": "salu tout moun",
@@ -40,12 +54,13 @@
       "verseName": "Current Verse of the Day",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "did_live_test"
+        "did_live_test",
+        "local-device"
       ],
       "createdAt": 1774929902674,
-      "updatedAt": 1774929902674,
+      "updatedAt": 1774933022459,
       "status": "active"
     },
     {
@@ -140,5 +155,5 @@
       "status": "active"
     }
   ],
-  "sha": "53d27762e3a9b9fec0a50f200719a1dcdd833b39"
+  "sha": "c98bf9283bf6b6994d0bc8bfb2f97580cbe99abc"
 }
