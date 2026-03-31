@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774933082454,
+  "updatedAt": 1774933621968,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jozye 4:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
       "createdAt": 1774933022458,
-      "updatedAt": 1774933022458,
+      "updatedAt": 1774933621968,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Jozye 4:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
       "createdAt": 1774932962430,
-      "updatedAt": 1774932962430,
+      "updatedAt": 1774933621968,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Jozye 4:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
       "createdAt": 1774932962430,
-      "updatedAt": 1774932962430,
+      "updatedAt": 1774933621968,
       "status": "active"
     },
     {
@@ -157,5 +163,5 @@
       "status": "active"
     }
   ],
-  "sha": "3dc07177acf06cbe3ba98855df60563efc9ba4ff"
+  "sha": "92ca149a95d2f0720dba65f073de0662a3967b24"
 }
