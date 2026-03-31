@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774933022459,
+  "updatedAt": 1774933082454,
   "version": 1,
   "comments": [
     {
@@ -134,10 +134,12 @@
       "verseName": "Daily Verse",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "local-device"
+      ],
       "createdAt": 1774927981888,
-      "updatedAt": 1774932123285,
+      "updatedAt": 1774933082454,
       "status": "active"
     },
     {
@@ -151,9 +153,9 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1774927682330,
-      "updatedAt": 1774927682330,
+      "updatedAt": 1774933082454,
       "status": "active"
     }
   ],
-  "sha": "c98bf9283bf6b6994d0bc8bfb2f97580cbe99abc"
+  "sha": "3dc07177acf06cbe3ba98855df60563efc9ba4ff"
 }
