@@ -1,9 +1,25 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774928161849,
+  "updatedAt": 1774929542301,
   "version": 1,
   "comments": [
+    {
+      "id": "c_live_776f5a1b2c",
+      "text": "Live pipeline test on 2026-03-31",
+      "userDeviceId": "did_live_test",
+      "userName": "LiveTester",
+      "verseName": "Current Verse Of The Day",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "did_live_test"
+      ],
+      "createdAt": 1774929542301,
+      "updatedAt": 1774929542301,
+      "status": "active"
+    },
     {
       "id": "c_probe_1",
       "text": "probe",
@@ -63,5 +79,5 @@
       "status": "active"
     }
   ],
-  "sha": "60393ad9697bae0966f103877395f02c36b923bf"
+  "sha": "27f34a3c6419a9180b50ebdaba7e4cec5ae21b18"
 }
