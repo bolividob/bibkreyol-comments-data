@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774980604809,
+  "updatedAt": 1774980662357,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774980578762",
+      "text": "I agree with the idea sir",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774980545084",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774980662357,
+      "updatedAt": 1774980662357,
+      "status": "active"
+    },
     {
       "id": "local-1774980443048",
       "text": "more test yes",
@@ -267,5 +281,5 @@
       "status": "active"
     }
   ],
-  "sha": "f00ddf3aca059a05f276aea2f049a5843adf025e"
+  "sha": "d632a66f925bd5e72a4534f0796f4f60bd8f4f30"
 }
