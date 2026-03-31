@@ -1,9 +1,41 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774929542301,
+  "updatedAt": 1774929902674,
   "version": 1,
   "comments": [
+    {
+      "id": "c_live_66fb7908",
+      "text": "Live test comment for today",
+      "userDeviceId": "did_live_test",
+      "userName": "LiveTester",
+      "verseName": "Current Verse of the Day",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "did_live_test"
+      ],
+      "createdAt": 1774929902674,
+      "updatedAt": 1774929902674,
+      "status": "active"
+    },
+    {
+      "id": "c_live_89ad89",
+      "text": "Live test marker 89ad89",
+      "userDeviceId": "did_live_trace",
+      "userName": "LiveTester",
+      "verseName": "Current Verse of the Day",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "did_live_trace"
+      ],
+      "createdAt": 1774929902674,
+      "updatedAt": 1774929902674,
+      "status": "active"
+    },
     {
       "id": "c_live_776f5a1b2c",
       "text": "Live pipeline test on 2026-03-31",
@@ -79,5 +111,5 @@
       "status": "active"
     }
   ],
-  "sha": "27f34a3c6419a9180b50ebdaba7e4cec5ae21b18"
+  "sha": "1c925eb6d0e6b8918e0445651420df1c0f1918e0"
 }
