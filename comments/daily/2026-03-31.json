@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774933621968,
+  "updatedAt": 1774933862747,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774933789531",
+      "text": "reby by james",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "c_live_66fb7908",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774933862747,
+      "updatedAt": 1774933862747,
+      "status": "active"
+    },
     {
       "id": "local-1774932987163",
       "text": "hi, salu",
@@ -33,7 +47,7 @@
         "571e4caf-ac47-4690-93d2-790913c6d0e4"
       ],
       "createdAt": 1774932962430,
-      "updatedAt": 1774933621968,
+      "updatedAt": 1774933862747,
       "status": "active"
     },
     {
@@ -59,14 +73,14 @@
       "userName": "LiveTester",
       "verseName": "Current Verse of the Day",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 2,
       "likedBy": [
         "did_live_test",
         "local-device"
       ],
       "createdAt": 1774929902674,
-      "updatedAt": 1774933022459,
+      "updatedAt": 1774933862747,
       "status": "active"
     },
     {
@@ -163,5 +177,5 @@
       "status": "active"
     }
   ],
-  "sha": "92ca149a95d2f0720dba65f073de0662a3967b24"
+  "sha": "2b5a15cd76eed1de18c108629e2d8d7a3f62c099"
 }
