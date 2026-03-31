@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774972621936,
+  "updatedAt": 1774980542396,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774980443048",
+      "text": "more test yes",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774971814167",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774980542396,
+      "updatedAt": 1774980542396,
+      "status": "active"
+    },
     {
       "id": "local-1774972530522",
       "text": "new comment style",
@@ -253,5 +267,5 @@
       "status": "active"
     }
   ],
-  "sha": "d1dd96c5d768c2bfe711e912777362bda69b0287"
+  "sha": "77388f15d8caa97e58bfcd44d2c84bf0e7c4c45c"
 }
