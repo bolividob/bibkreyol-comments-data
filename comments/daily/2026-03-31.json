@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774929902674,
+  "updatedAt": 1774931484418,
   "version": 1,
   "comments": [
     {
@@ -28,12 +28,13 @@
       "verseName": "Current Verse of the Day",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "did_live_trace"
+        "did_live_trace",
+        "local-device"
       ],
       "createdAt": 1774929902674,
-      "updatedAt": 1774929902674,
+      "updatedAt": 1774931484418,
       "status": "active"
     },
     {
@@ -111,5 +112,5 @@
       "status": "active"
     }
   ],
-  "sha": "1c925eb6d0e6b8918e0445651420df1c0f1918e0"
+  "sha": "2b120a8f2fa0c74f5e2981763200901a1163201e"
 }
