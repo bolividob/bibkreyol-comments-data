@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774933922386,
+  "updatedAt": 1774964041871,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774963988441",
+      "text": "amen",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "c_probe_1",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774964041871,
+      "updatedAt": 1774964041871,
+      "status": "active"
+    },
     {
       "id": "local-1774933810647",
       "text": "Remy by me",
@@ -151,11 +165,13 @@
       "userName": "probe",
       "verseName": "Daily Verse",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
       "createdAt": 1774928161849,
-      "updatedAt": 1774928161849,
+      "updatedAt": 1774964041871,
       "status": "active"
     },
     {
@@ -205,5 +221,5 @@
       "status": "active"
     }
   ],
-  "sha": "d4054c3870fb7b9f692ba8f35d55c9a6b0b70865"
+  "sha": "daa0fc7b0775006b7bb4dcbc86ad0cbe5c941b6b"
 }
