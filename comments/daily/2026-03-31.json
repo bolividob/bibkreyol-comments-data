@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
   "verseKey": "daily:2026-03-31",
-  "updatedAt": 1774964041871,
+  "updatedAt": 1774972563450,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1774972506270",
+      "text": "kaman nou ye",
+      "userDeviceId": "571e4caf-ac47-4690-93d2-790913c6d0e4",
+      "userName": "James",
+      "verseName": "Jozye 4:4",
+      "parentId": "local-1774933831480",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1774972563450,
+      "updatedAt": 1774972563450,
+      "status": "active"
+    },
     {
       "id": "local-1774963988441",
       "text": "amen",
@@ -39,11 +53,13 @@
       "userName": "James",
       "verseName": "Jozye 4:4",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
+      ],
       "createdAt": 1774933922386,
-      "updatedAt": 1774933922386,
+      "updatedAt": 1774972563450,
       "status": "active"
     },
     {
@@ -182,12 +198,13 @@
       "verseName": "Daily Verse",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "did_smoke2"
+        "did_smoke2",
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
       ],
       "createdAt": 1774928161849,
-      "updatedAt": 1774928161849,
+      "updatedAt": 1774972563450,
       "status": "active"
     },
     {
@@ -198,12 +215,13 @@
       "verseName": "Daily Verse",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "local-device"
+        "local-device",
+        "571e4caf-ac47-4690-93d2-790913c6d0e4"
       ],
       "createdAt": 1774927981888,
-      "updatedAt": 1774933082454,
+      "updatedAt": 1774972563450,
       "status": "active"
     },
     {
@@ -221,5 +239,5 @@
       "status": "active"
     }
   ],
-  "sha": "daa0fc7b0775006b7bb4dcbc86ad0cbe5c941b6b"
+  "sha": "15abe675a5885a216dab4325845a45fa8a642f9b"
 }
