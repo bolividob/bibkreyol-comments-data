@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
   "verseKey": "daily:2026-04-01",
-  "updatedAt": 1775011519967,
+  "updatedAt": 1775012942274,
   "version": 1,
   "comments": [
     {
@@ -12,11 +12,14 @@
       "verseName": "Lik 9:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "95b36b1e-a1b1-4c19-aef0-2475e5921498"
+      ],
       "createdAt": 1775011519967,
-      "updatedAt": 1775011519967,
+      "updatedAt": 1775012942274,
       "status": "active"
     }
-  ]
+  ],
+  "sha": "905e7325bda01dc73c11b150911bbd8faff0fd62"
 }
