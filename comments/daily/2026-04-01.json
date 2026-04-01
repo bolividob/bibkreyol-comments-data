@@ -1,9 +1,23 @@
 {
   "date": "2026-04-01",
   "verseKey": "daily:2026-04-01",
-  "updatedAt": 1775012992931,
+  "updatedAt": 1775013135071,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775013129376",
+      "text": "!st reply in its kind!",
+      "userDeviceId": "95b36b1e-a1b1-4c19-aef0-2475e5921498",
+      "userName": "Boli",
+      "verseName": "Lik 9:5",
+      "parentId": "local-1775011514615",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775013135070,
+      "updatedAt": 1775013135070,
+      "status": "active"
+    },
     {
       "id": "local-1775011514615",
       "text": "Hi - This is the 1st comment creation in its kind.",
@@ -11,15 +25,15 @@
       "userName": "James",
       "verseName": "Lik 9:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "95b36b1e-a1b1-4c19-aef0-2475e5921498"
       ],
       "createdAt": 1775011519967,
-      "updatedAt": 1775012992931,
+      "updatedAt": 1775013135070,
       "status": "active"
     }
   ],
-  "sha": "b44357c42c0abeea50381f218805105e13f897c5"
+  "sha": "f1eb8f5802dd639bd1e509a4351486da1e1d4e5b"
 }
