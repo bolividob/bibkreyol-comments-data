@@ -1,9 +1,23 @@
 {
   "date": "2026-04-03",
   "verseKey": "daily:2026-04-03",
-  "updatedAt": 1775182776709,
+  "updatedAt": 1775193366829,
   "version": 1,
   "comments": [
+    {
+      "id": "smoke-1",
+      "text": "t",
+      "userDeviceId": "smoke",
+      "userName": "u",
+      "verseName": "v",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775193366829,
+      "updatedAt": 1775193366829,
+      "status": "active"
+    },
     {
       "id": "local-1775182770330",
       "text": "test comment 1st",
@@ -18,5 +32,6 @@
       "updatedAt": 1775182776709,
       "status": "active"
     }
-  ]
+  ],
+  "sha": "14136f91b6157ce4964e4e1d9ab2fdd60aaaf0c0"
 }
