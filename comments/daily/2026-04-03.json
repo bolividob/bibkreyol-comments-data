@@ -1,9 +1,23 @@
 {
   "date": "2026-04-03",
   "verseKey": "daily:2026-04-03",
-  "updatedAt": 1775193373813,
+  "updatedAt": 1775196576001,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775196574277",
+      "text": "is This reading through the function",
+      "userDeviceId": "f8ee2254-c172-4482-bf7e-16a1168f6b5e",
+      "userName": "James",
+      "verseName": "Levitik 8:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775196576001,
+      "updatedAt": 1775196576001,
+      "status": "active"
+    },
     {
       "id": "smoke-1",
       "text": "t",
@@ -33,5 +47,5 @@
       "status": "active"
     }
   ],
-  "sha": "53b8abc109f9eb600cefb9816e8dfd80f3a19d2a"
+  "sha": "f68cfb3cbced0f973641e8024c05fcf667c97c89"
 }
