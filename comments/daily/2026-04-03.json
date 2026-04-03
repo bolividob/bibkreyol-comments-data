@@ -1,9 +1,23 @@
 {
   "date": "2026-04-03",
   "verseKey": "daily:2026-04-03",
-  "updatedAt": 1775196576001,
+  "updatedAt": 1775196903351,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775196901841",
+      "text": "Is this posting through the function on iOS",
+      "userDeviceId": "511CF6C1-2A62-4F32-B742-9275EA49024C",
+      "userName": "james Boli",
+      "verseName": "Levitik 8:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775196903351,
+      "updatedAt": 1775196903351,
+      "status": "active"
+    },
     {
       "id": "local-1775196574277",
       "text": "is This reading through the function",
@@ -47,5 +61,5 @@
       "status": "active"
     }
   ],
-  "sha": "f68cfb3cbced0f973641e8024c05fcf667c97c89"
+  "sha": "68715ecab9a3a23572a60d49fbd648afdf11b6d7"
 }
