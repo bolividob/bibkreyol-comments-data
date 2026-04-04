@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
   "verseKey": "daily:2026-04-04",
-  "updatedAt": 1775314277561,
+  "updatedAt": 1775314284876,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Tesalonisyen 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "511CF6C1-2A62-4F32-B742-9275EA49024C"
+      ],
       "createdAt": 1775314277561,
-      "updatedAt": 1775314277561,
+      "updatedAt": 1775314284876,
       "status": "active"
     }
   ],
