@@ -1,9 +1,24 @@
 {
   "date": "2026-04-04",
   "verseKey": "daily:2026-04-04",
-  "updatedAt": 1775314243425,
+  "updatedAt": 1775314277561,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1775314276354",
+      "text": "Mesi YHWY",
+      "userDeviceId": "511CF6C1-2A62-4F32-B742-9275EA49024C",
+      "userName": "james Boli",
+      "verseName": "2 Tesalonisyen 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775314277561,
+      "updatedAt": 1775314277561,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
   "shareCount": 1,
   "viewCount": 1,
