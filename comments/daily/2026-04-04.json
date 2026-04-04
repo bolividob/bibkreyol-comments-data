@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
   "verseKey": "daily:2026-04-04",
-  "updatedAt": 1775314284876,
+  "updatedAt": 1775314294813,
   "version": 1,
   "comments": [
     {
@@ -21,10 +21,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 0,
+  "likeCount": 1,
   "shareCount": 1,
   "viewCount": 1,
-  "verseLikedBy": [],
+  "verseLikedBy": [
+    "511CF6C1-2A62-4F32-B742-9275EA49024C"
+  ],
   "verseViewBy": [
     "511CF6C1-2A62-4F32-B742-9275EA49024C"
   ]
