@@ -1,9 +1,23 @@
 {
   "date": "2026-04-05",
   "verseKey": "daily:2026-04-05",
-  "updatedAt": 1775348916986,
+  "updatedAt": 1775349036442,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775349035210",
+      "text": "First reply for Amber baby! 😘😍",
+      "userDeviceId": "511CF6C1-2A62-4F32-B742-9275EA49024C",
+      "userName": "james Boli",
+      "verseName": "Travay 11:2",
+      "parentId": "local-1775348835597",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775349036442,
+      "updatedAt": 1775349036442,
+      "status": "active"
+    },
     {
       "id": "local-1775348835597",
       "text": "Amber is beautiful!",
@@ -11,11 +25,11 @@
       "userName": "james Boli",
       "verseName": "Travay 11:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1775348836788,
-      "updatedAt": 1775348836788,
+      "updatedAt": 1775349036442,
       "status": "active"
     }
   ],
