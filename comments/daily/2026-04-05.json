@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
   "verseKey": "daily:2026-04-05",
-  "updatedAt": 1775396290289,
+  "updatedAt": 1775396297260,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Travay 11:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+      ],
       "createdAt": 1775396290289,
-      "updatedAt": 1775396290289,
+      "updatedAt": 1775396297260,
       "status": "active"
     },
     {
