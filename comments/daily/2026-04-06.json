@@ -1,9 +1,23 @@
 {
   "date": "2026-04-06",
   "verseKey": "daily:2026-04-06",
-  "updatedAt": 1775495621592,
+  "updatedAt": 1775495667139,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775495665837",
+      "text": "How are you going to test it?",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "James",
+      "verseName": "Sofonyas 3:3",
+      "parentId": "local-1775495250535",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775495667139,
+      "updatedAt": 1775495667139,
+      "status": "active"
+    },
     {
       "id": "local-1775495620294",
       "text": "Maybe it’s fixed now, no complaints",
@@ -25,11 +39,11 @@
       "userName": "James",
       "verseName": "Sofonyas 3:3",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1775495251802,
-      "updatedAt": 1775495621591,
+      "updatedAt": 1775495667139,
       "status": "active"
     },
     {
