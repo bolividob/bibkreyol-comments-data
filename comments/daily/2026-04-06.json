@@ -1,122 +1,13 @@
 {
   "date": "2026-04-06",
   "verseKey": "daily:2026-04-06",
-  "updatedAt": 1775500625669,
+  "updatedAt": 1775505241827,
   "version": 1,
-  "comments": [
-    {
-      "id": "local-1775496231942",
-      "text": "Bel travail Jamhson Ave ed cursor",
-      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-      "userName": "Anonime",
-      "verseName": "Sofonyas 3:3",
-      "parentId": "local-1775495250535",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775496233316,
-      "updatedAt": 1775496233316,
-      "status": "active"
-    },
-    {
-      "id": "local-1775495665837",
-      "text": "How are you going to test it?",
-      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-      "userName": "James",
-      "verseName": "Sofonyas 3:3",
-      "parentId": "local-1775495250535",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775495667139,
-      "updatedAt": 1775495667139,
-      "status": "active"
-    },
-    {
-      "id": "local-1775495620294",
-      "text": "Maybe it’s fixed now, no complaints",
-      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-      "userName": "Fre Charles",
-      "verseName": "Sofonyas 3:3",
-      "parentId": "local-1775495250535",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775495621591,
-      "updatedAt": 1775495621591,
-      "status": "active"
-    },
-    {
-      "id": "local-1775495250535",
-      "text": "Let’s test the username bugs fixes",
-      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-      "userName": "James",
-      "verseName": "Sofonyas 3:3",
-      "parentId": null,
-      "replyCount": 3,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775495251802,
-      "updatedAt": 1775496233316,
-      "status": "active"
-    },
-    {
-      "id": "local-1775493294422",
-      "text": "kk",
-      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-      "userName": "James",
-      "verseName": "Sofonyas 3:3",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775493295672,
-      "updatedAt": 1775493295672,
-      "status": "active"
-    },
-    {
-      "id": "local-1775458246972",
-      "text": "I am okay with this rotation for now! hopefully it sync through.",
-      "userDeviceId": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
-      "userName": "James Boli",
-      "verseName": "Sofonyas 3:3",
-      "parentId": "local-1775433861451",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775458248159,
-      "updatedAt": 1775458248159,
-      "status": "active"
-    },
-    {
-      "id": "local-1775433861451",
-      "text": "New verse of the day must be utc.",
-      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-      "userName": "Fre Charles",
-      "verseName": "Sofonyas 3:3",
-      "parentId": null,
-      "replyCount": 1,
-      "likeCount": 1,
-      "likedBy": [
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
-      ],
-      "createdAt": 1775433862542,
-      "updatedAt": 1775493160286,
-      "status": "active"
-    }
-  ],
-  "likeCount": 3,
-  "shareCount": 3,
-  "viewCount": 4,
-  "verseLikedBy": [
-    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
-    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
-  ],
-  "verseViewBy": [
-    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
-    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
-  ]
+  "comments": [],
+  "likeCount": 0,
+  "shareCount": 0,
+  "viewCount": 0,
+  "verseLikedBy": [],
+  "verseViewBy": [],
+  "usernameRegistry": {}
 }
