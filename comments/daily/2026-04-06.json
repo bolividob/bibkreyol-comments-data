@@ -1,9 +1,23 @@
 {
   "date": "2026-04-06",
   "verseKey": "daily:2026-04-06",
-  "updatedAt": 1775458191659,
+  "updatedAt": 1775458248159,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775458246972",
+      "text": "I am okay with this rotation for now! hopefully it sync through.",
+      "userDeviceId": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+      "userName": "James Boli",
+      "verseName": "Sofonyas 3:3",
+      "parentId": "local-1775433861451",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775458248159,
+      "updatedAt": 1775458248159,
+      "status": "active"
+    },
     {
       "id": "local-1775433861451",
       "text": "New verse of the day must be utc.",
@@ -11,11 +25,11 @@
       "userName": "Fre Charles",
       "verseName": "Sofonyas 3:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1775433862542,
-      "updatedAt": 1775433862542,
+      "updatedAt": 1775458248159,
       "status": "active"
     }
   ],
