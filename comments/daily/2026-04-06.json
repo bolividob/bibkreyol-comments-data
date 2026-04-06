@@ -1,9 +1,24 @@
 {
   "date": "2026-04-06",
   "verseKey": "daily:2026-04-06",
-  "updatedAt": 1775433812500,
+  "updatedAt": 1775433862542,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1775433861451",
+      "text": "New verse of the day must be utc.",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Fre Charles",
+      "verseName": "Sofonyas 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775433862542,
+      "updatedAt": 1775433862542,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
   "shareCount": 0,
   "viewCount": 1,
