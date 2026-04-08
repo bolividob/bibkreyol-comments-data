@@ -15,6 +15,12 @@
     "bok": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
   },
   "shareCount": 4,
+  "verseLikedBy": [
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+  ],
+  "likeCount": 3,
   "comments": [
     {
       "id": "local-1775615399574",
@@ -115,11 +121,13 @@
       "userName": "Fre",
       "verseName": "1 Timote 3:4",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 2,
+      "likeCount": 1,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+      ],
       "createdAt": 1775616734127,
-      "updatedAt": 1775616734127,
+      "updatedAt": 1775618749797,
       "status": "active"
     },
     {
@@ -129,11 +137,14 @@
       "userName": "James",
       "verseName": "1 Timote 3:4",
       "parentId": null,
-      "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 2,
+      "likeCount": 2,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+      ],
       "createdAt": 1775616755713,
-      "updatedAt": 1775616755713,
+      "updatedAt": 1775618741553,
       "status": "active"
     },
     {
@@ -149,13 +160,49 @@
       "createdAt": 1775618568746,
       "updatedAt": 1775618568746,
       "status": "active"
+    },
+    {
+      "id": "local-1775618651103",
+      "text": "Who is amazing?",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775616755385",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775618651274,
+      "updatedAt": 1775618651274,
+      "status": "active"
+    },
+    {
+      "id": "local-1775618780204",
+      "text": "What time?",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775616733905",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775618780395,
+      "updatedAt": 1775618780395,
+      "status": "active"
+    },
+    {
+      "id": "local-1775618824070",
+      "text": "Keep waiting then!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": "local-1775616733905",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775618824276,
+      "updatedAt": 1775618824276,
+      "status": "active"
     }
   ],
-  "verseLikedBy": [
-    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
-  ],
-  "likeCount": 3,
-  "updatedAt": 1775618616484
+  "updatedAt": 1775618824276
 }
