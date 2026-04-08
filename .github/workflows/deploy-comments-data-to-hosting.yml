@@ -1,0 +1,80 @@
+# --- WHERE THIS FILE BELONGS (read first) ---
+# This workflow must LIVE ONLY in the comments data repository — NOT in bolivido/BibKreyol:
+#   Repo:  https://github.com/bolividob/bibkreyol-comments-data
+#   Path:  .github/workflows/deploy-comments-data-to-hosting.yml
+# Copy this file from BibKreyol (same content) into that repo, commit, and add secret FIREBASE_TOKEN.
+# Do not add comments-hosting deploy workflows to the BibKreyol Android repo.
+#
+# Required secret on bibkreyol-comments-data: FIREBASE_TOKEN (from: firebase login:ci)
+# Deploys Firebase Hosting for project bib-kreyol-99d07 only.
+
+name: Deploy comments JSON to Firebase Hosting
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'comments/daily/**'
+  workflow_dispatch:
+
+concurrency:
+  group: firebase-hosting-comments-data
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stage files for Hosting (public/comments/daily/*.json)
+        run: |
+          set -euo pipefail
+          mkdir -p public/comments/daily
+          if [ ! -d comments/daily ]; then
+            echo "Missing comments/daily directory."
+            exit 1
+          fi
+          shopt -s nullglob
+          files=(comments/daily/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No comments/daily/*.json files to deploy."
+            exit 1
+          fi
+          cp -v "${files[@]}" public/comments/daily/
+          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>Comments</title></head><body><p>Hosting for daily JSON.</p></body></html>' > public/index.html
+
+      - name: Write firebase.json and .firebaserc
+        run: |
+          cat > firebase.json << 'EOF'
+          {
+            "hosting": {
+              "public": "public",
+              "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+              "headers": [
+                {
+                  "source": "/comments/daily/**",
+                  "headers": [
+                    {
+                      "key": "Cache-Control",
+                      "value": "public, max-age=0, s-maxage=30"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+          EOF
+          echo '{"projects":{"default":"bib-kreyol-99d07"}}' > .firebaserc
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Firebase CLI
+        run: npm install -g firebase-tools
+
+      - name: Deploy Hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: firebase deploy --only hosting --project bib-kreyol-99d07 --non-interactive
