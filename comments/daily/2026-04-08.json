@@ -20,6 +20,7 @@
     "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
   ],
   "likeCount": 3,
+  "shareCount": 5,
   "comments": [
     {
       "id": "local-1775615399574",
@@ -75,10 +76,12 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
       "createdAt": 1775616636003,
-      "updatedAt": 1775616636003,
+      "updatedAt": 1775653042478,
       "status": "active"
     },
     {
@@ -89,10 +92,12 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
       "createdAt": 1775616675727,
-      "updatedAt": 1775616675727,
+      "updatedAt": 1775653040346,
       "status": "active"
     },
     {
@@ -121,12 +126,13 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 2,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
       ],
       "createdAt": 1775616734127,
-      "updatedAt": 1775618749797,
+      "updatedAt": 1775653045739,
       "status": "active"
     },
     {
@@ -201,8 +207,23 @@
       "createdAt": 1775618824276,
       "updatedAt": 1775618824276,
       "status": "active"
+    },
+    {
+      "id": "local-1775653072886",
+      "text": "Mwen like komante tout moun!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+      ],
+      "createdAt": 1775653073075,
+      "updatedAt": 1775653180096,
+      "status": "active"
     }
   ],
-  "shareCount": 5,
-  "updatedAt": 1775647756804
+  "updatedAt": 1775653550092
 }
