@@ -15,6 +15,7 @@ on:
     branches: [main, master]
     paths:
       - 'comments/daily/**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 concurrency:
