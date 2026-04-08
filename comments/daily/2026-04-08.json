@@ -2,12 +2,6 @@
   "date": "2026-04-08",
   "verseKey": "daily:2026-04-08",
   "version": 1,
-  "verseViewBy": [
-    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-  ],
-  "viewCount": 3,
   "usernameRegistry": {
     "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
     "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
@@ -20,7 +14,6 @@
     "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
   ],
   "likeCount": 3,
-  "shareCount": 5,
   "comments": [
     {
       "id": "local-1775615399574",
@@ -253,5 +246,13 @@
       "status": "active"
     }
   ],
-  "updatedAt": 1775654638059
+  "verseViewBy": [
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "21406A60-B9C1-44D6-BD43-00204C94E430"
+  ],
+  "viewCount": 4,
+  "shareCount": 6,
+  "updatedAt": 1775665193440
 }
