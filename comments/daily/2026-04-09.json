@@ -1,9 +1,24 @@
 {
   "date": "2026-04-09",
   "verseKey": "daily:2026-04-09",
-  "updatedAt": 1775698867364,
+  "updatedAt": 1775699345493,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1775699344231",
+      "text": "This is cool!!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "James",
+      "verseName": "Amòs 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775699345493,
+      "updatedAt": 1775699345493,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
   "shareCount": 0,
   "viewCount": 2,
