@@ -1,9 +1,24 @@
 {
   "date": "2026-04-09",
   "verseKey": "daily:2026-04-09",
-  "updatedAt": 1775707491244,
+  "updatedAt": 1775707587032,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1775707585740",
+      "text": "I don’t see this comment on GitHub.",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Boliva",
+      "verseName": "Amòs 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775707587032,
+      "updatedAt": 1775707587032,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
   "shareCount": 0,
   "viewCount": 3,
