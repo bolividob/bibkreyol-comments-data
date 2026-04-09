@@ -1,27 +1,19 @@
 {
   "date": "2026-04-09",
   "verseKey": "daily:2026-04-09",
-  "updatedAt": 1775713525812,
+  "updatedAt": 1775714041837,
   "version": 1,
-  "comments": [
-    {
-      "id": "local-1775713524587",
-      "text": "Good night everyone!",
-      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-      "userName": "Boliva",
-      "verseName": "Amòs 7:5",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775713525812,
-      "updatedAt": 1775713525812,
-      "status": "active"
-    }
-  ],
+  "comments": [],
   "likeCount": 0,
   "shareCount": 0,
   "viewCount": 0,
   "verseLikedBy": [],
-  "verseViewBy": []
+  "verseViewBy": [],
+  "usernameRegistry": {
+    "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "james": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "bok": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "james boli": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
+  }
 }
