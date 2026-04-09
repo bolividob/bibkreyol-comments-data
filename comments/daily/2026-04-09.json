@@ -5,6 +5,14 @@
   "verseKey": "daily:2026-04-09",
   "likeCount": 0,
   "version": 1,
+  "usernameRegistry": {
+    "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "james": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "bok": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "james boli": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+    "boliva": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+  },
   "comments": [
     {
       "id": "local-1775748014372",
@@ -13,21 +21,60 @@
       "userName": "James Boli",
       "verseName": "Amòs 7:5",
       "parentId": null,
+      "replyCount": 2,
+      "likeCount": 3,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+      ],
+      "createdAt": 1775748028894,
+      "updatedAt": 1775749998762,
+      "status": "active"
+    },
+    {
+      "id": "local-1775749695153",
+      "text": "Mwn resevwa la!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Boliva",
+      "verseName": "Amòs 7:5",
+      "parentId": "local-1775748014372",
       "replyCount": 0,
       "likeCount": 0,
       "likedBy": [],
-      "createdAt": 1775748028894,
-      "updatedAt": 1775748028894,
+      "createdAt": 1775749695335,
+      "updatedAt": 1775749695335,
+      "status": "active"
+    },
+    {
+      "id": "local-1775749907422",
+      "text": "Si nou renmin twavay la bat bravo!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Boliva",
+      "verseName": "Amòs 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775749907683,
+      "updatedAt": 1775749907683,
+      "status": "active"
+    },
+    {
+      "id": "local-1775750021038",
+      "text": "Amen!!",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "Amòs 7:5",
+      "parentId": "local-1775748014372",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775750021347,
+      "updatedAt": 1775750021347,
       "status": "active"
     }
   ],
-  "usernameRegistry": {
-    "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-    "james": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "bok": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-    "james boli": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b"
-  },
   "verseViewBy": [
     "4D9A16E3-84AF-46A1-8007-B98C2527CC5C",
     "DD922B8A-F85C-47BC-8EBF-E3654E537B93",
@@ -40,8 +87,12 @@
     "46746589-1C75-4FDC-8C87-1FDA8B5B85D8",
     "C70A179D-7484-4281-AD5D-9283BCD8574E",
     "33FA8AD8-9717-4ED8-9B85-97EC73777627",
-    "4B3FE3E8-F86B-4D5E-8CD6-2153AFE5CF00"
+    "4B3FE3E8-F86B-4D5E-8CD6-2153AFE5CF00",
+    "5032B483-9F52-465F-A2EC-3ABA422C65AB",
+    "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+    "9F421BF1-B9DE-477F-AE82-6550B0C7FA81",
+    "88892475-4094-4E5F-9797-D34A9BD5A2BD"
   ],
-  "viewCount": 12,
-  "updatedAt": 1775749136144
+  "viewCount": 16,
+  "updatedAt": 1775750036948
 }
