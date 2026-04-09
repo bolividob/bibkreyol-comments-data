@@ -5,7 +5,12 @@
 # Copy this file from BibKreyol (same content) into that repo, commit, and add secret FIREBASE_TOKEN.
 # Do not add comments-hosting deploy workflows to the BibKreyol Android repo.
 #
-# Required secret on bibkreyol-comments-data: FIREBASE_TOKEN (from: firebase login:ci)
+# High commit churn (many pushes/minute):
+#   concurrency.cancel-in-progress keeps only the latest deploy; older runs stop (saves queue + partial minutes).
+#   If commits are extremely frequent, batch writes in your backend (e.g. Cloud Function) so GitHub
+#   receives fewer pushes — GitHub Actions is event-per-push, not "infinite throughput" like Functions.
+#
+# Required secret on bibkreyol-comments-data: FIREBASE_TOKEN (from `firebase login:ci`)
 # Deploys Firebase Hosting for project bib-kreyol-99d07 only.
 
 name: Deploy comments JSON to Firebase Hosting
@@ -23,16 +28,21 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  # Pin CLI so npm cache stays valid; bump when you want newer firebase-tools.
   FIREBASE_TOOLS_VERSION: "13.29.3"
+
+permissions:
+  contents: read
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
-      - name: Cache npm (speeds up firebase-tools install)
+      - name: Cache npm (npx firebase-tools)
         uses: actions/cache@v4
         with:
           path: ~/.npm
@@ -84,10 +94,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Firebase CLI
-        run: npm install -g firebase-tools@${{ env.FIREBASE_TOOLS_VERSION }}
-
-      - name: Deploy Hosting
+      - name: Deploy to Firebase Hosting
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-        run: firebase deploy --only hosting --project bib-kreyol-99d07 --non-interactive
+        run: npx --yes firebase-tools@${{ env.FIREBASE_TOOLS_VERSION }} deploy --only hosting --project bib-kreyol-99d07 --non-interactive
