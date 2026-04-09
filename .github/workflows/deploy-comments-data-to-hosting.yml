@@ -12,6 +12,9 @@
 #
 # Required secret on bibkreyol-comments-data: FIREBASE_TOKEN (from `firebase login:ci`)
 # Deploys Firebase Hosting for project bib-kreyol-99d07 only.
+#
+# PAUSED: the `deploy` job uses `if: false` so push/workflow_dispatch no-ops until you set it back.
+# You can also disable the workflow in GitHub: Actions → this workflow → … → Disable workflow.
 
 name: Deploy comments JSON to Firebase Hosting
 
@@ -35,6 +38,8 @@ permissions:
 
 jobs:
   deploy:
+    # PAUSED — set to `true` (or remove this line) to resume Firebase Hosting deploys
+    if: false
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
