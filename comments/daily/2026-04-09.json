@@ -1,9 +1,23 @@
 {
   "date": "2026-04-09",
   "verseKey": "daily:2026-04-09",
-  "updatedAt": 1775699345493,
+  "updatedAt": 1775699460662,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775699459528",
+      "text": "Yes waiting until tomorrow!",
+      "userDeviceId": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+      "userName": "James Boli",
+      "verseName": "Amòs 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775699460662,
+      "updatedAt": 1775699460662,
+      "status": "active"
+    },
     {
       "id": "local-1775699344231",
       "text": "This is cool!!",
