@@ -15,106 +15,6 @@
     "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B",
     "galnick": "D0AF61D3-BBEC-4F90-8F6E-D41D1266CABF"
   },
-  "comments": [
-    {
-      "id": "local-1775783676842",
-      "text": "Bondye beni nou tout!",
-      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-      "userName": "Boliva",
-      "verseName": "Jak 5:2",
-      "parentId": null,
-      "replyCount": 2,
-      "likeCount": 4,
-      "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-        "76a29fc0-3cef-48e1-8f51-cb570711b884",
-        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-      ],
-      "createdAt": 1775783677113,
-      "updatedAt": 1775791750562,
-      "status": "active"
-    },
-    {
-      "id": "local-1775785591397",
-      "text": "Mesi a nou tout ki rend travay sa posib!",
-      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
-      "userName": "Diesibon",
-      "verseName": "Jak 5:2",
-      "parentId": "local-1775783676842",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775785596314,
-      "updatedAt": 1775785596314,
-      "status": "active"
-    },
-    {
-      "id": "local-1775786167290",
-      "text": "Mwen resevwa li fre pam!",
-      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-      "userName": "Bok",
-      "verseName": "Amòs 7:5",
-      "parentId": "local-1775783676842",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775786167642,
-      "updatedAt": 1775786167642,
-      "status": "active"
-    },
-    {
-      "id": "local-1775790641680",
-      "text": "Hi - How are you guys doing?",
-      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-      "userName": "Fre",
-      "verseName": "Jak 5:2",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 3,
-      "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-      ],
-      "createdAt": 1775790641824,
-      "updatedAt": 1775791745737,
-      "status": "active"
-    },
-    {
-      "id": "local-1775790989088",
-      "text": "Good night guys! Thanks for this app!",
-      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-      "userName": "Bok",
-      "verseName": "Amòs 7:5",
-      "parentId": null,
-      "replyCount": 1,
-      "likeCount": 3,
-      "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-      ],
-      "createdAt": 1775790989303,
-      "updatedAt": 1775791740604,
-      "status": "active"
-    },
-    {
-      "id": "local-1775791086430",
-      "text": "Thanks you too sir!",
-      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-      "userName": "Fre",
-      "verseName": "Jak 5:2",
-      "parentId": "local-1775790989088",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775791086823,
-      "updatedAt": 1775791086823,
-      "status": "active"
-    }
-  ],
-  "shareCount": 19,
   "verseLikedBy": [
     "76a29fc0-3cef-48e1-8f51-cb570711b884",
     "1B07EF53-481A-4FFD-B167-6E3054CD9216",
@@ -476,8 +376,130 @@
     "CEAB6F97-B9F1-4A03-8CE6-F29637DD5A15",
     "E1CB6BFB-1FCF-4984-BB49-5B3E2C890263",
     "12893340-72B0-4C17-8005-EAE181F5BE57",
-    "7BEF9D61-4BC7-410C-BF00-CAA19D7EF376"
+    "7BEF9D61-4BC7-410C-BF00-CAA19D7EF376",
+    "D981C528-B9A9-4DF4-8CD4-01BB1A2551C2",
+    "B7675214-47EC-4F0B-8D8E-F65B24A6D5D4",
+    "7573587A-A380-4709-86DF-39B47CBEB0BB",
+    "0BE4F1C2-4FDC-4C14-9DC0-7DF81E6AFE33",
+    "6A08B925-4690-4BDA-9204-8ABB6C19E2E9",
+    "9CDA5843-1DCC-4453-81BD-1341EAA828D7"
   ],
-  "viewCount": 348,
-  "updatedAt": 1775836216040
+  "viewCount": 354,
+  "shareCount": 20,
+  "comments": [
+    {
+      "id": "local-1775783676842",
+      "text": "Bondye beni nou tout!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Boliva",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 2,
+      "likeCount": 4,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "76a29fc0-3cef-48e1-8f51-cb570711b884",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+      ],
+      "createdAt": 1775783677113,
+      "updatedAt": 1775791750562,
+      "status": "active"
+    },
+    {
+      "id": "local-1775785591397",
+      "text": "Mesi a nou tout ki rend travay sa posib!",
+      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
+      "userName": "Diesibon",
+      "verseName": "Jak 5:2",
+      "parentId": "local-1775783676842",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775785596314,
+      "updatedAt": 1775785596314,
+      "status": "active"
+    },
+    {
+      "id": "local-1775786167290",
+      "text": "Mwen resevwa li fre pam!",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "Amòs 7:5",
+      "parentId": "local-1775783676842",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775786167642,
+      "updatedAt": 1775786167642,
+      "status": "active"
+    },
+    {
+      "id": "local-1775790641680",
+      "text": "Hi - How are you guys doing?",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 3,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+      ],
+      "createdAt": 1775790641824,
+      "updatedAt": 1775791745737,
+      "status": "active"
+    },
+    {
+      "id": "local-1775790989088",
+      "text": "Good night guys! Thanks for this app!",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "Amòs 7:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 3,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+      ],
+      "createdAt": 1775790989303,
+      "updatedAt": 1775791740604,
+      "status": "active"
+    },
+    {
+      "id": "local-1775791086430",
+      "text": "Thanks you too sir!",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "Jak 5:2",
+      "parentId": "local-1775790989088",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775791086823,
+      "updatedAt": 1775791086823,
+      "status": "active"
+    },
+    {
+      "id": "local-1775837169514",
+      "text": "Nou renmin option pou komante a anpil. Edem priye pou mwn jwen yon travay.",
+      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
+      "userName": "Diesibon",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "76a29fc0-3cef-48e1-8f51-cb570711b884"
+      ],
+      "createdAt": 1775837180794,
+      "updatedAt": 1775837288841,
+      "status": "active"
+    }
+  ],
+  "updatedAt": 1775837350015
 }
