@@ -1,6 +1,5 @@
 {
   "date": "2026-04-10",
-  "shareCount": 0,
   "verseKey": "daily:2026-04-10",
   "version": 1,
   "usernameRegistry": {
@@ -13,8 +12,18 @@
     "jesuslordthony": "CD017FB6-21BD-4CEF-9C42-D7EB2E7CF423",
     "dave": "904BE987-B5D6-4271-B88A-7D73CA12102F",
     "diesibon": "76a29fc0-3cef-48e1-8f51-cb570711b884",
-    "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B"
+    "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B",
+    "galnick": "D0AF61D3-BBEC-4F90-8F6E-D41D1266CABF"
   },
+  "verseLikedBy": [
+    "76a29fc0-3cef-48e1-8f51-cb570711b884",
+    "1B07EF53-481A-4FFD-B167-6E3054CD9216",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+  ],
+  "likeCount": 5,
+  "shareCount": 14,
   "comments": [
     {
       "id": "local-1775783676842",
@@ -24,10 +33,14 @@
       "verseName": "Jak 5:2",
       "parentId": null,
       "replyCount": 2,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 3,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "76a29fc0-3cef-48e1-8f51-cb570711b884"
+      ],
       "createdAt": 1775783677113,
-      "updatedAt": 1775783677113,
+      "updatedAt": 1775791138327,
       "status": "active"
     },
     {
@@ -57,14 +70,55 @@
       "createdAt": 1775786167642,
       "updatedAt": 1775786167642,
       "status": "active"
+    },
+    {
+      "id": "local-1775790641680",
+      "text": "Hi - How are you guys doing?",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 2,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775790641824,
+      "updatedAt": 1775790807766,
+      "status": "active"
+    },
+    {
+      "id": "local-1775790989088",
+      "text": "Good night guys! Thanks for this app!",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "Amòs 7:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+      ],
+      "createdAt": 1775790989303,
+      "updatedAt": 1775791006182,
+      "status": "active"
+    },
+    {
+      "id": "local-1775791086430",
+      "text": "Thanks you too sir!",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "Jak 5:2",
+      "parentId": "local-1775790989088",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775791086823,
+      "updatedAt": 1775791086823,
+      "status": "active"
     }
   ],
-  "verseLikedBy": [
-    "76a29fc0-3cef-48e1-8f51-cb570711b884",
-    "1B07EF53-481A-4FFD-B167-6E3054CD9216",
-    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-  ],
-  "likeCount": 3,
   "verseViewBy": [
     "9F421BF1-B9DE-477F-AE82-6550B0C7FA81",
     "105AA9E8-8BB7-413A-97B3-466FD4F0A77B",
@@ -165,8 +219,20 @@
     "4D9A16E3-84AF-46A1-8007-B98C2527CC5C",
     "B785CD6D-0367-4D71-9073-7169B9BCB228",
     "0F063D89-94DA-4BE4-99A3-C397F491842F",
-    "D0AF61D3-BBEC-4F90-8F6E-D41D1266CABF"
+    "D0AF61D3-BBEC-4F90-8F6E-D41D1266CABF",
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "49308379-F036-47BE-8666-0438D5EE80BA",
+    "EB3AF74B-49EA-438B-8BAD-56AB5C1D3534",
+    "A8AD8380-EED1-4E17-9E4A-4C8DF8063F8E",
+    "01D422B0-8CE4-4A5F-8B1E-DC10FF0F959A",
+    "9526ABB8-4630-4E89-B754-DE0EBFA49804",
+    "C3AC8A42-7145-45DA-87B5-4DA6400948AD",
+    "0459C8FC-E51F-4530-BFC5-E17DFCDAC47F",
+    "A0815541-4A6A-4E0E-92CE-E53D6DC50754",
+    "4F8826DA-B55B-4D7E-875F-A53E1B016F3E",
+    "04CBAB82-7E21-43F6-AED7-710E8DF49828",
+    "406B1E3E-E7BC-44F2-A3F9-DC80B4367F74"
   ],
-  "viewCount": 100,
-  "updatedAt": 1775790525270
+  "viewCount": 112,
+  "updatedAt": 1775791438544
 }
