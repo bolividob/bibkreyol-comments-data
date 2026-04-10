@@ -2,10 +2,25 @@
   "date": "2026-04-10",
   "verseLikedBy": [],
   "shareCount": 0,
-  "comments": [],
   "verseKey": "daily:2026-04-10",
   "likeCount": 0,
   "version": 1,
+  "comments": [
+    {
+      "id": "local-1775783676842",
+      "text": "Bondye beni nou tout!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Boliva",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775783677113,
+      "updatedAt": 1775783677113,
+      "status": "active"
+    }
+  ],
   "usernameRegistry": {
     "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
     "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
@@ -15,7 +30,8 @@
     "boliva": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
     "jesuslordthony": "CD017FB6-21BD-4CEF-9C42-D7EB2E7CF423",
     "dave": "904BE987-B5D6-4271-B88A-7D73CA12102F",
-    "diesibon": "76a29fc0-3cef-48e1-8f51-cb570711b884"
+    "diesibon": "76a29fc0-3cef-48e1-8f51-cb570711b884",
+    "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B"
   },
   "verseViewBy": [
     "9F421BF1-B9DE-477F-AE82-6550B0C7FA81",
@@ -46,8 +62,14 @@
     "1900DAC6-64D6-482B-BC74-6F3460F26F37",
     "C70A179D-7484-4281-AD5D-9283BCD8574E",
     "7B710363-6442-4B84-B90E-3EEA36B8655F",
-    "3C02267E-F6F5-4EF5-82EA-9882F90C42AC"
+    "3C02267E-F6F5-4EF5-82EA-9882F90C42AC",
+    "37ACBF07-853E-4773-A333-9615B8940748",
+    "7F0BA8A8-9853-4F0F-889D-46A24C77DA51",
+    "628E3143-93AD-434D-A090-8E6E14CF0707",
+    "FA171F5B-9826-4CFE-83A9-71B08782B26F",
+    "7667B3F1-11D0-4F4B-8AE4-CC822EBA578E",
+    "6DC54E1A-3DD3-4632-955A-AFD5FBCFAA19"
   ],
-  "viewCount": 29,
-  "updatedAt": 1775783250228
+  "viewCount": 35,
+  "updatedAt": 1775784055927
 }
