@@ -33,6 +33,165 @@
     "jonas": "5a46e8b6-b575-4faa-aab6-6055e56a3077",
     "fander": "368D1584-FD4D-474F-81E1-369260BF05AC"
   },
+  "comments": [
+    {
+      "id": "local-1775783676842",
+      "text": "Bondye beni nou tout!",
+      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+      "userName": "Boliva",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 2,
+      "likeCount": 4,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "76a29fc0-3cef-48e1-8f51-cb570711b884",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+      ],
+      "createdAt": 1775783677113,
+      "updatedAt": 1775791750562,
+      "status": "active"
+    },
+    {
+      "id": "local-1775785591397",
+      "text": "Mesi a nou tout ki rend travay sa posib!",
+      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
+      "userName": "Diesibon",
+      "verseName": "Jak 5:2",
+      "parentId": "local-1775783676842",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775785596314,
+      "updatedAt": 1775785596314,
+      "status": "active"
+    },
+    {
+      "id": "local-1775786167290",
+      "text": "Mwen resevwa li fre pam!",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "Amòs 7:5",
+      "parentId": "local-1775783676842",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775786167642,
+      "updatedAt": 1775786167642,
+      "status": "active"
+    },
+    {
+      "id": "local-1775790641680",
+      "text": "Hi - How are you guys doing?",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 3,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+      ],
+      "createdAt": 1775790641824,
+      "updatedAt": 1775791745737,
+      "status": "active"
+    },
+    {
+      "id": "local-1775790989088",
+      "text": "Good night guys! Thanks for this app!",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "Amòs 7:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 3,
+      "likedBy": [
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+      ],
+      "createdAt": 1775790989303,
+      "updatedAt": 1775791740604,
+      "status": "active"
+    },
+    {
+      "id": "local-1775791086430",
+      "text": "Thanks you too sir!",
+      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+      "userName": "Fre",
+      "verseName": "Jak 5:2",
+      "parentId": "local-1775790989088",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775791086823,
+      "updatedAt": 1775791086823,
+      "status": "active"
+    },
+    {
+      "id": "local-1775837169514",
+      "text": "Nou renmin option pou komante a anpil. Edem priye pou mwn jwen yon travay.",
+      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
+      "userName": "Diesibon",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "76a29fc0-3cef-48e1-8f51-cb570711b884"
+      ],
+      "createdAt": 1775837180794,
+      "updatedAt": 1775837288841,
+      "status": "active"
+    },
+    {
+      "id": "local-1775838490706",
+      "text": "Edem priye pou Trump pa depotem!",
+      "userDeviceId": "5a46e8b6-b575-4faa-aab6-6055e56a3077",
+      "userName": "Jonas",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+      ],
+      "createdAt": 1775838508807,
+      "updatedAt": 1775838600663,
+      "status": "active"
+    },
+    {
+      "id": "local-1775840111004",
+      "text": "Mesye o, ou pe peyi ou, priye pou nou gen Haiti pito",
+      "userDeviceId": "368D1584-FD4D-474F-81E1-369260BF05AC",
+      "userName": "Fander",
+      "verseName": "Jak 5:2",
+      "parentId": "local-1775838490706",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775840112605,
+      "updatedAt": 1775840112605,
+      "status": "active"
+    },
+    {
+      "id": "local-1775840160654",
+      "text": "Priye pou yon meye Haiti pito fre e se!",
+      "userDeviceId": "368D1584-FD4D-474F-81E1-369260BF05AC",
+      "userName": "Fander",
+      "verseName": "Jak 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775840162248,
+      "updatedAt": 1775840162248,
+      "status": "active"
+    }
+  ],
   "verseViewBy": [
     "9F421BF1-B9DE-477F-AE82-6550B0C7FA81",
     "105AA9E8-8BB7-413A-97B3-466FD4F0A77B",
@@ -412,167 +571,9 @@
     "C22DC6EA-3F2C-4EED-BC5C-3971AE1DCA70",
     "0B396B9C-BC7B-4B77-B454-458ACC467494",
     "57FD2253-FFF8-42CC-AA1E-70E27D3FE3C7",
-    "69837041-8D22-436D-AB94-31F6AFBC5B0F"
+    "69837041-8D22-436D-AB94-31F6AFBC5B0F",
+    "30B7F089-8CB2-49C0-BAC0-DFBDF8867928"
   ],
-  "viewCount": 379,
-  "comments": [
-    {
-      "id": "local-1775783676842",
-      "text": "Bondye beni nou tout!",
-      "userDeviceId": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-      "userName": "Boliva",
-      "verseName": "Jak 5:2",
-      "parentId": null,
-      "replyCount": 2,
-      "likeCount": 4,
-      "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-        "76a29fc0-3cef-48e1-8f51-cb570711b884",
-        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-      ],
-      "createdAt": 1775783677113,
-      "updatedAt": 1775791750562,
-      "status": "active"
-    },
-    {
-      "id": "local-1775785591397",
-      "text": "Mesi a nou tout ki rend travay sa posib!",
-      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
-      "userName": "Diesibon",
-      "verseName": "Jak 5:2",
-      "parentId": "local-1775783676842",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775785596314,
-      "updatedAt": 1775785596314,
-      "status": "active"
-    },
-    {
-      "id": "local-1775786167290",
-      "text": "Mwen resevwa li fre pam!",
-      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-      "userName": "Bok",
-      "verseName": "Amòs 7:5",
-      "parentId": "local-1775783676842",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775786167642,
-      "updatedAt": 1775786167642,
-      "status": "active"
-    },
-    {
-      "id": "local-1775790641680",
-      "text": "Hi - How are you guys doing?",
-      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-      "userName": "Fre",
-      "verseName": "Jak 5:2",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 3,
-      "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-      ],
-      "createdAt": 1775790641824,
-      "updatedAt": 1775791745737,
-      "status": "active"
-    },
-    {
-      "id": "local-1775790989088",
-      "text": "Good night guys! Thanks for this app!",
-      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-      "userName": "Bok",
-      "verseName": "Amòs 7:5",
-      "parentId": null,
-      "replyCount": 1,
-      "likeCount": 3,
-      "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
-      ],
-      "createdAt": 1775790989303,
-      "updatedAt": 1775791740604,
-      "status": "active"
-    },
-    {
-      "id": "local-1775791086430",
-      "text": "Thanks you too sir!",
-      "userDeviceId": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-      "userName": "Fre",
-      "verseName": "Jak 5:2",
-      "parentId": "local-1775790989088",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775791086823,
-      "updatedAt": 1775791086823,
-      "status": "active"
-    },
-    {
-      "id": "local-1775837169514",
-      "text": "Nou renmin option pou komante a anpil. Edem priye pou mwn jwen yon travay.",
-      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
-      "userName": "Diesibon",
-      "verseName": "Jak 5:2",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 1,
-      "likedBy": [
-        "76a29fc0-3cef-48e1-8f51-cb570711b884"
-      ],
-      "createdAt": 1775837180794,
-      "updatedAt": 1775837288841,
-      "status": "active"
-    },
-    {
-      "id": "local-1775838490706",
-      "text": "Edem priye pou Trump pa depotem!",
-      "userDeviceId": "5a46e8b6-b575-4faa-aab6-6055e56a3077",
-      "userName": "Jonas",
-      "verseName": "Jak 5:2",
-      "parentId": null,
-      "replyCount": 1,
-      "likeCount": 1,
-      "likedBy": [
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
-      ],
-      "createdAt": 1775838508807,
-      "updatedAt": 1775838600663,
-      "status": "active"
-    },
-    {
-      "id": "local-1775840111004",
-      "text": "Mesye o, ou pe peyi ou, priye pou nou gen Haiti pito",
-      "userDeviceId": "368D1584-FD4D-474F-81E1-369260BF05AC",
-      "userName": "Fander",
-      "verseName": "Jak 5:2",
-      "parentId": "local-1775838490706",
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775840112605,
-      "updatedAt": 1775840112605,
-      "status": "active"
-    },
-    {
-      "id": "local-1775840160654",
-      "text": "Priye pou yon meye Haiti pito fre e se!",
-      "userDeviceId": "368D1584-FD4D-474F-81E1-369260BF05AC",
-      "userName": "Fander",
-      "verseName": "Jak 5:2",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1775840162248,
-      "updatedAt": 1775840162248,
-      "status": "active"
-    }
-  ],
-  "updatedAt": 1775840783861
+  "viewCount": 380,
+  "updatedAt": 1775841340211
 }
