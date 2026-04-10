@@ -1,9 +1,7 @@
 {
   "date": "2026-04-10",
-  "verseLikedBy": [],
   "shareCount": 0,
   "verseKey": "daily:2026-04-10",
-  "likeCount": 0,
   "version": 1,
   "comments": [
     {
@@ -13,11 +11,25 @@
       "userName": "Boliva",
       "verseName": "Jak 5:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1775783677113,
       "updatedAt": 1775783677113,
+      "status": "active"
+    },
+    {
+      "id": "local-1775785591397",
+      "text": "Mesi a nou tout ki rend travay sa posib!",
+      "userDeviceId": "76a29fc0-3cef-48e1-8f51-cb570711b884",
+      "userName": "Diesibon",
+      "verseName": "Jak 5:2",
+      "parentId": "local-1775783676842",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775785596314,
+      "updatedAt": 1775785596314,
       "status": "active"
     }
   ],
@@ -33,6 +45,11 @@
     "diesibon": "76a29fc0-3cef-48e1-8f51-cb570711b884",
     "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B"
   },
+  "verseLikedBy": [
+    "76a29fc0-3cef-48e1-8f51-cb570711b884",
+    "1B07EF53-481A-4FFD-B167-6E3054CD9216"
+  ],
+  "likeCount": 2,
   "verseViewBy": [
     "9F421BF1-B9DE-477F-AE82-6550B0C7FA81",
     "105AA9E8-8BB7-413A-97B3-466FD4F0A77B",
@@ -73,8 +90,17 @@
     "877D131A-B263-485F-A2DC-A55D7200A586",
     "A8E1AFE9-0B17-4713-BA8E-317EB506E6CF",
     "D327EB5A-065F-4CF2-82E9-63D790C20996",
-    "88892475-4094-4E5F-9797-D34A9BD5A2BD"
+    "88892475-4094-4E5F-9797-D34A9BD5A2BD",
+    "AEC8A2ED-A41D-4903-98D9-0E703E1965EF",
+    "225EB0E0-24A4-4E55-ACC2-16CE86F69348",
+    "76a29fc0-3cef-48e1-8f51-cb570711b884",
+    "93BECB35-E6C0-4105-AA69-ACD5CCD634E8",
+    "D21888D9-183B-4510-9435-40D5BDF623EF",
+    "48F39018-39D8-457E-BD08-65D9DA3E0EC0",
+    "1B07EF53-481A-4FFD-B167-6E3054CD9216",
+    "42B327C6-4D01-493F-9366-79B2FDDD73CE",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
   ],
-  "viewCount": 40,
-  "updatedAt": 1775785125762
+  "viewCount": 49,
+  "updatedAt": 1775786027227
 }
