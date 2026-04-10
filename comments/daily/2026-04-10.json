@@ -15,14 +15,6 @@
     "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B",
     "galnick": "D0AF61D3-BBEC-4F90-8F6E-D41D1266CABF"
   },
-  "verseLikedBy": [
-    "76a29fc0-3cef-48e1-8f51-cb570711b884",
-    "1B07EF53-481A-4FFD-B167-6E3054CD9216",
-    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
-  ],
-  "likeCount": 5,
   "shareCount": 14,
   "comments": [
     {
@@ -33,14 +25,15 @@
       "verseName": "Jak 5:2",
       "parentId": null,
       "replyCount": 2,
-      "likeCount": 3,
+      "likeCount": 4,
       "likedBy": [
         "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
         "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-        "76a29fc0-3cef-48e1-8f51-cb570711b884"
+        "76a29fc0-3cef-48e1-8f51-cb570711b884",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
       ],
       "createdAt": 1775783677113,
-      "updatedAt": 1775791138327,
+      "updatedAt": 1775791750562,
       "status": "active"
     },
     {
@@ -79,13 +72,14 @@
       "verseName": "Jak 5:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057"
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
       ],
       "createdAt": 1775790641824,
-      "updatedAt": 1775790807766,
+      "updatedAt": 1775791745737,
       "status": "active"
     },
     {
@@ -96,12 +90,14 @@
       "verseName": "Amòs 7:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 3,
       "likedBy": [
-        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2"
+        "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+        "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+        "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
       ],
       "createdAt": 1775790989303,
-      "updatedAt": 1775791006182,
+      "updatedAt": 1775791740604,
       "status": "active"
     },
     {
@@ -119,6 +115,15 @@
       "status": "active"
     }
   ],
+  "verseLikedBy": [
+    "76a29fc0-3cef-48e1-8f51-cb570711b884",
+    "1B07EF53-481A-4FFD-B167-6E3054CD9216",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "8CF68546-C6E9-46EE-B25A-DB6CB29265FF"
+  ],
+  "likeCount": 6,
   "verseViewBy": [
     "9F421BF1-B9DE-477F-AE82-6550B0C7FA81",
     "105AA9E8-8BB7-413A-97B3-466FD4F0A77B",
@@ -231,8 +236,17 @@
     "A0815541-4A6A-4E0E-92CE-E53D6DC50754",
     "4F8826DA-B55B-4D7E-875F-A53E1B016F3E",
     "04CBAB82-7E21-43F6-AED7-710E8DF49828",
-    "406B1E3E-E7BC-44F2-A3F9-DC80B4367F74"
+    "406B1E3E-E7BC-44F2-A3F9-DC80B4367F74",
+    "D43079C7-C1A6-444C-A3A3-72D0B603D4B5",
+    "8CF68546-C6E9-46EE-B25A-DB6CB29265FF",
+    "BF08951F-75B2-4723-9686-59961A05CAB3",
+    "6F9AC814-DFA1-48F9-A299-293E88646B17",
+    "0211E046-3F26-4FCD-956F-58284778F442",
+    "496CD686-951A-4B5D-B1BE-5FCFF9EDEED8",
+    "8E36E9A1-C1E6-470E-88E1-1B116F503CC0",
+    "ABD1CA83-BA7C-452E-AA68-B41773055868",
+    "828BAB1E-9369-41BA-BE9A-5033B8ECDFD7"
   ],
-  "viewCount": 112,
-  "updatedAt": 1775791438544
+  "viewCount": 121,
+  "updatedAt": 1775792309632
 }
