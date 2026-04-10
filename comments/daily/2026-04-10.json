@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
   "verseKey": "daily:2026-04-10",
-  "updatedAt": 1775862109319,
+  "updatedAt": 1775862114394,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jak 5:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
+      ],
       "createdAt": 1775862109319,
-      "updatedAt": 1775862109319,
+      "updatedAt": 1775862114394,
       "status": "active"
     },
     {
