@@ -3,6 +3,18 @@
   "shareCount": 0,
   "verseKey": "daily:2026-04-10",
   "version": 1,
+  "usernameRegistry": {
+    "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
+    "james": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "bok": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "james boli": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
+    "boliva": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
+    "jesuslordthony": "CD017FB6-21BD-4CEF-9C42-D7EB2E7CF423",
+    "dave": "904BE987-B5D6-4271-B88A-7D73CA12102F",
+    "diesibon": "76a29fc0-3cef-48e1-8f51-cb570711b884",
+    "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B"
+  },
   "comments": [
     {
       "id": "local-1775783676842",
@@ -11,7 +23,7 @@
       "userName": "Boliva",
       "verseName": "Jak 5:2",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1775783677113,
@@ -31,25 +43,28 @@
       "createdAt": 1775785596314,
       "updatedAt": 1775785596314,
       "status": "active"
+    },
+    {
+      "id": "local-1775786167290",
+      "text": "Mwen resevwa li fre pam!",
+      "userDeviceId": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+      "userName": "Bok",
+      "verseName": "Amòs 7:5",
+      "parentId": "local-1775783676842",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775786167642,
+      "updatedAt": 1775786167642,
+      "status": "active"
     }
   ],
-  "usernameRegistry": {
-    "fre charles": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "fre": "0C5F736E-3A73-4FC0-B9A6-7EAAF463C8A2",
-    "james": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "bok": "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
-    "james boli": "6fde25e1-4cc5-4dab-8929-f1c6e72e4e7b",
-    "boliva": "081CD0FA-86D0-4B40-9BDB-6CF9967AB057",
-    "jesuslordthony": "CD017FB6-21BD-4CEF-9C42-D7EB2E7CF423",
-    "dave": "904BE987-B5D6-4271-B88A-7D73CA12102F",
-    "diesibon": "76a29fc0-3cef-48e1-8f51-cb570711b884",
-    "user123": "D47092AC-CC4A-473A-BC2E-CD1595EA7B8B"
-  },
   "verseLikedBy": [
     "76a29fc0-3cef-48e1-8f51-cb570711b884",
-    "1B07EF53-481A-4FFD-B167-6E3054CD9216"
+    "1B07EF53-481A-4FFD-B167-6E3054CD9216",
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
   ],
-  "likeCount": 2,
+  "likeCount": 3,
   "verseViewBy": [
     "9F421BF1-B9DE-477F-AE82-6550B0C7FA81",
     "105AA9E8-8BB7-413A-97B3-466FD4F0A77B",
@@ -99,8 +114,19 @@
     "48F39018-39D8-457E-BD08-65D9DA3E0EC0",
     "1B07EF53-481A-4FFD-B167-6E3054CD9216",
     "42B327C6-4D01-493F-9366-79B2FDDD73CE",
-    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA"
+    "BBC5E9BE-B1A4-4213-B1F8-41CBC104F3DA",
+    "C4A0A7EB-0DEC-4CB4-AB51-594E57E3DD65",
+    "C6A2E5CC-C0E1-473D-8092-DC21BC98CACC",
+    "6EBCF8F0-7588-4763-B9AA-83BDB82032AE",
+    "693C16C2-E4FD-4141-BB58-C24A2466A32C",
+    "9E1248AE-6377-4530-B59D-6FBA7B0585E2",
+    "04CEC8B8-A89E-4B4A-A467-B12FCA2D3872",
+    "20AABF39-C13B-416C-A8B4-2A37E06FDCDA",
+    "99C8AF40-4B8D-4E24-BB8C-479E0DE01EEB",
+    "7D8D4F1C-228C-4506-8CF6-01D4ADD906DE",
+    "E83E29E8-4742-4E0E-9501-9F89515BDD1F",
+    "9D48BC64-3328-4AA6-93FA-0A7F9C7564E4"
   ],
-  "viewCount": 49,
-  "updatedAt": 1775786027227
+  "viewCount": 60,
+  "updatedAt": 1775786869930
 }
