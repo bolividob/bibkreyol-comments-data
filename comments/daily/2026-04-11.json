@@ -1,9 +1,23 @@
 {
   "date": "2026-04-11",
   "verseKey": "daily:2026-04-11",
-  "updatedAt": 1775928100484,
+  "updatedAt": 1775928116231,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775928114851",
+      "text": "Orlando fl",
+      "userDeviceId": "2f8d04ec892a54492410190ae221901b2f86aeff48322e2ef580d8d089b0ac4e",
+      "userName": "madan benwa",
+      "verseName": "Som 7:1",
+      "parentId": "local-1775867330254",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775928116230,
+      "updatedAt": 1775928116230,
+      "status": "active"
+    },
     {
       "id": "local-1775893014981",
       "text": "Good night!",
@@ -72,7 +86,7 @@
       "userName": "Bib Kreyol",
       "verseName": "Som 7:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 3,
       "likedBy": [
         "92766a62767b5e2eb789d91f118e1aa563afd6ce28bbea0e95bb8144a5a5335c",
@@ -80,7 +94,7 @@
         "2f8d04ec892a54492410190ae221901b2f86aeff48322e2ef580d8d089b0ac4e"
       ],
       "createdAt": 1775867334585,
-      "updatedAt": 1775928100484,
+      "updatedAt": 1775928116230,
       "status": "active"
     },
     {
