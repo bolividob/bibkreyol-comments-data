@@ -1,7 +1,7 @@
 {
   "date": "2026-04-11",
   "verseKey": "daily:2026-04-11",
-  "updatedAt": 1775933563283,
+  "updatedAt": 1775933570353,
   "version": 1,
   "comments": [
     {
@@ -182,12 +182,13 @@
       "verseName": "Som 7:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "92766a62767b5e2eb789d91f118e1aa563afd6ce28bbea0e95bb8144a5a5335c"
+        "92766a62767b5e2eb789d91f118e1aa563afd6ce28bbea0e95bb8144a5a5335c",
+        "e95e6fba412ce1da56c47909f211c86a27aeb362ff35ee3f4aaff17e4e328616"
       ],
       "createdAt": 1775865821771,
-      "updatedAt": 1775868476303,
+      "updatedAt": 1775933570353,
       "status": "active"
     }
   ],
