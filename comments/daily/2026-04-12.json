@@ -1,9 +1,23 @@
 {
   "date": "2026-04-12",
   "verseKey": "daily:2026-04-12",
-  "updatedAt": 1775965325787,
+  "updatedAt": 1775965343508,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1775965342156",
+      "text": "nan zone ou ye?",
+      "userDeviceId": "83c834674478cda4d4a92bbb6668490c22766358f28c5cd6615c7ef861abb8d8",
+      "userName": "okiki",
+      "verseName": "Lamantasyon 5:3",
+      "parentId": "local-1775957866607",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1775965343508,
+      "updatedAt": 1775965343508,
+      "status": "active"
+    },
     {
       "id": "local-1775965316224",
       "text": "nou gen problem updates",
@@ -25,11 +39,11 @@
       "userName": "Peyisan",
       "verseName": "Lamantasyon 5:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1775957867847,
-      "updatedAt": 1775957867847,
+      "updatedAt": 1775965343508,
       "status": "active"
     },
     {
