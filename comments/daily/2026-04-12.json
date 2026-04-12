@@ -1,9 +1,23 @@
 {
   "date": "2026-04-12",
   "verseKey": "daily:2026-04-12",
-  "updatedAt": 1776015817751,
+  "updatedAt": 1776015886610,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776015885352",
+      "text": "Bel travay, an nou sipote yo!",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Anthony",
+      "verseName": "Lamantasyon 5:3",
+      "parentId": "local-1776010950753",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776015886610,
+      "updatedAt": 1776015886610,
+      "status": "active"
+    },
     {
       "id": "local-1776015578646",
       "text": "mit",
@@ -25,13 +39,13 @@
       "userName": "wedly Étienne",
       "verseName": "Lamantasyon 5:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "createdAt": 1776010952666,
-      "updatedAt": 1776015817751,
+      "updatedAt": 1776015886610,
       "status": "active"
     },
     {
