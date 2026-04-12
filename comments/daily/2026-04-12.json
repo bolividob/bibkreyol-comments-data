@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
   "verseKey": "daily:2026-04-12",
-  "updatedAt": 1776018297308,
+  "updatedAt": 1776018302218,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Lamantasyon 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "49764b936edb64cea052828fbbaeb28050ef42b4850cc34d8fb87aa6646f82b4"
+      ],
       "createdAt": 1776015958810,
-      "updatedAt": 1776015958810,
+      "updatedAt": 1776018302218,
       "status": "active"
     },
     {
