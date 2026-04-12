@@ -1,9 +1,23 @@
 {
   "date": "2026-04-12",
   "verseKey": "daily:2026-04-12",
-  "updatedAt": 1776018326437,
+  "updatedAt": 1776018340631,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776018339292",
+      "text": "Sil Bel! Bravo!",
+      "userDeviceId": "49764b936edb64cea052828fbbaeb28050ef42b4850cc34d8fb87aa6646f82b4",
+      "userName": "Bilo Vandi",
+      "verseName": "Lamantasyon 5:3",
+      "parentId": "local-1776010950753",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776018340631,
+      "updatedAt": 1776018340631,
+      "status": "active"
+    },
     {
       "id": "local-1776015957537",
       "text": "Sipote travay la, fe moun instale app la, pataje.",
@@ -55,14 +69,14 @@
       "userName": "wedly Étienne",
       "verseName": "Lamantasyon 5:3",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 2,
       "likedBy": [
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
         "49764b936edb64cea052828fbbaeb28050ef42b4850cc34d8fb87aa6646f82b4"
       ],
       "createdAt": 1776010952666,
-      "updatedAt": 1776018297308,
+      "updatedAt": 1776018340631,
       "status": "active"
     },
     {
