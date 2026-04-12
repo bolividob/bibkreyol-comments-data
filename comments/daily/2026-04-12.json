@@ -1,9 +1,23 @@
 {
   "date": "2026-04-12",
   "verseKey": "daily:2026-04-12",
-  "updatedAt": 1776007718446,
+  "updatedAt": 1776007726420,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776007724480",
+      "text": "hfjjejejene",
+      "userDeviceId": "720ee93ddf43863c91530915e26fa3bbf663d5d49ca1ac214368a2bfb8d0451f",
+      "userName": "ki kote nan bib ki di yon timoun ki pas respecte manman",
+      "verseName": "Lamantasyon 5:3",
+      "parentId": "local-1776007588820",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776007726420,
+      "updatedAt": 1776007726420,
+      "status": "active"
+    },
     {
       "id": "local-1776007588820",
       "text": "amen",
@@ -11,11 +25,11 @@
       "userName": "ki kote nan bib ki di yon timoun ki pas respecte manman",
       "verseName": "Lamantasyon 5:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1776007590563,
-      "updatedAt": 1776007590563,
+      "updatedAt": 1776007726420,
       "status": "active"
     },
     {
