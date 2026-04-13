@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
   "verseKey": "daily:2026-04-13",
-  "updatedAt": 1776053514747,
+  "updatedAt": 1776053528973,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Galasyen 5:2",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "81a752a233f5cf45e0aaf25761aed59be0cb89a048c153bad8c6047916c93c15"
+      ],
       "createdAt": 1776045257354,
-      "updatedAt": 1776048158830,
+      "updatedAt": 1776053528973,
       "status": "active"
     },
     {
