@@ -1,9 +1,23 @@
 {
   "date": "2026-04-13",
   "verseKey": "daily:2026-04-13",
-  "updatedAt": 1776053553465,
+  "updatedAt": 1776053554650,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776053552987",
+      "text": "kisa?",
+      "userDeviceId": "81a752a233f5cf45e0aaf25761aed59be0cb89a048c153bad8c6047916c93c15",
+      "userName": "Amwe",
+      "verseName": "Lamantasyon 5:3",
+      "parentId": "local-1776027855526",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776053554650,
+      "updatedAt": 1776053554650,
+      "status": "active"
+    },
     {
       "id": "local-1776048157558",
       "text": "Ki youn ladan yo?",
@@ -41,13 +55,13 @@
       "userName": "Bilo Vandi",
       "verseName": "Lamantasyon 5:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "81a752a233f5cf45e0aaf25761aed59be0cb89a048c153bad8c6047916c93c15"
       ],
       "createdAt": 1776027856915,
-      "updatedAt": 1776053540643,
+      "updatedAt": 1776053554650,
       "status": "active"
     },
     {
@@ -348,7 +362,7 @@
   ],
   "likeCount": 51,
   "shareCount": 54,
-  "viewCount": 3120,
+  "viewCount": 3121,
   "verseLikedBy": [
     "a527be54b8e9088e75c55e78e635ffb788962e8f59e86d9a141656b45a1e498f",
     "7612af4ac5b989ed7475d48e80f31e44c5cac7e177d557d82a498e1d3552da43",
