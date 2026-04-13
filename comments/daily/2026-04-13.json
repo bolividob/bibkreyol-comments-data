@@ -1,9 +1,23 @@
 {
   "date": "2026-04-13",
   "verseKey": "daily:2026-04-13",
-  "updatedAt": 1776048154524,
+  "updatedAt": 1776048158830,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776048157558",
+      "text": "Ki youn ladan yo?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Anthony",
+      "verseName": "Galasyen 5:2",
+      "parentId": "local-1776045251335",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776048158830,
+      "updatedAt": 1776048158830,
+      "status": "active"
+    },
     {
       "id": "local-1776045251335",
       "text": "bib la pagen John ladanl",
@@ -11,11 +25,11 @@
       "userName": "djouniol",
       "verseName": "Galasyen 5:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1776045257354,
-      "updatedAt": 1776045257354,
+      "updatedAt": 1776048158830,
       "status": "active"
     },
     {
