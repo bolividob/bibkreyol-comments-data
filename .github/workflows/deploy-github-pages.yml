@@ -1,6 +1,8 @@
-# Publishes the same `comments/daily/*.json` tree to GitHub Pages on every push under
-# https://bolividob.github.io/bibkreyol-comments-data/comments/daily/{date}.json
-# (parallel to Firebase Hosting deploy in deploy-comments-data-to-hosting.yml).
+# Publishes **only** `comments/daily/{UTC-yyyy-MM-dd}.json` for the **current UTC calendar day**
+# to GitHub Pages — same key the BibKreyol app uses for verse-of-the-day comments
+# (`GET {base}/comments/daily/{todayUtc}.json`). Historical days stay on GitHub raw / Firebase;
+# Pages stays minimal and fast.
+# (Parallel to Firebase Hosting deploy in deploy-comments-data-to-hosting.yml, which still ships all files.)
 
 name: Deploy comments data to GitHub Pages
 
@@ -33,18 +35,18 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Assemble static site
+      - name: Assemble static site (UTC today only)
         run: |
           set -euo pipefail
           mkdir -p _site/comments/daily
-          shopt -s nullglob
-          files=(comments/daily/*.json)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No JSON files in comments/daily"
+          TODAY=$(date -u +%Y-%m-%d)
+          SRC="comments/daily/${TODAY}.json"
+          if [ ! -f "$SRC" ]; then
+            echo "Missing file for current UTC day (verse-of-the-day key): $SRC"
             exit 1
           fi
-          cp -v "${files[@]}" _site/comments/daily/
-          printf '%s\n' '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>BibKreyol comments data</title></head><body><p>Static JSON: <code>comments/daily/</code></p></body></html>' > _site/index.html
+          cp -v "$SRC" "_site/comments/daily/${TODAY}.json"
+          echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>BibKreyol comments data</title></head><body><p>Static JSON (UTC today only): <code>comments/daily/${TODAY}.json</code></p></body></html>" > _site/index.html
 
       - uses: actions/configure-pages@v5
 
