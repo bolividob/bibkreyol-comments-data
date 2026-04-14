@@ -1,8 +1,10 @@
-# Publishes **only** `comments/daily/{UTC-yyyy-MM-dd}.json` for the **current UTC calendar day**
-# to GitHub Pages — same key the BibKreyol app uses for verse-of-the-day comments
-# (`GET {base}/comments/daily/{todayUtc}.json`). Historical days stay on GitHub raw / Firebase;
-# Pages stays minimal and fast.
-# (Parallel to Firebase Hosting deploy in deploy-comments-data-to-hosting.yml, which still ships all files.)
+# GitHub Pages static deploy — same **content** layout as:
+#   • Firebase Hosting job (public/comments/daily/*.json + index.html)
+#   • Cloudflare Pages (repo root: comments/daily/*.json, no Functions)
+#
+# Repo root `_headers` and `_routes.json` match BibKreyol docs for Cloudflare Pages when this
+# same repo is connected there. GitHub Pages (github.io) does not interpret `_headers`; use
+# Cloudflare or Firebase for CDN cache semantics. This workflow still publishes every daily JSON.
 
 name: Deploy comments data to GitHub Pages
 
@@ -11,6 +13,8 @@ on:
     branches: [main]
     paths:
       - 'comments/daily/**'
+      - '_headers'
+      - '_routes.json'
       - '.github/workflows/deploy-github-pages.yml'
   workflow_dispatch:
 
@@ -35,18 +39,20 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Assemble static site (UTC today only)
+      # Mirror Firebase Hosting staging: public/comments/daily → here _site/comments/daily
+      - name: Assemble static site (all daily JSON + index + nojekyll)
         run: |
           set -euo pipefail
           mkdir -p _site/comments/daily
-          TODAY=$(date -u +%Y-%m-%d)
-          SRC="comments/daily/${TODAY}.json"
-          if [ ! -f "$SRC" ]; then
-            echo "Missing file for current UTC day (verse-of-the-day key): $SRC"
+          shopt -s nullglob
+          files=(comments/daily/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No comments/daily/*.json files to publish."
             exit 1
           fi
-          cp -v "$SRC" "_site/comments/daily/${TODAY}.json"
-          echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>BibKreyol comments data</title></head><body><p>Static JSON (UTC today only): <code>comments/daily/${TODAY}.json</code></p></body></html>" > _site/index.html
+          cp -v "${files[@]}" _site/comments/daily/
+          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>BibKreyol comments data</title></head><body><p>Static JSON for daily verse comments. Path: <code>comments/daily/</code> (same tree as Firebase Hosting + Cloudflare Pages).</p></body></html>' > _site/index.html
+          : > _site/.nojekyll
 
       - uses: actions/configure-pages@v5
 
