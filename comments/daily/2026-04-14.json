@@ -1,9 +1,23 @@
 {
   "date": "2026-04-14",
   "verseKey": "daily:2026-04-14",
-  "updatedAt": 1776172658938,
+  "updatedAt": 1776172678755,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776172677361",
+      "text": "Mwn renmin non sa.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Anthony",
+      "verseName": "Eklezyas 9:3",
+      "parentId": "local-1776163689319",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776172678755,
+      "updatedAt": 1776172678755,
+      "status": "active"
+    },
     {
       "id": "local-1776163689319",
       "text": "matiye",
@@ -11,13 +25,13 @@
       "userName": "⁵111",
       "verseName": "Galasyen 5:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "createdAt": 1776163690966,
-      "updatedAt": 1776172658938,
+      "updatedAt": 1776172678755,
       "status": "active"
     },
     {
