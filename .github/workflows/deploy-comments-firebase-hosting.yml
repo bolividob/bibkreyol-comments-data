@@ -1,43 +1,32 @@
-# Copy to bibkreyol-comments-data: .github/workflows/deploy-comments-hosting-and-pages.yml
-#
-# Single workflow: Firebase Hosting + GitHub Pages.
-#
-# Why not `paths: comments/daily/**` on push?
-# Compaction (and bots) commit that tree very often → hundreds of Actions runs per day and a
-# noisy UI even with concurrency.cancel-in-progress. Instead: deploy on a schedule (latest
-# main), when routing/workflow changes, or workflow_dispatch.
-#
-# Max lag vs git: one schedule interval (default 5 min) unless you run workflow_dispatch.
-#
-# Required secret: FIREBASE_TOKEN (Firebase deploy only — job skips if unset)
-
-name: Deploy comments (Firebase + GitHub Pages)
+name: Deploy comments to Firebase Hosting
 
 on:
   push:
     branches: [main, master]
     paths:
+      - 'comments/daily/**'
       - '_headers'
       - '_routes.json'
-      - '.github/workflows/deploy-comments-hosting-and-pages.yml'
+      - '.github/workflows/deploy-comments-firebase-hosting.yml'
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
 concurrency:
-  group: comments-data-deploy-bundle
+  group: comments-data-firebase-hosting
   cancel-in-progress: true
 
 env:
   FIREBASE_TOOLS_VERSION: "13.29.3"
 
+permissions:
+  contents: read
+
 jobs:
-  firebase_hosting:
+  deploy:
     name: Firebase Hosting
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    permissions:
-      contents: read
     steps:
       - uses: actions/checkout@v4
         with:
@@ -104,42 +93,3 @@ jobs:
             exit 0
           fi
           npx --yes firebase-tools@${{ env.FIREBASE_TOOLS_VERSION }} deploy --only hosting --project bib-kreyol-99d07 --non-interactive
-
-  github_pages:
-    name: GitHub Pages
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-
-      - name: Assemble static site (all daily JSON + index + nojekyll)
-        run: |
-          set -euo pipefail
-          mkdir -p _site/comments/daily
-          shopt -s nullglob
-          files=(comments/daily/*.json)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No comments/daily/*.json files to publish."
-            exit 1
-          fi
-          cp -v "${files[@]}" _site/comments/daily/
-          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>Comments data</title></head><body><p>Static JSON under <code>comments/daily/</code>.</p></body></html>' > _site/index.html
-          : > _site/.nojekyll
-
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-      - id: deployment
-        uses: actions/deploy-pages@v4

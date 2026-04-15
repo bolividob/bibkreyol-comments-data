@@ -1,0 +1,56 @@
+name: Deploy comments to GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'comments/daily/**'
+      - '.github/workflows/deploy-comments-github-pages.yml'
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: comments-data-github-pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    name: GitHub Pages
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Assemble static site (all daily JSON + index + nojekyll)
+        run: |
+          set -euo pipefail
+          mkdir -p _site/comments/daily
+          shopt -s nullglob
+          files=(comments/daily/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No comments/daily/*.json files to publish."
+            exit 1
+          fi
+          cp -v "${files[@]}" _site/comments/daily/
+          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>Comments data</title></head><body><p>Static JSON under <code>comments/daily/</code>.</p></body></html>' > _site/index.html
+          : > _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
