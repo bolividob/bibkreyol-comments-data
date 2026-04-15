@@ -1,7 +1,7 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776223392480,
+  "updatedAt": 1776223404369,
   "version": 1,
   "comments": [
     {
@@ -42,18 +42,19 @@
       "verseName": "Tit 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "06990993ae179572a73d12065fa5fdee920758efc155529067c74e3cfbffaf19"
+        "06990993ae179572a73d12065fa5fdee920758efc155529067c74e3cfbffaf19",
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "createdAt": 1776220474444,
-      "updatedAt": 1776221674639,
+      "updatedAt": 1776223404369,
       "status": "active"
     }
   ],
   "likeCount": 24,
   "shareCount": 27,
-  "viewCount": 1930,
+  "viewCount": 1932,
   "verseLikedBy": [
     "8e325703050cf0bf34d52437425df6eebed2c3d94470f56c8b1e6a7f5198e105",
     "01bdd6a84d1545fcc11d5f5562a5c5c0936bded53f8f749eb725cdf671e2bbfe",
