@@ -1,18 +1,19 @@
-# Single workflow for bibkreyol-comments-data: Firebase Hosting + GitHub Pages.
-# One push to comments/daily does not start multiple separate top-level workflows.
+# Firebase Hosting + GitHub Pages for bibkreyol-comments-data.
+#
+# Runs on a timer (not on push) so comment JSON commits do not start deploys — the next
+# scheduled run picks up whatever is on main. Manual: workflow_dispatch.
+#
+# Schedule: GitHub Actions does not support reliable intervals below ~5 minutes; `*/2 * * * *`
+# is not honored. See: https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
 #
 # Required secret: FIREBASE_TOKEN (Firebase deploy only — job skips if unset)
 
 name: Deploy comments (Firebase + GitHub Pages)
 
 on:
-  push:
-    branches: [main, master]
-    paths:
-      - 'comments/daily/**'
-      - '_headers'
-      - '_routes.json'
-      - '.github/workflows/deploy-comments-hosting-and-pages.yml'
+  schedule:
+    # Every 5 minutes UTC (closest supported cadence; true 2-minute cron is not available on GitHub-hosted)
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 concurrency:
