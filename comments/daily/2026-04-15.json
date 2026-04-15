@@ -1,9 +1,23 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776280265374,
+  "updatedAt": 1776280383853,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776280378173",
+      "text": "amen amen",
+      "userDeviceId": "fd98e7da142d5f30b420aad7a58f19ff6230f9dfb08c17424118c055318e9fa6",
+      "userName": "swanwet",
+      "verseName": "Tit 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776280383853,
+      "updatedAt": 1776280383853,
+      "status": "active"
+    },
     {
       "id": "local-1776277226503",
       "text": "Mwn damou travay sa!",
@@ -253,9 +267,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
+  "likeCount": 66,
   "shareCount": 112,
-  "viewCount": 6288,
+  "viewCount": 6297,
   "verseLikedBy": [
     "8e325703050cf0bf34d52437425df6eebed2c3d94470f56c8b1e6a7f5198e105",
     "01bdd6a84d1545fcc11d5f5562a5c5c0936bded53f8f749eb725cdf671e2bbfe",
@@ -321,7 +335,8 @@
     "1717567828e58edbff9eece7060c2ed185a29e2410a2456ce8e563076a133649",
     "93a36c76c185c7aed1a442fce45f8585d58e9e7948749b8bc493d2cba6409f14",
     "9c64f14b9d703a1567ea90356b888e14a98a71ce9c201595ff8f83de4f8d54e2",
-    "b25d25919916e236d92bec343eacc031f901cde7f0d52d110bad4ed2224c914c"
+    "b25d25919916e236d92bec343eacc031f901cde7f0d52d110bad4ed2224c914c",
+    "fd98e7da142d5f30b420aad7a58f19ff6230f9dfb08c17424118c055318e9fa6"
   ],
   "verseViewBy": []
 }
