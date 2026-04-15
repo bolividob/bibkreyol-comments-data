@@ -1,9 +1,37 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776291183579,
+  "updatedAt": 1776291326816,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776291214614",
+      "text": "Jesus",
+      "userDeviceId": "74f8085d765424e4a94bcab7f3553bafce35b23c49858b283f4f0dd1bb157f77",
+      "userName": "Manouchka",
+      "verseName": "Tit 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776291326816,
+      "updatedAt": 1776291326816,
+      "status": "active"
+    },
+    {
+      "id": "local-1776291253877",
+      "text": "Jesus Christ",
+      "userDeviceId": "74f8085d765424e4a94bcab7f3553bafce35b23c49858b283f4f0dd1bb157f77",
+      "userName": "Manouchka",
+      "verseName": "Tit 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776291326816,
+      "updatedAt": 1776291326816,
+      "status": "active"
+    },
     {
       "id": "local-1776287199583",
       "text": "moun idroid gen problem we komante.",
@@ -282,8 +310,8 @@
     }
   ],
   "likeCount": 75,
-  "shareCount": 122,
-  "viewCount": 7141,
+  "shareCount": 123,
+  "viewCount": 7161,
   "verseLikedBy": [
     "8e325703050cf0bf34d52437425df6eebed2c3d94470f56c8b1e6a7f5198e105",
     "01bdd6a84d1545fcc11d5f5562a5c5c0936bded53f8f749eb725cdf671e2bbfe",
