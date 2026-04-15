@@ -1,10 +1,9 @@
-# Single workflow for bibkreyol-comments-data: Firebase Hosting + GitHub Pages + optional bolivido mirror.
-# Replaces three separate workflows so one push to comments/daily does not triple Actions noise.
+# Single workflow for bibkreyol-comments-data: Firebase Hosting + GitHub Pages.
+# One push to comments/daily does not start multiple separate top-level workflows.
 #
 # Required secret: FIREBASE_TOKEN (Firebase deploy only — job skips if unset)
-# Optional secret: BOLIVIDO_MIRROR_DISPATCH_TOKEN (repository_dispatch to bolivido mirror)
 
-name: Deploy comments (Firebase + GitHub Pages + mirror)
+name: Deploy comments (Firebase + GitHub Pages)
 
 on:
   push:
@@ -135,26 +134,3 @@ jobs:
 
       - id: deployment
         uses: actions/deploy-pages@v4
-
-  bolivido_mirror_dispatch:
-    name: Notify bolivido mirror
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    permissions:
-      contents: read
-    steps:
-      - name: repository_dispatch to bolivido/bibkreyol-comments-pages
-        env:
-          TOKEN: ${{ secrets.BOLIVIDO_MIRROR_DISPATCH_TOKEN }}
-        run: |
-          if [ -z "${TOKEN}" ]; then
-            echo "BOLIVIDO_MIRROR_DISPATCH_TOKEN not set — skipping."
-            exit 0
-          fi
-          set -euo pipefail
-          curl -fsS -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${TOKEN}" \
-            https://api.github.com/repos/bolivido/bibkreyol-comments-pages/dispatches \
-            -d '{"event_type":"sync-comments-data","client_payload":{}}'
-          echo "Dispatched sync-comments-data to bolivido/bibkreyol-comments-pages"
