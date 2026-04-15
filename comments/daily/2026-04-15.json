@@ -1,9 +1,23 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776277143241,
+  "updatedAt": 1776277264621,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776277226503",
+      "text": "Mwn damou travay sa!",
+      "userDeviceId": "9c64f14b9d703a1567ea90356b888e14a98a71ce9c201595ff8f83de4f8d54e2",
+      "userName": "Bayo-",
+      "verseName": "Tit 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776277264621,
+      "updatedAt": 1776277264621,
+      "status": "active"
+    },
     {
       "id": "local-1776276367439",
       "text": "Mwn pa we yo non amen!",
@@ -236,7 +250,7 @@
   ],
   "likeCount": 64,
   "shareCount": 109,
-  "viewCount": 6089,
+  "viewCount": 6097,
   "verseLikedBy": [
     "8e325703050cf0bf34d52437425df6eebed2c3d94470f56c8b1e6a7f5198e105",
     "01bdd6a84d1545fcc11d5f5562a5c5c0936bded53f8f749eb725cdf671e2bbfe",
