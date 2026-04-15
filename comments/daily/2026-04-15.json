@@ -1,12 +1,27 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776220473924,
+  "updatedAt": 1776220474444,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1776220471221",
+      "text": "Theback yvenson",
+      "userDeviceId": "7e3a5ca830231007c4fa168c9d43b797d2807a17b67b1b2082eb55e3f00bf25d",
+      "userName": "Theback yvenson",
+      "verseName": "Tit 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776220474444,
+      "updatedAt": 1776220474444,
+      "status": "active"
+    }
+  ],
   "likeCount": 18,
   "shareCount": 18,
-  "viewCount": 1484,
+  "viewCount": 1485,
   "verseLikedBy": [
     "8e325703050cf0bf34d52437425df6eebed2c3d94470f56c8b1e6a7f5198e105",
     "01bdd6a84d1545fcc11d5f5562a5c5c0936bded53f8f749eb725cdf671e2bbfe",
