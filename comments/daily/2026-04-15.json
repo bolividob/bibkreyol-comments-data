@@ -1,7 +1,7 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776221669535,
+  "updatedAt": 1776221674639,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Tit 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "06990993ae179572a73d12065fa5fdee920758efc155529067c74e3cfbffaf19"
+      ],
       "createdAt": 1776220474444,
-      "updatedAt": 1776220474444,
+      "updatedAt": 1776221674639,
       "status": "active"
     }
   ],
