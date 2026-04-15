@@ -1,9 +1,23 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776268881050,
+  "updatedAt": 1776268886844,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776268785226",
+      "text": "fo di ayisyan renmin sipote Bel bagay.",
+      "userDeviceId": "e1d57210687ed6bb091d9cc4a31d394d055e3d1bac1fd5f6b767aa247e222b7e",
+      "userName": "Nicole",
+      "verseName": "Tit 1:2",
+      "parentId": "local-1776267531037",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776268886844,
+      "updatedAt": 1776268886844,
+      "status": "active"
+    },
     {
       "id": "local-1776267531037",
       "text": "fe yon social media pou nou Bib Kreyol",
@@ -11,7 +25,7 @@
       "userName": "1~1",
       "verseName": "Tit 1:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 3,
       "likedBy": [
         "6930a388b5a69a575f8c2e88836aea9a8af623fd77606836e10ee42a973b1ee6",
@@ -19,7 +33,7 @@
         "e1d57210687ed6bb091d9cc4a31d394d055e3d1bac1fd5f6b767aa247e222b7e"
       ],
       "createdAt": 1776267610656,
-      "updatedAt": 1776268085019,
+      "updatedAt": 1776268886844,
       "status": "active"
     },
     {
