@@ -1,9 +1,23 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776295507749,
+  "updatedAt": 1776295626623,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776295567663",
+      "text": "bibkreylo",
+      "userDeviceId": "100dca9a0c25c03094e47e262014d420a3ceffd1a30deecae827e45b173ec4d4",
+      "userName": "bibkreylo",
+      "verseName": "Tit 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776295626623,
+      "updatedAt": 1776295626623,
+      "status": "active"
+    },
     {
       "id": "local-1776291214614",
       "text": "Jesus",
@@ -310,8 +324,8 @@
     }
   ],
   "likeCount": 82,
-  "shareCount": 131,
-  "viewCount": 7726,
+  "shareCount": 132,
+  "viewCount": 7745,
   "verseLikedBy": [
     "8e325703050cf0bf34d52437425df6eebed2c3d94470f56c8b1e6a7f5198e105",
     "01bdd6a84d1545fcc11d5f5562a5c5c0936bded53f8f749eb725cdf671e2bbfe",
