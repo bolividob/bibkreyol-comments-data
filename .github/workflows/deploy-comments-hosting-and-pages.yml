@@ -1,5 +1,13 @@
-# Single workflow for bibkreyol-comments-data: Firebase Hosting + GitHub Pages.
-# Triggers on pushes to daily JSON (and related static files), plus manual runs.
+# Copy to bibkreyol-comments-data: .github/workflows/deploy-comments-hosting-and-pages.yml
+#
+# Single workflow: Firebase Hosting + GitHub Pages.
+#
+# Why not `paths: comments/daily/**` on push?
+# Compaction (and bots) commit that tree very often → hundreds of Actions runs per day and a
+# noisy UI even with concurrency.cancel-in-progress. Instead: deploy on a schedule (latest
+# main), when routing/workflow changes, or workflow_dispatch.
+#
+# Max lag vs git: one schedule interval (default 5 min) unless you run workflow_dispatch.
 #
 # Required secret: FIREBASE_TOKEN (Firebase deploy only — job skips if unset)
 
@@ -9,10 +17,11 @@ on:
   push:
     branches: [main, master]
     paths:
-      - 'comments/daily/**'
       - '_headers'
       - '_routes.json'
       - '.github/workflows/deploy-comments-hosting-and-pages.yml'
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 concurrency:
@@ -123,7 +132,7 @@ jobs:
             exit 1
           fi
           cp -v "${files[@]}" _site/comments/daily/
-          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>BibKreyol comments data</title></head><body><p>Static JSON for daily verse comments. Path: <code>comments/daily/</code></p></body></html>' > _site/index.html
+          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>Comments data</title></head><body><p>Static JSON under <code>comments/daily/</code>.</p></body></html>' > _site/index.html
           : > _site/.nojekyll
 
       - uses: actions/configure-pages@v5
