@@ -1,19 +1,18 @@
-# Firebase Hosting + GitHub Pages for bibkreyol-comments-data.
-#
-# Runs on a timer (not on push) so comment JSON commits do not start deploys — the next
-# scheduled run picks up whatever is on main. Manual: workflow_dispatch.
-#
-# Schedule: GitHub Actions does not support reliable intervals below ~5 minutes; `*/2 * * * *`
-# is not honored. See: https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+# Single workflow for bibkreyol-comments-data: Firebase Hosting + GitHub Pages.
+# Triggers on pushes to daily JSON (and related static files), plus manual runs.
 #
 # Required secret: FIREBASE_TOKEN (Firebase deploy only — job skips if unset)
 
 name: Deploy comments (Firebase + GitHub Pages)
 
 on:
-  schedule:
-    # Every 5 minutes UTC (closest supported cadence; true 2-minute cron is not available on GitHub-hosted)
-    - cron: '*/5 * * * *'
+  push:
+    branches: [main, master]
+    paths:
+      - 'comments/daily/**'
+      - '_headers'
+      - '_routes.json'
+      - '.github/workflows/deploy-comments-hosting-and-pages.yml'
   workflow_dispatch:
 
 concurrency:
