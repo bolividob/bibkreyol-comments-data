@@ -1,9 +1,23 @@
 {
   "date": "2026-04-15",
   "verseKey": "daily:2026-04-15",
-  "updatedAt": 1776276316283,
+  "updatedAt": 1776276432785,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776276367439",
+      "text": "Mwn pa we yo non amen!",
+      "userDeviceId": "f67995f734db80579c38fbd14a95a60780bf3a165edde812795e2f061bf2c8d3",
+      "userName": "Testy",
+      "verseName": "Tit 1:2",
+      "parentId": "local-1776273060239",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776276432785,
+      "updatedAt": 1776276432785,
+      "status": "active"
+    },
     {
       "id": "local-1776273134608",
       "text": "Amen pep sove",
@@ -27,13 +41,13 @@
       "userName": "Nanda",
       "verseName": "Tit 1:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "f67995f734db80579c38fbd14a95a60780bf3a165edde812795e2f061bf2c8d3"
       ],
       "createdAt": 1776273183376,
-      "updatedAt": 1776276184003,
+      "updatedAt": 1776276432785,
       "status": "active"
     },
     {
@@ -222,7 +236,7 @@
   ],
   "likeCount": 63,
   "shareCount": 109,
-  "viewCount": 6029,
+  "viewCount": 6042,
   "verseLikedBy": [
     "8e325703050cf0bf34d52437425df6eebed2c3d94470f56c8b1e6a7f5198e105",
     "01bdd6a84d1545fcc11d5f5562a5c5c0936bded53f8f749eb725cdf671e2bbfe",
