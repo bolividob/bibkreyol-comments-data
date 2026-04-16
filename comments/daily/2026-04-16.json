@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
   "verseKey": "daily:2026-04-16",
-  "updatedAt": 1776382389684,
+  "updatedAt": 1776382502926,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jonas 4:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+      ],
       "createdAt": 1776380824773,
-      "updatedAt": 1776380824773,
+      "updatedAt": 1776382502926,
       "status": "active"
     },
     {
@@ -121,7 +123,7 @@
   ],
   "likeCount": 79,
   "shareCount": 136,
-  "viewCount": 10163,
+  "viewCount": 10173,
   "verseLikedBy": [
     "31d359207717419cc719c7f2fcb5c202aa6c688283fa47dca70bada09facabee",
     "546f088c36252ec475d4157dfa4c4b8ae103ac994c82a7dda850677afcff0b79",
