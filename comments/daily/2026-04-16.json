@@ -1,9 +1,23 @@
 {
   "date": "2026-04-16",
   "verseKey": "daily:2026-04-16",
-  "updatedAt": 1776355506367,
+  "updatedAt": 1776355749185,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776355582737",
+      "text": "pa kitem tankou jonas senye",
+      "userDeviceId": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
+      "userName": "sr sansann",
+      "verseName": "Jonas 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776355749185,
+      "updatedAt": 1776355749185,
+      "status": "active"
+    },
     {
       "id": "local-1776353468964",
       "text": "Kisa ki jot la?",
@@ -91,7 +105,7 @@
   ],
   "likeCount": 56,
   "shareCount": 102,
-  "viewCount": 7275,
+  "viewCount": 7321,
   "verseLikedBy": [
     "31d359207717419cc719c7f2fcb5c202aa6c688283fa47dca70bada09facabee",
     "546f088c36252ec475d4157dfa4c4b8ae103ac994c82a7dda850677afcff0b79",
