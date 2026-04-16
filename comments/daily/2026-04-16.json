@@ -1,9 +1,23 @@
 {
   "date": "2026-04-16",
   "verseKey": "daily:2026-04-16",
-  "updatedAt": 1776345063903,
+  "updatedAt": 1776345184919,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776345148379",
+      "text": "Fem we nou?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Anthony",
+      "verseName": "Jonas 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776345184919,
+      "updatedAt": 1776345184919,
+      "status": "active"
+    },
     {
       "id": "local-1776343049092",
       "text": "Amèn Amèn Amèn  ui",
@@ -63,7 +77,7 @@
   ],
   "likeCount": 47,
   "shareCount": 85,
-  "viewCount": 6115,
+  "viewCount": 6130,
   "verseLikedBy": [
     "31d359207717419cc719c7f2fcb5c202aa6c688283fa47dca70bada09facabee",
     "546f088c36252ec475d4157dfa4c4b8ae103ac994c82a7dda850677afcff0b79",
