@@ -1,9 +1,23 @@
 {
   "date": "2026-04-16",
   "verseKey": "daily:2026-04-16",
-  "updatedAt": 1776343023977,
+  "updatedAt": 1776343143892,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776343049092",
+      "text": "Amèn Amèn Amèn  ui",
+      "userDeviceId": "74864183c6f0a7934391a985203595642b063d029b8b129ff28711c662318ddc",
+      "userName": "yes",
+      "verseName": "Jonas 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776343143892,
+      "updatedAt": 1776343143892,
+      "status": "active"
+    },
     {
       "id": "local-1776315432065",
       "text": "kmnw ye",
@@ -49,7 +63,7 @@
   ],
   "likeCount": 46,
   "shareCount": 80,
-  "viewCount": 5927,
+  "viewCount": 5937,
   "verseLikedBy": [
     "31d359207717419cc719c7f2fcb5c202aa6c688283fa47dca70bada09facabee",
     "546f088c36252ec475d4157dfa4c4b8ae103ac994c82a7dda850677afcff0b79",
