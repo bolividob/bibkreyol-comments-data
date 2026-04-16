@@ -1,12 +1,27 @@
 {
   "date": "2026-04-16",
   "verseKey": "daily:2026-04-16",
-  "updatedAt": 1776313263951,
+  "updatedAt": 1776313384824,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1776313378276",
+      "text": "amen amen amen",
+      "userDeviceId": "fd98e7da142d5f30b420aad7a58f19ff6230f9dfb08c17424118c055318e9fa6",
+      "userName": "swanwet",
+      "verseName": "Jonas 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776313384824,
+      "updatedAt": 1776313384824,
+      "status": "active"
+    }
+  ],
   "likeCount": 27,
   "shareCount": 28,
-  "viewCount": 3535,
+  "viewCount": 3545,
   "verseLikedBy": [
     "31d359207717419cc719c7f2fcb5c202aa6c688283fa47dca70bada09facabee",
     "546f088c36252ec475d4157dfa4c4b8ae103ac994c82a7dda850677afcff0b79",
