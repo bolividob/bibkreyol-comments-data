@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776434951743,
+  "updatedAt": 1776435063882,
   "version": 1,
   "comments": [
     {
@@ -84,12 +84,13 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f"
       ],
       "createdAt": 1776400754575,
-      "updatedAt": 1776407463055,
+      "updatedAt": 1776435063882,
       "status": "active"
     },
     {
@@ -257,7 +258,7 @@
   ],
   "likeCount": 73,
   "shareCount": 165,
-  "viewCount": 6855,
+  "viewCount": 6868,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
