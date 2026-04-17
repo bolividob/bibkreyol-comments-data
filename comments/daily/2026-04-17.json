@@ -1,9 +1,25 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776439023565,
+  "updatedAt": 1776439143496,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776439098915",
+      "text": "Mwen remen bib la mersi",
+      "userDeviceId": "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290",
+      "userName": "cheriscaorebna",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+      ],
+      "createdAt": 1776439143496,
+      "updatedAt": 1776439143496,
+      "status": "active"
+    },
     {
       "id": "local-1776427863367",
       "text": "Amen",
@@ -258,7 +274,7 @@
   ],
   "likeCount": 73,
   "shareCount": 170,
-  "viewCount": 7316,
+  "viewCount": 7326,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
