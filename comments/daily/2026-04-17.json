@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776396305623,
+  "updatedAt": 1776396425481,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776385991013",
+      "text": "amén amén amén amén 🙏🙏",
+      "userDeviceId": "dd4a8fe00990b8192fcb5d3589128c8ff1d3b28e21387bfc2e630bf7bea6f923",
+      "userName": "linya",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776396425481,
+      "updatedAt": 1776396425481,
+      "status": "active"
+    },
     {
       "id": "local-1776395273406",
       "text": "Amennnnnnn",
@@ -91,7 +105,7 @@
   ],
   "likeCount": 32,
   "shareCount": 42,
-  "viewCount": 3097,
+  "viewCount": 3111,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
