@@ -49,9 +49,3 @@ Bib Kreyol is a Haitian Creole Bible app: read the Bible offline, follow the ver
 | ---- | ----------- |
 | `assets/banner.png` | Wide banner (from the Bib Kreyol project branding) |
 | `assets/logo.png` | App-style logo mark |
-
----
-
-## Publishing this README on GitHub
-
-Copy **`README.md`** and the **`assets/`** directory to the **root** of [bolividob/bibkreyol-comments-data](https://github.com/bolividob/bibkreyol-comments-data) so image paths resolve as `assets/banner.png` and `assets/logo.png`. The same files are maintained from the main Bib Kreyol Android project under `docs/bibkreyol-comments-data/`.
