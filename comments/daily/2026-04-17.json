@@ -1,9 +1,37 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776445263827,
+  "updatedAt": 1776445388915,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776445272858",
+      "text": "Amen 🙏.",
+      "userDeviceId": "3c069f8b5c20c406ff5a8b0eb172faf119d54d9168039f5b476b2d54cd6f0195",
+      "userName": "Sheemslyne Fortuné",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776445388915,
+      "updatedAt": 1776445388915,
+      "status": "active"
+    },
+    {
+      "id": "local-1776445316282",
+      "text": "Mwen renmen vèsè jounen an 😊🙇.",
+      "userDeviceId": "3c069f8b5c20c406ff5a8b0eb172faf119d54d9168039f5b476b2d54cd6f0195",
+      "userName": "Sheemslyne Fortuné",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776445388915,
+      "updatedAt": 1776445388915,
+      "status": "active"
+    },
     {
       "id": "local-1776441779267",
       "text": "amén",
@@ -309,8 +337,8 @@
     }
   ],
   "likeCount": 79,
-  "shareCount": 180,
-  "viewCount": 8161,
+  "shareCount": 181,
+  "viewCount": 8175,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
