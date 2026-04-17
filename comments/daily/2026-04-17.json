@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776468426746,
+  "updatedAt": 1776468548441,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776454624828,
-      "updatedAt": 1776454624828,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776454624827,
-      "updatedAt": 1776454624827,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -110,10 +114,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776445388915,
-      "updatedAt": 1776447903977,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -124,10 +130,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776441793030,
-      "updatedAt": 1776441793030,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -138,10 +146,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776439269093,
-      "updatedAt": 1776439269093,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -168,10 +178,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776427984493,
-      "updatedAt": 1776427984493,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -182,10 +194,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776424504562,
-      "updatedAt": 1776424504562,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -196,10 +210,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776424504562,
-      "updatedAt": 1776424504562,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -240,13 +256,14 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
-        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f"
+        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f",
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
       ],
       "createdAt": 1776400754575,
-      "updatedAt": 1776435063882,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -257,13 +274,14 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f",
-        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290",
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
       ],
       "createdAt": 1776400385541,
-      "updatedAt": 1776439269093,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -274,15 +292,16 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 4,
+      "likeCount": 5,
       "likedBy": [
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
         "f325a542277ffcee6f8ac9f8c382c1cb47589309dff103557f647ac4d1ae2ffc",
         "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f",
-        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290",
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
       ],
       "createdAt": 1776398466866,
-      "updatedAt": 1776439269093,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -309,10 +328,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776397389653,
-      "updatedAt": 1776397389653,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -323,12 +344,13 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290",
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
       ],
       "createdAt": 1776396425481,
-      "updatedAt": 1776439269093,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -339,12 +361,13 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
       ],
       "createdAt": 1776395357195,
-      "updatedAt": 1776405785790,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -355,10 +378,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776393907545,
-      "updatedAt": 1776393907545,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -369,12 +394,13 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290",
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
       ],
       "createdAt": 1776391266965,
-      "updatedAt": 1776439269093,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -385,10 +411,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776389345351,
-      "updatedAt": 1776389345351,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -399,10 +427,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776387788503,
-      "updatedAt": 1776387788503,
+      "updatedAt": 1776468548441,
       "status": "active"
     },
     {
@@ -413,16 +443,18 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+      ],
       "createdAt": 1776385026031,
-      "updatedAt": 1776385026031,
+      "updatedAt": 1776468548441,
       "status": "active"
     }
   ],
-  "likeCount": 100,
+  "likeCount": 101,
   "shareCount": 209,
-  "viewCount": 10651,
+  "viewCount": 10669,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
@@ -523,7 +555,8 @@
     "67a7a6a022470094de8bbbe42c0b47fb202013152f00efc44f7543b25f6809cc",
     "3d2685cc0ca2871be415b9ae602122319921510583c5934a04ccb506e9905b64",
     "d27a0246688e1dde0905af3d65c6eb37ff323ceba99a438cb41a00fc72d48dfb",
-    "a0f8cca5edca29e9d33bb0544c2b4ef5de826f4bd23d7fdf95c2647a129059bf"
+    "a0f8cca5edca29e9d33bb0544c2b4ef5de826f4bd23d7fdf95c2647a129059bf",
+    "374105be4216fba2bb92d2124cd2fb64e3a18293fd47fcabb56214c1091f4f26"
   ],
   "verseViewBy": []
 }
