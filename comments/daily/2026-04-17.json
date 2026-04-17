@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776397146852,
+  "updatedAt": 1776397389653,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776397167047",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776397389653,
+      "updatedAt": 1776397389653,
+      "status": "active"
+    },
     {
       "id": "local-1776385991013",
       "text": "amén amén amén amén 🙏🙏",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
-  "shareCount": 43,
-  "viewCount": 3271,
+  "likeCount": 35,
+  "shareCount": 44,
+  "viewCount": 3325,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
@@ -140,7 +154,8 @@
     "c19b78b600c73156bcc397de41a28cefa8bacae862916efa92a5bf8289c03bb2",
     "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591",
     "c8eb8958783dcaebea3984793e724879649e4673c299a55623cf04a942288669",
-    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240"
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "dd0974cb3a52ff0b57287e8d79464bcd58be0dc44565252fe6c3a14d5195f13d"
   ],
   "verseViewBy": []
 }
