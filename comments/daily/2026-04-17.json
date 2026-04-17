@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776391145150,
+  "updatedAt": 1776391266965,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776391155838",
+      "text": "bondye beniw frère sèm yo",
+      "userDeviceId": "95bfdadcb2d6ff2e9355ae16d56cdbb344db0f478b3ecd122fb0b3a8f1abf77f",
+      "userName": "bondye beniw frère sèm",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776391266965,
+      "updatedAt": 1776391266965,
+      "status": "active"
+    },
     {
       "id": "local-1776389275804",
       "text": "Amen amen",
@@ -48,8 +62,8 @@
     }
   ],
   "likeCount": 20,
-  "shareCount": 25,
-  "viewCount": 1842,
+  "shareCount": 26,
+  "viewCount": 1876,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
