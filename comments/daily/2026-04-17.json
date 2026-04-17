@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776407594087,
+  "updatedAt": 1776407702698,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776407598533",
+      "text": "Aleluia aleluia aleluia",
+      "userDeviceId": "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04",
+      "userName": "mystafa",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776407702698,
+      "updatedAt": 1776407702698,
+      "status": "active"
+    },
     {
       "id": "local-1776400655189",
       "text": "Ala bon li bon🤩!",
@@ -182,7 +196,7 @@
   ],
   "likeCount": 45,
   "shareCount": 61,
-  "viewCount": 4206,
+  "viewCount": 4212,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
