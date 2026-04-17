@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776397505477,
+  "updatedAt": 1776397625380,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776397587146",
+      "text": "amén amén amén",
+      "userDeviceId": "754d7b2a2b70b421aa422578993d4121a9cb08c95c2ff9b6dd35b9b71e825d1f",
+      "userName": "Mayson",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776397625380,
+      "updatedAt": 1776397625380,
+      "status": "active"
+    },
     {
       "id": "local-1776397167047",
       "text": "Amen",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 35,
-  "shareCount": 44,
-  "viewCount": 3349,
+  "likeCount": 36,
+  "shareCount": 45,
+  "viewCount": 3371,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
@@ -155,7 +169,8 @@
     "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591",
     "c8eb8958783dcaebea3984793e724879649e4673c299a55623cf04a942288669",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
-    "dd0974cb3a52ff0b57287e8d79464bcd58be0dc44565252fe6c3a14d5195f13d"
+    "dd0974cb3a52ff0b57287e8d79464bcd58be0dc44565252fe6c3a14d5195f13d",
+    "754d7b2a2b70b421aa422578993d4121a9cb08c95c2ff9b6dd35b9b71e825d1f"
   ],
   "verseViewBy": []
 }
