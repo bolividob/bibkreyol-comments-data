@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776439143496,
+  "updatedAt": 1776439269093,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776439191905",
+      "text": "amén",
+      "userDeviceId": "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290",
+      "userName": "cheriscaorebna",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776439269093,
+      "updatedAt": 1776439269093,
+      "status": "active"
+    },
     {
       "id": "local-1776439098915",
       "text": "Mwen remen bib la mersi",
@@ -117,12 +131,13 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f"
+        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f",
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
       ],
       "createdAt": 1776400385541,
-      "updatedAt": 1776408182925,
+      "updatedAt": 1776439269093,
       "status": "active"
     },
     {
@@ -133,14 +148,15 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "likedBy": [
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
         "f325a542277ffcee6f8ac9f8c382c1cb47589309dff103557f647ac4d1ae2ffc",
-        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f"
+        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f",
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
       ],
       "createdAt": 1776398466866,
-      "updatedAt": 1776408182925,
+      "updatedAt": 1776439269093,
       "status": "active"
     },
     {
@@ -151,10 +167,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+      ],
       "createdAt": 1776397625380,
-      "updatedAt": 1776397625380,
+      "updatedAt": 1776439269093,
       "status": "active"
     },
     {
@@ -179,10 +197,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+      ],
       "createdAt": 1776396425481,
-      "updatedAt": 1776396425481,
+      "updatedAt": 1776439269093,
       "status": "active"
     },
     {
@@ -223,10 +243,12 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a5a4a62ea8410c8b2a80d60917f7bf33a41439ca0b06c755ebdf02a03f848290"
+      ],
       "createdAt": 1776391266965,
-      "updatedAt": 1776391266965,
+      "updatedAt": 1776439269093,
       "status": "active"
     },
     {
@@ -272,9 +294,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
+  "likeCount": 74,
   "shareCount": 170,
-  "viewCount": 7326,
+  "viewCount": 7343,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
@@ -348,7 +370,8 @@
     "f008a033931df082a4c65be0533c6cfae6e3d0cfdf5cf9d14c6122902db8a0c7",
     "f9241ee6f25df590f583fa81e51f9314fd4bda0b76db52fd28efc7e85820cb84",
     "2b5e15519a7315a8740701d37ff67fd05af869089ffea7762319a47f1be9d75f",
-    "37a8cb04c1a9c1678fd62c5d68a0ae588cb0049805460ed916d4bde2a72752a8"
+    "37a8cb04c1a9c1678fd62c5d68a0ae588cb0049805460ed916d4bde2a72752a8",
+    "7b0929865e8bbd4d51c4c0afc07239d648dfde74919f4ddc4f5815f34aa30598"
   ],
   "verseViewBy": []
 }
