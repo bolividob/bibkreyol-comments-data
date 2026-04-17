@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776393784073,
+  "updatedAt": 1776393907545,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776393785723",
+      "text": "I totally understand you, it’s not always easy. It really depends on what you’re trying to sell, though. But it’s definitely possible, man.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Anthony",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776393907545,
+      "updatedAt": 1776393907545,
+      "status": "active"
+    },
     {
       "id": "local-1776391155838",
       "text": "bondye beniw frère sèm yo",
@@ -62,8 +76,8 @@
     }
   ],
   "likeCount": 25,
-  "shareCount": 34,
-  "viewCount": 2514,
+  "shareCount": 35,
+  "viewCount": 2551,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
