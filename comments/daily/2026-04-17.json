@@ -1,16 +1,32 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776384907541,
+  "updatedAt": 1776385026031,
   "version": 1,
-  "comments": [],
-  "likeCount": 3,
-  "shareCount": 2,
-  "viewCount": 319,
+  "comments": [
+    {
+      "id": "local-1776385014835",
+      "text": "Amen legliz",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Anthony",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776385026031,
+      "updatedAt": 1776385026031,
+      "status": "active"
+    }
+  ],
+  "likeCount": 4,
+  "shareCount": 3,
+  "viewCount": 350,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
-    "7ec84c9bb5113c9e16af5fcc29609a6822784f76128d41f2fc61dc7e75d6c744"
+    "7ec84c9bb5113c9e16af5fcc29609a6822784f76128d41f2fc61dc7e75d6c744",
+    "3487c75121888f4cc0e2d2280c93edb5bb7100afce9bdb3611d5a93882f4abf1"
   ],
   "verseViewBy": []
 }
