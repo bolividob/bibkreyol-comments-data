@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776395228587,
+  "updatedAt": 1776395357195,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776395273406",
+      "text": "Amennnnnnn",
+      "userDeviceId": "db866955bc745d8bc3c26c4ec7dda5905f6838f59ab6bd46a16965ed1101345e",
+      "userName": "tee",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776395357195,
+      "updatedAt": 1776395357195,
+      "status": "active"
+    },
     {
       "id": "local-1776393785723",
       "text": "I totally understand you, it’s not always easy. It really depends on what you’re trying to sell, though. But it’s definitely possible, man.",
@@ -77,7 +91,7 @@
   ],
   "likeCount": 30,
   "shareCount": 40,
-  "viewCount": 2847,
+  "viewCount": 2876,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
