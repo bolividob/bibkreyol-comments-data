@@ -1,9 +1,25 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776422223725,
+  "updatedAt": 1776422345776,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776422263315",
+      "text": "frère ancriste",
+      "userDeviceId": "9e5910d56ca40469ec47b653b90746424e890d03921e126709fa2c371fdfcc4d",
+      "userName": "wilfrid",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "9e5910d56ca40469ec47b653b90746424e890d03921e126709fa2c371fdfcc4d"
+      ],
+      "createdAt": 1776422345776,
+      "updatedAt": 1776422345776,
+      "status": "active"
+    },
     {
       "id": "local-1776407598533",
       "text": "Aleluia aleluia aleluia",
@@ -198,8 +214,8 @@
     }
   ],
   "likeCount": 56,
-  "shareCount": 118,
-  "viewCount": 5305,
+  "shareCount": 120,
+  "viewCount": 5326,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
