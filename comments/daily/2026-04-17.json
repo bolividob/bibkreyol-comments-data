@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776449705657,
+  "updatedAt": 1776449829991,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776449730380",
+      "text": "Bondye beniw",
+      "userDeviceId": "088c9f2778701e2bb1865172c66031f0d21d5ec3e9bc281cbbf57dc2b9410147",
+      "userName": "Dodo isaac",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776449829991,
+      "updatedAt": 1776449829991,
+      "status": "active"
+    },
     {
       "id": "local-1776447773136",
       "text": "pa bliye pataje li! 🤩",
@@ -350,9 +364,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 82,
+  "likeCount": 83,
   "shareCount": 186,
-  "viewCount": 8509,
+  "viewCount": 8519,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
@@ -435,7 +449,8 @@
     "594afc0da31258b945001ae758c1a54c71935c2d2a678a6a150323712a764c33",
     "644f91003ea7807f347126fcedbc5a456e4357f617961d0fbed41fecbd5a859f",
     "0c77575405d195a6d44d1650d60c1368e0411f1356dd1e00c8229afbf2e8ffdf",
-    "157c77a69968bcf073619ab59ee3550b0f5cf53771e2114e93e195c097699904"
+    "157c77a69968bcf073619ab59ee3550b0f5cf53771e2114e93e195c097699904",
+    "088c9f2778701e2bb1865172c66031f0d21d5ec3e9bc281cbbf57dc2b9410147"
   ],
   "verseViewBy": []
 }
