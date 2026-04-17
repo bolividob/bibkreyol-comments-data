@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776389225951,
+  "updatedAt": 1776389345351,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776389275804",
+      "text": "Amen amen",
+      "userDeviceId": "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
+      "userName": "Sr Dorvil wislene",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776389345351,
+      "updatedAt": 1776389345351,
+      "status": "active"
+    },
     {
       "id": "local-1776387733725",
       "text": "Amen",
@@ -35,7 +49,7 @@
   ],
   "likeCount": 14,
   "shareCount": 15,
-  "viewCount": 1366,
+  "viewCount": 1389,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
