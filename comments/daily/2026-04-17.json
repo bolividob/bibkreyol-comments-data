@@ -1,9 +1,23 @@
 {
   "date": "2026-04-17",
   "verseKey": "daily:2026-04-17",
-  "updatedAt": 1776469986151,
+  "updatedAt": 1776470105082,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776470030640",
+      "text": "koman nou ye?",
+      "userDeviceId": "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f",
+      "userName": "amne",
+      "verseName": "2 Tesalonisyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776470105082,
+      "updatedAt": 1776470105082,
+      "status": "active"
+    },
     {
       "id": "local-1776454567542",
       "text": "God is Good",
@@ -12,12 +26,13 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab",
+        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f"
       ],
       "createdAt": 1776454624828,
-      "updatedAt": 1776468548441,
+      "updatedAt": 1776470105082,
       "status": "active"
     },
     {
@@ -443,18 +458,19 @@
       "verseName": "2 Tesalonisyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab"
+        "dcbf3c2d1f1ee2f42fb0156591d1f35e4bd2e5a324899d8a7d1e3d7d46fa52ab",
+        "79b2f786bea05278c0acf6a549e72efeff83dc3110b663fddd99e3199a84f83f"
       ],
       "createdAt": 1776385026031,
-      "updatedAt": 1776468548441,
+      "updatedAt": 1776470105082,
       "status": "active"
     }
   ],
   "likeCount": 102,
   "shareCount": 212,
-  "viewCount": 10991,
+  "viewCount": 11014,
   "verseLikedBy": [
     "fffe5c52a882e02aa87ba78f29fc36bed117d6f9a78bcb4f6d54727208e5bdd3",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
