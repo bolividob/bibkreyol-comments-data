@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776475686063,
+  "updatedAt": 1776475930905,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776475878534",
+      "text": "Amèn",
+      "userDeviceId": "dc2fc09007f3eebf982861574b06fee3d17565090ab67c17b2f4b1a1c386169e",
+      "userName": "Charlie Célestine Octavie",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776475930904,
+      "updatedAt": 1776475930904,
+      "status": "active"
+    },
     {
       "id": "local-1776474138507",
       "text": "Bel verite",
@@ -12,10 +26,12 @@
       "verseName": "Aje 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dc2fc09007f3eebf982861574b06fee3d17565090ab67c17b2f4b1a1c386169e"
+      ],
       "createdAt": 1776474149850,
-      "updatedAt": 1776474149850,
+      "updatedAt": 1776475930905,
       "status": "active"
     },
     {
@@ -26,16 +42,18 @@
       "verseName": "Aje 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dc2fc09007f3eebf982861574b06fee3d17565090ab67c17b2f4b1a1c386169e"
+      ],
       "createdAt": 1776470595788,
-      "updatedAt": 1776470595788,
+      "updatedAt": 1776475930905,
       "status": "active"
     }
   ],
-  "likeCount": 15,
-  "shareCount": 11,
-  "viewCount": 1508,
+  "likeCount": 17,
+  "shareCount": 13,
+  "viewCount": 1570,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
@@ -51,7 +69,9 @@
     "a33c130cf2b9af413aadcb6f822181bd783b2f270746f65ee2fa80a725a28342",
     "52ea46afc70a68602d2f5c7f8fddf68e14dcf14cc6a5337367f9a821bcbddde1",
     "7eacb37c604471f262f09d16740f1b358d7168ca75885ea10bf6f7a133628421",
-    "3b3cda00d9056868d313ff89c10cda9d01b7df718a96bb60ccf7a1be38fa63c0"
+    "3b3cda00d9056868d313ff89c10cda9d01b7df718a96bb60ccf7a1be38fa63c0",
+    "f303d7013065c6219b77466881bf5a3fd79035c6720e5b2f60df8ed5a70565b8",
+    "dc2fc09007f3eebf982861574b06fee3d17565090ab67c17b2f4b1a1c386169e"
   ],
   "verseViewBy": []
 }
