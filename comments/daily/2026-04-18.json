@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776518164364,
+  "updatedAt": 1776518286954,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776518206923",
+      "text": "Amén 🙏💪",
+      "userDeviceId": "59013ef6731a17650d6357a86d1cc4476712ceb4876f100f27877cb5b804c0e8",
+      "userName": "SR Jiji",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776518286954,
+      "updatedAt": 1776518286954,
+      "status": "active"
+    },
     {
       "id": "local-1776516121464",
       "text": "Amén 🔥🙏",
@@ -251,9 +265,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 77,
+  "likeCount": 78,
   "shareCount": 163,
-  "viewCount": 7391,
+  "viewCount": 7411,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
@@ -331,7 +345,8 @@
     "87319e1127fb944d36ae4aaffda5ba9b92f5626c9dc96d3f9bd47658e96d0c2b",
     "f3c0b89aff98ad106f1b077cdeac9dc3217d856f1738b94dc19fcf3bfeecddb6",
     "4ad9286c4b623481ae3450f23774104a702827a1dc3d70a63b61415fa4e189b3",
-    "ee41644c8b626c7929ab4b820b44e88860ecdc806e34fcabdcba364d7f9a58cc"
+    "ee41644c8b626c7929ab4b820b44e88860ecdc806e34fcabdcba364d7f9a58cc",
+    "59013ef6731a17650d6357a86d1cc4476712ceb4876f100f27877cb5b804c0e8"
   ],
   "verseViewBy": []
 }
