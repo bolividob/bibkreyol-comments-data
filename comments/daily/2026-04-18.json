@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776481265441,
+  "updatedAt": 1776481394726,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776481272227",
+      "text": "amen 🙏🏻",
+      "userDeviceId": "f599f85112ea2d244a43eae9a6ab6de328542d15a06a588cb8418d36e5dc29dd",
+      "userName": "Dada",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776481394726,
+      "updatedAt": 1776481394726,
+      "status": "active"
+    },
     {
       "id": "local-1776479428077",
       "text": "Amen 🙏",
@@ -12,10 +26,12 @@
       "verseName": "Aje 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "efe1b8c62d635432a626b961e1536d0c88ae48592ffda2da818f9c7a9fb45dac"
+      ],
       "createdAt": 1776479533748,
-      "updatedAt": 1776479533748,
+      "updatedAt": 1776481394726,
       "status": "active"
     },
     {
@@ -122,8 +138,8 @@
     }
   ],
   "likeCount": 34,
-  "shareCount": 29,
-  "viewCount": 3141,
+  "shareCount": 31,
+  "viewCount": 3174,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
