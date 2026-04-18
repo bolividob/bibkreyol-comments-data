@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776492423068,
+  "updatedAt": 1776492544570,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776492502119",
+      "text": "Amen 🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776492544569,
+      "updatedAt": 1776492544569,
+      "status": "active"
+    },
     {
       "id": "local-1776490492839",
       "text": "bondie bon",
@@ -193,9 +207,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
-  "shareCount": 51,
-  "viewCount": 4849,
+  "likeCount": 52,
+  "shareCount": 52,
+  "viewCount": 4855,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
@@ -246,7 +260,9 @@
     "06429848c62e6b6b6b6fbfdd8d4dd593c9664714227a94b2c5b7b7a17d664a6e",
     "29af96a32c79df5959f84430dcf26e4d3394607b487e1a7c2391c4e3b6595447",
     "6fd885aa45f36eaf492e27f03cb38fe5d0bb4cfe083121403b93ae2da25bec2b",
-    "69365d8b41de39972f6437b47b74b54c2aa563d475f8de44d6e338f2e44cf1d9"
+    "69365d8b41de39972f6437b47b74b54c2aa563d475f8de44d6e338f2e44cf1d9",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
