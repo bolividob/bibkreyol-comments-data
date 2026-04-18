@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776476766433,
+  "updatedAt": 1776476888437,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776476856123",
+      "text": "lik",
+      "userDeviceId": "bbc606ef6ffed31140ab6a7b1340ed7cddf1854d8533fe6184fbd6538fc6ecba",
+      "userName": "lik 2 v5",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776476888437,
+      "updatedAt": 1776476888437,
+      "status": "active"
+    },
     {
       "id": "local-1776475878534",
       "text": "Amèn",
@@ -51,9 +65,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
-  "shareCount": 15,
-  "viewCount": 1797,
+  "likeCount": 20,
+  "shareCount": 17,
+  "viewCount": 1837,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
@@ -72,7 +86,9 @@
     "3b3cda00d9056868d313ff89c10cda9d01b7df718a96bb60ccf7a1be38fa63c0",
     "f303d7013065c6219b77466881bf5a3fd79035c6720e5b2f60df8ed5a70565b8",
     "dc2fc09007f3eebf982861574b06fee3d17565090ab67c17b2f4b1a1c386169e",
-    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414"
+    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
+    "bbc606ef6ffed31140ab6a7b1340ed7cddf1854d8533fe6184fbd6538fc6ecba",
+    "7e554c4f68c057bab054b2feefc07bc2915c284c1eaa3c4694ceaf91b854fce4"
   ],
   "verseViewBy": []
 }
