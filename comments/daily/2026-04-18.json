@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776553024488,
+  "updatedAt": 1776553145178,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776553021480",
+      "text": "celianna",
+      "userDeviceId": "4bd2f1d60495aa27c95dc2e5325af9adee5c888b38320c89c043b2f073e4ce8f",
+      "userName": "termeuisnoremis@gmail.com",
+      "verseName": "Aje 2:5",
+      "parentId": "local-1776552950732",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776553145178,
+      "updatedAt": 1776553145178,
+      "status": "active"
+    },
     {
       "id": "local-1776552950732",
       "text": "mil mesi pou tut",
@@ -11,13 +25,13 @@
       "userName": "termeuisnoremis@gmail.com",
       "verseName": "Aje 2:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "4bd2f1d60495aa27c95dc2e5325af9adee5c888b38320c89c043b2f073e4ce8f"
       ],
       "createdAt": 1776553024488,
-      "updatedAt": 1776553024488,
+      "updatedAt": 1776553145178,
       "status": "active"
     },
     {
@@ -343,8 +357,8 @@
     }
   ],
   "likeCount": 126,
-  "shareCount": 232,
-  "viewCount": 11911,
+  "shareCount": 233,
+  "viewCount": 11934,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
