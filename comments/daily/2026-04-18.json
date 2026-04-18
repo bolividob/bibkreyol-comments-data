@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776485946028,
+  "updatedAt": 1776486065125,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776485992064",
+      "text": "amén amén 🙏🙏🙌",
+      "userDeviceId": "46089319b992cae79ec30671813ea6181283a11048b96c3e2a3b7473ea303205",
+      "userName": "amén amén 🙏",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776486065125,
+      "updatedAt": 1776486065125,
+      "status": "active"
+    },
     {
       "id": "local-1776483905999",
       "text": "jezi",
@@ -153,7 +167,7 @@
   ],
   "likeCount": 42,
   "shareCount": 42,
-  "viewCount": 4255,
+  "viewCount": 4272,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
