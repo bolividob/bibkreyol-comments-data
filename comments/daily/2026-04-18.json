@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776513483882,
+  "updatedAt": 1776513604957,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776513529667",
+      "text": "amen la fidélité de Dieu",
+      "userDeviceId": "b901fc967f48192897d5ad3fd97f59fdb5622fb9c6941afad59b0bb3669091b7",
+      "userName": "François Themson",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776513604957,
+      "updatedAt": 1776513604957,
+      "status": "active"
+    },
     {
       "id": "local-1776505885996",
       "text": "Amen merci seignuer 🙌",
@@ -221,9 +235,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 70,
-  "shareCount": 146,
-  "viewCount": 6714,
+  "likeCount": 71,
+  "shareCount": 148,
+  "viewCount": 6731,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
@@ -294,7 +308,8 @@
     "c0d193a624efa92e63a0813cc648e91b92c5bbae14deb219d40c755bad6c550f",
     "618159b40b25429284087c6e8603bfedb2aa31c1a64dd370ae684e6095d52acf",
     "ad695ca1232b3eec4c64f9379dd37517d3b38a7b51b0e6e0202dfef8f4e82330",
-    "9a672ae2b39acbd2f1540cb2b605c779888a079acb91015f7c0d60617f1726c7"
+    "9a672ae2b39acbd2f1540cb2b605c779888a079acb91015f7c0d60617f1726c7",
+    "b901fc967f48192897d5ad3fd97f59fdb5622fb9c6941afad59b0bb3669091b7"
   ],
   "verseViewBy": []
 }
