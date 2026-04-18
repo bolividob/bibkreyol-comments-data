@@ -1,9 +1,23 @@
 {
   "date": "2026-04-18",
   "verseKey": "daily:2026-04-18",
-  "updatedAt": 1776478449550,
+  "updatedAt": 1776478565945,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776478534481",
+      "text": "Sr Maille",
+      "userDeviceId": "30bee5f9aa30b21eb324f04b61923d710f99c81feb6fb0be80f7f7ad6a73a5de",
+      "userName": "Amén",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776478565945,
+      "updatedAt": 1776478565945,
+      "status": "active"
+    },
     {
       "id": "local-1776478235918",
       "text": "Amén",
@@ -79,9 +93,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 25,
+  "likeCount": 26,
   "shareCount": 19,
-  "viewCount": 2273,
+  "viewCount": 2304,
   "verseLikedBy": [
     "edf37700ffdefeb1fe0f616bf3a036153f4f98733e24e8a096a994b8b2342d03",
     "2aca94684d01d7694b2d00b22e0775b17674a862211ca1db65421b04c5b38b21",
@@ -107,7 +121,8 @@
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fa770bbea0678de2c4b709a0d0915903760179a1cd903ce8800874f189b14a58",
     "f98782f767ef1149b4e08f889b9276059be9d673c22bdc775214cf2417f62ada",
-    "30bee5f9aa30b21eb324f04b61923d710f99c81feb6fb0be80f7f7ad6a73a5de"
+    "30bee5f9aa30b21eb324f04b61923d710f99c81feb6fb0be80f7f7ad6a73a5de",
+    "c8066755a31e60815368aa07c633c5916ea2abedf70db8799dc6cdf7118c18ab"
   ],
   "verseViewBy": []
 }
