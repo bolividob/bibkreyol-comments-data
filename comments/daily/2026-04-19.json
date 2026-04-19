@@ -1,9 +1,23 @@
 {
   "date": "2026-04-19",
   "verseKey": "daily:2026-04-19",
-  "updatedAt": 1776622444102,
+  "updatedAt": 1776622564730,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776622533688",
+      "text": "felisitasyon pu app sa. Mèsi BonDye vivan pou levanjil.",
+      "userDeviceId": "a306b661db402f5dde713d28fb3e545c414b024b3725ade6805b01e0a8e3ec1f",
+      "userName": "Frè AB enfant de Dieu",
+      "verseName": "Neemi 8:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776622564729,
+      "updatedAt": 1776622564729,
+      "status": "active"
+    },
     {
       "id": "local-1776613160504",
       "text": "Gloire à dieu",
@@ -202,9 +216,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 75,
+  "likeCount": 77,
   "shareCount": 155,
-  "viewCount": 12551,
+  "viewCount": 12569,
   "verseLikedBy": [
     "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
@@ -280,7 +294,9 @@
     "9c1cfc8a1e55c6334051e3ed48083bc412ba5002ea302e9dcca62ab755dd1a34",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "8b5394c5e17197826aacf4910a20e3574fe38dbdef8bed3836f27e486e1eb9c7",
-    "e7f9bf6953e5129bd3e648fc971cea7e64cca07826752e47fa02d120a363d969"
+    "e7f9bf6953e5129bd3e648fc971cea7e64cca07826752e47fa02d120a363d969",
+    "a306b661db402f5dde713d28fb3e545c414b024b3725ade6805b01e0a8e3ec1f",
+    "d251748b514ceac2a148191f7f0389ea2c25e277c804b35fc44bf279566b293a"
   ],
   "verseViewBy": []
 }
