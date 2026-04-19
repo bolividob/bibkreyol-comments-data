@@ -1,9 +1,23 @@
 {
   "date": "2026-04-19",
   "verseKey": "daily:2026-04-19",
-  "updatedAt": 1776590465229,
+  "updatedAt": 1776590712139,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776590504158",
+      "text": "tout glwa se pou Bondye",
+      "userDeviceId": "7fbc3f874282fce597dfff8efaa7bc7baa320c74bb50ab86f92b7bde55f223d2",
+      "userName": "JAMES",
+      "verseName": "Neemi 8:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776590712139,
+      "updatedAt": 1776590712139,
+      "status": "active"
+    },
     {
       "id": "local-1776576538952",
       "text": "amen",
@@ -40,12 +54,13 @@
       "verseName": "Neemi 8:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "19b3dd1338324e10912ded1f13b9501d8a4466fd351d529952887be348cbe9f6"
+        "19b3dd1338324e10912ded1f13b9501d8a4466fd351d529952887be348cbe9f6",
+        "7fbc3f874282fce597dfff8efaa7bc7baa320c74bb50ab86f92b7bde55f223d2"
       ],
       "createdAt": 1776564728530,
-      "updatedAt": 1776571505193,
+      "updatedAt": 1776590712139,
       "status": "active"
     },
     {
@@ -63,9 +78,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 35,
-  "shareCount": 57,
-  "viewCount": 5111,
+  "likeCount": 36,
+  "shareCount": 59,
+  "viewCount": 5126,
   "verseLikedBy": [
     "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
@@ -101,7 +116,8 @@
     "f698036640f988046ec043c34d8ec3980aa20fe8b56ada213265a2a4217f1393",
     "596aeb13e7519184352608f9166b2188ce4264cd266b3dc7c20bb0069735d1fa",
     "763cc1beb52915e56609d71581936d2ba6e6a59206026aa2fb1c4bcbb34690c0",
-    "205346ea7e1065265501e4783add75ec645b2b364eaa5f64688a0d0b7faf69b5"
+    "205346ea7e1065265501e4783add75ec645b2b364eaa5f64688a0d0b7faf69b5",
+    "7fbc3f874282fce597dfff8efaa7bc7baa320c74bb50ab86f92b7bde55f223d2"
   ],
   "verseViewBy": []
 }
