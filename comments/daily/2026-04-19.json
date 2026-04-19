@@ -1,9 +1,25 @@
 {
   "date": "2026-04-19",
   "verseKey": "daily:2026-04-19",
-  "updatedAt": 1776635647331,
+  "updatedAt": 1776635899681,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776635853553",
+      "text": "Bondye papa",
+      "userDeviceId": "971de9b8d48c05748ddac9031ea5d014c9de12184427cd4ec24a04a2c25fa184",
+      "userName": "SCHERDJIEX",
+      "verseName": "Neemi 8:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "971de9b8d48c05748ddac9031ea5d014c9de12184427cd4ec24a04a2c25fa184"
+      ],
+      "createdAt": 1776635899681,
+      "updatedAt": 1776635899681,
+      "status": "active"
+    },
     {
       "id": "local-1776626521118",
       "text": "amén",
@@ -253,7 +269,7 @@
   ],
   "likeCount": 92,
   "shareCount": 177,
-  "viewCount": 14852,
+  "viewCount": 14899,
   "verseLikedBy": [
     "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
