@@ -1,12 +1,27 @@
 {
   "date": "2026-04-19",
   "verseKey": "daily:2026-04-19",
-  "updatedAt": 1776559264637,
+  "updatedAt": 1776559385575,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1776559253611",
+      "text": "se de pèp Izrayèl yo tap pale ki tap kite peyi a ,mw konnen se pa pèp Izrayèl la ,mw se Nan pèsekisyonm yo BonDye la avèm",
+      "userDeviceId": "74af62797ed894e301326a25e47ab2092388251de65129d5287ef0d82963ea1a",
+      "userName": "kerbie",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776559385575,
+      "updatedAt": 1776559385575,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
   "shareCount": 2,
-  "viewCount": 635,
+  "viewCount": 663,
   "verseLikedBy": [],
   "verseViewBy": []
 }
