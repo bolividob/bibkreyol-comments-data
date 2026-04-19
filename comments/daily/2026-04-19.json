@@ -1,9 +1,25 @@
 {
   "date": "2026-04-19",
   "verseKey": "daily:2026-04-19",
-  "updatedAt": 1776626523712,
+  "updatedAt": 1776626766896,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776626521118",
+      "text": "amén",
+      "userDeviceId": "48a0a02ff8de54e65985e40c274ee01117e425848f0ad60ea17e7fba03031726",
+      "userName": "François nickson",
+      "verseName": "Neemi 8:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "48a0a02ff8de54e65985e40c274ee01117e425848f0ad60ea17e7fba03031726"
+      ],
+      "createdAt": 1776626766896,
+      "updatedAt": 1776626766896,
+      "status": "active"
+    },
     {
       "id": "local-1776622900746",
       "text": "Amen",
@@ -236,7 +252,7 @@
   ],
   "likeCount": 82,
   "shareCount": 157,
-  "viewCount": 13109,
+  "viewCount": 13144,
   "verseLikedBy": [
     "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
