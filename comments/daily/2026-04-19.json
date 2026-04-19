@@ -1,9 +1,23 @@
 {
   "date": "2026-04-19",
   "verseKey": "daily:2026-04-19",
-  "updatedAt": 1776622805163,
+  "updatedAt": 1776622935462,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776622900746",
+      "text": "Amen",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Kiki",
+      "verseName": "Neemi 8:2",
+      "parentId": "local-1776613459147",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776622935462,
+      "updatedAt": 1776622935462,
+      "status": "active"
+    },
     {
       "id": "local-1776622533688",
       "text": "felisitasyon pu app sa. Mèsi BonDye vivan pou levanjil.",
@@ -12,10 +26,12 @@
       "verseName": "Neemi 8:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+      ],
       "createdAt": 1776622564729,
-      "updatedAt": 1776622564729,
+      "updatedAt": 1776622935462,
       "status": "active"
     },
     {
@@ -39,11 +55,13 @@
       "userName": "la fidélité de dieu",
       "verseName": "Neemi 8:2",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+      ],
       "createdAt": 1776613838255,
-      "updatedAt": 1776613838255,
+      "updatedAt": 1776622935462,
       "status": "active"
     },
     {
@@ -216,9 +234,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 77,
-  "shareCount": 155,
-  "viewCount": 12600,
+  "likeCount": 78,
+  "shareCount": 156,
+  "viewCount": 12618,
   "verseLikedBy": [
     "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
@@ -296,7 +314,8 @@
     "8b5394c5e17197826aacf4910a20e3574fe38dbdef8bed3836f27e486e1eb9c7",
     "e7f9bf6953e5129bd3e648fc971cea7e64cca07826752e47fa02d120a363d969",
     "a306b661db402f5dde713d28fb3e545c414b024b3725ade6805b01e0a8e3ec1f",
-    "d251748b514ceac2a148191f7f0389ea2c25e277c804b35fc44bf279566b293a"
+    "d251748b514ceac2a148191f7f0389ea2c25e277c804b35fc44bf279566b293a",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
