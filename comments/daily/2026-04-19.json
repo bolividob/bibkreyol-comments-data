@@ -1,9 +1,37 @@
 {
   "date": "2026-04-19",
   "verseKey": "daily:2026-04-19",
-  "updatedAt": 1776611662882,
+  "updatedAt": 1776613838255,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776613160504",
+      "text": "Gloire à dieu",
+      "userDeviceId": "2212efef4d88e01101d3c41daf4a6dfef81ed82fdc5240668f7515c4d650be9d",
+      "userName": "la fidélité de dieu",
+      "verseName": "Neemi 8:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776613838255,
+      "updatedAt": 1776613838255,
+      "status": "active"
+    },
+    {
+      "id": "local-1776613459147",
+      "text": "Merci jesus pour l'amour",
+      "userDeviceId": "2212efef4d88e01101d3c41daf4a6dfef81ed82fdc5240668f7515c4d650be9d",
+      "userName": "la fidélité de dieu",
+      "verseName": "Neemi 8:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776613838255,
+      "updatedAt": 1776613838255,
+      "status": "active"
+    },
     {
       "id": "local-1776606983273",
       "text": "amén amén 🙏🙏",
@@ -174,9 +202,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 147,
-  "viewCount": 10537,
+  "likeCount": 66,
+  "shareCount": 149,
+  "viewCount": 10766,
   "verseLikedBy": [
     "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
@@ -242,7 +270,8 @@
     "dddf918144e2ca8530d01da9ff9d49c613a31fe319fea023dc58b6e48a5460e5",
     "b25d25919916e236d92bec343eacc031f901cde7f0d52d110bad4ed2224c914c",
     "2552c42c910abaeb63afd40794e9dafe38891e8233959b964faf5c0da349c669",
-    "218e4f189320323fa7f6def0199f6d265c970765848ee517a17814f10c60c529"
+    "218e4f189320323fa7f6def0199f6d265c970765848ee517a17814f10c60c529",
+    "3b782a012dddfc11fe0cc0e34a1ff78976fc7f5bbb6eeb070b9ac737798d5a25"
   ],
   "verseViewBy": []
 }
