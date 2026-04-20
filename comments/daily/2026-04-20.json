@@ -1,9 +1,25 @@
 {
   "date": "2026-04-20",
   "verseKey": "daily:2026-04-20",
-  "updatedAt": 1776679206360,
+  "updatedAt": 1776679326725,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776679229169",
+      "text": "amén amén",
+      "userDeviceId": "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78",
+      "userName": "Elianne Méxi",
+      "verseName": "Jan 19:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+      ],
+      "createdAt": 1776679326725,
+      "updatedAt": 1776679326725,
+      "status": "active"
+    },
     {
       "id": "local-1776678892012",
       "text": "Merci seignuer 🙌",
@@ -12,10 +28,12 @@
       "verseName": "Jan 19:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+      ],
       "createdAt": 1776678965908,
-      "updatedAt": 1776678965908,
+      "updatedAt": 1776679326725,
       "status": "active"
     },
     {
@@ -26,10 +44,12 @@
       "verseName": "Jan 19:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+      ],
       "createdAt": 1776662467227,
-      "updatedAt": 1776662467227,
+      "updatedAt": 1776679326725,
       "status": "active"
     },
     {
@@ -40,16 +60,18 @@
       "verseName": "Jan 19:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+      ],
       "createdAt": 1776662467226,
-      "updatedAt": 1776662467226,
+      "updatedAt": 1776679326725,
       "status": "active"
     }
   ],
-  "likeCount": 48,
-  "shareCount": 80,
-  "viewCount": 5723,
+  "likeCount": 49,
+  "shareCount": 82,
+  "viewCount": 5743,
   "verseLikedBy": [
     "5ba504eabc8cd104119311c056a89cd2a6ff5b2c1056932c08b1f75871dff5a7",
     "2cfef41ed7eaede2b932287b3623e6ddc79a69eaa311a8b57e50bbb9ba5b0a48",
@@ -98,7 +120,8 @@
     "763cc1beb52915e56609d71581936d2ba6e6a59206026aa2fb1c4bcbb34690c0",
     "b611b1bb670c2aff72f5e0dbb899fe88fbf6677c41deef18611eb9e738ea7f65",
     "e4e82d7db50d62b747a79b228f35a9aad5d79fc879fb7e4d88ea10d786dec404",
-    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "3534b2e107c0c5e7d515ea67533157b5d7a1382d58d43b1a55e73995ca7a3a97"
   ],
   "verseViewBy": []
 }
