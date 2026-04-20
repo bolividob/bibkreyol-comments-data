@@ -1,9 +1,51 @@
 {
   "date": "2026-04-20",
   "verseKey": "daily:2026-04-20",
-  "updatedAt": 1776722467440,
+  "updatedAt": 1776722591370,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776722490381",
+      "text": "amèn",
+      "userDeviceId": "6ecfa3de46ce2c088a7e19fee904989e574dbdaddcf8f9c11d0886963c5e6460",
+      "userName": "Rose-Mirlande amèn",
+      "verseName": "Jan 19:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776722591370,
+      "updatedAt": 1776722591370,
+      "status": "active"
+    },
+    {
+      "id": "local-1776722511761",
+      "text": "john",
+      "userDeviceId": "074f75a2cf2d8cc942a1518e76d8b934a7057747ed3047456a1deb09692a256e",
+      "userName": "john",
+      "verseName": "Jan 19:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776722591370,
+      "updatedAt": 1776722591370,
+      "status": "active"
+    },
+    {
+      "id": "local-1776722514365",
+      "text": ",",
+      "userDeviceId": "074f75a2cf2d8cc942a1518e76d8b934a7057747ed3047456a1deb09692a256e",
+      "userName": "john",
+      "verseName": "Jan 19:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776722591370,
+      "updatedAt": 1776722591370,
+      "status": "active"
+    },
     {
       "id": "local-1776711811921",
       "text": "amen",
@@ -191,9 +233,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 105,
-  "shareCount": 202,
-  "viewCount": 11927,
+  "likeCount": 106,
+  "shareCount": 204,
+  "viewCount": 11944,
   "verseLikedBy": [
     "5ba504eabc8cd104119311c056a89cd2a6ff5b2c1056932c08b1f75871dff5a7",
     "2cfef41ed7eaede2b932287b3623e6ddc79a69eaa311a8b57e50bbb9ba5b0a48",
@@ -299,7 +341,8 @@
     "975efbf45347fb65dd6c553b30ef9cda3e617a27b90dbe05e20d27a1e6bbac9a",
     "fb515da0afa8e0ff4ee7f71020642ec3bd48080e4c523f0ef8e50a310c7187d3",
     "d5319b967f8c44fb2fbc0a4fe18b3115fd415d6164f14c94ab5f65e839b60c1f",
-    "d705ca5e48d22c56e2bd65eaade0e9b990e2e3d4f8b2a11190b1e9f5792d155a"
+    "d705ca5e48d22c56e2bd65eaade0e9b990e2e3d4f8b2a11190b1e9f5792d155a",
+    "6ecfa3de46ce2c088a7e19fee904989e574dbdaddcf8f9c11d0886963c5e6460"
   ],
   "verseViewBy": []
 }
