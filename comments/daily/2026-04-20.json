@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
   "verseKey": "daily:2026-04-20",
-  "updatedAt": 1776706684397,
+  "updatedAt": 1776706804991,
   "version": 1,
   "comments": [
     {
@@ -70,10 +70,12 @@
       "verseName": "Jan 19:1",
       "parentId": null,
       "replyCount": 2,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "570a61fd1ed46f256579cdd614aceab1089661e12f7b4ab1c57fddc3090282f8"
+      ],
       "createdAt": 1776681966075,
-      "updatedAt": 1776693365513,
+      "updatedAt": 1776706804991,
       "status": "active"
     },
     {
@@ -159,7 +161,7 @@
   ],
   "likeCount": 90,
   "shareCount": 174,
-  "viewCount": 9997,
+  "viewCount": 10014,
   "verseLikedBy": [
     "5ba504eabc8cd104119311c056a89cd2a6ff5b2c1056932c08b1f75871dff5a7",
     "2cfef41ed7eaede2b932287b3623e6ddc79a69eaa311a8b57e50bbb9ba5b0a48",
