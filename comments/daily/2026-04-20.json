@@ -1,9 +1,23 @@
 {
   "date": "2026-04-20",
   "verseKey": "daily:2026-04-20",
-  "updatedAt": 1776693243828,
+  "updatedAt": 1776693365513,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776693267286",
+      "text": "sak konen, nou tout kote",
+      "userDeviceId": "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d",
+      "userName": "Itzi",
+      "verseName": "Jan 19:1",
+      "parentId": "local-1776681917264",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776693365513,
+      "updatedAt": 1776693365513,
+      "status": "active"
+    },
     {
       "id": "local-1776691618147",
       "text": "Bugs???",
@@ -25,11 +39,11 @@
       "userName": "Kiki",
       "verseName": "Jan 19:1",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1776681966075,
-      "updatedAt": 1776691686296,
+      "updatedAt": 1776693365513,
       "status": "active"
     },
     {
@@ -115,7 +129,7 @@
   ],
   "likeCount": 68,
   "shareCount": 146,
-  "viewCount": 7955,
+  "viewCount": 7976,
   "verseLikedBy": [
     "5ba504eabc8cd104119311c056a89cd2a6ff5b2c1056932c08b1f75871dff5a7",
     "2cfef41ed7eaede2b932287b3623e6ddc79a69eaa311a8b57e50bbb9ba5b0a48",
