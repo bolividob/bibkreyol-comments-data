@@ -1,9 +1,23 @@
 {
   "date": "2026-04-20",
   "verseKey": "daily:2026-04-20",
-  "updatedAt": 1776706860238,
+  "updatedAt": 1776706985415,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776706951023",
+      "text": "Nan inive a, ou wem chak jou",
+      "userDeviceId": "570a61fd1ed46f256579cdd614aceab1089661e12f7b4ab1c57fddc3090282f8",
+      "userName": "Sunny",
+      "verseName": "Jan 19:1",
+      "parentId": "local-1776681917264",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776706985415,
+      "updatedAt": 1776706985415,
+      "status": "active"
+    },
     {
       "id": "local-1776704919740",
       "text": "Sylvain",
@@ -69,13 +83,13 @@
       "userName": "Kiki",
       "verseName": "Jan 19:1",
       "parentId": null,
-      "replyCount": 2,
+      "replyCount": 3,
       "likeCount": 1,
       "likedBy": [
         "570a61fd1ed46f256579cdd614aceab1089661e12f7b4ab1c57fddc3090282f8"
       ],
       "createdAt": 1776681966075,
-      "updatedAt": 1776706804991,
+      "updatedAt": 1776706985415,
       "status": "active"
     },
     {
@@ -160,8 +174,8 @@
     }
   ],
   "likeCount": 90,
-  "shareCount": 174,
-  "viewCount": 10022,
+  "shareCount": 175,
+  "viewCount": 10041,
   "verseLikedBy": [
     "5ba504eabc8cd104119311c056a89cd2a6ff5b2c1056932c08b1f75871dff5a7",
     "2cfef41ed7eaede2b932287b3623e6ddc79a69eaa311a8b57e50bbb9ba5b0a48",
