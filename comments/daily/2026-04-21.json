@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
   "verseKey": "daily:2026-04-21",
-  "updatedAt": 1776800344099,
+  "updatedAt": 1776800465353,
   "version": 1,
   "comments": [
     {
@@ -86,10 +86,12 @@
       "verseName": "Ezayi 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "229922c751defa69b36cfac53a624a103ea03fddfcc1e513bb3226732523aef7"
+      ],
       "createdAt": 1776791346757,
-      "updatedAt": 1776791346757,
+      "updatedAt": 1776800465353,
       "status": "active"
     },
     {
@@ -168,7 +170,7 @@
   ],
   "likeCount": 74,
   "shareCount": 170,
-  "viewCount": 11667,
+  "viewCount": 11687,
   "verseLikedBy": [
     "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
     "096d59320559f90c85c13d602b5cc4928e1507150a38eca413f3fcef57824d07",
