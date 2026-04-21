@@ -1,9 +1,23 @@
 {
   "date": "2026-04-21",
   "verseKey": "daily:2026-04-21",
-  "updatedAt": 1776753546640,
+  "updatedAt": 1776753663815,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776753571676",
+      "text": "Nou fatigue",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Kiki",
+      "verseName": "Ezayi 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776753663815,
+      "updatedAt": 1776753663815,
+      "status": "active"
+    },
     {
       "id": "local-1776745753669",
       "text": "amen",
@@ -26,18 +40,19 @@
       "verseName": "Egzòd 14:18",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "097c7402b2d0e87ec689b2b5acf86209839ea671bc4999a0ad95c044297a9530"
+        "097c7402b2d0e87ec689b2b5acf86209839ea671bc4999a0ad95c044297a9530",
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "createdAt": 1776745745567,
-      "updatedAt": 1776745864700,
+      "updatedAt": 1776753663815,
       "status": "active"
     }
   ],
-  "likeCount": 19,
+  "likeCount": 20,
   "shareCount": 44,
-  "viewCount": 5142,
+  "viewCount": 5147,
   "verseLikedBy": [
     "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
     "096d59320559f90c85c13d602b5cc4928e1507150a38eca413f3fcef57824d07",
@@ -57,7 +72,8 @@
     "e14cc6e55a8bd76b18bd2b818e17657c28e21db103dbb21d3f71d3903778573c",
     "cc90477f971eb36eee8867d41c22a4a372cfc8e58690ed3cb7ae5a5c58bea2e9",
     "69488d93e578809a289e4922d2ea368fe563813b71fc1778c68b7ed8c6db678e",
-    "809b088d9f0e223a72aa2e3b2c415bc87eccf09e059c1b0f7f6f8e03d89c7d00"
+    "809b088d9f0e223a72aa2e3b2c415bc87eccf09e059c1b0f7f6f8e03d89c7d00",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
