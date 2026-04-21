@@ -1,9 +1,23 @@
 {
   "date": "2026-04-21",
   "verseKey": "daily:2026-04-21",
-  "updatedAt": 1776794720316,
+  "updatedAt": 1776794835408,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776794768584",
+      "text": "amèn",
+      "userDeviceId": "ac142dbc5aef8a66c94dce9a141458cba41b77ea5dc68278d2120b0d8df9533e",
+      "userName": "Rodelin",
+      "verseName": "Ezayi 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776794835408,
+      "updatedAt": 1776794835408,
+      "status": "active"
+    },
     {
       "id": "local-1776791476981",
       "text": "amén amén",
@@ -125,8 +139,8 @@
     }
   ],
   "likeCount": 65,
-  "shareCount": 153,
-  "viewCount": 10991,
+  "shareCount": 155,
+  "viewCount": 11005,
   "verseLikedBy": [
     "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
     "096d59320559f90c85c13d602b5cc4928e1507150a38eca413f3fcef57824d07",
