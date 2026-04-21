@@ -1,12 +1,29 @@
 {
   "date": "2026-04-21",
   "verseKey": "daily:2026-04-21",
-  "updatedAt": 1776745624972,
+  "updatedAt": 1776745745567,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1776745735016",
+      "text": "amen",
+      "userDeviceId": "097c7402b2d0e87ec689b2b5acf86209839ea671bc4999a0ad95c044297a9530",
+      "userName": "Tayoo",
+      "verseName": "Egzòd 14:18",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "097c7402b2d0e87ec689b2b5acf86209839ea671bc4999a0ad95c044297a9530"
+      ],
+      "createdAt": 1776745745567,
+      "updatedAt": 1776745745567,
+      "status": "active"
+    }
+  ],
   "likeCount": 14,
   "shareCount": 33,
-  "viewCount": 4527,
+  "viewCount": 4555,
   "verseLikedBy": [
     "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
     "096d59320559f90c85c13d602b5cc4928e1507150a38eca413f3fcef57824d07",
