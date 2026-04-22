@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776858788128,
+  "updatedAt": 1776858905265,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776822634120",
+      "text": "manm",
+      "userDeviceId": "9202eccdfcaf1952b27492a0b929f9e42b3a35b88940a34cdf513ef28384240a",
+      "userName": "Dazul",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776858905265,
+      "updatedAt": 1776858905265,
+      "status": "active"
+    },
     {
       "id": "local-1776855916380",
       "text": "🤔🤔",
@@ -242,8 +256,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 116,
-  "viewCount": 7259,
+  "shareCount": 117,
+  "viewCount": 7282,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
