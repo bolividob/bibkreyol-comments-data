@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776816914881,
+  "updatedAt": 1776817035945,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776816976966",
+      "text": "Bondye beni nou",
+      "userDeviceId": "0bf01d4f01b9a0120133e4d26c0bb9168e79dc34fd9869aa41e3a80e6f94b125",
+      "userName": "Belton wood",
+      "verseName": "Lèvitik 17:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776817035945,
+      "updatedAt": 1776817035945,
+      "status": "active"
+    },
     {
       "id": "local-1776815894733",
       "text": "salut",
@@ -33,11 +47,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 1,
+  "likeCount": 3,
   "shareCount": 5,
-  "viewCount": 498,
+  "viewCount": 546,
   "verseLikedBy": [
-    "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195"
+    "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
+    "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
+    "86bb55b7aa3d44da5b18b7cdcc2b5934c856acf8462e70e3d401b58ab0f3cae6"
   ],
   "verseViewBy": []
 }
