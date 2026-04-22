@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776870372728,
+  "updatedAt": 1776870485125,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776870375933",
+      "text": "🤔",
+      "userDeviceId": "303f0df59ad65f1d93fe445fdf3e8eff33e6d6e7db40c6746a04b822a70e8591",
+      "userName": "Ticia",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776870485125,
+      "updatedAt": 1776870485125,
+      "status": "active"
+    },
     {
       "id": "local-1776863505390",
       "text": "🥰🙏",
@@ -285,7 +299,7 @@
   ],
   "likeCount": 74,
   "shareCount": 143,
-  "viewCount": 8969,
+  "viewCount": 8984,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
