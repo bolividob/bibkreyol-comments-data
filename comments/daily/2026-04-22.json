@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776848646364,
+  "updatedAt": 1776848887182,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776848712045",
+      "text": "Amèn Amèn",
+      "userDeviceId": "b350cf81e2b159770499dab01fa294f34858eec2696a61c52618450359f16313",
+      "userName": "Bertho theodore",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776848887182,
+      "updatedAt": 1776848887182,
+      "status": "active"
+    },
     {
       "id": "local-1776836516977",
       "text": "lanmou 🥰",
@@ -144,8 +158,8 @@
     }
   ],
   "likeCount": 46,
-  "shareCount": 58,
-  "viewCount": 5601,
+  "shareCount": 59,
+  "viewCount": 5630,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
