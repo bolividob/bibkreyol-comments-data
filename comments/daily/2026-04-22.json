@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776855501154,
+  "updatedAt": 1776855615605,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776855545513",
+      "text": "🙏🙏",
+      "userDeviceId": "2c608e34fb2af91586b43f2698fe45e2daa331086c6b027ed8498e502e619e7d",
+      "userName": "Nini",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776855615605,
+      "updatedAt": 1776855615605,
+      "status": "active"
+    },
     {
       "id": "local-1776851672713",
       "text": "merci seignuer pou lanmou ou pou mw",
@@ -213,9 +227,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 87,
-  "viewCount": 6693,
+  "likeCount": 55,
+  "shareCount": 89,
+  "viewCount": 6708,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
@@ -270,7 +284,8 @@
     "85f8b33eae06b570abd80d950b78c9160351af84800e308ab0a5f07a41156479",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
-    "8435f6478f0cbcf4e865e1fb6e5d6de2e5aaba4e045bb78c7f3923719e9aa77f"
+    "8435f6478f0cbcf4e865e1fb6e5d6de2e5aaba4e045bb78c7f3923719e9aa77f",
+    "2c608e34fb2af91586b43f2698fe45e2daa331086c6b027ed8498e502e619e7d"
   ],
   "verseViewBy": []
 }
