@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776819790082,
+  "updatedAt": 1776819914199,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Lèvitik 17:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5"
+      ],
       "createdAt": 1776817035945,
-      "updatedAt": 1776817035945,
+      "updatedAt": 1776819914199,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Egzòd 14:18",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5"
+      ],
       "createdAt": 1776816070172,
-      "updatedAt": 1776816070172,
+      "updatedAt": 1776819914199,
       "status": "active"
     },
     {
@@ -40,16 +44,18 @@
       "verseName": "Egzòd 14:18",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5"
+      ],
       "createdAt": 1776816070172,
-      "updatedAt": 1776816070172,
+      "updatedAt": 1776819914199,
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 13,
-  "viewCount": 1247,
+  "viewCount": 1286,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
@@ -57,7 +63,8 @@
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "21930954d986894d5784fa21544e5aca262cbaf5c260a938ee0e75d4f5f160a2",
     "2ce0b853a3edc38a3c54bfeeb65a44e9a1fab1b763ff92eab594a489d15b0da4",
-    "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9"
+    "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
+    "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5"
   ],
   "verseViewBy": []
 }
