@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776821596501,
+  "updatedAt": 1776821724587,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776821640880",
+      "text": "Koman ou ye?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Kiki",
+      "verseName": "Kantik 5:4",
+      "parentId": "local-1776815894733",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776821724587,
+      "updatedAt": 1776821724587,
+      "status": "active"
+    },
     {
       "id": "local-1776816976966",
       "text": "Bondye beni nou",
@@ -27,13 +41,14 @@
       "userName": "Rose🥰💕💖💜💛💚",
       "verseName": "Egzòd 14:18",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 1,
+      "replyCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5"
+        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5",
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "createdAt": 1776816070172,
-      "updatedAt": 1776819914199,
+      "updatedAt": 1776821724587,
       "status": "active"
     },
     {
@@ -53,9 +68,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 17,
-  "viewCount": 1828,
+  "likeCount": 13,
+  "shareCount": 18,
+  "viewCount": 1876,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
@@ -68,7 +83,8 @@
     "2c3c99d186b74ab63a493c78442c17e8e0e9160d08af71c8debb32f31dfbddcb",
     "b1e06cf803c5b4c6dc67d6873ea99024178f59802a1e677cc0279d1fdfa51886",
     "cb78ea156f8cb0fdc1839e3e92f36b3c38cf92dfb7e40aabad7b1132feaa7797",
-    "db0cd82fe9a30a831c9cda66d1a33237abadf11b173c2ae0a262223f2c4c40ca"
+    "db0cd82fe9a30a831c9cda66d1a33237abadf11b173c2ae0a262223f2c4c40ca",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
