@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776826453270,
+  "updatedAt": 1776826569065,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776826535420",
+      "text": "😍😍😍😍",
+      "userDeviceId": "bffb6098b3002c0bcc3a1f46cf3a4d56dd9f0e232a85db3a088be36a68fcce3a",
+      "userName": "wawo",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776826569065,
+      "updatedAt": 1776826569065,
+      "status": "active"
+    },
     {
       "id": "local-1776825273039",
       "text": "amén amén",
@@ -40,13 +54,14 @@
       "verseName": "Lèvitik 17:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5",
-        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78",
+        "011241417239572f99c1d541b40539cd1b9b4dc2e33a61e47c1871927dcc0350"
       ],
       "createdAt": 1776817035945,
-      "updatedAt": 1776825372204,
+      "updatedAt": 1776826569065,
       "status": "active"
     },
     {
@@ -75,19 +90,20 @@
       "verseName": "Egzòd 14:18",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5",
-        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78",
+        "011241417239572f99c1d541b40539cd1b9b4dc2e33a61e47c1871927dcc0350"
       ],
       "createdAt": 1776816070172,
-      "updatedAt": 1776825372204,
+      "updatedAt": 1776826569065,
       "status": "active"
     }
   ],
-  "likeCount": 16,
-  "shareCount": 31,
-  "viewCount": 3043,
+  "likeCount": 17,
+  "shareCount": 32,
+  "viewCount": 3076,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
@@ -104,7 +120,8 @@
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "97a243a61b2acb2fe2d2f674dbb3d4f3fa38516c83da06c1f99de0ed12a1e76d",
     "986f3af2ee917c27d2183deb590df34becd9a2c55b87f261a6b6fd174cbbe18f",
-    "bffb6098b3002c0bcc3a1f46cf3a4d56dd9f0e232a85db3a088be36a68fcce3a"
+    "bffb6098b3002c0bcc3a1f46cf3a4d56dd9f0e232a85db3a088be36a68fcce3a",
+    "011241417239572f99c1d541b40539cd1b9b4dc2e33a61e47c1871927dcc0350"
   ],
   "verseViewBy": []
 }
