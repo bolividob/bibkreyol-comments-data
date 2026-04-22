@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776851404938,
+  "updatedAt": 1776851525501,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776851401377",
+      "text": "gloire a Dieu🙏",
+      "userDeviceId": "85f8b33eae06b570abd80d950b78c9160351af84800e308ab0a5f07a41156479",
+      "userName": "Salem Jean pierre",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776851525501,
+      "updatedAt": 1776851525501,
+      "status": "active"
+    },
     {
       "id": "local-1776850401681",
       "text": "Lanmou Jezi gen pou legliz la se gro koze",
@@ -186,8 +200,8 @@
     }
   ],
   "likeCount": 49,
-  "shareCount": 70,
-  "viewCount": 5940,
+  "shareCount": 71,
+  "viewCount": 5958,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
