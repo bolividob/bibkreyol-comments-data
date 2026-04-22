@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776825209285,
+  "updatedAt": 1776825372204,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776825273039",
+      "text": "amén amén",
+      "userDeviceId": "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78",
+      "userName": "Elianne Méxi",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776825372204,
+      "updatedAt": 1776825372204,
+      "status": "active"
+    },
     {
       "id": "local-1776821640880",
       "text": "Koman ou ye?",
@@ -26,12 +40,13 @@
       "verseName": "Lèvitik 17:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5"
+        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5",
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
       ],
       "createdAt": 1776817035945,
-      "updatedAt": 1776819914199,
+      "updatedAt": 1776825372204,
       "status": "active"
     },
     {
@@ -42,13 +57,14 @@
       "verseName": "Egzòd 14:18",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5",
-        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
       ],
       "createdAt": 1776816070172,
-      "updatedAt": 1776821724587,
+      "updatedAt": 1776825372204,
       "status": "active"
     },
     {
@@ -59,18 +75,19 @@
       "verseName": "Egzòd 14:18",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5"
+        "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5",
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
       ],
       "createdAt": 1776816070172,
-      "updatedAt": 1776819914199,
+      "updatedAt": 1776825372204,
       "status": "active"
     }
   ],
-  "likeCount": 16,
-  "shareCount": 29,
-  "viewCount": 2890,
+  "likeCount": 15,
+  "shareCount": 30,
+  "viewCount": 2956,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
@@ -86,8 +103,7 @@
     "db0cd82fe9a30a831c9cda66d1a33237abadf11b173c2ae0a262223f2c4c40ca",
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "97a243a61b2acb2fe2d2f674dbb3d4f3fa38516c83da06c1f99de0ed12a1e76d",
-    "986f3af2ee917c27d2183deb590df34becd9a2c55b87f261a6b6fd174cbbe18f",
-    "3b29ff0f8c87c6fb1518b05a896ca850f9b61db4f086df4d478a89c01f8a94f8"
+    "986f3af2ee917c27d2183deb590df34becd9a2c55b87f261a6b6fd174cbbe18f"
   ],
   "verseViewBy": []
 }
