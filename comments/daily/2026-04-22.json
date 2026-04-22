@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776850204799,
+  "updatedAt": 1776850325165,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776850295002",
+      "text": "Senbol Jezi ak legliz",
+      "userDeviceId": "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
+      "userName": "Jocelene",
+      "verseName": "Kantik 5:4",
+      "parentId": "local-1776836516977",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776850325165,
+      "updatedAt": 1776850325165,
+      "status": "active"
+    },
     {
       "id": "local-1776848712045",
       "text": "Amèn Amèn",
@@ -25,11 +39,11 @@
       "userName": "matoutou",
       "verseName": "Kantik 5:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1776836525161,
-      "updatedAt": 1776836525161,
+      "updatedAt": 1776850325165,
       "status": "active"
     },
     {
@@ -159,7 +173,7 @@
   ],
   "likeCount": 48,
   "shareCount": 69,
-  "viewCount": 5783,
+  "viewCount": 5795,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
