@@ -1,9 +1,37 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776887163765,
+  "updatedAt": 1776887406474,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776887180208",
+      "text": "Poukisa?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Kiki",
+      "verseName": "Kantik 5:4",
+      "parentId": "local-1776859678994",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776887406473,
+      "updatedAt": 1776887406473,
+      "status": "active"
+    },
+    {
+      "id": "local-1776887257447",
+      "text": "Mwn apen li text la. Amen",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Kiki",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776887406473,
+      "updatedAt": 1776887406473,
+      "status": "active"
+    },
     {
       "id": "local-1776870375933",
       "text": "🤔",
@@ -39,13 +67,14 @@
       "userName": "Marie",
       "verseName": "Kantik 5:4",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 1,
+      "replyCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a3a90488ddf8c81578d3c74fd075cf2d96b61dd979da9f8ec18a9555ca8feefe"
+        "a3a90488ddf8c81578d3c74fd075cf2d96b61dd979da9f8ec18a9555ca8feefe",
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "createdAt": 1776859752952,
-      "updatedAt": 1776878112870,
+      "updatedAt": 1776887406473,
       "status": "active"
     },
     {
@@ -303,7 +332,7 @@
   ],
   "likeCount": 86,
   "shareCount": 174,
-  "viewCount": 11214,
+  "viewCount": 11240,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
