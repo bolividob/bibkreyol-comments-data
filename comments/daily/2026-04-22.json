@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776851644900,
+  "updatedAt": 1776851763948,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776851672713",
+      "text": "merci seignuer pou lanmou ou pou mw",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776851763948,
+      "updatedAt": 1776851763948,
+      "status": "active"
+    },
     {
       "id": "local-1776851401377",
       "text": "gloire a Dieu🙏",
@@ -201,7 +215,7 @@
   ],
   "likeCount": 50,
   "shareCount": 72,
-  "viewCount": 5974,
+  "viewCount": 5984,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
