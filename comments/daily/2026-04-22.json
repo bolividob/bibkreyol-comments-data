@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776877984664,
+  "updatedAt": 1776878112870,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Kantik 5:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a3a90488ddf8c81578d3c74fd075cf2d96b61dd979da9f8ec18a9555ca8feefe"
+      ],
       "createdAt": 1776859752952,
-      "updatedAt": 1776859752952,
+      "updatedAt": 1776878112870,
       "status": "active"
     },
     {
@@ -68,10 +70,12 @@
       "verseName": "Kantik 5:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a3a90488ddf8c81578d3c74fd075cf2d96b61dd979da9f8ec18a9555ca8feefe"
+      ],
       "createdAt": 1776855967937,
-      "updatedAt": 1776855967937,
+      "updatedAt": 1776878112870,
       "status": "active"
     },
     {
@@ -299,7 +303,7 @@
   ],
   "likeCount": 80,
   "shareCount": 165,
-  "viewCount": 10270,
+  "viewCount": 10288,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
