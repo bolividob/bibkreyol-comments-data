@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776833044850,
+  "updatedAt": 1776833163588,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776833112263",
+      "text": "salut",
+      "userDeviceId": "44564adcdd4ab2e9454ab7eec25736bacf10f685830c0b2aca93cdbd698b19dd",
+      "userName": "Black-lafoi",
+      "verseName": "Kantik 5:4",
+      "parentId": "local-1776815894733",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776833163588,
+      "updatedAt": 1776833163588,
+      "status": "active"
+    },
     {
       "id": "local-1776826535420",
       "text": "😍😍😍😍",
@@ -71,7 +85,7 @@
       "userName": "Rose🥰💕💖💜💛💚",
       "verseName": "Egzòd 14:18",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 3,
       "likedBy": [
         "d9a0f7b73ae9782eea24d39d14f63ad17ba0296dbc039f61e6ab6e990efdeaf5",
@@ -79,7 +93,7 @@
         "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
       ],
       "createdAt": 1776816070172,
-      "updatedAt": 1776825372204,
+      "updatedAt": 1776833163588,
       "status": "active"
     },
     {
@@ -103,7 +117,7 @@
   ],
   "likeCount": 26,
   "shareCount": 41,
-  "viewCount": 4640,
+  "viewCount": 4651,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
