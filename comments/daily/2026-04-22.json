@@ -1,9 +1,23 @@
 {
   "date": "2026-04-22",
   "verseKey": "daily:2026-04-22",
-  "updatedAt": 1776836403476,
+  "updatedAt": 1776836525161,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776836516977",
+      "text": "lanmou 🥰",
+      "userDeviceId": "0065e45c9a97ebdbf960d130718a6e25564a619bfeac4bc6e59b90e6d5e24cea",
+      "userName": "matoutou",
+      "verseName": "Kantik 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776836525161,
+      "updatedAt": 1776836525161,
+      "status": "active"
+    },
     {
       "id": "local-1776834634469",
       "text": "🥰",
@@ -129,9 +143,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
+  "likeCount": 31,
   "shareCount": 43,
-  "viewCount": 4905,
+  "viewCount": 4916,
   "verseLikedBy": [
     "995574437919bc410aaf3467ae01cc2edee308a6bea10351517adf7c6e3d0195",
     "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
@@ -162,7 +176,8 @@
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "dad431c7eda4be172dfdf37b09a2d4616df35078b8ef543f88ccf4e0a95676ca",
     "559523733b2be20522a6f695d70c2c71dd0e24eba2b0397f577568bb2cce99d8",
-    "58e7b29de23af39d3c8cb18d3a65dfd463c5b881b5a0fb3e591a5935e88f338b"
+    "58e7b29de23af39d3c8cb18d3a65dfd463c5b881b5a0fb3e591a5935e88f338b",
+    "0065e45c9a97ebdbf960d130718a6e25564a619bfeac4bc6e59b90e6d5e24cea"
   ],
   "verseViewBy": []
 }
