@@ -1,9 +1,23 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776911891331,
+  "updatedAt": 1776912847184,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776912609443",
+      "text": "salut",
+      "userDeviceId": "01e3d496f6d4b4656ce76e525ac3970a2babed8d5e672499f1e6c3a67dc9cf4a",
+      "userName": "Naïka chery",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776912847184,
+      "updatedAt": 1776912847184,
+      "status": "active"
+    },
     {
       "id": "local-1776908295130",
       "text": "la belle Rosie",
@@ -109,7 +123,7 @@
   ],
   "likeCount": 14,
   "shareCount": 17,
-  "viewCount": 2823,
+  "viewCount": 2868,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
