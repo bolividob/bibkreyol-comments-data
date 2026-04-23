@@ -1,9 +1,23 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776958265642,
+  "updatedAt": 1776958386367,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776947621709",
+      "text": "mw renmn nou",
+      "userDeviceId": "6926e82869279d056740dbaf5b0c89defc0e750fe79401848c534357ceffc51f",
+      "userName": "Madame Andre",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776958386367,
+      "updatedAt": 1776958386367,
+      "status": "active"
+    },
     {
       "id": "local-1776956723916",
       "text": "Aline Meus",
@@ -219,7 +233,7 @@
   ],
   "likeCount": 63,
   "shareCount": 163,
-  "viewCount": 9069,
+  "viewCount": 9092,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
