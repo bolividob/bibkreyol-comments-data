@@ -1,18 +1,34 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776906247244,
+  "updatedAt": 1776906369156,
   "version": 1,
-  "comments": [],
-  "likeCount": 5,
-  "shareCount": 8,
-  "viewCount": 1058,
+  "comments": [
+    {
+      "id": "local-1776906337413",
+      "text": "mèsi",
+      "userDeviceId": "64602772cb6047b99a1c8c79e3723f182da11c7e526e54b907a6c111810de189",
+      "userName": "la belle Rosie",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776906369156,
+      "updatedAt": 1776906369156,
+      "status": "active"
+    }
+  ],
+  "likeCount": 6,
+  "shareCount": 9,
+  "viewCount": 1105,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
     "3c069f8b5c20c406ff5a8b0eb172faf119d54d9168039f5b476b2d54cd6f0195",
     "432ae96c1fe8d03bd9f5280734d77caf71be141b2160ccc7aad364056125056f",
-    "1287a2268407ec314e35dc3a0589bbeb497da1a479348753cbf9b26c5a027391"
+    "1287a2268407ec314e35dc3a0589bbeb497da1a479348753cbf9b26c5a027391",
+    "3082db60375a715c39adb565a23e3ab0ad834b53af2a1a17b4051a96b9cc8a89"
   ],
   "verseViewBy": []
 }
