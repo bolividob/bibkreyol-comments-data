@@ -1,9 +1,41 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776907936252,
+  "updatedAt": 1776908109188,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776907911293",
+      "text": "salut",
+      "userDeviceId": "0ac1c7230135c1fbee1582db55caa5deaaf2dd249ddb87144e56c3c5c5baf50c",
+      "userName": "salu",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "0ac1c7230135c1fbee1582db55caa5deaaf2dd249ddb87144e56c3c5c5baf50c"
+      ],
+      "createdAt": 1776908109188,
+      "updatedAt": 1776908109188,
+      "status": "active"
+    },
+    {
+      "id": "local-1776907941158",
+      "text": "bb",
+      "userDeviceId": "0ac1c7230135c1fbee1582db55caa5deaaf2dd249ddb87144e56c3c5c5baf50c",
+      "userName": "salu",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "0ac1c7230135c1fbee1582db55caa5deaaf2dd249ddb87144e56c3c5c5baf50c"
+      ],
+      "createdAt": 1776908109188,
+      "updatedAt": 1776908109188,
+      "status": "active"
+    },
     {
       "id": "local-1776906805176",
       "text": "Se amen 🙏",
@@ -33,9 +65,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
+  "likeCount": 11,
   "shareCount": 12,
-  "viewCount": 1635,
+  "viewCount": 1685,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
@@ -45,7 +77,9 @@
     "3082db60375a715c39adb565a23e3ab0ad834b53af2a1a17b4051a96b9cc8a89",
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
-    "0ac1c7230135c1fbee1582db55caa5deaaf2dd249ddb87144e56c3c5c5baf50c"
+    "0ac1c7230135c1fbee1582db55caa5deaaf2dd249ddb87144e56c3c5c5baf50c",
+    "2aad23b725cdfbe2a7dc892f23db4569eb18ff9537f6b4dbf65ee1a8237f3a3e",
+    "dc2222f29b7cb56f62e35b14e99f31646a53b689a4dcfe3b9b65c2d91bba4fac"
   ],
   "verseViewBy": []
 }
