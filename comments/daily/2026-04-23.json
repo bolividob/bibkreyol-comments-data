@@ -1,9 +1,23 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776964383928,
+  "updatedAt": 1776964524521,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776964449183",
+      "text": "Amén",
+      "userDeviceId": "85f8b33eae06b570abd80d950b78c9160351af84800e308ab0a5f07a41156479",
+      "userName": "Salem Jean pierre",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776964524521,
+      "updatedAt": 1776964524521,
+      "status": "active"
+    },
     {
       "id": "local-1776959103096",
       "text": "Amen",
@@ -246,8 +260,8 @@
     }
   ],
   "likeCount": 71,
-  "shareCount": 176,
-  "viewCount": 10176,
+  "shareCount": 178,
+  "viewCount": 10196,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
