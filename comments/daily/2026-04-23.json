@@ -1,9 +1,23 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776940927097,
+  "updatedAt": 1776941168961,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776940985135",
+      "text": "La bible est mon arme pour le combat Chrétien.",
+      "userDeviceId": "41f7d78bfc830054fc554b27bc8b56a6d2bb8a0e141b2bcee23a03b212a4c534",
+      "userName": "Noreste Vilmé",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776941168961,
+      "updatedAt": 1776941168961,
+      "status": "active"
+    },
     {
       "id": "local-1776922258155",
       "text": "Amen",
@@ -156,8 +170,8 @@
     }
   ],
   "likeCount": 38,
-  "shareCount": 94,
-  "viewCount": 6294,
+  "shareCount": 96,
+  "viewCount": 6339,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
