@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776918724915,
+  "updatedAt": 1776918844198,
   "version": 1,
   "comments": [
     {
@@ -15,7 +15,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1776913938359,
-      "updatedAt": 1776913938359,
+      "updatedAt": 1776918844198,
       "status": "active"
     },
     {
@@ -26,10 +26,12 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "778f2dd8f0f3f1c70731aa97fa778151a2c11ca93b1723e4d1089e2b9deaac7d"
+      ],
       "createdAt": 1776912847184,
-      "updatedAt": 1776912847184,
+      "updatedAt": 1776918844198,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "778f2dd8f0f3f1c70731aa97fa778151a2c11ca93b1723e4d1089e2b9deaac7d"
+      ],
       "createdAt": 1776908347688,
-      "updatedAt": 1776908347688,
+      "updatedAt": 1776918844198,
       "status": "active"
     },
     {
@@ -137,7 +141,7 @@
   ],
   "likeCount": 23,
   "shareCount": 31,
-  "viewCount": 4352,
+  "viewCount": 4361,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
