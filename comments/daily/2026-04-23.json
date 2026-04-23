@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776942848563,
+  "updatedAt": 1776943091612,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8721dd0fb5669b9431b7e6bf9330d735bd1bcdbfc51600268f888d6422b9082e"
+      ],
       "createdAt": 1776941886631,
-      "updatedAt": 1776941886631,
+      "updatedAt": 1776943091612,
       "status": "active"
     },
     {
@@ -162,10 +164,12 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "467590118b32e54de97eaecd495b51bcb4209bd965074622f8933d48d22eb008"
+      ],
       "createdAt": 1776906847446,
-      "updatedAt": 1776906847446,
+      "updatedAt": 1776943091612,
       "status": "active"
     },
     {
@@ -176,16 +180,18 @@
       "verseName": "1 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "467590118b32e54de97eaecd495b51bcb4209bd965074622f8933d48d22eb008"
+      ],
       "createdAt": 1776906369156,
-      "updatedAt": 1776906369156,
+      "updatedAt": 1776943091612,
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 106,
-  "viewCount": 6675,
+  "likeCount": 41,
+  "shareCount": 108,
+  "viewCount": 6724,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
@@ -226,7 +232,8 @@
     "1453c4ea1209f9c8cf26577d9652371dba8b4950bbef92f7d3b742955b2efc79",
     "39f6f011d0be39f00d33e59dccae50dca1e0207f9a43d1bb17d20d1f331ebb4a",
     "0fb7c0d982b72db8a7cadee12ae175521d418954dbcd6baf786afad7c1ddfa49",
-    "3d023269ec11d0cfdf01c084ddef31901818ea5445d31539983eab7b0385e932"
+    "3d023269ec11d0cfdf01c084ddef31901818ea5445d31539983eab7b0385e932",
+    "487e3db031c6c902eddb1d21917e8449a6d632d28ffafe1e43e24d7533e48f08"
   ],
   "verseViewBy": []
 }
