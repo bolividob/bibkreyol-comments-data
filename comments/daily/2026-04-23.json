@@ -1,9 +1,23 @@
 {
   "date": "2026-04-23",
   "verseKey": "daily:2026-04-23",
-  "updatedAt": 1776980345503,
+  "updatedAt": 1776980464526,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1776980006873",
+      "text": "Bèl vèsè🥰",
+      "userDeviceId": "2c1f6f6adb561d4002b216bacd69e80ee9e717b4404844c77d0789b290dc958b",
+      "userName": "pitit jezi a",
+      "verseName": "1 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1776980464526,
+      "updatedAt": 1776980464526,
+      "status": "active"
+    },
     {
       "id": "local-1776977764424",
       "text": "bernadette",
@@ -275,7 +289,7 @@
   ],
   "likeCount": 87,
   "shareCount": 196,
-  "viewCount": 12270,
+  "viewCount": 12284,
   "verseLikedBy": [
     "e706fd177a2c4e7d69617a6df7ab1bd03eae6c452f6c5b8a64ad429827bad02a",
     "d57fd2d2a7c58d0b58960fa1d205f9b69e712124c45ec9477fc394c76de2de4a",
