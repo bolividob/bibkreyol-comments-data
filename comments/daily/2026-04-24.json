@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777072385710,
+  "updatedAt": 1777072506876,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777072459762",
+      "text": "bienvenue",
+      "userDeviceId": "02c405cddc26c16873da2c864d66e7b3f9c8eec1eb9225339d0c800e22783b22",
+      "userName": "MarcArthur despinasse",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777072506876,
+      "updatedAt": 1777072506876,
+      "status": "active"
+    },
     {
       "id": "local-1777070421987",
       "text": "Amèn !",
@@ -446,7 +460,7 @@
   ],
   "likeCount": 119,
   "shareCount": 243,
-  "viewCount": 13414,
+  "viewCount": 13447,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
