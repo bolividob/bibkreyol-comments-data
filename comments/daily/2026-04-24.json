@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777024146364,
+  "updatedAt": 1777024267310,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777024166748",
+      "text": "Amen",
+      "userDeviceId": "7ec4dddf3557f0233f50ecd2da277cf0eb5024afdd10cf98ec564f02f6089a02",
+      "userName": "Marie",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777024267309,
+      "updatedAt": 1777024267309,
+      "status": "active"
+    },
     {
       "id": "local-1777005575697",
       "text": "amèn",
@@ -210,8 +224,8 @@
     }
   ],
   "likeCount": 46,
-  "shareCount": 85,
-  "viewCount": 5602,
+  "shareCount": 88,
+  "viewCount": 5621,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
