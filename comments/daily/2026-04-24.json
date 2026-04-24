@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777005545288,
+  "updatedAt": 1777005664505,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777005575697",
+      "text": "amèn",
+      "userDeviceId": "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+      "userName": "Marcline Elie",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777005664505,
+      "updatedAt": 1777005664505,
+      "status": "active"
+    },
     {
       "id": "local-1777005369497",
       "text": "Bondye di Yon mo Pou mw nan Sam ye a",
@@ -195,7 +209,7 @@
   ],
   "likeCount": 25,
   "shareCount": 44,
-  "viewCount": 4219,
+  "viewCount": 4236,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
