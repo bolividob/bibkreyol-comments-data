@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777055705431,
+  "updatedAt": 1777055825569,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777055771884",
+      "text": "amén wi",
+      "userDeviceId": "e04482021149079fd7db52cc89190c76a55717eb04745e3a226f74d60f7e8972",
+      "userName": "Renelson Saint fleur",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777055825569,
+      "updatedAt": 1777055825569,
+      "status": "active"
+    },
     {
       "id": "local-1777050535394",
       "text": "glwa pou Bondye.",
@@ -397,9 +411,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 106,
+  "likeCount": 107,
   "shareCount": 211,
-  "viewCount": 10701,
+  "viewCount": 10719,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
@@ -506,7 +520,8 @@
     "d438b90ea086b7aaef475c128369bd2b2fbd2ddb6d9d256072f70556a2359644",
     "fde2349587b089583923c43f93451ae3e57fde7e4dac9d67cdfe2fd07ea70fe8",
     "29a5424b5a211848c27b3be23967b0a99d413358d787f28cc6ee2ba31f468f5b",
-    "6a97be196fd8f42b8a1beba5e44af54bf3bb9f90389878d4fc2b4d05b4a19364"
+    "6a97be196fd8f42b8a1beba5e44af54bf3bb9f90389878d4fc2b4d05b4a19364",
+    "e04482021149079fd7db52cc89190c76a55717eb04745e3a226f74d60f7e8972"
   ],
   "verseViewBy": []
 }
