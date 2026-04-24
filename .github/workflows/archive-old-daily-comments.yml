@@ -1,0 +1,83 @@
+name: Archive old daily comment files
+
+on:
+  schedule:
+    # GitHub Actions cron cannot do "every 36 hours" directly.
+    # Running every 12 hours keeps files from lingering too long.
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: archive-old-daily-comments
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Move JSON files older than 36 hours to archive
+        run: |
+          set -euo pipefail
+
+          SOURCE_DIR="comments/daily"
+          ARCHIVE_DIR="comments/archive/daily"
+
+          if [ ! -d "$SOURCE_DIR" ]; then
+            echo "Source directory $SOURCE_DIR does not exist. Nothing to archive."
+            exit 0
+          fi
+
+          mkdir -p "$ARCHIVE_DIR"
+
+          cutoff_epoch="$(date -u -d '36 hours ago' +%s)"
+          echo "Cutoff (UTC epoch): $cutoff_epoch"
+
+          shopt -s nullglob
+          moved=0
+          for file in "$SOURCE_DIR"/*.json; do
+            filename="$(basename "$file")"
+            if [[ ! "$filename" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})\.json$ ]]; then
+              echo "Skipping non-dated file: $filename"
+              continue
+            fi
+
+            file_date="${BASH_REMATCH[1]}"
+            file_epoch="$(date -u -d "$file_date 00:00:00" +%s)"
+
+            if [ "$file_epoch" -le "$cutoff_epoch" ]; then
+              echo "Archiving $filename (file_epoch=$file_epoch)"
+              mv "$file" "$ARCHIVE_DIR/"
+              moved=$((moved + 1))
+            fi
+          done
+
+          echo "Moved $moved file(s) to $ARCHIVE_DIR."
+
+          if [ "$moved" -eq 0 ]; then
+            echo "No files older than 36 hours were found."
+            exit 0
+          fi
+
+      - name: Commit and push archive changes
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- comments/daily comments/archive; then
+            echo "No git changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add comments/daily comments/archive
+          git commit -m "Archive daily comment JSON files older than 36 hours"
+          git push
