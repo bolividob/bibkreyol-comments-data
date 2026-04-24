@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777043290012,
+  "updatedAt": 1777043773318,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777043670312",
+      "text": "bon travay men depi yon moun pa gen internet ou pap ka fonksyone sou li....",
+      "userDeviceId": "62e60b8b448be34002b52618a6da1540d521709d84ac1d753db10aefc8b981bf",
+      "userName": "assoifee de Dieu",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777043773318,
+      "updatedAt": 1777043773318,
+      "status": "active"
+    },
     {
       "id": "local-1777038313305",
       "text": "amén amén amén 🙏😇",
@@ -301,12 +315,13 @@
       "verseName": "Amòs 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "8f39b62b40615d9e86cf951376c0d9f6c785096aff4e3aa65be88c2d0929d1db"
+        "8f39b62b40615d9e86cf951376c0d9f6c785096aff4e3aa65be88c2d0929d1db",
+        "62e60b8b448be34002b52618a6da1540d521709d84ac1d753db10aefc8b981bf"
       ],
       "createdAt": 1776997457136,
-      "updatedAt": 1777001047384,
+      "updatedAt": 1777043773318,
       "status": "active"
     },
     {
@@ -326,9 +341,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 90,
+  "likeCount": 92,
   "shareCount": 170,
-  "viewCount": 8819,
+  "viewCount": 8886,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
@@ -419,7 +434,9 @@
     "38b176ea61dbf1d6530390ef8e58ef22d88ac92dec7291d533774d5f593e2d76",
     "905eb237e94ed7f0578d8fbf091d54b3476cfb5c7b20b28a0b87f8a528238c6b",
     "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591",
-    "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98"
+    "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
+    "090e6b1392626780252e422a23e977cd9c4a1ccf8385fca28eabf54422be85a8",
+    "62e60b8b448be34002b52618a6da1540d521709d84ac1d753db10aefc8b981bf"
   ],
   "verseViewBy": []
 }
