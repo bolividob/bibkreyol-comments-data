@@ -80,4 +80,21 @@ jobs:
 
           git add comments/daily comments/archive
           git commit -m "Archive daily comment JSON files older than 36 hours"
-          git push
+
+          attempts=8
+          for i in $(seq 1 "$attempts"); do
+            if git push; then
+              echo "Push succeeded on attempt $i."
+              exit 0
+            fi
+
+            if [ "$i" -eq "$attempts" ]; then
+              echo "Push failed after $attempts attempts."
+              exit 1
+            fi
+
+            sleep_time=$((2 ** (i - 1)))
+            echo "Push failed (likely concurrent updates). Sleeping ${sleep_time}s then git pull --rebase..."
+            sleep "$sleep_time"
+            git pull --rebase
+          done
