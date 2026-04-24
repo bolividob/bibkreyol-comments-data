@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777009383749,
+  "updatedAt": 1777009513777,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Amòs 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0b52b8d65a0865341088ae1a58224a3eec2ecab92734c6a9f3a9e19a93c81ec6"
+      ],
       "createdAt": 1777005425813,
-      "updatedAt": 1777005425813,
+      "updatedAt": 1777009513777,
       "status": "active"
     },
     {
@@ -208,8 +210,8 @@
     }
   ],
   "likeCount": 34,
-  "shareCount": 54,
-  "viewCount": 4555,
+  "shareCount": 56,
+  "viewCount": 4563,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
