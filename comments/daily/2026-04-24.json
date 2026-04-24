@@ -1,9 +1,37 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777028225263,
+  "updatedAt": 1777028346336,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777028223118",
+      "text": "Amen",
+      "userDeviceId": "b09ef7590cce9883499194d8c706e6b2f2e7d90937370593fbd42420f4140b0e",
+      "userName": "sr leyou",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777028346336,
+      "updatedAt": 1777028346336,
+      "status": "active"
+    },
+    {
+      "id": "local-1777028240132",
+      "text": "Amen",
+      "userDeviceId": "b09ef7590cce9883499194d8c706e6b2f2e7d90937370593fbd42420f4140b0e",
+      "userName": "sr leyou",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777028346336,
+      "updatedAt": 1777028346336,
+      "status": "active"
+    },
     {
       "id": "local-1777028139437",
       "text": "aleluia aleluia aleluia groire a Dieu",
@@ -241,7 +269,7 @@
   ],
   "likeCount": 55,
   "shareCount": 106,
-  "viewCount": 6406,
+  "viewCount": 6433,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
