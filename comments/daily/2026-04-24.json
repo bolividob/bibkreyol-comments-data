@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777032906253,
+  "updatedAt": 1777033026423,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777032960895",
+      "text": "amén amén amén",
+      "userDeviceId": "754d7b2a2b70b421aa422578993d4121a9cb08c95c2ff9b6dd35b9b71e825d1f",
+      "userName": "Mayson",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777033026423,
+      "updatedAt": 1777033026423,
+      "status": "active"
+    },
     {
       "id": "local-1777028223118",
       "text": "Amen",
@@ -268,9 +282,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
+  "likeCount": 69,
   "shareCount": 134,
-  "viewCount": 7325,
+  "viewCount": 7351,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
@@ -338,7 +352,9 @@
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "450fa6e948597ba4c5d934746de5af14d153d0aa16359919f4ab4b5013b97151",
     "35c60978ade52698bb45a2d8d12a096dfe1c512cbd3ee842aec2c0762b6a68d2",
-    "fd66d8794cd1a520505fe2538bf38c038cecd2eadcf3609b390d5432ed64fb5e"
+    "fd66d8794cd1a520505fe2538bf38c038cecd2eadcf3609b390d5432ed64fb5e",
+    "754d7b2a2b70b421aa422578993d4121a9cb08c95c2ff9b6dd35b9b71e825d1f",
+    "404fc153e4daa0fe743ec56dd5d1802330fb0a6b47cc8c2828626c10e56d8cb9"
   ],
   "verseViewBy": []
 }
