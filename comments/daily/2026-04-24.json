@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777046833545,
+  "updatedAt": 1777046951508,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777046849426",
+      "text": "♥♥",
+      "userDeviceId": "baa0310936de6d9fe258f4e6b736628fdda67cd71a3983506e19ca1b967dbcc8",
+      "userName": "Gezi",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777046951508,
+      "updatedAt": 1777046951508,
+      "status": "active"
+    },
     {
       "id": "local-1777044729528",
       "text": "Pou li bib la? Oubyen pou komante yo?",
@@ -356,8 +370,8 @@
     }
   ],
   "likeCount": 93,
-  "shareCount": 178,
-  "viewCount": 9461,
+  "shareCount": 179,
+  "viewCount": 9484,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
