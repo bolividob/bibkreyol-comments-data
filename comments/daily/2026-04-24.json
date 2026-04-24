@@ -1,9 +1,37 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777000927943,
+  "updatedAt": 1777001047384,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777000989426",
+      "text": "amen,",
+      "userDeviceId": "8f39b62b40615d9e86cf951376c0d9f6c785096aff4e3aa65be88c2d0929d1db",
+      "userName": "Abraham",
+      "verseName": "Detewonòm 3:19",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777001047384,
+      "updatedAt": 1777001047384,
+      "status": "active"
+    },
+    {
+      "id": "local-1777000953574",
+      "text": "amen",
+      "userDeviceId": "8f39b62b40615d9e86cf951376c0d9f6c785096aff4e3aa65be88c2d0929d1db",
+      "userName": "Abraham",
+      "verseName": "Detewonòm 3:19",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777001047384,
+      "updatedAt": 1777001047384,
+      "status": "active"
+    },
     {
       "id": "local-1777000684414",
       "text": "bib la",
@@ -26,10 +54,12 @@
       "verseName": "Amòs 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8f39b62b40615d9e86cf951376c0d9f6c785096aff4e3aa65be88c2d0929d1db"
+      ],
       "createdAt": 1777000808120,
-      "updatedAt": 1777000808120,
+      "updatedAt": 1777001047384,
       "status": "active"
     },
     {
@@ -40,10 +70,12 @@
       "verseName": "Amòs 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8f39b62b40615d9e86cf951376c0d9f6c785096aff4e3aa65be88c2d0929d1db"
+      ],
       "createdAt": 1776997457136,
-      "updatedAt": 1776997457136,
+      "updatedAt": 1777001047384,
       "status": "active"
     },
     {
@@ -54,16 +86,18 @@
       "verseName": "Amòs 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8f39b62b40615d9e86cf951376c0d9f6c785096aff4e3aa65be88c2d0929d1db"
+      ],
       "createdAt": 1776994148555,
-      "updatedAt": 1776994148555,
+      "updatedAt": 1777001047384,
       "status": "active"
     }
   ],
   "likeCount": 15,
   "shareCount": 32,
-  "viewCount": 3306,
+  "viewCount": 3336,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
