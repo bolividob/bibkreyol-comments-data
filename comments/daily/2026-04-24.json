@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777070346260,
+  "updatedAt": 1777070465175,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777070421987",
+      "text": "Amèn !",
+      "userDeviceId": "5562811ca9c7d17f1e36b2d442d75f14cfcf74be059c27ecb40867c6c36d0f32",
+      "userName": "GaMa",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777070465173,
+      "updatedAt": 1777070465173,
+      "status": "active"
+    },
     {
       "id": "local-1777064285712",
       "text": "yes amén 3fois",
@@ -432,7 +446,7 @@
   ],
   "likeCount": 120,
   "shareCount": 237,
-  "viewCount": 12927,
+  "viewCount": 12946,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
