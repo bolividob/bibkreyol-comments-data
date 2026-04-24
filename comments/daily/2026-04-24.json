@@ -1,9 +1,37 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777000687194,
+  "updatedAt": 1777000808120,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777000684414",
+      "text": "bib la",
+      "userDeviceId": "1f162699bfadacb5487c3265aeb20ade8663ebbd7eaa2b0fe082d887facb053a",
+      "userName": "nadine",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777000808120,
+      "updatedAt": 1777000808120,
+      "status": "active"
+    },
+    {
+      "id": "local-1777000716847",
+      "text": "pawòl Bondye bon",
+      "userDeviceId": "1f162699bfadacb5487c3265aeb20ade8663ebbd7eaa2b0fe082d887facb053a",
+      "userName": "nadine",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777000808120,
+      "updatedAt": 1777000808120,
+      "status": "active"
+    },
     {
       "id": "local-1777000891091",
       "text": "amen",
@@ -35,7 +63,7 @@
   ],
   "likeCount": 15,
   "shareCount": 32,
-  "viewCount": 3222,
+  "viewCount": 3264,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
