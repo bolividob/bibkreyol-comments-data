@@ -1,9 +1,23 @@
 {
   "date": "2026-04-24",
   "verseKey": "daily:2026-04-24",
-  "updatedAt": 1777005304275,
+  "updatedAt": 1777005425813,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777005369497",
+      "text": "Bondye di Yon mo Pou mw nan Sam ye a",
+      "userDeviceId": "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+      "userName": "Bondye beni Nou svp edem periye paske mw santim pap viv",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777005425813,
+      "updatedAt": 1777005425813,
+      "status": "active"
+    },
     {
       "id": "local-1777004085625",
       "text": "yès",
@@ -179,9 +193,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 24,
+  "likeCount": 25,
   "shareCount": 43,
-  "viewCount": 4171,
+  "viewCount": 4197,
   "verseLikedBy": [
     "d3dfa4601d424b51cd345196c5db57972398ea6a63aee86d141070d275e67622",
     "6d1b308d4eb1b8ed853fecba8fc382bea0bfd0a674637de628c845619bee5c29",
@@ -206,7 +220,8 @@
     "7ccf526cfd789ce597d913140104bea636987614c9b72146927085aa17774df9",
     "e20e67ecbd286c887b1ba6d3abbb3b064b740a07bec751b7508770d93c8595f3",
     "687e223ea0693602a6ad06359f2780f979bc5ebd22945db4d267513a5d79b0c6",
-    "c07a7477a899a7ef36a9fc929ab45483a7f508e3e0ac050c336ae2191beec7be"
+    "c07a7477a899a7ef36a9fc929ab45483a7f508e3e0ac050c336ae2191beec7be",
+    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25"
   ],
   "verseViewBy": []
 }
