@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777150384701,
+  "updatedAt": 1777150504984,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777150422068",
+      "text": "amen",
+      "userDeviceId": "1ca491c3b87b23d31a650694c7dacb10778068fa09bed5c5937f419d2345f466",
+      "userName": "Marie Michele Blaise",
+      "verseName": "Amòs 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777150504984,
+      "updatedAt": 1777150504984,
+      "status": "active"
+    },
     {
       "id": "local-1777143217119",
       "text": "Avèk Jezi tout bgay déjà byen🙏",
@@ -325,9 +339,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
+  "likeCount": 80,
   "shareCount": 177,
-  "viewCount": 12372,
+  "viewCount": 12391,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
@@ -407,7 +421,8 @@
     "0dfbefc2e3d09c9efeabca24ac58c6763a4dd9eb6f8eee7f09912a6e4b51b3ca",
     "d6370b9ac1876ee6276cb92e40249a19700e1debf694aa464feef6ea7da133e1",
     "72c0e879061162c004b1d6d8dc01dfd710aab30dad5ee74f2078289bd815547a",
-    "60c22ffb2e4d720cf0c17022a4eb646f64eb81269ef1cb1196ff02d11a71509a"
+    "60c22ffb2e4d720cf0c17022a4eb646f64eb81269ef1cb1196ff02d11a71509a",
+    "1ca491c3b87b23d31a650694c7dacb10778068fa09bed5c5937f419d2345f466"
   ],
   "verseViewBy": []
 }
