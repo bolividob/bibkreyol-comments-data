@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777140314694,
+  "updatedAt": 1777140428619,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777143768094",
+      "text": "Amen 🙏",
+      "userDeviceId": "1cdc3715302d79da7a969b854a104f1e871cf001bbdd31e6fd258380494b00d4",
+      "userName": "sè merlans",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777140428618,
+      "updatedAt": 1777140428618,
+      "status": "active"
+    },
     {
       "id": "local-1777130434032",
       "text": "Amen",
@@ -299,7 +313,7 @@
   ],
   "likeCount": 70,
   "shareCount": 167,
-  "viewCount": 10933,
+  "viewCount": 10955,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
