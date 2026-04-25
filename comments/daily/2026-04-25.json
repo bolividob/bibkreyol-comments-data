@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777119243908,
+  "updatedAt": 1777119364067,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777119326004",
+      "text": "amèn. si pawol la pa nan sant lavi Yon moun Li pa anyen vre .",
+      "userDeviceId": "9df74b897e5e7b126decd234d4448d344d04dc13f94779499b80b46615958624",
+      "userName": "Wilfrid Navilus",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777119364067,
+      "updatedAt": 1777119364067,
+      "status": "active"
+    },
     {
       "id": "local-1777110297387",
       "text": "elaji teritwa m seignuer",
@@ -223,7 +237,7 @@
   ],
   "likeCount": 51,
   "shareCount": 142,
-  "viewCount": 7316,
+  "viewCount": 7333,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
