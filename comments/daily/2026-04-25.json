@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777097417093,
+  "updatedAt": 1777097523788,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777097416433",
+      "text": "elaju piket mw senye Amen",
+      "userDeviceId": "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+      "userName": "esté",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777097523788,
+      "updatedAt": 1777097523788,
+      "status": "active"
+    },
     {
       "id": "local-1777096598853",
       "text": "Amen 🙏",
@@ -181,7 +195,7 @@
   ],
   "likeCount": 33,
   "shareCount": 52,
-  "viewCount": 4774,
+  "viewCount": 4780,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
