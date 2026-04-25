@@ -1,9 +1,25 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777126444345,
+  "updatedAt": 1777126566114,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777126516483",
+      "text": "amennnnnnnnnnn",
+      "userDeviceId": "ee1dbe60e6e777c4d5d59c4c98aa26cac82e444ed5596a196a5510ab23787ca7",
+      "userName": "Girl a sans",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "ee1dbe60e6e777c4d5d59c4c98aa26cac82e444ed5596a196a5510ab23787ca7"
+      ],
+      "createdAt": 1777126566114,
+      "updatedAt": 1777126566114,
+      "status": "active"
+    },
     {
       "id": "local-1777124005903",
       "text": "amen",
@@ -12,10 +28,12 @@
       "verseName": "2 Wa 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ee1dbe60e6e777c4d5d59c4c98aa26cac82e444ed5596a196a5510ab23787ca7"
+      ],
       "createdAt": 1777124045436,
-      "updatedAt": 1777124045436,
+      "updatedAt": 1777126566114,
       "status": "active"
     },
     {
@@ -249,9 +267,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 56,
-  "shareCount": 153,
-  "viewCount": 8600,
+  "likeCount": 57,
+  "shareCount": 154,
+  "viewCount": 8625,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
@@ -308,7 +326,8 @@
     "a3c2dc94bc14642a42d8c5697c20dbb4b8ae65297156091187ceae9b8b0cc087",
     "d95194ea34bc5ef44e682883ba8c85a15efade90c3c43c24e75cb209e3e4177e",
     "3106bb1b14c3396bfe31687a59095172c7d8ab5dd40b45eb58ce830856bdc64d",
-    "9efb27b43e466ae67505fe50575a6a2bd90850366ec861a47aca052880246f4d"
+    "9efb27b43e466ae67505fe50575a6a2bd90850366ec861a47aca052880246f4d",
+    "ee1dbe60e6e777c4d5d59c4c98aa26cac82e444ed5596a196a5510ab23787ca7"
   ],
   "verseViewBy": []
 }
