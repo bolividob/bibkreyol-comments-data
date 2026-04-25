@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777081037433,
+  "updatedAt": 1777082435179,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777082148860",
+      "text": "amén",
+      "userDeviceId": "e26b228c9528de559413ad80613815469f694e068c83c03cbfc9c0c5923ac052",
+      "userName": "Andre",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777082435179,
+      "updatedAt": 1777082435179,
+      "status": "active"
+    },
     {
       "id": "local-1777080808735",
       "text": "Amen",
@@ -78,8 +92,8 @@
     }
   ],
   "likeCount": 11,
-  "shareCount": 10,
-  "viewCount": 1871,
+  "shareCount": 12,
+  "viewCount": 1983,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
