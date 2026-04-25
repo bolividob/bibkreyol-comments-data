@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777084576763,
+  "updatedAt": 1777085900017,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777085676138",
+      "text": "Amen 🙏",
+      "userDeviceId": "7ef9927c68d95f6e5c741aa0de279fc1d01a5ff127ef0100eaca2ab64d1f2b18",
+      "userName": "Nerlanda",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777085900017,
+      "updatedAt": 1777085900017,
+      "status": "active"
+    },
     {
       "id": "local-1777082148860",
       "text": "amén",
@@ -97,7 +111,7 @@
   ],
   "likeCount": 16,
   "shareCount": 28,
-  "viewCount": 2777,
+  "viewCount": 2842,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
