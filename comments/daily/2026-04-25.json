@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777123925442,
+  "updatedAt": 1777124045436,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777124005903",
+      "text": "amen",
+      "userDeviceId": "d0a2ababf0cc9ee57cb530d978399657862bf67657e05297c476f559263d496e",
+      "userName": "sr fabela",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777124045436,
+      "updatedAt": 1777124045436,
+      "status": "active"
+    },
     {
       "id": "local-1777119326004",
       "text": "amèn. si pawol la pa nan sant lavi Yon moun Li pa anyen vre .",
@@ -237,7 +251,7 @@
   ],
   "likeCount": 55,
   "shareCount": 150,
-  "viewCount": 8131,
+  "viewCount": 8154,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
