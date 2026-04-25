@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777154463828,
+  "updatedAt": 1777154592470,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777154475090",
+      "text": "Amen",
+      "userDeviceId": "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+      "userName": "Yveline",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777154592469,
+      "updatedAt": 1777154592469,
+      "status": "active"
+    },
     {
       "id": "local-1777150422068",
       "text": "amen",
@@ -343,7 +357,7 @@
   ],
   "likeCount": 86,
   "shareCount": 188,
-  "viewCount": 13136,
+  "viewCount": 13157,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
