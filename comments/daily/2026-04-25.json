@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777127044758,
+  "updatedAt": 1777127165106,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777126984581",
+      "text": "Amen mèsi BONDYE pou souf lavi",
+      "userDeviceId": "e31627423a6099ab66005c761f82daf635ef185e17065ece7697f5b16b0a918d",
+      "userName": "Samuel",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777127165106,
+      "updatedAt": 1777127165106,
+      "status": "active"
+    },
     {
       "id": "local-1777126516483",
       "text": "amennnnnnnnnnn",
@@ -269,7 +283,7 @@
   ],
   "likeCount": 57,
   "shareCount": 156,
-  "viewCount": 8709,
+  "viewCount": 8734,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
