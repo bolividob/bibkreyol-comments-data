@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777143185211,
+  "updatedAt": 1777143323764,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777143217119",
+      "text": "Avèk Jezi tout bgay déjà byen🙏",
+      "userDeviceId": "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
+      "userName": "Sr Dorvil wislene",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777143323764,
+      "updatedAt": 1777143323764,
+      "status": "active"
+    },
     {
       "id": "local-1777143768094",
       "text": "Amen 🙏",
@@ -61,7 +75,7 @@
         "ee1dbe60e6e777c4d5d59c4c98aa26cac82e444ed5596a196a5510ab23787ca7"
       ],
       "createdAt": 1777126566114,
-      "updatedAt": 1777126566114,
+      "updatedAt": 1777143323764,
       "status": "active"
     },
     {
@@ -311,9 +325,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
+  "likeCount": 73,
   "shareCount": 172,
-  "viewCount": 11337,
+  "viewCount": 11357,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
@@ -386,7 +400,8 @@
     "909eec2346767e7e63241822955a5aa2d1891ef1a64b16381bf48eb33310248a",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "452204ab62d4e6d0471c303333d542e69a735c197c6717e8c3cc45dda5c3da93",
-    "c60eb6f701e287283c2242e29697948be1674db109fee2cf6eddf75daac2e485"
+    "c60eb6f701e287283c2242e29697948be1674db109fee2cf6eddf75daac2e485",
+    "7812b03b8f31ba326a2503486d2e53a25f635b48c02cfe0dd6ca191444102580"
   ],
   "verseViewBy": []
 }
