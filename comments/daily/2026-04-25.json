@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777106163398,
+  "updatedAt": 1777106282845,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777106154291",
+      "text": "alelouyaaaa",
+      "userDeviceId": "15cb4d6abf7d3302db4900863af25683bfbdf5d00b449b59245c3fd9b8bd77dc",
+      "userName": "mavilia jean baptiste",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777106282845,
+      "updatedAt": 1777106282845,
+      "status": "active"
+    },
     {
       "id": "local-1777097416433",
       "text": "elaju piket mw senye Amen",
@@ -193,9 +207,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
-  "shareCount": 59,
-  "viewCount": 5213,
+  "likeCount": 34,
+  "shareCount": 60,
+  "viewCount": 5220,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
@@ -229,7 +243,8 @@
     "8171a9917000968583791aa5c69f54a89ef81b732ec67161e56b235d444a0358",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
-    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad"
+    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "15cb4d6abf7d3302db4900863af25683bfbdf5d00b449b59245c3fd9b8bd77dc"
   ],
   "verseViewBy": []
 }
