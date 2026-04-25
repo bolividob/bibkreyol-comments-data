@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777089863282,
+  "updatedAt": 1777089967132,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777089943459",
+      "text": "amén",
+      "userDeviceId": "95ad0005d9a5e2a86e8c0c17604a71d441d4a35bc5ac73f8d248f3682a2682b4",
+      "userName": "Fe.G.Boy Sage",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777089967131,
+      "updatedAt": 1777089967131,
+      "status": "active"
+    },
     {
       "id": "local-1777086653010",
       "text": "le sang de Jésus",
@@ -123,9 +137,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 23,
-  "shareCount": 37,
-  "viewCount": 3894,
+  "likeCount": 24,
+  "shareCount": 39,
+  "viewCount": 3925,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
@@ -149,7 +163,8 @@
     "16f6c49becfeecedbe1341422d38ee791897b1d5f50c90b4efd5bc385a70617c",
     "3534b2e107c0c5e7d515ea67533157b5d7a1382d58d43b1a55e73995ca7a3a97",
     "3f87104ebe93d2bff7e20cf41d536653bb7bf15c5133b59eff75cdc4bf84c172",
-    "491b7221651de436fb15e5d7046e970293d35263b59428fa85ff54b4ff07c72a"
+    "491b7221651de436fb15e5d7046e970293d35263b59428fa85ff54b4ff07c72a",
+    "95ad0005d9a5e2a86e8c0c17604a71d441d4a35bc5ac73f8d248f3682a2682b4"
   ],
   "verseViewBy": []
 }
