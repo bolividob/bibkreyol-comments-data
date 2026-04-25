@@ -1,9 +1,23 @@
 {
   "date": "2026-04-25",
   "verseKey": "daily:2026-04-25",
-  "updatedAt": 1777096683475,
+  "updatedAt": 1777096803673,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777096598853",
+      "text": "Amen 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "marie lourdes louis",
+      "verseName": "2 Wa 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777096803673,
+      "updatedAt": 1777096803673,
+      "status": "active"
+    },
     {
       "id": "local-1777091726444",
       "text": "mèsi anpil Bondye papa 🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -165,9 +179,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
+  "likeCount": 32,
   "shareCount": 50,
-  "viewCount": 4725,
+  "viewCount": 4735,
   "verseLikedBy": [
     "49ba72e829b94cbc6696152287d605ac74a6cc0363e57671444393d54ba81c53",
     "20d76a33e95e04f53e7528aac23ae11dfd9bc104806187167ae9251b0a2a35cc",
@@ -199,7 +213,8 @@
     "05f08678d20a41dfa67a14b00138fbaf643ffa022e337edebe163b2ee288901d",
     "84d1378c68844df3b9bf9fb175e44719ddf2e02e3898c4bb6e1b4ddc47d1a20b",
     "8171a9917000968583791aa5c69f54a89ef81b732ec67161e56b235d444a0358",
-    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240"
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
