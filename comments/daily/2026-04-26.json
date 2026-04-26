@@ -1,9 +1,65 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777203325804,
+  "updatedAt": 1777204948240,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777204767079",
+      "text": "amen",
+      "userDeviceId": "f612e15e8044d3c9b82abffd46dbc0d6ec5e4c623d7bf097b49ae115bffb5364",
+      "userName": "christlove",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777204948240,
+      "updatedAt": 1777204948240,
+      "status": "active"
+    },
+    {
+      "id": "local-1777204799606",
+      "text": "amen wiii",
+      "userDeviceId": "f612e15e8044d3c9b82abffd46dbc0d6ec5e4c623d7bf097b49ae115bffb5364",
+      "userName": "christlove",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777204948240,
+      "updatedAt": 1777204948240,
+      "status": "active"
+    },
+    {
+      "id": "local-1777204326158",
+      "text": "amén amén amén",
+      "userDeviceId": "22f49b212895788b0ff7633e300ac0fc869a66aa9c640c6c4458163b5f443dcc",
+      "userName": "jan ma nél",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777204948240,
+      "updatedAt": 1777204948240,
+      "status": "active"
+    },
+    {
+      "id": "local-1777204384928",
+      "text": "bon dye be ni nou",
+      "userDeviceId": "22f49b212895788b0ff7633e300ac0fc869a66aa9c640c6c4458163b5f443dcc",
+      "userName": "jan ma nél",
+      "verseName": "2 Timote 4:3",
+      "parentId": "local-1777172311016",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777204948240,
+      "updatedAt": 1777204948240,
+      "status": "active"
+    },
     {
       "id": "local-1777200104370",
       "text": "oxilien",
@@ -293,11 +349,11 @@
       "userName": "feguerson",
       "verseName": "2 Timote 4:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777172416427,
-      "updatedAt": 1777172416427,
+      "updatedAt": 1777204948240,
       "status": "active"
     },
     {
@@ -318,8 +374,8 @@
     }
   ],
   "likeCount": 73,
-  "shareCount": 144,
-  "viewCount": 7538,
+  "shareCount": 146,
+  "viewCount": 7733,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
