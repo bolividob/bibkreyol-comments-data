@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777178887020,
+  "updatedAt": 1777179004507,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777178953049",
+      "text": "tout gloire se pou segnyè",
+      "userDeviceId": "2e2d7f4b04a26eabff2f6bee0f8e755bd5f6daac1939f709b96647846b2eef97",
+      "userName": "srHolanda",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777179004507,
+      "updatedAt": 1777179004507,
+      "status": "active"
+    },
     {
       "id": "local-1777177770165",
       "text": "amen",
@@ -151,7 +165,7 @@
   ],
   "likeCount": 42,
   "shareCount": 73,
-  "viewCount": 4596,
+  "viewCount": 4613,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
