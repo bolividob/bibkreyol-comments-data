@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777196764286,
+  "updatedAt": 1777196883502,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777196787999",
+      "text": "kè you bagay VA byen",
+      "userDeviceId": "59731c52a7ef25c760bf5ce09988d37ef54d84412f89bcbbf0cd9c3754dca412",
+      "userName": "Fanoo",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777196883501,
+      "updatedAt": 1777196883501,
+      "status": "active"
+    },
     {
       "id": "local-1777196753431",
       "text": "Amen",
@@ -192,8 +206,8 @@
     }
   ],
   "likeCount": 57,
-  "shareCount": 97,
-  "viewCount": 5780,
+  "shareCount": 98,
+  "viewCount": 5789,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
