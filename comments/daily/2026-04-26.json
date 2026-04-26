@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777219645922,
+  "updatedAt": 1777219816481,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777214495709",
+      "text": "ke senyè a pa kitem pami yo",
+      "userDeviceId": "396f94a64087358bbb0bdfd1f5360297e86f857208f7cc31f2d01cae419a7965",
+      "userName": "mykii",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777219816481,
+      "updatedAt": 1777219816481,
+      "status": "active"
+    },
     {
       "id": "local-1777219243791",
       "text": "Amen 🙏 🙏 🙏",
@@ -639,7 +653,7 @@
   ],
   "likeCount": 91,
   "shareCount": 195,
-  "viewCount": 11412,
+  "viewCount": 11491,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
