@@ -1,9 +1,65 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777208859598,
+  "updatedAt": 1777209038931,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777208991186",
+      "text": "salomond",
+      "userDeviceId": "639f51c5701859120a4ddfdce919a763c04bf148415c1f7115673e5b7bf6e9d7",
+      "userName": "amén",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777209038931,
+      "updatedAt": 1777209038931,
+      "status": "active"
+    },
+    {
+      "id": "local-1777208998533",
+      "text": "amen",
+      "userDeviceId": "639f51c5701859120a4ddfdce919a763c04bf148415c1f7115673e5b7bf6e9d7",
+      "userName": "amén",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777209038931,
+      "updatedAt": 1777209038931,
+      "status": "active"
+    },
+    {
+      "id": "local-1777208678693",
+      "text": "amèn",
+      "userDeviceId": "057b08cbd091bdbfcc0e4a76f77a43a04ba7737ee94b94e5e76e607a2c057620",
+      "userName": "Evelyne saintilus",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777209038930,
+      "updatedAt": 1777209038930,
+      "status": "active"
+    },
+    {
+      "id": "local-1777208840230",
+      "text": "edem prié svp",
+      "userDeviceId": "057b08cbd091bdbfcc0e4a76f77a43a04ba7737ee94b94e5e76e607a2c057620",
+      "userName": "Evelyne saintilus",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777209038930,
+      "updatedAt": 1777209038930,
+      "status": "active"
+    },
     {
       "id": "local-1777208474995",
       "text": "amén",
@@ -387,9 +443,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 78,
-  "shareCount": 159,
-  "viewCount": 9116,
+  "likeCount": 79,
+  "shareCount": 162,
+  "viewCount": 9341,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -468,7 +524,8 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "639f51c5701859120a4ddfdce919a763c04bf148415c1f7115673e5b7bf6e9d7",
     "d0539f5d0a877b13e6b1e33fa4f1048c86a460b71241a07c62df37c01a9ca7d9",
-    "18cb19f7fc5fd0898aca19b66926159da80b34e326c68d72bad4099a297865f8"
+    "18cb19f7fc5fd0898aca19b66926159da80b34e326c68d72bad4099a297865f8",
+    "94b2a47802b22414e91e936964d636e125c3e002086e9167a5bc8590d1ce8067"
   ],
   "verseViewBy": []
 }
