@@ -1,9 +1,37 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777173727903,
+  "updatedAt": 1777173846753,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777173774354",
+      "text": "🙏🙏",
+      "userDeviceId": "102832c1af63bdbbd742d7c38f479093c7564b4d96c107a1241fb261814f1fba",
+      "userName": "Carl Fredritch",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777173846753,
+      "updatedAt": 1777173846753,
+      "status": "active"
+    },
+    {
+      "id": "local-1777173794876",
+      "text": "Amèn",
+      "userDeviceId": "102832c1af63bdbbd742d7c38f479093c7564b4d96c107a1241fb261814f1fba",
+      "userName": "Carl Fredritch",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777173846753,
+      "updatedAt": 1777173846753,
+      "status": "active"
+    },
     {
       "id": "local-1777173496715",
       "text": "amen",
@@ -81,7 +109,7 @@
   ],
   "likeCount": 24,
   "shareCount": 64,
-  "viewCount": 3586,
+  "viewCount": 3618,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
