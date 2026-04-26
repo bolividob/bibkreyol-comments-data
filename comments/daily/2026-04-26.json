@@ -1,9 +1,51 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777212579782,
+  "updatedAt": 1777215646735,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777216067339",
+      "text": "Amen",
+      "userDeviceId": "0208625e4ecac20e112bbd692436b0514b2e00a12f9e6c2c85e7aff8a2baf6a5",
+      "userName": "Antoine Farana",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777215646735,
+      "updatedAt": 1777215646735,
+      "status": "active"
+    },
+    {
+      "id": "local-1777212783606",
+      "text": "Amen",
+      "userDeviceId": "e8a7d2cab6f91fdbfb11254a91c0c1d365bc8e0e06bffd97ad37a00338991f9b",
+      "userName": "Anajulie",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777215646735,
+      "updatedAt": 1777215646735,
+      "status": "active"
+    },
+    {
+      "id": "local-1777212864113",
+      "text": "edem priye mw santim dewoute",
+      "userDeviceId": "ff273818837b0e2681d36d296ee43efea0fe4b8909cfab1e717f7f70fa930943",
+      "userName": ".ama",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777215646735,
+      "updatedAt": 1777215646735,
+      "status": "active"
+    },
     {
       "id": "local-1777209930555",
       "text": "amen",
@@ -110,10 +152,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777208682613,
-      "updatedAt": 1777208682613,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -194,10 +238,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777202598250,
-      "updatedAt": 1777202598250,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -208,10 +254,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777201687606,
-      "updatedAt": 1777201687606,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -250,10 +298,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777200614479,
-      "updatedAt": 1777200614479,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -264,10 +314,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777199651266,
-      "updatedAt": 1777199651266,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -278,10 +330,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777197003768,
-      "updatedAt": 1777197003768,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -292,10 +346,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777196883501,
-      "updatedAt": 1777196883501,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -320,10 +376,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777187762963,
-      "updatedAt": 1777187762963,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -334,10 +392,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777179004507,
-      "updatedAt": 1777179004507,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -348,10 +408,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777177929618,
-      "updatedAt": 1777177929618,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -362,10 +424,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777175957995,
-      "updatedAt": 1777175957995,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -376,10 +440,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777174336470,
-      "updatedAt": 1777174336470,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -404,10 +470,12 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+      ],
       "createdAt": 1777173846753,
-      "updatedAt": 1777173846753,
+      "updatedAt": 1777215646734,
       "status": "active"
     },
     {
@@ -485,9 +553,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 83,
-  "shareCount": 172,
-  "viewCount": 10083,
+  "likeCount": 85,
+  "shareCount": 176,
+  "viewCount": 10403,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -571,7 +639,9 @@
     "3ed50b967cb29004483136289beb75e0dc8d102aa928490fe030e5616686c0db",
     "358862e6a39dc05cac800072329e251e666bc8bb4ada6375b58cc6a30c2639c3",
     "6a273d0d671690bc9ed6b8d40fdbb6c509b076de9814fbb59e4e813a73b30f7c",
-    "84e6f69a594b6bfbd590e42af52326d1350f01385a3bba599a61b9e225d0e9ab"
+    "84e6f69a594b6bfbd590e42af52326d1350f01385a3bba599a61b9e225d0e9ab",
+    "a97d8dbcfcae13cff080eb4a6e647e373c5c28074f0ac632ed19f5988957a5f0",
+    "824e82380b6c4e686f76badc77b15e538296a5dfc5507d945898456890bd9548"
   ],
   "verseViewBy": []
 }
