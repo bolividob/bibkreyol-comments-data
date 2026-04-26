@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777200847631,
+  "updatedAt": 1777200967093,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777200923962",
+      "text": "amen",
+      "userDeviceId": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
+      "userName": "sr sansann",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777200967093,
+      "updatedAt": 1777200967093,
+      "status": "active"
+    },
     {
       "id": "local-1777200553528",
       "text": "amén 🙏",
@@ -247,9 +261,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
+  "likeCount": 66,
   "shareCount": 125,
-  "viewCount": 6595,
+  "viewCount": 6630,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -315,7 +329,8 @@
     "b901fc967f48192897d5ad3fd97f59fdb5622fb9c6941afad59b0bb3669091b7",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "bd58570331f49bd055123fd3798a074bddebc4dba3f429b25874efc61fc4be27",
-    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+    "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc"
   ],
   "verseViewBy": []
 }
