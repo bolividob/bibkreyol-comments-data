@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777212102712,
+  "updatedAt": 1777212404123,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777211534392",
+      "text": "amen",
+      "userDeviceId": "ab604444b2bc709a85bc3685479c2d5fe3a1ec04722cdeffc9039d181d5f8239",
+      "userName": "Eldette",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777212404123,
+      "updatedAt": 1777212404123,
+      "status": "active"
+    },
     {
       "id": "local-1777209017057",
       "text": "merci jesus",
@@ -458,8 +472,8 @@
     }
   ],
   "likeCount": 82,
-  "shareCount": 165,
-  "viewCount": 9632,
+  "shareCount": 168,
+  "viewCount": 9852,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
