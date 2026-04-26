@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777177684003,
+  "updatedAt": 1777177929618,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777177770165",
+      "text": "amen",
+      "userDeviceId": "1ca491c3b87b23d31a650694c7dacb10778068fa09bed5c5937f419d2345f466",
+      "userName": "Marie Michele Blaise",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777177929618,
+      "updatedAt": 1777177929618,
+      "status": "active"
+    },
     {
       "id": "local-1777175552863",
       "text": "Amen Amen Amen Amen Amen Amen Amen Amen Amen Amen Amen Amen",
@@ -135,9 +149,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 39,
-  "shareCount": 70,
-  "viewCount": 4400,
+  "likeCount": 41,
+  "shareCount": 72,
+  "viewCount": 4452,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -177,7 +191,9 @@
     "36de3c8ecfbe657e08dd582bcb7f3815492a6415bb95b73e5845e6b111811225",
     "3303d4322c615290ceefd86b6ae572febf06d2ec3bed7763067ad1ae1351db13",
     "29507ae3c55c6e157fa53db7d55b2d2000dd9ee143199bace37f3eda578ae2a6",
-    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad"
+    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "da4be666d760418ddcfb3d46ae7416c9441ad8259cb28700aabbf6af02cc743d",
+    "1ca491c3b87b23d31a650694c7dacb10778068fa09bed5c5937f419d2345f466"
   ],
   "verseViewBy": []
 }
