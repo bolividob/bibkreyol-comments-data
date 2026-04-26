@@ -1,9 +1,39 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777172829608,
+  "updatedAt": 1777173199277,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777172933178",
+      "text": "amén amén",
+      "userDeviceId": "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78",
+      "userName": "Elianne Méxi",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+      ],
+      "createdAt": 1777173199277,
+      "updatedAt": 1777173199277,
+      "status": "active"
+    },
+    {
+      "id": "local-1777172969601",
+      "text": "🙏🙏🙏",
+      "userDeviceId": "eef8970bc02b71c622c105f2bbead00ee8e9d9261aeffeb92d39c7b154ad75de",
+      "userName": "Preveline cassiste",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777173199277,
+      "updatedAt": 1777173199277,
+      "status": "active"
+    },
     {
       "id": "local-1777172311016",
       "text": "amen 🔥🔥🔥",
@@ -26,16 +56,18 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78"
+      ],
       "createdAt": 1777165929617,
-      "updatedAt": 1777165929617,
+      "updatedAt": 1777173199277,
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 60,
-  "viewCount": 3257,
+  "likeCount": 24,
+  "shareCount": 62,
+  "viewCount": 3377,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -58,7 +90,9 @@
     "4915f86cf7d46c5afe4027e0321436598178ebe253d567bba531d32c1b1f85b4",
     "4563e636d632fe89c9c0bb47a459ea983871965fc51d1dc9904a10fe5fcda7c4",
     "e686886d04e5661985543d474c80dc2597eed83e81ee176032da4208200b413c",
-    "e4d0d0cc48832093ddab9455e4a6a468c99a1050ff319f6cbf0c56a576db5481"
+    "e4d0d0cc48832093ddab9455e4a6a468c99a1050ff319f6cbf0c56a576db5481",
+    "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78",
+    "d080c00df36647f937d715fff685bba84e786d0e450d84776ebae155f6673924"
   ],
   "verseViewBy": []
 }
