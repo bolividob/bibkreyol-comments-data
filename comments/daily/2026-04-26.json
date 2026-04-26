@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777216410454,
+  "updatedAt": 1777219221965,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777215610077",
+      "text": "mersi anpil senyè",
+      "userDeviceId": "edce2c1f416874fc4c6244610c8af0241a2800ff0d3207ca971cc5458c2440f9",
+      "userName": "srjack",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777219221965,
+      "updatedAt": 1777219221965,
+      "status": "active"
+    },
     {
       "id": "local-1777214653329",
       "text": "Díos te bendiga todos",
@@ -595,9 +609,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 88,
+  "likeCount": 90,
   "shareCount": 194,
-  "viewCount": 11113,
+  "viewCount": 11249,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -686,7 +700,9 @@
     "824e82380b6c4e686f76badc77b15e538296a5dfc5507d945898456890bd9548",
     "6445791a86ccf192fb34fffa1837f2aee9829bda61c49b121a98290a9c5194c4",
     "66c66a54fe914f54a5bf468b481bd8484e58f6df315773d735e4547d09f5bbda",
-    "a821129b3c34715d3668d155bd8442610eb81204183465f82ddb70a3e3cb00bf"
+    "a821129b3c34715d3668d155bd8442610eb81204183465f82ddb70a3e3cb00bf",
+    "ff90eb73b6eb8d8cacf1b2d09f2ce2ad57f83c2e1eee14b347152752c4b4e5d8",
+    "2a3ee26dc7c6570d928ce8f104efc0d4a1d9a4d4fa42570255210823ad2f4b0a"
   ],
   "verseViewBy": []
 }
