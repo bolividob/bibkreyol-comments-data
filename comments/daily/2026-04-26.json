@@ -1,12 +1,27 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777165805414,
+  "updatedAt": 1777165929618,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1777165760977",
+      "text": "Amen",
+      "userDeviceId": "e1ddfaebc399789609bd0025dca99b40ed91cd4795aa78597901ed14c6ea1971",
+      "userName": "lamarre camitha",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777165929617,
+      "updatedAt": 1777165929617,
+      "status": "active"
+    }
+  ],
   "likeCount": 5,
   "shareCount": 21,
-  "viewCount": 1202,
+  "viewCount": 1252,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
