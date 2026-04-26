@@ -1,9 +1,37 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777219221965,
+  "updatedAt": 1777219645922,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777219243791",
+      "text": "Amen 🙏 🙏 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777219645922,
+      "updatedAt": 1777219645922,
+      "status": "active"
+    },
+    {
+      "id": "local-1777218499128",
+      "text": "efeen",
+      "userDeviceId": "7c3650896596e756d23067a411dff2c127ec100b9ecdc63e9c722383c265926b",
+      "userName": "theonesfeliz@gmail.com",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777219645922,
+      "updatedAt": 1777219645922,
+      "status": "active"
+    },
     {
       "id": "local-1777215610077",
       "text": "mersi anpil senyè",
@@ -609,9 +637,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 90,
-  "shareCount": 194,
-  "viewCount": 11249,
+  "likeCount": 91,
+  "shareCount": 195,
+  "viewCount": 11412,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -702,7 +730,8 @@
     "66c66a54fe914f54a5bf468b481bd8484e58f6df315773d735e4547d09f5bbda",
     "a821129b3c34715d3668d155bd8442610eb81204183465f82ddb70a3e3cb00bf",
     "ff90eb73b6eb8d8cacf1b2d09f2ce2ad57f83c2e1eee14b347152752c4b4e5d8",
-    "2a3ee26dc7c6570d928ce8f104efc0d4a1d9a4d4fa42570255210823ad2f4b0a"
+    "2a3ee26dc7c6570d928ce8f104efc0d4a1d9a4d4fa42570255210823ad2f4b0a",
+    "1828196c3bacbbce95f928a36480a9c88aefdbf60c03ec8d2fdde85305c8ccff"
   ],
   "verseViewBy": []
 }
