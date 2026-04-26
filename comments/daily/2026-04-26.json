@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777234685670,
+  "updatedAt": 1777234804763,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777234751662",
+      "text": "nou nan tan sa la wi",
+      "userDeviceId": "dbb3eaccfdb7eae4b0e1952c104c5452ef25b5e14d9b9a6286fb5594f0a6bb0f",
+      "userName": "Frè Moïse",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777234804763,
+      "updatedAt": 1777234804763,
+      "status": "active"
+    },
     {
       "id": "local-1777231721173",
       "text": "Amen",
@@ -667,7 +681,7 @@
   ],
   "likeCount": 112,
   "shareCount": 236,
-  "viewCount": 14206,
+  "viewCount": 14225,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
