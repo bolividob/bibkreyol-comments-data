@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777171333092,
+  "updatedAt": 1777172416427,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777172311016",
+      "text": "amen 🔥🔥🔥",
+      "userDeviceId": "77857c6de6499141ddcd2671b11b2423bfdb5d7f0c1187f10e0914e312edd808",
+      "userName": "feguerson",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777172416427,
+      "updatedAt": 1777172416427,
+      "status": "active"
+    },
     {
       "id": "local-1777165760977",
       "text": "Amen",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 21,
-  "shareCount": 52,
-  "viewCount": 2985,
+  "shareCount": 55,
+  "viewCount": 3090,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
