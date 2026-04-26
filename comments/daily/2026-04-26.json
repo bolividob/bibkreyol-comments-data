@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777200488922,
+  "updatedAt": 1777200614479,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777200553528",
+      "text": "amén 🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777200614479,
+      "updatedAt": 1777200614479,
+      "status": "active"
+    },
     {
       "id": "local-1777199584488",
       "text": "amenn",
@@ -233,9 +247,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 64,
-  "shareCount": 120,
-  "viewCount": 6504,
+  "likeCount": 65,
+  "shareCount": 123,
+  "viewCount": 6530,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -300,7 +314,8 @@
     "4c965a33e89c29fdd53a2713b9ec3d6904a21e190b0a98db5cc76a1ac7e344b6",
     "b901fc967f48192897d5ad3fd97f59fdb5622fb9c6941afad59b0bb3669091b7",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
-    "bd58570331f49bd055123fd3798a074bddebc4dba3f429b25874efc61fc4be27"
+    "bd58570331f49bd055123fd3798a074bddebc4dba3f429b25874efc61fc4be27",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
   ],
   "verseViewBy": []
 }
