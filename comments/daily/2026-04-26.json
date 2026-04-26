@@ -1,9 +1,23 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777202598250,
+  "updatedAt": 1777203027435,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777200104370",
+      "text": "oxilien",
+      "userDeviceId": "eb3e558d34b26c1f7252faec6d959bb564743c12bcb49a200a83dddd5b5e994d",
+      "userName": "oxi",
+      "verseName": "2 Timote 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777203027435,
+      "updatedAt": 1777203027435,
+      "status": "active"
+    },
     {
       "id": "local-1777202328940",
       "text": "Amen Amen Amen 🙏🙏🙏",
@@ -303,9 +317,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
-  "shareCount": 140,
-  "viewCount": 7199,
+  "likeCount": 73,
+  "shareCount": 141,
+  "viewCount": 7383,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -378,7 +392,8 @@
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "b4b5cef2b1dfb8cfe72d57361935c4d2bf3367897b81e1cea15ffc2ef2e64180",
     "2b11a4073ac72817bfd480efe04af03e3f89e4084b7345956d99a425e2d38851",
-    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+    "c9def10002027a76196bc7ffd1aea7e6b0f92c6ce34c179cd0667c64eb27c629"
   ],
   "verseViewBy": []
 }
