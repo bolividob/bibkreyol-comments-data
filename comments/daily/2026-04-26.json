@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
   "verseKey": "daily:2026-04-26",
-  "updatedAt": 1777238165498,
+  "updatedAt": 1777238287418,
   "version": 1,
   "comments": [
     {
@@ -569,12 +569,13 @@
       "verseName": "2 Timote 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03"
+        "7dd471448d54bf4e0b2b6653385adae3b744b57b4d38005eea89948e6d8d7c03",
+        "c83467770890437e2afb794b2ad324da40c558595f651d27a2c38635b23afa48"
       ],
       "createdAt": 1777174336470,
-      "updatedAt": 1777215831100,
+      "updatedAt": 1777238287418,
       "status": "active"
     },
     {
@@ -682,9 +683,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 116,
-  "shareCount": 246,
-  "viewCount": 14952,
+  "likeCount": 117,
+  "shareCount": 247,
+  "viewCount": 14988,
   "verseLikedBy": [
     "ffab2e4e066da667805e6ebee6ba9425ebf129a3a9d9c9b121c2bef34bfca36f",
     "4da98a4cc72f64abf1dc31cd950953e4e19f10dd80eb7c8c5543e17b7041b4e8",
@@ -801,7 +802,8 @@
     "84b502d4067ee19399e38ad3d17db3702392b6a70eae58395ec2d46d9419251a",
     "b48eca6d58bf6b9dc15da1863d40a991fb14549310a867d1815e8a29865f6162",
     "c565d5530d6920b223694eed8b0731f70a587bd873350968e567301881e51461",
-    "60b0798503e343c8c1b3d095b6ceab76c2af09f0ae52dea37da7c55ae50cb68f"
+    "60b0798503e343c8c1b3d095b6ceab76c2af09f0ae52dea37da7c55ae50cb68f",
+    "c83467770890437e2afb794b2ad324da40c558595f651d27a2c38635b23afa48"
   ],
   "verseViewBy": []
 }
