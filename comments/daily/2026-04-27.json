@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777332188213,
+  "updatedAt": 1777332306817,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Piè 2:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
+      ],
       "createdAt": 1777331348764,
-      "updatedAt": 1777331348764,
+      "updatedAt": 1777332306817,
       "status": "active"
     },
     {
@@ -437,7 +439,7 @@
   ],
   "likeCount": 87,
   "shareCount": 219,
-  "viewCount": 14012,
+  "viewCount": 14042,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
