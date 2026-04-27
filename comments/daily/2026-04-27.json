@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777297626753,
+  "updatedAt": 1777297746305,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777297648574",
+      "text": "bondye béni nou",
+      "userDeviceId": "6132a5b3190c31c2ae0cb75912212ccd4e5910ba4b13733c27b676bfe57eab4e",
+      "userName": "bendjy",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777297746305,
+      "updatedAt": 1777297746305,
+      "status": "active"
+    },
     {
       "id": "local-1777297368407",
       "text": "Gloire a Dieu",
@@ -210,8 +224,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 169,
-  "viewCount": 8090,
+  "shareCount": 172,
+  "viewCount": 8113,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
