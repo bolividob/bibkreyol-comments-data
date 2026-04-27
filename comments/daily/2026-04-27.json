@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777257729583,
+  "updatedAt": 1777259060578,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777258965207",
+      "text": "12h.38mn",
+      "userDeviceId": "2af00f409f41cbcb4f3a27f3afb8d7773068e3b8e24569f658a24509f80fdc79",
+      "userName": "1234",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777259060578,
+      "updatedAt": 1777259060578,
+      "status": "active"
+    },
     {
       "id": "local-1777248465034",
       "text": "mw son jel",
@@ -76,8 +90,8 @@
     }
   ],
   "likeCount": 12,
-  "shareCount": 19,
-  "viewCount": 2576,
+  "shareCount": 22,
+  "viewCount": 2707,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
