@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777248982692,
+  "updatedAt": 1777249168589,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777249082922",
+      "text": "amén",
+      "userDeviceId": "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
+      "userName": "Kerlyne",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777249168589,
+      "updatedAt": 1777249168589,
+      "status": "active"
+    },
     {
       "id": "local-1777248783560",
       "text": "yesssss bel pawol amén",
@@ -33,13 +47,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 2,
-  "viewCount": 601,
+  "likeCount": 4,
+  "shareCount": 4,
+  "viewCount": 699,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
-    "b18434b859cf92e4dc7810625fefeddee07b029a762d0097dfd556b162714c7d"
+    "b18434b859cf92e4dc7810625fefeddee07b029a762d0097dfd556b162714c7d",
+    "449e9f87a58697ef3673752a7a25f536e79ebe2b670842344d08ede2a39ba91c"
   ],
   "verseViewBy": []
 }
