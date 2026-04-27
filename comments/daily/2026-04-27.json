@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777249168589,
+  "updatedAt": 1777251998277,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777251649156",
+      "text": "mèsi anpil jezi",
+      "userDeviceId": "4daf7aeb192e6cd2800fdf7c474d1a765db6d961a3f9a277345ad07fe116f081",
+      "userName": "jeudy djennifer",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777251998277,
+      "updatedAt": 1777251998277,
+      "status": "active"
+    },
     {
       "id": "local-1777249082922",
       "text": "amén",
@@ -48,8 +62,8 @@
     }
   ],
   "likeCount": 4,
-  "shareCount": 4,
-  "viewCount": 699,
+  "shareCount": 8,
+  "viewCount": 972,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
