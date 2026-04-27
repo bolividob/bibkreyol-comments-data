@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777302848011,
+  "updatedAt": 1777302971950,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777302911369",
+      "text": "mesi jezu Pou souf Devi ou banm",
+      "userDeviceId": "8abebe7afedd45a762012a305cb4bc5b124d669555839dd2a4d7c99c58faae25",
+      "userName": "adelcialoutte",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777302971950,
+      "updatedAt": 1777302971950,
+      "status": "active"
+    },
     {
       "id": "local-1777297648574",
       "text": "bondye béni nou",
@@ -223,9 +237,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
+  "likeCount": 61,
   "shareCount": 186,
-  "viewCount": 8911,
+  "viewCount": 8929,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
@@ -286,7 +300,8 @@
     "9d847e74aafce218c091cd8dae8245494deaffb7bd969c47d4c73417609e7acb",
     "a42bd9f720e1e4965829bbc5c860ea73efcb5344dc891b8b731d113e53af2866",
     "e8ede984fac47b72833b3fb2344ce4fb1cfebfaf8483ff5f56644f67fa9d81b3",
-    "663539a17e0d5a4ea3496f4993da9324b26410e52aef5f0bf91a77eb46b575a8"
+    "663539a17e0d5a4ea3496f4993da9324b26410e52aef5f0bf91a77eb46b575a8",
+    "8abebe7afedd45a762012a305cb4bc5b124d669555839dd2a4d7c99c58faae25"
   ],
   "verseViewBy": []
 }
