@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777320488428,
+  "updatedAt": 1777320616475,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777320484353",
+      "text": "teki mache, lout boy tamwa",
+      "userDeviceId": "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
+      "userName": "JJeni",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777320616475,
+      "updatedAt": 1777320616475,
+      "status": "active"
+    },
     {
       "id": "local-1777317061889",
       "text": "Amen amen amen",
@@ -347,7 +361,7 @@
   ],
   "likeCount": 76,
   "shareCount": 211,
-  "viewCount": 11687,
+  "viewCount": 11705,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
