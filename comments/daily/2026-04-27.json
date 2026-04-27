@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777302971950,
+  "updatedAt": 1777303090052,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777302967951",
+      "text": "mesi jezu Pou fanmi m OU poteje yo pou",
+      "userDeviceId": "8abebe7afedd45a762012a305cb4bc5b124d669555839dd2a4d7c99c58faae25",
+      "userName": "adelcialoutte",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777303090052,
+      "updatedAt": 1777303090052,
+      "status": "active"
+    },
     {
       "id": "local-1777302911369",
       "text": "mesi jezu Pou souf Devi ou banm",
@@ -239,7 +253,7 @@
   ],
   "likeCount": 61,
   "shareCount": 186,
-  "viewCount": 8929,
+  "viewCount": 8951,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
