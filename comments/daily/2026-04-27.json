@@ -1,9 +1,25 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777325766627,
+  "updatedAt": 1777325885640,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777325832171",
+      "text": "Bel travay mesie dam.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Kiki",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+      ],
+      "createdAt": 1777325885639,
+      "updatedAt": 1777325885639,
+      "status": "active"
+    },
     {
       "id": "local-1777324081272",
       "text": "biensi Fander",
@@ -26,10 +42,12 @@
       "verseName": "2 Piè 2:2",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+      ],
       "createdAt": 1777321828305,
-      "updatedAt": 1777324214556,
+      "updatedAt": 1777325885640,
       "status": "active"
     },
     {
@@ -391,7 +409,7 @@
   ],
   "likeCount": 81,
   "shareCount": 217,
-  "viewCount": 12552,
+  "viewCount": 12573,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
