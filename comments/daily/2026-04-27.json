@@ -1,9 +1,23 @@
 {
   "date": "2026-04-27",
   "verseKey": "daily:2026-04-27",
-  "updatedAt": 1777297265929,
+  "updatedAt": 1777297387366,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777297368407",
+      "text": "Gloire a Dieu",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Piè 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777297387366,
+      "updatedAt": 1777297387366,
+      "status": "active"
+    },
     {
       "id": "local-1777296257668",
       "text": "bondye beni w 🙏🙏🙏",
@@ -196,8 +210,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 161,
-  "viewCount": 8035,
+  "shareCount": 163,
+  "viewCount": 8056,
   "verseLikedBy": [
     "973d04a47693f9d18ff9f2a2d94fe09d399b9380d079c92f728de00a45fbb98b",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
