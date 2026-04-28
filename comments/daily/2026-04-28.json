@@ -1,9 +1,37 @@
 {
   "date": "2026-04-28",
   "verseKey": "daily:2026-04-28",
-  "updatedAt": 1777392671685,
+  "updatedAt": 1777392785849,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777392666506",
+      "text": "boujou koman nou ye?",
+      "userDeviceId": "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
+      "userName": "JJeni",
+      "verseName": "Jeremi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777392785849,
+      "updatedAt": 1777392785849,
+      "status": "active"
+    },
+    {
+      "id": "local-1777392666514",
+      "text": "boujou koman nou ye?",
+      "userDeviceId": "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
+      "userName": "JJeni",
+      "verseName": "Jeremi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777392785849,
+      "updatedAt": 1777392785849,
+      "status": "active"
+    },
     {
       "id": "local-1777392265760",
       "text": "Jesus la Pou m chak Jou Nan la vi",
@@ -31,7 +59,7 @@
         "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337"
       ],
       "createdAt": 1777381291791,
-      "updatedAt": 1777392671685,
+      "updatedAt": 1777392785849,
       "status": "active"
     },
     {
@@ -222,8 +250,8 @@
     }
   ],
   "likeCount": 70,
-  "shareCount": 170,
-  "viewCount": 10518,
+  "shareCount": 171,
+  "viewCount": 10535,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
