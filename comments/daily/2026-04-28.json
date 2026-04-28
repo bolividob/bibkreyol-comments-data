@@ -1,9 +1,25 @@
 {
   "date": "2026-04-28",
   "verseKey": "daily:2026-04-28",
-  "updatedAt": 1777418711168,
+  "updatedAt": 1777418834145,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777418800962",
+      "text": "nerline Israël",
+      "userDeviceId": "3ec3ed5df37538fa22ad769edbcb17be1aaab5d995e247a9860cd70ac2d0ed3b",
+      "userName": "nerline Israël",
+      "verseName": "Jeremi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "3ec3ed5df37538fa22ad769edbcb17be1aaab5d995e247a9860cd70ac2d0ed3b"
+      ],
+      "createdAt": 1777418834145,
+      "updatedAt": 1777418834145,
+      "status": "active"
+    },
     {
       "id": "local-1777417504923",
       "text": "MESI SENYÉ🙏🙏🙏",
@@ -278,8 +294,8 @@
     }
   ],
   "likeCount": 88,
-  "shareCount": 208,
-  "viewCount": 15205,
+  "shareCount": 211,
+  "viewCount": 15241,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
