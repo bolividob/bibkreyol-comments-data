@@ -1,9 +1,23 @@
 {
   "date": "2026-04-28",
   "verseKey": "daily:2026-04-28",
-  "updatedAt": 1777351924660,
+  "updatedAt": 1777352045538,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777352012158",
+      "text": "amen🙏🫶🏾",
+      "userDeviceId": "e8b06bf6713f7c6de537a35f486767fd0683f4dbffbf40de59c6e700cd4744e4",
+      "userName": "Beas",
+      "verseName": "Jeremi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777352045538,
+      "updatedAt": 1777352045538,
+      "status": "active"
+    },
     {
       "id": "local-1777347846455",
       "text": "amen🙏",
@@ -118,9 +132,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
+  "likeCount": 31,
   "shareCount": 39,
-  "viewCount": 4497,
+  "viewCount": 4513,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
@@ -151,7 +165,8 @@
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "c85962d214832dd1ec1e5c9fbb91230f8a76c3cddcf65a680118e5867462d794",
     "6ba4f76065018df144a3d6999420e42d9e921713723f49acc369b52a970165fe",
-    "520243c7264bc77068d3c817052741156068323c75013e47e3df7afc9ae45fbb"
+    "520243c7264bc77068d3c817052741156068323c75013e47e3df7afc9ae45fbb",
+    "e8b06bf6713f7c6de537a35f486767fd0683f4dbffbf40de59c6e700cd4744e4"
   ],
   "verseViewBy": []
 }
