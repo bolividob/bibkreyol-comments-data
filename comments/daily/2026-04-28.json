@@ -1,12 +1,30 @@
 {
   "date": "2026-04-28",
   "verseKey": "daily:2026-04-28",
-  "updatedAt": 1777334711983,
+  "updatedAt": 1777334957085,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
+  "comments": [
+    {
+      "id": "local-1777334773397",
+      "text": "Amen legliz!",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Kiki",
+      "verseName": "Jeremi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777334957085,
+      "updatedAt": 1777334957085,
+      "status": "active"
+    }
+  ],
+  "likeCount": 2,
   "shareCount": 1,
-  "viewCount": 94,
-  "verseLikedBy": [],
+  "viewCount": 182,
+  "verseLikedBy": [
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+    "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337"
+  ],
   "verseViewBy": []
 }
