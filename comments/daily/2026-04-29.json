@@ -1,7 +1,7 @@
 {
   "date": "2026-04-29",
   "verseKey": "daily:2026-04-29",
-  "updatedAt": 1777422011073,
+  "updatedAt": 1777422129641,
   "version": 1,
   "comments": [
     {
@@ -12,16 +12,18 @@
       "verseName": "Travay 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ff28c0c0377127ede818905ea5f513579322c52c14efc7d7384d1b6243b8b724"
+      ],
       "createdAt": 1777421468845,
-      "updatedAt": 1777421468845,
+      "updatedAt": 1777422129641,
       "status": "active"
     }
   ],
   "likeCount": 1,
   "shareCount": 5,
-  "viewCount": 462,
+  "viewCount": 516,
   "verseLikedBy": [
     "d601671f72c68d5ea71650f113d88ef4c04e2210c4797bd8eafec04e52fdfdc4"
   ],
