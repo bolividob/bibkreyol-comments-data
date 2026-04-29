@@ -1,7 +1,7 @@
 {
   "date": "2026-04-29",
   "verseKey": "daily:2026-04-29",
-  "updatedAt": 1777505106993,
+  "updatedAt": 1777505228668,
   "version": 1,
   "comments": [
     {
@@ -428,10 +428,12 @@
       "verseName": "Jenèz 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "5ef21317955c379431cd63f74f66e0092c6ae4d8a1267b774096c0e4619478b4"
+      ],
       "createdAt": 1777422369805,
-      "updatedAt": 1777468686610,
+      "updatedAt": 1777505228668,
       "status": "active"
     },
     {
@@ -451,9 +453,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 106,
+  "likeCount": 107,
   "shareCount": 235,
-  "viewCount": 14900,
+  "viewCount": 14945,
   "verseLikedBy": [
     "d601671f72c68d5ea71650f113d88ef4c04e2210c4797bd8eafec04e52fdfdc4",
     "d17563ee1d8edf58cc166f53c121ba90c4e144940406c282721ce96c5ef2742a",
@@ -560,7 +562,8 @@
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "e3c789ea1dda173b787047a3729db3e15cb1e1b1765eb55ba93117f8aabdf1c9",
     "147981ef77b9617ba31b759ec17d7a96f6e690dd3869b944242bfadf00cef3d7",
-    "0bff32a3e78623eee5fe3600f905b19b68be4fdd7dadb1e96d12c15378220f5f"
+    "0bff32a3e78623eee5fe3600f905b19b68be4fdd7dadb1e96d12c15378220f5f",
+    "5ef21317955c379431cd63f74f66e0092c6ae4d8a1267b774096c0e4619478b4"
   ],
   "verseViewBy": []
 }
