@@ -1,9 +1,37 @@
 {
   "date": "2026-04-29",
   "verseKey": "daily:2026-04-29",
-  "updatedAt": 1777425247847,
+  "updatedAt": 1777425494467,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777423906345",
+      "text": "que bondye beniw chak moun kap li mesaj laa e met anpwa tik",
+      "userDeviceId": "98e6aa1bf08fcd2e5af7c0a26655bacb7bb2a340c60ac9a60cca19856fb79ce0",
+      "userName": "manoucheka",
+      "verseName": "Travay 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777425494467,
+      "updatedAt": 1777425494467,
+      "status": "active"
+    },
+    {
+      "id": "local-1777423962726",
+      "text": "ke bondye beniw chak moun kap li mesaj la e metel an pwatik",
+      "userDeviceId": "98e6aa1bf08fcd2e5af7c0a26655bacb7bb2a340c60ac9a60cca19856fb79ce0",
+      "userName": "manoucheka",
+      "verseName": "Travay 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777425494467,
+      "updatedAt": 1777425494467,
+      "status": "active"
+    },
     {
       "id": "local-1777425129785",
       "text": "ke Bondye Beni nou, bel misik: Jamais tout seule.",
@@ -119,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 9,
-  "viewCount": 1181,
+  "likeCount": 12,
+  "shareCount": 11,
+  "viewCount": 1263,
   "verseLikedBy": [
     "d601671f72c68d5ea71650f113d88ef4c04e2210c4797bd8eafec04e52fdfdc4",
     "d17563ee1d8edf58cc166f53c121ba90c4e144940406c282721ce96c5ef2742a",
@@ -133,7 +161,8 @@
     "6a3e24c84cb0ecb31f32613ee121f5d6a624260d1bedbcae9173815fe59290e9",
     "7ccf526cfd789ce597d913140104bea636987614c9b72146927085aa17774df9",
     "b6667b2e0d7a38696a455ac3a0abb021f2a9173fb2cc4fb94f067d8f18e28b42",
-    "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
+    "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+    "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd"
   ],
   "verseViewBy": []
 }
