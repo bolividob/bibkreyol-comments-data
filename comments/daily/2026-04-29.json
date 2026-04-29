@@ -1,9 +1,23 @@
 {
   "date": "2026-04-29",
   "verseKey": "daily:2026-04-29",
-  "updatedAt": 1777504025678,
+  "updatedAt": 1777504146611,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777498167136",
+      "text": "bib",
+      "userDeviceId": "fb5469425283125b853d3af3ce90be4ace845b88ee45d70a9ebd0037fd086f8a",
+      "userName": "valfeslin",
+      "verseName": "2 Samwèl 18:14",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777504146611,
+      "updatedAt": 1777504146611,
+      "status": "active"
+    },
     {
       "id": "local-1777501391073",
       "text": "yon bèl vèsè",
@@ -439,7 +453,7 @@
   ],
   "likeCount": 106,
   "shareCount": 234,
-  "viewCount": 14607,
+  "viewCount": 14635,
   "verseLikedBy": [
     "d601671f72c68d5ea71650f113d88ef4c04e2210c4797bd8eafec04e52fdfdc4",
     "d17563ee1d8edf58cc166f53c121ba90c4e144940406c282721ce96c5ef2742a",
