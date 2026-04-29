@@ -1,9 +1,23 @@
 {
   "date": "2026-04-29",
   "verseKey": "daily:2026-04-29",
-  "updatedAt": 1777450383739,
+  "updatedAt": 1777450503585,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777450314476",
+      "text": "Amen Amen Amen 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "marie lourdes louis",
+      "verseName": "Travay 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777450503585,
+      "updatedAt": 1777450503585,
+      "status": "active"
+    },
     {
       "id": "local-1777438537281",
       "text": "Amen",
@@ -205,9 +219,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 35,
+  "likeCount": 36,
   "shareCount": 48,
-  "viewCount": 5079,
+  "viewCount": 5088,
   "verseLikedBy": [
     "d601671f72c68d5ea71650f113d88ef4c04e2210c4797bd8eafec04e52fdfdc4",
     "d17563ee1d8edf58cc166f53c121ba90c4e144940406c282721ce96c5ef2742a",
@@ -243,7 +257,8 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "2935121f081f693693488f0088fbfd489dac902e2c76fb39d9602c4d67f71ce0",
     "88e35649061d56fb6f0f609051d5ae12d0f8066932739e34a9b6e52b4d2be2fb",
-    "db786dd148d56ac0d44091af77a244b5de69244bc245697518c5584dece70cd4"
+    "db786dd148d56ac0d44091af77a244b5de69244bc245697518c5584dece70cd4",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
