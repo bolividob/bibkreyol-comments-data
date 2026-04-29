@@ -1,12 +1,27 @@
 {
   "date": "2026-04-29",
   "verseKey": "daily:2026-04-29",
-  "updatedAt": 1777421348924,
+  "updatedAt": 1777421468845,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1777421444754",
+      "text": "Ke Bondye fe wout avek staf sa, ekip Bib Kreyol.",
+      "userDeviceId": "09fd840e6d43bdfa151060cf510381539bba808ec2ea81538ade410596672337",
+      "userName": "Zoki",
+      "verseName": "Travay 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777421468845,
+      "updatedAt": 1777421468845,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
-  "shareCount": 1,
-  "viewCount": 174,
+  "shareCount": 4,
+  "viewCount": 222,
   "verseLikedBy": [],
   "verseViewBy": []
 }
