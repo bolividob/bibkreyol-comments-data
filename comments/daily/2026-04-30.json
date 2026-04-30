@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777550706615,
+  "updatedAt": 1777550825421,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777550813588",
+      "text": "Bondye kontinye beni nou",
+      "userDeviceId": "61a14a9a81ee8ef1cc2805334f783a1230f4795feb1a91f027fc032d5ed7b8ec",
+      "userName": "sèrvant Bondye",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777550825421,
+      "updatedAt": 1777550825421,
+      "status": "active"
+    },
     {
       "id": "local-1777550136131",
       "text": "Amen",
@@ -443,9 +457,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 83,
+  "likeCount": 84,
   "shareCount": 150,
-  "viewCount": 7503,
+  "viewCount": 7520,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -529,7 +543,8 @@
     "2e1fd8cca75285f2e2f3c0c75e9cdd9093bbaff8fc07e832e2e9fcdd8e93adb0",
     "e44d8f6665274d70f2708ad30e4c8f7065d1331602f7e5e87083f0151c6c2f07",
     "61a14a9a81ee8ef1cc2805334f783a1230f4795feb1a91f027fc032d5ed7b8ec",
-    "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5"
+    "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
+    "0e7aaeca40ceae1bd5dd0df530d67217a6710ef2aad667276089f602d3aaa44a"
   ],
   "verseViewBy": []
 }
