@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777582505180,
+  "updatedAt": 1777582625137,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777582478972",
+      "text": "Amen 3fois",
+      "userDeviceId": "e51070f92744a34750fccc46bb83d645ced93ccdc29b79680f43305c98e02a00",
+      "userName": "Sr Dada",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777582625137,
+      "updatedAt": 1777582625137,
+      "status": "active"
+    },
     {
       "id": "local-1777576934705",
       "text": "amén merci seignuer",
@@ -660,8 +674,8 @@
     }
   ],
   "likeCount": 154,
-  "shareCount": 278,
-  "viewCount": 13626,
+  "shareCount": 279,
+  "viewCount": 13648,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
