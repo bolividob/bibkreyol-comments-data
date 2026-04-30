@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777559885466,
+  "updatedAt": 1777560129840,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Filipyen 4:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ace95ae8220a6277b5cc088b44fdbb23b16987faaee417bf93deca03babc56fa"
+      ],
       "createdAt": 1777550825421,
-      "updatedAt": 1777550825421,
+      "updatedAt": 1777560129840,
       "status": "active"
     },
     {
@@ -499,9 +501,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 100,
-  "shareCount": 203,
-  "viewCount": 9310,
+  "likeCount": 101,
+  "shareCount": 205,
+  "viewCount": 9357,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -602,7 +604,8 @@
     "bf7d921677713fa448371ca6351dd010dbf9fad820baca4d9864058b47579bf4",
     "b9a3522bc3502649e35656869726dee8cfdb1001c3d4ddc08acdbc114e15bb9d",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
-    "3d385c22e04271b7d2cb412c03ca87767e989c671ca4d94c52a5f83494aa2076"
+    "3d385c22e04271b7d2cb412c03ca87767e989c671ca4d94c52a5f83494aa2076",
+    "111c9de2ccf2ae923a1469251de5bc754b0448a2586b95fee59b7e585ce5db89"
   ],
   "verseViewBy": []
 }
