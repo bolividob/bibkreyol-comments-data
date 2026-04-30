@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777541885503,
+  "updatedAt": 1777542005373,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777541939736",
+      "text": "amén",
+      "userDeviceId": "1489d7bc7aace6ea82bad49911ba5da9679d0af3e6eccec6ee70bbb4ec6518f9",
+      "userName": "amén",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777542005373,
+      "updatedAt": 1777542005373,
+      "status": "active"
+    },
     {
       "id": "local-1777541972028",
       "text": "merci  amen",
@@ -331,9 +345,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
+  "likeCount": 63,
   "shareCount": 82,
-  "viewCount": 5478,
+  "viewCount": 5497,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -396,7 +410,8 @@
     "d7e33e8607b5871c2b3e889f7351eea78b542912eaf289ce9a1b60bc7d5a2ad7",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
-    "53271eb14796b5d3afc35634ef19b8ef014d154661a799c8a6399ffc963f1757"
+    "53271eb14796b5d3afc35634ef19b8ef014d154661a799c8a6399ffc963f1757",
+    "1489d7bc7aace6ea82bad49911ba5da9679d0af3e6eccec6ee70bbb4ec6518f9"
   ],
   "verseViewBy": []
 }
