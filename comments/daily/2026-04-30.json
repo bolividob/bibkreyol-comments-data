@@ -1,9 +1,37 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777544047757,
+  "updatedAt": 1777544291940,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777544180654",
+      "text": "amen amen amen amen",
+      "userDeviceId": "ca6bec41ea1df3bb176f8e625907038b9c3ffb0233c27528e8297efa90a09eec",
+      "userName": "Michel ange camille",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777544291940,
+      "updatedAt": 1777544291940,
+      "status": "active"
+    },
+    {
+      "id": "local-1777544233691",
+      "text": "amen amen 🙏 🙌 💕 👏🏽",
+      "userDeviceId": "ca6bec41ea1df3bb176f8e625907038b9c3ffb0233c27528e8297efa90a09eec",
+      "userName": "Michel ange camille",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777544291940,
+      "updatedAt": 1777544291940,
+      "status": "active"
+    },
     {
       "id": "local-1777541939736",
       "text": "amén",
@@ -345,9 +373,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 99,
-  "viewCount": 5935,
+  "likeCount": 69,
+  "shareCount": 101,
+  "viewCount": 5985,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -413,7 +441,11 @@
     "53271eb14796b5d3afc35634ef19b8ef014d154661a799c8a6399ffc963f1757",
     "1489d7bc7aace6ea82bad49911ba5da9679d0af3e6eccec6ee70bbb4ec6518f9",
     "b15e6a4eb13175c05801a198c7bab2290687a67646f33d372a73f61c659cc664",
-    "8cfbfd2cc8948a1eebf6879eede60656f116a222d679f27b21fabce8e03ee644"
+    "8cfbfd2cc8948a1eebf6879eede60656f116a222d679f27b21fabce8e03ee644",
+    "f29acd4d5d7f997bff3761ad2f3de850e21fc368de62d4abf2b6bcfdb57afbf6",
+    "ca6bec41ea1df3bb176f8e625907038b9c3ffb0233c27528e8297efa90a09eec",
+    "b358a1bcb5ec208b9330253b45570ae9e18ff7e53de81f377568fbcbf80cbf1c",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969"
   ],
   "verseViewBy": []
 }
