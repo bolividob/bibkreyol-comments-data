@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777519567401,
+  "updatedAt": 1777519815024,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777519687159",
+      "text": "Gloire a Dieu",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777519815024,
+      "updatedAt": 1777519815024,
+      "status": "active"
+    },
     {
       "id": "local-1777519436293",
       "text": "tout gras Bondye se pou granmesi 🙏🙏🙏🙌",
@@ -215,9 +229,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 38,
-  "shareCount": 36,
-  "viewCount": 3279,
+  "likeCount": 40,
+  "shareCount": 37,
+  "viewCount": 3372,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -256,7 +270,9 @@
     "0a583207d6f1eefee0170710852c347777b0faed2594fdc347d37952b5b35608",
     "3a2d97ec4f90eb1f61b0b734b638ad621e5222674a4c43baa3c3882e3e8066df",
     "15e9cd4d64932ce5346a33581f86fe7c52f57652e8e1a787d0b896531e0f6926",
-    "554f29f5e29a4a729a6ed59186f23d017ee55ef676501ae024f481d365da26df"
+    "554f29f5e29a4a729a6ed59186f23d017ee55ef676501ae024f481d365da26df",
+    "a6a2f3c14983a441e87eb97185b3573675102f5c52dd1ca36b6bead241620095",
+    "2b7d2300a1ee7a5fc081e62d0adf9f0a8d2bc571255610adced3e1164b412995"
   ],
   "verseViewBy": []
 }
