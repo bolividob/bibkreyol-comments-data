@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777518457908,
+  "updatedAt": 1777518633966,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777518576502",
+      "text": "Dieu est grand",
+      "userDeviceId": "71d52eca4084e81ff9c5006482fe22b908a5a2a9816665250d2eb665ee06a2d4",
+      "userName": "cinéas",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777518633966,
+      "updatedAt": 1777518633966,
+      "status": "active"
+    },
     {
       "id": "local-1777513004123",
       "text": "Amen",
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
+  "likeCount": 36,
   "shareCount": 33,
-  "viewCount": 2728,
+  "viewCount": 2935,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -209,7 +223,10 @@
     "ace95ae8220a6277b5cc088b44fdbb23b16987faaee417bf93deca03babc56fa",
     "3bf85cb868774eaebe274a568eb702278af647d02e7fb1001a86841d3cbadab1",
     "54fccf503801dff07640d64342dc015a16e561b6d6370480e0a3a8e4449e2d66",
-    "229c3e600f2fbbc2875600f35f31454f065f26165c80e9328e2412107a0189d1"
+    "229c3e600f2fbbc2875600f35f31454f065f26165c80e9328e2412107a0189d1",
+    "101b37885805dc0173f0604169bbc1fa56549d67ed3171329aff8a3e2d7ed25f",
+    "0a583207d6f1eefee0170710852c347777b0faed2594fdc347d37952b5b35608",
+    "3a2d97ec4f90eb1f61b0b734b638ad621e5222674a4c43baa3c3882e3e8066df"
   ],
   "verseViewBy": []
 }
