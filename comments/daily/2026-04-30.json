@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777576866220,
+  "updatedAt": 1777576987019,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777576934705",
+      "text": "amén merci seignuer",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777576987018,
+      "updatedAt": 1777576987018,
+      "status": "active"
+    },
     {
       "id": "local-1777574244623",
       "text": "Amen",
@@ -641,9 +655,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 136,
+  "likeCount": 140,
   "shareCount": 269,
-  "viewCount": 12683,
+  "viewCount": 12707,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -780,7 +794,11 @@
     "92c1e779770ed9248307fd044bad5c2a5ba0fa6a8fe1f2a347159bfcc0835124",
     "ac2b20f517e46ce76f31ad6f767e751775767a712b37f4a8444a534b00e924f9",
     "bef977bedf420081c5239e660703468ac402db25ba19c02e5af1d3accd440c60",
-    "54a46034c2b9167b23b885b93596fefaef210d0fe3062df80f0a2fdae4c1d51c"
+    "54a46034c2b9167b23b885b93596fefaef210d0fe3062df80f0a2fdae4c1d51c",
+    "42b86243d1b106919a783de66bbbced39e8bc0e2912e3db0bb4f78002dff62b9",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+    "e623e135f2ece97492d33894bc3ebdd7832943eadca1b58094ed8adf96ece293"
   ],
   "verseViewBy": []
 }
