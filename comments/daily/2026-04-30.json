@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777545006222,
+  "updatedAt": 1777545142136,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777545057514",
+      "text": "tout gras bondye se pou nou amén amén 😇",
+      "userDeviceId": "032536f555d66142447f34e1f65b5d8afb759ecf3e21748a993b68d9831c87e2",
+      "userName": "mándame versículos dela mañana",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777545142136,
+      "updatedAt": 1777545142136,
+      "status": "active"
+    },
     {
       "id": "local-1777544323510",
       "text": "amén 🙏🙏🙏",
@@ -387,9 +401,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
-  "shareCount": 106,
-  "viewCount": 6153,
+  "likeCount": 72,
+  "shareCount": 107,
+  "viewCount": 6192,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -461,7 +475,8 @@
     "b358a1bcb5ec208b9330253b45570ae9e18ff7e53de81f377568fbcbf80cbf1c",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "d6f5bd107cb6df1a4d155220da2ccee33e25c4f1fe33564d1e1519120f5941bf",
-    "032536f555d66142447f34e1f65b5d8afb759ecf3e21748a993b68d9831c87e2"
+    "032536f555d66142447f34e1f65b5d8afb759ecf3e21748a993b68d9831c87e2",
+    "0b0d08892d3f752c9070245a1a15edc50d0ca08681cfe4dc65ee28bf3f475178"
   ],
   "verseViewBy": []
 }
