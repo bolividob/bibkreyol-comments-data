@@ -1,9 +1,79 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777509135941,
+  "updatedAt": 1777511244551,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777509688139",
+      "text": "ti Richard glòb tèrès",
+      "userDeviceId": "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f",
+      "userName": "ti Richard glòb tèrès",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777511244551,
+      "updatedAt": 1777511244551,
+      "status": "active"
+    },
+    {
+      "id": "local-1777509702469",
+      "text": "amén",
+      "userDeviceId": "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f",
+      "userName": "ti Richard glòb tèrès",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777511244551,
+      "updatedAt": 1777511244551,
+      "status": "active"
+    },
+    {
+      "id": "local-1777509240551",
+      "text": "pa gen tankou w senyè",
+      "userDeviceId": "08259e5bbfcbce67a6414bcee6a0f9111921cfb33ef687521a1720f099d95d97",
+      "userName": "liberus fabienne",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777511244550,
+      "updatedAt": 1777511244550,
+      "status": "active"
+    },
+    {
+      "id": "local-1777509265288",
+      "text": "kisa Bondye pa ka fè",
+      "userDeviceId": "08259e5bbfcbce67a6414bcee6a0f9111921cfb33ef687521a1720f099d95d97",
+      "userName": "liberus fabienne",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777511244550,
+      "updatedAt": 1777511244550,
+      "status": "active"
+    },
+    {
+      "id": "local-1777509282835",
+      "text": "alelouya",
+      "userDeviceId": "08259e5bbfcbce67a6414bcee6a0f9111921cfb33ef687521a1720f099d95d97",
+      "userName": "liberus fabienne",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777511244550,
+      "updatedAt": 1777511244550,
+      "status": "active"
+    },
     {
       "id": "local-1777508854056",
       "text": "amén 🙏",
@@ -33,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
-  "shareCount": 5,
-  "viewCount": 706,
+  "likeCount": 8,
+  "shareCount": 7,
+  "viewCount": 852,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -43,7 +113,8 @@
     "6ae9afa2723c18d9b345fc0ad93a878f8f29af2ea3223c17810007b8d8f808cb",
     "293fc1c6ec7273b6e339626acfab35f7b0e30cca28c40ba5a2efb59483eb0d94",
     "0e3e464a3f7703acb2e947fdf3bb4988013f6ea3575fbdc56a666215c7628409",
-    "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f"
+    "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f",
+    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb"
   ],
   "verseViewBy": []
 }
