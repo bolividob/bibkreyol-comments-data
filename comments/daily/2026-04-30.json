@@ -1,9 +1,23 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777562594880,
+  "updatedAt": 1777562906599,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777562700704",
+      "text": "amèn",
+      "userDeviceId": "f65e58561293e6545441e30a976975304726b67a8f98cae820676389d1608583",
+      "userName": "wadeson jeune",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777562906599,
+      "updatedAt": 1777562906599,
+      "status": "active"
+    },
     {
       "id": "local-1777562405271",
       "text": "bondye mèsi senyè",
@@ -543,9 +557,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 107,
-  "shareCount": 215,
-  "viewCount": 9885,
+  "likeCount": 109,
+  "shareCount": 218,
+  "viewCount": 10017,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -653,7 +667,9 @@
     "1aa71ba39f0d0cededfffefb84c876086edad442a2ff0b2bf1c6101706b4ab60",
     "dcfa0c05c77e55616c61407d67794092180d81a489e4a74649290d4346a7d055",
     "8f05024b73ef89ca61876ad3be0c5162a1646add41d281e191db94777d198ed7",
-    "12fc372886a91d8f761bb85df83c8fa0718898e7b7d137c5802d4f6facce811b"
+    "12fc372886a91d8f761bb85df83c8fa0718898e7b7d137c5802d4f6facce811b",
+    "eed40fb3abf8adf9e7938126b58ab52df82d939a8f86fe774a694475fce64193",
+    "0cfd866aa4da51abb5b5188ad7f983500805dfc405d85c7512afcdf6d130c8d8"
   ],
   "verseViewBy": []
 }
