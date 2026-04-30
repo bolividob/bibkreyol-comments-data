@@ -1,9 +1,37 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777590008082,
+  "updatedAt": 1777590507410,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777590146110",
+      "text": "amen",
+      "userDeviceId": "76c74a3200320d8ae5d4680bfa585c1a2c5e07b6c6b0c734b44b776600937e3b",
+      "userName": "sauveur lourdemila",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777590507410,
+      "updatedAt": 1777590507410,
+      "status": "active"
+    },
+    {
+      "id": "local-1777590177308",
+      "text": "bible mwen renmenw",
+      "userDeviceId": "76c74a3200320d8ae5d4680bfa585c1a2c5e07b6c6b0c734b44b776600937e3b",
+      "userName": "sauveur lourdemila",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777590507410,
+      "updatedAt": 1777590507410,
+      "status": "active"
+    },
     {
       "id": "local-1777587680556",
       "text": "jocelene",
@@ -737,7 +765,7 @@
   ],
   "likeCount": 179,
   "shareCount": 304,
-  "viewCount": 15673,
+  "viewCount": 15754,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
