@@ -1,9 +1,51 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777512744797,
+  "updatedAt": 1777514861557,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777513004123",
+      "text": "Amen",
+      "userDeviceId": "86a75ba6149ac79ac0da85c4c0b03eab3d0a97d5119043fa5f5f7b14d090632b",
+      "userName": "Joseph Lina",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777514861557,
+      "updatedAt": 1777514861557,
+      "status": "active"
+    },
+    {
+      "id": "local-1777513311783",
+      "text": "amèn",
+      "userDeviceId": "6ecfa3de46ce2c088a7e19fee904989e574dbdaddcf8f9c11d0886963c5e6460",
+      "userName": "Rose-Mirlande amèn",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777514861557,
+      "updatedAt": 1777514861557,
+      "status": "active"
+    },
+    {
+      "id": "local-1777514802959",
+      "text": "Amén 🙌",
+      "userDeviceId": "a8cbf2daf04f29d88bae738c315dbd12be5d581e6318521d24e457029db9d5bb",
+      "userName": "Katrine",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777514861557,
+      "updatedAt": 1777514861557,
+      "status": "active"
+    },
     {
       "id": "local-1777511238562",
       "text": "Bodye fidèl",
@@ -131,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
-  "shareCount": 15,
-  "viewCount": 1487,
+  "likeCount": 23,
+  "shareCount": 19,
+  "viewCount": 1749,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -152,7 +194,12 @@
     "fa8c0ebd38627bc441cd9666a83d5e2940b0b2c57e96765d0651d52f2f8499ac",
     "fa64ecf8a00ca3b74ba734a87a468517be035d37ab721ce5812ec76c94dad825",
     "1b1e683b283e4b8beb1600b9a29c0e50aab6d0f5513d0d9ef0b6ba6d4b8e3a55",
-    "4882a05bd5b94d4ad1b27366d681b9482074f308476fec17cae7b15695fc49bf"
+    "4882a05bd5b94d4ad1b27366d681b9482074f308476fec17cae7b15695fc49bf",
+    "7b456ebcfe0be0b1c8ed623cb2e6ef8fa22aafbf706d2a1bd2e22984ee280af2",
+    "ccd56d5bf2b063e4d21b467a30b8510be055e73e6d817ab412945d49a914020a",
+    "644d9aeb01e04cc3e32be8870b5fa003e82616d4dc549944b88db77a2808f48d",
+    "82c5b00d99d28fc784f6c8a307e7dc1485bca0d8f81c41761f547e499c711560",
+    "8ed64ff3c4ad5455ca2e4c111b8882e25dfe2e3547a6939ffee157650ff52d1b"
   ],
   "verseViewBy": []
 }
