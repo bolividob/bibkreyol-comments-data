@@ -1,9 +1,37 @@
 {
   "date": "2026-04-30",
   "verseKey": "daily:2026-04-30",
-  "updatedAt": 1777562420164,
+  "updatedAt": 1777562594880,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777562405271",
+      "text": "bondye mèsi senyè",
+      "userDeviceId": "9fcdd1634c95edc495ada6ff9622b875039defd9e7f64a51f5c92ec58c86153e",
+      "userName": "Francia paul",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777562594879,
+      "updatedAt": 1777562594879,
+      "status": "active"
+    },
+    {
+      "id": "local-1777562424768",
+      "text": "bondye fidèl",
+      "userDeviceId": "9fcdd1634c95edc495ada6ff9622b875039defd9e7f64a51f5c92ec58c86153e",
+      "userName": "Francia paul",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777562594879,
+      "updatedAt": 1777562594879,
+      "status": "active"
+    },
     {
       "id": "local-1777562391223",
       "text": "bondye kontinye beni nou",
@@ -515,9 +543,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 103,
-  "shareCount": 212,
-  "viewCount": 9821,
+  "likeCount": 107,
+  "shareCount": 215,
+  "viewCount": 9885,
   "verseLikedBy": [
     "3ec3d74e2c12ed7ae188f912dd8199ab1f1cc2acf9fb876f882249814c9386bb",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
@@ -621,7 +649,11 @@
     "3d385c22e04271b7d2cb412c03ca87767e989c671ca4d94c52a5f83494aa2076",
     "111c9de2ccf2ae923a1469251de5bc754b0448a2586b95fee59b7e585ce5db89",
     "da98e8d793fc40fc4ac35e833ba974e974804c75ec524ab764744a2ebb3aee11",
-    "c4e5488806833453803ca6e8ddb96d1e5e519212e2a3172f4be1fab92392e549"
+    "c4e5488806833453803ca6e8ddb96d1e5e519212e2a3172f4be1fab92392e549",
+    "1aa71ba39f0d0cededfffefb84c876086edad442a2ff0b2bf1c6101706b4ab60",
+    "dcfa0c05c77e55616c61407d67794092180d81a489e4a74649290d4346a7d055",
+    "8f05024b73ef89ca61876ad3be0c5162a1646add41d281e191db94777d198ed7",
+    "12fc372886a91d8f761bb85df83c8fa0718898e7b7d137c5802d4f6facce811b"
   ],
   "verseViewBy": []
 }
