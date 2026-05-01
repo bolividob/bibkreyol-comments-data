@@ -1,9 +1,23 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777599428920,
+  "updatedAt": 1777599675322,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777599495927",
+      "text": "Dieu est grand et inconparable",
+      "userDeviceId": "c38d4d137d164834e23590e8834b4939a229e555b551bbf0c2adf31a91e908d5",
+      "userName": "Same jr.",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777599675322,
+      "updatedAt": 1777599675322,
+      "status": "active"
+    },
     {
       "id": "local-1777595181447",
       "text": "amén",
@@ -35,7 +49,7 @@
   ],
   "likeCount": 13,
   "shareCount": 11,
-  "viewCount": 1710,
+  "viewCount": 1811,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
