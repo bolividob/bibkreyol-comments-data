@@ -1,9 +1,25 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777643345813,
+  "updatedAt": 1777643466128,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777643408701",
+      "text": "Amen, mesi mwn renmin misik yo!!",
+      "userDeviceId": "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d",
+      "userName": "Itzi",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d"
+      ],
+      "createdAt": 1777643466128,
+      "updatedAt": 1777643466128,
+      "status": "active"
+    },
     {
       "id": "local-1777637944151",
       "text": "amén wi",
@@ -231,9 +247,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
+  "likeCount": 80,
   "shareCount": 168,
-  "viewCount": 9022,
+  "viewCount": 9048,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
@@ -313,7 +329,8 @@
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "30bad774f74666594c7b2be20145887b130919465b52df905656b4884311ef36",
     "4758cc682b2e427298ccaae28a256f2e0ecb248ea47a7115ffe7d5d335f509b4",
-    "e63a232a693f7c39f72f1e3687e5b55f94c9de05ce890302fda39481b21eb533"
+    "e63a232a693f7c39f72f1e3687e5b55f94c9de05ce890302fda39481b21eb533",
+    "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d"
   ],
   "verseViewBy": []
 }
