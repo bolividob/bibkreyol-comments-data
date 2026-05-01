@@ -1,9 +1,23 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777655885145,
+  "updatedAt": 1777656006409,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777655901748",
+      "text": "jezi Kris béni nou",
+      "userDeviceId": "48040ab1f24c1070fd47a1842b4358d82945f2898150f7c52d442a0d9e04fe33",
+      "userName": "fre Destine clotesse",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777656006409,
+      "updatedAt": 1777656006409,
+      "status": "active"
+    },
     {
       "id": "local-1777653713681",
       "text": "amen Onom de jesus",
@@ -26,10 +40,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "48040ab1f24c1070fd47a1842b4358d82945f2898150f7c52d442a0d9e04fe33"
+      ],
       "createdAt": 1777652705658,
-      "updatedAt": 1777652705658,
+      "updatedAt": 1777656006409,
       "status": "active"
     },
     {
@@ -40,10 +56,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "48040ab1f24c1070fd47a1842b4358d82945f2898150f7c52d442a0d9e04fe33"
+      ],
       "createdAt": 1777645751532,
-      "updatedAt": 1777647308934,
+      "updatedAt": 1777656006409,
       "status": "active"
     },
     {
@@ -307,8 +325,8 @@
     }
   ],
   "likeCount": 94,
-  "shareCount": 189,
-  "viewCount": 11821,
+  "shareCount": 190,
+  "viewCount": 11845,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
