@@ -1,9 +1,23 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777594947321,
+  "updatedAt": 1777595238808,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777595181447",
+      "text": "amén",
+      "userDeviceId": "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f",
+      "userName": "ti Richard glòb tèrès",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777595238808,
+      "updatedAt": 1777595238808,
+      "status": "active"
+    },
     {
       "id": "local-1777593457186",
       "text": "Labib wout reyisit",
@@ -19,13 +33,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 5,
-  "viewCount": 558,
+  "likeCount": 5,
+  "shareCount": 6,
+  "viewCount": 673,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
-    "59407d5d4cca000653467c95107d55df716dbdf044f6a165ceeb016d55472239"
+    "59407d5d4cca000653467c95107d55df716dbdf044f6a165ceeb016d55472239",
+    "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+    "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f"
   ],
   "verseViewBy": []
 }
