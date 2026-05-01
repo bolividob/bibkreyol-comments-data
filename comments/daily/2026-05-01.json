@@ -1,9 +1,37 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777618923622,
+  "updatedAt": 1777619044048,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777601335811",
+      "text": "slt",
+      "userDeviceId": "676884486078bbc9455e7bce42ea1ce09d996546ad677d19fe800b1616badad5",
+      "userName": "mikerlange desir",
+      "verseName": "Egzòd 4:8",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777619044048,
+      "updatedAt": 1777619044048,
+      "status": "active"
+    },
+    {
+      "id": "local-1777601360120",
+      "text": "bonswa kijn nou ye",
+      "userDeviceId": "676884486078bbc9455e7bce42ea1ce09d996546ad677d19fe800b1616badad5",
+      "userName": "mikerlange desir",
+      "verseName": "Egzòd 4:8",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777619044048,
+      "updatedAt": 1777619044048,
+      "status": "active"
+    },
     {
       "id": "local-1777611732809",
       "text": "Nap mache wi la, sipote YouTube chaine lan, 1000 abone, rete 3 hours.",
@@ -117,7 +145,7 @@
   ],
   "likeCount": 39,
   "shareCount": 42,
-  "viewCount": 4832,
+  "viewCount": 4845,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
