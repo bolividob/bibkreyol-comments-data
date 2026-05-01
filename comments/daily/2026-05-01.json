@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777613883797,
+  "updatedAt": 1777614004259,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522"
+      ],
       "createdAt": 1777611845805,
-      "updatedAt": 1777612922693,
+      "updatedAt": 1777614004259,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522"
+      ],
       "createdAt": 1777611604010,
-      "updatedAt": 1777611604010,
+      "updatedAt": 1777614004259,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522"
+      ],
       "createdAt": 1777611604010,
-      "updatedAt": 1777611604010,
+      "updatedAt": 1777614004259,
       "status": "active"
     },
     {
@@ -54,10 +60,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522"
+      ],
       "createdAt": 1777601661706,
-      "updatedAt": 1777601661706,
+      "updatedAt": 1777614004259,
       "status": "active"
     },
     {
@@ -68,10 +76,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522"
+      ],
       "createdAt": 1777599675322,
-      "updatedAt": 1777599675322,
+      "updatedAt": 1777614004259,
       "status": "active"
     },
     {
@@ -82,10 +92,12 @@
       "verseName": "Jòb 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522"
+      ],
       "createdAt": 1777595238808,
-      "updatedAt": 1777595238808,
+      "updatedAt": 1777614004259,
       "status": "active"
     },
     {
@@ -105,7 +117,7 @@
   ],
   "likeCount": 38,
   "shareCount": 39,
-  "viewCount": 4518,
+  "viewCount": 4525,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
