@@ -1,9 +1,37 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777611483804,
+  "updatedAt": 1777611604010,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777611535106",
+      "text": "RENE",
+      "userDeviceId": "8451cb40cf4401785ce7a4f31246766fad24fb3924b6f70c5c0932a8270c476b",
+      "userName": "miyoo",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777611604010,
+      "updatedAt": 1777611604010,
+      "status": "active"
+    },
+    {
+      "id": "local-1777611578308",
+      "text": "miyoo Rene",
+      "userDeviceId": "8451cb40cf4401785ce7a4f31246766fad24fb3924b6f70c5c0932a8270c476b",
+      "userName": "miyoo",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777611604010,
+      "updatedAt": 1777611604010,
+      "status": "active"
+    },
     {
       "id": "local-1777601504233",
       "text": "Alleluia Gloire",
@@ -63,7 +91,7 @@
   ],
   "likeCount": 36,
   "shareCount": 34,
-  "viewCount": 4290,
+  "viewCount": 4303,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
