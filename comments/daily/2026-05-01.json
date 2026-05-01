@@ -1,9 +1,23 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777674427186,
+  "updatedAt": 1777674546419,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777674490908",
+      "text": "sóm",
+      "userDeviceId": "f38788b0b6873b2990cb4a8edc412380eccd8bab13b525f83eaa59916506998f",
+      "userName": "sóm",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777674546419,
+      "updatedAt": 1777674546419,
+      "status": "active"
+    },
     {
       "id": "local-1777672779618",
       "text": "Bonswa!",
@@ -352,9 +366,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
+  "likeCount": 118,
   "shareCount": 218,
-  "viewCount": 15044,
+  "viewCount": 15074,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
@@ -472,7 +486,8 @@
     "3b0a9fde67126fb6a81b0222884102f5e0624bccdf22be138d12d9ead2c4578a",
     "d05c41649e357136901ac92447fe2f47a80c0bde59e15c14a1d015c44c346cf0",
     "a729b267b4ec5e1e57cbbb7eb83604ad34bdb6fd59f91d57e5257efd27821ae5",
-    "147981ef77b9617ba31b759ec17d7a96f6e690dd3869b944242bfadf00cef3d7"
+    "147981ef77b9617ba31b759ec17d7a96f6e690dd3869b944242bfadf00cef3d7",
+    "f38788b0b6873b2990cb4a8edc412380eccd8bab13b525f83eaa59916506998f"
   ],
   "verseViewBy": []
 }
