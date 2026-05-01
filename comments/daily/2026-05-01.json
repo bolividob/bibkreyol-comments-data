@@ -1,9 +1,23 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777637763972,
+  "updatedAt": 1777638135672,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777637944151",
+      "text": "amén wi",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Jòb 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777638135672,
+      "updatedAt": 1777638135672,
+      "status": "active"
+    },
     {
       "id": "local-1777637120052",
       "text": "amén 3 fois 🙏🙏🙏🙏",
@@ -217,9 +231,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 66,
-  "shareCount": 150,
-  "viewCount": 7811,
+  "likeCount": 69,
+  "shareCount": 153,
+  "viewCount": 7903,
   "verseLikedBy": [
     "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
     "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
@@ -237,7 +251,6 @@
     "2bae4b66bcabbc0c250f346a0b6ef21ed2d860b47d254d3b60fe1d973cc7e190",
     "16d4718d68f00f379e5580c3cee8c2a4af5a3c21c735dc2d73902068f95e7523",
     "740f5e80c9c2ee2a6ab7a455a7c5f69a77f2450c6b839d5b9d090a86e64dc850",
-    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "73e168c50bdc5aa65ffd29a35a585c5a3c46611da3482746f26dc6b4126ea6a7",
     "3625560cb59eaaeef2c15e651b5a2d905662a1086200fb82fb7b4a05eb54878e",
     "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
@@ -286,7 +299,11 @@
     "d50e93c324f04e751b8054e0b497f17475c44255974bf5eade4987003c1a4613",
     "b76ce1c525a01b169605c76bf56d61e10861ccadf2b0465ca4fcd6283b37e4f3",
     "16b35539c264feae4e4ee85ae4b2d192ef538ad829dbb0fcbe9ef5317b92c471",
-    "503563f33b9990304f4ff768c01ef79e3dda5555b69f0d7efcf887d1db6c605e"
+    "503563f33b9990304f4ff768c01ef79e3dda5555b69f0d7efcf887d1db6c605e",
+    "efa9504cc64d4f1de671e72a12a7f91661d916d99f7eb71a9828234c7cd814ab",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "0aebe1515489d0103af888ac1a03252c10c0906ce38d88a371e8be2282a154a8"
   ],
   "verseViewBy": []
 }
