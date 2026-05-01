@@ -1,12 +1,31 @@
 {
   "date": "2026-05-01",
   "verseKey": "daily:2026-05-01",
-  "updatedAt": 1777594088513,
+  "updatedAt": 1777594483483,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 45,
-  "verseLikedBy": [],
+  "comments": [
+    {
+      "id": "local-1777593457186",
+      "text": "Labib wout reyisit",
+      "userDeviceId": "eb6f6c76281427ff8453c8a14cb773be598061f362a381d22c7a439a36bf30d1",
+      "userName": "JESUS life",
+      "verseName": "Filipyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777594483483,
+      "updatedAt": 1777594483483,
+      "status": "active"
+    }
+  ],
+  "likeCount": 3,
+  "shareCount": 3,
+  "viewCount": 239,
+  "verseLikedBy": [
+    "20379c7999e800e2595736af77d9e65bdd9003d83727b7dc49a56984fa18a566",
+    "fc00a478f02804c4ebfe1c3aa1dc96348733f173b708a222e92c0a3eeb4020ac",
+    "59407d5d4cca000653467c95107d55df716dbdf044f6a165ceeb016d55472239"
+  ],
   "verseViewBy": []
 }
