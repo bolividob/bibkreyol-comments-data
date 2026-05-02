@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777762031274,
+  "updatedAt": 1777762271731,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777762258656",
+      "text": "ke bondye beniw",
+      "userDeviceId": "30008b0a72d1114ec8a6975d9b2f33632db62d1024404aef9a588fd3f4808ec8",
+      "userName": "sur ruise carline",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777762271731,
+      "updatedAt": 1777762271731,
+      "status": "active"
+    },
     {
       "id": "local-1777758482426",
       "text": "Amen amen 🙌🏾🙌🏾🙏🏾",
@@ -466,9 +480,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 125,
-  "shareCount": 290,
-  "viewCount": 15985,
+  "likeCount": 127,
+  "shareCount": 291,
+  "viewCount": 16044,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
@@ -594,7 +608,9 @@
     "1ca68266439f12550e02c595d53d8cd90a6575fa542183dc90b7c4069cf56ba3",
     "a08fb46555a30bf5260fd607edb90cf1413b5ff1e23db481f6e3bc4a12dbdaf9",
     "caafc2704d1daec47b905d6a4ad20940efdf11110fd8bf47e28b22accc3cd43e",
-    "59407d5d4cca000653467c95107d55df716dbdf044f6a165ceeb016d55472239"
+    "59407d5d4cca000653467c95107d55df716dbdf044f6a165ceeb016d55472239",
+    "30008b0a72d1114ec8a6975d9b2f33632db62d1024404aef9a588fd3f4808ec8",
+    "192cc1351bdabbb5a6502d6581fed08b16b294a6c220a866b0a644b74fa12322"
   ],
   "verseViewBy": []
 }
