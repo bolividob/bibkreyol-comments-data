@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777723578392,
+  "updatedAt": 1777723746968,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777723569341",
+      "text": "mwen libere 🙏 tout glwa pou Bondye",
+      "userDeviceId": "77daadf79b7b40be463ff92e888bc67142dd08cc8a0c335219634728c5493748",
+      "userName": "chalithodorismod@gmail.com",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777723746968,
+      "updatedAt": 1777723746968,
+      "status": "active"
+    },
     {
       "id": "local-1777722506850",
       "text": "amén",
@@ -260,9 +274,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
+  "likeCount": 63,
   "shareCount": 180,
-  "viewCount": 7831,
+  "viewCount": 7869,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
@@ -325,7 +339,8 @@
     "63ae9fb6345eb217400a7e1ae82746d2c6c329b0e21254c8de2c6d620c1303c0",
     "77daadf79b7b40be463ff92e888bc67142dd08cc8a0c335219634728c5493748",
     "0f0e75ecb25236d671ff6cc1d884a605d9cf9d9ca2ec182dc6577038bc5d8bb6",
-    "5884bc57342c1ac0ef224f54ae28184b3094842b5306cd1a1486597665d5467f"
+    "5884bc57342c1ac0ef224f54ae28184b3094842b5306cd1a1486597665d5467f",
+    "d0539f5d0a877b13e6b1e33fa4f1048c86a460b71241a07c62df37c01a9ca7d9"
   ],
   "verseViewBy": []
 }
