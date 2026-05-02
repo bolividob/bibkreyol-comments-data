@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777717935613,
+  "updatedAt": 1777718047703,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777717954116",
+      "text": "bndye fè gras",
+      "userDeviceId": "037b084a1f64c9f89782c8621b004ab17a29318f167874d5f66464243f2ade2b",
+      "userName": "Francelene",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777718047703,
+      "updatedAt": 1777718047703,
+      "status": "active"
+    },
     {
       "id": "local-1777717884976",
       "text": "bndye beni nou",
@@ -164,8 +178,8 @@
     }
   ],
   "likeCount": 46,
-  "shareCount": 119,
-  "viewCount": 6421,
+  "shareCount": 124,
+  "viewCount": 6459,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
