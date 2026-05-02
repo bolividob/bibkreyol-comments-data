@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777744624034,
+  "updatedAt": 1777744744640,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777744721822",
+      "text": "Merci Seigneur Jesus Merci, Toute gloire pou BonDieu",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777744744640,
+      "updatedAt": 1777744744640,
+      "status": "active"
+    },
     {
       "id": "local-1777734873274",
       "text": "tout glwa pou Papa kise kreyatè a",
@@ -330,9 +344,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 95,
+  "likeCount": 97,
   "shareCount": 239,
-  "viewCount": 12261,
+  "viewCount": 12277,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
@@ -428,7 +442,9 @@
     "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
     "7955bc5cd6b03eea2833e05f421462e471fd9c97ff516d79c9606bfc90d88b7d",
     "530d4651f6a7f431b20108ab19a01ae86b83c12ca68a3e2f38945b6f8f72b7f9",
-    "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a"
+    "4979d38dfb45820e65ddb7e5464fe3ce82b093f6417fb1538ceb5a61c419099a",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "8bacaba606a2cd5245f7427d5bfb5762439b08f5767baf2f5271f6a04a7a69b1"
   ],
   "verseViewBy": []
 }
