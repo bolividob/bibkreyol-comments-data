@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777722365779,
+  "updatedAt": 1777722611585,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777722506850",
+      "text": "amén",
+      "userDeviceId": "8721dd0fb5669b9431b7e6bf9330d735bd1bcdbfc51600268f888d6422b9082e",
+      "userName": "A Dieu seul soit la gloire",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777722611585,
+      "updatedAt": 1777722611585,
+      "status": "active"
+    },
     {
       "id": "local-1777720229161",
       "text": "Amen amen amen",
@@ -221,9 +235,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 176,
-  "viewCount": 7514,
+  "likeCount": 56,
+  "shareCount": 178,
+  "viewCount": 7583,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
@@ -279,7 +293,8 @@
     "35b35acf66d6b43803130cd639b421d1a3c7a3d622aeeadf42b0a3781dd056d1",
     "2fb2d34bcc8006db2c4e85cb323439ad359d7bffd60dedda2351966d95759f5c",
     "63b95a9443b1f076260fbc21394fcd4d720af2f1462b68f452ad8d841cb549ba",
-    "b07637da9463ea70539bad0d617f6832e020485ca66ba6d79b1fdf987383fce6"
+    "b07637da9463ea70539bad0d617f6832e020485ca66ba6d79b1fdf987383fce6",
+    "8721dd0fb5669b9431b7e6bf9330d735bd1bcdbfc51600268f888d6422b9082e"
   ],
   "verseViewBy": []
 }
