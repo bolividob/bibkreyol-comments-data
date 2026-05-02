@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777734845043,
+  "updatedAt": 1777734966887,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777734873274",
+      "text": "tout glwa pou Papa kise kreyatè a",
+      "userDeviceId": "eb34731cc76a7918e901c826f453b83b97518c4e389fad0439274cd85f681b61",
+      "userName": "Laguerre Genel",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777734966887,
+      "updatedAt": 1777734966887,
+      "status": "active"
+    },
     {
       "id": "local-1777731299075",
       "text": "Amén Amén aleluya",
@@ -318,7 +332,7 @@
   ],
   "likeCount": 77,
   "shareCount": 221,
-  "viewCount": 10341,
+  "viewCount": 10368,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
