@@ -1,15 +1,31 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777681508486,
+  "updatedAt": 1777681913195,
   "version": 1,
-  "comments": [],
-  "likeCount": 2,
-  "shareCount": 6,
-  "viewCount": 438,
+  "comments": [
+    {
+      "id": "local-1777681677137",
+      "text": "mwn salie nou, nan ki zone nou ye?",
+      "userDeviceId": "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d",
+      "userName": "Itzi",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777681913195,
+      "updatedAt": 1777681913195,
+      "status": "active"
+    }
+  ],
+  "likeCount": 3,
+  "shareCount": 13,
+  "viewCount": 602,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
-    "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0"
+    "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
+    "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d"
   ],
   "verseViewBy": []
 }
