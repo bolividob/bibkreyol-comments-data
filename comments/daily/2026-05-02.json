@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777752547394,
+  "updatedAt": 1777752665937,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777712812933",
+      "text": "amen",
+      "userDeviceId": "b27eb0552588825c33c56ff44ad44d56542a362c792639c4351bf68f49616614",
+      "userName": "lafleur",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777752665937,
+      "updatedAt": 1777752665937,
+      "status": "active"
+    },
     {
       "id": "local-1777748534061",
       "text": "mèsi Jezi pou sacrifice la",
@@ -362,7 +376,7 @@
   ],
   "likeCount": 111,
   "shareCount": 257,
-  "viewCount": 13605,
+  "viewCount": 13637,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
