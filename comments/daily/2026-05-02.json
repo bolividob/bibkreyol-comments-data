@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777692084938,
+  "updatedAt": 1777692636971,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777692227922",
+      "text": "jesis  ou gen pou wra",
+      "userDeviceId": "e99210e4639abc9e1c6627bc7a9f2a535349e94db9fb00ebe5d570cedde16fa7",
+      "userName": "Nicolas honêst",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777692636970,
+      "updatedAt": 1777692636970,
+      "status": "active"
+    },
     {
       "id": "local-1777691613821",
       "text": "Bndye mèsi",
@@ -91,9 +105,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 21,
-  "shareCount": 39,
-  "viewCount": 3234,
+  "likeCount": 25,
+  "shareCount": 44,
+  "viewCount": 3491,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
@@ -115,7 +129,11 @@
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "2448d53ff1fecb5e30dd23ea5d9b07374b28de38af91e3a79a02a72a58dd3073",
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
-    "2f481cd4798f1ed677a0f1581ee0df8e669b3652d89629c6e08cc32aaabc697a"
+    "2f481cd4798f1ed677a0f1581ee0df8e669b3652d89629c6e08cc32aaabc697a",
+    "e99210e4639abc9e1c6627bc7a9f2a535349e94db9fb00ebe5d570cedde16fa7",
+    "ba14a81d53e3dd43f65ec572e68130ccacd17387ac01c83d99d8e1d8aade862a",
+    "eddd4660768ad25ddc2334f46f0bd048480fba634828abbf89d4585c8e3bb77f",
+    "186676f94e4a365cc50d5d3a1f013b3b47830ebb0531d5d6a4671e49b5356a2f"
   ],
   "verseViewBy": []
 }
