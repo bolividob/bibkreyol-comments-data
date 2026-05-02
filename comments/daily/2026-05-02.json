@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777731305876,
+  "updatedAt": 1777731427364,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777731299075",
+      "text": "Amén Amén aleluya",
+      "userDeviceId": "acb4fc6eb3e1baea863cf71b65fa44c862dc0044cd30fbc037d9fe939754e9c1",
+      "userName": "Amaria",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777731427364,
+      "updatedAt": 1777731427364,
+      "status": "active"
+    },
     {
       "id": "local-1777730270811",
       "text": "Amen Amen Amen 🙏🙏🙏🙏",
@@ -43,7 +57,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777723746968,
-      "updatedAt": 1777723746968,
+      "updatedAt": 1777731427364,
       "status": "active"
     },
     {
@@ -303,8 +317,8 @@
     }
   ],
   "likeCount": 72,
-  "shareCount": 207,
-  "viewCount": 9579,
+  "shareCount": 208,
+  "viewCount": 9605,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
