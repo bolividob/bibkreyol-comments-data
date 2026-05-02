@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777720205652,
+  "updatedAt": 1777720326136,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777720229161",
+      "text": "Amen amen amen",
+      "userDeviceId": "d8ed166cc53e7083955ea8818eefceec5012cd1eca028e010f7fb37013d616c2",
+      "userName": "Joseph nalson",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777720326136,
+      "updatedAt": 1777720326136,
+      "status": "active"
+    },
     {
       "id": "local-1777694072725",
       "text": "amen amen Allelouia amen",
@@ -205,9 +219,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
+  "likeCount": 52,
   "shareCount": 168,
-  "viewCount": 6987,
+  "viewCount": 7020,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
@@ -259,7 +273,8 @@
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "724bf419ae5d9784288bff531f3852bbdedfbbb331c4c3a2680e0880a4a48c1f",
     "f6aeb17b3468905d144c959b6cc279938af93fa1d50bf2ff8cd634203d1fef53",
-    "00b8aa9801dc1ec82680c6d714fee9414e48ef9b61e967a862e06261eb0e497b"
+    "00b8aa9801dc1ec82680c6d714fee9414e48ef9b61e967a862e06261eb0e497b",
+    "35b35acf66d6b43803130cd639b421d1a3c7a3d622aeeadf42b0a3781dd056d1"
   ],
   "verseViewBy": []
 }
