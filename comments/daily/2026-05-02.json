@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777685651808,
+  "updatedAt": 1777685768096,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777685704318",
+      "text": "bndye",
+      "userDeviceId": "f02d7d4298a586a1e0aeb1725485ee82480a94d7171c53ab3756003a5f8bcb65",
+      "userName": "Djenoo",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777685768096,
+      "updatedAt": 1777685768096,
+      "status": "active"
+    },
     {
       "id": "local-1777683535935",
       "text": "mendoza",
@@ -35,7 +49,7 @@
   ],
   "likeCount": 13,
   "shareCount": 27,
-  "viewCount": 1544,
+  "viewCount": 1593,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
