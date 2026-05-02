@@ -1,9 +1,39 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777714804587,
+  "updatedAt": 1777715048129,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777683950890",
+      "text": "Amén merci seignuer 🙌",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777715048129,
+      "updatedAt": 1777715048129,
+      "status": "active"
+    },
+    {
+      "id": "local-1777714961831",
+      "text": "Merci Seigneur",
+      "userDeviceId": "cc4e3c29d57f79b291b3596501bc85525def9cffd07a89b85b321eacbf474a05",
+      "userName": "Meloo",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "cc4e3c29d57f79b291b3596501bc85525def9cffd07a89b85b321eacbf474a05"
+      ],
+      "createdAt": 1777715048129,
+      "updatedAt": 1777715048129,
+      "status": "active"
+    },
     {
       "id": "local-1777692227922",
       "text": "jesis  ou gen pou wra",
@@ -105,9 +135,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 84,
-  "viewCount": 5789,
+  "likeCount": 41,
+  "shareCount": 87,
+  "viewCount": 5832,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
@@ -148,7 +178,8 @@
     "765d36fbf5a7dd914776dc4c75bcd6be0c5a1379c3836dd4d79939e992f10b31",
     "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
     "a649da68f360b5d7c2a36f114acada1606f44a26b692196eefc50f617e7e62f8",
-    "867e7cebc7ed53f427274b6f0d43aa2a1af49e021629ff93b769ac645b55d7db"
+    "867e7cebc7ed53f427274b6f0d43aa2a1af49e021629ff93b769ac645b55d7db",
+    "cc4e3c29d57f79b291b3596501bc85525def9cffd07a89b85b321eacbf474a05"
   ],
   "verseViewBy": []
 }
