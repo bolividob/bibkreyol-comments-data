@@ -1,9 +1,23 @@
 {
   "date": "2026-05-02",
   "verseKey": "daily:2026-05-02",
-  "updatedAt": 1777748343572,
+  "updatedAt": 1777748588118,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777748534061",
+      "text": "mèsi Jezi pou sacrifice la",
+      "userDeviceId": "74af62797ed894e301326a25e47ab2092388251de65129d5287ef0d82963ea1a",
+      "userName": "kerbie",
+      "verseName": "1 Jan 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777748588118,
+      "updatedAt": 1777748588118,
+      "status": "active"
+    },
     {
       "id": "local-1777744721822",
       "text": "Merci Seigneur Jesus Merci, Toute gloire pou BonDieu",
@@ -348,7 +362,7 @@
   ],
   "likeCount": 101,
   "shareCount": 249,
-  "viewCount": 12814,
+  "viewCount": 12859,
   "verseLikedBy": [
     "de69cf85d776fc9a2ce03aa9ded35c2eda1aff1d03696bbb46d3de5f6230b6e8",
     "7ff1945fc344a836e61d2483ee48660dfeb0d7203698d6de7d729a4bb5e12be0",
