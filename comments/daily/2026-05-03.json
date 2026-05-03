@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777841172218,
+  "updatedAt": 1777841287347,
   "version": 1,
   "comments": [
     {
@@ -96,10 +96,12 @@
       "verseName": "Women 4:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d"
+      ],
       "createdAt": 1777832134603,
-      "updatedAt": 1777832134603,
+      "updatedAt": 1777841287347,
       "status": "active"
     },
     {
@@ -110,12 +112,13 @@
       "verseName": "Women 4:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "085e8297e86f89e61d8e9fa33f24cbf21f12edc166aa47ab907faede1b011d73"
+        "085e8297e86f89e61d8e9fa33f24cbf21f12edc166aa47ab907faede1b011d73",
+        "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d"
       ],
       "createdAt": 1777825011477,
-      "updatedAt": 1777836905458,
+      "updatedAt": 1777841287347,
       "status": "active"
     },
     {
@@ -505,7 +508,7 @@
   ],
   "likeCount": 80,
   "shareCount": 249,
-  "viewCount": 16863,
+  "viewCount": 16900,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
