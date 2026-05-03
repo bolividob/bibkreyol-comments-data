@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777776368075,
+  "updatedAt": 1777777942266,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777776490343",
+      "text": "edem priye WI paskem malad anpil",
+      "userDeviceId": "8d68318d1487b595dc5b499b2acfda137fa1738d1c8a29c40121feb17b2af1d3",
+      "userName": "amen",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777777942265,
+      "updatedAt": 1777777942265,
+      "status": "active"
+    },
     {
       "id": "local-1777772226689",
       "text": "amen",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 20,
+  "likeCount": 22,
   "shareCount": 27,
-  "viewCount": 2744,
+  "viewCount": 2893,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -112,7 +126,9 @@
     "ceb60d6b57817a06d9e274360c7a8c890eb48fc2b565071f532f7457c7045363",
     "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
-    "f82e444f5b09380b7e0ecb74dac9827ceee8805148a8b5b5736911be453dc477"
+    "f82e444f5b09380b7e0ecb74dac9827ceee8805148a8b5b5736911be453dc477",
+    "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966",
+    "5946b272c6cc117c92f7f97f91e41e41ce85ea0db4a5de3c267e45849cab6b6a"
   ],
   "verseViewBy": []
 }
