@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777778113301,
+  "updatedAt": 1777778227192,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777777172583",
+      "text": "Amen amen",
+      "userDeviceId": "885d4f6e1155c02b924d26c9e8641636ced0f859999c7528977afc8070f2358a",
+      "userName": "Sr samuel",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777778227192,
+      "updatedAt": 1777778227192,
+      "status": "active"
+    },
     {
       "id": "local-1777776490343",
       "text": "edem priye WI paskem malad anpil",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
+  "likeCount": 23,
   "shareCount": 28,
-  "viewCount": 2959,
+  "viewCount": 2997,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -128,7 +142,8 @@
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
     "f82e444f5b09380b7e0ecb74dac9827ceee8805148a8b5b5736911be453dc477",
     "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966",
-    "5946b272c6cc117c92f7f97f91e41e41ce85ea0db4a5de3c267e45849cab6b6a"
+    "5946b272c6cc117c92f7f97f91e41e41ce85ea0db4a5de3c267e45849cab6b6a",
+    "6467a0998f541952987508901c004e3b6fff74a42940a3458d60ee8bc529ce0e"
   ],
   "verseViewBy": []
 }
