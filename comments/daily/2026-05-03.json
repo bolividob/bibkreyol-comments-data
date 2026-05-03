@@ -1,9 +1,37 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777821406819,
+  "updatedAt": 1777825011477,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777817214800",
+      "text": "bible kreyol",
+      "userDeviceId": "246268ea5dfe3b914b9dc09d12b68e821bfe91bdaf308f49f32900702217a369",
+      "userName": "sauveur lourdemila",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777825011477,
+      "updatedAt": 1777825011477,
+      "status": "active"
+    },
+    {
+      "id": "local-1777824584889",
+      "text": "Amèn Amèn",
+      "userDeviceId": "9340da6cc24faf209d7818b9686a14c23c31d326b28cc5a59bdca635fd9210b3",
+      "userName": "Samantha",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777825011477,
+      "updatedAt": 1777825011477,
+      "status": "active"
+    },
     {
       "id": "local-1777818630085",
       "text": "mèsi jezi pou gras uh",
@@ -369,9 +397,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 63,
-  "shareCount": 177,
-  "viewCount": 11286,
+  "likeCount": 65,
+  "shareCount": 190,
+  "viewCount": 12261,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -435,7 +463,9 @@
     "9076beb44048797461be3c14f8b1ef4e1ef6099ebe49625abaf25f5f5a4662cb",
     "23e78921d0c260564e23d6062103a622cb08572703d615470009c73b6c58fea5",
     "fd0eb03e75d7e51c70b8aa9dad5ef17437406e4b17f104b2c783242d1d77e126",
-    "49985b96da413022642c8df734e4653be48709c5643d0145a44ee19803b99beb"
+    "49985b96da413022642c8df734e4653be48709c5643d0145a44ee19803b99beb",
+    "d1935e63a587e5da96142b3fa6948638bf120f3a655c89fa8a82e1f944f1f815",
+    "b6b6a7a0e54641f9abde93ddb9c760fc694cf69f6eefc250808aec707d1d85dc"
   ],
   "verseViewBy": []
 }
