@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777843566368,
+  "updatedAt": 1777843686515,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777843601566",
+      "text": "An edem di bondye mesi pou ankourajman anve mwn. pou patience li banm.",
+      "userDeviceId": "f47f77bbcd767c0be866e2febc9f4f60cbbaabbe28b037521b33e1b612ad3b8d",
+      "userName": "Itzi",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777843686515,
+      "updatedAt": 1777843686515,
+      "status": "active"
+    },
     {
       "id": "local-1777821780516",
       "text": "Tout glwa pou Bndye",
@@ -511,7 +525,7 @@
   ],
   "likeCount": 82,
   "shareCount": 261,
-  "viewCount": 17494,
+  "viewCount": 17528,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
