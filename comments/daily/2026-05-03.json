@@ -1,9 +1,51 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777817724633,
+  "updatedAt": 1777821406819,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777818630085",
+      "text": "mèsi jezi pou gras uh",
+      "userDeviceId": "dcaf3bb675a1eba9c91bf2202f42097420bfc1bdef9ada80c6e7831d04d5fb57",
+      "userName": "sr myrlanda",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777821406819,
+      "updatedAt": 1777821406819,
+      "status": "active"
+    },
+    {
+      "id": "local-1777817256431",
+      "text": "bible mwen renmenw",
+      "userDeviceId": "246268ea5dfe3b914b9dc09d12b68e821bfe91bdaf308f49f32900702217a369",
+      "userName": "sauveur lourdemila",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777821406818,
+      "updatedAt": 1777821406818,
+      "status": "active"
+    },
+    {
+      "id": "local-1777817284600",
+      "text": "sauveur lourdemila",
+      "userDeviceId": "246268ea5dfe3b914b9dc09d12b68e821bfe91bdaf308f49f32900702217a369",
+      "userName": "sauveur lourdemila",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777821406818,
+      "updatedAt": 1777821406818,
+      "status": "active"
+    },
     {
       "id": "local-1777811409295",
       "text": "chapit  2",
@@ -327,9 +369,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 61,
-  "shareCount": 168,
-  "viewCount": 10390,
+  "likeCount": 63,
+  "shareCount": 177,
+  "viewCount": 11286,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -391,7 +433,9 @@
     "8011acd7113c71d283217c5a3401b7cc319ca0544c2cfa3db86c30bea0478e65",
     "12e04406752904cbba827e0fa1f293a4db21c71b754f9f76e28c6bc1b7967be4",
     "9076beb44048797461be3c14f8b1ef4e1ef6099ebe49625abaf25f5f5a4662cb",
-    "23e78921d0c260564e23d6062103a622cb08572703d615470009c73b6c58fea5"
+    "23e78921d0c260564e23d6062103a622cb08572703d615470009c73b6c58fea5",
+    "fd0eb03e75d7e51c70b8aa9dad5ef17437406e4b17f104b2c783242d1d77e126",
+    "49985b96da413022642c8df734e4653be48709c5643d0145a44ee19803b99beb"
   ],
   "verseViewBy": []
 }
