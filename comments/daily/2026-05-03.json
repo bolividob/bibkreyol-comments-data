@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777810493754,
+  "updatedAt": 1777810797282,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777810469843",
+      "text": "Amen Amen Amen 🙏🙏🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "marie lourdes louis",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777810797281,
+      "updatedAt": 1777810797281,
+      "status": "active"
+    },
     {
       "id": "local-1777806649437",
       "text": "amen oui",
@@ -272,8 +286,8 @@
     }
   ],
   "likeCount": 56,
-  "shareCount": 132,
-  "viewCount": 7965,
+  "shareCount": 140,
+  "viewCount": 8295,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
