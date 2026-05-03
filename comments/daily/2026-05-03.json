@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777771832759,
+  "updatedAt": 1777771996044,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777771970308",
+      "text": "ke bondye fè l pou mwen 🙏🙏🙏🙏",
+      "userDeviceId": "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522",
+      "userName": "amén 🙏🙏",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777771996044,
+      "updatedAt": 1777771996044,
+      "status": "active"
+    },
     {
       "id": "local-1777770349493",
       "text": "🙏🙏",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 19,
-  "viewCount": 1389,
+  "likeCount": 14,
+  "shareCount": 20,
+  "viewCount": 1446,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -62,7 +76,9 @@
     "5c150edcd8f52d4e236eaca16753b6c75d22ecbdd47940c4b5b990f4d65bc3cd",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "fcd7bce59840a580fd26ca00df63fd08c93212cc76d8290afe205fc21e4159e3",
-    "fa50f8f2111a286c6551d54b4265abb2be350141f6690f8d80ea61d8e670051b"
+    "fa50f8f2111a286c6551d54b4265abb2be350141f6690f8d80ea61d8e670051b",
+    "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522",
+    "3bc1f08a8f9ce6905199402127eb127b714ece6dbcc94ae402861344e24c572a"
   ],
   "verseViewBy": []
 }
