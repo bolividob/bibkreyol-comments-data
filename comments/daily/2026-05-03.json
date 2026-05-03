@@ -1,9 +1,37 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777828618531,
+  "updatedAt": 1777832134603,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777815794761",
+      "text": "ay Dios mio es tarde para",
+      "userDeviceId": "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+      "userName": "nenena",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777832134603,
+      "updatedAt": 1777832134603,
+      "status": "active"
+    },
+    {
+      "id": "local-1777815870656",
+      "text": "el envío de nada más ei se te ocurre alguna otra forma de que no te lo envío en la información de nada y que no te olvides que",
+      "userDeviceId": "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+      "userName": "nenena",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777832134603,
+      "updatedAt": 1777832134603,
+      "status": "active"
+    },
     {
       "id": "local-1777817214800",
       "text": "bible kreyol",
@@ -397,9 +425,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 205,
-  "viewCount": 13235,
+  "likeCount": 69,
+  "shareCount": 216,
+  "viewCount": 13965,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -468,7 +496,8 @@
     "90cbaa81611db956bd31f2d14f6d1fb04b25828f64ef2b7e8cd9a8452b2250bd",
     "b6b6a7a0e54641f9abde93ddb9c760fc694cf69f6eefc250808aec707d1d85dc",
     "919044d5461672615f85f2767f75474e3e12c5ec633bd80c99cfceccc58c1e22",
-    "7758fb872d756bbcdb00b0d4059a2fa6a1786cb4cc5a57b8509b10f58712a73b"
+    "7758fb872d756bbcdb00b0d4059a2fa6a1786cb4cc5a57b8509b10f58712a73b",
+    "cb4b4e61f2e20446149c180e04883944b0699d63f0c44ffdfafc73f0cf8eb255"
   ],
   "verseViewBy": []
 }
