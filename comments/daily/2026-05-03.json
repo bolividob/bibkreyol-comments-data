@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777814362431,
+  "updatedAt": 1777817724633,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777811409295",
+      "text": "chapit  2",
+      "userDeviceId": "f99f60186b91a20ead199d1056983800655785731786d8b40ee9a492b4de21f6",
+      "userName": "efezyen",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777817724632,
+      "updatedAt": 1777817724632,
+      "status": "active"
+    },
     {
       "id": "local-1777811027092",
       "text": "amen",
@@ -313,9 +327,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 161,
-  "viewCount": 9728,
+  "likeCount": 61,
+  "shareCount": 168,
+  "viewCount": 10390,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -375,7 +389,9 @@
     "a3abfc08901412a0e556306eeb0e5521e610a149ead890d656720f7056a8844f",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
     "8011acd7113c71d283217c5a3401b7cc319ca0544c2cfa3db86c30bea0478e65",
-    "12e04406752904cbba827e0fa1f293a4db21c71b754f9f76e28c6bc1b7967be4"
+    "12e04406752904cbba827e0fa1f293a4db21c71b754f9f76e28c6bc1b7967be4",
+    "9076beb44048797461be3c14f8b1ef4e1ef6099ebe49625abaf25f5f5a4662cb",
+    "23e78921d0c260564e23d6062103a622cb08572703d615470009c73b6c58fea5"
   ],
   "verseViewBy": []
 }
