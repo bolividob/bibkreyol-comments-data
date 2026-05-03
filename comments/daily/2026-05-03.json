@@ -1,9 +1,37 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777810974119,
+  "updatedAt": 1777814060996,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777811027092",
+      "text": "amen",
+      "userDeviceId": "12e04406752904cbba827e0fa1f293a4db21c71b754f9f76e28c6bc1b7967be4",
+      "userName": "saphira",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777814060996,
+      "updatedAt": 1777814060996,
+      "status": "active"
+    },
+    {
+      "id": "local-1777813916134",
+      "text": "mèsi pou gras ou ak fidélité ou segnè",
+      "userDeviceId": "4fe02c852e3c3d56587ced839f17acac6563037b7409e6b6d70131b2c7c302e0",
+      "userName": "Joseph Jours",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777814060996,
+      "updatedAt": 1777814060996,
+      "status": "active"
+    },
     {
       "id": "local-1777810469843",
       "text": "Amen Amen Amen 🙏🙏🙏",
@@ -285,9 +313,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 146,
-  "viewCount": 8645,
+  "likeCount": 59,
+  "shareCount": 152,
+  "viewCount": 9121,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -345,7 +373,9 @@
     "7be713f854bfcfe817b9106e21962aaa4537a336ab77aeadc8eb9d2da61e28b8",
     "9c7508613761a29c6783379f600a6fdbef6c7cd193a05bb34bb53a6c36ae95fe",
     "a3abfc08901412a0e556306eeb0e5521e610a149ead890d656720f7056a8844f",
-    "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a"
+    "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
+    "8011acd7113c71d283217c5a3401b7cc319ca0544c2cfa3db86c30bea0478e65",
+    "12e04406752904cbba827e0fa1f293a4db21c71b754f9f76e28c6bc1b7967be4"
   ],
   "verseViewBy": []
 }
