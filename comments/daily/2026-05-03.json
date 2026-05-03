@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777778349100,
+  "updatedAt": 1777778467770,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777778441651",
+      "text": "Amen amen amen",
+      "userDeviceId": "db866955bc745d8bc3c26c4ec7dda5905f6838f59ab6bd46a16965ed1101345e",
+      "userName": "tee",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777778467770,
+      "updatedAt": 1777778467770,
+      "status": "active"
+    },
     {
       "id": "local-1777777172583",
       "text": "Amen amen",
@@ -118,8 +132,8 @@
     }
   ],
   "likeCount": 25,
-  "shareCount": 29,
-  "viewCount": 3053,
+  "shareCount": 30,
+  "viewCount": 3101,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
