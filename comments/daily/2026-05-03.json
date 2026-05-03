@@ -1,9 +1,37 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777772111279,
+  "updatedAt": 1777772354460,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777772226689",
+      "text": "amen",
+      "userDeviceId": "ba447d7187f5646342f224bdd289a26c8dbc9c9b777ef2ede215adf7a7d8384b",
+      "userName": "fr bernard louine",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777772354459,
+      "updatedAt": 1777772354459,
+      "status": "active"
+    },
+    {
+      "id": "local-1777772323549",
+      "text": "LAPÈ BONDYE BAY LA AVÈK NOU TOUT",
+      "userDeviceId": "8e0e59df56c00b9971d36c62a5ab024ce1cc4212d666b71778e9fc781778fcf8",
+      "userName": "fr bertilus Dorval",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777772354459,
+      "updatedAt": 1777772354459,
+      "status": "active"
+    },
     {
       "id": "local-1777771970308",
       "text": "ke bondye fè l pou mwen 🙏🙏🙏🙏",
@@ -61,9 +89,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
+  "likeCount": 16,
   "shareCount": 20,
-  "viewCount": 1485,
+  "viewCount": 1581,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -78,7 +106,9 @@
     "fcd7bce59840a580fd26ca00df63fd08c93212cc76d8290afe205fc21e4159e3",
     "fa50f8f2111a286c6551d54b4265abb2be350141f6690f8d80ea61d8e670051b",
     "f83290ae0c2d0f9b6c826fe328c1cf274279d370b472be3a3c1aab7d2c2b0522",
-    "3bc1f08a8f9ce6905199402127eb127b714ece6dbcc94ae402861344e24c572a"
+    "3bc1f08a8f9ce6905199402127eb127b714ece6dbcc94ae402861344e24c572a",
+    "ba447d7187f5646342f224bdd289a26c8dbc9c9b777ef2ede215adf7a7d8384b",
+    "8e0e59df56c00b9971d36c62a5ab024ce1cc4212d666b71778e9fc781778fcf8"
   ],
   "verseViewBy": []
 }
