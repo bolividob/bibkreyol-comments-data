@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777837505820,
+  "updatedAt": 1777837625677,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777811950377",
+      "text": "amen 🙏",
+      "userDeviceId": "e0f4cba02ebc89b85972a236ce7d06237a5af3d09eca55b52653e4bc2027fb96",
+      "userName": "Amen",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777837625677,
+      "updatedAt": 1777837625677,
+      "status": "active"
+    },
     {
       "id": "local-1777836802676",
       "text": "MÈSI JEZI POU GRAS OU",
@@ -448,8 +462,8 @@
     }
   ],
   "likeCount": 77,
-  "shareCount": 239,
-  "viewCount": 16079,
+  "shareCount": 240,
+  "viewCount": 16103,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
