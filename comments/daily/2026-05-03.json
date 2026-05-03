@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777801747619,
+  "updatedAt": 1777801865345,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777801799942",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777801865345,
+      "updatedAt": 1777801865345,
+      "status": "active"
+    },
     {
       "id": "local-1777785786845",
       "text": "mw resevwal oh nn de jezi🙏🙏",
@@ -215,9 +229,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 79,
-  "viewCount": 5581,
+  "likeCount": 45,
+  "shareCount": 80,
+  "viewCount": 5595,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -261,7 +275,9 @@
     "d66a837f3296f6ad7daf915962853aa3f205dafa8998599908a0a55274a0c5ce",
     "00981a9c356e69246c68f3e86a8d08a992d9661a9e507153d671d06ae234e861",
     "b3716408250744d2baaabb39d3da5e4fadb3a5fc749b2a117504359f429b4f00",
-    "2ef2b05603313e46d77548545d116c55ea82fdaf29f7d55950709b3b5cb17c8c"
+    "2ef2b05603313e46d77548545d116c55ea82fdaf29f7d55950709b3b5cb17c8c",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "beaf20b37d9ee44410fb77d12211fa24d9a9d0c6ea6786bf8268f451ae37cb64"
   ],
   "verseViewBy": []
 }
