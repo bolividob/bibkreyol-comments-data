@@ -1,9 +1,23 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777780271298,
+  "updatedAt": 1777781590103,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777781041554",
+      "text": "Mw revwal o non de Jezi",
+      "userDeviceId": "0981a30f7078f278206c2697c50ae444bdfc72a844c1f3df7fa3694b86b05555",
+      "userName": "Duverna",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777781590103,
+      "updatedAt": 1777781590103,
+      "status": "active"
+    },
     {
       "id": "local-1777779011368",
       "text": "amèn amèn",
@@ -160,8 +174,8 @@
     }
   ],
   "likeCount": 31,
-  "shareCount": 34,
-  "viewCount": 3743,
+  "shareCount": 35,
+  "viewCount": 3803,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
