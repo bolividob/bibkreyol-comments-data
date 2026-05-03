@@ -1,14 +1,30 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777767133407,
+  "updatedAt": 1777767437892,
   "version": 1,
-  "comments": [],
-  "likeCount": 1,
-  "shareCount": 4,
-  "viewCount": 88,
+  "comments": [
+    {
+      "id": "local-1777767327233",
+      "text": "🙏🙏🙏",
+      "userDeviceId": "525857461522d4b8e9ecdd317bbe75392835a064608288fc0f7983950aecfcc6",
+      "userName": "Romain Rachelle",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777767437892,
+      "updatedAt": 1777767437892,
+      "status": "active"
+    }
+  ],
+  "likeCount": 2,
+  "shareCount": 5,
+  "viewCount": 203,
   "verseLikedBy": [
-    "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff"
+    "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
+    "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175"
   ],
   "verseViewBy": []
 }
