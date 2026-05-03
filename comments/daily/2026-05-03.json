@@ -1,9 +1,37 @@
 {
   "date": "2026-05-03",
   "verseKey": "daily:2026-05-03",
-  "updatedAt": 1777778948363,
+  "updatedAt": 1777779067233,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777779011368",
+      "text": "amèn amèn",
+      "userDeviceId": "d49a3ae8d801311dc7a0f7e3b9c14d739b6176775071039dd2993b89880bc4e5",
+      "userName": "Milus michena",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777779067233,
+      "updatedAt": 1777779067233,
+      "status": "active"
+    },
+    {
+      "id": "local-1777779034645",
+      "text": "ke bondye konpe pou mw",
+      "userDeviceId": "d49a3ae8d801311dc7a0f7e3b9c14d739b6176775071039dd2993b89880bc4e5",
+      "userName": "Milus michena",
+      "verseName": "Women 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777779067233,
+      "updatedAt": 1777779067233,
+      "status": "active"
+    },
     {
       "id": "local-1777778441651",
       "text": "Amen amen amen",
@@ -131,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
+  "likeCount": 28,
   "shareCount": 31,
-  "viewCount": 3276,
+  "viewCount": 3317,
   "verseLikedBy": [
     "43a1c9645d100305d3bc1f59c9ebc7ab28a3d9bc05cac481ee403311ff7520ff",
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
@@ -161,7 +189,8 @@
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "1541dbdf535d5956df489792c5d1f6cc41cd89f360db338f8542c3515211349a",
     "7b66075235e5effe88282bc0c4ada456b04ffb8976a70f2cd0dd20f996eb00c3",
-    "eed6f5be9f094c382f7175b79375ab2fe884afcc4efdd61b373f57d278585b2c"
+    "eed6f5be9f094c382f7175b79375ab2fe884afcc4efdd61b373f57d278585b2c",
+    "94f3afd12f50170a94a744e8b670a225308545e6b664e136250c6ac9db5e7736"
   ],
   "verseViewBy": []
 }
