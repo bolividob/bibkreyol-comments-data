@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777902667055,
+  "updatedAt": 1777902784591,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777901224283",
+      "text": "mwen kontan jwenn nou",
+      "userDeviceId": "b3957072b79e7d6ec816a470076661c7daf20cf77c51c5eb182a58e1eb58216b",
+      "userName": "frère edson chapelain",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777902784591,
+      "updatedAt": 1777902784591,
+      "status": "active"
+    },
     {
       "id": "local-1777893240783",
       "text": "blb la se souce Lavim",
@@ -249,7 +263,7 @@
   ],
   "likeCount": 68,
   "shareCount": 147,
-  "viewCount": 8791,
+  "viewCount": 8806,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
