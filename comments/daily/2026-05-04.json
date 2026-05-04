@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777874343168,
+  "updatedAt": 1777874463673,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777874441476",
+      "text": "Amen",
+      "userDeviceId": "cbda4b3648df020840b4adbdc0f0c8e2985bd1d10a2008e8a3c8d462628c5303",
+      "userName": "Antoine  natacha",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777874463673,
+      "updatedAt": 1777874463673,
+      "status": "active"
+    },
     {
       "id": "local-1777870043502",
       "text": "som 35",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
-  "shareCount": 25,
-  "viewCount": 4583,
+  "likeCount": 28,
+  "shareCount": 26,
+  "viewCount": 4587,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
@@ -91,7 +105,8 @@
     "900c75bd33be20e7ffe94b48f6594483bcf867f9d9e04b33f2c50923d7ae54ea",
     "53abe9ce93f3dbaed9a428b43355dadddd92ed9e827763a30926334883b30a3c",
     "321cc03f8ef70052b737e32a0af4a19405ecf1a733b6e30a9e8b7569c52af842",
-    "32580bf1963a584bd76af9aa159bd75841e66b55c58bfecff2fb86b6de0859d4"
+    "32580bf1963a584bd76af9aa159bd75841e66b55c58bfecff2fb86b6de0859d4",
+    "cbda4b3648df020840b4adbdc0f0c8e2985bd1d10a2008e8a3c8d462628c5303"
   ],
   "verseViewBy": []
 }
