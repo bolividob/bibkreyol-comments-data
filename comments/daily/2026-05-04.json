@@ -1,7 +1,7 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777854625622,
+  "updatedAt": 1777857213332,
   "version": 1,
   "comments": [
     {
@@ -19,11 +19,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 1,
+  "likeCount": 4,
   "shareCount": 5,
-  "viewCount": 723,
+  "viewCount": 951,
   "verseLikedBy": [
-    "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe"
+    "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
+    "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
+    "ff8db328428dfba96f6874634c32c1dca79a2b5660ca0c47007f1032cbf2e383",
+    "8c29138b79c1e32fb0d537470eed7ea52a34d0975d85dee2d3ebcb57bbf5e209"
   ],
   "verseViewBy": []
 }
