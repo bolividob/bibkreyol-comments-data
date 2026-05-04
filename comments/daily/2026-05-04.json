@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777907349512,
+  "updatedAt": 1777907465794,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777907442844",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777907465793,
+      "updatedAt": 1777907465793,
+      "status": "active"
+    },
     {
       "id": "local-1777903418607",
       "text": "bodie Fidel amen",
@@ -290,9 +304,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
+  "likeCount": 72,
   "shareCount": 171,
-  "viewCount": 9684,
+  "viewCount": 9703,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
@@ -364,7 +378,8 @@
     "c81df7c15795ec4e53d2862a6c5ecf80a9ada5efd65d9c6412736ecb34e2d5cd",
     "a44a3e7534bc19b2631060d1b0c5189dc7b7d9991daa70f23b0d98a1174eb132",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
-    "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820"
+    "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
   ],
   "verseViewBy": []
 }
