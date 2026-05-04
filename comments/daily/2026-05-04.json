@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777894505572,
+  "updatedAt": 1777894626718,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777894581397",
+      "text": "merci jesus",
+      "userDeviceId": "d6d56efc134110a2483b22303a28777d0a0d0107a43c1388239d98821750312f",
+      "userName": "Besnercinea",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777894626718,
+      "updatedAt": 1777894626718,
+      "status": "active"
+    },
     {
       "id": "local-1777854979113",
       "text": "bndye",
@@ -207,7 +221,7 @@
   ],
   "likeCount": 56,
   "shareCount": 109,
-  "viewCount": 7168,
+  "viewCount": 7191,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
