@@ -1,9 +1,25 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777937438793,
+  "updatedAt": 1777937589665,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777937416468",
+      "text": "si bndy pat la kisa nou tap fe saki koure sa di amen🙏🙏🙏",
+      "userDeviceId": "47c4fa5ce55093a0e9ad79a6bd81abe10f8421a3b7d78c791a9d72d7e3901e0e",
+      "userName": "mw rele jesulande bazil",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "47c4fa5ce55093a0e9ad79a6bd81abe10f8421a3b7d78c791a9d72d7e3901e0e"
+      ],
+      "createdAt": 1777937589665,
+      "updatedAt": 1777937589665,
+      "status": "active"
+    },
     {
       "id": "local-1777933080643",
       "text": "ms anpil bndye",
@@ -440,9 +456,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 114,
-  "shareCount": 228,
-  "viewCount": 15618,
+  "likeCount": 115,
+  "shareCount": 229,
+  "viewCount": 15667,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
@@ -557,7 +573,8 @@
     "51ab9cc95c92b7cf087b22ad9d563cd23be6a713551fb142784bd03531beb7ac",
     "727fac2ef14927ac7d107d144a1dda4a6bec4bff725bb5912615bf5751371408",
     "c0f9568c241ec03b55cfb329554e67af8e05f341c3228b0d3c62d842b9d969aa",
-    "47c4fa5ce55093a0e9ad79a6bd81abe10f8421a3b7d78c791a9d72d7e3901e0e"
+    "47c4fa5ce55093a0e9ad79a6bd81abe10f8421a3b7d78c791a9d72d7e3901e0e",
+    "02b8309f51c12d324b77c2af6c982c4a2958321f290ce8b43025ec58e4e66f5b"
   ],
   "verseViewBy": []
 }
