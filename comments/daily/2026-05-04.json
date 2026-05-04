@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777900386064,
+  "updatedAt": 1777900513935,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777893240783",
+      "text": "blb la se souce Lavim",
+      "userDeviceId": "f8efa6a2c6e5a302004f9ba680fd361eafc66b6e0542fbfe90980b2587b15d53",
+      "userName": "Jean tobert sagelus",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777900513934,
+      "updatedAt": 1777900513934,
+      "status": "active"
+    },
     {
       "id": "local-1777899586330",
       "text": "msii jzii",
@@ -235,7 +249,7 @@
   ],
   "likeCount": 66,
   "shareCount": 141,
-  "viewCount": 8368,
+  "viewCount": 8394,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
