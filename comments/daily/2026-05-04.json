@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777889826382,
+  "updatedAt": 1777889947562,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777889851440",
+      "text": "Amen 🙏",
+      "userDeviceId": "86a75ba6149ac79ac0da85c4c0b03eab3d0a97d5119043fa5f5f7b14d090632b",
+      "userName": "Joseph Lina",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777889947561,
+      "updatedAt": 1777889947561,
+      "status": "active"
+    },
     {
       "id": "local-1777888437654",
       "text": "Amén merci seignuer",
@@ -177,9 +191,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
+  "likeCount": 45,
   "shareCount": 65,
-  "viewCount": 6045,
+  "viewCount": 6076,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
@@ -224,7 +238,8 @@
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
-    "5a3d0fa90a873f0b7639cb950026c3c66ff10e19467c7a1edac02531836ebfcb"
+    "5a3d0fa90a873f0b7639cb950026c3c66ff10e19467c7a1edac02531836ebfcb",
+    "86a75ba6149ac79ac0da85c4c0b03eab3d0a97d5119043fa5f5f7b14d090632b"
   ],
   "verseViewBy": []
 }
