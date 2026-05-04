@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777899544832,
+  "updatedAt": 1777899665754,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777899586330",
+      "text": "msii jzii",
+      "userDeviceId": "6fb83bcb2073a77363f622f716bd26f3931d945a8ec98acb97b2ca2965fdbd52",
+      "userName": "fre peterson",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777899665754,
+      "updatedAt": 1777899665754,
+      "status": "active"
+    },
     {
       "id": "local-1777894581397",
       "text": "merci jesus",
@@ -220,8 +234,8 @@
     }
   ],
   "likeCount": 64,
-  "shareCount": 135,
-  "viewCount": 8205,
+  "shareCount": 136,
+  "viewCount": 8226,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
