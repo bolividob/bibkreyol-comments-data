@@ -1,9 +1,37 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777857392095,
+  "updatedAt": 1777857682301,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777853791187",
+      "text": "labib",
+      "userDeviceId": "6016661508d2670d2e6b42cc715d7ebce729ea56a90df33ebc9d52a97ad10cb0",
+      "userName": "labib",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777857682301,
+      "updatedAt": 1777857682301,
+      "status": "active"
+    },
+    {
+      "id": "local-1777856882514",
+      "text": "mwen vle fe yon sel avek ou segneur",
+      "userDeviceId": "7180556ed24a5d35bf8435080c58130f29e683631c5e737ea15ed83a2e5cf3c9",
+      "userName": "Amen",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777857682301,
+      "updatedAt": 1777857682301,
+      "status": "active"
+    },
     {
       "id": "local-1777853189964",
       "text": "fm yn mun kap mache nan verite a",
@@ -19,15 +47,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 5,
+  "likeCount": 6,
   "shareCount": 6,
-  "viewCount": 1149,
+  "viewCount": 1273,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
     "ff8db328428dfba96f6874634c32c1dca79a2b5660ca0c47007f1032cbf2e383",
     "8c29138b79c1e32fb0d537470eed7ea52a34d0975d85dee2d3ebcb57bbf5e209",
-    "6bf33a5303efbde2cd807cc31f5e3723909b9e51032bf92363ecd1e9a2ac1aa8"
+    "6bf33a5303efbde2cd807cc31f5e3723909b9e51032bf92363ecd1e9a2ac1aa8",
+    "85ed19b5436955b6a8c5b2241df057a85112f2831f1c2cc23271c66e682ae19e"
   ],
   "verseViewBy": []
 }
