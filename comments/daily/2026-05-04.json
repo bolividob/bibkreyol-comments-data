@@ -1,9 +1,23 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777870024280,
+  "updatedAt": 1777870144068,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777870043502",
+      "text": "som 35",
+      "userDeviceId": "321cc03f8ef70052b737e32a0af4a19405ecf1a733b6e30a9e8b7569c52af842",
+      "userName": "som 35",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777870144068,
+      "updatedAt": 1777870144068,
+      "status": "active"
+    },
     {
       "id": "local-1777853791187",
       "text": "labib",
@@ -48,8 +62,8 @@
     }
   ],
   "likeCount": 26,
-  "shareCount": 22,
-  "viewCount": 4194,
+  "shareCount": 23,
+  "viewCount": 4207,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "652f8a48e0b6e1c9502ee1dea7320349921141136f73bda7e51db5bcfdaf2279",
