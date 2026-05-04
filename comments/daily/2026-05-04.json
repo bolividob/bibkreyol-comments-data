@@ -1,12 +1,27 @@
 {
   "date": "2026-05-04",
   "verseKey": "daily:2026-05-04",
-  "updatedAt": 1777853650814,
+  "updatedAt": 1777853963727,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1777853189964",
+      "text": "fm yn mun kap mache nan verite a",
+      "userDeviceId": "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+      "userName": "pa Kitem viv san prezans u nan vim BNDYE u c sus lavim ki pap janm seche  m renmnw BNDYE",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777853963727,
+      "updatedAt": 1777853963727,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
-  "shareCount": 1,
-  "viewCount": 129,
+  "shareCount": 2,
+  "viewCount": 309,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe"
   ],
