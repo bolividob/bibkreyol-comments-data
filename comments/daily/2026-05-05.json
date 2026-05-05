@@ -1,9 +1,39 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777975625745,
+  "updatedAt": 1777975748034,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777975643710",
+      "text": "salut Bondye benin nou 🤍",
+      "userDeviceId": "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753",
+      "userName": "Amen Bondye grand",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753"
+      ],
+      "createdAt": 1777975748034,
+      "updatedAt": 1777975748034,
+      "status": "active"
+    },
+    {
+      "id": "local-1777975737212",
+      "text": "Amen",
+      "userDeviceId": "7ec4dddf3557f0233f50ecd2da277cf0eb5024afdd10cf98ec564f02f6089a02",
+      "userName": "Marie",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777975748034,
+      "updatedAt": 1777975748034,
+      "status": "active"
+    },
     {
       "id": "local-1777975568516",
       "text": "salut Bondye benin nou 🤍",
@@ -253,9 +283,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 95,
-  "viewCount": 5854,
+  "likeCount": 41,
+  "shareCount": 96,
+  "viewCount": 5887,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -296,7 +326,8 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "908592f8e94f03aec55a09f4fd1567227b3eb9e6c124b2dfe0357b9a9f0376be",
     "c2ff49c0d3e37cd18129071441f11d521bd8c8dcfe3487557e36245ee3d5ec3f",
-    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
+    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+    "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1"
   ],
   "verseViewBy": []
 }
