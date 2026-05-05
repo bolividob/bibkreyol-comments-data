@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1778015467074,
+  "updatedAt": 1778015587236,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778015468323",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778015587236,
+      "updatedAt": 1778015587236,
+      "status": "active"
+    },
     {
       "id": "local-1778006690232",
       "text": "Mesi paske ou ede nou teste app la.",
@@ -600,9 +614,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 108,
+  "likeCount": 109,
   "shareCount": 239,
-  "viewCount": 13744,
+  "viewCount": 13775,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -711,7 +725,8 @@
     "064e634b039e036ae9381f3a0b4b93333ce70079abe5cbc33e374ba8973c7c6e",
     "e6839e7bf8cc1c00e668e2d85c7e6e40b1ef84bfb71541d0eb442e6303a1ea64",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
-    "8b7f6873f8701f898add0f0ec6c766258ded5f01cd8c540443f7d3c8f6f4b851"
+    "8b7f6873f8701f898add0f0ec6c766258ded5f01cd8c540443f7d3c8f6f4b851",
+    "672fcf60924e455d61f9cc35c8e677721df4fc569019de946f910eb96f8a1ea7"
   ],
   "verseViewBy": []
 }
