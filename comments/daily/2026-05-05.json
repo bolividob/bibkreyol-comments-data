@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777977667044,
+  "updatedAt": 1777977792851,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777977747360",
+      "text": "BNDYE GRAN",
+      "userDeviceId": "2c805a9b16f85322254bd066c2f2633836e609c90671fe832d72502a86e0818a",
+      "userName": "PIERRE ESTEVENSON",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777977792851,
+      "updatedAt": 1777977792851,
+      "status": "active"
+    },
     {
       "id": "local-1777977494994",
       "text": "Amen 🙏",
@@ -355,7 +369,7 @@
   ],
   "likeCount": 48,
   "shareCount": 117,
-  "viewCount": 6394,
+  "viewCount": 6428,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
