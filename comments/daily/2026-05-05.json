@@ -1,9 +1,37 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777995191918,
+  "updatedAt": 1777995434155,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777995191545",
+      "text": "gloire",
+      "userDeviceId": "0bc331841127ff5edb771bb4bc89ae61b8c788710d4626a3f555912c09e99c25",
+      "userName": "Peterson Dervil",
+      "verseName": "Jowèl 1:5",
+      "parentId": "local-1777988942805",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777995434155,
+      "updatedAt": 1777995434155,
+      "status": "active"
+    },
+    {
+      "id": "local-1777995209547",
+      "text": "kouzen",
+      "userDeviceId": "0bc331841127ff5edb771bb4bc89ae61b8c788710d4626a3f555912c09e99c25",
+      "userName": "Peterson Dervil",
+      "verseName": "Jowèl 1:5",
+      "parentId": "local-1777983989127",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777995434155,
+      "updatedAt": 1777995434155,
+      "status": "active"
+    },
     {
       "id": "local-1777993502534",
       "text": "Dieu est grand",
@@ -39,11 +67,11 @@
       "userName": "darline",
       "verseName": "Jowèl 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777989071167,
-      "updatedAt": 1777989071167,
+      "updatedAt": 1777995434155,
       "status": "active"
     },
     {
@@ -67,11 +95,13 @@
       "userName": "dervilfechely@gmail.com",
       "verseName": "Jowèl 1:5",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "0bc331841127ff5edb771bb4bc89ae61b8c788710d4626a3f555912c09e99c25"
+      ],
       "createdAt": 1777984031153,
-      "updatedAt": 1777984031153,
+      "updatedAt": 1777995434155,
       "status": "active"
     },
     {
@@ -494,8 +524,8 @@
     }
   ],
   "likeCount": 84,
-  "shareCount": 201,
-  "viewCount": 9935,
+  "shareCount": 203,
+  "viewCount": 9991,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
