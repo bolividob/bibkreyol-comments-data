@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1778017146066,
+  "updatedAt": 1778017267214,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778017164110",
+      "text": "Bondy beni nou",
+      "userDeviceId": "7b95d5e11180e01b2d7bcb897cabf49ce4fe785420a0ab173c7fef55ae5b0370",
+      "userName": "Som",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778017267214,
+      "updatedAt": 1778017267214,
+      "status": "active"
+    },
     {
       "id": "local-1778016733255",
       "text": "Merci BONDIEU",
@@ -630,7 +644,7 @@
   ],
   "likeCount": 114,
   "shareCount": 243,
-  "viewCount": 14157,
+  "viewCount": 14184,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
