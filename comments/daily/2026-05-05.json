@@ -1,9 +1,37 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777956004225,
+  "updatedAt": 1777956126152,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777956020610",
+      "text": "Amen",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777956126152,
+      "updatedAt": 1777956126152,
+      "status": "active"
+    },
+    {
+      "id": "local-1777956103237",
+      "text": "saint doming",
+      "userDeviceId": "a552d08fa3ff5e160e3451b49d40bb694b40bd2d8aad1805abcb0774c21ea829",
+      "userName": "Selimene",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777956126152,
+      "updatedAt": 1777956126152,
+      "status": "active"
+    },
     {
       "id": "local-1777954979728",
       "text": "prepare nou pou nou al fe yon sel app Dye",
@@ -119,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
-  "shareCount": 37,
-  "viewCount": 3907,
+  "likeCount": 29,
+  "shareCount": 38,
+  "viewCount": 3921,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -150,7 +178,8 @@
     "43a68353c7ff4b1e202125bb2292242eeec0e86d14ceac04273c1239294a0e19",
     "4d60187657b637625c4bcb09c510194c678ea7569b18ac23a7d9a997db54b723",
     "e15b801792187a24aa5122b1de5146176305085c2c3e61bf42532d28805b536e",
-    "6043c46c7f1e3e6c2f47e6745806d36e9dd66c7fe4b811e633031f1525ef6520"
+    "6043c46c7f1e3e6c2f47e6745806d36e9dd66c7fe4b811e633031f1525ef6520",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
   ],
   "verseViewBy": []
 }
