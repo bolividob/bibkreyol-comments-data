@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777948525049,
+  "updatedAt": 1777948821534,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777948772260",
+      "text": "mesi senye pou gras ou.",
+      "userDeviceId": "f070ac153ba10266369369b50abaac0a927feb62774ff5205a4ac8575295e917",
+      "userName": "Godies",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777948821534,
+      "updatedAt": 1777948821534,
+      "status": "active"
+    },
     {
       "id": "local-1777946929610",
       "text": "Beni soit L'eternel mon Rocher",
@@ -12,10 +26,12 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f070ac153ba10266369369b50abaac0a927feb62774ff5205a4ac8575295e917"
+      ],
       "createdAt": 1777947248623,
-      "updatedAt": 1777947248623,
+      "updatedAt": 1777948821534,
       "status": "active"
     },
     {
@@ -61,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
-  "shareCount": 20,
-  "viewCount": 2480,
+  "likeCount": 15,
+  "shareCount": 22,
+  "viewCount": 2606,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -78,7 +94,8 @@
     "8fde0e5aa009509c5b6c7bd46f0fdcf24f526c1c18a1cd26963fe51c6b029bab",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "1e1db77b85b2e448d2ae5e423a70c4518fe0ee0425e668f55b2ff27ae3f722cc",
-    "047c978064c18f74f8e6e975d90956e15223f4c1044cea9e786844f573fb178d"
+    "047c978064c18f74f8e6e975d90956e15223f4c1044cea9e786844f573fb178d",
+    "a96727663ca0177d8102959850d7483e66dd59a311039e66febf5a90ca6c90fb"
   ],
   "verseViewBy": []
 }
