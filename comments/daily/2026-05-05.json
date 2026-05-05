@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777944489356,
+  "updatedAt": 1777944992025,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777944754461",
+      "text": "🙏🙏",
+      "userDeviceId": "633567f72dbe5b6ea5512403eba51be44be77871ae22e3a5ba2f311b0eb28e50",
+      "userName": "🙏🙏🙏",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777944992025,
+      "updatedAt": 1777944992025,
+      "status": "active"
+    },
     {
       "id": "local-1777944240106",
       "text": "Amen, kote nou frem ak sem.",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 7,
-  "shareCount": 13,
-  "viewCount": 1221,
+  "shareCount": 14,
+  "viewCount": 1422,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
