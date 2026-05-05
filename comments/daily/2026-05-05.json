@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1778011034296,
+  "updatedAt": 1778011150376,
   "version": 1,
   "comments": [
     {
@@ -135,12 +135,13 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "f87e86a52df39234e35aae261aac09c851a8d8647cf7909f8f06c938bf9aecdb"
+        "f87e86a52df39234e35aae261aac09c851a8d8647cf7909f8f06c938bf9aecdb",
+        "8d217c4d4de59e0662eb432c2bb7a93448448321ea9892f9525472dc5d6ed96c"
       ],
       "createdAt": 1777989071167,
-      "updatedAt": 1778009584350,
+      "updatedAt": 1778011150376,
       "status": "active"
     },
     {
@@ -599,8 +600,8 @@
     }
   ],
   "likeCount": 103,
-  "shareCount": 227,
-  "viewCount": 12722,
+  "shareCount": 229,
+  "viewCount": 12763,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
