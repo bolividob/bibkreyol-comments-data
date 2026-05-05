@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777948821534,
+  "updatedAt": 1777950931025,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777950636746",
+      "text": "gras la kouvri nou tout.",
+      "userDeviceId": "db192f9205607272d8065aeb2a1fb793e79f944ff00c3f75025b0798a1f7b235",
+      "userName": "Anoni",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777950931025,
+      "updatedAt": 1777950931025,
+      "status": "active"
+    },
     {
       "id": "local-1777948772260",
       "text": "mesi senye pou gras ou.",
@@ -31,7 +45,7 @@
         "f070ac153ba10266369369b50abaac0a927feb62774ff5205a4ac8575295e917"
       ],
       "createdAt": 1777947248623,
-      "updatedAt": 1777948821534,
+      "updatedAt": 1777950931024,
       "status": "active"
     },
     {
@@ -79,7 +93,7 @@
   ],
   "likeCount": 15,
   "shareCount": 22,
-  "viewCount": 2606,
+  "viewCount": 2804,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
