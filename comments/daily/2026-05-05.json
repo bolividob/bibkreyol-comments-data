@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1778006584801,
+  "updatedAt": 1778006706583,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778006690232",
+      "text": "Mesi paske ou ede nou teste app la.",
+      "userDeviceId": "055c45a33d4c394f26fb8c8bdf0d66c64c6ef80c89a2e2bdc8d1ce32e652cc35",
+      "userName": "Bib Kreyol",
+      "verseName": "Jowèl 1:5",
+      "parentId": "local-1778004471393",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778006706583,
+      "updatedAt": 1778006706583,
+      "status": "active"
+    },
     {
       "id": "local-1778005579140",
       "text": "wi li an es, fr, en, kr",
@@ -26,12 +40,13 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "80c92d1401fedeee0e4f7259480d1b9da0c4c2b830aafb1d088c663ccc2e41db"
+        "80c92d1401fedeee0e4f7259480d1b9da0c4c2b830aafb1d088c663ccc2e41db",
+        "055c45a33d4c394f26fb8c8bdf0d66c64c6ef80c89a2e2bdc8d1ce32e652cc35"
       ],
       "createdAt": 1778005384904,
-      "updatedAt": 1778005748066,
+      "updatedAt": 1778006706583,
       "status": "active"
     },
     {
@@ -41,13 +56,14 @@
       "userName": "Espanish",
       "verseName": "Jowèl 1:5",
       "parentId": null,
-      "replyCount": 1,
-      "likeCount": 1,
+      "replyCount": 2,
+      "likeCount": 2,
       "likedBy": [
-        "80c92d1401fedeee0e4f7259480d1b9da0c4c2b830aafb1d088c663ccc2e41db"
+        "80c92d1401fedeee0e4f7259480d1b9da0c4c2b830aafb1d088c663ccc2e41db",
+        "055c45a33d4c394f26fb8c8bdf0d66c64c6ef80c89a2e2bdc8d1ce32e652cc35"
       ],
       "createdAt": 1778004547537,
-      "updatedAt": 1778005748066,
+      "updatedAt": 1778006706583,
       "status": "active"
     },
     {
@@ -571,7 +587,7 @@
   ],
   "likeCount": 96,
   "shareCount": 218,
-  "viewCount": 12046,
+  "viewCount": 12065,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
