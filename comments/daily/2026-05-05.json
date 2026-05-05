@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777987030689,
+  "updatedAt": 1777987146242,
   "version": 1,
   "comments": [
     {
@@ -56,10 +56,12 @@
       "verseName": "Detewonòm 13:9",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6cf2c75a4f6d085193c72b988f6ad166e83e9f11c3c1d0942e6b454f62f33e6c"
+      ],
       "createdAt": 1777981390491,
-      "updatedAt": 1777981390491,
+      "updatedAt": 1777987146242,
       "status": "active"
     },
     {
@@ -154,12 +156,13 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0",
+        "6cf2c75a4f6d085193c72b988f6ad166e83e9f11c3c1d0942e6b454f62f33e6c"
       ],
       "createdAt": 1777976466890,
-      "updatedAt": 1777982360807,
+      "updatedAt": 1777987146242,
       "status": "active"
     },
     {
@@ -450,7 +453,7 @@
   ],
   "likeCount": 69,
   "shareCount": 176,
-  "viewCount": 8385,
+  "viewCount": 8406,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
