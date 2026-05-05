@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777977426949,
+  "updatedAt": 1777977558599,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777977494994",
+      "text": "Amen 🙏",
+      "userDeviceId": "86a75ba6149ac79ac0da85c4c0b03eab3d0a97d5119043fa5f5f7b14d090632b",
+      "userName": "Joseph Lina",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777977558599,
+      "updatedAt": 1777977558599,
+      "status": "active"
+    },
     {
       "id": "local-1778023141252",
       "text": "Bonjour Bon matin dans le seigneur",
@@ -339,9 +353,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
+  "likeCount": 48,
   "shareCount": 117,
-  "viewCount": 6335,
+  "viewCount": 6364,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -389,7 +403,8 @@
     "ad1839730086fb4574e37e6c6b5b14aa4437ef36811322cfda7b4e320976b531",
     "5e6684ce81d0a5604354c1507302a9d9f0002705b6a44c46f81cd7c061155ac2",
     "b2cd0b36e727e80fe82da0aa1bd919aea7bb1caac93fdd3b9ccebe5c9fd482d0",
-    "10533619f4cf42effce7e1b79cc7c6ba706325f13ba7a271d3be8eafadd6fb50"
+    "10533619f4cf42effce7e1b79cc7c6ba706325f13ba7a271d3be8eafadd6fb50",
+    "86a75ba6149ac79ac0da85c4c0b03eab3d0a97d5119043fa5f5f7b14d090632b"
   ],
   "verseViewBy": []
 }
