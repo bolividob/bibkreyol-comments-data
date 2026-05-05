@@ -1,9 +1,37 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777983919663,
+  "updatedAt": 1777984031153,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777983980066",
+      "text": "ki te bondye pale pou ou",
+      "userDeviceId": "6e172026acc10b84220451e3c232170a2ca0fa2bf81abe4bb346704ee3ce9f4a",
+      "userName": "wal",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777984031153,
+      "updatedAt": 1777984031153,
+      "status": "active"
+    },
+    {
+      "id": "local-1777983989127",
+      "text": "bondye beni Nou.",
+      "userDeviceId": "a56c1a18291b857676faa9b91e46fc72d030732981bdb0e80b8fb3306b6262e7",
+      "userName": "dervilfechely@gmail.com",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777984031153,
+      "updatedAt": 1777984031153,
+      "status": "active"
+    },
     {
       "id": "local-1777981443473",
       "text": "Amen 🙏 Dieu est fidèle",
@@ -421,8 +449,8 @@
     }
   ],
   "likeCount": 63,
-  "shareCount": 161,
-  "viewCount": 7804,
+  "shareCount": 162,
+  "viewCount": 7827,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
