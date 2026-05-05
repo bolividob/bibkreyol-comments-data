@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777991107382,
+  "updatedAt": 1777991234876,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777988093926",
+      "text": "mwen bzwnw",
+      "userDeviceId": "306dc631fcf39bf12eede81d15f7ed1836a3e23b3d5356d15982cdd339cf4a8b",
+      "userName": "mwen se jonas",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777991234876,
+      "updatedAt": 1777991234876,
+      "status": "active"
+    },
     {
       "id": "local-1777988942805",
       "text": "amén",
@@ -466,8 +480,8 @@
     }
   ],
   "likeCount": 73,
-  "shareCount": 187,
-  "viewCount": 9169,
+  "shareCount": 188,
+  "viewCount": 9190,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
