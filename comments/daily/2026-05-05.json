@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1778019905999,
+  "updatedAt": 1778020152322,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778019959868",
+      "text": "asepte jesus repanti konvèti",
+      "userDeviceId": "2b86f98fc22e221f351cb0736f5a168dcfe77f29fe038f2e730120988bfafeb5",
+      "userName": "love",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778020152322,
+      "updatedAt": 1778020152322,
+      "status": "active"
+    },
     {
       "id": "local-1778018920180",
       "text": "ké bondye beniw nou",
@@ -658,7 +672,7 @@
   ],
   "likeCount": 118,
   "shareCount": 247,
-  "viewCount": 14942,
+  "viewCount": 15012,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
