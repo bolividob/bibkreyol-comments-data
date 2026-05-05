@@ -1,9 +1,37 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777976948773,
+  "updatedAt": 1777977091588,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778023141252",
+      "text": "Bonjour Bon matin dans le seigneur",
+      "userDeviceId": "ad1839730086fb4574e37e6c6b5b14aa4437ef36811322cfda7b4e320976b531",
+      "userName": "Bonjour",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777977091588,
+      "updatedAt": 1777977091588,
+      "status": "active"
+    },
+    {
+      "id": "local-1778023105929",
+      "text": "Bonjour",
+      "userDeviceId": "ad1839730086fb4574e37e6c6b5b14aa4437ef36811322cfda7b4e320976b531",
+      "userName": "Bonjour",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777977091588,
+      "updatedAt": 1777977091588,
+      "status": "active"
+    },
     {
       "id": "local-1777976686084",
       "text": "l'eternel est createur",
@@ -312,8 +340,8 @@
     }
   ],
   "likeCount": 44,
-  "shareCount": 107,
-  "viewCount": 6213,
+  "shareCount": 110,
+  "viewCount": 6249,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
