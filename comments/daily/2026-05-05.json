@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777993387232,
+  "updatedAt": 1777993517257,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777993502534",
+      "text": "Dieu est grand",
+      "userDeviceId": "8e044afb9769e62588cfe9d45736820183d1da76d034bf854fdc32325af05265",
+      "userName": "Berline",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777993517257,
+      "updatedAt": 1777993517257,
+      "status": "active"
+    },
     {
       "id": "local-1777988093926",
       "text": "mwen bzwnw",
@@ -479,9 +493,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 80,
-  "shareCount": 196,
-  "viewCount": 9578,
+  "likeCount": 81,
+  "shareCount": 197,
+  "viewCount": 9598,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -562,7 +576,8 @@
     "4ef57698bfa6eca9763fc98b95ae645250bdff0f2ba11f9f5289849acb8a486f",
     "91b67944930e9815dfc33da680ff2dda9393bef141d06a7d98d12a136a0e5e50",
     "e9025f37b038499065d3bdb1debc03e48cbafcb21a05ffed862ceaf020307b73",
-    "91525fdcf0df5f63f5f5110114d92f433c27609d6852ecf5a4f3055f3daf7021"
+    "91525fdcf0df5f63f5f5110114d92f433c27609d6852ecf5a4f3055f3daf7021",
+    "8e044afb9769e62588cfe9d45736820183d1da76d034bf854fdc32325af05265"
   ],
   "verseViewBy": []
 }
