@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1778005505568,
+  "updatedAt": 1778005748067,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778005579140",
+      "text": "wi li an es, fr, en, kr",
+      "userDeviceId": "80c92d1401fedeee0e4f7259480d1b9da0c4c2b830aafb1d088c663ccc2e41db",
+      "userName": "Amino",
+      "verseName": "Jowèl 1:5",
+      "parentId": "local-1778004471393",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778005748066,
+      "updatedAt": 1778005748066,
+      "status": "active"
+    },
     {
       "id": "local-1778005302739",
       "text": "Pa bliye ti tan wap fe la vremain kout, li important pou konen sa pou w fe pou preparew pandan la.",
@@ -12,10 +26,12 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "80c92d1401fedeee0e4f7259480d1b9da0c4c2b830aafb1d088c663ccc2e41db"
+      ],
       "createdAt": 1778005384904,
-      "updatedAt": 1778005384904,
+      "updatedAt": 1778005748066,
       "status": "active"
     },
     {
@@ -25,11 +41,13 @@
       "userName": "Espanish",
       "verseName": "Jowèl 1:5",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "80c92d1401fedeee0e4f7259480d1b9da0c4c2b830aafb1d088c663ccc2e41db"
+      ],
       "createdAt": 1778004547537,
-      "updatedAt": 1778004547537,
+      "updatedAt": 1778005748066,
       "status": "active"
     },
     {
@@ -553,7 +571,7 @@
   ],
   "likeCount": 95,
   "shareCount": 216,
-  "viewCount": 11912,
+  "viewCount": 11946,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
