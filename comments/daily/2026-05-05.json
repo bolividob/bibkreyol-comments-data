@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777975511828,
+  "updatedAt": 1777975625745,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777975568516",
+      "text": "salut Bondye benin nou 🤍",
+      "userDeviceId": "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753",
+      "userName": "Amen Bondye grand",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777975625745,
+      "updatedAt": 1777975625745,
+      "status": "active"
+    },
     {
       "id": "local-1777974951614",
       "text": "Aménnn✝️",
@@ -241,7 +255,7 @@
   ],
   "likeCount": 40,
   "shareCount": 95,
-  "viewCount": 5831,
+  "viewCount": 5854,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
