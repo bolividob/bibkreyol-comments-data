@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777988824962,
+  "updatedAt": 1777989071167,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777988942805",
+      "text": "amén",
+      "userDeviceId": "ed1145d846ed978767b282a433774924aa2361fc2b20e6b81d4a4381fa04918f",
+      "userName": "darline",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777989071167,
+      "updatedAt": 1777989071167,
+      "status": "active"
+    },
     {
       "id": "local-1777983980066",
       "text": "ki te bondye pale pou ou",
@@ -451,9 +465,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
-  "shareCount": 180,
-  "viewCount": 8729,
+  "likeCount": 70,
+  "shareCount": 181,
+  "viewCount": 8769,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -523,7 +537,8 @@
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "b3cc3e195019ceb995a71eb0cf241a1011db37fd315c38ae0a86391f04e3436f",
     "4a9d5605b89d40eceeef4a40524508358704c3ae58c1cd5ae30acbc6b995de1b",
-    "0c6b1fa16b4543a90488690845c710fbacceeeddd8dd154666f94ce24ab30f30"
+    "0c6b1fa16b4543a90488690845c710fbacceeeddd8dd154666f94ce24ab30f30",
+    "ed1145d846ed978767b282a433774924aa2361fc2b20e6b81d4a4381fa04918f"
   ],
   "verseViewBy": []
 }
