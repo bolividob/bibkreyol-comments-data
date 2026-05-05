@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777982105834,
+  "updatedAt": 1777982360807,
   "version": 1,
   "comments": [
     {
@@ -42,10 +42,12 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
+      ],
       "createdAt": 1777980788690,
-      "updatedAt": 1777980788690,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -59,7 +61,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777977792851,
-      "updatedAt": 1777977792851,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -73,7 +75,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777977558599,
-      "updatedAt": 1777977558599,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -87,7 +89,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777977091588,
-      "updatedAt": 1777977091588,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -98,10 +100,12 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
+      ],
       "createdAt": 1777977091588,
-      "updatedAt": 1777977091588,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -115,7 +119,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777976709325,
-      "updatedAt": 1777976709325,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -126,10 +130,12 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
+      ],
       "createdAt": 1777976466890,
-      "updatedAt": 1777976466890,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -140,12 +146,13 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753"
+        "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753",
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
       ],
       "createdAt": 1777975748034,
-      "updatedAt": 1777975748034,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -159,7 +166,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777975748034,
-      "updatedAt": 1777975748034,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -173,7 +180,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777975625745,
-      "updatedAt": 1777975625745,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -187,7 +194,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1777974965613,
-      "updatedAt": 1777974965613,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -198,10 +205,12 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
+      ],
       "createdAt": 1777974612420,
-      "updatedAt": 1777974612420,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -212,10 +221,12 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
+      ],
       "createdAt": 1777969324333,
-      "updatedAt": 1777969324333,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -311,7 +322,7 @@
         "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
       ],
       "createdAt": 1777952014087,
-      "updatedAt": 1777965486492,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -338,12 +349,13 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f",
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
       ],
       "createdAt": 1777948821534,
-      "updatedAt": 1777965486492,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -354,12 +366,13 @@
       "verseName": "Jowèl 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "f070ac153ba10266369369b50abaac0a927feb62774ff5205a4ac8575295e917"
+        "f070ac153ba10266369369b50abaac0a927feb62774ff5205a4ac8575295e917",
+        "34466ee9808e210a182084c06d59e3ec75e21bcbede8ecd3cf140d115bd719f0"
       ],
       "createdAt": 1777947248623,
-      "updatedAt": 1777950931024,
+      "updatedAt": 1777982360807,
       "status": "active"
     },
     {
@@ -412,8 +425,8 @@
     }
   ],
   "likeCount": 60,
-  "shareCount": 150,
-  "viewCount": 7423,
+  "shareCount": 155,
+  "viewCount": 7475,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
