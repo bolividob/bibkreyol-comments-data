@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1778018829950,
+  "updatedAt": 1778018948743,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778018920180",
+      "text": "ké bondye beniw nou",
+      "userDeviceId": "298ddbddeaf1d7aa6150e27d796aacab2130f9813eeb5c6800463b51213dbf51",
+      "userName": "Amen and Amen 🙏",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778018948743,
+      "updatedAt": 1778018948743,
+      "status": "active"
+    },
     {
       "id": "local-1778017164110",
       "text": "Bondy beni nou",
@@ -644,7 +658,7 @@
   ],
   "likeCount": 115,
   "shareCount": 245,
-  "viewCount": 14641,
+  "viewCount": 14677,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
