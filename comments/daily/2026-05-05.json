@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777951508799,
+  "updatedAt": 1777952014087,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777951533336",
+      "text": "Merci Jesus",
+      "userDeviceId": "3349440bb4ec2e1eb2d035fa97bd913c166eff78eb5a346feecc2594f149442d",
+      "userName": "osee",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777952014087,
+      "updatedAt": 1777952014087,
+      "status": "active"
+    },
     {
       "id": "local-1777950636746",
       "text": "gras la kouvri nou tout.",
@@ -91,9 +105,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 17,
-  "shareCount": 23,
-  "viewCount": 3042,
+  "likeCount": 23,
+  "shareCount": 27,
+  "viewCount": 3245,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
@@ -111,7 +125,13 @@
     "047c978064c18f74f8e6e975d90956e15223f4c1044cea9e786844f573fb178d",
     "a96727663ca0177d8102959850d7483e66dd59a311039e66febf5a90ca6c90fb",
     "b070f2c35c70de6c8a24c7d5eec2d5d38f4cbed2266b59d511a277fff037c473",
-    "06171ed047c0fd7f43e5561c4971921f396e8a77334ad3afbe1f02038cee5cf7"
+    "06171ed047c0fd7f43e5561c4971921f396e8a77334ad3afbe1f02038cee5cf7",
+    "3349440bb4ec2e1eb2d035fa97bd913c166eff78eb5a346feecc2594f149442d",
+    "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
+    "8508cc91ccc785e4deb649a10857ed3de3c94794b87619706ce56f33d70d3cc0",
+    "3e21f92ea94c648cce20df9b241dd219277519fa134eaf9f0c6030f66b881f6d",
+    "3dafe5ee8a555f8ace1bdc4f9754beafb7ffb3f2dc072994114ddef94a2c3607",
+    "8313d0eca7e3a6f91dbcfa6b15972ef92b60a1c15b178029c9dd4a3e54f0d624"
   ],
   "verseViewBy": []
 }
