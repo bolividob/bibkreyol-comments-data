@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777976347414,
+  "updatedAt": 1777976466890,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777976410791",
+      "text": "tout glwa pou Bondye 🙏",
+      "userDeviceId": "5fc45742c5c5937d792ca70723074cffcdf600b45c2e0deaefe2f2d8dfab9ca0",
+      "userName": "lovah",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777976466890,
+      "updatedAt": 1777976466890,
+      "status": "active"
+    },
     {
       "id": "local-1777975643710",
       "text": "salut Bondye benin nou 🤍",
@@ -284,8 +298,8 @@
     }
   ],
   "likeCount": 44,
-  "shareCount": 100,
-  "viewCount": 6048,
+  "shareCount": 101,
+  "viewCount": 6079,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
