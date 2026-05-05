@@ -1,16 +1,34 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777944143627,
+  "updatedAt": 1777944254524,
   "version": 1,
-  "comments": [],
-  "likeCount": 3,
-  "shareCount": 12,
-  "viewCount": 1082,
+  "comments": [
+    {
+      "id": "local-1777944240106",
+      "text": "Amen, kote nou frem ak sem.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "big brother",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777944254524,
+      "updatedAt": 1777944254524,
+      "status": "active"
+    }
+  ],
+  "likeCount": 6,
+  "shareCount": 13,
+  "viewCount": 1123,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
-    "ee7304229620f68dfa231ae59f7191a89b690e2b62d6d06c8a94e6f55349c3db"
+    "ee7304229620f68dfa231ae59f7191a89b690e2b62d6d06c8a94e6f55349c3db",
+    "9e6d5ca69923d066ce49a2f34d88c45a84bb205d14684e04144889d72b4a48d4",
+    "47493751e93821aff84f560178417067515983acf6ec83cd90e3a315aa965f43",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
