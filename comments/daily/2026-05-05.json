@@ -1,9 +1,23 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777954925045,
+  "updatedAt": 1777955047362,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777954979728",
+      "text": "prepare nou pou nou al fe yon sel app Dye",
+      "userDeviceId": "e5f70e7e437cf6d130a4c72a24b813e09a65a4508e4bd83377d29f91df308a57",
+      "userName": "Djenan",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777955047362,
+      "updatedAt": 1777955047362,
+      "status": "active"
+    },
     {
       "id": "local-1777951533336",
       "text": "Merci Jesus",
@@ -107,7 +121,7 @@
   ],
   "likeCount": 26,
   "shareCount": 33,
-  "viewCount": 3703,
+  "viewCount": 3733,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
