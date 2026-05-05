@@ -1,9 +1,37 @@
 {
   "date": "2026-05-05",
   "verseKey": "daily:2026-05-05",
-  "updatedAt": 1777945810815,
+  "updatedAt": 1777947248623,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1777946929610",
+      "text": "Beni soit L'eternel mon Rocher",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777947248623,
+      "updatedAt": 1777947248623,
+      "status": "active"
+    },
+    {
+      "id": "local-1777946852625",
+      "text": "Amen",
+      "userDeviceId": "6d8539d283bacbdb7b81337f4f676480020e70568b699456955cff0840b25e94",
+      "userName": "fr youkendy",
+      "verseName": "Jowèl 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1777947248623,
+      "updatedAt": 1777947248623,
+      "status": "active"
+    },
     {
       "id": "local-1777944754461",
       "text": "🙏🙏",
@@ -35,7 +63,7 @@
   ],
   "likeCount": 9,
   "shareCount": 17,
-  "viewCount": 1860,
+  "viewCount": 1907,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "94097462a915ddf9e196c551d4a3cc47e51bbc5ea4bab221cb679221e3bfaf65",
