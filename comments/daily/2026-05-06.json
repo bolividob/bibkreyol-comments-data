@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778046482748,
+  "updatedAt": 1778046604102,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778046562601",
+      "text": "Amèn",
+      "userDeviceId": "14f83c182c2fafffc4930d109490ba3c66d5ebfc62e31e69dd6fb0ae1c64dbcd",
+      "userName": "china",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778046604102,
+      "updatedAt": 1778046604102,
+      "status": "active"
+    },
     {
       "id": "local-1778042073828",
       "text": "papa ooo",
@@ -181,9 +195,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
+  "likeCount": 28,
   "shareCount": 45,
-  "viewCount": 4354,
+  "viewCount": 4365,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -211,7 +225,8 @@
     "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19",
     "266eefbda27f321347838265d5c5f309c0a4bf7e8e157ba39343806ddb1be2f6",
     "6c57f803cce0fb1fc1f5bc0b2d473319ff4d6101181d2a205a3dfb87a39b5922",
-    "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610"
+    "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
+    "14f83c182c2fafffc4930d109490ba3c66d5ebfc62e31e69dd6fb0ae1c64dbcd"
   ],
   "verseViewBy": []
 }
