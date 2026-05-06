@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778061665544,
+  "updatedAt": 1778061912391,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778061706382",
+      "text": "Pran pitié pou moin papa ✝️moin bezwen nan lavim 😭bagay yo di pou moin 🤦m pa wé anwi m pa wé anba 🙇🏾‍♀️🙇🏾‍♀️",
+      "userDeviceId": "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+      "userName": "Yveline",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778061912390,
+      "updatedAt": 1778061912390,
+      "status": "active"
+    },
     {
       "id": "local-1778061196302",
       "text": "Amén",
@@ -12,10 +26,12 @@
       "verseName": "Efezyen 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
+      ],
       "createdAt": 1778061430505,
-      "updatedAt": 1778061430505,
+      "updatedAt": 1778061912391,
       "status": "active"
     },
     {
@@ -269,9 +285,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 80,
-  "viewCount": 5849,
+  "likeCount": 50,
+  "shareCount": 83,
+  "viewCount": 5904,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -321,7 +337,8 @@
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
-    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
+    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+    "c105a80205401eac084f8b5c187801cc85ddb3c57b8818cf15b5898c6a428673"
   ],
   "verseViewBy": []
 }
