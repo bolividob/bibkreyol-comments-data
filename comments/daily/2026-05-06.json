@@ -1,9 +1,37 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778060345963,
+  "updatedAt": 1778060464316,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778060341616",
+      "text": "ke volonte ou fêt Bondye papa,🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778060464316,
+      "updatedAt": 1778060464316,
+      "status": "active"
+    },
+    {
+      "id": "local-1778060449915",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778060464316,
+      "updatedAt": 1778060464316,
+      "status": "active"
+    },
     {
       "id": "local-1778051386427",
       "text": "Amen 🙏",
@@ -225,9 +253,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
-  "shareCount": 75,
-  "viewCount": 5587,
+  "likeCount": 46,
+  "shareCount": 76,
+  "viewCount": 5599,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -273,7 +301,8 @@
     "a0184069ada0be57d5b6a10a648820283134849dbc012bb3abbbf9ddc4df6a09",
     "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
     "ac69c5ad1e76ce95d7ccfe5092e31f066a3acee16be83b2a9ea69c5a318953b2",
-    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
   ],
   "verseViewBy": []
 }
