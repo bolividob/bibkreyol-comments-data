@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-06",
+  "verseKey": "daily:2026-05-06",
+  "updatedAt": 1778026576348,
+  "version": 1,
+  "comments": [
+    {
+      "id": "local-1778078254873",
+      "text": "jezi est grand",
+      "userDeviceId": "dff488b4b6d8ad6e128232cc3ff2fdae827812be6b5286716f8c7688153f9b61",
+      "userName": "michelène calixte",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778026576348,
+      "updatedAt": 1778026576348,
+      "status": "active"
+    },
+    {
+      "id": "local-1778078271120",
+      "text": "jezi ademen",
+      "userDeviceId": "dff488b4b6d8ad6e128232cc3ff2fdae827812be6b5286716f8c7688153f9b61",
+      "userName": "michelène calixte",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778026576348,
+      "updatedAt": 1778026576348,
+      "status": "active"
+    },
+    {
+      "id": "local-1778078288565",
+      "text": "wi",
+      "userDeviceId": "dff488b4b6d8ad6e128232cc3ff2fdae827812be6b5286716f8c7688153f9b61",
+      "userName": "michelène calixte",
+      "verseName": "Efezyen 1:1",
+      "parentId": "local-1778078271120",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778026576348,
+      "updatedAt": 1778026576348,
+      "status": "active"
+    }
+  ],
+  "likeCount": 1,
+  "shareCount": 1,
+  "viewCount": 97,
+  "verseLikedBy": [
+    "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d"
+  ],
+  "verseViewBy": []
+}
