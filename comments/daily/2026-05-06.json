@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778032088867,
+  "updatedAt": 1778032209551,
   "version": 1,
   "comments": [
     {
@@ -68,12 +68,13 @@
       "verseName": "Efezyen 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "38088958608954f969b5029dfa7738027efde69457f78e04facd1fd2f6a1f997"
+        "38088958608954f969b5029dfa7738027efde69457f78e04facd1fd2f6a1f997",
+        "89e3e0668757b2c0bff8ef96813d1250b069373a46e3a426444c41b0ade3a02d"
       ],
       "createdAt": 1778027608236,
-      "updatedAt": 1778027608236,
+      "updatedAt": 1778032209551,
       "status": "active"
     },
     {
@@ -100,12 +101,13 @@
       "verseName": "Efezyen 1:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "cb2c7463af86c4a96a59c023f71f65d7f51637f3a9f332d2591652bc91e9ce1b"
+        "cb2c7463af86c4a96a59c023f71f65d7f51637f3a9f332d2591652bc91e9ce1b",
+        "89e3e0668757b2c0bff8ef96813d1250b069373a46e3a426444c41b0ade3a02d"
       ],
       "createdAt": 1778026576348,
-      "updatedAt": 1778027311356,
+      "updatedAt": 1778032209551,
       "status": "active"
     },
     {
@@ -123,9 +125,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 19,
-  "viewCount": 1646,
+  "viewCount": 1693,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -133,7 +135,8 @@
     "5d5736969c85f974c1a1bd2e131c1baafec6e78dfe8a54ac21ffa2eafb4c4fb8",
     "5736f3f11b05dd482f96324764665c94197f605fb1aab071ee74674afa9148f4",
     "99b2ee3ae8bf08440a756a769e49899a3bb20e877ce5440d2390c55351ae829d",
-    "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd"
+    "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
+    "89e3e0668757b2c0bff8ef96813d1250b069373a46e3a426444c41b0ade3a02d"
   ],
   "verseViewBy": []
 }
