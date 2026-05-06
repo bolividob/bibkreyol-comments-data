@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778038514357,
+  "updatedAt": 1778038690903,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778038567675",
+      "text": "Ki address la?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "Efezyen 1:1",
+      "parentId": "local-1778029605533",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778038690903,
+      "updatedAt": 1778038690903,
+      "status": "active"
+    },
     {
       "id": "local-1778032202320",
       "text": "jezi hoôooo",
@@ -53,11 +67,11 @@
       "userName": "mon prof",
       "verseName": "Efezyen 1:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1778030529119,
-      "updatedAt": 1778030529119,
+      "updatedAt": 1778038690903,
       "status": "active"
     },
     {
@@ -139,9 +153,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 17,
-  "shareCount": 34,
-  "viewCount": 3190,
+  "likeCount": 18,
+  "shareCount": 35,
+  "viewCount": 3253,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -159,7 +173,8 @@
     "1b1aa2d364d5f04c85e8a444e77066f68aefe0a021e1563d958ecad4601240c9",
     "23c100092cc4a7dcf1ca31ba3b65b307f78fc15655cd9e7fc3bc11668db73cd0",
     "99129e3c4722407595f1280f9ce23c5269ca0bccf0542c45e8769f1f8951045f",
-    "824bce72c17a9e782e2a01a1104c1cc4496991013736931c1111acb4b8154617"
+    "824bce72c17a9e782e2a01a1104c1cc4496991013736931c1111acb4b8154617",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
