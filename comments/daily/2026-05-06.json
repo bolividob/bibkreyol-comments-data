@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778088187696,
+  "updatedAt": 1778088323153,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778088267902",
+      "text": "amen amen amen amen",
+      "userDeviceId": "48040ab1f24c1070fd47a1842b4358d82945f2898150f7c52d442a0d9e04fe33",
+      "userName": "fre Destine clotesse",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778088323153,
+      "updatedAt": 1778088323153,
+      "status": "active"
+    },
     {
       "id": "local-1778086361905",
       "text": "non",
@@ -445,7 +459,7 @@
   ],
   "likeCount": 91,
   "shareCount": 203,
-  "viewCount": 11626,
+  "viewCount": 11652,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
