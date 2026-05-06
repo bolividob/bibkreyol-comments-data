@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778086147357,
+  "updatedAt": 1778086266885,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778082475906",
+      "text": "amen",
+      "userDeviceId": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
+      "userName": "sr sansann",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778086266885,
+      "updatedAt": 1778086266885,
+      "status": "active"
+    },
     {
       "id": "local-1778084931455",
       "text": "Jésus min mw wi papa 😟🤕😔😭😭😭😭",
@@ -417,7 +431,7 @@
   ],
   "likeCount": 86,
   "shareCount": 202,
-  "viewCount": 11230,
+  "viewCount": 11258,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
