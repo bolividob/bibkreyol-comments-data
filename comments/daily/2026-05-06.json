@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778051526353,
+  "updatedAt": 1778051764092,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778051386427",
+      "text": "Amen 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778051764092,
+      "updatedAt": 1778051764092,
+      "status": "active"
+    },
     {
       "id": "local-1778050222154",
       "text": "ou son bon papa saw pa fè se saw pa vle 🙏 jou ma delivre a ki jou lap ye 🙏pa mi moun wap Beni yo jezi met no m mwen 🙏🙏",
@@ -211,9 +225,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
+  "likeCount": 32,
   "shareCount": 53,
-  "viewCount": 4691,
+  "viewCount": 4701,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -245,7 +259,8 @@
     "14f83c182c2fafffc4930d109490ba3c66d5ebfc62e31e69dd6fb0ae1c64dbcd",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "1a245ddeae3d4774e6a9146b72e40da9492986d866cb2c663ea81b7df140deee",
-    "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733"
+    "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
