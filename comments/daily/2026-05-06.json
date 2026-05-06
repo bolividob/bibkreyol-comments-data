@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778086266885,
+  "updatedAt": 1778086519577,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778086361905",
+      "text": "non",
+      "userDeviceId": "1ca477c9157f6013597811c851f7ee26950d868700493a038880786c2a66a8f7",
+      "userName": "junior orphelien",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778086519577,
+      "updatedAt": 1778086519577,
+      "status": "active"
+    },
     {
       "id": "local-1778082475906",
       "text": "amen",
@@ -429,9 +443,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 86,
+  "likeCount": 88,
   "shareCount": 202,
-  "viewCount": 11258,
+  "viewCount": 11311,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -518,7 +532,9 @@
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "ad5850cfb2a4f60bb05ee7c488c1e45512979e328292bb3cb9cb7d49bafaeaa9",
     "fc9572f675f79c82cf578043a4c8f41d37278605b3c5bc3588a55ad84eda11ef",
-    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414"
+    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
+    "c6738bf0c481269748ceebf2b268563d392737b5eca419b112034b5b45189fbd",
+    "1ca477c9157f6013597811c851f7ee26950d868700493a038880786c2a66a8f7"
   ],
   "verseViewBy": []
 }
