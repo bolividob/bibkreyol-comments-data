@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778039651240,
+  "updatedAt": 1778040969232,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778040643355",
+      "text": "Bondye beniw",
+      "userDeviceId": "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+      "userName": "Bondye beni Nou svp edem periye paske mw santim pap viv",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778040969232,
+      "updatedAt": 1778040969232,
+      "status": "active"
+    },
     {
       "id": "local-1778038567675",
       "text": "Ki address la?",
@@ -153,9 +167,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 19,
+  "likeCount": 20,
   "shareCount": 37,
-  "viewCount": 3581,
+  "viewCount": 3633,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -175,7 +189,8 @@
     "99129e3c4722407595f1280f9ce23c5269ca0bccf0542c45e8769f1f8951045f",
     "824bce72c17a9e782e2a01a1104c1cc4496991013736931c1111acb4b8154617",
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
-    "51b28baf1eab1ff5e625c7a1d468181d4ac1d2942225ba43ff074dd9aef29967"
+    "51b28baf1eab1ff5e625c7a1d468181d4ac1d2942225ba43ff074dd9aef29967",
+    "6f15cefdcbf0d8258f6d5722672e5639b87c87fc00adb8b70ec841d938231829"
   ],
   "verseViewBy": []
 }
