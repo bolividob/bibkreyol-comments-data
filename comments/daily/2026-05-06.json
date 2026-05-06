@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778083472574,
+  "updatedAt": 1778083766019,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778083663494",
+      "text": "eske tout kretyen pral nan syèl",
+      "userDeviceId": "3babd478070822ae1449864b76f7d5d1633f219c02cc32812e1623a7b8e1f0cf",
+      "userName": "Jeudi Jones",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778083766019,
+      "updatedAt": 1778083766019,
+      "status": "active"
+    },
     {
       "id": "local-1778079219923",
       "text": "Amén amén amén 🙏 🙏",
@@ -387,9 +401,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 82,
+  "likeCount": 84,
   "shareCount": 195,
-  "viewCount": 10550,
+  "viewCount": 10641,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -472,7 +486,9 @@
     "798c2a309a83d7747a31ddc5f2ff771708edaf2399ff1d68e353c79c798b1104",
     "eefcb6460004e2427bf35eaada9ce2a396a70e2b024eb5dded594d24b747a78a",
     "82c5b00d99d28fc784f6c8a307e7dc1485bca0d8f81c41761f547e499c711560",
-    "d00f5889604ff5f41e3d35e9c4c90b530f5c787d2f780ffc3ce980192abc5837"
+    "d00f5889604ff5f41e3d35e9c4c90b530f5c787d2f780ffc3ce980192abc5837",
+    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+    "ad5850cfb2a4f60bb05ee7c488c1e45512979e328292bb3cb9cb7d49bafaeaa9"
   ],
   "verseViewBy": []
 }
