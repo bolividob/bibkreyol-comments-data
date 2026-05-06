@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778103378106,
+  "updatedAt": 1778103614690,
   "version": 1,
   "comments": [
     {
@@ -114,12 +114,13 @@
       "verseName": "Efezyen 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a1ebbec5cdfc8f48050a6aaf0bdce23fcd4edbfd0fc38fbfe1d8deeddcef4f32"
+        "a1ebbec5cdfc8f48050a6aaf0bdce23fcd4edbfd0fc38fbfe1d8deeddcef4f32",
+        "951fd3c1b77d93da1db1a1b92f6b7de05130208f79aee9c5135a003915df6c09"
       ],
       "createdAt": 1778085020566,
-      "updatedAt": 1778089024670,
+      "updatedAt": 1778103614689,
       "status": "active"
     },
     {
@@ -525,9 +526,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 225,
-  "viewCount": 14013,
+  "likeCount": 109,
+  "shareCount": 226,
+  "viewCount": 14085,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -637,8 +638,7 @@
     "813c4a8b58f671cc0c3c317f88132bab503b433bab68f873379b6d65c794c350",
     "200734f54f93f092fda5070bfc8206a2dfc202cea68ae46e730906196bb5da36",
     "7ea20a8c1e6746c1cb36909b32cfb86542c8089ccc2e332e3d6eb51a294fb7c0",
-    "951fd3c1b77d93da1db1a1b92f6b7de05130208f79aee9c5135a003915df6c09",
-    "21d4df52f44c2c1dfaf2ef3cbd405a87d1ad566929dd28021605ed7788ac2b99"
+    "951fd3c1b77d93da1db1a1b92f6b7de05130208f79aee9c5135a003915df6c09"
   ],
   "verseViewBy": []
 }
