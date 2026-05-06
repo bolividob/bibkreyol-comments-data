@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778067425855,
+  "updatedAt": 1778067546074,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778032589254",
+      "text": "amén amén",
+      "userDeviceId": "89f3cb1c7baffbe3c3fecbe46c8f4b858be55afea3727a544479bea57f727e78",
+      "userName": "Elianne Méxi",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778067546074,
+      "updatedAt": 1778067546074,
+      "status": "active"
+    },
     {
       "id": "local-1778065426078",
       "text": "Jésus anmweyyyyyy 🙏🙏🙏🙏🙏🙏😭😭😭😭",
@@ -329,9 +343,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 58,
+  "likeCount": 59,
   "shareCount": 123,
-  "viewCount": 7244,
+  "viewCount": 7264,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -390,7 +404,8 @@
     "403ba23c5b41aec921fecf12f15142a31af45da40448a55d227b72d272356142",
     "0b2e1add7d0a50823e697e31071d10a7ede72df60d502f78a973239d460847bb",
     "e71fe65c73e575dbe505428e071180c74d285ce04b06ceb48462648367000a09",
-    "0438daac1f088fbb611e8fdbbac8c9438a4d387be0554f5fe309907caad6776a"
+    "0438daac1f088fbb611e8fdbbac8c9438a4d387be0554f5fe309907caad6776a",
+    "6b91c8352e78d6492b59a70b30e6364363400fa2b32839afd6daa13769437d9c"
   ],
   "verseViewBy": []
 }
