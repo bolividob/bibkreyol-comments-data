@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778069710828,
+  "updatedAt": 1778069828115,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778069737715",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778069828115,
+      "updatedAt": 1778069828115,
+      "status": "active"
+    },
     {
       "id": "local-1778032589254",
       "text": "amén amén",
@@ -344,8 +358,8 @@
     }
   ],
   "likeCount": 61,
-  "shareCount": 141,
-  "viewCount": 7716,
+  "shareCount": 142,
+  "viewCount": 7738,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
