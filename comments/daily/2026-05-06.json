@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778061912391,
+  "updatedAt": 1778062026044,
   "version": 1,
   "comments": [
     {
@@ -56,10 +56,12 @@
       "verseName": "Efezyen 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
+      ],
       "createdAt": 1778060464316,
-      "updatedAt": 1778060464316,
+      "updatedAt": 1778062026044,
       "status": "active"
     },
     {
@@ -287,7 +289,7 @@
   ],
   "likeCount": 50,
   "shareCount": 83,
-  "viewCount": 5904,
+  "viewCount": 5925,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
