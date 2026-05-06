@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778032209551,
+  "updatedAt": 1778032328782,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778032202320",
+      "text": "jezi hoôooo",
+      "userDeviceId": "89e3e0668757b2c0bff8ef96813d1250b069373a46e3a426444c41b0ade3a02d",
+      "userName": "amèn 🙏 Amèn 🙏",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778032328781,
+      "updatedAt": 1778032328781,
+      "status": "active"
+    },
     {
       "id": "local-1778031124208",
       "text": "Jesus Christ, c'est le bon Berger",
@@ -125,9 +139,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
-  "shareCount": 19,
-  "viewCount": 1693,
+  "likeCount": 9,
+  "shareCount": 22,
+  "viewCount": 1734,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -136,7 +150,8 @@
     "5736f3f11b05dd482f96324764665c94197f605fb1aab071ee74674afa9148f4",
     "99b2ee3ae8bf08440a756a769e49899a3bb20e877ce5440d2390c55351ae829d",
     "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
-    "89e3e0668757b2c0bff8ef96813d1250b069373a46e3a426444c41b0ade3a02d"
+    "89e3e0668757b2c0bff8ef96813d1250b069373a46e3a426444c41b0ade3a02d",
+    "c38d4d137d164834e23590e8834b4939a229e555b551bbf0c2adf31a91e908d5"
   ],
   "verseViewBy": []
 }
