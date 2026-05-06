@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778063347762,
+  "updatedAt": 1778063468401,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778063447730",
+      "text": "🙏🙏🙏🙏🙌🙌",
+      "userDeviceId": "edf19ee457cf85767eb5493111571c91756135c4dff7c9fb325c07a0ca0de1b3",
+      "userName": "compère Dieulucson",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778063468401,
+      "updatedAt": 1778063468401,
+      "status": "active"
+    },
     {
       "id": "local-1778062230137",
       "text": "❤️❤️🙏🙏👌",
@@ -301,9 +315,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 93,
-  "viewCount": 6238,
+  "likeCount": 53,
+  "shareCount": 94,
+  "viewCount": 6269,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -355,7 +369,9 @@
     "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
     "c105a80205401eac084f8b5c187801cc85ddb3c57b8818cf15b5898c6a428673",
-    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0"
+    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "edf19ee457cf85767eb5493111571c91756135c4dff7c9fb325c07a0ca0de1b3",
+    "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d"
   ],
   "verseViewBy": []
 }
