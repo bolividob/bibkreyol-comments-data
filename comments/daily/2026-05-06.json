@@ -1,9 +1,23 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778042048721,
+  "updatedAt": 1778042165776,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778042073828",
+      "text": "papa ooo",
+      "userDeviceId": "d937e728d16111caf402de3adf0b013509df1c621d63ece0cbd84e82e9c284f8",
+      "userName": "claire",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778042165776,
+      "updatedAt": 1778042165776,
+      "status": "active"
+    },
     {
       "id": "local-1778040643355",
       "text": "Bondye beniw",
@@ -169,7 +183,7 @@
   ],
   "likeCount": 21,
   "shareCount": 41,
-  "viewCount": 3849,
+  "viewCount": 3874,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
