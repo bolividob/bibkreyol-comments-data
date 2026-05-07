@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778156648185,
+  "updatedAt": 1778156766625,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778156276444",
+      "text": "mèsi pou gras ou Jezi",
+      "userDeviceId": "5336c24e4f30b8e0cde95e9641f1fbc210b064903c58f0f457aee7fe26427050",
+      "userName": "VALMYR",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778156766625,
+      "updatedAt": 1778156766625,
+      "status": "active"
+    },
     {
       "id": "local-1778122813625",
       "text": "Merci Seigneur Jesus Merci",
@@ -221,7 +235,7 @@
   ],
   "likeCount": 56,
   "shareCount": 139,
-  "viewCount": 8146,
+  "viewCount": 8174,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
