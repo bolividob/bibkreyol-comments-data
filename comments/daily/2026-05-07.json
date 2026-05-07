@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778152331863,
+  "updatedAt": 1778152447423,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778122813625",
+      "text": "Merci Seigneur Jesus Merci",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778152447423,
+      "updatedAt": 1778152447423,
+      "status": "active"
+    },
     {
       "id": "local-1778150831463",
       "text": "amén amén y amén",
@@ -206,8 +220,8 @@
     }
   ],
   "likeCount": 49,
-  "shareCount": 120,
-  "viewCount": 7175,
+  "shareCount": 121,
+  "viewCount": 7202,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
