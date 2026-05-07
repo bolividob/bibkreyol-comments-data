@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778184076120,
+  "updatedAt": 1778184188353,
   "version": 1,
   "comments": [
     {
@@ -255,7 +255,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1778123955723,
-      "updatedAt": 1778123955723,
+      "updatedAt": 1778184188353,
       "status": "active"
     },
     {
@@ -266,18 +266,19 @@
       "verseName": "Danyèl 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "f53bec0e1cfb2eb85211e63e2f56c8d066e3cc36b5b1901cae8e8ff96f72290a"
+        "f53bec0e1cfb2eb85211e63e2f56c8d066e3cc36b5b1901cae8e8ff96f72290a",
+        "ade5ea5c8d6ebb7bd0c2ef99194963b01a7ddbd10f21997ebebb31899704c73a"
       ],
       "createdAt": 1778122033157,
-      "updatedAt": 1778146231644,
+      "updatedAt": 1778184188353,
       "status": "active"
     }
   ],
-  "likeCount": 84,
-  "shareCount": 199,
-  "viewCount": 13294,
+  "likeCount": 85,
+  "shareCount": 200,
+  "viewCount": 13316,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
@@ -362,7 +363,8 @@
     "7a0e047d7b3bb5bb737461fc2c54dd6dd370d0c3ece587274007cf2712140cd7",
     "97f30b9b745f508d75fd5bc8e53633913232dd106ecb4782cc2a92b4690a2088",
     "5c91a49cd1a8c2e9472759d70a31794fc1043e007f6eb793fcf78b6aa72a6a12",
-    "7f8e4b601ae938a7d5f3d1f9ad1a644d9e0129f1109e437617674ce72687b933"
+    "7f8e4b601ae938a7d5f3d1f9ad1a644d9e0129f1109e437617674ce72687b933",
+    "ade5ea5c8d6ebb7bd0c2ef99194963b01a7ddbd10f21997ebebb31899704c73a"
   ],
   "verseViewBy": []
 }
