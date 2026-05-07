@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778167386631,
+  "updatedAt": 1778167507577,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778167446834",
+      "text": "Pep Bondye, Leve kanpe",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778167507577,
+      "updatedAt": 1778167507577,
+      "status": "active"
+    },
     {
       "id": "local-1778160981195",
       "text": "mwen vleli",
@@ -247,9 +261,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
+  "likeCount": 69,
   "shareCount": 175,
-  "viewCount": 10242,
+  "viewCount": 10268,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
@@ -317,7 +331,9 @@
     "63311e76ea7e16e82f75b985b4f81c745fcf1f191883a7877d403b28bcce82c9",
     "f7089790549fb2d1c4055bb66977c6244786a56dafbc8edc0aea000482493afc",
     "4dd57da41d840169893a9f5cb273b22f64418dc4ec08b25e7ab3a8e9341a1962",
-    "b33bc855ad340039f8feada2a8976f705101b611769cdae1ce55f81b3c037bae"
+    "b33bc855ad340039f8feada2a8976f705101b611769cdae1ce55f81b3c037bae",
+    "1675a867017efd5ab316b74d949b7e2a25c7234990ca809bca5d074904c01245",
+    "880861e600017bbe5a3bc9f9543b65b276d073fe750860a94fc1f09bccec8e5b"
   ],
   "verseViewBy": []
 }
