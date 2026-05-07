@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778146105950,
+  "updatedAt": 1778146231644,
   "version": 1,
   "comments": [
     {
@@ -124,16 +124,18 @@
       "verseName": "Danyèl 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f53bec0e1cfb2eb85211e63e2f56c8d066e3cc36b5b1901cae8e8ff96f72290a"
+      ],
       "createdAt": 1778122033157,
-      "updatedAt": 1778122033157,
+      "updatedAt": 1778146231644,
       "status": "active"
     }
   ],
   "likeCount": 38,
   "shareCount": 64,
-  "viewCount": 5752,
+  "viewCount": 5769,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
