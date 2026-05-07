@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778161085577,
+  "updatedAt": 1778161223101,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778160981195",
+      "text": "mwen vleli",
+      "userDeviceId": "4d11cd000f7a21f4ecd8d7403b3b4c91ab8ba3f402f2c0a3b9ace246dcc35093",
+      "userName": "odaline Alisma",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778161223101,
+      "updatedAt": 1778161223101,
+      "status": "active"
+    },
     {
       "id": "local-1778156276444",
       "text": "mèsi pou gras ou Jezi",
@@ -235,7 +249,7 @@
   ],
   "likeCount": 61,
   "shareCount": 164,
-  "viewCount": 9019,
+  "viewCount": 9044,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
