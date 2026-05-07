@@ -1,9 +1,37 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778122147702,
+  "updatedAt": 1778123955723,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778122848784",
+      "text": "bondye beniw 🙏🙏🙏🙏🙏",
+      "userDeviceId": "7e12c0d1d13efa534c11f7935015544fbbd615855db3a7d42c1e9e399e99ba93",
+      "userName": "bondye beniw",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778123955723,
+      "updatedAt": 1778123955723,
+      "status": "active"
+    },
+    {
+      "id": "local-1778122760219",
+      "text": "Daniel chapitre 7à10",
+      "userDeviceId": "4fe5a5e91b138a9e55a3089681e712a4ce430a72189c0f35fe8ad7573ce4fd97",
+      "userName": "Cadet",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778123955723,
+      "updatedAt": 1778123955723,
+      "status": "active"
+    },
     {
       "id": "local-1778121884341",
       "text": "som 23",
@@ -19,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
+  "likeCount": 12,
   "shareCount": 19,
-  "viewCount": 2901,
+  "viewCount": 2990,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
@@ -33,7 +61,8 @@
     "1d975f94bda540948e4f68612593f6fdda86a8468dccc4d6571c7d885e4aec6e",
     "af7aae5b8b33dbcc18935d6e177058d3ac86178929cb46ab4cf60c0dea384055",
     "fffa2364e43c40f27b4738ab0dca6ae82702fe2580976eb926b0d09f4ed55f42",
-    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "8488137452a380c2673918a543848ee237e7152b2980e56167b1a12f248cb2a0"
   ],
   "verseViewBy": []
 }
