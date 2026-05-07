@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778191568258,
+  "updatedAt": 1778191687435,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778191573175",
+      "text": "BD fè Danyèl konprann rêv la nan v 19 la",
+      "userDeviceId": "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39",
+      "userName": "SR jeanne Moisés Momplaisir",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778191687435,
+      "updatedAt": 1778191687435,
+      "status": "active"
+    },
     {
       "id": "local-1778191311033",
       "text": "Mèsl wi senyè Pou gras ou fèm",
@@ -292,9 +306,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 91,
+  "likeCount": 93,
   "shareCount": 214,
-  "viewCount": 14783,
+  "viewCount": 14809,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
@@ -386,7 +400,9 @@
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "cd0780791ac25a4b6a310c8949593792129d97b1a66b960544f64b9e46128a5f",
     "a8e60428f679c02da5d4eb77d1ef6562a7cb5ad4939b2beb6526a564b127dcfb",
-    "5e672fb9a1eb89cced2eee26a755c9ff90bc148f5c671b5549fd5551726f11f2"
+    "5e672fb9a1eb89cced2eee26a755c9ff90bc148f5c671b5549fd5551726f11f2",
+    "04ba70269be29c054067dc815719adde6b9759d505210a0b6ea283718256bd16",
+    "f23aabfe23a56457b6d123b821a1b06ddf583f8d0b58ba5f4ed543a0503c3201"
   ],
   "verseViewBy": []
 }
