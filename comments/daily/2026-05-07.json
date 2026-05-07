@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778150646770,
+  "updatedAt": 1778151020335,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778150831463",
+      "text": "amén amén y amén",
+      "userDeviceId": "1f2efa882fbe98e0317cad243b87c2b6ce7b84874dd2d0b1901689b4754090c9",
+      "userName": "Hna Shelle",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778151020334,
+      "updatedAt": 1778151020334,
+      "status": "active"
+    },
     {
       "id": "local-1778150252761",
       "text": "Amén 🙏🙏",
@@ -191,9 +205,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 105,
-  "viewCount": 6736,
+  "likeCount": 44,
+  "shareCount": 109,
+  "viewCount": 6841,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
@@ -237,7 +251,8 @@
     "14f83c182c2fafffc4930d109490ba3c66d5ebfc62e31e69dd6fb0ae1c64dbcd",
     "d8ed166cc53e7083955ea8818eefceec5012cd1eca028e010f7fb37013d616c2",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
-    "49140bab4c920b5431ecb377a1bd092d909b3132d49996ab3d1f5a22f93dede2"
+    "49140bab4c920b5431ecb377a1bd092d909b3132d49996ab3d1f5a22f93dede2",
+    "10131e56db16c0c03c76c191dbe55ac336e8229615f7537a7c9ee0fbf1e52014"
   ],
   "verseViewBy": []
 }
