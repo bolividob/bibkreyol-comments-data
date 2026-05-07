@@ -1,9 +1,25 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778149027851,
+  "updatedAt": 1778149274162,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778149124000",
+      "text": "msi ui papa",
+      "userDeviceId": "13358a68ac9983ae7d33172e1996bc6a64754a65b8bf24b47ad7c4c4c4b8e866",
+      "userName": "La dominante Dayoo",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "13358a68ac9983ae7d33172e1996bc6a64754a65b8bf24b47ad7c4c4c4b8e866"
+      ],
+      "createdAt": 1778149274162,
+      "updatedAt": 1778149274162,
+      "status": "active"
+    },
     {
       "id": "local-1778148415001",
       "text": "Amèn 🙏",
@@ -147,9 +163,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 89,
-  "viewCount": 6340,
+  "likeCount": 41,
+  "shareCount": 91,
+  "viewCount": 6402,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
@@ -190,7 +206,8 @@
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
-    "14f83c182c2fafffc4930d109490ba3c66d5ebfc62e31e69dd6fb0ae1c64dbcd"
+    "14f83c182c2fafffc4930d109490ba3c66d5ebfc62e31e69dd6fb0ae1c64dbcd",
+    "d8ed166cc53e7083955ea8818eefceec5012cd1eca028e010f7fb37013d616c2"
   ],
   "verseViewBy": []
 }
