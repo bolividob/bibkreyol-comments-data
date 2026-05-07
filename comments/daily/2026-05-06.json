@@ -1,11 +1,39 @@
 {
   "date": "2026-05-06",
   "verseKey": "daily:2026-05-06",
-  "updatedAt": 1778111663449,
+  "updatedAt": 1778113451639,
   "version": 1,
   "comments": [
     {
-      "id": "local-1778026183827",
+      "id": "local-1778026200800",
+      "text": "bibwi",
+      "userDeviceId": "4d11cd000f7a21f4ecd8d7403b3b4c91ab8ba3f402f2c0a3b9ace246dcc35093",
+      "userName": "odaline Alisma",
+      "verseName": "Efezyen 1:1",
+      "parentId": "local-1778026183827",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778113451639,
+      "updatedAt": 1778113451639,
+      "status": "active"
+    },
+    {
+      "id": "local-1778030100151",
+      "text": "mwen bien",
+      "userDeviceId": "4d11cd000f7a21f4ecd8d7403b3b4c91ab8ba3f402f2c0a3b9ace246dcc35093",
+      "userName": "odaline Alisma",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778113451639,
+      "updatedAt": 1778113451639,
+      "status": "active"
+    },
+    {
+      "id": "local-1778030113898",
       "text": "odaline Alisma",
       "userDeviceId": "4d11cd000f7a21f4ecd8d7403b3b4c91ab8ba3f402f2c0a3b9ace246dcc35093",
       "userName": "odaline Alisma",
@@ -14,8 +42,22 @@
       "replyCount": 0,
       "likeCount": 0,
       "likedBy": [],
+      "createdAt": 1778113451639,
+      "updatedAt": 1778113451639,
+      "status": "active"
+    },
+    {
+      "id": "local-1778026183827",
+      "text": "odaline Alisma",
+      "userDeviceId": "4d11cd000f7a21f4ecd8d7403b3b4c91ab8ba3f402f2c0a3b9ace246dcc35093",
+      "userName": "odaline Alisma",
+      "verseName": "Efezyen 1:1",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
       "createdAt": 1778111663449,
-      "updatedAt": 1778111663449,
+      "updatedAt": 1778113451639,
       "status": "active"
     },
     {
@@ -568,9 +610,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 123,
-  "shareCount": 250,
-  "viewCount": 16457,
+  "likeCount": 124,
+  "shareCount": 251,
+  "viewCount": 16590,
   "verseLikedBy": [
     "e2632588e8018c60806203004aa1eee6c73f7f36e53a5ee7f57ee43f419f793d",
     "f9f8abc13450a4d7f060f7e6da73a97dbf07184612617d1ef5895daacc4315e6",
@@ -694,7 +736,8 @@
     "eae70c64c5f4c89995d5d046471c4c4fdd78d18592af2007525f8e7aaefb7e56",
     "850c3ff3c278fa67dafb4c366e0c70323b2c6676240dd01349de432fb39d8ec5",
     "dee9df1c0008bd35d8ad428954695db4bfb8fdf2ad67bb0e63ddc6a81642eb1d",
-    "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa"
+    "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa",
+    "5b5cc2db716def11d4689f932573a34903d5a7d8e060595c1f65090bc023831a"
   ],
   "verseViewBy": []
 }
