@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778191221505,
+  "updatedAt": 1778191326249,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778191311033",
+      "text": "Mèsl wi senyè Pou gras ou fèm",
+      "userDeviceId": "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39",
+      "userName": "SR jeanne Moisés Momplaisir",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778191326249,
+      "updatedAt": 1778191326249,
+      "status": "active"
+    },
     {
       "id": "local-1778083279011",
       "text": "Non an se GUISSON JOSEPH, mesi 🙏🙏nou resevwa don ou fe nou an!!",
@@ -280,7 +294,7 @@
   ],
   "likeCount": 90,
   "shareCount": 213,
-  "viewCount": 14690,
+  "viewCount": 14715,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
