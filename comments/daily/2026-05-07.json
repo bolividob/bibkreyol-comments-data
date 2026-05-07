@@ -1,9 +1,23 @@
 {
   "date": "2026-05-07",
   "verseKey": "daily:2026-05-07",
-  "updatedAt": 1778149274162,
+  "updatedAt": 1778149449715,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778149268455",
+      "text": "Amen",
+      "userDeviceId": "d8ed166cc53e7083955ea8818eefceec5012cd1eca028e010f7fb37013d616c2",
+      "userName": "Joseph nalson",
+      "verseName": "Danyèl 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778149449715,
+      "updatedAt": 1778149449715,
+      "status": "active"
+    },
     {
       "id": "local-1778149124000",
       "text": "msi ui papa",
@@ -164,8 +178,8 @@
     }
   ],
   "likeCount": 41,
-  "shareCount": 91,
-  "viewCount": 6402,
+  "shareCount": 94,
+  "viewCount": 6437,
   "verseLikedBy": [
     "a6838a75233edab779cab477051a037d8984af4cc2cad36e3bf81dbf5d63950b",
     "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
