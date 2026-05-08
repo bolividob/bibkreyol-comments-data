@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778244366958,
+  "updatedAt": 1778244489039,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778244468410",
+      "text": "Amen",
+      "userDeviceId": "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
+      "userName": "sr Marie",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778244489039,
+      "updatedAt": 1778244489039,
+      "status": "active"
+    },
     {
       "id": "local-1778239394082",
       "text": "Sòm 109",
@@ -219,9 +233,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 83,
-  "shareCount": 168,
-  "viewCount": 8191,
+  "likeCount": 84,
+  "shareCount": 173,
+  "viewCount": 8212,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
@@ -305,7 +319,8 @@
     "b93bd38077dcfc13375b40ea0227b1fe6fbb5559e5898592a87cc837c22eefd7",
     "ace1387043b91598fccd4947b1ba3485daa0709c6cfb7bd72b5c65244166efb1",
     "4b5383e702a16d6735a36f3397869e85100bab06b575f2f897e93d307923c704",
-    "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500"
+    "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969"
   ],
   "verseViewBy": []
 }
