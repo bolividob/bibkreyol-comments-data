@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778206744409,
+  "updatedAt": 1778207383792,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778206832147",
+      "text": "Parole BonDieu Vivian",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778207383791,
+      "updatedAt": 1778207383791,
+      "status": "active"
+    },
     {
       "id": "local-1778201616157",
       "text": "mèsi Bondye pou mesaj beni ou voye ban nou",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 15,
-  "shareCount": 21,
-  "viewCount": 1887,
+  "likeCount": 18,
+  "shareCount": 23,
+  "viewCount": 2198,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
@@ -65,7 +79,10 @@
     "a92ac4ac1823edb67cef41ec42362a4370e1575bdbf50bb450bf75e0d8b1667e",
     "ff33ad75a9235ea3a2804a81b2e4d07098d540822d1e4ea435db133459dbe8a2",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
-    "328bcb9e9e011ecc2c78412acf5b430abbd1e302477d70afa10ed98ed2bd20e8"
+    "328bcb9e9e011ecc2c78412acf5b430abbd1e302477d70afa10ed98ed2bd20e8",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "0bf01d4f01b9a0120133e4d26c0bb9168e79dc34fd9869aa41e3a80e6f94b125",
+    "4d60187657b637625c4bcb09c510194c678ea7569b18ac23a7d9a997db54b723"
   ],
   "verseViewBy": []
 }
