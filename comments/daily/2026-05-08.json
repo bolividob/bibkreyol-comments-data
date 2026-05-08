@@ -1,9 +1,37 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778203149266,
+  "updatedAt": 1778203266824,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778201616157",
+      "text": "mèsi Bondye pou mesaj beni ou voye ban nou",
+      "userDeviceId": "e2c0ee5fe8bcb0d5d81b45f8f908d0f794a7ca39ecceb234697d1470c2e8a9fc",
+      "userName": "Pierre -Louis Alande",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778203266824,
+      "updatedAt": 1778203266824,
+      "status": "active"
+    },
+    {
+      "id": "local-1778203202383",
+      "text": "Hi",
+      "userDeviceId": "8cbd00ee2b0c4c930f17deb13b4e79ea730daaf9a6bbb88baa2961170490f659",
+      "userName": "Jezi",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778203266824,
+      "updatedAt": 1778203266824,
+      "status": "active"
+    },
     {
       "id": "local-1778198917893",
       "text": "babi",
@@ -19,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
-  "shareCount": 12,
-  "viewCount": 979,
+  "likeCount": 8,
+  "shareCount": 13,
+  "viewCount": 1014,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
@@ -29,7 +57,8 @@
     "2e9e0e27a7d781328e188fae9f9ea15d92af296f2d1265105de559a70f25b108",
     "ce2a3007ebb4932635bca8c4b41c3269f747b73caba140b791247793177f76da",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
-    "1d35a88c0a31e5248444622dc827ab2a7cb29af40ec0cd61812ca9743e4b356d"
+    "1d35a88c0a31e5248444622dc827ab2a7cb29af40ec0cd61812ca9743e4b356d",
+    "8cbd00ee2b0c4c930f17deb13b4e79ea730daaf9a6bbb88baa2961170490f659"
   ],
   "verseViewBy": []
 }
