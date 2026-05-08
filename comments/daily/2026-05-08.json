@@ -1,12 +1,27 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778200393234,
+  "updatedAt": 1778200509158,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1778198917893",
+      "text": "babi",
+      "userDeviceId": "6b9dff0a72df6e0aab0415a752122370b5821ac8fe2652cbb9e5ecc5a6fdf34d",
+      "userName": "babi",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778200509158,
+      "updatedAt": 1778200509158,
+      "status": "active"
+    }
+  ],
   "likeCount": 3,
   "shareCount": 3,
-  "viewCount": 439,
+  "viewCount": 488,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
