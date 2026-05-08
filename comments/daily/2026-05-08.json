@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778237052346,
+  "updatedAt": 1778237166591,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778237118161",
+      "text": "amen",
+      "userDeviceId": "d6d56efc134110a2483b22303a28777d0a0d0107a43c1388239d98821750312f",
+      "userName": "Besnercinea",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778237166591,
+      "updatedAt": 1778237166591,
+      "status": "active"
+    },
     {
       "id": "local-1778233596319",
       "text": "amén",
@@ -191,9 +205,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 113,
-  "viewCount": 6515,
+  "likeCount": 69,
+  "shareCount": 114,
+  "viewCount": 6545,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
@@ -262,7 +276,8 @@
     "8bbedcd9614b4eac4a8f2316c09e13530ea990ea756f0ed1c87f67a5e0761227",
     "6b3b9273f1bd7e0d49bcbf7235e7826a2b0c47aa0de252dee40cb4fb5888f81c",
     "baa6e185aa10cc177bddc5d63af1d6894bacff63b4019241fdfbbbf38eedd342",
-    "f2825bb2db9f1a7a4e02d3358efc0637daf886992b04787506e3a7900d8fe309"
+    "f2825bb2db9f1a7a4e02d3358efc0637daf886992b04787506e3a7900d8fe309",
+    "d6d56efc134110a2483b22303a28777d0a0d0107a43c1388239d98821750312f"
   ],
   "verseViewBy": []
 }
