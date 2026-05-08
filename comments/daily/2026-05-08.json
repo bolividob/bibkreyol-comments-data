@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778277546736,
+  "updatedAt": 1778277666129,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778277611985",
+      "text": "som",
+      "userDeviceId": "24a5cecaec560d7c3c10bb51f4b9b4295b75ad2cf63e9afeaf348a36f3f1a764",
+      "userName": "som",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778277666129,
+      "updatedAt": 1778277666129,
+      "status": "active"
+    },
     {
       "id": "local-1778267024260",
       "text": "tout glwa pou BONDYE",
@@ -362,8 +376,8 @@
     }
   ],
   "likeCount": 127,
-  "shareCount": 246,
-  "viewCount": 14346,
+  "shareCount": 247,
+  "viewCount": 14369,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
