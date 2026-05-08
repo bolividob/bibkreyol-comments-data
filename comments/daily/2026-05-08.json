@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778266925345,
+  "updatedAt": 1778267045531,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778267024260",
+      "text": "tout glwa pou BONDYE",
+      "userDeviceId": "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
+      "userName": "sispann fè diskisyon initil",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778267045531,
+      "updatedAt": 1778267045531,
+      "status": "active"
+    },
     {
       "id": "local-1778213150094",
       "text": "Amen",
@@ -347,7 +361,7 @@
   ],
   "likeCount": 117,
   "shareCount": 226,
-  "viewCount": 12471,
+  "viewCount": 12490,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
