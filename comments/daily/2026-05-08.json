@@ -1,9 +1,37 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778227696689,
+  "updatedAt": 1778228048220,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778228001235",
+      "text": "Amen",
+      "userDeviceId": "7ec4dddf3557f0233f50ecd2da277cf0eb5024afdd10cf98ec564f02f6089a02",
+      "userName": "Evens Marie Elijah❤️💕",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778228048220,
+      "updatedAt": 1778228048220,
+      "status": "active"
+    },
+    {
+      "id": "local-1778228012969",
+      "text": "amén",
+      "userDeviceId": "37b1ecbf884dafa0a05001b1ee0a51740ee6941aeacca317a30b029c6c99aa18",
+      "userName": "amén",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778228048220,
+      "updatedAt": 1778228048220,
+      "status": "active"
+    },
     {
       "id": "local-1778219134039",
       "text": "amén",
@@ -135,9 +163,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 55,
-  "viewCount": 4933,
+  "likeCount": 53,
+  "shareCount": 57,
+  "viewCount": 4968,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
@@ -189,7 +217,9 @@
     "33c09cb201405945add0ab92bc527153c7ec2ec0c069f507ca6253ecd7d7266a",
     "f698036640f988046ec043c34d8ec3980aa20fe8b56ada213265a2a4217f1393",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
-    "cb839fd41bb70d850f623ebbee0623b0e723ef049dd1ece0091f6f593fe1cc18"
+    "cb839fd41bb70d850f623ebbee0623b0e723ef049dd1ece0091f6f593fe1cc18",
+    "e2a775495170b01e115ec84fe46d1f13c1c2695e2aae9c9aafd50a0a36225b3c",
+    "37b1ecbf884dafa0a05001b1ee0a51740ee6941aeacca317a30b029c6c99aa18"
   ],
   "verseViewBy": []
 }
