@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778239386187,
+  "updatedAt": 1778239506642,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778239394082",
+      "text": "Sòm 109",
+      "userDeviceId": "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+      "userName": "Yveline",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778239506642,
+      "updatedAt": 1778239506642,
+      "status": "active"
+    },
     {
       "id": "local-1778237118161",
       "text": "amen",
@@ -206,8 +220,8 @@
     }
   ],
   "likeCount": 72,
-  "shareCount": 132,
-  "viewCount": 7081,
+  "shareCount": 133,
+  "viewCount": 7111,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
