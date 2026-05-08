@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778252346082,
+  "updatedAt": 1778252467996,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778252411718",
+      "text": "amen amen 🙏🏿",
+      "userDeviceId": "71f9a9d053e630704e401a934dd6401b32137feb7e757e201b271358d1045de5",
+      "userName": "sonise",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778252467996,
+      "updatedAt": 1778252467996,
+      "status": "active"
+    },
     {
       "id": "local-1778250942703",
       "text": "amén amén amén 🙏🙏",
@@ -249,7 +263,7 @@
   ],
   "likeCount": 103,
   "shareCount": 195,
-  "viewCount": 9674,
+  "viewCount": 9708,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
