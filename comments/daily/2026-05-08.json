@@ -1,9 +1,23 @@
 {
   "date": "2026-05-08",
   "verseKey": "daily:2026-05-08",
-  "updatedAt": 1778208368290,
+  "updatedAt": 1778210541585,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778209840687",
+      "text": "tout glwa pou Bondye",
+      "userDeviceId": "5a5f1b806bc16533093d4d030d32b3a60a04afd6b9d7b378e98d912262616e98",
+      "userName": "elçie mondestinellciee@gmail.com",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778210541584,
+      "updatedAt": 1778210541584,
+      "status": "active"
+    },
     {
       "id": "local-1778206832147",
       "text": "Parole BonDieu Vivian",
@@ -63,7 +77,7 @@
   ],
   "likeCount": 22,
   "shareCount": 24,
-  "viewCount": 2627,
+  "viewCount": 2754,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
