@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778287330507,
+  "updatedAt": 1778287451183,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778282236388",
+      "text": "jezi",
+      "userDeviceId": "f97a2bbadbf03ec496c3fb3a558f26d2eb98466efcbc2a14f5d221b985224243",
+      "userName": "marino el ciervo de DIOS",
+      "verseName": "1 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778287451183,
+      "updatedAt": 1778287451183,
+      "status": "active"
+    },
     {
       "id": "local-1778285841577",
       "text": "poukisa depim dekonekte  nèt la m pa fonksyone sou li?",
@@ -22,8 +36,8 @@
     }
   ],
   "likeCount": 2,
-  "shareCount": 5,
-  "viewCount": 773,
+  "shareCount": 6,
+  "viewCount": 832,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29"
