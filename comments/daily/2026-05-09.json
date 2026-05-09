@@ -1,9 +1,37 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778339585230,
+  "updatedAt": 1778339828883,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778339765945",
+      "text": "Aurelus Jonathan",
+      "userDeviceId": "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
+      "userName": "sispann fè diskisyon initil",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778339828883,
+      "updatedAt": 1778339828883,
+      "status": "active"
+    },
+    {
+      "id": "local-1778339795484",
+      "text": "amen",
+      "userDeviceId": "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
+      "userName": "sispann fè diskisyon initil",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778339828883,
+      "updatedAt": 1778339828883,
+      "status": "active"
+    },
     {
       "id": "local-1778337916680",
       "text": "amén",
@@ -222,9 +250,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 140,
-  "viewCount": 10576,
+  "likeCount": 59,
+  "shareCount": 141,
+  "viewCount": 10626,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
@@ -282,7 +310,9 @@
     "0f75a99003a979a63b2fa0e46cb751702476762d62c72457b04aeabc96eb34f3",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "1c4b191a7e65ac7cde04bf9a8c761ba06aa48f0a566402b0fbe73b071f841583",
-    "96865c8d9574a5ae93c2b525ad7f5943144540d2d2f655b64c7c3fa70e333923"
+    "96865c8d9574a5ae93c2b525ad7f5943144540d2d2f655b64c7c3fa70e333923",
+    "3af30a3b6efdb15c8a30a4e72aa7102ee1415749b3b19e286051f420a90de375",
+    "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815"
   ],
   "verseViewBy": []
 }
