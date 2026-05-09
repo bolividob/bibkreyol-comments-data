@@ -1,9 +1,25 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778294351288,
+  "updatedAt": 1778294471129,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778294419934",
+      "text": "se pa mw youtoub kifèsa",
+      "userDeviceId": "ac1515c7bdffb0ebc9599b3d3c69d4b793080b15884c0df5e72e13836466e106",
+      "userName": "danyel 3",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "ac1515c7bdffb0ebc9599b3d3c69d4b793080b15884c0df5e72e13836466e106"
+      ],
+      "createdAt": 1778294471129,
+      "updatedAt": 1778294471129,
+      "status": "active"
+    },
     {
       "id": "local-1778282236388",
       "text": "jezi",
@@ -26,19 +42,20 @@
       "verseName": "Pwovèb 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "60f847e4dcdf6ad5921a7396cc841724e1ef4369b40cd333480524511b0d7e3a",
-        "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39"
+        "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39",
+        "ac1515c7bdffb0ebc9599b3d3c69d4b793080b15884c0df5e72e13836466e106"
       ],
       "createdAt": 1778286140758,
-      "updatedAt": 1778294351288,
+      "updatedAt": 1778294471129,
       "status": "active"
     }
   ],
   "likeCount": 7,
   "shareCount": 20,
-  "viewCount": 2626,
+  "viewCount": 2685,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
