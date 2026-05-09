@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778297289386,
+  "updatedAt": 1778297543912,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778297292048",
+      "text": "som 35",
+      "userDeviceId": "48448715a6d000b8484031d381b44c721f45e7bbe8bb0adde029213af891eb19",
+      "userName": "som",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778297543911,
+      "updatedAt": 1778297543911,
+      "status": "active"
+    },
     {
       "id": "local-1778297203069",
       "text": "bib se yon bon liv",
@@ -83,8 +97,8 @@
     }
   ],
   "likeCount": 8,
-  "shareCount": 23,
-  "viewCount": 3216,
+  "shareCount": 24,
+  "viewCount": 3339,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
