@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778326028609,
+  "updatedAt": 1778326146410,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778326111859",
+      "text": "amén",
+      "userDeviceId": "d576dce882e6da93aa52635ea53e82c930a5e27c629ae24b12ac7b595502acf1",
+      "userName": "Malix hijo de dios",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778326146410,
+      "updatedAt": 1778326146410,
+      "status": "active"
+    },
     {
       "id": "local-1778324495174",
       "text": "Amén 🙏",
@@ -138,9 +152,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 37,
-  "shareCount": 102,
-  "viewCount": 7381,
+  "likeCount": 38,
+  "shareCount": 103,
+  "viewCount": 7412,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
@@ -178,7 +192,8 @@
     "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "e5b4ac062ab81b3b1bafb7143bd3379d56a8a236298333f67d5121395e6e80ec",
-    "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5"
+    "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
+    "d576dce882e6da93aa52635ea53e82c930a5e27c629ae24b12ac7b595502acf1"
   ],
   "verseViewBy": []
 }
