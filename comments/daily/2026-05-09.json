@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778344146055,
+  "updatedAt": 1778344264828,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778344164034",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778344264828,
+      "updatedAt": 1778344264828,
+      "status": "active"
+    },
     {
       "id": "local-1778339765945",
       "text": "Aurelus Jonathan",
@@ -250,9 +264,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 64,
-  "shareCount": 148,
-  "viewCount": 11723,
+  "likeCount": 65,
+  "shareCount": 149,
+  "viewCount": 11746,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
@@ -317,7 +331,8 @@
     "40252cbd7d76b1b0928e13098cf467d028e267ed03c8c42268dabb05c9cc250c",
     "ac37ceed0abd1f26416f19284c90813fbf3124a02e80f951cc9e8839760b01c1",
     "72e12874b1244cf43bcd8ceda98fe215494f0fd66b78a23c4ef41bea2e87fc6d",
-    "1909549b99698c02b35b0df978201add9fbe0fd7604c703da566b4bcd797c70c"
+    "1909549b99698c02b35b0df978201add9fbe0fd7604c703da566b4bcd797c70c",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
