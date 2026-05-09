@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778324586142,
+  "updatedAt": 1778324708289,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778324495174",
+      "text": "Amén 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778324708289,
+      "updatedAt": 1778324708289,
+      "status": "active"
+    },
     {
       "id": "local-1778300648365",
       "text": "men mwen jezi fè sa ou vle",
@@ -124,9 +138,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
+  "likeCount": 35,
   "shareCount": 97,
-  "viewCount": 6980,
+  "viewCount": 7021,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
@@ -161,7 +175,8 @@
     "efd93d35529b98da284755d0bb1846c0a8f4c0f70a227687529fef2b2373a89f",
     "86a75ba6149ac79ac0da85c4c0b03eab3d0a97d5119043fa5f5f7b14d090632b",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
-    "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b"
+    "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
