@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778333827713,
+  "updatedAt": 1778333948162,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778333844197",
+      "text": "amen amen",
+      "userDeviceId": "71f9a9d053e630704e401a934dd6401b32137feb7e757e201b271358d1045de5",
+      "userName": "sonise",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778333948162,
+      "updatedAt": 1778333948162,
+      "status": "active"
+    },
     {
       "id": "local-1778331978561",
       "text": "amen Amen Amen",
@@ -181,8 +195,8 @@
     }
   ],
   "likeCount": 46,
-  "shareCount": 125,
-  "viewCount": 9231,
+  "shareCount": 126,
+  "viewCount": 9258,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
