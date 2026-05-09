@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778294892341,
+  "updatedAt": 1778295149110,
   "version": 1,
   "comments": [
     {
@@ -42,20 +42,21 @@
       "verseName": "Pwovèb 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "likedBy": [
         "60f847e4dcdf6ad5921a7396cc841724e1ef4369b40cd333480524511b0d7e3a",
         "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39",
-        "ac1515c7bdffb0ebc9599b3d3c69d4b793080b15884c0df5e72e13836466e106"
+        "ac1515c7bdffb0ebc9599b3d3c69d4b793080b15884c0df5e72e13836466e106",
+        "2dc607fa33f41cfde472e5abf6c0703d6efa45ab7983d1bf950904f49c3dd006"
       ],
       "createdAt": 1778286140758,
-      "updatedAt": 1778294471129,
+      "updatedAt": 1778295149110,
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 20,
-  "viewCount": 2876,
+  "viewCount": 2994,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
@@ -63,7 +64,8 @@
     "a27d9d82589488bf0e9e38dd53b54c78f52c1bd5b7d17b9700fa02f079124d94",
     "838a7e77949999eca901f8aeed934840eee7899877c2c8e508a66a120192045a",
     "297dc8cdd1b09c489b3b0f4aa2fe16739bc030d4aa4d50424aea5cd34076bbd1",
-    "adbf018e03795c94f8998f044bd35ef855ad5f53342162a68c97d62878c43819"
+    "adbf018e03795c94f8998f044bd35ef855ad5f53342162a68c97d62878c43819",
+    "2dc607fa33f41cfde472e5abf6c0703d6efa45ab7983d1bf950904f49c3dd006"
   ],
   "verseViewBy": []
 }
