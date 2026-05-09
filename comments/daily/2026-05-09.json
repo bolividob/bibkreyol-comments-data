@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
   "verseKey": "daily:2026-05-09",
-  "updatedAt": 1778335625357,
+  "updatedAt": 1778335869877,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778310465147",
+      "text": "❤️",
+      "userDeviceId": "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+      "userName": "Marcline Elie",
+      "verseName": "Pwovèb 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778335869876,
+      "updatedAt": 1778335869876,
+      "status": "active"
+    },
     {
       "id": "local-1778333844197",
       "text": "amen amen",
@@ -195,8 +209,8 @@
     }
   ],
   "likeCount": 46,
-  "shareCount": 133,
-  "viewCount": 9653,
+  "shareCount": 134,
+  "viewCount": 9708,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "442ccf4d8c5e44d7f76a025dbcf33d794252bb87c71070deb6b1b89bfc953a29",
