@@ -1,9 +1,23 @@
 {
   "date": "2026-05-10",
   "verseKey": "daily:2026-05-10",
-  "updatedAt": 1778412866452,
+  "updatedAt": 1778413170946,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778413027460",
+      "text": "BonDieu Beniw nou",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Kwonik 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778413170946,
+      "updatedAt": 1778413170946,
+      "status": "active"
+    },
     {
       "id": "local-1778409654215",
       "text": "bon Dimanche dan le senier",
@@ -92,8 +106,8 @@
     }
   ],
   "likeCount": 31,
-  "shareCount": 66,
-  "viewCount": 7828,
+  "shareCount": 69,
+  "viewCount": 8003,
   "verseLikedBy": [
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
