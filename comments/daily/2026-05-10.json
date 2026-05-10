@@ -1,9 +1,23 @@
 {
   "date": "2026-05-10",
   "verseKey": "daily:2026-05-10",
-  "updatedAt": 1778379854696,
+  "updatedAt": 1778380291030,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778380181092",
+      "text": "Jésus Christ revient bientôt",
+      "userDeviceId": "79519f5616f2bf6430269d4d5ae500e47a7fa92e9695a8679a2132588903a2ba",
+      "userName": "Holson",
+      "verseName": "2 Kwonik 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778380291030,
+      "updatedAt": 1778380291030,
+      "status": "active"
+    },
     {
       "id": "local-1778379047137",
       "text": "bondye gran",
@@ -19,9 +33,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 17,
-  "viewCount": 2214,
+  "viewCount": 2434,
   "verseLikedBy": [
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
@@ -29,7 +43,8 @@
     "c82c2a7acd08a782c657187a2bc072e3bc8f881cb536d93967c8dff89d35d0cf",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "21930954d986894d5784fa21544e5aca262cbaf5c260a938ee0e75d4f5f160a2",
-    "c55e2b20b3c1e8b7130def66acbb54f856203aaeb224f434f1c1408b92462741"
+    "c55e2b20b3c1e8b7130def66acbb54f856203aaeb224f434f1c1408b92462741",
+    "a473673d907a71eb850ef805ec6d0ae6a49d82ef0b42b659d4f2806e3f9a2cb9"
   ],
   "verseViewBy": []
 }
