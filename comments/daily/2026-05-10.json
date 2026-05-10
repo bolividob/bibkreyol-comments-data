@@ -1,12 +1,27 @@
 {
   "date": "2026-05-10",
   "verseKey": "daily:2026-05-10",
-  "updatedAt": 1778378057071,
+  "updatedAt": 1778379854696,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1778379047137",
+      "text": "bondye gran",
+      "userDeviceId": "c38d4d137d164834e23590e8834b4939a229e555b551bbf0c2adf31a91e908d5",
+      "userName": "Same jr.",
+      "verseName": "2 Kwonik 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778379854696,
+      "updatedAt": 1778379854696,
+      "status": "active"
+    }
+  ],
   "likeCount": 7,
   "shareCount": 17,
-  "viewCount": 2125,
+  "viewCount": 2214,
   "verseLikedBy": [
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
