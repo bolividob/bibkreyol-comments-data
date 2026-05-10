@@ -1,9 +1,23 @@
 {
   "date": "2026-05-10",
   "verseKey": "daily:2026-05-10",
-  "updatedAt": 1778452638595,
+  "updatedAt": 1778452748668,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778452732194",
+      "text": "BonDye fidèl",
+      "userDeviceId": "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39",
+      "userName": "SR jeanne Moisés Momplaisir",
+      "verseName": "2 Kwonik 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778452748668,
+      "updatedAt": 1778452748668,
+      "status": "active"
+    },
     {
       "id": "local-1778437759353",
       "text": "jesus",
@@ -243,9 +257,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
+  "likeCount": 58,
   "shareCount": 137,
-  "viewCount": 22684,
+  "viewCount": 22730,
   "verseLikedBy": [
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
@@ -303,7 +317,8 @@
     "6c75fbeac29ee511c2aba146d29de3af65318568d67c771c8e4efc04307b81db",
     "ed6768bdf2422184abcd38d4ac088f30a880b1e71429e3566d6c99a10c27cc9c",
     "1a2e4ade23594f93eb35d1525f18b836d5d6ab812c7a8da0b7799b5672e40573",
-    "6812586d023245c7d96f648119405c216d54ee35d3d904e820c7efd93c0b46ba"
+    "6812586d023245c7d96f648119405c216d54ee35d3d904e820c7efd93c0b46ba",
+    "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39"
   ],
   "verseViewBy": []
 }
