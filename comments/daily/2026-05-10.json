@@ -1,9 +1,23 @@
 {
   "date": "2026-05-10",
   "verseKey": "daily:2026-05-10",
-  "updatedAt": 1778434627386,
+  "updatedAt": 1778437898915,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778415000498",
+      "text": "Bon dimanche à tous dans le seigneur",
+      "userDeviceId": "867006822a78c802c4cfd03b0d116d663fad558941847513eeed63c6e9e706a9",
+      "userName": "Berthonia saintilbertonia@gmail.com",
+      "verseName": "2 Kwonik 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778437898915,
+      "updatedAt": 1778437898915,
+      "status": "active"
+    },
     {
       "id": "local-1778426985402",
       "text": "dieu est grand",
@@ -45,7 +59,7 @@
         "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
       ],
       "createdAt": 1778419759864,
-      "updatedAt": 1778434627385,
+      "updatedAt": 1778437898914,
       "status": "active"
     },
     {
@@ -61,7 +75,7 @@
         "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
       ],
       "createdAt": 1778419759864,
-      "updatedAt": 1778434627385,
+      "updatedAt": 1778437898914,
       "status": "active"
     },
     {
@@ -77,7 +91,7 @@
         "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
       ],
       "createdAt": 1778419759864,
-      "updatedAt": 1778434627385,
+      "updatedAt": 1778437898914,
       "status": "active"
     },
     {
@@ -93,7 +107,7 @@
         "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
       ],
       "createdAt": 1778415942296,
-      "updatedAt": 1778434627385,
+      "updatedAt": 1778437898914,
       "status": "active"
     },
     {
@@ -109,7 +123,7 @@
         "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
       ],
       "createdAt": 1778415942296,
-      "updatedAt": 1778434627385,
+      "updatedAt": 1778437898914,
       "status": "active"
     },
     {
@@ -125,7 +139,7 @@
         "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
       ],
       "createdAt": 1778413170946,
-      "updatedAt": 1778434627385,
+      "updatedAt": 1778437898914,
       "status": "active"
     },
     {
@@ -215,9 +229,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 48,
-  "shareCount": 121,
-  "viewCount": 16213,
+  "likeCount": 50,
+  "shareCount": 123,
+  "viewCount": 17098,
   "verseLikedBy": [
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
@@ -266,7 +280,9 @@
     "d76698af6bf2f0fe07d429f857c72e8b57584a073cc3313fb96f52c221c346ab",
     "6099ab56c3b1cd42766ee332ae324b5843575c34359118cfd12808996afed4d2",
     "8886cc1fd32ee40eae43bf3f3856fbdead20d7930382cbfb630f53a08b561462",
-    "eecf5b15428271282e9bf9c5defb2008c0206fbe916ea9e22e9c138449f39580"
+    "eecf5b15428271282e9bf9c5defb2008c0206fbe916ea9e22e9c138449f39580",
+    "f655d650a5989a1073d996309e963cfdb76323b14a36b74716a3d7f47e3c3af5",
+    "2761a2c0118187351db888bd15b97700b8b5460ed19bbf1ccc81c37eee1e71c8"
   ],
   "verseViewBy": []
 }
