@@ -1,9 +1,37 @@
 {
   "date": "2026-05-10",
   "verseKey": "daily:2026-05-10",
-  "updatedAt": 1778427307467,
+  "updatedAt": 1778430720349,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778426985402",
+      "text": "dieu est grand",
+      "userDeviceId": "c1e396a97fb265a487908851ef1562e7c8d133deb53a29453b9a0224cd639ee7",
+      "userName": "sr dieunie phere",
+      "verseName": "2 Kwonik 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778430720349,
+      "updatedAt": 1778430720349,
+      "status": "active"
+    },
+    {
+      "id": "local-1778428215565",
+      "text": "aleluya",
+      "userDeviceId": "217f7fea12b671169863518a2c61d2b8edd744d0a718b734e985b904633629fd",
+      "userName": "Revenel Raymond Nacius",
+      "verseName": "2 Kwonik 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778430720349,
+      "updatedAt": 1778430720349,
+      "status": "active"
+    },
     {
       "id": "local-1778418476728",
       "text": "Jesus se tout sa mw bezwn",
@@ -175,9 +203,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
-  "shareCount": 92,
-  "viewCount": 12596,
+  "likeCount": 46,
+  "shareCount": 100,
+  "viewCount": 13524,
   "verseLikedBy": [
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
@@ -223,7 +251,8 @@
     "642160cfb38281a670870ddc1c3e4130d077b42e2a89741bb5609b5ba8e362d0",
     "0c92b84e990dd6a0e8774ec406279f0af1a5ea0f3103a68a781929a29b996dfc",
     "36b5e88f7862588b94e867d7642da3ff7b97553fca8d69745ba7b110c15abfad",
-    "d76698af6bf2f0fe07d429f857c72e8b57584a073cc3313fb96f52c221c346ab"
+    "d76698af6bf2f0fe07d429f857c72e8b57584a073cc3313fb96f52c221c346ab",
+    "6099ab56c3b1cd42766ee332ae324b5843575c34359118cfd12808996afed4d2"
   ],
   "verseViewBy": []
 }
