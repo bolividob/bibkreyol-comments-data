@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
   "verseKey": "daily:2026-05-10",
-  "updatedAt": 1778434269301,
+  "updatedAt": 1778434627386,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "2 Kwonik 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
+      ],
       "createdAt": 1778419759864,
-      "updatedAt": 1778419759864,
+      "updatedAt": 1778434627385,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "2 Kwonik 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
+      ],
       "createdAt": 1778419759864,
-      "updatedAt": 1778419759864,
+      "updatedAt": 1778434627385,
       "status": "active"
     },
     {
@@ -68,10 +72,12 @@
       "verseName": "2 Kwonik 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
+      ],
       "createdAt": 1778419759864,
-      "updatedAt": 1778419759864,
+      "updatedAt": 1778434627385,
       "status": "active"
     },
     {
@@ -82,10 +88,12 @@
       "verseName": "2 Kwonik 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
+      ],
       "createdAt": 1778415942296,
-      "updatedAt": 1778415942296,
+      "updatedAt": 1778434627385,
       "status": "active"
     },
     {
@@ -96,10 +104,12 @@
       "verseName": "2 Kwonik 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
+      ],
       "createdAt": 1778415942296,
-      "updatedAt": 1778415942296,
+      "updatedAt": 1778434627385,
       "status": "active"
     },
     {
@@ -110,10 +120,12 @@
       "verseName": "2 Kwonik 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ead768a31f4048f4a9a3cd170fda43f8d676a3d22bf3f511152666bc3233bf8a"
+      ],
       "createdAt": 1778413170946,
-      "updatedAt": 1778413170946,
+      "updatedAt": 1778434627385,
       "status": "active"
     },
     {
@@ -203,9 +215,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 116,
-  "viewCount": 15246,
+  "likeCount": 48,
+  "shareCount": 121,
+  "viewCount": 16213,
   "verseLikedBy": [
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
@@ -253,7 +265,8 @@
     "36b5e88f7862588b94e867d7642da3ff7b97553fca8d69745ba7b110c15abfad",
     "d76698af6bf2f0fe07d429f857c72e8b57584a073cc3313fb96f52c221c346ab",
     "6099ab56c3b1cd42766ee332ae324b5843575c34359118cfd12808996afed4d2",
-    "8886cc1fd32ee40eae43bf3f3856fbdead20d7930382cbfb630f53a08b561462"
+    "8886cc1fd32ee40eae43bf3f3856fbdead20d7930382cbfb630f53a08b561462",
+    "eecf5b15428271282e9bf9c5defb2008c0206fbe916ea9e22e9c138449f39580"
   ],
   "verseViewBy": []
 }
