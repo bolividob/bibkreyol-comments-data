@@ -1,9 +1,37 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778490725758,
+  "updatedAt": 1778490846495,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778490553160",
+      "text": "Amén 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778490846495,
+      "updatedAt": 1778490846495,
+      "status": "active"
+    },
+    {
+      "id": "local-1778490742451",
+      "text": "amén",
+      "userDeviceId": "d4e31617642a0a0516a5c27f8bac5aa65fe43610ebf7bc4ae03062edf0676ca9",
+      "userName": "Wilbert Pierre",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778490846495,
+      "updatedAt": 1778490846495,
+      "status": "active"
+    },
     {
       "id": "local-1778467134407",
       "text": "amén amén 😇🙏",
@@ -52,8 +80,8 @@
     }
   ],
   "likeCount": 14,
-  "shareCount": 50,
-  "viewCount": 5540,
+  "shareCount": 52,
+  "viewCount": 5560,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
