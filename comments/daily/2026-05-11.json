@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778543831396,
+  "updatedAt": 1778543946994,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778543905285",
+      "text": "bon travay 🙏🙏",
+      "userDeviceId": "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
+      "userName": "Wid ak gens",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778543946994,
+      "updatedAt": 1778543946994,
+      "status": "active"
+    },
     {
       "id": "local-1778542385790",
       "text": "Anénnnn",
@@ -379,7 +393,7 @@
   ],
   "likeCount": 70,
   "shareCount": 203,
-  "viewCount": 16992,
+  "viewCount": 17031,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
