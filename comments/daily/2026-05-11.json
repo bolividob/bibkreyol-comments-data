@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778466551679,
+  "updatedAt": 1778469956309,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778467134407",
+      "text": "amén amén 😇🙏",
+      "userDeviceId": "9b8aa13b0c5cab13ddcdaef40132e596da8649f363fd719bf1a11dbf4ef00151",
+      "userName": "mescarroselande@gmail.com",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778469956309,
+      "updatedAt": 1778469956309,
+      "status": "active"
+    },
     {
       "id": "local-1778466108223",
       "text": "Pawòl BonDye se lavi. Mwen felisite nou pou bon travay nap fè nan sektè evanjelik la. M mande Pou BonDye beni nou plis chak jou.",
@@ -33,14 +47,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 4,
-  "shareCount": 14,
-  "viewCount": 2779,
+  "likeCount": 5,
+  "shareCount": 16,
+  "viewCount": 3189,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
     "4287ffe78dd07a8fecca0f2b9aff613d1b3d51765bf7bcb0923e7dc0e3515aca",
-    "c54d4c2a35b6b5928e76b1cfbb1da26211f07b8c65cff321eeb3057297b7091e"
+    "c54d4c2a35b6b5928e76b1cfbb1da26211f07b8c65cff321eeb3057297b7091e",
+    "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e"
   ],
   "verseViewBy": []
 }
