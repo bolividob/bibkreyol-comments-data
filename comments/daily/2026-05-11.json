@@ -1,9 +1,37 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778510826151,
+  "updatedAt": 1778510947863,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778500005295",
+      "text": "stluc",
+      "userDeviceId": "50a1389262107e5b34c82ee2f26f76f9a84b6fa8edc928ecfe1694234ee0c0bc",
+      "userName": "stluc",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778510947863,
+      "updatedAt": 1778510947863,
+      "status": "active"
+    },
+    {
+      "id": "local-1778499995287",
+      "text": "bb",
+      "userDeviceId": "50a1389262107e5b34c82ee2f26f76f9a84b6fa8edc928ecfe1694234ee0c0bc",
+      "userName": "stluc",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778510947863,
+      "updatedAt": 1778510947863,
+      "status": "active"
+    },
     {
       "id": "local-1778493838316",
       "text": "chemen lavi a",
@@ -137,7 +165,7 @@
   ],
   "likeCount": 42,
   "shareCount": 152,
-  "viewCount": 9778,
+  "viewCount": 9801,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
