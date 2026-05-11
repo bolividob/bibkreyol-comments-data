@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778525584952,
+  "updatedAt": 1778525704825,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778487929122",
+      "text": "amen",
+      "userDeviceId": "79d17fd710c4fe7a39920c51a1fb976af55a4129ca7a91b3c792adf17abc73d9",
+      "userName": "figi",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778525704825,
+      "updatedAt": 1778525704825,
+      "status": "active"
+    },
     {
       "id": "local-1778522316154",
       "text": "Mwen Santi m byen nan BONDYE.mwen anvi monte menm Jan ak Eli,ak Enòk.",
@@ -207,7 +221,7 @@
   ],
   "likeCount": 56,
   "shareCount": 175,
-  "viewCount": 12704,
+  "viewCount": 12719,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
