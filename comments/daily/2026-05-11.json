@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778493726093,
+  "updatedAt": 1778493847180,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778493838316",
+      "text": "chemen lavi a",
+      "userDeviceId": "c03b09f933be489fb32ebe57399c714f9dd3af72b22acd55fcbc7a1b6446b60e",
+      "userName": "cheriben",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778493847180,
+      "updatedAt": 1778493847180,
+      "status": "active"
+    },
     {
       "id": "local-1778493589763",
       "text": "Amen🙏",
@@ -122,8 +136,8 @@
     }
   ],
   "likeCount": 17,
-  "shareCount": 70,
-  "viewCount": 6053,
+  "shareCount": 76,
+  "viewCount": 6076,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
