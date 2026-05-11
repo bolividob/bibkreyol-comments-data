@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778536145081,
+  "updatedAt": 1778536267997,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778536186748",
+      "text": "Mèsi segnè",
+      "userDeviceId": "c39f920d8f5a29514069c5f3c99c1fbe0b697f40d7e465ce9fa3fa7b6452c6e3",
+      "userName": "Amèn",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778536267996,
+      "updatedAt": 1778536267996,
+      "status": "active"
+    },
     {
       "id": "local-1778487929122",
       "text": "amen",
@@ -221,7 +235,7 @@
   ],
   "likeCount": 62,
   "shareCount": 184,
-  "viewCount": 14649,
+  "viewCount": 14681,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
