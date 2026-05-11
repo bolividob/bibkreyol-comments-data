@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778513466621,
+  "updatedAt": 1778513588851,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778513395701",
+      "text": "mw renmen travay la anpil et mw renmen bondye",
+      "userDeviceId": "c82a7bef223a910e2e5058d0ead466c349de163608668f138d7fc5eb672815b5",
+      "userName": "mama",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778513588851,
+      "updatedAt": 1778513588851,
+      "status": "active"
+    },
     {
       "id": "local-1778513080678",
       "text": "bonsoir mw renmen bien kreyol anpil",
@@ -179,7 +193,7 @@
   ],
   "likeCount": 43,
   "shareCount": 156,
-  "viewCount": 10309,
+  "viewCount": 10337,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
