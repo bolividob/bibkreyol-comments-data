@@ -1,9 +1,37 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778536995426,
+  "updatedAt": 1778537177045,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778537086221",
+      "text": "amèn",
+      "userDeviceId": "d422282a31a5cb48d2a4b7de32fb574220587af2c706934554e5b10f2a059acb",
+      "userName": "Lina",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778537177045,
+      "updatedAt": 1778537177045,
+      "status": "active"
+    },
+    {
+      "id": "local-1778537119735",
+      "text": "jezi  se lefise de dieu",
+      "userDeviceId": "c39f920d8f5a29514069c5f3c99c1fbe0b697f40d7e465ce9fa3fa7b6452c6e3",
+      "userName": "Amèn",
+      "verseName": "Nawoum 1:4",
+      "parentId": "local-1778536285425",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778537177045,
+      "updatedAt": 1778537177045,
+      "status": "active"
+    },
     {
       "id": "local-1778536942657",
       "text": "jezi sè Lewis de dieu",
@@ -25,13 +53,13 @@
       "userName": "Amèn",
       "verseName": "Nawoum 1:4",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 1,
       "likedBy": [
         "c39f920d8f5a29514069c5f3c99c1fbe0b697f40d7e465ce9fa3fa7b6452c6e3"
       ],
       "createdAt": 1778536390854,
-      "updatedAt": 1778536995426,
+      "updatedAt": 1778537177045,
       "status": "active"
     },
     {
@@ -290,9 +318,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 63,
+  "likeCount": 64,
   "shareCount": 185,
-  "viewCount": 14884,
+  "viewCount": 14924,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
@@ -356,7 +384,8 @@
     "139fb4270b19381e4836109ce42a67f07c6c8bb38f9e485bd150e3be02f39f7e",
     "3acdd7d3ff3477babd90ffb9a6bba8a68923946ca1da1422c5a2422487a12de4",
     "c39f920d8f5a29514069c5f3c99c1fbe0b697f40d7e465ce9fa3fa7b6452c6e3",
-    "56cb050e7acffb45f0ace91bdc0625d70c09b6e8dedbd6f28fdc68a12e1a87cc"
+    "56cb050e7acffb45f0ace91bdc0625d70c09b6e8dedbd6f28fdc68a12e1a87cc",
+    "d422282a31a5cb48d2a4b7de32fb574220587af2c706934554e5b10f2a059acb"
   ],
   "verseViewBy": []
 }
