@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
   "verseKey": "daily:2026-05-11",
-  "updatedAt": 1778492886360,
+  "updatedAt": 1778493016570,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778492942466",
+      "text": "amén amén amén amén amén",
+      "userDeviceId": "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa",
+      "userName": "Pierre julienne",
+      "verseName": "Nawoum 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778493016570,
+      "updatedAt": 1778493016570,
+      "status": "active"
+    },
     {
       "id": "local-1778491710302",
       "text": "bon trvay 👏👏👏",
@@ -93,9 +107,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 15,
-  "shareCount": 59,
-  "viewCount": 5882,
+  "likeCount": 16,
+  "shareCount": 60,
+  "viewCount": 5903,
   "verseLikedBy": [
     "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
     "977709664943c57437d0b138c49f58f168f8df1bb726668662233afc4369f891",
@@ -111,7 +125,8 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "14f83c182c2fafffc4930d109490ba3c66d5ebfc62e31e69dd6fb0ae1c64dbcd",
     "09a4b344d17a6faf3804b2fed21c6c0ce660f28cfeef1a60b347977911e31fab",
-    "b90d2157860fde4f7d8743b011b1376ea271eb748a23c3b1159cb80aeb3490ae"
+    "b90d2157860fde4f7d8743b011b1376ea271eb748a23c3b1159cb80aeb3490ae",
+    "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa"
   ],
   "verseViewBy": []
 }
