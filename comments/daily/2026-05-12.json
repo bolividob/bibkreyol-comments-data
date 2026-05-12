@@ -1,12 +1,27 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778560088577,
+  "updatedAt": 1778560329996,
   "version": 1,
-  "comments": [],
-  "likeCount": 23,
-  "shareCount": 24,
-  "viewCount": 3965,
+  "comments": [
+    {
+      "id": "local-1778559850346",
+      "text": "bondye beniw",
+      "userDeviceId": "d52213fe0f0aca0ad61a6b33585477bc54f8ee971bbf73ca5f38500413204513",
+      "userName": "Rolantha Acceus",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778560329996,
+      "updatedAt": 1778560329996,
+      "status": "active"
+    }
+  ],
+  "likeCount": 24,
+  "shareCount": 25,
+  "viewCount": 4019,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
@@ -30,7 +45,8 @@
     "8040f29f53b63fe0be98db870116971d63dc56d53c1879b51ab4a3a39c2b7d3d",
     "dd7e453d217008f7b75a73c1fc22c5bdf24f874c1ad0fa252e5cc9db4fea7ee8",
     "6701951b1b44d7de5dcfe442f3d034747aa4d1abcb1c327a67850143ab90cce3",
-    "f698036640f988046ec043c34d8ec3980aa20fe8b56ada213265a2a4217f1393"
+    "f698036640f988046ec043c34d8ec3980aa20fe8b56ada213265a2a4217f1393",
+    "d4300fa615b9c389017b7033e2eed4e70a8b316fdce330a2327abe78ad6ec9b8"
   ],
   "verseViewBy": []
 }
