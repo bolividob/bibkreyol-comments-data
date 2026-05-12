@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778585897415,
+  "updatedAt": 1778586011480,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778585971499",
+      "text": "mwen felisite Chak moun kp efosel Pou levanjil Kris l",
+      "userDeviceId": "4a86f2b265d735ec00c23db073bcc31ace7b7304987b38eb92880ea16c6850ef",
+      "userName": "sr wilnick floreus",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778586011479,
+      "updatedAt": 1778586011479,
+      "status": "active"
+    },
     {
       "id": "local-1778584549841",
       "text": "felisitacion Pou travay Bon Dieu bèni w",
@@ -189,7 +203,7 @@
   ],
   "likeCount": 75,
   "shareCount": 145,
-  "viewCount": 7634,
+  "viewCount": 7666,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
