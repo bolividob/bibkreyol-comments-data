@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778618944289,
+  "updatedAt": 1778619074265,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778618988856",
+      "text": "Jesus est la",
+      "userDeviceId": "4ce12b1ab2a393a490cca837fa81c9bbc025e9097fa35184540b1260765cdc3a",
+      "userName": "Mr Danny",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778619074265,
+      "updatedAt": 1778619074265,
+      "status": "active"
+    },
     {
       "id": "local-1778614492375",
       "text": "Amén 🙏",
@@ -259,7 +273,7 @@
   ],
   "likeCount": 120,
   "shareCount": 228,
-  "viewCount": 14183,
+  "viewCount": 14208,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
