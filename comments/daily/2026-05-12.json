@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778583738553,
+  "updatedAt": 1778583859541,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778583802810",
+      "text": "amen",
+      "userDeviceId": "2fb2d34bcc8006db2c4e85cb323439ad359d7bffd60dedda2351966d95759f5c",
+      "userName": "Henry Wolf Fefnay",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778583859541,
+      "updatedAt": 1778583859541,
+      "status": "active"
+    },
     {
       "id": "local-1778582960589",
       "text": "BonDieu se Lavi a, kenbé fèm pa lagué. BonDieu Benie nou",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 129,
-  "viewCount": 7120,
+  "likeCount": 66,
+  "shareCount": 130,
+  "viewCount": 7151,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
@@ -199,7 +213,8 @@
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "d6f5bd107cb6df1a4d155220da2ccee33e25c4f1fe33564d1e1519120f5941bf",
     "e6694683de3e0b411413b42a0262199eb6cd4dd628fbef8054279d53569d8e3e",
-    "30bee5f9aa30b21eb324f04b61923d710f99c81feb6fb0be80f7f7ad6a73a5de"
+    "30bee5f9aa30b21eb324f04b61923d710f99c81feb6fb0be80f7f7ad6a73a5de",
+    "2fb2d34bcc8006db2c4e85cb323439ad359d7bffd60dedda2351966d95759f5c"
   ],
   "verseViewBy": []
 }
