@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778576769628,
+  "updatedAt": 1778576885379,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778576859987",
+      "text": "yon delivrans",
+      "userDeviceId": "d33060157e612dec249a7c66547bd09bcf6ad6d95cfd28791812e4d2fd5a173b",
+      "userName": "Hantitho",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778576885379,
+      "updatedAt": 1778576885379,
+      "status": "active"
+    },
     {
       "id": "local-1778576115566",
       "text": "Amén 🙏🙏🙏",
@@ -35,7 +49,7 @@
   ],
   "likeCount": 45,
   "shareCount": 49,
-  "viewCount": 5460,
+  "viewCount": 5477,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
