@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778576162771,
+  "updatedAt": 1778576285170,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778576115566",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778576285170,
+      "updatedAt": 1778576285170,
+      "status": "active"
+    },
     {
       "id": "local-1778559850346",
       "text": "bondye beniw",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 43,
   "shareCount": 49,
-  "viewCount": 5374,
+  "viewCount": 5392,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
