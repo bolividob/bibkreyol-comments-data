@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778596035242,
+  "updatedAt": 1778596145905,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778596078407",
+      "text": "wi",
+      "userDeviceId": "b89da92bd45130992aa8d0720e1ab2a1b4913857452a5f1f79d1fbcae0dfd467",
+      "userName": "mino",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778596145904,
+      "updatedAt": 1778596145904,
+      "status": "active"
+    },
     {
       "id": "local-1778585971499",
       "text": "mwen felisite Chak moun kp efosel Pou levanjil Kris l",
@@ -203,7 +217,7 @@
   ],
   "likeCount": 101,
   "shareCount": 185,
-  "viewCount": 9814,
+  "viewCount": 9834,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
