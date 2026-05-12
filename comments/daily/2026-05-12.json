@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778625556878,
+  "updatedAt": 1778625666900,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Abdyas 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fa270bd63916069dd2ddc260c907d456ae8c5fa155ceb83a9a8113b5cf8f8c58"
+      ],
       "createdAt": 1778625309423,
-      "updatedAt": 1778625309423,
+      "updatedAt": 1778625666899,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Abdyas 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fa270bd63916069dd2ddc260c907d456ae8c5fa155ceb83a9a8113b5cf8f8c58"
+      ],
       "createdAt": 1778624529250,
-      "updatedAt": 1778624529250,
+      "updatedAt": 1778625666899,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Abdyas 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fa270bd63916069dd2ddc260c907d456ae8c5fa155ceb83a9a8113b5cf8f8c58"
+      ],
       "createdAt": 1778619074265,
-      "updatedAt": 1778619074265,
+      "updatedAt": 1778625666899,
       "status": "active"
     },
     {
@@ -54,10 +60,12 @@
       "verseName": "Abdyas 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fa270bd63916069dd2ddc260c907d456ae8c5fa155ceb83a9a8113b5cf8f8c58"
+      ],
       "createdAt": 1778614565841,
-      "updatedAt": 1778614565841,
+      "updatedAt": 1778625666899,
       "status": "active"
     },
     {
@@ -294,7 +302,7 @@
         "fa270bd63916069dd2ddc260c907d456ae8c5fa155ceb83a9a8113b5cf8f8c58"
       ],
       "createdAt": 1778576885379,
-      "updatedAt": 1778625556878,
+      "updatedAt": 1778625666899,
       "status": "active"
     },
     {
@@ -332,7 +340,7 @@
   ],
   "likeCount": 126,
   "shareCount": 239,
-  "viewCount": 15863,
+  "viewCount": 15893,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
