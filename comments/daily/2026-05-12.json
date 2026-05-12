@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778624410067,
+  "updatedAt": 1778624529250,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778627972118",
+      "text": "je t'aime mon seigneur Jésus",
+      "userDeviceId": "13ebd240edd0f1501ae835b9a7075ec7206fe31e7c8d5b8dab05e30fdb4d1aec",
+      "userName": "se Elina",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778624529250,
+      "updatedAt": 1778624529250,
+      "status": "active"
+    },
     {
       "id": "local-1778618988856",
       "text": "Jesus est la",
@@ -275,7 +289,7 @@
   ],
   "likeCount": 125,
   "shareCount": 237,
-  "viewCount": 15515,
+  "viewCount": 15557,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
