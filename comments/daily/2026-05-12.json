@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778582887943,
+  "updatedAt": 1778583008059,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778582960589",
+      "text": "BonDieu se Lavi a, kenbé fèm pa lagué. BonDieu Benie nou",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778583008059,
+      "updatedAt": 1778583008059,
+      "status": "active"
+    },
     {
       "id": "local-1778539860484",
       "text": "amen 🙏😇 alelouya",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
-  "shareCount": 123,
-  "viewCount": 6898,
+  "likeCount": 61,
+  "shareCount": 124,
+  "viewCount": 6928,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
@@ -180,7 +194,8 @@
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "0d14713cb9b300372eff7c529466654d23f21fb19e1568e37ea1f7766eb2338b",
     "795281170742d2da341babdd06148664d4bc6436c1470dda820b6aa7deec26bf",
-    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413"
+    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
+    "3af30a3b6efdb15c8a30a4e72aa7102ee1415749b3b19e286051f420a90de375"
   ],
   "verseViewBy": []
 }
