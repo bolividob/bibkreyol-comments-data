@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778578686035,
+  "updatedAt": 1778578806737,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778578700190",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778578806737,
+      "updatedAt": 1778578806737,
+      "status": "active"
+    },
     {
       "id": "local-1778576859987",
       "text": "yon delivrans",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 56,
-  "viewCount": 5810,
+  "likeCount": 50,
+  "shareCount": 57,
+  "viewCount": 5835,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
@@ -97,7 +111,10 @@
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "bb2afc8f30a3ecb604fe3cd7b56cb3332e82e45995b02bba0363fe40977396b3",
     "70d9ea34762efb0f9932168cba6cea462ba6c2e1f181083cd6dc4233373ba2c0",
-    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
+    "f69db646d7d800239b140d93370df94a570a73349aceb059edb34604d618f179",
+    "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91"
   ],
   "verseViewBy": []
 }
