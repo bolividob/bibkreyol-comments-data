@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778609527173,
+  "updatedAt": 1778609645978,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778609542699",
+      "text": "Sevre wi",
+      "userDeviceId": "cc78df44d21977b91ab1aab15095d569269543981108550067fc68cc6ca54c39",
+      "userName": "SR jeanne Moisés Momplaisir",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778609645978,
+      "updatedAt": 1778609645978,
+      "status": "active"
+    },
     {
       "id": "local-1778609480694",
       "text": "se Denise",
@@ -231,7 +245,7 @@
   ],
   "likeCount": 113,
   "shareCount": 217,
-  "viewCount": 12736,
+  "viewCount": 12753,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
