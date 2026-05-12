@@ -1,9 +1,23 @@
 {
   "date": "2026-05-12",
   "verseKey": "daily:2026-05-12",
-  "updatedAt": 1778614448535,
+  "updatedAt": 1778614565841,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778614492375",
+      "text": "Amén 🙏",
+      "userDeviceId": "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+      "userName": "Ruth",
+      "verseName": "Abdyas 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778614565841,
+      "updatedAt": 1778614565841,
+      "status": "active"
+    },
     {
       "id": "local-1778609542699",
       "text": "Sevre wi",
@@ -243,9 +257,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
-  "shareCount": 223,
-  "viewCount": 13430,
+  "likeCount": 118,
+  "shareCount": 225,
+  "viewCount": 13449,
   "verseLikedBy": [
     "7cdc1b6842fa0aa72d878724ca956bc875275adadef16cd65234b486bb0e2f7d",
     "d1833c12b7b45ab3f60923a3bab6ad8ff4b86c83a1bb79fd751b682c07d859b3",
@@ -363,7 +377,8 @@
     "f2a194d81c28cf715c667ac6c06256389a061c087639ca57f6d340f789d5cbd6",
     "555dd1430c8200973a3a8c35a453243cb74853431d93858edb333a4887a04e2d",
     "f1b6865f9740aacc993eb9fc8a2eefeb5c6cb3ff42f9cde92a1cce95f0f79eb4",
-    "2d5833e17d66c6f337900f766beabaffcea5dd2411cabaa035ec972bbf61a2b0"
+    "2d5833e17d66c6f337900f766beabaffcea5dd2411cabaa035ec972bbf61a2b0",
+    "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0"
   ],
   "verseViewBy": []
 }
