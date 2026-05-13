@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778667736544,
+  "updatedAt": 1778667974228,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778667731195",
+      "text": "amen",
+      "userDeviceId": "7b132877fa795ea91be29f8ac22ef3f84e7a1e3596f09435202c5bab728adfb1",
+      "userName": "Biencar",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778667974228,
+      "updatedAt": 1778667974228,
+      "status": "active"
+    },
     {
       "id": "local-1778667091175",
       "text": "amen",
@@ -241,8 +255,8 @@
     }
   ],
   "likeCount": 35,
-  "shareCount": 87,
-  "viewCount": 6109,
+  "shareCount": 89,
+  "viewCount": 6184,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
