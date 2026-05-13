@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778648824361,
+  "updatedAt": 1778648944553,
   "version": 1,
   "comments": [
     {
@@ -70,10 +70,12 @@
       "verseName": "Aje 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390"
+      ],
       "createdAt": 1778645227227,
-      "updatedAt": 1778645227227,
+      "updatedAt": 1778648944553,
       "status": "active"
     },
     {
@@ -112,10 +114,12 @@
       "verseName": "Aje 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390"
+      ],
       "createdAt": 1778644872769,
-      "updatedAt": 1778644872769,
+      "updatedAt": 1778648944553,
       "status": "active"
     },
     {
@@ -142,12 +146,13 @@
       "verseName": "Aje 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48",
+        "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390"
       ],
       "createdAt": 1778644696593,
-      "updatedAt": 1778644696594,
+      "updatedAt": 1778648944553,
       "status": "active"
     },
     {
@@ -194,8 +199,8 @@
     }
   ],
   "likeCount": 20,
-  "shareCount": 20,
-  "viewCount": 4080,
+  "shareCount": 21,
+  "viewCount": 4093,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
