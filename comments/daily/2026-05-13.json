@@ -1,9 +1,25 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778644448215,
+  "updatedAt": 1778644696594,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778644578789",
+      "text": "BONDYE RENMENW EL VLE FÈ ROUT POU OU ZANMIM🙏",
+      "userDeviceId": "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48",
+      "userName": "Eliphete",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
+      "createdAt": 1778644696593,
+      "updatedAt": 1778644696594,
+      "status": "active"
+    },
     {
       "id": "local-1778642566347",
       "text": "BonDieu Fidel",
@@ -49,7 +65,7 @@
   ],
   "likeCount": 17,
   "shareCount": 17,
-  "viewCount": 3345,
+  "viewCount": 3445,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
