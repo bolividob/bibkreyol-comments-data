@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778698865714,
+  "updatedAt": 1778698988084,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778698873896",
+      "text": "Then I got back at 2",
+      "userDeviceId": "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+      "userName": "Omeliz",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778698988084,
+      "updatedAt": 1778698988084,
+      "status": "active"
+    },
     {
       "id": "local-1778692327431",
       "text": "Merci Seigneur Jesus Merci pour Parole ou",
@@ -403,7 +417,7 @@
   ],
   "likeCount": 63,
   "shareCount": 166,
-  "viewCount": 13035,
+  "viewCount": 13059,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
