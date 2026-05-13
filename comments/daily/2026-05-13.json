@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778669048575,
+  "updatedAt": 1778669168666,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778669073160",
+      "text": "Mèsi Pou Lavi Segnè Dye Toupisan🙏",
+      "userDeviceId": "44d1e86f1da7912589ba12c461d4fbde420e6e5619d10c0623df8d6459506edb",
+      "userName": "JAM_RANHT1",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778669168666,
+      "updatedAt": 1778669168666,
+      "status": "active"
+    },
     {
       "id": "local-1778667731195",
       "text": "amen",
@@ -256,7 +270,7 @@
   ],
   "likeCount": 36,
   "shareCount": 99,
-  "viewCount": 6495,
+  "viewCount": 6534,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
