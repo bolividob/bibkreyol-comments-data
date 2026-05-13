@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778692266188,
+  "updatedAt": 1778692386238,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778692327431",
+      "text": "Merci Seigneur Jesus Merci pour Parole ou",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778692386238,
+      "updatedAt": 1778692386238,
+      "status": "active"
+    },
     {
       "id": "local-1778688399654",
       "text": "Jesus sel sove ki ka retire nan sititasyon m ye a",
@@ -387,7 +401,7 @@
   ],
   "likeCount": 60,
   "shareCount": 159,
-  "viewCount": 11974,
+  "viewCount": 11995,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
