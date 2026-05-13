@@ -1,9 +1,37 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778678828740,
+  "updatedAt": 1778678948306,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778678810516",
+      "text": "amen",
+      "userDeviceId": "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
+      "userName": "sispann fè diskisyon initil",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778678948306,
+      "updatedAt": 1778678948306,
+      "status": "active"
+    },
+    {
+      "id": "local-1778678825893",
+      "text": "ame",
+      "userDeviceId": "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
+      "userName": "sispann fè diskisyon initil",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778678948306,
+      "updatedAt": 1778678948306,
+      "status": "active"
+    },
     {
       "id": "local-1778673517947",
       "text": "tout gloire à dieu",
@@ -315,7 +343,7 @@
   ],
   "likeCount": 48,
   "shareCount": 134,
-  "viewCount": 8781,
+  "viewCount": 8813,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
