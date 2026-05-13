@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778673425380,
+  "updatedAt": 1778673544885,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778673517947",
+      "text": "tout gloire à dieu",
+      "userDeviceId": "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
+      "userName": "jesu vivant",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778673544885,
+      "updatedAt": 1778673544885,
+      "status": "active"
+    },
     {
       "id": "local-1778671081985",
       "text": "Mèsi pou gras ou jezi",
@@ -301,7 +315,7 @@
   ],
   "likeCount": 42,
   "shareCount": 116,
-  "viewCount": 7595,
+  "viewCount": 7612,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
