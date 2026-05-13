@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778665387093,
+  "updatedAt": 1778665506890,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778665427026",
+      "text": "mèsi senyè",
+      "userDeviceId": "7df41b1baf5c88b6b7dd69dc404dbe6311e034803389729ca280d8e4072a4367",
+      "userName": "Jimmy",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778665506890,
+      "updatedAt": 1778665506890,
+      "status": "active"
+    },
     {
       "id": "local-1778657094705",
       "text": "tout glwa Pou ou Bondye papam nan 🙏🏼🙇🙏🏼🙏🏼🙇🙏🏼",
@@ -212,9 +226,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 32,
-  "shareCount": 60,
-  "viewCount": 5591,
+  "likeCount": 33,
+  "shareCount": 65,
+  "viewCount": 5608,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
@@ -247,7 +261,8 @@
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "e14690b58e67c087f145f9a81f0701bf06b874829379d6b5fc69bad2bb4379f2",
-    "da5f752f738306d2be3efe43e3163e3c7b725f9394f3e3b73cb7698be9dbe4e7"
+    "da5f752f738306d2be3efe43e3163e3c7b725f9394f3e3b73cb7698be9dbe4e7",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
   ],
   "verseViewBy": []
 }
