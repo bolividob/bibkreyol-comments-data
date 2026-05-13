@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778685854214,
+  "updatedAt": 1778686089935,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778685855328",
+      "text": "Jezi se sel sovem li paso e pechem li mete yn chan nan ♥️ mw",
+      "userDeviceId": "65ba1d80fc026be08f4819a287a61378b5af131be5c6c03d85037945a2ce1b63",
+      "userName": "adelene",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778686089935,
+      "updatedAt": 1778686089935,
+      "status": "active"
+    },
     {
       "id": "local-1778678810516",
       "text": "amen",
@@ -344,8 +358,8 @@
     }
   ],
   "likeCount": 55,
-  "shareCount": 151,
-  "viewCount": 10347,
+  "shareCount": 152,
+  "viewCount": 10392,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
