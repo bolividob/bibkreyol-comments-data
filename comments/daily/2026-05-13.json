@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778687472335,
+  "updatedAt": 1778687592069,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778687534783",
+      "text": "Jezi se mèt lavi a",
+      "userDeviceId": "9e5dce819183acf40a62ea52389807d41d27e9291d4b1cbcf5a4eb338fa68e0f",
+      "userName": "Telusca",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778687592069,
+      "updatedAt": 1778687592069,
+      "status": "active"
+    },
     {
       "id": "local-1778685855328",
       "text": "Jezi se sel sovem li paso e pechem li mete yn chan nan ♥️ mw",
@@ -359,7 +373,7 @@
   ],
   "likeCount": 55,
   "shareCount": 154,
-  "viewCount": 10731,
+  "viewCount": 10755,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
