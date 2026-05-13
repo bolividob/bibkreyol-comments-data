@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778670906482,
+  "updatedAt": 1778671027058,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778674683831",
+      "text": "jezi fèm gras",
+      "userDeviceId": "acccc1c02813281029afa4b9a5a8e69cfc37023a99774dcb7b348dfe53d6f1b9",
+      "userName": "sr jezi",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778671027057,
+      "updatedAt": 1778671027057,
+      "status": "active"
+    },
     {
       "id": "local-1778669073160",
       "text": "Mèsi Pou Lavi Segnè Dye Toupisan🙏",
@@ -273,7 +287,7 @@
   ],
   "likeCount": 40,
   "shareCount": 107,
-  "viewCount": 7006,
+  "viewCount": 7037,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
