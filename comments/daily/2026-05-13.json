@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778710695499,
+  "updatedAt": 1778710871520,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778710835489",
+      "text": "Jesús se lajwa",
+      "userDeviceId": "d26d78a8ba770d1a6118c9f5a1584cb5e64e0287533a55418979479e7618d08c",
+      "userName": "saint germain melky sedec",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778710871520,
+      "updatedAt": 1778710871520,
+      "status": "active"
+    },
     {
       "id": "local-1778709161632",
       "text": "Jezi sovem",
@@ -443,9 +457,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 178,
-  "viewCount": 15389,
+  "likeCount": 69,
+  "shareCount": 180,
+  "viewCount": 15437,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
@@ -513,7 +527,9 @@
     "de9e9a4cbb44f5cdfa5ed50dd28e7877224b3c55977eb23528f3192741515e21",
     "a51c0852bf1ad45582ad940d44122a2662147bce26c3b16d34d4f6638656eb9e",
     "9d0e57cd518b470848ff5c963ceca0ec12baf5c5bf588f9eb4fba6e670595e65",
-    "be65916df1a7461058fa1b0fba331e8d6894234eab8b0eeee44576956954cbf7"
+    "be65916df1a7461058fa1b0fba331e8d6894234eab8b0eeee44576956954cbf7",
+    "caab0bfa5218721681aea2c78dc7839f87effdb6ce87afe43c61df12bf847edb",
+    "d26d78a8ba770d1a6118c9f5a1584cb5e64e0287533a55418979479e7618d08c"
   ],
   "verseViewBy": []
 }
