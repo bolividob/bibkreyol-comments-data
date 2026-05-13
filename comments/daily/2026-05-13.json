@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778640793359,
+  "updatedAt": 1778640974343,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778639575996",
+      "text": "jan",
+      "userDeviceId": "4880947f3ecbb768d854353ac7b246362d09e1e6a9fffa469c3e90948ee3903c",
+      "userName": "bib",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778640974343,
+      "updatedAt": 1778640974343,
+      "status": "active"
+    },
     {
       "id": "local-1778637082400",
       "text": "Jezi se pwoteksyonm",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 14,
   "shareCount": 9,
-  "viewCount": 2512,
+  "viewCount": 2596,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
