@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778645475387,
+  "updatedAt": 1778646668889,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778645603998",
+      "text": "sòm 91",
+      "userDeviceId": "ab48b9b48504f134aba3c7f19a70adff8db9bb4ca3ca21e4cfc5f25243cb9d39",
+      "userName": "sòm 91",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778646668889,
+      "updatedAt": 1778646668889,
+      "status": "active"
+    },
     {
       "id": "local-1778645358318",
       "text": "Bondye beniw zanmim",
@@ -181,7 +195,7 @@
   ],
   "likeCount": 18,
   "shareCount": 17,
-  "viewCount": 3701,
+  "viewCount": 3747,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
