@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778671027058,
+  "updatedAt": 1778671147576,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778671081985",
+      "text": "Mèsi pou gras ou jezi",
+      "userDeviceId": "b2bd591a34610135e5d62bed539fc01c7883b2f1d0362d58b70e62740cc05154",
+      "userName": "Mèsi jezi pou gras ou",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778671147576,
+      "updatedAt": 1778671147576,
+      "status": "active"
+    },
     {
       "id": "local-1778674683831",
       "text": "jezi fèm gras",
@@ -286,8 +300,8 @@
     }
   ],
   "likeCount": 40,
-  "shareCount": 107,
-  "viewCount": 7037,
+  "shareCount": 108,
+  "viewCount": 7069,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
