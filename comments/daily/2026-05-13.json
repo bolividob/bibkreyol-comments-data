@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778645347835,
+  "updatedAt": 1778645475387,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778645358318",
+      "text": "Bondye beniw zanmim",
+      "userDeviceId": "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48",
+      "userName": "Eliphete",
+      "verseName": "Aje 2:1",
+      "parentId": "local-1778637082400",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778645475387,
+      "updatedAt": 1778645475387,
+      "status": "active"
+    },
     {
       "id": "local-1778645266282",
       "text": "Bondye beniw zanmim",
@@ -26,10 +40,12 @@
       "verseName": "Aje 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
       "createdAt": 1778645347835,
-      "updatedAt": 1778645347835,
+      "updatedAt": 1778645475387,
       "status": "active"
     },
     {
@@ -96,10 +112,12 @@
       "verseName": "Aje 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
       "createdAt": 1778644872769,
-      "updatedAt": 1778644872769,
+      "updatedAt": 1778645475387,
       "status": "active"
     },
     {
@@ -153,17 +171,17 @@
       "userName": "esner",
       "verseName": "Aje 2:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1778637318826,
-      "updatedAt": 1778637318826,
+      "updatedAt": 1778645475387,
       "status": "active"
     }
   ],
   "likeCount": 18,
   "shareCount": 17,
-  "viewCount": 3665,
+  "viewCount": 3701,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
