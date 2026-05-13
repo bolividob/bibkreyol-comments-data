@@ -1,9 +1,23 @@
 {
   "date": "2026-05-13",
   "verseKey": "daily:2026-05-13",
-  "updatedAt": 1778709007408,
+  "updatedAt": 1778709127834,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778709094279",
+      "text": "Bonswa",
+      "userDeviceId": "3e909aad6401040c9efaf1e694d3893842e39efc899eec9f7724e4ffd9f8873e",
+      "userName": "Fortuna",
+      "verseName": "Aje 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778709127834,
+      "updatedAt": 1778709127834,
+      "status": "active"
+    },
     {
       "id": "local-1778698873896",
       "text": "Then I got back at 2",
@@ -416,8 +430,8 @@
     }
   ],
   "likeCount": 65,
-  "shareCount": 176,
-  "viewCount": 14929,
+  "shareCount": 177,
+  "viewCount": 14969,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "5bb96bb9bed8723032541ba8981ee1897f10ad0b96b394b1d728072b5f37df61",
