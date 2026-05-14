@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778723293733,
+  "updatedAt": 1778723472671,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778723440870",
+      "text": "amén amén amén amén 🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778723472671,
+      "updatedAt": 1778723472671,
+      "status": "active"
+    },
     {
       "id": "local-1778720580156",
       "text": "David",
@@ -33,15 +47,18 @@
       "status": "active"
     }
   ],
-  "likeCount": 5,
+  "likeCount": 8,
   "shareCount": 13,
-  "viewCount": 1535,
+  "viewCount": 1607,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
     "e28f32c4c34c1ddf832e7e23eb1ce35af53ecaa7e8ae0900866a3829ab6a2c4a",
     "0d84c724018bb68c5b6b1b0d83b46bd489fee2f676e9e5ce85736776a30b9582",
-    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
+    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+    "f320a158daa10449929a35c35a5cb7ecf687283724896c9d09269b534b0d55fa",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+    "494378782536b69e6a980a14b6f401342cf31b74451b015f820b95379ff24722"
   ],
   "verseViewBy": []
 }
