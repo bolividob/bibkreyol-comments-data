@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778731928226,
+  "updatedAt": 1778732046036,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778732002553",
+      "text": "Amém aleluia aleluia aleluia",
+      "userDeviceId": "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04",
+      "userName": "mystafa",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778732046035,
+      "updatedAt": 1778732046035,
+      "status": "active"
+    },
     {
       "id": "local-1778729905008",
       "text": "Benie soit L'eternel mon Rocher",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
+  "likeCount": 19,
   "shareCount": 25,
-  "viewCount": 3777,
+  "viewCount": 3802,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
@@ -152,7 +166,8 @@
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "f0333e8c15ab75f344684c1c23cedc936f89c3b0cc3ca0515763887b90d2fd37",
-    "77911c4ce403aab0baca4a1407d23812fdd2e72bf733529150b9fa4691559bcd"
+    "77911c4ce403aab0baca4a1407d23812fdd2e72bf733529150b9fa4691559bcd",
+    "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04"
   ],
   "verseViewBy": []
 }
