@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778781676898,
+  "updatedAt": 1778781919988,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778781785409",
+      "text": "Li bon pou nou aprann pawòl bondye 🙏🙏🙏",
+      "userDeviceId": "ef16a2f9b8dd9f5865a7a10c27d672f3326ec869be21997aee9cc5fea057b983",
+      "userName": "Fender",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778781919988,
+      "updatedAt": 1778781919988,
+      "status": "active"
+    },
     {
       "id": "local-1778781505404",
       "text": "amène",
@@ -289,7 +303,7 @@
   ],
   "likeCount": 90,
   "shareCount": 191,
-  "viewCount": 12626,
+  "viewCount": 12659,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
