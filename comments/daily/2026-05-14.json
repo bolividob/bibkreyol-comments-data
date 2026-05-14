@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778796327415,
+  "updatedAt": 1778796623262,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778796454389",
+      "text": "Merci seigneur 🙏",
+      "userDeviceId": "6bb75f2dec561abed7788efffc1d756edd7078208258852a77f767926c0cda0b",
+      "userName": "periana",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778796623262,
+      "updatedAt": 1778796623262,
+      "status": "active"
+    },
     {
       "id": "local-1778792573496",
       "text": "desan biker l",
@@ -330,8 +344,8 @@
     }
   ],
   "likeCount": 108,
-  "shareCount": 212,
-  "viewCount": 15370,
+  "shareCount": 214,
+  "viewCount": 15453,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
