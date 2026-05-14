@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778792481268,
+  "updatedAt": 1778792589856,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778792573496",
+      "text": "desan biker l",
+      "userDeviceId": "f128b7896562564a86beec6d87714398cb4fa1eb703338be7b188c5867fa4a06",
+      "userName": "bib kreyol mwen bezwen",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778792589856,
+      "updatedAt": 1778792589856,
+      "status": "active"
+    },
     {
       "id": "local-1778781516631",
       "text": "amen",
@@ -315,9 +329,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 105,
-  "shareCount": 210,
-  "viewCount": 14439,
+  "likeCount": 104,
+  "shareCount": 211,
+  "viewCount": 14469,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
@@ -422,7 +436,6 @@
     "78e821d77f5a7eae2d3f181ae90dc940fc74ab72a0eb3d31f9e2dcfb366a55e8",
     "9e52f4027a8cad59a7169eb53ab5a04af541999e05685dd735b5c64ca9488a12",
     "32e0bfe8174657b9c39387f825754bfd6e016b25bf0f81950bbf4be0fbd5066c",
-    "f128b7896562564a86beec6d87714398cb4fa1eb703338be7b188c5867fa4a06",
     "307cb47d8440bff77190cea99596967d502840cfae28d781ec22eca35e61a052"
   ],
   "verseViewBy": []
