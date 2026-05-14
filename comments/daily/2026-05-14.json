@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778752747406,
+  "updatedAt": 1778752867521,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778752766036",
+      "text": "Amen gra's a Dye tou pyisan",
+      "userDeviceId": "470d7b2c6043f2a522d60acaea70316a59fcbaa9d8a8ba0f708ae7f52d7f8892",
+      "userName": "Carole Desir",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778752867521,
+      "updatedAt": 1778752867521,
+      "status": "active"
+    },
     {
       "id": "local-1778732002553",
       "text": "Amém aleluia aleluia aleluia",
@@ -147,7 +161,7 @@
   ],
   "likeCount": 41,
   "shareCount": 108,
-  "viewCount": 6002,
+  "viewCount": 6030,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
