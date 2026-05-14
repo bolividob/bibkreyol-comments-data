@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778729537429,
+  "updatedAt": 1778729838431,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778729551169",
+      "text": "Amen amen 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778729838431,
+      "updatedAt": 1778729838431,
+      "status": "active"
+    },
     {
       "id": "local-1778729429494",
       "text": "Amen 👏",
@@ -105,7 +119,7 @@
   ],
   "likeCount": 15,
   "shareCount": 24,
-  "viewCount": 2894,
+  "viewCount": 3011,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
