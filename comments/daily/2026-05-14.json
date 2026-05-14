@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778777526727,
+  "updatedAt": 1778777645984,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778777549951",
+      "text": "li se Bondieu li fè impsib yo posib",
+      "userDeviceId": "c77d4a80a4637e4c45e8fbaf3de9355546618cbba6d7d369455399037514eff4",
+      "userName": "ginakersaint",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778777645984,
+      "updatedAt": 1778777645984,
+      "status": "active"
+    },
     {
       "id": "local-1778775830474",
       "text": "Amen",
@@ -246,8 +260,8 @@
     }
   ],
   "likeCount": 82,
-  "shareCount": 187,
-  "viewCount": 11861,
+  "shareCount": 188,
+  "viewCount": 11882,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
