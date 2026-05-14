@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778757247940,
+  "updatedAt": 1778757367689,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778746183751",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778757367689,
+      "updatedAt": 1778757367689,
+      "status": "active"
+    },
     {
       "id": "local-1778752766036",
       "text": "Amen gra's a Dye tou pyisan",
@@ -161,7 +175,7 @@
   ],
   "likeCount": 58,
   "shareCount": 134,
-  "viewCount": 7217,
+  "viewCount": 7250,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
