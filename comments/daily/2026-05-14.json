@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778798725774,
+  "updatedAt": 1778798828842,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "2 Wa 7:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ff2616afdef028c9b898ab54f22ebe70162520c6b7512415b4faa12aba9ad881"
+      ],
       "createdAt": 1778792589856,
-      "updatedAt": 1778792589856,
+      "updatedAt": 1778798828842,
       "status": "active"
     },
     {
@@ -343,9 +345,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 109,
+  "likeCount": 110,
   "shareCount": 219,
-  "viewCount": 16209,
+  "viewCount": 16245,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
@@ -455,7 +457,8 @@
     "2202109b21a7edab7d3af78942627e859c6ef90848831f17acb71619931fc1e2",
     "2094d4dab76e11121d3b6aeba489c113916201dddec03d8382e2bbc4c6b194a9",
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
-    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "cdddae2538b906817880f5093e6bf8acf057453836367b3f8a0f8b30d93c2b44"
   ],
   "verseViewBy": []
 }
