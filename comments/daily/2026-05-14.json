@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778781425678,
+  "updatedAt": 1778781546395,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778781505404",
+      "text": "amène",
+      "userDeviceId": "5b79b52e71d71406c857143a6b2418b4885e3cc915f142e976e8f1e8c8af85b8",
+      "userName": "josaphat",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778781546395,
+      "updatedAt": 1778781546395,
+      "status": "active"
+    },
     {
       "id": "local-1778781209945",
       "text": "Mesi senyé pou tout sa ou fè nan la vi mwen , e Mesi pou tout sa oi ye nan la vi mwen , mwen Beni Nom w , mwen Baw Aksyon de Gras , mwen agzaltew , mwen selebre la tou puissant Jesus christ de Nazaréth , mwen glorifye Nom w , Ho Nom de Jesus🙏🙏🙏Amén",
@@ -273,9 +287,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 89,
+  "likeCount": 90,
   "shareCount": 191,
-  "viewCount": 12589,
+  "viewCount": 12608,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
@@ -365,7 +379,8 @@
     "1bbe26c65adc54ff584f07a0926df640bcafa5d6762111e75260f39dadc7f221",
     "6b6de6fb4f2616371ca46cd5b9d1e3110216f875b5722e70e428ef95ea0eb693",
     "66b3150451dcafa06e7d3df80df11784d9711bcc58fa135ef8c4099895b79424",
-    "85f8b33eae06b570abd80d950b78c9160351af84800e308ab0a5f07a41156479"
+    "85f8b33eae06b570abd80d950b78c9160351af84800e308ab0a5f07a41156479",
+    "5b79b52e71d71406c857143a6b2418b4885e3cc915f142e976e8f1e8c8af85b8"
   ],
   "verseViewBy": []
 }
