@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778757486559,
+  "updatedAt": 1778757605931,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778757498295",
+      "text": "Amen 🙏🙏🙏 gras bondye",
+      "userDeviceId": "3d3de5bca780411f28a9ad55e6dba9c0835eae3a28f465802f70d265a0527a6a",
+      "userName": "Rosa.... Rameses",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778757605931,
+      "updatedAt": 1778757605931,
+      "status": "active"
+    },
     {
       "id": "local-1778746183751",
       "text": "Amén 🙏🙏🙏",
@@ -174,8 +188,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 136,
-  "viewCount": 7275,
+  "shareCount": 138,
+  "viewCount": 7300,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
