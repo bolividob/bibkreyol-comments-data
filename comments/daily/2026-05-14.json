@@ -1,9 +1,23 @@
 {
   "date": "2026-05-14",
   "verseKey": "daily:2026-05-14",
-  "updatedAt": 1778729838431,
+  "updatedAt": 1778730011275,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778729905008",
+      "text": "Benie soit L'eternel mon Rocher",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778730011275,
+      "updatedAt": 1778730011275,
+      "status": "active"
+    },
     {
       "id": "local-1778729551169",
       "text": "Amen amen 🙏",
@@ -119,7 +133,7 @@
   ],
   "likeCount": 15,
   "shareCount": 24,
-  "viewCount": 3011,
+  "viewCount": 3068,
   "verseLikedBy": [
     "bda2fa374a64e5884dba8751f2e634c1090918b90bf17eb0f47a86595ad13e97",
     "9acfcafe42ca7087233767b0d41e2d708bc5ed14f697999a040406c7025d1d09",
