@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778844486359,
+  "updatedAt": 1778844607156,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778844526684",
+      "text": "mèsi anpil wi JEZi",
+      "userDeviceId": "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+      "userName": "Ruth",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778844607156,
+      "updatedAt": 1778844607156,
+      "status": "active"
+    },
     {
       "id": "local-1778818065451",
       "text": "Possums 35",
@@ -150,9 +164,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 39,
-  "shareCount": 105,
-  "viewCount": 7485,
+  "likeCount": 40,
+  "shareCount": 107,
+  "viewCount": 7518,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
@@ -192,7 +206,8 @@
     "2fd17d235d6b0cb85023abd28af01077721df1ea70fa8b0ef641c81fd52f091b",
     "f175366b932bca226bfb7f7cc4b8b7243e72c8e88c6abe452283b4fb971dbeee",
     "44d1e86f1da7912589ba12c461d4fbde420e6e5619d10c0623df8d6459506edb",
-    "7d5ad91b70f83700ffef82b8b3264d76cb19bba8490f2c23385656e1bd8e5a06"
+    "7d5ad91b70f83700ffef82b8b3264d76cb19bba8490f2c23385656e1bd8e5a06",
+    "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0"
   ],
   "verseViewBy": []
 }
