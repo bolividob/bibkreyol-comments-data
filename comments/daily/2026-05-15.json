@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778859847050,
+  "updatedAt": 1778859966774,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778859927299",
+      "text": "Bondye beniw",
+      "userDeviceId": "81b6ba7354e8488a77da253b33b4f1b817b233a67262b589125f429c872bb3c7",
+      "userName": "Dionise",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778859966774,
+      "updatedAt": 1778859966774,
+      "status": "active"
+    },
     {
       "id": "local-1778856389929",
       "text": "kite yon kòmantè pou Eliphete zanmim yo sak vle patisipe avel yo mèsi",
@@ -250,7 +264,7 @@
   ],
   "likeCount": 56,
   "shareCount": 139,
-  "viewCount": 10673,
+  "viewCount": 10705,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
