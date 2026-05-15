@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778809820900,
+  "updatedAt": 1778809998781,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778809858741",
+      "text": "Jezi kris fe nou gras",
+      "userDeviceId": "63e0cd52174cee0335735b7fd0049aff3da09bd64904414b1cd6f61d46210fe4",
+      "userName": "Jezi fe nou gras",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778809998781,
+      "updatedAt": 1778809998781,
+      "status": "active"
+    },
     {
       "id": "local-1778807553059",
       "text": "eskew fè la pè a kris deja poul resevwa mesaj ou a zanmim",
@@ -54,16 +68,18 @@
       "verseName": "Sofonyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "63e0cd52174cee0335735b7fd0049aff3da09bd64904414b1cd6f61d46210fe4"
+      ],
       "createdAt": 1778803461177,
-      "updatedAt": 1778803461177,
+      "updatedAt": 1778809998781,
       "status": "active"
     }
   ],
   "likeCount": 7,
   "shareCount": 6,
-  "viewCount": 1671,
+  "viewCount": 1759,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
