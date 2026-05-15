@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778812766752,
+  "updatedAt": 1778813060857,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778812997782",
+      "text": "🙏😔 Jesus",
+      "userDeviceId": "5de6289f3516259a89dffdf66daf42d42a02e47141b919d93706e808f4ab397a",
+      "userName": "Debora",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778813060857,
+      "updatedAt": 1778813060857,
+      "status": "active"
+    },
     {
       "id": "local-1778811768167",
       "text": "ho Jezi papa",
@@ -92,9 +106,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 9,
-  "viewCount": 2335,
+  "likeCount": 11,
+  "shareCount": 10,
+  "viewCount": 2461,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
@@ -104,7 +118,9 @@
     "7245b30f99f11164a5d415a41f31ff0a9e879b7af6b97f2316c928742a2689e9",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
     "6bd3022df79521180f1e0b46a83a9fcee610f9d936322397ab8a4ff647549382",
-    "f9cb44ee0909afe23329a455a736d552d65a3b4106e6ead619c775c2f3b80cec"
+    "f9cb44ee0909afe23329a455a736d552d65a3b4106e6ead619c775c2f3b80cec",
+    "129dd4e0631c25544750c4d44863cb0e45038207e9caf42ca0240cbbac929b3e",
+    "5de6289f3516259a89dffdf66daf42d42a02e47141b919d93706e808f4ab397a"
   ],
   "verseViewBy": []
 }
