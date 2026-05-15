@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778856185997,
+  "updatedAt": 1778856321346,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Sofonyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
       "createdAt": 1778856185997,
-      "updatedAt": 1778856185997,
+      "updatedAt": 1778856321346,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Sofonyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
       "createdAt": 1778856067051,
-      "updatedAt": 1778856067051,
+      "updatedAt": 1778856321346,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Sofonyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
       "createdAt": 1778856067051,
-      "updatedAt": 1778856067051,
+      "updatedAt": 1778856321346,
       "status": "active"
     },
     {
@@ -142,10 +148,12 @@
       "verseName": "Sofonyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
       "createdAt": 1778812468808,
-      "updatedAt": 1778812468808,
+      "updatedAt": 1778856321346,
       "status": "active"
     },
     {
@@ -156,10 +164,12 @@
       "verseName": "Sofonyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
       "createdAt": 1778809998781,
-      "updatedAt": 1778809998781,
+      "updatedAt": 1778856321346,
       "status": "active"
     },
     {
@@ -224,7 +234,7 @@
   ],
   "likeCount": 53,
   "shareCount": 137,
-  "viewCount": 9935,
+  "viewCount": 9963,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
