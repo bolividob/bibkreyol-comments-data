@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778885827140,
+  "updatedAt": 1778886072962,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778886019017",
+      "text": "tout gloire pou Bondye",
+      "userDeviceId": "c61b686a8485e45d49790bb2b181b86d1cfbe9ce42b7392351ff71c9c7dba608",
+      "userName": "kensley",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778886072962,
+      "updatedAt": 1778886072962,
+      "status": "active"
+    },
     {
       "id": "local-1778882372947",
       "text": "merci jezi pou lavie ou ban mw",
@@ -320,7 +334,7 @@
   ],
   "likeCount": 76,
   "shareCount": 166,
-  "viewCount": 15962,
+  "viewCount": 16035,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
