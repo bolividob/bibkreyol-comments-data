@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778886547508,
+  "updatedAt": 1778886668674,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778886620195",
+      "text": "som",
+      "userDeviceId": "e677c2fd74fadb227d6d639d09a0c8de0f1845aff86a733a2f5649c6b4d43d7f",
+      "userName": "abdyas",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778886668674,
+      "updatedAt": 1778886668674,
+      "status": "active"
+    },
     {
       "id": "local-1778886019017",
       "text": "tout gloire pou Bondye",
@@ -332,9 +346,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 77,
-  "shareCount": 166,
-  "viewCount": 16173,
+  "likeCount": 79,
+  "shareCount": 167,
+  "viewCount": 16213,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
@@ -412,7 +426,9 @@
     "88b1ddde4e110827e0740468d6cb8022203dc23f2a6b99b89773b3d4e3152873",
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
-    "de63756f08f2c26fcfad0a15ab99e6f0956b547c98cd7383d4c58ab8848cdbd0"
+    "de63756f08f2c26fcfad0a15ab99e6f0956b547c98cd7383d4c58ab8848cdbd0",
+    "8e63c232a87f4ba0e2a6ab539b5ed05bb601a1dab57b0dd1262e8138e4cb27dc",
+    "e677c2fd74fadb227d6d639d09a0c8de0f1845aff86a733a2f5649c6b4d43d7f"
   ],
   "verseViewBy": []
 }
