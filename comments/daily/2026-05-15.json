@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778806150345,
+  "updatedAt": 1778806273767,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778804783368",
+      "text": "delivrem senye mabaw gla",
+      "userDeviceId": "73526db994dd5b40c2176593aa43bd7933bff4cc0bd831dfa95480eac166eaaf",
+      "userName": "litania jean",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778806273767,
+      "updatedAt": 1778806273767,
+      "status": "active"
+    },
     {
       "id": "local-1778803362859",
       "text": "Fè nou grace Seigneur Jesus",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 3,
   "shareCount": 5,
-  "viewCount": 676,
+  "viewCount": 738,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
