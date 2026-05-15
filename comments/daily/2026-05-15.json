@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778818028006,
+  "updatedAt": 1778818148513,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778818065451",
+      "text": "Possums 35",
+      "userDeviceId": "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c",
+      "userName": "soeur Bellefleur",
+      "verseName": "2 Wa 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778818148513,
+      "updatedAt": 1778818148513,
+      "status": "active"
+    },
     {
       "id": "local-1778816371684",
       "text": "jezibdp",
@@ -136,7 +150,7 @@
   ],
   "likeCount": 18,
   "shareCount": 23,
-  "viewCount": 3716,
+  "viewCount": 3758,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
