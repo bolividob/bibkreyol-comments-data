@@ -1,9 +1,25 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778856321346,
+  "updatedAt": 1778856425564,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778856389929",
+      "text": "kite yon kòmantè pou Eliphete zanmim yo sak vle patisipe avel yo mèsi",
+      "userDeviceId": "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48",
+      "userName": "Eliphete",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "ba72c7e23e0db954bdc7c0ced7cefcd873118b551145974ec566460134f18e48"
+      ],
+      "createdAt": 1778856425564,
+      "updatedAt": 1778856425564,
+      "status": "active"
+    },
     {
       "id": "local-1778806297653",
       "text": "la tè gen poul fini",
@@ -234,7 +250,7 @@
   ],
   "likeCount": 53,
   "shareCount": 137,
-  "viewCount": 9963,
+  "viewCount": 9981,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
