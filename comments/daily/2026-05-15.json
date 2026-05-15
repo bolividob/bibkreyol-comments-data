@@ -1,9 +1,23 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778867224629,
+  "updatedAt": 1778867593502,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778867258159",
+      "text": "Merci anpil anpil Bon Dye",
+      "userDeviceId": "2f2390fed6ab94df01aafae5456c60ed25eb48a0870564d0cb7c36c27d8f07bf",
+      "userName": "Elie",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778867593502,
+      "updatedAt": 1778867593502,
+      "status": "active"
+    },
     {
       "id": "local-1778859927299",
       "text": "Bondye beniw",
@@ -263,8 +277,8 @@
     }
   ],
   "likeCount": 61,
-  "shareCount": 150,
-  "viewCount": 12342,
+  "shareCount": 151,
+  "viewCount": 12409,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
