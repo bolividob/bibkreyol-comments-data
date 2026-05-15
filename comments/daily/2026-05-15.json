@@ -1,12 +1,29 @@
 {
   "date": "2026-05-15",
   "verseKey": "daily:2026-05-15",
-  "updatedAt": 1778803272406,
+  "updatedAt": 1778803461178,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
-  "shareCount": 1,
-  "viewCount": 64,
-  "verseLikedBy": [],
+  "comments": [
+    {
+      "id": "local-1778803362859",
+      "text": "Fè nou grace Seigneur Jesus",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Sofonyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778803461177,
+      "updatedAt": 1778803461177,
+      "status": "active"
+    }
+  ],
+  "likeCount": 1,
+  "shareCount": 3,
+  "viewCount": 154,
+  "verseLikedBy": [
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+  ],
   "verseViewBy": []
 }
