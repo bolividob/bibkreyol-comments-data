@@ -1,9 +1,23 @@
 {
   "date": "2026-05-16",
   "verseKey": "daily:2026-05-16",
-  "updatedAt": 1778899943044,
+  "updatedAt": 1778900121710,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778900015921",
+      "text": "papa papa",
+      "userDeviceId": "3208b7f970d688125ca3abeb340429e1599109cfaec183d2bd3be44062eaa2ec",
+      "userName": "JEZI KRIS",
+      "verseName": "Jij 9:13",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778900121710,
+      "updatedAt": 1778900121710,
+      "status": "active"
+    },
     {
       "id": "local-1778895935368",
       "text": "AMEN",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
+  "likeCount": 14,
   "shareCount": 15,
-  "viewCount": 3010,
+  "viewCount": 3128,
   "verseLikedBy": [
     "d17241a9a9aed5db99840c5135d332696b7cdf6eb04418c6c25b103ff91630e7",
     "98296db89abd4c5f1f13fa60b168a6c27a3778f3d452124665b8f513c90c5ebc",
@@ -63,7 +77,8 @@
     "c5e86f824d75fca318d9359aad402b86bdc30668690143a692149965b7f6e8ef",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "50148909c2c23f1bd51960ca0717ea82f5815eac2364eac1c6ff477bfe799023",
-    "5df52faf7c9a96bc29a532d8d9e1215016967cc40dbf90a5adac22c568e44342"
+    "5df52faf7c9a96bc29a532d8d9e1215016967cc40dbf90a5adac22c568e44342",
+    "95384f0a7b59fba2dc4b63aa73aa2ccc432bb2e8bc566e5a27109811ec36ad28"
   ],
   "verseViewBy": []
 }
