@@ -1,9 +1,23 @@
 {
   "date": "2026-05-16",
   "verseKey": "daily:2026-05-16",
-  "updatedAt": 1778975540458,
+  "updatedAt": 1778975833948,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778975526361",
+      "text": "seigneur Jésus 🙏🏾😭",
+      "userDeviceId": "e736496e8cc4f4b339a115718a5842b20635a4c5bd9d62010b5e6ade8ffe388e",
+      "userName": "WUDE🙏🏾💫",
+      "verseName": "Jòb 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778975833948,
+      "updatedAt": 1778975833948,
+      "status": "active"
+    },
     {
       "id": "local-1778971456523",
       "text": "waww mèsi Bondye",
@@ -157,9 +171,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 80,
-  "shareCount": 148,
-  "viewCount": 17647,
+  "likeCount": 79,
+  "shareCount": 150,
+  "viewCount": 17735,
   "verseLikedBy": [
     "d17241a9a9aed5db99840c5135d332696b7cdf6eb04418c6c25b103ff91630e7",
     "98296db89abd4c5f1f13fa60b168a6c27a3778f3d452124665b8f513c90c5ebc",
@@ -239,8 +253,7 @@
     "46d1a15e78150306ceaf870a0bf76167f4b58e867f0fe1ffccddf9b59f017f60",
     "b379663c506123a12ca4989dca1258f16a85c748444228736dbd7b3dd487ced8",
     "9c70672ccd4dc561ee9b6a177a75053c093f7161219490d2e7f1413f3c59845a",
-    "e736496e8cc4f4b339a115718a5842b20635a4c5bd9d62010b5e6ade8ffe388e",
-    "22dc6173f4f16528eae8a13c49d85f124d26f3914ef6096f4463b17286fd6086"
+    "e736496e8cc4f4b339a115718a5842b20635a4c5bd9d62010b5e6ade8ffe388e"
   ],
   "verseViewBy": []
 }
