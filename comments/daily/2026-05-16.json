@@ -1,9 +1,23 @@
 {
   "date": "2026-05-16",
   "verseKey": "daily:2026-05-16",
-  "updatedAt": 1778968269027,
+  "updatedAt": 1778968386201,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778968375228",
+      "text": "Merci Merci Merci Seigneur",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Jòb 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778968386201,
+      "updatedAt": 1778968386201,
+      "status": "active"
+    },
     {
       "id": "local-1778913736248",
       "text": "Mèsi Bondye pou gras ou🙏🏼",
@@ -129,9 +143,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
+  "likeCount": 69,
   "shareCount": 138,
-  "viewCount": 15552,
+  "viewCount": 15581,
   "verseLikedBy": [
     "d17241a9a9aed5db99840c5135d332696b7cdf6eb04418c6c25b103ff91630e7",
     "98296db89abd4c5f1f13fa60b168a6c27a3778f3d452124665b8f513c90c5ebc",
@@ -200,7 +214,8 @@
     "c877f0d8e1dfff7fb7faec117b865854d7839d086e9bf98573bae706d713a48e",
     "4cc92ee848f98166fa7303f7cfae15ec1ea664a816528a28f0c8633a06782fab",
     "2f854f962043e4b7b55b30d4c9f1c1530f557e5dc53d336021c9e03d3410f174",
-    "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883"
+    "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
