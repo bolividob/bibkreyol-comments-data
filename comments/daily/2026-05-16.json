@@ -1,9 +1,25 @@
 {
   "date": "2026-05-16",
   "verseKey": "daily:2026-05-16",
-  "updatedAt": 1778956867140,
+  "updatedAt": 1778956985590,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778913736248",
+      "text": "Mèsi Bondye pou gras ou🙏🏼",
+      "userDeviceId": "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1",
+      "userName": "Mesalien Ronald",
+      "verseName": "Jòb 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1"
+      ],
+      "createdAt": 1778956985590,
+      "updatedAt": 1778956985590,
+      "status": "active"
+    },
     {
       "id": "local-1778948216982",
       "text": "bon sevis",
@@ -12,10 +28,12 @@
       "verseName": "Jòb 8:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1"
+      ],
       "createdAt": 1778948226781,
-      "updatedAt": 1778948226781,
+      "updatedAt": 1778956985589,
       "status": "active"
     },
     {
@@ -26,10 +44,12 @@
       "verseName": "Jòb 8:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1"
+      ],
       "createdAt": 1778903474723,
-      "updatedAt": 1778903474723,
+      "updatedAt": 1778956985589,
       "status": "active"
     },
     {
@@ -40,10 +60,12 @@
       "verseName": "Jòb 8:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1"
+      ],
       "createdAt": 1778903474723,
-      "updatedAt": 1778903474723,
+      "updatedAt": 1778956985589,
       "status": "active"
     },
     {
@@ -54,10 +76,12 @@
       "verseName": "Jij 9:13",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1"
+      ],
       "createdAt": 1778900121710,
-      "updatedAt": 1778900121710,
+      "updatedAt": 1778956985589,
       "status": "active"
     },
     {
@@ -96,16 +120,18 @@
       "verseName": "Jòb 8:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1"
+      ],
       "createdAt": 1778895311047,
-      "updatedAt": 1778895975340,
+      "updatedAt": 1778956985589,
       "status": "active"
     }
   ],
-  "likeCount": 60,
+  "likeCount": 62,
   "shareCount": 128,
-  "viewCount": 13249,
+  "viewCount": 13268,
   "verseLikedBy": [
     "d17241a9a9aed5db99840c5135d332696b7cdf6eb04418c6c25b103ff91630e7",
     "98296db89abd4c5f1f13fa60b168a6c27a3778f3d452124665b8f513c90c5ebc",
@@ -166,7 +192,9 @@
     "1d1197ea5c54ac9ff36b9bd2eb166e6b07cb303f7c11f851eb28bf47f27e9fba",
     "ac5828ff576731754028db760d8cae04178ae3270e279fbb57eef88949577a45",
     "3559cad9ab675930d72606bf59fd2560e2cc697df7a0e7eee23842bb52ac7444",
-    "5484fc01675173ffd602c72f385c45ab43ddae6d52a33bd991657eac23f52845"
+    "5484fc01675173ffd602c72f385c45ab43ddae6d52a33bd991657eac23f52845",
+    "129239600044202088b190147df6be7934c339ab9c430c39732ea56782f880f1",
+    "0f75a99003a979a63b2fa0e46cb751702476762d62c72457b04aeabc96eb34f3"
   ],
   "verseViewBy": []
 }
