@@ -1,12 +1,27 @@
 {
   "date": "2026-05-17",
   "verseKey": "daily:2026-05-17",
-  "updatedAt": 1778978105195,
+  "updatedAt": 1778978228608,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1778977954540",
+      "text": "Rashooo",
+      "userDeviceId": "c3f6f3f2cf1ef96dc938e376db0f638830b271648b19923dae2a88d27ae297e0",
+      "userName": "Rashooo",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778978228608,
+      "updatedAt": 1778978228608,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
   "shareCount": 2,
-  "viewCount": 499,
+  "viewCount": 549,
   "verseLikedBy": [
     "3d2685cc0ca2871be415b9ae602122319921510583c5934a04ccb506e9905b64"
   ],
