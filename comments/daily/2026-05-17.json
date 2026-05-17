@@ -1,9 +1,37 @@
 {
   "date": "2026-05-17",
   "verseKey": "daily:2026-05-17",
-  "updatedAt": 1779032397671,
+  "updatedAt": 1779036119673,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778989289270",
+      "text": "sm",
+      "userDeviceId": "0f0f9fc2a444f64a0d2358bd48c294d65af56e99379857acc0febf035fe6d653",
+      "userName": "2kw on nlk",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779036119673,
+      "updatedAt": 1779036119673,
+      "status": "active"
+    },
+    {
+      "id": "local-1778989274711",
+      "text": "sm",
+      "userDeviceId": "0f0f9fc2a444f64a0d2358bd48c294d65af56e99379857acc0febf035fe6d653",
+      "userName": "2kw on nlk",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779036119672,
+      "updatedAt": 1779036119672,
+      "status": "active"
+    },
     {
       "id": "local-1779028462148",
       "text": "✝️✝️",
@@ -208,10 +236,12 @@
       "verseName": "Malaki 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0f0f9fc2a444f64a0d2358bd48c294d65af56e99379857acc0febf035fe6d653"
+      ],
       "createdAt": 1778982189025,
-      "updatedAt": 1778982189025,
+      "updatedAt": 1779036119672,
       "status": "active"
     },
     {
@@ -427,9 +457,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
-  "shareCount": 94,
-  "viewCount": 11903,
+  "likeCount": 51,
+  "shareCount": 99,
+  "viewCount": 12885,
   "verseLikedBy": [
     "3d2685cc0ca2871be415b9ae602122319921510583c5934a04ccb506e9905b64",
     "9cc5f605695951e497d910a1533c039eeeb66079649bde3f819fa3d4ef51de1c",
@@ -480,7 +510,8 @@
     "6b707c63db2bf82612bffe1c67155882639b1ea3d49b439c3bf28d73f79279b7",
     "41aaa3f2fb9facb3d79705f72ec956ebbf2001257973219118d1557866197a56",
     "ddebc9f57faea54a903ee5c5497db95a05ae6e7993488f6906dbde652acb3e58",
-    "a6bd16886bfc9cba940cf6dc5f5e062c05121bb98ea0e817a84eb672ccd05a8d"
+    "a6bd16886bfc9cba940cf6dc5f5e062c05121bb98ea0e817a84eb672ccd05a8d",
+    "a3c3bc4d36c1f5f88e4556392b4a272b8ce7455c9ea148bcf4b23b49332a32df"
   ],
   "verseViewBy": []
 }
