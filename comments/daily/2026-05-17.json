@@ -1,9 +1,65 @@
 {
   "date": "2026-05-17",
   "verseKey": "daily:2026-05-17",
-  "updatedAt": 1779022041648,
+  "updatedAt": 1779025361020,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779023568139",
+      "text": "Amèn 🙏🏼",
+      "userDeviceId": "5336c24e4f30b8e0cde95e9641f1fbc210b064903c58f0f457aee7fe26427050",
+      "userName": "VALMYR",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779025361020,
+      "updatedAt": 1779025361020,
+      "status": "active"
+    },
+    {
+      "id": "local-1779025024534",
+      "text": "amen",
+      "userDeviceId": "12fa131915fe964cab15cf29dc6c8248acc72a01448cd168cff3aa2df78b15d8",
+      "userName": "Jean Tony Théodore",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779025361020,
+      "updatedAt": 1779025361020,
+      "status": "active"
+    },
+    {
+      "id": "local-1779022034208",
+      "text": "Fem gras Seigneur",
+      "userDeviceId": "106a0f076b280b9ba84a8cb04bffd1c69f18d18f90bb7be49863fbdf6bbfd555",
+      "userName": "Faïmare",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779025361019,
+      "updatedAt": 1779025361019,
+      "status": "active"
+    },
+    {
+      "id": "local-1779024543012",
+      "text": "mw vle yon koupe priye pou m antre",
+      "userDeviceId": "7e983158d52ec9b77960dc8fc10cdbb9ac8406fdd152064554ba7675c5dd193a",
+      "userName": "rose",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779025361019,
+      "updatedAt": 1779025361019,
+      "status": "active"
+    },
     {
       "id": "local-1779021678996",
       "text": "amén",
@@ -357,9 +413,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 78,
-  "viewCount": 9091,
+  "likeCount": 48,
+  "shareCount": 82,
+  "viewCount": 9935,
   "verseLikedBy": [
     "3d2685cc0ca2871be415b9ae602122319921510583c5934a04ccb506e9905b64",
     "9cc5f605695951e497d910a1533c039eeeb66079649bde3f819fa3d4ef51de1c",
@@ -407,7 +463,8 @@
     "74a6e00abc8a470bb9afb32808ee1f78f7fa7dcfea1219bb71a46fbce6fd8977",
     "259053777f59656059a8d92407f1e996e749de2dd88a3a68993d155d0344bdbb",
     "3d1b20d8bf7be443df17e5cdcf33b391648044c711b8f9abfa8e1c93876a1f42",
-    "6b707c63db2bf82612bffe1c67155882639b1ea3d49b439c3bf28d73f79279b7"
+    "6b707c63db2bf82612bffe1c67155882639b1ea3d49b439c3bf28d73f79279b7",
+    "41aaa3f2fb9facb3d79705f72ec956ebbf2001257973219118d1557866197a56"
   ],
   "verseViewBy": []
 }
