@@ -1,9 +1,23 @@
 {
   "date": "2026-05-17",
   "verseKey": "daily:2026-05-17",
-  "updatedAt": 1778982189025,
+  "updatedAt": 1778982308327,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1778982268814",
+      "text": "sovem lokalman  La senkronize Lè  tèntèrnel ladisponib",
+      "userDeviceId": "ceb614c349c8edb5f3974d0b113d2840e606a0456cccbda74eea69a48b8cccb4",
+      "userName": "ansyen",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1778982308327,
+      "updatedAt": 1778982308327,
+      "status": "active"
+    },
     {
       "id": "local-1778982140687",
       "text": "Alleluia Gloire",
@@ -231,16 +245,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 6,
+  "likeCount": 7,
   "shareCount": 7,
-  "viewCount": 1680,
+  "viewCount": 1726,
   "verseLikedBy": [
     "3d2685cc0ca2871be415b9ae602122319921510583c5934a04ccb506e9905b64",
     "9cc5f605695951e497d910a1533c039eeeb66079649bde3f819fa3d4ef51de1c",
     "78635c1868069a13de2d537ca3a5c2ee11384f612751042f5b317828a6775353",
     "865735e0e5a580b881e63ad250e6c0d3f494e0462fae3f9a7850eeac9e66ef9a",
     "8ecc1bb3920be4d7356f5239724c65eb547dd71e0134fefd80ccb152de16910e",
-    "da5ba6dcf029125e44e77484fb24a71509ea9fea8bc163634287eece647c2b9c"
+    "da5ba6dcf029125e44e77484fb24a71509ea9fea8bc163634287eece647c2b9c",
+    "4891b701138482d49a20eb2a85ae628bba8e57793738ec9d0478373d325c2498"
   ],
   "verseViewBy": []
 }
