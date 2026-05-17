@@ -1,9 +1,23 @@
 {
   "date": "2026-05-17",
   "verseKey": "daily:2026-05-17",
-  "updatedAt": 1779047349794,
+  "updatedAt": 1779050694147,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779036506756",
+      "text": "Bondues bon",
+      "userDeviceId": "f1a435fc07d373ef55c4690a1e52042b9a646a37d4a4bf335dbddf8cfc3ef957",
+      "userName": "john",
+      "verseName": "Malaki 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779050694147,
+      "updatedAt": 1779050694147,
+      "status": "active"
+    },
     {
       "id": "local-1778981970954",
       "text": "Amèn",
@@ -485,9 +499,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 125,
-  "viewCount": 17764,
+  "likeCount": 56,
+  "shareCount": 129,
+  "viewCount": 18476,
   "verseLikedBy": [
     "3d2685cc0ca2871be415b9ae602122319921510583c5934a04ccb506e9905b64",
     "9cc5f605695951e497d910a1533c039eeeb66079649bde3f819fa3d4ef51de1c",
@@ -543,7 +557,8 @@
     "0d1b504a42f3c56e65b9bd469832cd61779f4a1de26467fb183d2fb25b4abf0e",
     "dea11e3e917742aef7f6f4f7ee6a354eb9c2987601dd3e2e3edca3d759d49cc4",
     "850a5d8247887f149a9da7d6c3cf65a8fa9c584f949567123a78239ba6e732d9",
-    "38ab5d6f0e39c505cbfacd8ddb966223ce5a253c467e03d53be8298b92caa78e"
+    "38ab5d6f0e39c505cbfacd8ddb966223ce5a253c467e03d53be8298b92caa78e",
+    "17cde60546e603cb42234478c3caa720f72c0f669866b490dc7be06cd229aa35"
   ],
   "verseViewBy": []
 }
