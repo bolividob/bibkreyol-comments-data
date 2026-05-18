@@ -1,9 +1,23 @@
 {
   "date": "2026-05-18",
   "verseKey": "daily:2026-05-18",
-  "updatedAt": 1779121035221,
+  "updatedAt": 1779121339307,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779121150588",
+      "text": "Sipo pou ede YouTube channel la.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779121339307,
+      "updatedAt": 1779121339307,
+      "status": "active"
+    },
     {
       "id": "local-1779114560961",
       "text": "tout glwa pou Bondye 🙏🏼",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
+  "likeCount": 57,
   "shareCount": 160,
-  "viewCount": 10789,
+  "viewCount": 10877,
   "verseLikedBy": [
     "785b1466dfb7a90c35478f646c353fb92e28f81f688d455d5d250ade7d149770",
     "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
@@ -147,7 +161,9 @@
     "d9579f6cf992a980c989cd651957d18a70a993f93c29619668cecadbf653e870",
     "a388718aa882998a0d28c067c190c1ff184eb1ac0d86c3bf1f6a05d75de4242f",
     "5a1870f349332b5bdc0e18dd3cff2782064f43984b8f69bdd163b6302d65a89c",
-    "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591"
+    "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+    "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841"
   ],
   "verseViewBy": []
 }
