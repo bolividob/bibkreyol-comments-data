@@ -1,12 +1,27 @@
 {
   "date": "2026-05-18",
   "verseKey": "daily:2026-05-18",
-  "updatedAt": 1779083108035,
+  "updatedAt": 1779083222864,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1779083157972",
+      "text": "Komante a kanpe",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779083222864,
+      "updatedAt": 1779083222864,
+      "status": "active"
+    }
+  ],
   "likeCount": 13,
   "shareCount": 54,
-  "viewCount": 4019,
+  "viewCount": 4024,
   "verseLikedBy": [
     "785b1466dfb7a90c35478f646c353fb92e28f81f688d455d5d250ade7d149770",
     "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
