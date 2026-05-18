@@ -1,9 +1,37 @@
 {
   "date": "2026-05-18",
   "verseKey": "daily:2026-05-18",
-  "updatedAt": 1779148029594,
+  "updatedAt": 1779148275265,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779148078179",
+      "text": "Adieu seul soir la gwata",
+      "userDeviceId": "75646f68acadfb1cf5dd0b6474d6f777168295b004cb0c7a1da665810e8061d5",
+      "userName": "soemy",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779148275265,
+      "updatedAt": 1779148275265,
+      "status": "active"
+    },
+    {
+      "id": "local-1779148091286",
+      "text": "Jesús ou fidel",
+      "userDeviceId": "75646f68acadfb1cf5dd0b6474d6f777168295b004cb0c7a1da665810e8061d5",
+      "userName": "soemy",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779148275265,
+      "updatedAt": 1779148275265,
+      "status": "active"
+    },
     {
       "id": "local-1779143111259",
       "text": "🙏🙏🙏",
@@ -249,9 +277,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 88,
+  "likeCount": 89,
   "shareCount": 201,
-  "viewCount": 16286,
+  "viewCount": 16385,
   "verseLikedBy": [
     "785b1466dfb7a90c35478f646c353fb92e28f81f688d455d5d250ade7d149770",
     "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
@@ -340,7 +368,8 @@
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "2bb7e61c29616d7fed89e5a4aa56e05e0b6731aa210dae82b100572bf906fd76",
     "cb89b8bec14bd3a4637e109938c7a51748520f959814b236398daaaa4e0205d4",
-    "75646f68acadfb1cf5dd0b6474d6f777168295b004cb0c7a1da665810e8061d5"
+    "75646f68acadfb1cf5dd0b6474d6f777168295b004cb0c7a1da665810e8061d5",
+    "95ede0f0624a071794f05073f95da1295b8199ba9cf11625812f6eb944feefbc"
   ],
   "verseViewBy": []
 }
