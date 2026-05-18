@@ -1,9 +1,23 @@
 {
   "date": "2026-05-18",
   "verseKey": "daily:2026-05-18",
-  "updatedAt": 1779101047144,
+  "updatedAt": 1779101166950,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779100984660",
+      "text": "Amén",
+      "userDeviceId": "30bee5f9aa30b21eb324f04b61923d710f99c81feb6fb0be80f7f7ad6a73a5de",
+      "userName": "Amén",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779101166950,
+      "updatedAt": 1779101166950,
+      "status": "active"
+    },
     {
       "id": "local-1779083157972",
       "text": "Komante a kanpe",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 23,
   "shareCount": 95,
-  "viewCount": 6171,
+  "viewCount": 6204,
   "verseLikedBy": [
     "785b1466dfb7a90c35478f646c353fb92e28f81f688d455d5d250ade7d149770",
     "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
