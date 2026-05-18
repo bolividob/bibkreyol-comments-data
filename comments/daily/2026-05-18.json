@@ -1,9 +1,39 @@
 {
   "date": "2026-05-18",
   "verseKey": "daily:2026-05-18",
-  "updatedAt": 1779128885936,
+  "updatedAt": 1779129007284,
   "version": 1,
   "comments": [
+    {
+      "id": "test",
+      "text": "test",
+      "userDeviceId": "8a36eaab218dc0b4c413c14ed8152a961945997be5e7372455815ac36d2208ba",
+      "userName": "testuser",
+      "verseName": "test",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "52908440904d345f13e916a06806489160cce5e773847b1f798212727d142225"
+      ],
+      "createdAt": 1779129007284,
+      "updatedAt": 1779129007284,
+      "status": "active"
+    },
+    {
+      "id": "test2",
+      "text": "test",
+      "userDeviceId": "8a36eaab218dc0b4c413c14ed8152a961945997be5e7372455815ac36d2208ba",
+      "userName": "testuser",
+      "verseName": "test",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779129007284,
+      "updatedAt": 1779129007284,
+      "status": "active"
+    },
     {
       "id": "local-1779124863075",
       "text": "Chanel la bel, Messi",
@@ -120,8 +150,8 @@
     }
   ],
   "likeCount": 65,
-  "shareCount": 168,
-  "viewCount": 12135,
+  "shareCount": 171,
+  "viewCount": 12156,
   "verseLikedBy": [
     "785b1466dfb7a90c35478f646c353fb92e28f81f688d455d5d250ade7d149770",
     "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
