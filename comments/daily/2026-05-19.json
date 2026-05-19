@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779220385826,
+  "updatedAt": 1779220505106,
   "version": 1,
   "comments": [
     {
@@ -348,16 +348,18 @@
       "verseName": "1 Tesalonisyen 4:3",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "dd83877d31415c134f5f7bdeb9bdc0afc12667e6a8e81425ec1e087f59cab8c4"
+      ],
       "createdAt": 1779152111158,
-      "updatedAt": 1779203227982,
+      "updatedAt": 1779220505106,
       "status": "active"
     }
   ],
   "likeCount": 89,
   "shareCount": 234,
-  "viewCount": 13449,
+  "viewCount": 13469,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
