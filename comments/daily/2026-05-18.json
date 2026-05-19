@@ -1,9 +1,23 @@
 {
   "date": "2026-05-18",
   "verseKey": "daily:2026-05-18",
-  "updatedAt": 1779148688295,
+  "updatedAt": 1779148843116,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779148759531",
+      "text": "Amen 🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779148843116,
+      "updatedAt": 1779148843116,
+      "status": "active"
+    },
     {
       "id": "local-1779148078179",
       "text": "Adieu seul soir la gwata",
@@ -277,9 +291,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 89,
-  "shareCount": 201,
-  "viewCount": 16552,
+  "likeCount": 90,
+  "shareCount": 202,
+  "viewCount": 16591,
   "verseLikedBy": [
     "785b1466dfb7a90c35478f646c353fb92e28f81f688d455d5d250ade7d149770",
     "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
@@ -369,7 +383,8 @@
     "2bb7e61c29616d7fed89e5a4aa56e05e0b6731aa210dae82b100572bf906fd76",
     "cb89b8bec14bd3a4637e109938c7a51748520f959814b236398daaaa4e0205d4",
     "75646f68acadfb1cf5dd0b6474d6f777168295b004cb0c7a1da665810e8061d5",
-    "95ede0f0624a071794f05073f95da1295b8199ba9cf11625812f6eb944feefbc"
+    "95ede0f0624a071794f05073f95da1295b8199ba9cf11625812f6eb944feefbc",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
   ],
   "verseViewBy": []
 }
