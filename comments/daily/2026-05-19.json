@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779232397023,
+  "updatedAt": 1779232573176,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779232498956",
+      "text": "amén",
+      "userDeviceId": "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
+      "userName": "registre Alexandra",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779232573176,
+      "updatedAt": 1779232573176,
+      "status": "active"
+    },
     {
       "id": "local-1779229902774",
       "text": "Amen twa fwa",
@@ -401,7 +415,7 @@
   ],
   "likeCount": 107,
   "shareCount": 265,
-  "viewCount": 16373,
+  "viewCount": 16449,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
