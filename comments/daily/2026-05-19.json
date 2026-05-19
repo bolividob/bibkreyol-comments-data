@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779224706302,
+  "updatedAt": 1779225200885,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779224877491",
+      "text": "bondye beni nou",
+      "userDeviceId": "7df3d9852374015db0d324f020793bee8380adf8bcd1049c1411b51d447eb5ae",
+      "userName": "sayoo leonard",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779225200885,
+      "updatedAt": 1779225200885,
+      "status": "active"
+    },
     {
       "id": "local-1779185142156",
       "text": "vèsè Chak Jou yo edem priye plis",
@@ -359,7 +373,7 @@
   ],
   "likeCount": 95,
   "shareCount": 248,
-  "viewCount": 14235,
+  "viewCount": 14352,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
