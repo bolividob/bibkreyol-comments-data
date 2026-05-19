@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779206855465,
+  "updatedAt": 1779207019100,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779206962737",
+      "text": "amén amén amén amén Bondié beni nou",
+      "userDeviceId": "0a9922e12ca8c7e1755b7ae279301b2195278e42f15ca38a4ebb75ee26117130",
+      "userName": "yolemie Simon",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779207019100,
+      "updatedAt": 1779207019100,
+      "status": "active"
+    },
     {
       "id": "local-1779203174774",
       "text": "Ki problem ou endure?",
@@ -286,8 +300,8 @@
     }
   ],
   "likeCount": 73,
-  "shareCount": 215,
-  "viewCount": 10957,
+  "shareCount": 216,
+  "viewCount": 11010,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
