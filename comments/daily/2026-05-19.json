@@ -1,12 +1,27 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779151992262,
+  "updatedAt": 1779152111158,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1779152095436",
+      "text": "bonswa mw nesesite yon bib kreyol silvouplè",
+      "userDeviceId": "2712efb242257256f488be5237799f1e569fcf8d4dfa55a2214267e49c67938b",
+      "userName": "Quesner",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779152111158,
+      "updatedAt": 1779152111158,
+      "status": "active"
+    }
+  ],
   "likeCount": 2,
-  "shareCount": 3,
-  "viewCount": 869,
+  "shareCount": 6,
+  "viewCount": 930,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8"
