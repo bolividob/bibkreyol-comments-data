@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779166144353,
+  "updatedAt": 1779166263966,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779166215931",
+      "text": "pale Pou mw papa",
+      "userDeviceId": "23f03c48818dbab24ed6d28013444d5af78ef5910847921f590b67e5224bb492",
+      "userName": "jezi se fòs mwen",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779166263966,
+      "updatedAt": 1779166263966,
+      "status": "active"
+    },
     {
       "id": "local-1779162363667",
       "text": "merci bon papa aji jezi",
@@ -77,7 +91,7 @@
   ],
   "likeCount": 16,
   "shareCount": 41,
-  "viewCount": 4246,
+  "viewCount": 4262,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
