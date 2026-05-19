@@ -1,9 +1,37 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779203113243,
+  "updatedAt": 1779203227982,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779203174774",
+      "text": "Ki problem ou endure?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": "local-1779171769856",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779203227982,
+      "updatedAt": 1779203227982,
+      "status": "active"
+    },
+    {
+      "id": "local-1779203206156",
+      "text": "Ki email ou?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": "local-1779152095436",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779203227982,
+      "updatedAt": 1779203227982,
+      "status": "active"
+    },
     {
       "id": "local-1779198668329",
       "text": "Amén",
@@ -165,11 +193,11 @@
       "userName": "Derlie",
       "verseName": "1 Tesalonisyen 4:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779171782980,
-      "updatedAt": 1779171782980,
+      "updatedAt": 1779203227982,
       "status": "active"
     },
     {
@@ -249,17 +277,17 @@
       "userName": "Quesner",
       "verseName": "1 Tesalonisyen 4:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779152111158,
-      "updatedAt": 1779152111158,
+      "updatedAt": 1779203227982,
       "status": "active"
     }
   ],
-  "likeCount": 69,
+  "likeCount": 70,
   "shareCount": 208,
-  "viewCount": 10028,
+  "viewCount": 10056,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
@@ -329,7 +357,8 @@
     "f1663ac4d0952abce32b3323506dc1e7ddba0720650f4cf380524c1ff124c5b8",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "49c86640a85fe475a31985a3a986168e8e0f55782b18b0e38a859bab08a6e743",
-    "73db7ae28c13536ab6dda4161ee8bb5213c8ad93bffabd737e27d4b44bfed3b4"
+    "73db7ae28c13536ab6dda4161ee8bb5213c8ad93bffabd737e27d4b44bfed3b4",
+    "549270f151224282f90bc9cfa061f3cdcc5cef7b5a8b5965535adc6e9222715b"
   ],
   "verseViewBy": []
 }
