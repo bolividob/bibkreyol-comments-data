@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779183676138,
+  "updatedAt": 1779184224520,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779184155849",
+      "text": "Amén merci seignuer 🙌",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779184224520,
+      "updatedAt": 1779184224520,
+      "status": "active"
+    },
     {
       "id": "local-1779162856574",
       "text": "se sa Bd di menm",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
-  "shareCount": 117,
-  "viewCount": 5942,
+  "likeCount": 37,
+  "shareCount": 123,
+  "viewCount": 6063,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
@@ -168,7 +182,10 @@
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
     "4a5df6ec84a845677d80e295be58576956b1fcfa7a318d8056af87bf1393db00",
-    "ac69c5ad1e76ce95d7ccfe5092e31f066a3acee16be83b2a9ea69c5a318953b2"
+    "ac69c5ad1e76ce95d7ccfe5092e31f066a3acee16be83b2a9ea69c5a318953b2",
+    "e4e5e2c0ae42c5f86b791fa3bde24f8b9f86da72b69b4c6af8079337fbfe0914",
+    "b0c070310fae397c75e9deedd4b73dc3b78f20a0070a0ffe31bddaebf4d1a052",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
