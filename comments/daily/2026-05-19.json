@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779186427324,
+  "updatedAt": 1779186675672,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779186506774",
+      "text": "mresi Jezi Pou gras por teksyon ou ban mwen 🙏🙏🙏🙋🙋",
+      "userDeviceId": "eb3e558d34b26c1f7252faec6d959bb564743c12bcb49a200a83dddd5b5e994d",
+      "userName": "oxi",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779186675672,
+      "updatedAt": 1779186675672,
+      "status": "active"
+    },
     {
       "id": "local-1779185010799",
       "text": "Amèn mèsi pou vèsè a",
@@ -159,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 41,
-  "shareCount": 134,
-  "viewCount": 6584,
+  "likeCount": 44,
+  "shareCount": 137,
+  "viewCount": 6651,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
@@ -203,7 +217,10 @@
     "952eb27e22a9a712f3d246c71a553dd723547b767e026380cc8ff9b7f45e7169",
     "67a526d3d9dee697f6acd233058ee0df274ccb96106f7339adcf1144092d0411",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
-    "f29acd4d5d7f997bff3761ad2f3de850e21fc368de62d4abf2b6bcfdb57afbf6"
+    "f29acd4d5d7f997bff3761ad2f3de850e21fc368de62d4abf2b6bcfdb57afbf6",
+    "79134f6bb08f6e5f395669314f1cbb68f9c889877f604eacd8c0e00fe06c9141",
+    "fb99bae3dfbd7867a6161423f441fb7e3bb8d559dadd5262a3011306986a003c",
+    "61e320b50f39d5920bb279cb470755f6c24051cc721bc3e391565db0d09ecea8"
   ],
   "verseViewBy": []
 }
