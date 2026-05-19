@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779194527988,
+  "updatedAt": 1779194646848,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779194591269",
+      "text": "amen",
+      "userDeviceId": "268ad5961d33b9e36ff1bf54d08c15016b5235dc9cf4ebdca11cd1c4df663474",
+      "userName": "vitaljocelene",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779194646848,
+      "updatedAt": 1779194646848,
+      "status": "active"
+    },
     {
       "id": "local-1779189312438",
       "text": "mèsi",
@@ -215,9 +229,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 176,
-  "viewCount": 8251,
+  "likeCount": 56,
+  "shareCount": 177,
+  "viewCount": 8276,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
@@ -272,7 +286,9 @@
     "ce6de33333c84ae0702e73d0c2e53e269c530803922b34c6eccb018a69ea6d25",
     "53166eed496803fc76b32bf357ff58071c988273a907e04b2705386435ad828b",
     "242d514a8148e3821161fae4c2520a65f02d5c71ba7fadcd01aa816f7af67c5e",
-    "f5e4ea3ba2159d299aa7cb47e0dded6a448a4eb0d49df7bcfe1e40b29258fabc"
+    "f5e4ea3ba2159d299aa7cb47e0dded6a448a4eb0d49df7bcfe1e40b29258fabc",
+    "268ad5961d33b9e36ff1bf54d08c15016b5235dc9cf4ebdca11cd1c4df663474",
+    "7758fb872d756bbcdb00b0d4059a2fa6a1786cb4cc5a57b8509b10f58712a73b"
   ],
   "verseViewBy": []
 }
