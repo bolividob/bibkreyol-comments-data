@@ -1,9 +1,23 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779152349601,
+  "updatedAt": 1779152984448,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779152417234",
+      "text": "💙💙💙",
+      "userDeviceId": "445faa8bb8169a610b0afea37614f6597338b4234a936217ef66c9c827fc5b35",
+      "userName": "la mini rosalia",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779152984447,
+      "updatedAt": 1779152984447,
+      "status": "active"
+    },
     {
       "id": "local-1779152095436",
       "text": "bonswa mw nesesite yon bib kreyol silvouplè",
@@ -19,13 +33,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 9,
-  "viewCount": 1022,
+  "likeCount": 4,
+  "shareCount": 14,
+  "viewCount": 1289,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
-    "72440d97c33ff8c6d6b6db29ed06020386ca698142810742ca041c7b9aca1a73"
+    "72440d97c33ff8c6d6b6db29ed06020386ca698142810742ca041c7b9aca1a73",
+    "e2c0ee5fe8bcb0d5d81b45f8f908d0f794a7ca39ecceb234697d1470c2e8a9fc"
   ],
   "verseViewBy": []
 }
