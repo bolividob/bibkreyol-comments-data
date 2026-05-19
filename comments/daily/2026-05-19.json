@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
   "verseKey": "daily:2026-05-19",
-  "updatedAt": 1779234747596,
+  "updatedAt": 1779235173414,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "1 Tesalonisyen 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "261b7fcbbc550cbf6b4502c53d4abe15d3989e95e615a9348a16242bb2962e6b"
+      ],
       "createdAt": 1779225492806,
-      "updatedAt": 1779225492806,
+      "updatedAt": 1779235173414,
       "status": "active"
     },
     {
@@ -427,9 +429,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 273,
-  "viewCount": 17106,
+  "likeCount": 112,
+  "shareCount": 276,
+  "viewCount": 17321,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "af145f4bde4207bb61d7f82fd086e6408b750f94c3af954f54b4ef51193ebde8",
@@ -540,7 +542,9 @@
     "14f3c0e19e0caabc8dff54d7c12342f3b93bef1ab062f5d7c03a4b63f5c3674a",
     "b94162b9f6c7e26011f9e822cd4917725ab8d4abc85df2a3c14ebf86214c1b5f",
     "8653859b11eab687985faf0a56d90cc0675f28d6268bbe402e4d50f5700167e4",
-    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c"
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "587011a84881e268afc57f2781b129d01aec4204057cff2ef618382084bb4d55",
+    "e79cb58a424666bb78809980b2fd68c3adf375dbacd3f15eb155948f128b28d4"
   ],
   "verseViewBy": []
 }
