@@ -1,9 +1,53 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779299705606,
+  "updatedAt": 1779299948135,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779299724926",
+      "text": "Bondye beni  nou",
+      "userDeviceId": "d27a0246688e1dde0905af3d65c6eb37ff323ceba99a438cb41a00fc72d48dfb",
+      "userName": "Chantale  Cajuste",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779299948135,
+      "updatedAt": 1779299948135,
+      "status": "active"
+    },
+    {
+      "id": "local-1779299767083",
+      "text": "z",
+      "userDeviceId": "d27a0246688e1dde0905af3d65c6eb37ff323ceba99a438cb41a00fc72d48dfb",
+      "userName": "Chantale  Cajuste",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779299948135,
+      "updatedAt": 1779299948135,
+      "status": "active"
+    },
+    {
+      "id": "local-1779299882029",
+      "text": "amen  amen",
+      "userDeviceId": "d27a0246688e1dde0905af3d65c6eb37ff323ceba99a438cb41a00fc72d48dfb",
+      "userName": "Chantale  Cajuste",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "d27a0246688e1dde0905af3d65c6eb37ff323ceba99a438cb41a00fc72d48dfb"
+      ],
+      "createdAt": 1779299948135,
+      "updatedAt": 1779299948135,
+      "status": "active"
+    },
     {
       "id": "local-1779299208880",
       "text": "Amen",
@@ -284,8 +328,8 @@
     }
   ],
   "likeCount": 73,
-  "shareCount": 160,
-  "viewCount": 12236,
+  "shareCount": 161,
+  "viewCount": 12266,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
