@@ -1,9 +1,25 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779273426342,
+  "updatedAt": 1779273673252,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779273552547",
+      "text": "tout glwa pou BonDye",
+      "userDeviceId": "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215",
+      "userName": "mildrege",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215"
+      ],
+      "createdAt": 1779273673251,
+      "updatedAt": 1779273673251,
+      "status": "active"
+    },
     {
       "id": "local-1779272309935",
       "text": "Merci Seigneur pour cette nouveau jour",
@@ -12,10 +28,12 @@
       "verseName": "2 Timote 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215"
+      ],
       "createdAt": 1779272419183,
-      "updatedAt": 1779272419183,
+      "updatedAt": 1779273673251,
       "status": "active"
     },
     {
@@ -117,9 +135,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
-  "shareCount": 55,
-  "viewCount": 6455,
+  "likeCount": 37,
+  "shareCount": 57,
+  "viewCount": 6518,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
@@ -153,7 +171,11 @@
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
     "d576dce882e6da93aa52635ea53e82c930a5e27c629ae24b12ac7b595502acf1",
     "e8a9c44e6113d01acb115cb968b447f48832a8f906d6dab82349cb1b58819b01",
-    "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8"
+    "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
+    "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215",
+    "d3611a2cdb7319fa8882eaa3ba32a63fc088643d4f98a8dbb3c1d2e4544ff945",
+    "7972c806a55744d564a67fbc15a82ba92c7e4a837d69e195c124e436c80ed137",
+    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0"
   ],
   "verseViewBy": []
 }
