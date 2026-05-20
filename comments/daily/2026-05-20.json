@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779289399209,
+  "updatedAt": 1779289507433,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Timote 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
+      ],
       "createdAt": 1779289151816,
-      "updatedAt": 1779289151816,
+      "updatedAt": 1779289507433,
       "status": "active"
     },
     {
@@ -241,7 +243,7 @@
   ],
   "likeCount": 60,
   "shareCount": 142,
-  "viewCount": 10086,
+  "viewCount": 10110,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
