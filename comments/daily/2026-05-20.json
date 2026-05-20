@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779245597373,
+  "updatedAt": 1779245904409,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779245610938",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779245904409,
+      "updatedAt": 1779245904409,
+      "status": "active"
+    },
     {
       "id": "local-1779238433413",
       "text": "Sa text la a se la verite wi, menm li pa fasil.",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
+  "likeCount": 11,
   "shareCount": 8,
-  "viewCount": 2558,
+  "viewCount": 2706,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
@@ -46,7 +60,8 @@
     "d80e37b7d2a2e58aaecf26e992413879a317fbc487941b0798caceddddf215e6",
     "85fa210d6d3d227e26141a1d6a51ee7ea2e06985609e3dae5136ce5bcfebdf98",
     "082d1b2fb7a593a9fef5b8b0691f8e48f4fa2e7ffbc294684bd836acb6c32748",
-    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "a32c98e1e17a33a94fb9d7717f93a575eed60dc3c7e9011dc20aa2f586808856"
   ],
   "verseViewBy": []
 }
