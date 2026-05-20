@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779287946831,
+  "updatedAt": 1779288069943,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779288046840",
+      "text": "Mwn resevwa l",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "2 Timote 1:4",
+      "parentId": "local-1779275523659",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779288069943,
+      "updatedAt": 1779288069943,
+      "status": "active"
+    },
     {
       "id": "local-1779286550032",
       "text": "SEYÈ BONDYE MWEN AN FÈ NOU GRAS 🙏🙏🙏",
@@ -67,13 +81,13 @@
       "userName": "registre Alexandra",
       "verseName": "2 Timote 1:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
       ],
       "createdAt": 1779275588218,
-      "updatedAt": 1779281231043,
+      "updatedAt": 1779288069943,
       "status": "active"
     },
     {
@@ -90,7 +104,7 @@
         "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
       ],
       "createdAt": 1779273673251,
-      "updatedAt": 1779281231043,
+      "updatedAt": 1779288069943,
       "status": "active"
     },
     {
@@ -107,7 +121,7 @@
         "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
       ],
       "createdAt": 1779272419183,
-      "updatedAt": 1779281231043,
+      "updatedAt": 1779288069943,
       "status": "active"
     },
     {
@@ -123,7 +137,7 @@
         "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
       ],
       "createdAt": 1779271934818,
-      "updatedAt": 1779281231043,
+      "updatedAt": 1779288069943,
       "status": "active"
     },
     {
@@ -213,7 +227,7 @@
   ],
   "likeCount": 54,
   "shareCount": 142,
-  "viewCount": 9768,
+  "viewCount": 9800,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
