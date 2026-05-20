@@ -1,9 +1,37 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779293138066,
+  "updatedAt": 1779293804814,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779293235355",
+      "text": "amén",
+      "userDeviceId": "707a600da5bf863e3be821d9c500d8775009fd211ac7d96e36e4cc1921b34608",
+      "userName": "yuneyby",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779293804814,
+      "updatedAt": 1779293804814,
+      "status": "active"
+    },
+    {
+      "id": "local-1779293249491",
+      "text": "amén",
+      "userDeviceId": "707a600da5bf863e3be821d9c500d8775009fd211ac7d96e36e4cc1921b34608",
+      "userName": "yuneyby",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779293804814,
+      "updatedAt": 1779293804814,
+      "status": "active"
+    },
     {
       "id": "local-1779289092688",
       "text": "Koman nou ye, ou ka itilize Bib Kreyol nan 4 lang: KR, ES, FR, EN; di yo sa, app sa fonksyone yon lot Jan.",
@@ -241,9 +269,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 64,
-  "shareCount": 147,
-  "viewCount": 11033,
+  "likeCount": 66,
+  "shareCount": 152,
+  "viewCount": 11259,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
@@ -308,7 +336,9 @@
     "0a583207d6f1eefee0170710852c347777b0faed2594fdc347d37952b5b35608",
     "fff83c192f8e3b4c96ee014107db46fc53e8beb45ffac30d8c2904b43d0c5154",
     "e99cdeed32444fd4ab5d66fcde2ea58f916fa9858452903ec5fa382fac817016",
-    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12"
+    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+    "3af30a3b6efdb15c8a30a4e72aa7102ee1415749b3b19e286051f420a90de375",
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
   ],
   "verseViewBy": []
 }
