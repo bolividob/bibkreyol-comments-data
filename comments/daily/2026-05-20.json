@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779288907753,
+  "updatedAt": 1779289151816,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779289092688",
+      "text": "Koman nou ye, ou ka itilize Bib Kreyol nan 4 lang: KR, ES, FR, EN; di yo sa, app sa fonksyone yon lot Jan.",
+      "userDeviceId": "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+      "userName": "Omeliz",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779289151816,
+      "updatedAt": 1779289151816,
+      "status": "active"
+    },
     {
       "id": "local-1779288046840",
       "text": "Mwn resevwa l",
@@ -227,7 +241,7 @@
   ],
   "likeCount": 59,
   "shareCount": 142,
-  "viewCount": 9975,
+  "viewCount": 10026,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
