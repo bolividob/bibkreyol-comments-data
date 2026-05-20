@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779275468295,
+  "updatedAt": 1779275588218,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779275523659",
+      "text": "kelkeswa sa wap travese jodi a bondye ap retirew kan menm",
+      "userDeviceId": "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
+      "userName": "registre Alexandra",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779275588218,
+      "updatedAt": 1779275588218,
+      "status": "active"
+    },
     {
       "id": "local-1779273552547",
       "text": "tout glwa pou BonDye",
@@ -136,8 +150,8 @@
     }
   ],
   "likeCount": 40,
-  "shareCount": 73,
-  "viewCount": 6986,
+  "shareCount": 77,
+  "viewCount": 7019,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
