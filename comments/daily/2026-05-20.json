@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779238361742,
+  "updatedAt": 1779238535884,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779238433413",
+      "text": "Sa text la a se la verite wi, menm li pa fasil.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779238535884,
+      "updatedAt": 1779238535884,
+      "status": "active"
+    },
     {
       "id": "local-1779238162123",
       "text": "Amen",
@@ -19,13 +33,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 5,
-  "viewCount": 938,
+  "likeCount": 4,
+  "shareCount": 6,
+  "viewCount": 1161,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
-    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25"
+    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
