@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779320926316,
+  "updatedAt": 1779321221465,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779321176677",
+      "text": "natacha louis amén 🙏",
+      "userDeviceId": "76ee69aa8e877166c329a94040586b65ab46e43c8c195761c367d90d9e66d2d6",
+      "userName": "Natacha Louis amén 🙏",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779321221465,
+      "updatedAt": 1779321221465,
+      "status": "active"
+    },
     {
       "id": "local-1779300914257",
       "text": "yes",
@@ -344,8 +358,8 @@
     }
   ],
   "likeCount": 92,
-  "shareCount": 192,
-  "viewCount": 16764,
+  "shareCount": 193,
+  "viewCount": 17000,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
