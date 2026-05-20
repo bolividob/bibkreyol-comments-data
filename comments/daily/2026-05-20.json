@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779286507128,
+  "updatedAt": 1779286628559,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779286550032",
+      "text": "SEYÈ BONDYE MWEN AN FÈ NOU GRAS 🙏🙏🙏",
+      "userDeviceId": "44d1e86f1da7912589ba12c461d4fbde420e6e5619d10c0623df8d6459506edb",
+      "userName": "JAM_RANHT1",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779286628559,
+      "updatedAt": 1779286628559,
+      "status": "active"
+    },
     {
       "id": "local-1779281289628",
       "text": "seyè gon pitye pou mw non",
@@ -198,8 +212,8 @@
     }
   ],
   "likeCount": 54,
-  "shareCount": 139,
-  "viewCount": 9427,
+  "shareCount": 140,
+  "viewCount": 9458,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
