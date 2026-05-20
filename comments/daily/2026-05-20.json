@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779281107062,
+  "updatedAt": 1779281231044,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "2 Timote 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
+      ],
       "createdAt": 1779275588218,
-      "updatedAt": 1779275588218,
+      "updatedAt": 1779281231043,
       "status": "active"
     },
     {
@@ -40,12 +42,13 @@
       "verseName": "2 Timote 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215"
+        "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215",
+        "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
       ],
       "createdAt": 1779273673251,
-      "updatedAt": 1779273673251,
+      "updatedAt": 1779281231043,
       "status": "active"
     },
     {
@@ -56,12 +59,13 @@
       "verseName": "2 Timote 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215"
+        "444c307aa9cfb53c74b2643218e530ed7c1b28a471fe371e5e9342ff62f1c215",
+        "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
       ],
       "createdAt": 1779272419183,
-      "updatedAt": 1779273673251,
+      "updatedAt": 1779281231043,
       "status": "active"
     },
     {
@@ -72,10 +76,12 @@
       "verseName": "2 Timote 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "25ec2055e344b896a35d4d729f2efb3ecfc2d8fe42490fb88de2ddce5cbfb17c"
+      ],
       "createdAt": 1779271934818,
-      "updatedAt": 1779271934818,
+      "updatedAt": 1779281231043,
       "status": "active"
     },
     {
@@ -165,7 +171,7 @@
   ],
   "likeCount": 47,
   "shareCount": 123,
-  "viewCount": 8295,
+  "viewCount": 8328,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
