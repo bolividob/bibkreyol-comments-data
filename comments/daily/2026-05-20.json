@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779299105537,
+  "updatedAt": 1779299356057,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779299208880",
+      "text": "Amen",
+      "userDeviceId": "bb41ad96311013726eb16a9253c9a8ce49569b51ee086de5bcdb3b679a0510a4",
+      "userName": "Amén 🙏🙏",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779299356057,
+      "updatedAt": 1779299356057,
+      "status": "active"
+    },
     {
       "id": "local-1779293235355",
       "text": "amén",
@@ -269,9 +283,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
+  "likeCount": 72,
   "shareCount": 160,
-  "viewCount": 12124,
+  "viewCount": 12166,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
@@ -343,7 +357,8 @@
     "bdc8cc4bbb729c708fc0a2db62ebe53fc97e544a24b30c9bfa5ab89b23767140",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "c6fdbf191b57cde345477066c4b88f0306e90a6d2b2b848508ec165ca1af5734",
-    "e74113ae654e79fedf044eddf434d6033d3c4e55b2680132c6817f94c7ff8e5a"
+    "e74113ae654e79fedf044eddf434d6033d3c4e55b2680132c6817f94c7ff8e5a",
+    "bb41ad96311013726eb16a9253c9a8ce49569b51ee086de5bcdb3b679a0510a4"
   ],
   "verseViewBy": []
 }
