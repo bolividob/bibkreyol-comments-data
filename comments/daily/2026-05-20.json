@@ -1,9 +1,23 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779253683314,
+  "updatedAt": 1779253804469,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779253707467",
+      "text": "Amen 🙇🙇🙇🙇🙇",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Timote 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779253804469,
+      "updatedAt": 1779253804469,
+      "status": "active"
+    },
     {
       "id": "local-1779249998378",
       "text": "àmen àmen àmen",
@@ -62,8 +76,8 @@
     }
   ],
   "likeCount": 22,
-  "shareCount": 19,
-  "viewCount": 4145,
+  "shareCount": 20,
+  "viewCount": 4154,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
