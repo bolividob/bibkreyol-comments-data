@@ -1,12 +1,27 @@
 {
   "date": "2026-05-20",
   "verseKey": "daily:2026-05-20",
-  "updatedAt": 1779238054283,
+  "updatedAt": 1779238361742,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1779238162123",
+      "text": "Amen",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "1 Tesalonisyen 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779238361742,
+      "updatedAt": 1779238361742,
+      "status": "active"
+    }
+  ],
   "likeCount": 3,
-  "shareCount": 3,
-  "viewCount": 707,
+  "shareCount": 5,
+  "viewCount": 938,
   "verseLikedBy": [
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "850d06631110733b4dfe639af1788683dc17d53d38abaf1ad09751832422fcdc",
