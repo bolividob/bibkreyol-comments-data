@@ -1,9 +1,23 @@
 {
   "date": "2026-05-21",
   "verseKey": "daily:2026-05-21",
-  "updatedAt": 1779363067582,
+  "updatedAt": 1779363186279,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779362965539",
+      "text": "Amén",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779363186278,
+      "updatedAt": 1779363186278,
+      "status": "active"
+    },
     {
       "id": "local-1779362372176",
       "text": "Merci Bondie 🙏🙏🙏",
@@ -81,9 +95,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 36,
-  "shareCount": 92,
-  "viewCount": 7357,
+  "likeCount": 37,
+  "shareCount": 93,
+  "viewCount": 7381,
   "verseLikedBy": [
     "26ad0f2cb68947fe2ef653d88a676526590299ae89dad59f6f599a74a1fb3418",
     "2779ce090744c5713fdbfef8d52cf27bf129741475fe92814e41ba37c92a4911",
@@ -120,7 +134,8 @@
     "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
     "2fd17d235d6b0cb85023abd28af01077721df1ea70fa8b0ef641c81fd52f091b",
     "378f7a5cd8d7484183432dd631d87d118850975266edb335a67603476d3e6a0c",
-    "ba10fe4d7f4ba276bdee0cb5bc8e29426801f011a6aa048498327f08951fda31"
+    "ba10fe4d7f4ba276bdee0cb5bc8e29426801f011a6aa048498327f08951fda31",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
