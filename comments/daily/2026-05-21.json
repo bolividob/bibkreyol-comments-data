@@ -1,9 +1,23 @@
 {
   "date": "2026-05-21",
   "verseKey": "daily:2026-05-21",
-  "updatedAt": 1779332110612,
+  "updatedAt": 1779332358840,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779332200062",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779332358840,
+      "updatedAt": 1779332358840,
+      "status": "active"
+    },
     {
       "id": "local-1779321617664",
       "text": "bondye beni nou",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 8,
   "shareCount": 17,
-  "viewCount": 2453,
+  "viewCount": 2574,
   "verseLikedBy": [
     "26ad0f2cb68947fe2ef653d88a676526590299ae89dad59f6f599a74a1fb3418",
     "2779ce090744c5713fdbfef8d52cf27bf129741475fe92814e41ba37c92a4911",
