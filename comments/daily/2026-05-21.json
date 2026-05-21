@@ -1,9 +1,23 @@
 {
   "date": "2026-05-21",
   "verseKey": "daily:2026-05-21",
-  "updatedAt": 1779387316865,
+  "updatedAt": 1779387428738,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779387349782",
+      "text": "jodlun",
+      "userDeviceId": "becbfb841c3798e83b79b078eb7fe25c50dbfea1eed7a8f79f24ec0a68931347",
+      "userName": "bible. kreyol",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779387428738,
+      "updatedAt": 1779387428738,
+      "status": "active"
+    },
     {
       "id": "local-1779380578691",
       "text": "👍👍👍👍",
@@ -183,7 +197,7 @@
   ],
   "likeCount": 61,
   "shareCount": 140,
-  "viewCount": 12443,
+  "viewCount": 12463,
   "verseLikedBy": [
     "26ad0f2cb68947fe2ef653d88a676526590299ae89dad59f6f599a74a1fb3418",
     "2779ce090744c5713fdbfef8d52cf27bf129741475fe92814e41ba37c92a4911",
