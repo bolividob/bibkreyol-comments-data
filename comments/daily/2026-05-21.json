@@ -1,9 +1,23 @@
 {
   "date": "2026-05-21",
   "verseKey": "daily:2026-05-21",
-  "updatedAt": 1779367086142,
+  "updatedAt": 1779367212274,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779367008364",
+      "text": "bondye beniw",
+      "userDeviceId": "3b4bec35c3d26c79a137b776378dd9d4c65ce3e8351a4c61828bf40c7866a826",
+      "userName": "sirion",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779367212274,
+      "updatedAt": 1779367212274,
+      "status": "active"
+    },
     {
       "id": "local-1779362965539",
       "text": "Amén",
@@ -97,7 +111,7 @@
   ],
   "likeCount": 41,
   "shareCount": 110,
-  "viewCount": 8260,
+  "viewCount": 8288,
   "verseLikedBy": [
     "26ad0f2cb68947fe2ef653d88a676526590299ae89dad59f6f599a74a1fb3418",
     "2779ce090744c5713fdbfef8d52cf27bf129741475fe92814e41ba37c92a4911",
