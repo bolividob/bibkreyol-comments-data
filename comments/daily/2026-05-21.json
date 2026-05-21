@@ -1,9 +1,23 @@
 {
   "date": "2026-05-21",
   "verseKey": "daily:2026-05-21",
-  "updatedAt": 1779369547635,
+  "updatedAt": 1779369669449,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779369559234",
+      "text": "🙏",
+      "userDeviceId": "0c19e590a0594500b663c8954c14b183cf1001fd9cda5b2f8f6685f690dc14ad",
+      "userName": "dorenard wadson",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779369669449,
+      "updatedAt": 1779369669449,
+      "status": "active"
+    },
     {
       "id": "local-1779367008364",
       "text": "bondye beniw",
@@ -111,7 +125,7 @@
   ],
   "likeCount": 43,
   "shareCount": 121,
-  "viewCount": 8779,
+  "viewCount": 8815,
   "verseLikedBy": [
     "26ad0f2cb68947fe2ef653d88a676526590299ae89dad59f6f599a74a1fb3418",
     "2779ce090744c5713fdbfef8d52cf27bf129741475fe92814e41ba37c92a4911",
