@@ -1,9 +1,23 @@
 {
   "date": "2026-05-21",
   "verseKey": "daily:2026-05-21",
-  "updatedAt": 1779380416663,
+  "updatedAt": 1779380845919,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779380578691",
+      "text": "👍👍👍👍",
+      "userDeviceId": "530a2a3f3c78e806f7c21fe34c9724538ec3a23d3d875b94f9225fde3c990405",
+      "userName": "miyouuuuuuu",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779380845919,
+      "updatedAt": 1779380845919,
+      "status": "active"
+    },
     {
       "id": "local-1779375067666",
       "text": "amen",
@@ -169,7 +183,7 @@
   ],
   "likeCount": 54,
   "shareCount": 132,
-  "viewCount": 11274,
+  "viewCount": 11379,
   "verseLikedBy": [
     "26ad0f2cb68947fe2ef653d88a676526590299ae89dad59f6f599a74a1fb3418",
     "2779ce090744c5713fdbfef8d52cf27bf129741475fe92814e41ba37c92a4911",
