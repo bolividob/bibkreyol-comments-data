@@ -1,9 +1,23 @@
 {
   "date": "2026-05-21",
   "verseKey": "daily:2026-05-21",
-  "updatedAt": 1779375067039,
+  "updatedAt": 1779375185659,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779375067666",
+      "text": "amen",
+      "userDeviceId": "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
+      "userName": "sispann fè diskisyon initil",
+      "verseName": "Travay 11:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779375185659,
+      "updatedAt": 1779375185659,
+      "status": "active"
+    },
     {
       "id": "local-1779371185173",
       "text": "senyè mèsi",
@@ -154,7 +168,7 @@
   ],
   "likeCount": 47,
   "shareCount": 126,
-  "viewCount": 9923,
+  "viewCount": 9940,
   "verseLikedBy": [
     "26ad0f2cb68947fe2ef653d88a676526590299ae89dad59f6f599a74a1fb3418",
     "2779ce090744c5713fdbfef8d52cf27bf129741475fe92814e41ba37c92a4911",
