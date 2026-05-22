@@ -1,9 +1,23 @@
 {
   "date": "2026-05-22",
   "verseKey": "daily:2026-05-22",
-  "updatedAt": 1779452707390,
+  "updatedAt": 1779452828706,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779452750941",
+      "text": "Amén",
+      "userDeviceId": "451fd890e08541dfa5c59514b990c3e7a750c38c9bd1b6290fd0a06056b8188e",
+      "userName": "Wood",
+      "verseName": "Lèvitik 7:15",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779452828706,
+      "updatedAt": 1779452828706,
+      "status": "active"
+    },
     {
       "id": "local-1779450963617",
       "text": "bonjou Adm .Vese jounen yo tre enpotan",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
+  "likeCount": 54,
   "shareCount": 105,
-  "viewCount": 8197,
+  "viewCount": 8224,
   "verseLikedBy": [
     "ffbee8bec1c44a06719bde97638466fb1522a5b6583b2e4386aadc20b216bd4d",
     "bcf8fe1615231855b951765784eae3a9fc638ed0512c60f885609f586fe2bba8",
@@ -241,7 +255,10 @@
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "48df102033e356cf799f47ba56ae446110d0bf673d3eac0e146ba790dbbcb052",
-    "d13b74721fae6f0df390b296107b73615743739a77639580f7d506c2dc0d45ad"
+    "d13b74721fae6f0df390b296107b73615743739a77639580f7d506c2dc0d45ad",
+    "451fd890e08541dfa5c59514b990c3e7a750c38c9bd1b6290fd0a06056b8188e",
+    "1c4f7e81bfef5de33852d255ffccebe3e4d7cf53f4611d52e484e553c19ebda5",
+    "708bd49458501814497a2547a33559ffbcd2c4fa3e912abd4f97e0284edd2cc1"
   ],
   "verseViewBy": []
 }
