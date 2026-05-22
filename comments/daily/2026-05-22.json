@@ -1,9 +1,23 @@
 {
   "date": "2026-05-22",
   "verseKey": "daily:2026-05-22",
-  "updatedAt": 1779485110960,
+  "updatedAt": 1779485226803,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779485187387",
+      "text": "mèsi pou vèsè yo. mwn renmen travay la",
+      "userDeviceId": "ccfa29bdcd956946b877240d5e134d04bb390c8842f3bbcb26038fe1dede67e7",
+      "userName": "Frère Kervens",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779485226803,
+      "updatedAt": 1779485226803,
+      "status": "active"
+    },
     {
       "id": "local-1779482598126",
       "text": "amèn amèn",
@@ -245,7 +259,7 @@
   ],
   "likeCount": 88,
   "shareCount": 175,
-  "viewCount": 14769,
+  "viewCount": 14794,
   "verseLikedBy": [
     "ffbee8bec1c44a06719bde97638466fb1522a5b6583b2e4386aadc20b216bd4d",
     "bcf8fe1615231855b951765784eae3a9fc638ed0512c60f885609f586fe2bba8",
