@@ -1,9 +1,37 @@
 {
   "date": "2026-05-22",
   "verseKey": "daily:2026-05-22",
-  "updatedAt": 1779491358273,
+  "updatedAt": 1779491786010,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779491380435",
+      "text": "gracias dios",
+      "userDeviceId": "99cf00a1502beca6ba25fbc61dcdbb5401622802cec611b21437cf5531c3d2ff",
+      "userName": "TCHOUKY",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779491786010,
+      "updatedAt": 1779491786010,
+      "status": "active"
+    },
+    {
+      "id": "local-1779448403019",
+      "text": "mesi pou bel vésé saa",
+      "userDeviceId": "ad58295be61f99401bcdcddc255e8abf3d8a1bb448783773cb02d0056a857c4c",
+      "userName": "mesi pou bel vésé saa",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779491786010,
+      "updatedAt": 1779491786010,
+      "status": "active"
+    },
     {
       "id": "local-1779490479254",
       "text": "Mèsi",
@@ -273,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 97,
-  "shareCount": 192,
-  "viewCount": 16512,
+  "likeCount": 98,
+  "shareCount": 193,
+  "viewCount": 16669,
   "verseLikedBy": [
     "ffbee8bec1c44a06719bde97638466fb1522a5b6583b2e4386aadc20b216bd4d",
     "bcf8fe1615231855b951765784eae3a9fc638ed0512c60f885609f586fe2bba8",
@@ -373,7 +401,8 @@
     "a3d99dba91d9662b0e77641e738182c343b2dcb335377f929d0f3f298d7bee4e",
     "605b7978dd8c403f8c7613a15e80e631b9d1243c3931d5c27fcc8a8b2482c830",
     "72dee967e056380f6da8b8925e2d9c0311829be93b8fd468a45c4716b4d89e97",
-    "50af2d40b0c27d309ace623a6b02c1324818c9b3de5ce31299f071589b1dc5dc"
+    "50af2d40b0c27d309ace623a6b02c1324818c9b3de5ce31299f071589b1dc5dc",
+    "ecd59b79b4f77938e069ac6ed9b3699f88d78d388b2f52307f2f0d5145b69829"
   ],
   "verseViewBy": []
 }
