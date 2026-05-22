@@ -1,9 +1,23 @@
 {
   "date": "2026-05-22",
   "verseKey": "daily:2026-05-22",
-  "updatedAt": 1779421399732,
+  "updatedAt": 1779421576936,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779421454474",
+      "text": "Amen",
+      "userDeviceId": "67ffd6539c1c63137b63d3d2c170e7b101fc2279cf81e0acb4ff6f2bec668cba",
+      "userName": "Sr Chanaïca",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779421576935,
+      "updatedAt": 1779421576935,
+      "status": "active"
+    },
     {
       "id": "local-1779415642807",
       "text": "Amen Amen Amen 🙏",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
-  "shareCount": 11,
-  "viewCount": 3007,
+  "likeCount": 14,
+  "shareCount": 14,
+  "viewCount": 3073,
   "verseLikedBy": [
     "ffbee8bec1c44a06719bde97638466fb1522a5b6583b2e4386aadc20b216bd4d",
     "bcf8fe1615231855b951765784eae3a9fc638ed0512c60f885609f586fe2bba8",
@@ -63,7 +77,8 @@
     "be45a4a32a3fdaa89ab684c71d37fc770bffa13f42c28ba39e17679387ba0e91",
     "52e700d0518256283d4c51a22d2c1922b9f8cab906f6016dccebf4759290e021",
     "255f6b74b87533ca32baabf28b9c063eb053cfbe8c132fa54943cdd36671022b",
-    "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35"
+    "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
+    "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356"
   ],
   "verseViewBy": []
 }
