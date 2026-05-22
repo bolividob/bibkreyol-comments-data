@@ -1,9 +1,23 @@
 {
   "date": "2026-05-22",
   "verseKey": "daily:2026-05-22",
-  "updatedAt": 1779422901437,
+  "updatedAt": 1779423194767,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779416654727",
+      "text": "Amèn Amèn Amèn, Alleluia Gloire",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779423194767,
+      "updatedAt": 1779423194767,
+      "status": "active"
+    },
     {
       "id": "local-1779421454474",
       "text": "Amen",
@@ -63,7 +77,7 @@
   ],
   "likeCount": 17,
   "shareCount": 19,
-  "viewCount": 3523,
+  "viewCount": 3606,
   "verseLikedBy": [
     "ffbee8bec1c44a06719bde97638466fb1522a5b6583b2e4386aadc20b216bd4d",
     "bcf8fe1615231855b951765784eae3a9fc638ed0512c60f885609f586fe2bba8",
