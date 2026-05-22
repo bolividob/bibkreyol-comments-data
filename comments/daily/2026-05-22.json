@@ -1,9 +1,23 @@
 {
   "date": "2026-05-22",
   "verseKey": "daily:2026-05-22",
-  "updatedAt": 1779491786010,
+  "updatedAt": 1779492078430,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779448500768",
+      "text": "monia joseph",
+      "userDeviceId": "ad58295be61f99401bcdcddc255e8abf3d8a1bb448783773cb02d0056a857c4c",
+      "userName": "mesi pou bel vésé saa",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779492078429,
+      "updatedAt": 1779492078429,
+      "status": "active"
+    },
     {
       "id": "local-1779491380435",
       "text": "gracias dios",
@@ -303,7 +317,7 @@
   ],
   "likeCount": 98,
   "shareCount": 193,
-  "viewCount": 16669,
+  "viewCount": 16776,
   "verseLikedBy": [
     "ffbee8bec1c44a06719bde97638466fb1522a5b6583b2e4386aadc20b216bd4d",
     "bcf8fe1615231855b951765784eae3a9fc638ed0512c60f885609f586fe2bba8",
