@@ -1,9 +1,37 @@
 {
   "date": "2026-05-22",
   "verseKey": "daily:2026-05-22",
-  "updatedAt": 1779430804090,
+  "updatedAt": 1779430931863,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779430832962",
+      "text": "Amen",
+      "userDeviceId": "ec3c2e51badb3452a97a565cd15748a8a8817c5d876c920dfb0745a4c5d0c405",
+      "userName": "senvilma",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779430931863,
+      "updatedAt": 1779430931863,
+      "status": "active"
+    },
+    {
+      "id": "local-1779430843278",
+      "text": "Alelouia",
+      "userDeviceId": "ec3c2e51badb3452a97a565cd15748a8a8817c5d876c920dfb0745a4c5d0c405",
+      "userName": "senvilma",
+      "verseName": "Revelasyon 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779430931863,
+      "updatedAt": 1779430931863,
+      "status": "active"
+    },
     {
       "id": "local-1779416654727",
       "text": "Amèn Amèn Amèn, Alleluia Gloire",
@@ -77,7 +105,7 @@
   ],
   "likeCount": 24,
   "shareCount": 30,
-  "viewCount": 4542,
+  "viewCount": 4552,
   "verseLikedBy": [
     "ffbee8bec1c44a06719bde97638466fb1522a5b6583b2e4386aadc20b216bd4d",
     "bcf8fe1615231855b951765784eae3a9fc638ed0512c60f885609f586fe2bba8",
