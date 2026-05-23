@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779544026117,
+  "updatedAt": 1779544146310,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779500356351",
+      "text": "me lavim nan menw papa",
+      "userDeviceId": "5ab23d65b15a15fad33538c76d8d2f1b657ed24a86faa1d7ac7b87ed7d7fd178",
+      "userName": "maylove",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779544146310,
+      "updatedAt": 1779544146310,
+      "status": "active"
+    },
     {
       "id": "local-1779542309434",
       "text": "amen",
@@ -360,9 +374,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
+  "likeCount": 74,
   "shareCount": 158,
-  "viewCount": 9627,
+  "viewCount": 9662,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -436,7 +450,8 @@
     "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
     "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591",
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
-    "6069cf302fbbf48d7416865b3a7b63e0fa0f434cd812090d5086d4376d755113"
+    "6069cf302fbbf48d7416865b3a7b63e0fa0f434cd812090d5086d4376d755113",
+    "9ff0b3588fb82901cbefd0f95592ed516e391db01fe5b92dd0c6119961a3742c"
   ],
   "verseViewBy": []
 }
