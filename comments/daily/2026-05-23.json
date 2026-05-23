@@ -1,9 +1,37 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779580330633,
+  "updatedAt": 1779580584995,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779580386628",
+      "text": "amen",
+      "userDeviceId": "5f6b01c4cc4542ba55a432e1ffd8099e4ba5e4e441735966f99178792a84ee63",
+      "userName": "Loveline",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779580584995,
+      "updatedAt": 1779580584995,
+      "status": "active"
+    },
+    {
+      "id": "local-1779580437188",
+      "text": "slt",
+      "userDeviceId": "49fed43c3841e81362767276fb81056dcedd8f9ee54a73b18ebf9974496b5dab",
+      "userName": "DaDa💕💕💕",
+      "verseName": "Som 11:5",
+      "parentId": "local-1779511155717",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779580584995,
+      "updatedAt": 1779580584995,
+      "status": "active"
+    },
     {
       "id": "local-1779579079411",
       "text": "amén 💕🙏🙏🙏",
@@ -346,11 +374,11 @@
       "userName": "Tayoo",
       "verseName": "Som 11:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779511564064,
-      "updatedAt": 1779511564064,
+      "updatedAt": 1779580584995,
       "status": "active"
     },
     {
@@ -545,8 +573,8 @@
     }
   ],
   "likeCount": 133,
-  "shareCount": 240,
-  "viewCount": 17896,
+  "shareCount": 241,
+  "viewCount": 17992,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
