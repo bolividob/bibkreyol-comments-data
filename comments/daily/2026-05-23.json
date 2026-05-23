@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779563104506,
+  "updatedAt": 1779563225152,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779563177668",
+      "text": "amen amen",
+      "userDeviceId": "ed9a6a4bed46d1441638dfd5d6c3b6fe61553ea357c0f3b3157d691759607bcb",
+      "userName": "Rose fredorah Jean Baptiste",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779563225152,
+      "updatedAt": 1779563225152,
+      "status": "active"
+    },
     {
       "id": "local-1779555008217",
       "text": "amén amén amén amén amén amén amén merci papa ou gran anpil 🙏🙏🙏🙏🙏",
@@ -435,9 +449,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 108,
+  "likeCount": 109,
   "shareCount": 196,
-  "viewCount": 13796,
+  "viewCount": 13817,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -546,7 +560,8 @@
     "6f2510eddc889d69981f30d3501ed86bc54035682eef5cc509a131eabaf9d9f7",
     "731e824c953f6685facf81e5261faa51c06d823560b79d4557bd4a5b8180c1cc",
     "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19",
-    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "81c99b192e06af292a612dfc08e6803da027ae36633c21471f7cd1288add4912"
   ],
   "verseViewBy": []
 }
