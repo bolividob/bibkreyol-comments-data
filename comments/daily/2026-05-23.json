@@ -1,9 +1,37 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779505452683,
+  "updatedAt": 1779507890031,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779507163849",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779507890031,
+      "updatedAt": 1779507890031,
+      "status": "active"
+    },
+    {
+      "id": "local-1779506922993",
+      "text": "Alleluia Gloire Alleluia Gloire Alleluia Gloire",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779507890031,
+      "updatedAt": 1779507890031,
+      "status": "active"
+    },
     {
       "id": "local-1779505294153",
       "text": "amène",
@@ -123,9 +151,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 21,
-  "shareCount": 15,
-  "viewCount": 2914,
+  "likeCount": 24,
+  "shareCount": 18,
+  "viewCount": 3249,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -147,7 +175,10 @@
     "8f829d8536040ced4886123af4595f1f4c846d8c7538acb4e251cf7eb887a64b",
     "da2646d68476c1de5b4dbcb1a83f57a00a0cb563e036592a091f341dcb6f2c16",
     "b0c070310fae397c75e9deedd4b73dc3b78f20a0070a0ffe31bddaebf4d1a052",
-    "d3a2a262312ed4f585de2645a91ae82cf23f64581c895ccfe578c2ff59911f1a"
+    "d3a2a262312ed4f585de2645a91ae82cf23f64581c895ccfe578c2ff59911f1a",
+    "be14bca802f3f8d2811796abe9437e9b8a608c6f6619e02de25c271cdc9a961f",
+    "be9a7d70635f34176212c4e25df52fc128477b8550824c091c00ce52fa929209",
+    "6b0fa46728d8c6f6cc0437026f0083312ec2b941fa6f3fd1f79bb464e4fdc47d"
   ],
   "verseViewBy": []
 }
