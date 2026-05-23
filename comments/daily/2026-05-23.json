@@ -1,7 +1,7 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779508477405,
+  "updatedAt": 1779508758161,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
+      ],
       "createdAt": 1779507890031,
-      "updatedAt": 1779507890031,
+      "updatedAt": 1779508758161,
       "status": "active"
     },
     {
@@ -82,10 +84,12 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
+      ],
       "createdAt": 1779501922479,
-      "updatedAt": 1779501922479,
+      "updatedAt": 1779508758161,
       "status": "active"
     },
     {
@@ -96,10 +100,12 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
+      ],
       "createdAt": 1779498791288,
-      "updatedAt": 1779498791288,
+      "updatedAt": 1779508758161,
       "status": "active"
     },
     {
@@ -110,12 +116,13 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47"
+        "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47",
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
       ],
       "createdAt": 1779497529775,
-      "updatedAt": 1779497769499,
+      "updatedAt": 1779508758161,
       "status": "active"
     },
     {
@@ -126,12 +133,13 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47"
+        "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47",
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
       ],
       "createdAt": 1779497173090,
-      "updatedAt": 1779497769499,
+      "updatedAt": 1779508758161,
       "status": "active"
     },
     {
@@ -142,12 +150,13 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47"
+        "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47",
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
       ],
       "createdAt": 1779496997288,
-      "updatedAt": 1779497769499,
+      "updatedAt": 1779508758161,
       "status": "active"
     },
     {
@@ -158,16 +167,18 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
+      ],
       "createdAt": 1779494771928,
-      "updatedAt": 1779497529775,
+      "updatedAt": 1779508758161,
       "status": "active"
     }
   ],
-  "likeCount": 25,
+  "likeCount": 27,
   "shareCount": 24,
-  "viewCount": 3779,
+  "viewCount": 3883,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -193,7 +204,9 @@
     "be14bca802f3f8d2811796abe9437e9b8a608c6f6619e02de25c271cdc9a961f",
     "be9a7d70635f34176212c4e25df52fc128477b8550824c091c00ce52fa929209",
     "6b0fa46728d8c6f6cc0437026f0083312ec2b941fa6f3fd1f79bb464e4fdc47d",
-    "32d2122d0b8374573e9b2b4f3eeaecf9ca937dbc2900bcbd8d5db00256119174"
+    "32d2122d0b8374573e9b2b4f3eeaecf9ca937dbc2900bcbd8d5db00256119174",
+    "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d",
+    "9dd0bc7f1c402c32c944c27e3dd660b51b9f7905642f52b291d8ce4e71a29587"
   ],
   "verseViewBy": []
 }
