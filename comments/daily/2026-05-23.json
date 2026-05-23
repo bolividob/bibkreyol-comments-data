@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779502406601,
+  "updatedAt": 1779504262199,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779504238195",
+      "text": "amén amén amén amén 🙏😇",
+      "userDeviceId": "daac6c11a39f8eaeb89270c8f9a6308bbdc94f6c37d5d4680492d88334c57fbb",
+      "userName": "samhta",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779504262199,
+      "updatedAt": 1779504262199,
+      "status": "active"
+    },
     {
       "id": "local-1779501668095",
       "text": "bondye papa won't nn stp k we Nan ou🙏",
@@ -95,9 +109,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
+  "likeCount": 17,
   "shareCount": 11,
-  "viewCount": 2226,
+  "viewCount": 2371,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -114,7 +128,8 @@
     "8f7df4a4e815d7f3fa536929a6d0a0fd7eca64e678aa5991f3aeb1383442bd89",
     "d367f95f0261d17f8046727acd14d6c7016f7470fb373a31ad08bcf502a02b66",
     "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966",
-    "d031a6a3679fba4a006cc5dfb9df463eaef315755c715ab325533406c6326a7d"
+    "d031a6a3679fba4a006cc5dfb9df463eaef315755c715ab325533406c6326a7d",
+    "cf1abc062a380ecd997f4ee83a3091f2bb6fd8bde4b5206c5cf4dbaaae2b597c"
   ],
   "verseViewBy": []
 }
