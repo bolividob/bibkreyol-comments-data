@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779576724631,
+  "updatedAt": 1779576847308,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779576772012",
+      "text": "Bib ser Yon chemin lavi",
+      "userDeviceId": "e8d65243156f5b0c276b162d9b5ecf32305919178598cecacb1bba3f0711955b",
+      "userName": "Rapchael Saint Rosier",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779576847307,
+      "updatedAt": 1779576847307,
+      "status": "active"
+    },
     {
       "id": "local-1779573441267",
       "text": "l'avantage de pouvoir",
@@ -503,8 +517,8 @@
     }
   ],
   "likeCount": 129,
-  "shareCount": 229,
-  "viewCount": 16851,
+  "shareCount": 230,
+  "viewCount": 16888,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
