@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779535024366,
+  "updatedAt": 1779535147211,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779535029519",
+      "text": "amén",
+      "userDeviceId": "707a600da5bf863e3be821d9c500d8775009fd211ac7d96e36e4cc1921b34608",
+      "userName": "yuneyby",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779535147211,
+      "updatedAt": 1779535147211,
+      "status": "active"
+    },
     {
       "id": "local-1779530979109",
       "text": "amén",
@@ -275,8 +289,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 108,
-  "viewCount": 7250,
+  "shareCount": 109,
+  "viewCount": 7286,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
