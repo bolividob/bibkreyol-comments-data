@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779536946835,
+  "updatedAt": 1779537066861,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779536983190",
+      "text": "Amen",
+      "userDeviceId": "b575794c5a7600330c99c3908024edc26996a47a236922e055d1b58f0edc0cd3",
+      "userName": "Guybens Dorsainvil",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779537066861,
+      "updatedAt": 1779537066861,
+      "status": "active"
+    },
     {
       "id": "local-1779536069717",
       "text": "bib la se limyè",
@@ -316,9 +330,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 61,
-  "shareCount": 120,
-  "viewCount": 7778,
+  "likeCount": 62,
+  "shareCount": 121,
+  "viewCount": 7810,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -380,7 +394,8 @@
     "707a600da5bf863e3be821d9c500d8775009fd211ac7d96e36e4cc1921b34608",
     "294ecbc01a83cf101dbc83855535e18a262287732ac66b29710329be2183b737",
     "cbdcf6740117860a0bcf48d369a97f5c11ed69e12ec1c61d1e282efa3c8f27a5",
-    "2fb2d34bcc8006db2c4e85cb323439ad359d7bffd60dedda2351966d95759f5c"
+    "2fb2d34bcc8006db2c4e85cb323439ad359d7bffd60dedda2351966d95759f5c",
+    "83fba6e179021ffd6c9d3679e40f4f055b232be1dce3a331bc115ae277adabe7"
   ],
   "verseViewBy": []
 }
