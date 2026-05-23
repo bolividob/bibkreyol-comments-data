@@ -1,7 +1,7 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779560944965,
+  "updatedAt": 1779561066074,
   "version": 1,
   "comments": [
     {
@@ -355,12 +355,13 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d",
+        "76a28014d53782fa4f5c862d722182ae36604b83a3fcf9d46968894c1be93610"
       ],
       "createdAt": 1779498791288,
-      "updatedAt": 1779508758161,
+      "updatedAt": 1779561066074,
       "status": "active"
     },
     {
@@ -371,13 +372,14 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47",
-        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d",
+        "76a28014d53782fa4f5c862d722182ae36604b83a3fcf9d46968894c1be93610"
       ],
       "createdAt": 1779497529775,
-      "updatedAt": 1779508758161,
+      "updatedAt": 1779561066074,
       "status": "active"
     },
     {
@@ -406,13 +408,14 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "f475aff9cc00473bf25b240314148bc22535d941429f206713a5809b00ed7d47",
-        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d"
+        "3024992024321b29378b0ad5088d16c2eae70de6cf1df5f3ddc67ce6c9b7462d",
+        "76a28014d53782fa4f5c862d722182ae36604b83a3fcf9d46968894c1be93610"
       ],
       "createdAt": 1779496997288,
-      "updatedAt": 1779508758161,
+      "updatedAt": 1779561066074,
       "status": "active"
     },
     {
@@ -434,7 +437,7 @@
   ],
   "likeCount": 105,
   "shareCount": 194,
-  "viewCount": 13435,
+  "viewCount": 13458,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
