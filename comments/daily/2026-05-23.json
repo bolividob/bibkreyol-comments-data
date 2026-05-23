@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779554943546,
+  "updatedAt": 1779555066573,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779555008217",
+      "text": "amén amén amén amén amén amén amén merci papa ou gran anpil 🙏🙏🙏🙏🙏",
+      "userDeviceId": "526639411f40b7ff53d11b9706b0927a818dbd9af55a174ccb4772c7170e3dab",
+      "userName": "amen",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779555066572,
+      "updatedAt": 1779555066572,
+      "status": "active"
+    },
     {
       "id": "local-1779552060979",
       "text": "papa benim ak marim pwi petit mw yo amènn 3fwa.",
@@ -417,9 +431,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 95,
+  "likeCount": 97,
   "shareCount": 184,
-  "viewCount": 12385,
+  "viewCount": 12412,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -515,7 +529,9 @@
     "5ded97d518fb718e11ac280d631c4dd7b2fcbc935eec25569d9d5f482b98d3e2",
     "e7f562ca7fae5506d3421d525172b9563c72d10c43de16382236028f7c56e799",
     "c411531ece0d09d3cc80e296626f890d6f6dd848b296876d90e060b71ecc001f",
-    "639902ddb63e4e8bb904df3de73d87b094587b1e7456c047e269b94455b03ef1"
+    "639902ddb63e4e8bb904df3de73d87b094587b1e7456c047e269b94455b03ef1",
+    "526639411f40b7ff53d11b9706b0927a818dbd9af55a174ccb4772c7170e3dab",
+    "5ae7ea4aef8994e9047a8ecd6aefeb211c26d728f56306ac72680f5200de5907"
   ],
   "verseViewBy": []
 }
