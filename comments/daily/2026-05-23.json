@@ -1,9 +1,37 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779511446352,
+  "updatedAt": 1779511564065,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779511155717",
+      "text": "salut 👋",
+      "userDeviceId": "097c7402b2d0e87ec689b2b5acf86209839ea671bc4999a0ad95c044297a9530",
+      "userName": "Tayoo",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779511564064,
+      "updatedAt": 1779511564064,
+      "status": "active"
+    },
+    {
+      "id": "local-1779511185808",
+      "text": "amen",
+      "userDeviceId": "097c7402b2d0e87ec689b2b5acf86209839ea671bc4999a0ad95c044297a9530",
+      "userName": "Tayoo",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779511564064,
+      "updatedAt": 1779511564064,
+      "status": "active"
+    },
     {
       "id": "local-1779507168821",
       "text": "amen amen Amen 🙏🙏🙏",
@@ -177,8 +205,8 @@
     }
   ],
   "likeCount": 29,
-  "shareCount": 26,
-  "viewCount": 4152,
+  "shareCount": 28,
+  "viewCount": 4167,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
