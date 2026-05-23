@@ -1,12 +1,27 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779494594315,
+  "updatedAt": 1779494771928,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1779494596952",
+      "text": "Amen 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779494771928,
+      "updatedAt": 1779494771928,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
   "shareCount": 0,
-  "viewCount": 114,
+  "viewCount": 179,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e"
   ],
