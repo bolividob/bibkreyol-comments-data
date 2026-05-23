@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779573427269,
+  "updatedAt": 1779573546025,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779573441267",
+      "text": "l'avantage de pouvoir",
+      "userDeviceId": "a0d28064b96bc00087f586ed610b9db822a01e645397894c91408a8b359cc662",
+      "userName": "Lafleur rosena",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779573546025,
+      "updatedAt": 1779573546025,
+      "status": "active"
+    },
     {
       "id": "local-1779570216859",
       "text": "amén 🙏",
@@ -490,7 +504,7 @@
   ],
   "likeCount": 121,
   "shareCount": 221,
-  "viewCount": 15934,
+  "viewCount": 15969,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
