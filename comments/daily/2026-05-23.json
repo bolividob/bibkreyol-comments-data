@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779551886930,
+  "updatedAt": 1779552143901,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779552060979",
+      "text": "papa benim ak marim pwi petit mw yo amènn 3fwa.",
+      "userDeviceId": "e7f562ca7fae5506d3421d525172b9563c72d10c43de16382236028f7c56e799",
+      "userName": "sabrune",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779552143901,
+      "updatedAt": 1779552143901,
+      "status": "active"
+    },
     {
       "id": "local-1779545345276",
       "text": "amn",
@@ -403,9 +417,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
+  "likeCount": 93,
   "shareCount": 180,
-  "viewCount": 11572,
+  "viewCount": 11673,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -498,7 +512,8 @@
     "1c7a0e9edae9e7638887c7c2e36cc5df472e99195402e81c23d87503351a8800",
     "c27ec1062be8036f74eb563bbe54a26a0451868599fdd0f5be155a2cbdac4909",
     "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac",
-    "5ded97d518fb718e11ac280d631c4dd7b2fcbc935eec25569d9d5f482b98d3e2"
+    "5ded97d518fb718e11ac280d631c4dd7b2fcbc935eec25569d9d5f482b98d3e2",
+    "e7f562ca7fae5506d3421d525172b9563c72d10c43de16382236028f7c56e799"
   ],
   "verseViewBy": []
 }
