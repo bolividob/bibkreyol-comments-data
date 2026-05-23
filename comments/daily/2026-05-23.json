@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779570065342,
+  "updatedAt": 1779570319822,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779570216859",
+      "text": "amén 🙏",
+      "userDeviceId": "f8fd2e6ee609de052418d2ee3d48b9624cf0f8767529e79c723716c995fa82b9",
+      "userName": "milouz",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779570319822,
+      "updatedAt": 1779570319822,
+      "status": "active"
+    },
     {
       "id": "local-1779564153036",
       "text": "amen amen",
@@ -467,7 +481,7 @@
   ],
   "likeCount": 118,
   "shareCount": 216,
-  "viewCount": 15148,
+  "viewCount": 15223,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
