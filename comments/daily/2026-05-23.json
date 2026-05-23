@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779545347488,
+  "updatedAt": 1779545465550,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779545345276",
+      "text": "amn",
+      "userDeviceId": "5acd0501349d7e74febf9b177f516fe4bc64762030364d1d62ae3d32be1c4e6f",
+      "userName": "🤲🙏",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779545465550,
+      "updatedAt": 1779545465550,
+      "status": "active"
+    },
     {
       "id": "local-1779544953803",
       "text": "amén bondye mw lague vant mw NaN mew ui papa bondye amén",
@@ -390,7 +404,7 @@
   ],
   "likeCount": 78,
   "shareCount": 163,
-  "viewCount": 9936,
+  "viewCount": 9959,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
