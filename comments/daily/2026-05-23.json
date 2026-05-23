@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779507890031,
+  "updatedAt": 1779508069098,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779507168821",
+      "text": "amen amen Amen 🙏🙏🙏",
+      "userDeviceId": "8e259edac7e7f12a6ce80bf5c4d6478b2451974628b0cb9f7b3e4adea4eecab0",
+      "userName": "JAMES YSMOND",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779508069098,
+      "updatedAt": 1779508069098,
+      "status": "active"
+    },
     {
       "id": "local-1779507163849",
       "text": "Amen",
@@ -152,8 +166,8 @@
     }
   ],
   "likeCount": 24,
-  "shareCount": 18,
-  "viewCount": 3249,
+  "shareCount": 23,
+  "viewCount": 3588,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
