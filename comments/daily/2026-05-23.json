@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779497411557,
+  "updatedAt": 1779497529775,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779497516741",
+      "text": "amén",
+      "userDeviceId": "558d5dcd90c6b3566b27085bdadadbf762f66e3f463c4a7de902932be49b8768",
+      "userName": "marco",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779497529775,
+      "updatedAt": 1779497529775,
+      "status": "active"
+    },
     {
       "id": "local-1779495912394",
       "text": "bndye mw lagué grnn pitit mw anh nan menw papa",
@@ -15,7 +29,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779497173090,
-      "updatedAt": 1779497173090,
+      "updatedAt": 1779497529775,
       "status": "active"
     },
     {
@@ -29,7 +43,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779496997288,
-      "updatedAt": 1779496997288,
+      "updatedAt": 1779497529775,
       "status": "active"
     },
     {
@@ -43,18 +57,19 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779494771928,
-      "updatedAt": 1779494771928,
+      "updatedAt": 1779497529775,
       "status": "active"
     }
   ],
-  "likeCount": 4,
+  "likeCount": 5,
   "shareCount": 3,
-  "viewCount": 669,
+  "viewCount": 718,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
     "28809d9a11e0df45963c983dd57a2e766d3ff60ac8d4b62f6c5e1a3b48cf5465",
-    "9f6422f22962d0d8847c93a5319ab38f12523225e3b3a001f3de5e88b0180f01"
+    "9f6422f22962d0d8847c93a5319ab38f12523225e3b3a001f3de5e88b0180f01",
+    "558d5dcd90c6b3566b27085bdadadbf762f66e3f463c4a7de902932be49b8768"
   ],
   "verseViewBy": []
 }
