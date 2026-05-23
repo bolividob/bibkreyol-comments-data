@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779518642407,
+  "updatedAt": 1779518763360,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779518711452",
+      "text": "amen",
+      "userDeviceId": "b9a92f07453845bb74cd629c2f1809469c27616dcae6372782bcd937ba3b9a95",
+      "userName": "lonel",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779518763360,
+      "updatedAt": 1779518763360,
+      "status": "active"
+    },
     {
       "id": "local-1779513584956",
       "text": "Amén y amén",
@@ -220,7 +234,7 @@
   ],
   "likeCount": 39,
   "shareCount": 45,
-  "viewCount": 4917,
+  "viewCount": 4925,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
