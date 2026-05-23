@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779538026697,
+  "updatedAt": 1779538148980,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779538124605",
+      "text": "ke Bondye beni nou",
+      "userDeviceId": "c0adac7d33c8677f8ed6312cb28d6a7aa5a44415641794992fe6df284b84b2af",
+      "userName": "Jean Rony Chéry",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779538148980,
+      "updatedAt": 1779538148980,
+      "status": "active"
+    },
     {
       "id": "local-1779536983190",
       "text": "Amen",
@@ -332,7 +346,7 @@
   ],
   "likeCount": 63,
   "shareCount": 126,
-  "viewCount": 8053,
+  "viewCount": 8086,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
