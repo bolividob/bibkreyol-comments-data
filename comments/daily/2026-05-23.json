@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779535992959,
+  "updatedAt": 1779536105662,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779536069717",
+      "text": "bib la se limyè",
+      "userDeviceId": "d72a2f0dfebcb5a424e615e34c569db11e04ef1f507d57503de4329b28103424",
+      "userName": "Dieumene Guerrier",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779536105662,
+      "updatedAt": 1779536105662,
+      "status": "active"
+    },
     {
       "id": "local-1779535818566",
       "text": "Amen",
@@ -304,7 +318,7 @@
   ],
   "likeCount": 61,
   "shareCount": 115,
-  "viewCount": 7525,
+  "viewCount": 7550,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
