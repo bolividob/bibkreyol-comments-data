@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779529564960,
+  "updatedAt": 1779529699338,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779529673773",
+      "text": "amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779529699338,
+      "updatedAt": 1779529699338,
+      "status": "active"
+    },
     {
       "id": "local-1779521860051",
       "text": "amén",
@@ -246,9 +260,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
+  "likeCount": 47,
   "shareCount": 66,
-  "viewCount": 5855,
+  "viewCount": 5878,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
@@ -295,7 +309,8 @@
     "88c693bb707dd4b843df0973613cad8ab99e9337f952f8a6e7bac6f6ca0e7616",
     "a898a5715008bd9bd8edf2b195e9fe7fa356e3c901943e4bb7c2577bebb813a2",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
-    "ac69c5ad1e76ce95d7ccfe5092e31f066a3acee16be83b2a9ea69c5a318953b2"
+    "ac69c5ad1e76ce95d7ccfe5092e31f066a3acee16be83b2a9ea69c5a318953b2",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
