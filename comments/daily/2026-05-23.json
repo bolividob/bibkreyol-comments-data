@@ -1,9 +1,23 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779496997288,
+  "updatedAt": 1779497173090,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779495912394",
+      "text": "bndye mw lagué grnn pitit mw anh nan menw papa",
+      "userDeviceId": "b5a27774b22830b35f5ae8ed10e8332a2848ff16734bc8acab8ab0cd6d8113a4",
+      "userName": "airelys",
+      "verseName": "Som 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779497173090,
+      "updatedAt": 1779497173090,
+      "status": "active"
+    },
     {
       "id": "local-1779495117020",
       "text": "jesih",
@@ -34,8 +48,8 @@
     }
   ],
   "likeCount": 4,
-  "shareCount": 2,
-  "viewCount": 448,
+  "shareCount": 3,
+  "viewCount": 528,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
