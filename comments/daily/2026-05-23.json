@@ -1,7 +1,7 @@
 {
   "date": "2026-05-23",
   "verseKey": "daily:2026-05-23",
-  "updatedAt": 1779567905861,
+  "updatedAt": 1779568028243,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Som 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "76399310c327f73fc8a12a9911dacc70dd8ee380f5ec51431413198f8c9d15f5"
+      ],
       "createdAt": 1779555066572,
-      "updatedAt": 1779555066572,
+      "updatedAt": 1779568028243,
       "status": "active"
     },
     {
@@ -465,7 +467,7 @@
   ],
   "likeCount": 117,
   "shareCount": 212,
-  "viewCount": 14680,
+  "viewCount": 14708,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "99635fb52642ed171dce61b35e802c970684e8681952bb517e694fac25a59db3",
