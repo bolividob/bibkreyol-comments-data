@@ -1,9 +1,53 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779641587615,
+  "updatedAt": 1779645064373,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779641266374",
+      "text": "mési Jesús Pou Saw ye nan la vim",
+      "userDeviceId": "3944326b98657b4c3f8fe5d2de7c3bcb529394a409a24821ef8c1eb7d3d4af81",
+      "userName": "Armantha",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "3944326b98657b4c3f8fe5d2de7c3bcb529394a409a24821ef8c1eb7d3d4af81"
+      ],
+      "createdAt": 1779645064373,
+      "updatedAt": 1779645064373,
+      "status": "active"
+    },
+    {
+      "id": "local-1779641286036",
+      "text": "mési pou tout saw fè pou mw",
+      "userDeviceId": "3944326b98657b4c3f8fe5d2de7c3bcb529394a409a24821ef8c1eb7d3d4af81",
+      "userName": "Armantha",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779645064373,
+      "updatedAt": 1779645064373,
+      "status": "active"
+    },
+    {
+      "id": "local-1779635569483",
+      "text": "se nan Jezi m mete tout konfyans mwen",
+      "userDeviceId": "bba29d293be9242732d2e7eb43d33e5e43cf75cc2adc0c27dcb914050b1492a0",
+      "userName": "zeau",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779645064372,
+      "updatedAt": 1779645064372,
+      "status": "active"
+    },
     {
       "id": "local-1779620635678",
       "text": "merci jezi",
@@ -379,9 +423,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 153,
-  "viewCount": 13741,
+  "likeCount": 65,
+  "shareCount": 156,
+  "viewCount": 14721,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -444,7 +488,10 @@
     "e16f11310ec13e0206d1b6d33a59dabc44f542ed6c5a16d299d3e53bb34a4b9b",
     "19f42f2797d24206d9364f459b01107f40f5b0bba4e66527c984c7b2bd4a0589",
     "e6ac1287c6fe61beae2bfe5288c86117652bdcab15196ffa40c0636c5aee8961",
-    "06b2e7f4f760206396eb32f7ccc42ef0f9abc56ddd6d269b8fa095320f717d27"
+    "06b2e7f4f760206396eb32f7ccc42ef0f9abc56ddd6d269b8fa095320f717d27",
+    "cf84ce903b3401c1a53c05c7b9545eec71dcc96b1dbf745ad0566c4a2f26cff4",
+    "3944326b98657b4c3f8fe5d2de7c3bcb529394a409a24821ef8c1eb7d3d4af81",
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c"
   ],
   "verseViewBy": []
 }
