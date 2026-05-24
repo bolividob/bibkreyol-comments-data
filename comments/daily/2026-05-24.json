@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779637868508,
+  "updatedAt": 1779638170796,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779620635678",
+      "text": "merci jezi",
+      "userDeviceId": "4bed156a84798e6d241d867aa977761c833cc82d237ab532303fbcec55e6dfe8",
+      "userName": "David",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779638170796,
+      "updatedAt": 1779638170796,
+      "status": "active"
+    },
     {
       "id": "local-1779631774278",
       "text": "Amen",
@@ -361,13 +375,13 @@
         "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
       ],
       "createdAt": 1779584423016,
-      "updatedAt": 1779637867308,
+      "updatedAt": 1779638170794,
       "status": "active"
     }
   ],
   "likeCount": 62,
-  "shareCount": 139,
-  "viewCount": 12007,
+  "shareCount": 148,
+  "viewCount": 12986,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
