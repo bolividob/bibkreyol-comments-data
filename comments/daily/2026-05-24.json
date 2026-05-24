@@ -1,17 +1,34 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779584246704,
+  "updatedAt": 1779584423017,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
-  "shareCount": 4,
-  "viewCount": 895,
+  "comments": [
+    {
+      "id": "local-1779584267962",
+      "text": "Parole BonDieu Vivian",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779584423016,
+      "updatedAt": 1779584423016,
+      "status": "active"
+    }
+  ],
+  "likeCount": 6,
+  "shareCount": 6,
+  "viewCount": 962,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
     "45a4f4096052e4b1c4304d9e984fa08ac1527c2fc0291375c55aa776a871e78b",
-    "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a"
+    "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "e01e5bb684f073b0f5c666be51aacede353858e8622c6f6aa05cb1672cd25251"
   ],
   "verseViewBy": []
 }
