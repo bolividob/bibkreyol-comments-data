@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779662973608,
+  "updatedAt": 1779663586150,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779620394172",
+      "text": "moun sove a",
+      "userDeviceId": "f61a394ed0dd49bd535e111b91c1b8f8449d3a7721dddd1fad33355ae351843a",
+      "userName": "olbrisu marvinnsley chrazi de dieu a",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779663586149,
+      "updatedAt": 1779663586149,
+      "status": "active"
+    },
     {
       "id": "local-1779656057168",
       "text": "amè n",
@@ -154,10 +168,12 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "968cad8214e76bd51aaf362b75b74a6941e4c1c9abe80370beb60fcdf69f5984"
+      ],
       "createdAt": 1779634339608,
-      "updatedAt": 1779634339608,
+      "updatedAt": 1779663586150,
       "status": "active"
     },
     {
@@ -465,9 +481,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
+  "likeCount": 72,
   "shareCount": 191,
-  "viewCount": 20833,
+  "viewCount": 21127,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -539,7 +555,8 @@
     "dd88978dd7c25d9cda91042a3ca525d534ae9b414439b3e5279243b28b632cb2",
     "8ed8cf2c0bf5d998a2880f8119564558dfcac60eed19d8cf864a4ff261ec886a",
     "6ed786f0c42e109dc5ded4c12f7004a0c8c2fb2cc3ff968074bb97c6962def03",
-    "e1503b3f5e938e20603c1c46c2ad0cdb0b6e3b4de17e5a03f59ea7d6fe5c4700"
+    "e1503b3f5e938e20603c1c46c2ad0cdb0b6e3b4de17e5a03f59ea7d6fe5c4700",
+    "16143bee893a01ddf4fac874986553af7be3e35d3a7ef96dc0999996cc30700e"
   ],
   "verseViewBy": []
 }
