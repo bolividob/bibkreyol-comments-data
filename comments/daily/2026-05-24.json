@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779623370782,
+  "updatedAt": 1779623799007,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779623631347",
+      "text": "Amen Amen 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779623799007,
+      "updatedAt": 1779623799007,
+      "status": "active"
+    },
     {
       "id": "local-1779623255532",
       "text": "amén amén mèsi senyè🙏🙏",
@@ -157,9 +171,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 48,
-  "shareCount": 99,
-  "viewCount": 8022,
+  "likeCount": 50,
+  "shareCount": 103,
+  "viewCount": 8289,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -208,7 +222,9 @@
     "3af30a3b6efdb15c8a30a4e72aa7102ee1415749b3b19e286051f420a90de375",
     "6ce4a27928c6194a1c3cdf1bbf6235297e595619ed24987e7bd925d1b8241c45",
     "5dc42b6cf739032672e14fde9505ab37a33366beef7ec68f3f7ae1f3b3d596db",
-    "353019e483f07780e31de6dc9f95937bfc7534eaad153010d3cdf16bffbb1d69"
+    "353019e483f07780e31de6dc9f95937bfc7534eaad153010d3cdf16bffbb1d69",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "5b3310bb7b8f3a640cda60496ac764cbbfc5d6fa26097951b707b5959858d141"
   ],
   "verseViewBy": []
 }
