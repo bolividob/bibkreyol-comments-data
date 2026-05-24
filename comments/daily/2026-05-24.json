@@ -1,9 +1,37 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779627246561,
+  "updatedAt": 1779630837251,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779629440216",
+      "text": "merci seigneur pour ta grasse",
+      "userDeviceId": "7e983158d52ec9b77960dc8fc10cdbb9ac8406fdd152064554ba7675c5dd193a",
+      "userName": "rose",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779630837251,
+      "updatedAt": 1779630837251,
+      "status": "active"
+    },
+    {
+      "id": "local-1779627358697",
+      "text": "non",
+      "userDeviceId": "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c",
+      "userName": "Amé 🥰🥰🥰🥰🥰👏🙏🙏🙏",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": "local-1779626977871",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779630837250,
+      "updatedAt": 1779630837250,
+      "status": "active"
+    },
     {
       "id": "local-1779626977871",
       "text": "zhdkskjd en France",
@@ -11,11 +39,13 @@
       "userName": "ygi",
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
-      "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 2,
+      "likeCount": 1,
+      "likedBy": [
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
+      ],
       "createdAt": 1779627246561,
-      "updatedAt": 1779627246561,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -110,10 +140,12 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
+      ],
       "createdAt": 1779623370782,
-      "updatedAt": 1779623370782,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -154,12 +186,13 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "ccdd211390ed28bf5dc4f7ca6459137418acf87122c77dfb79159e485d6db657"
+        "ccdd211390ed28bf5dc4f7ca6459137418acf87122c77dfb79159e485d6db657",
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
       ],
       "createdAt": 1779595626303,
-      "updatedAt": 1779595748237,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -170,10 +203,12 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
+      ],
       "createdAt": 1779595387646,
-      "updatedAt": 1779595387646,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -184,10 +219,12 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
+      ],
       "createdAt": 1779591617311,
-      "updatedAt": 1779591617311,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -198,12 +235,13 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "527ea42fb4a6faa03ad6b662101a27271cd04296975b9571d2c1a43d8e3509e5"
+        "527ea42fb4a6faa03ad6b662101a27271cd04296975b9571d2c1a43d8e3509e5",
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
       ],
       "createdAt": 1779588750061,
-      "updatedAt": 1779589044108,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -219,7 +257,7 @@
         "527ea42fb4a6faa03ad6b662101a27271cd04296975b9571d2c1a43d8e3509e5"
       ],
       "createdAt": 1779585140454,
-      "updatedAt": 1779589044108,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -230,12 +268,13 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "527ea42fb4a6faa03ad6b662101a27271cd04296975b9571d2c1a43d8e3509e5"
+        "527ea42fb4a6faa03ad6b662101a27271cd04296975b9571d2c1a43d8e3509e5",
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
       ],
       "createdAt": 1779584591323,
-      "updatedAt": 1779589044108,
+      "updatedAt": 1779630837250,
       "status": "active"
     },
     {
@@ -246,18 +285,19 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "527ea42fb4a6faa03ad6b662101a27271cd04296975b9571d2c1a43d8e3509e5"
+        "527ea42fb4a6faa03ad6b662101a27271cd04296975b9571d2c1a43d8e3509e5",
+        "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c"
       ],
       "createdAt": 1779584423016,
-      "updatedAt": 1779589044108,
+      "updatedAt": 1779630837250,
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 110,
-  "viewCount": 9116,
+  "likeCount": 59,
+  "shareCount": 119,
+  "viewCount": 10067,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -311,8 +351,13 @@
     "5b3310bb7b8f3a640cda60496ac764cbbfc5d6fa26097951b707b5959858d141",
     "de2d1bd75c663af72ded63b1f2553d948827bdaedc689476d58e85ebe8edbe96",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
+    "62c813e146b2e5cce772cc4c57246be970849fac82f6d43a1c31312fde939e00",
     "dd88978dd7c25d9cda91042a3ca525d534ae9b414439b3e5279243b28b632cb2",
-    "62c813e146b2e5cce772cc4c57246be970849fac82f6d43a1c31312fde939e00"
+    "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c",
+    "6d9e8e9e4e579809d92085069e5bf8aa663de679af899f173bbf3a92682ea727",
+    "1c614ef8c95fe9b11bf1257c845706c0ff43dc22ba747dc034fd54ff61d003ad",
+    "b7577792f6d39aeacb046dd73c9194ac801e921c9b9045ec6c6f923cfca295cc",
+    "e16f11310ec13e0206d1b6d33a59dabc44f542ed6c5a16d299d3e53bb34a4b9b"
   ],
   "verseViewBy": []
 }
