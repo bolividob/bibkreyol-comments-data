@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779645064373,
+  "updatedAt": 1779648664965,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779645038689",
+      "text": "te",
+      "userDeviceId": "e1503b3f5e938e20603c1c46c2ad0cdb0b6e3b4de17e5a03f59ea7d6fe5c4700",
+      "userName": "rrr",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": "local-1779620635678",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779648664965,
+      "updatedAt": 1779648664965,
+      "status": "active"
+    },
     {
       "id": "local-1779641266374",
       "text": "mési Jesús Pou Saw ye nan la vim",
@@ -17,7 +31,7 @@
         "3944326b98657b4c3f8fe5d2de7c3bcb529394a409a24821ef8c1eb7d3d4af81"
       ],
       "createdAt": 1779645064373,
-      "updatedAt": 1779645064373,
+      "updatedAt": 1779648664964,
       "status": "active"
     },
     {
@@ -55,11 +69,11 @@
       "userName": "David",
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779638170796,
-      "updatedAt": 1779638170796,
+      "updatedAt": 1779648664965,
       "status": "active"
     },
     {
@@ -423,9 +437,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 156,
-  "viewCount": 14721,
+  "likeCount": 67,
+  "shareCount": 159,
+  "viewCount": 15696,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -480,7 +494,6 @@
     "de2d1bd75c663af72ded63b1f2553d948827bdaedc689476d58e85ebe8edbe96",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
     "62c813e146b2e5cce772cc4c57246be970849fac82f6d43a1c31312fde939e00",
-    "dd88978dd7c25d9cda91042a3ca525d534ae9b414439b3e5279243b28b632cb2",
     "333e057b06f1672c9cfe76149a032693804da0b262ad0e5e0c0939278e93077c",
     "6d9e8e9e4e579809d92085069e5bf8aa663de679af899f173bbf3a92682ea727",
     "1c614ef8c95fe9b11bf1257c845706c0ff43dc22ba747dc034fd54ff61d003ad",
@@ -491,7 +504,10 @@
     "06b2e7f4f760206396eb32f7ccc42ef0f9abc56ddd6d269b8fa095320f717d27",
     "cf84ce903b3401c1a53c05c7b9545eec71dcc96b1dbf745ad0566c4a2f26cff4",
     "3944326b98657b4c3f8fe5d2de7c3bcb529394a409a24821ef8c1eb7d3d4af81",
-    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c"
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "dd88978dd7c25d9cda91042a3ca525d534ae9b414439b3e5279243b28b632cb2",
+    "0112b9a31a28a3de29eb9aa7c25532618f9d8f7000d1c5c2f926d3e768bcfb62",
+    "8eb5f38e699e8cff9c8c5b26f02a98f4d3727c3fd90c459a2b34e549f8075d42"
   ],
   "verseViewBy": []
 }
