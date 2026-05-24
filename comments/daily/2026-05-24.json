@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779591374075,
+  "updatedAt": 1779591617311,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779591408944",
+      "text": "mesi bondye pou Gras saa",
+      "userDeviceId": "ef4e744ab0b46de319eb2895cb883b4ea052b0d706a540fcfa0760df415c1d47",
+      "userName": "mèsi bondye",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779591617311,
+      "updatedAt": 1779591617311,
+      "status": "active"
+    },
     {
       "id": "local-1779588709193",
       "text": "merci jezi Pou gras ou",
@@ -70,8 +84,8 @@
     }
   ],
   "likeCount": 19,
-  "shareCount": 17,
-  "viewCount": 2905,
+  "shareCount": 18,
+  "viewCount": 3012,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
