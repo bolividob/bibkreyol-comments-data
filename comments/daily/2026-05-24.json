@@ -1,9 +1,93 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779624110907,
+  "updatedAt": 1779627246561,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779626977871",
+      "text": "zhdkskjd en France",
+      "userDeviceId": "62c813e146b2e5cce772cc4c57246be970849fac82f6d43a1c31312fde939e00",
+      "userName": "ygi",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779627246561,
+      "updatedAt": 1779627246561,
+      "status": "active"
+    },
+    {
+      "id": "local-1779627012988",
+      "text": "sans",
+      "userDeviceId": "62c813e146b2e5cce772cc4c57246be970849fac82f6d43a1c31312fde939e00",
+      "userName": "ygi",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": "local-1779626977871",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779627246561,
+      "updatedAt": 1779627246561,
+      "status": "active"
+    },
+    {
+      "id": "local-1779626472926",
+      "text": "Se pou God fèw plis gras toujou fan'mim ✅🙏",
+      "userDeviceId": "948eab6482b2bf7ff770214e3b932125157a71d65fedd80abfa3dca1334a055a",
+      "userName": "Frè Woobenn-sky Descar waa 👑 de siksè a 🌠🏆",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779627246560,
+      "updatedAt": 1779627246560,
+      "status": "active"
+    },
+    {
+      "id": "local-1779626680375",
+      "text": "chan",
+      "userDeviceId": "e9ae15d1fb521f1492d5650fd9b6cabdbd5694d0bc7173f0cd39562b95765904",
+      "userName": "ana",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779627246560,
+      "updatedAt": 1779627246560,
+      "status": "active"
+    },
+    {
+      "id": "local-1779626771927",
+      "text": "amèn 🙏",
+      "userDeviceId": "a21dafce214172c5a81b8ad945f81cb0767efc02c9712f4d6fc472b4ae8def9a",
+      "userName": "love",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779627246560,
+      "updatedAt": 1779627246560,
+      "status": "active"
+    },
+    {
+      "id": "local-1779626739815",
+      "text": "kelbono",
+      "userDeviceId": "e9ae15d1fb521f1492d5650fd9b6cabdbd5694d0bc7173f0cd39562b95765904",
+      "userName": "ana",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": "local-1779626680375",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779627246560,
+      "updatedAt": 1779627246560,
+      "status": "active"
+    },
     {
       "id": "local-1779623631347",
       "text": "Amen Amen 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -171,9 +255,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 106,
-  "viewCount": 8531,
+  "likeCount": 54,
+  "shareCount": 110,
+  "viewCount": 9116,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -225,7 +309,10 @@
     "353019e483f07780e31de6dc9f95937bfc7534eaad153010d3cdf16bffbb1d69",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "5b3310bb7b8f3a640cda60496ac764cbbfc5d6fa26097951b707b5959858d141",
-    "de2d1bd75c663af72ded63b1f2553d948827bdaedc689476d58e85ebe8edbe96"
+    "de2d1bd75c663af72ded63b1f2553d948827bdaedc689476d58e85ebe8edbe96",
+    "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
+    "dd88978dd7c25d9cda91042a3ca525d534ae9b414439b3e5279243b28b632cb2",
+    "62c813e146b2e5cce772cc4c57246be970849fac82f6d43a1c31312fde939e00"
   ],
   "verseViewBy": []
 }
