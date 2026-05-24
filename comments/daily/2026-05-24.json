@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779666698557,
+  "updatedAt": 1779666879386,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779666812233",
+      "text": "oh glwa a Dye",
+      "userDeviceId": "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+      "userName": "pa Kitem viv san prezans u nan vim BNDYE u c sus lavim ki pap janm seche  m renmnw BNDYE",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779666879386,
+      "updatedAt": 1779666879386,
+      "status": "active"
+    },
     {
       "id": "local-1779620394172",
       "text": "moun sove a",
@@ -481,9 +495,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
-  "shareCount": 192,
-  "viewCount": 21616,
+  "likeCount": 75,
+  "shareCount": 193,
+  "viewCount": 21801,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -557,7 +571,9 @@
     "6ed786f0c42e109dc5ded4c12f7004a0c8c2fb2cc3ff968074bb97c6962def03",
     "e1503b3f5e938e20603c1c46c2ad0cdb0b6e3b4de17e5a03f59ea7d6fe5c4700",
     "16143bee893a01ddf4fac874986553af7be3e35d3a7ef96dc0999996cc30700e",
-    "4a2d781a65c4068f9323741d09c0dec0ce10bcf693c70cafef92097258280b80"
+    "4a2d781a65c4068f9323741d09c0dec0ce10bcf693c70cafef92097258280b80",
+    "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+    "c695f811063a7ef17e2456f66a82230f0f3e7a432f95936a84e7b2b7bd1b778d"
   ],
   "verseViewBy": []
 }
