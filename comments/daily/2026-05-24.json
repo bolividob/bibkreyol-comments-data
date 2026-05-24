@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779588615086,
+  "updatedAt": 1779588750061,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779588709193",
+      "text": "merci jezi Pou gras ou",
+      "userDeviceId": "a822e063b1adc3429df58033364a88cb185c1424878f1ec182f2884401d8ccfc",
+      "userName": "amen",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779588750061,
+      "updatedAt": 1779588750061,
+      "status": "active"
+    },
     {
       "id": "local-1779585056518",
       "text": "merci jesus pou gras ou",
@@ -48,8 +62,8 @@
     }
   ],
   "likeCount": 17,
-  "shareCount": 14,
-  "viewCount": 2277,
+  "shareCount": 15,
+  "viewCount": 2342,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
