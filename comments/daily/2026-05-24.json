@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779600903765,
+  "updatedAt": 1779601024067,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779600962128",
+      "text": "amén 🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779601024067,
+      "updatedAt": 1779601024067,
+      "status": "active"
+    },
     {
       "id": "local-1779597410963",
       "text": "Gracias Dios 😃",
@@ -130,8 +144,8 @@
     }
   ],
   "likeCount": 33,
-  "shareCount": 31,
-  "viewCount": 4793,
+  "shareCount": 33,
+  "viewCount": 4805,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
