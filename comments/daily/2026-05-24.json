@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779595626303,
+  "updatedAt": 1779595748237,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ccdd211390ed28bf5dc4f7ca6459137418acf87122c77dfb79159e485d6db657"
+      ],
       "createdAt": 1779595626303,
-      "updatedAt": 1779595626303,
+      "updatedAt": 1779595748237,
       "status": "active"
     },
     {
@@ -112,8 +114,8 @@
     }
   ],
   "likeCount": 31,
-  "shareCount": 25,
-  "viewCount": 3854,
+  "shareCount": 26,
+  "viewCount": 3893,
   "verseLikedBy": [
     "1ba3113fb0306b342aa4aebc7a5a458f6b0ee272e7513808f586e76f9e4ba83b",
     "462293ef7279194b20110ded64f787eb7c2f985f45d4994b84103c80d6e75d6e",
@@ -145,7 +147,7 @@
     "76f7adfd92925cfc6820483da2cf8104192d3fff433a351bb8e655cf46e4ebd0",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1802904b2e2852fc842fb21d439f9997ae773fb1797c593805e62beee556a52d",
-    "ccdd211390ed28bf5dc4f7ca6459137418acf87122c77dfb79159e485d6db657"
+    "039c500a6ca9b4989de877980160459acd3be4a5d091711290fa46b8ab88b3d6"
   ],
   "verseViewBy": []
 }
