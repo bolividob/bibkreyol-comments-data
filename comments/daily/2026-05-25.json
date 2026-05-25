@@ -1,9 +1,23 @@
 {
   "date": "2026-05-25",
   "verseKey": "daily:2026-05-25",
-  "updatedAt": 1779681249664,
+  "updatedAt": 1779681367294,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779681250342",
+      "text": "mesi anpil papa",
+      "userDeviceId": "8860df4ce9efd15b38564ef1ab5eedbbba4c62e1a322bbe309f025f45503cb25",
+      "userName": "marie Bernadette petit frere",
+      "verseName": "Ebre 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779681367294,
+      "updatedAt": 1779681367294,
+      "status": "active"
+    },
     {
       "id": "local-1779677069113",
       "text": "EGLISE EVANGELIQUE DE JESUS-CHRIST",
@@ -94,8 +108,8 @@
     }
   ],
   "likeCount": 20,
-  "shareCount": 40,
-  "viewCount": 3304,
+  "shareCount": 42,
+  "viewCount": 3338,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "c2393e91388fd2175125fa36067ebb7895ca5f71c22f2ecb6d0a3bc6e6ebf356",
