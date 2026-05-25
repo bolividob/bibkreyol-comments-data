@@ -1,9 +1,23 @@
 {
   "date": "2026-05-25",
   "verseKey": "daily:2026-05-25",
-  "updatedAt": 1779718386373,
+  "updatedAt": 1779718507963,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779718461529",
+      "text": "amén",
+      "userDeviceId": "a24ffdd1c4e1d5717994dad7ff85ff2d16ae85c4b5eba73d04dd72ad7f651ca3",
+      "userName": "Berguenson",
+      "verseName": "Ebre 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779718507963,
+      "updatedAt": 1779718507963,
+      "status": "active"
+    },
     {
       "id": "local-1779715309698",
       "text": "Amén 🙌 🙌",
@@ -233,9 +247,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
+  "likeCount": 74,
   "shareCount": 172,
-  "viewCount": 9517,
+  "viewCount": 9545,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "c2393e91388fd2175125fa36067ebb7895ca5f71c22f2ecb6d0a3bc6e6ebf356",
@@ -309,7 +323,8 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "0ee52b68cc2cc494cb132e60dc7f1d727107af6c0356441da9a5f3f7c662d3dd",
     "6f6768bb8844efa8ac99c2a2b79c8039f3cc1244b6d233bd7337da7a6225ed53",
-    "a5ae7a8bf06ae50b44f714dc621a179c976172c66bf0afd953918764ebcb0102"
+    "a5ae7a8bf06ae50b44f714dc621a179c976172c66bf0afd953918764ebcb0102",
+    "a24ffdd1c4e1d5717994dad7ff85ff2d16ae85c4b5eba73d04dd72ad7f651ca3"
   ],
   "verseViewBy": []
 }
