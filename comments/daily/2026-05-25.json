@@ -1,9 +1,23 @@
 {
   "date": "2026-05-25",
   "verseKey": "daily:2026-05-25",
-  "updatedAt": 1779725474489,
+  "updatedAt": 1779725969706,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779725578285",
+      "text": "amen",
+      "userDeviceId": "0140be899886a471ef5a77516559c406d3672a91265ded18507631fc572c9452",
+      "userName": "idosia",
+      "verseName": "Ebre 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779725969706,
+      "updatedAt": 1779725969706,
+      "status": "active"
+    },
     {
       "id": "local-1779727259615",
       "text": "Moun legliz pèsekite",
@@ -15,7 +29,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779723785959,
-      "updatedAt": 1779723785959,
+      "updatedAt": 1779725969706,
       "status": "active"
     },
     {
@@ -261,9 +275,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 82,
-  "shareCount": 199,
-  "viewCount": 11297,
+  "likeCount": 84,
+  "shareCount": 200,
+  "viewCount": 11449,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "c2393e91388fd2175125fa36067ebb7895ca5f71c22f2ecb6d0a3bc6e6ebf356",
@@ -346,7 +360,9 @@
     "5600f3eb8fe964b5cf0d3acf9e652295a035af39bb5ef3027fcfac0afcef5008",
     "fa696332e6d8cbf1c95d278797d8e8f4da9221839c63c03cfd7519346da8bac6",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
-    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c"
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "0140be899886a471ef5a77516559c406d3672a91265ded18507631fc572c9452",
+    "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820"
   ],
   "verseViewBy": []
 }
