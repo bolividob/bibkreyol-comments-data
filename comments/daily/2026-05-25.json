@@ -1,9 +1,23 @@
 {
   "date": "2026-05-25",
   "verseKey": "daily:2026-05-25",
-  "updatedAt": 1779710347049,
+  "updatedAt": 1779710606429,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779669305675",
+      "text": "lllk",
+      "userDeviceId": "e1503b3f5e938e20603c1c46c2ad0cdb0b6e3b4de17e5a03f59ea7d6fe5c4700",
+      "userName": "222",
+      "verseName": "Ebre 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779710606428,
+      "updatedAt": 1779710606428,
+      "status": "active"
+    },
     {
       "id": "local-1779706059845",
       "text": "Bel vese Pou jounen an",
@@ -163,9 +177,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 133,
-  "viewCount": 7721,
+  "likeCount": 60,
+  "shareCount": 134,
+  "viewCount": 7787,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "c2393e91388fd2175125fa36067ebb7895ca5f71c22f2ecb6d0a3bc6e6ebf356",
@@ -225,7 +239,8 @@
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
     "e22414be786a05febb0fa932d4580c860ea25920f22351e86ebf783d231897d6",
     "d994b8b7081d601995c9db2533cc71261f2e3ca58151004af0d6153f0dfc73c7",
-    "8fe6f3b195c0cf9c9d205f24df17b1c595464c4aeca3a9af840c7fd853d63efc"
+    "8fe6f3b195c0cf9c9d205f24df17b1c595464c4aeca3a9af840c7fd853d63efc",
+    "f19f1b7d414250e493020260c0fa6d2a35909d024ede3d597ba83b61c629cdcb"
   ],
   "verseViewBy": []
 }
