@@ -1,9 +1,23 @@
 {
   "date": "2026-05-24",
   "verseKey": "daily:2026-05-24",
-  "updatedAt": 1779681635474,
+  "updatedAt": 1779682996333,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779626240671",
+      "text": "De nada",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Time Toto",
+      "verseName": "2 Korentyen 3:5",
+      "parentId": "local-1779597410963",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779682996333,
+      "updatedAt": 1779682996333,
+      "status": "active"
+    },
     {
       "id": "local-1779665236233",
       "text": "glwa aDye",
@@ -287,7 +301,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779627246560,
-      "updatedAt": 1779627246560,
+      "updatedAt": 1779682996333,
       "status": "active"
     },
     {
@@ -383,13 +397,13 @@
       "userName": "it's wendy",
       "verseName": "2 Korentyen 3:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "9033a0525db3811c72fd7c6319321f11b5fddc13cfbde1e70f4457e926b37705"
       ],
       "createdAt": 1779597549843,
-      "updatedAt": 1779597549843,
+      "updatedAt": 1779682996333,
       "status": "active"
     },
     {
