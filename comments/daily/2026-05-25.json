@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
   "verseKey": "daily:2026-05-25",
-  "updatedAt": 1779749359609,
+  "updatedAt": 1779749783407,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779723785959,
-      "updatedAt": 1779725969706,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -68,10 +70,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779718507963,
-      "updatedAt": 1779718507963,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -82,10 +86,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779715524117,
-      "updatedAt": 1779715524117,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -152,10 +158,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779706148357,
-      "updatedAt": 1779706148357,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -166,10 +174,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779701648380,
-      "updatedAt": 1779701648380,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -180,10 +190,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779696793581,
-      "updatedAt": 1779696793581,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -222,10 +234,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779677377624,
-      "updatedAt": 1779677377624,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -264,10 +278,12 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
+      ],
       "createdAt": 1779675082361,
-      "updatedAt": 1779675082361,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -278,12 +294,13 @@
       "verseName": "Ebre 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "55b34b593d46dda045122c694b6ab48167604292ca76cba65d311734cdb38d08"
+        "55b34b593d46dda045122c694b6ab48167604292ca76cba65d311734cdb38d08",
+        "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78"
       ],
       "createdAt": 1779674170269,
-      "updatedAt": 1779675082360,
+      "updatedAt": 1779749783406,
       "status": "active"
     },
     {
@@ -303,9 +320,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 252,
-  "viewCount": 16498,
+  "likeCount": 112,
+  "shareCount": 256,
+  "viewCount": 16639,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "c2393e91388fd2175125fa36067ebb7895ca5f71c22f2ecb6d0a3bc6e6ebf356",
@@ -416,7 +433,9 @@
     "d25a0a212ea575908fd6eb04d2e4d3373bded4e1443c55aaad4d857e2046b07f",
     "213daf1517a1668bc9f3a9431896ed2576e0313bc04ca47614db015f1db282b8",
     "4e6f0fcc70b1ad1021c2a7a88d7a90f9b3d52878a440c1fef8eb59b77b1f4b2a",
-    "c8a53a7537d2edcb625ae7528ae1a0f2f7dbcb50e7bd746852e8631e9e5a7d5e"
+    "c8a53a7537d2edcb625ae7528ae1a0f2f7dbcb50e7bd746852e8631e9e5a7d5e",
+    "29e6cccf80610143e0a943a44b9f7d232054575ac2b32648b158bb841d302d78",
+    "a46e2ec06dca482b393999f0a08103cf46e7fe4305fbd64a6dad9aee0f05f235"
   ],
   "verseViewBy": []
 }
