@@ -1,9 +1,23 @@
 {
   "date": "2026-05-25",
   "verseKey": "daily:2026-05-25",
-  "updatedAt": 1779748627099,
+  "updatedAt": 1779748747008,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779748704817",
+      "text": "wi amén",
+      "userDeviceId": "a07173cdaa450c751a638648d91bfd34071b52254b696881177c1ccff7c3a0e0",
+      "userName": "kibidon",
+      "verseName": "Ebre 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779748747008,
+      "updatedAt": 1779748747008,
+      "status": "active"
+    },
     {
       "id": "local-1779747409315",
       "text": "amén amén amén amén",
@@ -290,8 +304,8 @@
     }
   ],
   "likeCount": 109,
-  "shareCount": 245,
-  "viewCount": 16220,
+  "shareCount": 247,
+  "viewCount": 16250,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "c2393e91388fd2175125fa36067ebb7895ca5f71c22f2ecb6d0a3bc6e6ebf356",
