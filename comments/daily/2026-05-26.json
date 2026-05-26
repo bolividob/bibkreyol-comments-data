@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779804547012,
+  "updatedAt": 1779804666619,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779804652907",
+      "text": "Merci seigneur pour tous ces bien fait",
+      "userDeviceId": "473d7b484f312584adac1e67df5d06eaac8e6d8fa118cb19b04441d5c1c14daa",
+      "userName": "carina",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779804666619,
+      "updatedAt": 1779804666619,
+      "status": "active"
+    },
     {
       "id": "local-1779802273624",
       "text": "Sa depan vesion Bib ou gen: environ 983 fwa, gen lot version se 1273 fwa.",
@@ -245,7 +259,7 @@
   ],
   "likeCount": 50,
   "shareCount": 165,
-  "viewCount": 9495,
+  "viewCount": 9515,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
