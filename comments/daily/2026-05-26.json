@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779804666619,
+  "updatedAt": 1779804787931,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779804708556",
+      "text": "seigneur aidé moi",
+      "userDeviceId": "473d7b484f312584adac1e67df5d06eaac8e6d8fa118cb19b04441d5c1c14daa",
+      "userName": "carina",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779804787931,
+      "updatedAt": 1779804787931,
+      "status": "active"
+    },
     {
       "id": "local-1779804652907",
       "text": "Merci seigneur pour tous ces bien fait",
@@ -257,9 +271,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
+  "likeCount": 51,
   "shareCount": 165,
-  "viewCount": 9515,
+  "viewCount": 9543,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
@@ -310,7 +324,8 @@
     "331337eae32b2db8dc38ae7a27c37308331cb5801e1de603002487153dbfa3cc",
     "f078d6bb20b7474133c40616516a87d38e19cab8d5c02ca389127cd5059872de",
     "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
-    "9b1c20e5e823da1f0291ceb627edeeaf1786d50fc15bff96d1b02eea889872a8"
+    "9b1c20e5e823da1f0291ceb627edeeaf1786d50fc15bff96d1b02eea889872a8",
+    "ca78bfd257349a37c78db68756666142e28582789bb2a404b1ce985b32af03a2"
   ],
   "verseViewBy": []
 }
