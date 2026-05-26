@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779760227570,
+  "updatedAt": 1779760525017,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779760311715",
+      "text": "💕💕💕💕💕💕💕",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779760525017,
+      "updatedAt": 1779760525017,
+      "status": "active"
+    },
     {
       "id": "local-1779757972759",
       "text": "Dios mío",
@@ -76,8 +90,8 @@
     }
   ],
   "likeCount": 12,
-  "shareCount": 15,
-  "viewCount": 1609,
+  "shareCount": 16,
+  "viewCount": 1768,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
