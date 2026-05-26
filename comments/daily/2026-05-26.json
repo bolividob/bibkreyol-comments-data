@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779771903997,
+  "updatedAt": 1779772026471,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779772006299",
+      "text": "🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼 svp Bondye gerim mèt lavia 💓💓💓💓",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779772026471,
+      "updatedAt": 1779772026471,
+      "status": "active"
+    },
     {
       "id": "local-1779769915142",
       "text": "🙏🙏🙏🙏🙏",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 75,
-  "viewCount": 4361,
+  "likeCount": 23,
+  "shareCount": 77,
+  "viewCount": 4376,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
@@ -170,7 +184,8 @@
     "efbb582197316634e94e35231d87cec6526e0ea0fe195797fb2aceb785a44d4a",
     "ee1fdfed032f993ab891ac344e3c4dbbe61eb7fa6bd47750b7f2bc63a1831c86",
     "4fcdc9d9f3bdf6ed8298afa07b6c714422415f01892bf67b787a6664dd32dd6c",
-    "24831c782814fdaa96b4a7e95a2f30a7f22c5fb29a09411542bd26a4773161c2"
+    "24831c782814fdaa96b4a7e95a2f30a7f22c5fb29a09411542bd26a4773161c2",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
   ],
   "verseViewBy": []
 }
