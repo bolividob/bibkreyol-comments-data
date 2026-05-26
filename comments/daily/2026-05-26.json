@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779764834446,
+  "updatedAt": 1779765014853,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779764973102",
+      "text": "bondye pa bliye randevou an papa stp",
+      "userDeviceId": "51672957f414a1b79619a50daaab7dbfd48d66bfa0b0b6fd1a5e63da1ecfec59",
+      "userName": "ruchelandeernest5@gmail.com",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779765014853,
+      "updatedAt": 1779765014853,
+      "status": "active"
+    },
     {
       "id": "local-1779760311715",
       "text": "💕💕💕💕💕💕💕",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
+  "likeCount": 15,
   "shareCount": 65,
-  "viewCount": 2972,
+  "viewCount": 3048,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
@@ -106,7 +120,8 @@
     "84a99c31fa5a3c413ec42202a8208ee73451c0cb2d5bc8febfb225be5094a4e2",
     "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
     "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
-    "6473ee9449ef327df1481bd002d7fa2736207de48e0f23e3b9b1f8b2b261d1e8"
+    "6473ee9449ef327df1481bd002d7fa2736207de48e0f23e3b9b1f8b2b261d1e8",
+    "51672957f414a1b79619a50daaab7dbfd48d66bfa0b0b6fd1a5e63da1ecfec59"
   ],
   "verseViewBy": []
 }
