@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779788726300,
+  "updatedAt": 1779788827326,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779788818243",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779788827326,
+      "updatedAt": 1779788827326,
+      "status": "active"
+    },
     {
       "id": "local-1779772607836",
       "text": "Amén y amén",
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 32,
-  "shareCount": 99,
-  "viewCount": 6000,
+  "likeCount": 33,
+  "shareCount": 100,
+  "viewCount": 6025,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
@@ -208,7 +222,8 @@
     "39044def03d97836e8b0e59ac1a3b79b7b6d771e5c0d517d26390c04d35f337f",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
     "ec331ee623770ff6599fc8b929b95f88db06a00aa6a8e4f2a385b936a964b643",
-    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3"
+    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
