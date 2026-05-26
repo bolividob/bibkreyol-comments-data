@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779767421775,
+  "updatedAt": 1779767717431,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779767505736",
+      "text": "Amen 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779767717431,
+      "updatedAt": 1779767717431,
+      "status": "active"
+    },
     {
       "id": "local-1779764973102",
       "text": "bondye pa bliye randevou an papa stp",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 15,
-  "shareCount": 69,
-  "viewCount": 3353,
+  "likeCount": 16,
+  "shareCount": 70,
+  "viewCount": 3462,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
@@ -121,7 +135,8 @@
     "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815",
     "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "6473ee9449ef327df1481bd002d7fa2736207de48e0f23e3b9b1f8b2b261d1e8",
-    "51672957f414a1b79619a50daaab7dbfd48d66bfa0b0b6fd1a5e63da1ecfec59"
+    "51672957f414a1b79619a50daaab7dbfd48d66bfa0b0b6fd1a5e63da1ecfec59",
+    "b09ef7590cce9883499194d8c706e6b2f2e7d90937370593fbd42420f4140b0e"
   ],
   "verseViewBy": []
 }
