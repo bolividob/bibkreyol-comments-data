@@ -1,9 +1,37 @@
 {
   "date": "2026-05-26",
   "verseKey": "daily:2026-05-26",
-  "updatedAt": 1779802267385,
+  "updatedAt": 1779802388188,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779802273624",
+      "text": "Sa depan vesion Bib ou gen: environ 983 fwa, gen lot version se 1273 fwa.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "2 Wa 5:3",
+      "parentId": "local-1779754544866",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779802388188,
+      "updatedAt": 1779802388188,
+      "status": "active"
+    },
+    {
+      "id": "local-1779802346116",
+      "text": "Desann denye version nou fenk lance pou IPhone lan svp.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779802388188,
+      "updatedAt": 1779802388188,
+      "status": "active"
+    },
     {
       "id": "local-1779792903010",
       "text": "konbyen fra non Jezi site nan bib la",
@@ -207,17 +235,17 @@
       "userName": "ebre",
       "verseName": "2 Wa 5:3",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1779754584663,
-      "updatedAt": 1779793029012,
+      "updatedAt": 1779802388188,
       "status": "active"
     }
   ],
   "likeCount": 45,
   "shareCount": 161,
-  "viewCount": 9006,
+  "viewCount": 9029,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "33fce4c4effdcc4e4015a2dcbef2c61058ab29854142e9433f7998d2a4081aea",
