@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779851007645,
+  "updatedAt": 1779851307165,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779851173312",
+      "text": "salut lemonde",
+      "userDeviceId": "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
+      "userName": "clemene Célian",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779851307165,
+      "updatedAt": 1779851307165,
+      "status": "active"
+    },
     {
       "id": "local-1779850881847",
       "text": "Amèn Amèn Amèn",
@@ -77,9 +91,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
+  "likeCount": 10,
   "shareCount": 24,
-  "viewCount": 2657,
+  "viewCount": 2774,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
@@ -88,7 +102,9 @@
     "65ffb06b95403d811a45607cc4bf2818ff436077a6054b1d592db11db77803ac",
     "34196a402c34a4283a539939c2220fb66ada08f415548b98db9e81e9d9689eae",
     "ceeb2fd9d0e9bc5e77224eb53231516ca2e0c2bbef8b989c8913c9974ed286f9",
-    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
+    "99be51245ec7386b094023a01ac9dd12e7b6412875cae1e13199964f68757345"
   ],
   "verseViewBy": []
 }
