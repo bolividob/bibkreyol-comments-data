@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779850711400,
+  "updatedAt": 1779851007645,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779850881847",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779851007645,
+      "updatedAt": 1779851007645,
+      "status": "active"
+    },
     {
       "id": "local-1779850202772",
       "text": "Bondye beni vèsè sa",
@@ -63,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
-  "shareCount": 23,
-  "viewCount": 2520,
+  "likeCount": 8,
+  "shareCount": 24,
+  "viewCount": 2657,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
@@ -73,7 +87,8 @@
     "4288ba3830df6942233063c377b01ccfa3639de2c929fdbe12b6058c63f3a06e",
     "65ffb06b95403d811a45607cc4bf2818ff436077a6054b1d592db11db77803ac",
     "34196a402c34a4283a539939c2220fb66ada08f415548b98db9e81e9d9689eae",
-    "ceeb2fd9d0e9bc5e77224eb53231516ca2e0c2bbef8b989c8913c9974ed286f9"
+    "ceeb2fd9d0e9bc5e77224eb53231516ca2e0c2bbef8b989c8913c9974ed286f9",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
