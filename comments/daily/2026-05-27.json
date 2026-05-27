@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779841045329,
+  "updatedAt": 1779843346336,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779841346069",
+      "text": "li te ale Di roi saa",
+      "userDeviceId": "ec9a8834aa99efce56edd702cffe4a581349dba2c4beb20b7c70c06fdcd1fb12",
+      "userName": "jolanda",
+      "verseName": "2 Wa 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779843346335,
+      "updatedAt": 1779843346335,
+      "status": "active"
+    },
     {
       "id": "local-1779840969883",
       "text": "ui",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 1,
-  "shareCount": 10,
-  "viewCount": 603,
+  "shareCount": 12,
+  "viewCount": 902,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc"
   ],
