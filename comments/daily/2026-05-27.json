@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779883154609,
+  "updatedAt": 1779883332976,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779883140829",
+      "text": "mesi séye pou gras ou,✋",
+      "userDeviceId": "2448d53ff1fecb5e30dd23ea5d9b07374b28de38af91e3a79a02a72a58dd3073",
+      "userName": "mesi séye ✋",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779883332976,
+      "updatedAt": 1779883332976,
+      "status": "active"
+    },
     {
       "id": "local-1779880539686",
       "text": "amen",
@@ -240,8 +254,8 @@
     }
   ],
   "likeCount": 51,
-  "shareCount": 103,
-  "viewCount": 7727,
+  "shareCount": 104,
+  "viewCount": 7761,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
