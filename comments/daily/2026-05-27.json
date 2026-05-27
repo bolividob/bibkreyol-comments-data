@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779846657257,
+  "updatedAt": 1779847194048,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779845613603",
+      "text": "félicitations",
+      "userDeviceId": "6a6726ec11e88c0605d0016a73eeff0883e9e0b2ac6fccbfd10cb64534b07df6",
+      "userName": "Emma",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779847194048,
+      "updatedAt": 1779847194048,
+      "status": "active"
+    },
     {
       "id": "local-1779841346069",
       "text": "li te ale Di roi saa",
@@ -34,8 +48,8 @@
     }
   ],
   "likeCount": 4,
-  "shareCount": 16,
-  "viewCount": 1571,
+  "shareCount": 18,
+  "viewCount": 1818,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
