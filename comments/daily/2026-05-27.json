@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779855432724,
+  "updatedAt": 1779855546182,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779855525750",
+      "text": "amen",
+      "userDeviceId": "e5b3ea6180bb3a4955df971e3c0929743d1d8e70fd15c0ff37354e94381b841e",
+      "userName": "Catherine",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779855546182,
+      "updatedAt": 1779855546182,
+      "status": "active"
+    },
     {
       "id": "local-1779855185684",
       "text": "Bonsoir tt moun mwen se yon nvlle 👋",
@@ -148,8 +162,8 @@
     }
   ],
   "likeCount": 16,
-  "shareCount": 28,
-  "viewCount": 3507,
+  "shareCount": 29,
+  "viewCount": 3532,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
