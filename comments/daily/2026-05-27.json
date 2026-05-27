@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779921372151,
+  "updatedAt": 1779921487850,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779924947602",
+      "text": "ebre",
+      "userDeviceId": "463bfa2e74ff94cb1f59468386bd568e32120f0aeefc01cd623fd878c5c34ac3",
+      "userName": "Roseline✨ Dorelus",
+      "verseName": "Rit 2:10",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779921487849,
+      "updatedAt": 1779921487849,
+      "status": "active"
+    },
     {
       "id": "local-1779910436265",
       "text": "Alléluia 🙌🙌",
@@ -345,7 +359,7 @@
   ],
   "likeCount": 99,
   "shareCount": 186,
-  "viewCount": 15886,
+  "viewCount": 15918,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
