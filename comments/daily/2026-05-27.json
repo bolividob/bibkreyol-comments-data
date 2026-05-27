@@ -1,12 +1,27 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779840866403,
+  "updatedAt": 1779841045329,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1779840969883",
+      "text": "ui",
+      "userDeviceId": "a5f9c4d1ddc0c129cda7f2e54a6612105f61e8a52c3a71f8dd07b62e9ab7d0d5",
+      "userName": "widline",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779841045329,
+      "updatedAt": 1779841045329,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
-  "shareCount": 7,
-  "viewCount": 489,
+  "shareCount": 10,
+  "viewCount": 603,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc"
   ],
