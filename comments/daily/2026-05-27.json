@@ -1,9 +1,23 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779910384760,
+  "updatedAt": 1779910504358,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779910436265",
+      "text": "Alléluia 🙌🙌",
+      "userDeviceId": "df86cddfd47b65a6dcadccc4bc8cb267cc0ed37f1e51c290d6d5135d3bc5d8ab",
+      "userName": "yvelor",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779910504358,
+      "updatedAt": 1779910504358,
+      "status": "active"
+    },
     {
       "id": "local-1779905988989",
       "text": "Amén 🙏😇",
@@ -325,7 +339,7 @@
   ],
   "likeCount": 86,
   "shareCount": 165,
-  "viewCount": 13294,
+  "viewCount": 13310,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
