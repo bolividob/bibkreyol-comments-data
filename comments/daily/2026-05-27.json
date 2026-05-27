@@ -1,9 +1,25 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779856385681,
+  "updatedAt": 1779856505244,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779856448515",
+      "text": "Amen🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "0bfd864fa6070be4fa6fc09e95d33ffa7d4188cb0a32ac4ae5f574a2aa99f23d",
+      "userName": "derlande",
+      "verseName": "Ezayi 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "0bfd864fa6070be4fa6fc09e95d33ffa7d4188cb0a32ac4ae5f574a2aa99f23d"
+      ],
+      "createdAt": 1779856505244,
+      "updatedAt": 1779856505244,
+      "status": "active"
+    },
     {
       "id": "local-1779856318895",
       "text": "Amén y amén 🙏🙏🙏🙏🙏",
@@ -26,10 +42,12 @@
       "verseName": "Ezayi 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0bfd864fa6070be4fa6fc09e95d33ffa7d4188cb0a32ac4ae5f574a2aa99f23d"
+      ],
       "createdAt": 1779855666966,
-      "updatedAt": 1779855666966,
+      "updatedAt": 1779856505244,
       "status": "active"
     },
     {
@@ -192,8 +210,8 @@
     }
   ],
   "likeCount": 20,
-  "shareCount": 32,
-  "viewCount": 3714,
+  "shareCount": 33,
+  "viewCount": 3728,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
