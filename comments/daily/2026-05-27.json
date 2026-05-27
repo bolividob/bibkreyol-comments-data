@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
   "verseKey": "daily:2026-05-27",
-  "updatedAt": 1779916270990,
+  "updatedAt": 1779916386659,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Ezayi 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1779910504358,
-      "updatedAt": 1779910504358,
+      "updatedAt": 1779916386659,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Ezayi 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1779906191576,
-      "updatedAt": 1779906191576,
+      "updatedAt": 1779916386659,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Ezayi 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1779903185112,
-      "updatedAt": 1779903185112,
+      "updatedAt": 1779916386659,
       "status": "active"
     },
     {
@@ -337,9 +343,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 91,
+  "likeCount": 92,
   "shareCount": 178,
-  "viewCount": 14439,
+  "viewCount": 14461,
   "verseLikedBy": [
     "ff8a5ed0385e4a18899b1fa4e0fe08c4643a8387eb5f7713b799ccf1000ea5fc",
     "cc4bd6bc5497dfaf79bea2e2ed4f8df20f3419c6582003fc4f8c5635ee501eda",
@@ -431,7 +437,8 @@
     "4f13e5ebcec84772c41843dd417ce6230f234d40d427850bfe9dacdb3237fd37",
     "ff73411ce5bf2e765cc72853fa9d6729c27cfc0ca4acf6e40113c38f4879bdb5",
     "aaddffbb0007f62a0570ed96e2fbc80d7f78b58e685e0b92a7f7cda6b520d85c",
-    "d32928ecaee5f355d46b42d4bba6467c0382dd1bff350720ae9e06b4951339cf"
+    "d32928ecaee5f355d46b42d4bba6467c0382dd1bff350720ae9e06b4951339cf",
+    "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a"
   ],
   "verseViewBy": []
 }
