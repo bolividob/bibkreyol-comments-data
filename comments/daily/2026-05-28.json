@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779976327486,
+  "updatedAt": 1779976448266,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779976415524",
+      "text": "Amen amen amen🙏🙏🙏",
+      "userDeviceId": "dd0a0bf3a8824e74fd0c785acd30d5c0195b87aaca80d63e1c05fbcddc49729d",
+      "userName": "Angeline Gilles",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779976448266,
+      "updatedAt": 1779976448266,
+      "status": "active"
+    },
     {
       "id": "local-1779973258966",
       "text": "amén se Pou m Beni AK tout riches Papa m yo amé n",
@@ -232,9 +246,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
+  "likeCount": 58,
   "shareCount": 140,
-  "viewCount": 9686,
+  "viewCount": 9717,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
@@ -292,7 +306,8 @@
     "31b48b174eb04ef4e26f57a6c936078264a0fc52bf698adeaef9b0a6269ba562",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "43562f4f58e363c7cbc29d5451524f66ec0158af986acf328677a41e6aa66226",
-    "a93b7f9d6b3abce21cd29b3f6d01c1bf08e30ecd35996e8657bfcc0674952916"
+    "a93b7f9d6b3abce21cd29b3f6d01c1bf08e30ecd35996e8657bfcc0674952916",
+    "dd0a0bf3a8824e74fd0c785acd30d5c0195b87aaca80d63e1c05fbcddc49729d"
   ],
   "verseViewBy": []
 }
