@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779998106267,
+  "updatedAt": 1779998237212,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779998105854",
+      "text": "amen",
+      "userDeviceId": "ec9a8834aa99efce56edd702cffe4a581349dba2c4beb20b7c70c06fdcd1fb12",
+      "userName": "jolanda",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779998237212,
+      "updatedAt": 1779998237212,
+      "status": "active"
+    },
     {
       "id": "local-1779981799669",
       "text": "Amén y amén 🙏🙏🙏🙏🙏🙏",
@@ -303,8 +317,8 @@
     }
   ],
   "likeCount": 90,
-  "shareCount": 169,
-  "viewCount": 14101,
+  "shareCount": 170,
+  "viewCount": 14122,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
