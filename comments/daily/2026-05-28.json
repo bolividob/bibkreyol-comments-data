@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779965716422,
+  "updatedAt": 1779965890506,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779965709322",
+      "text": "Se pou Bondye kontinye beni nou davantaj",
+      "userDeviceId": "49140bab4c920b5431ecb377a1bd092d909b3132d49996ab3d1f5a22f93dede2",
+      "userName": "Pasteur David Saint Jean",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779965890506,
+      "updatedAt": 1779965890506,
+      "status": "active"
+    },
     {
       "id": "local-1779952139279",
       "text": "Amèn amèn amèn 🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -190,9 +204,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
+  "likeCount": 44,
   "shareCount": 89,
-  "viewCount": 7228,
+  "viewCount": 7269,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
@@ -236,7 +250,8 @@
     "d27084722d4473470d3c52f7c805af9800245a59c705ca7af211d19b8edf7dee",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
-    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb"
+    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
+    "86a75ba6149ac79ac0da85c4c0b03eab3d0a97d5119043fa5f5f7b14d090632b"
   ],
   "verseViewBy": []
 }
