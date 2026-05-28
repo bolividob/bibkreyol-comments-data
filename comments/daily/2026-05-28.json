@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779931340953,
+  "updatedAt": 1779931512244,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779931395681",
+      "text": "Map di nu mèsi putra bay nap fèpur dyea mw swete nu kuraj",
+      "userDeviceId": "f70bdce4a5c78c87ea9a6f147cf328c2c19b01e065dfefbc073448c1634e6c50",
+      "userName": "sove amén",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779931512244,
+      "updatedAt": 1779931512244,
+      "status": "active"
+    },
     {
       "id": "local-1779927302730",
       "text": "Amen",
@@ -35,7 +49,7 @@
   ],
   "likeCount": 6,
   "shareCount": 8,
-  "viewCount": 1409,
+  "viewCount": 1476,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
