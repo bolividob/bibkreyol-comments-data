@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779965467185,
+  "updatedAt": 1779965716422,
   "version": 1,
   "comments": [
     {
@@ -151,10 +151,12 @@
       "verseName": "Kolosyen 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "49140bab4c920b5431ecb377a1bd092d909b3132d49996ab3d1f5a22f93dede2"
+      ],
       "createdAt": 1779931512244,
-      "updatedAt": 1779931512244,
+      "updatedAt": 1779965716422,
       "status": "active"
     },
     {
@@ -188,9 +190,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 42,
-  "shareCount": 86,
-  "viewCount": 7159,
+  "likeCount": 43,
+  "shareCount": 89,
+  "viewCount": 7228,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
@@ -233,7 +235,8 @@
     "d576dce882e6da93aa52635ea53e82c930a5e27c629ae24b12ac7b595502acf1",
     "d27084722d4473470d3c52f7c805af9800245a59c705ca7af211d19b8edf7dee",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
-    "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+    "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
+    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb"
   ],
   "verseViewBy": []
 }
