@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779973212210,
+  "updatedAt": 1779973327758,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779973258966",
+      "text": "amén se Pou m Beni AK tout riches Papa m yo amé n",
+      "userDeviceId": "127beb97bfd6aebe8713b5bdbb67b67f692e2f0c5b16d195ef98bed2782744b0",
+      "userName": "chelinaelme@gmail.com",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779973327758,
+      "updatedAt": 1779973327758,
+      "status": "active"
+    },
     {
       "id": "local-1779967493688",
       "text": "Amen",
@@ -220,7 +234,7 @@
   ],
   "likeCount": 52,
   "shareCount": 139,
-  "viewCount": 9033,
+  "viewCount": 9058,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
