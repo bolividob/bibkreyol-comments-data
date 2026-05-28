@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779934636468,
+  "updatedAt": 1779934815763,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779934707772",
+      "text": "Amennn",
+      "userDeviceId": "b3ef33b3f8d3c8d2d04d58e8398a63ea1470574be784639efb6a882495c09f7c",
+      "userName": "Esdras Josph",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779934815763,
+      "updatedAt": 1779934815763,
+      "status": "active"
+    },
     {
       "id": "local-1779934019690",
       "text": "Amen",
@@ -79,9 +93,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
+  "likeCount": 9,
   "shareCount": 13,
-  "viewCount": 2227,
+  "viewCount": 2320,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
@@ -90,7 +104,8 @@
     "e6c4b8688422fdbd135ced5cfa1f7ef84dfc2389a5745945572bf67407c237c0",
     "3acdd7d3ff3477babd90ffb9a6bba8a68923946ca1da1422c5a2422487a12de4",
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
-    "39e1384b1ef1b21b8afe0aedac8c7f421018fb44c4be8e10151b1abd96e23e77"
+    "39e1384b1ef1b21b8afe0aedac8c7f421018fb44c4be8e10151b1abd96e23e77",
+    "b3ef33b3f8d3c8d2d04d58e8398a63ea1470574be784639efb6a882495c09f7c"
   ],
   "verseViewBy": []
 }
