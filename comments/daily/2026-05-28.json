@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779981188901,
+  "updatedAt": 1779981565605,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779981516521",
+      "text": "Amèn",
+      "userDeviceId": "8a9ea1cbc894189e325e341944d96bb3f553236dc7428b493818d928a627965b",
+      "userName": "Fr Dorvil",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779981565605,
+      "updatedAt": 1779981565605,
+      "status": "active"
+    },
     {
       "id": "local-1779980532774",
       "text": "merci anpil papa Bondye",
@@ -274,9 +288,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
+  "likeCount": 63,
   "shareCount": 147,
-  "viewCount": 10763,
+  "viewCount": 10851,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
@@ -339,7 +353,8 @@
     "fdbf8f814ac93e9bdd5c2cdb9975bb88c0db90681b4e58fbbb6588ebcb162b56",
     "fc3bd4f5b54904b1982da89bd55c882eb06ea71f10edfd83fac08a7c0ec92eaf",
     "db004ec49a18019c7c44f33384bcfc3204223550b1b0b392bd4e178966199010",
-    "7dbf4754b4300e6a5d417879e51e9fe4b51b31f06cf4bf8e916a8615c1e2422b"
+    "7dbf4754b4300e6a5d417879e51e9fe4b51b31f06cf4bf8e916a8615c1e2422b",
+    "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9"
   ],
   "verseViewBy": []
 }
