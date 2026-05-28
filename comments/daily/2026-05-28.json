@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779964268792,
+  "updatedAt": 1779964391033,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Kolosyen 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1779952143502,
-      "updatedAt": 1779952143502,
+      "updatedAt": 1779964391033,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Kolosyen 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1779944824652,
-      "updatedAt": 1779944824652,
+      "updatedAt": 1779964391033,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Kolosyen 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1779941779315,
-      "updatedAt": 1779941779315,
+      "updatedAt": 1779964391033,
       "status": "active"
     },
     {
@@ -54,12 +60,13 @@
       "verseName": "Kolosyen 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "d2211415221ae3f141ae008b274a0de0233d541b64d1bf39b2a4eda2eaa07dea"
+        "d2211415221ae3f141ae008b274a0de0233d541b64d1bf39b2a4eda2eaa07dea",
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
       ],
       "createdAt": 1779937872778,
-      "updatedAt": 1779937872778,
+      "updatedAt": 1779964391033,
       "status": "active"
     },
     {
@@ -70,10 +77,12 @@
       "verseName": "Kolosyen 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1779937694620,
-      "updatedAt": 1779937694620,
+      "updatedAt": 1779964391033,
       "status": "active"
     },
     {
@@ -180,8 +189,8 @@
     }
   ],
   "likeCount": 42,
-  "shareCount": 79,
-  "viewCount": 6815,
+  "shareCount": 83,
+  "viewCount": 6854,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
