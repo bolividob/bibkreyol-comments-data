@@ -1,9 +1,23 @@
 {
   "date": "2026-05-28",
   "verseKey": "daily:2026-05-28",
-  "updatedAt": 1779980484856,
+  "updatedAt": 1779980586941,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1779980532774",
+      "text": "merci anpil papa Bondye",
+      "userDeviceId": "db004ec49a18019c7c44f33384bcfc3204223550b1b0b392bd4e178966199010",
+      "userName": "kenson Jean batsite",
+      "verseName": "Kolosyen 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1779980586941,
+      "updatedAt": 1779980586941,
+      "status": "active"
+    },
     {
       "id": "local-1779972760258",
       "text": "bondée gran pagein an yin li pak fè",
@@ -261,8 +275,8 @@
     }
   ],
   "likeCount": 61,
-  "shareCount": 146,
-  "viewCount": 10602,
+  "shareCount": 147,
+  "viewCount": 10621,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "e0e2f047ba81f8d51723ef2f50d7245eaa4356354559a882885f91214a1ba24b",
