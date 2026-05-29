@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780016062359,
+  "updatedAt": 1780016360447,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780015781292",
+      "text": "amen merci jesus",
+      "userDeviceId": "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
+      "userName": "merci jesus pou gras ou",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780016360446,
+      "updatedAt": 1780016360446,
+      "status": "active"
+    },
     {
       "id": "local-1780015953116",
       "text": "Toutes gloires à Jésus Christ",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 5,
   "shareCount": 4,
-  "viewCount": 756,
+  "viewCount": 885,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
