@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780033143729,
+  "updatedAt": 1780033263875,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780033158775",
+      "text": "amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780033263875,
+      "updatedAt": 1780033263875,
+      "status": "active"
+    },
     {
       "id": "local-1780028299209",
       "text": "Bondye beni Nou svp non Pam c elucienne dejoule svp edem priye paskem gen bouton nan vizaj mw yo la lontan Pou Bondye e fase yo Pou mw svp",
@@ -104,8 +118,8 @@
     }
   ],
   "likeCount": 27,
-  "shareCount": 27,
-  "viewCount": 5045,
+  "shareCount": 29,
+  "viewCount": 5054,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
