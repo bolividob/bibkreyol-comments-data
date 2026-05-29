@@ -1,9 +1,37 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780052224821,
+  "updatedAt": 1780052473716,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780052325112",
+      "text": "eliossaintlouis@gmail.com",
+      "userDeviceId": "fb34ef21851490659f9fcff8efa5e98c6d7cec6d1b48da65e70981637b71fa17",
+      "userName": "fr elios",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780052473716,
+      "updatedAt": 1780052473716,
+      "status": "active"
+    },
+    {
+      "id": "local-1780052331615",
+      "text": "jdbf",
+      "userDeviceId": "fb34ef21851490659f9fcff8efa5e98c6d7cec6d1b48da65e70981637b71fa17",
+      "userName": "fr elios",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780052473716,
+      "updatedAt": 1780052473716,
+      "status": "active"
+    },
     {
       "id": "local-1780049941752",
       "text": "Gloire a Dieu",
@@ -145,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 53,
+  "likeCount": 54,
   "shareCount": 103,
-  "viewCount": 7566,
+  "viewCount": 7632,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
@@ -201,7 +229,8 @@
     "45221df36853cf2f7b7a8a1bc3d5fbf999ad1f74a68b2ed528688c2d4332b567",
     "c82efda1ea1e41435c985aea3e8c622e20410b2a03b07919b0a5f27bec019122",
     "b78ad7448cc9430e0eca732dbbde0ef58d2909226cdea1e6e6be60539526a6cd",
-    "4702c14661d5239c4867f6e67820f750aa40d4ca3b5faba4f672485afd53ae87"
+    "4702c14661d5239c4867f6e67820f750aa40d4ca3b5faba4f672485afd53ae87",
+    "fb34ef21851490659f9fcff8efa5e98c6d7cec6d1b48da65e70981637b71fa17"
   ],
   "verseViewBy": []
 }
