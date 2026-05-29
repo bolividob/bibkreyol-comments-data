@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780085108064,
+  "updatedAt": 1780085226604,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780085207497",
+      "text": "tout gwa pou bondye",
+      "userDeviceId": "bc819dd50fe345441dcff58f8ecf914253720db9db0877d9049d2058c269f8db",
+      "userName": "amén",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780085226604,
+      "updatedAt": 1780085226604,
+      "status": "active"
+    },
     {
       "id": "local-1780082831815",
       "text": "amén",
@@ -289,9 +303,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 102,
+  "likeCount": 103,
   "shareCount": 169,
-  "viewCount": 14166,
+  "viewCount": 14189,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
@@ -394,7 +408,8 @@
     "765a62910b47c47fd22f1d79451138830a048468e63d290f89b4bbf2fa0c933e",
     "6a9d5e15c69182729210e50b9716b290e813ba956e01ecca004d3bf7cd474157",
     "b42c25695d9c4f5b241759ac688435acc0cc077651a8c3bd1c0c4138909432ba",
-    "06281dfdce2cf1eb40ff0ad861758b043ad2564a03e82f2dda412c989a918715"
+    "06281dfdce2cf1eb40ff0ad861758b043ad2564a03e82f2dda412c989a918715",
+    "bc819dd50fe345441dcff58f8ecf914253720db9db0877d9049d2058c269f8db"
   ],
   "verseViewBy": []
 }
