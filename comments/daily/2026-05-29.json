@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780028225390,
+  "updatedAt": 1780028347138,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780028299209",
+      "text": "Bondye beni Nou svp non Pam c elucienne dejoule svp edem priye paskem gen bouton nan vizaj mw yo la lontan Pou Bondye e fase yo Pou mw svp",
+      "userDeviceId": "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+      "userName": "Bondye beni Nou svp edem periye paske mw santim pap viv",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780028347138,
+      "updatedAt": 1780028347138,
+      "status": "active"
+    },
     {
       "id": "local-1780022826440",
       "text": "Match basket la fini?",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 20,
-  "shareCount": 19,
-  "viewCount": 4302,
+  "likeCount": 22,
+  "shareCount": 22,
+  "viewCount": 4335,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
@@ -112,7 +126,9 @@
     "dd7e453d217008f7b75a73c1fc22c5bdf24f874c1ad0fa252e5cc9db4fea7ee8",
     "4b62f9e0febfeec1a605d16c57e7ca3011c77732c3ddf36aedec88e0489f399d",
     "0f935cb8db57df1122dfe267588bd2f7bdd5d6cd01ee085bc36ce539c29f56aa",
-    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe"
+    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+    "467590118b32e54de97eaecd495b51bcb4209bd965074622f8933d48d22eb008"
   ],
   "verseViewBy": []
 }
