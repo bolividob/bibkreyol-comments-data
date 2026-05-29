@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780059319216,
+  "updatedAt": 1780059489711,
   "version": 1,
   "comments": [
     {
@@ -198,16 +198,18 @@
       "verseName": "Abakòk 2:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c9670820864aedf29cf0dd69e311a95f4f91f2193d5b434ad480a54c143101a2"
+      ],
       "createdAt": 1780016062359,
-      "updatedAt": 1780059319216,
+      "updatedAt": 1780059489711,
       "status": "active"
     }
   ],
-  "likeCount": 72,
-  "shareCount": 131,
-  "viewCount": 9178,
+  "likeCount": 73,
+  "shareCount": 132,
+  "viewCount": 9209,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
@@ -280,7 +282,8 @@
     "b2ccadf420d58a27e59cf7c7b4f27d0a7824b427f9d55ce79d73fbb693c9c74b",
     "9013c81e67d25fd708b6731102aae3c9c90086785b476d2cf0d2a3ee3cc1c0a5",
     "7e2d2a85811366da809603a10067fdd6a02550ebceafb375a5b35fde51018665",
-    "59dd954f6a6046162d6edd2e63cb1699b0f23c261761d21fe7d41c0aa2c82ce4"
+    "59dd954f6a6046162d6edd2e63cb1699b0f23c261761d21fe7d41c0aa2c82ce4",
+    "64e198d27100942d5995e42386cf1190a3be8ba2e0f1dda6304271c9ddc19c22"
   ],
   "verseViewBy": []
 }
