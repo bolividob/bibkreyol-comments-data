@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780082824687,
+  "updatedAt": 1780082946143,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780082831815",
+      "text": "amén",
+      "userDeviceId": "a411dc1ff5d9394234487b99a6017eca62cb4aafd8b5ca5832c3fe9435496332",
+      "userName": "Dianerose",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780082946142,
+      "updatedAt": 1780082946142,
+      "status": "active"
+    },
     {
       "id": "local-1780078675380",
       "text": "merci d'avance pour cette grâce seigneur 🙏",
@@ -277,7 +291,7 @@
   ],
   "likeCount": 100,
   "shareCount": 164,
-  "viewCount": 13772,
+  "viewCount": 13795,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
