@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780049890851,
+  "updatedAt": 1780050008363,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780049941752",
+      "text": "Gloire a Dieu",
+      "userDeviceId": "3863112f4db5e8fb1e42b83fbf8aa18c48d7185d7dd3a6834350118b13327c85",
+      "userName": "black",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780050008363,
+      "updatedAt": 1780050008363,
+      "status": "active"
+    },
     {
       "id": "local-1780036909691",
       "text": "amen",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
-  "shareCount": 66,
-  "viewCount": 6957,
+  "likeCount": 46,
+  "shareCount": 73,
+  "viewCount": 6988,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
@@ -179,7 +193,8 @@
     "14e0037c00f4b91a098fcebf585ed5df871324de73e1a80ecc9dcb4e6eee7f1b",
     "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
     "f282c267b97e16ba89d22f8b618c0478fbf0c87ea941f538770e35edce7f4865",
-    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969"
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
+    "818cdecbf5fcf221a39238a08559851cc916d083b1924a7e5b1cffb80a21ac3d"
   ],
   "verseViewBy": []
 }
