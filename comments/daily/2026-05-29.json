@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780062730763,
+  "updatedAt": 1780062859317,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780062849380",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780062859317,
+      "updatedAt": 1780062859317,
+      "status": "active"
+    },
     {
       "id": "local-1780060126911",
       "text": "amén",
@@ -221,7 +235,7 @@
   ],
   "likeCount": 80,
   "shareCount": 139,
-  "viewCount": 9834,
+  "viewCount": 9863,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
