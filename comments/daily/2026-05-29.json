@@ -1,9 +1,23 @@
 {
   "date": "2026-05-29",
   "verseKey": "daily:2026-05-29",
-  "updatedAt": 1780019949044,
+  "updatedAt": 1780020069650,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780019987566",
+      "text": "Gloire a Dieu",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Abakòk 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780020069649,
+      "updatedAt": 1780020069649,
+      "status": "active"
+    },
     {
       "id": "local-1780015781292",
       "text": "amen merci jesus",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 6,
-  "viewCount": 1837,
+  "likeCount": 13,
+  "shareCount": 7,
+  "viewCount": 1885,
   "verseLikedBy": [
     "d5ee0572d5b949685e0985fae4fdca10d2a2914366d70e05aaa00beb3b3a2676",
     "0de0cf3f351a030acb0cb251f66d0635d19cf4d29bb41351330b6090731d4968",
@@ -48,7 +62,8 @@
     "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
     "8ecc1bb3920be4d7356f5239724c65eb547dd71e0134fefd80ccb152de16910e",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
-    "c9dd495f14c3db8c38887dd480017b7404a32686c0ba0d5f930ffc1df832e8d6"
+    "c9dd495f14c3db8c38887dd480017b7404a32686c0ba0d5f930ffc1df832e8d6",
+    "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15"
   ],
   "verseViewBy": []
 }
