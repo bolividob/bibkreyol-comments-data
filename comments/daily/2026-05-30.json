@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780159265955,
+  "updatedAt": 1780159387803,
   "version": 1,
   "comments": [
     {
@@ -29,7 +29,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780151435901,
-      "updatedAt": 1780151435901,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -54,10 +54,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
+      ],
       "createdAt": 1780150221388,
-      "updatedAt": 1780150221388,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -98,10 +100,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
+      ],
       "createdAt": 1780145104466,
-      "updatedAt": 1780145104466,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -112,10 +116,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
+      ],
       "createdAt": 1780144986981,
-      "updatedAt": 1780144986981,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -126,10 +132,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
+      ],
       "createdAt": 1780144986980,
-      "updatedAt": 1780144986980,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -140,10 +148,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
+      ],
       "createdAt": 1780143787952,
-      "updatedAt": 1780143787952,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -157,7 +167,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780141147081,
-      "updatedAt": 1780141147081,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -215,7 +225,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780117745484,
-      "updatedAt": 1780145104466,
+      "updatedAt": 1780159387803,
       "status": "active"
     },
     {
@@ -279,7 +289,7 @@
   ],
   "likeCount": 90,
   "shareCount": 147,
-  "viewCount": 12444,
+  "viewCount": 12476,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
