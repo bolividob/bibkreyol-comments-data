@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780160585492,
+  "updatedAt": 1780160705717,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780160583981",
+      "text": "amén",
+      "userDeviceId": "1d48339beb2536bb71b6f88651a0843afa4b4ae849527e4f9155b34a7d6d1a56",
+      "userName": "Daniel benance",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780160705717,
+      "updatedAt": 1780160705717,
+      "status": "active"
+    },
     {
       "id": "local-1780160567466",
       "text": "salut",
@@ -302,7 +316,7 @@
   ],
   "likeCount": 91,
   "shareCount": 148,
-  "viewCount": 12688,
+  "viewCount": 12705,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
