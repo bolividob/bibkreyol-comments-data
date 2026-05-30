@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780134184925,
+  "updatedAt": 1780134304987,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780134296826",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780134304987,
+      "updatedAt": 1780134304987,
+      "status": "active"
+    },
     {
       "id": "local-1780124641859",
       "text": "Amen 🙏🙏",
@@ -93,7 +107,7 @@
   ],
   "likeCount": 42,
   "shareCount": 54,
-  "viewCount": 6180,
+  "viewCount": 6198,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
