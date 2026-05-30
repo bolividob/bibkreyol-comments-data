@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780143667393,
+  "updatedAt": 1780143787952,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780143674440",
+      "text": "amen",
+      "userDeviceId": "5bd4ca44d05239e6410cff086f1d98082d218db5614dc1d6d89c7c320943b0ef",
+      "userName": "testaman",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780143787952,
+      "updatedAt": 1780143787952,
+      "status": "active"
+    },
     {
       "id": "local-1780141023296",
       "text": "Amèn Amèn Amèn, Alleluia Gloire",
@@ -134,8 +148,8 @@
     }
   ],
   "likeCount": 64,
-  "shareCount": 108,
-  "viewCount": 8612,
+  "shareCount": 111,
+  "viewCount": 8651,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
