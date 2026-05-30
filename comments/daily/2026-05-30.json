@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780150099929,
+  "updatedAt": 1780150221388,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780148301785",
+      "text": "🙏🙏",
+      "userDeviceId": "763891eb102ca24342af0db83dc670410460e5a47118844adfa3fac9b21fac9d",
+      "userName": "Appuyez sur un élément pour le coller dans le champ de texte.",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780150221388,
+      "updatedAt": 1780150221388,
+      "status": "active"
+    },
     {
       "id": "local-1780108007631",
       "text": "Amen 🙏🏼🙏🏼🙇🙏🏼",
@@ -223,7 +237,7 @@
   ],
   "likeCount": 72,
   "shareCount": 123,
-  "viewCount": 10117,
+  "viewCount": 10146,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
