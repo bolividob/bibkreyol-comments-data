@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780145104466,
+  "updatedAt": 1780145226104,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780145149145",
+      "text": "1122",
+      "userDeviceId": "bac5ed813298d54d8d866b4d87b1243985c7f0f78bc058d9275253643d5326bc",
+      "userName": "cassandra",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780145226104,
+      "updatedAt": 1780145226104,
+      "status": "active"
+    },
     {
       "id": "local-1780145060649",
       "text": "labibkreyòl",
@@ -193,7 +207,7 @@
   ],
   "likeCount": 66,
   "shareCount": 115,
-  "viewCount": 8958,
+  "viewCount": 8984,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
