@@ -1,9 +1,37 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780110878096,
+  "updatedAt": 1780113324992,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780112298531",
+      "text": "god love vah",
+      "userDeviceId": "78fc5395a64b825531da479a1dfb081e0fe1ac21117bb488418605bc1ed9a154",
+      "userName": "cianise bien anime 🔥",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780113324992,
+      "updatedAt": 1780113324992,
+      "status": "active"
+    },
+    {
+      "id": "local-1780112326021",
+      "text": "amén amén amén 🙏😇",
+      "userDeviceId": "78fc5395a64b825531da479a1dfb081e0fe1ac21117bb488418605bc1ed9a154",
+      "userName": "cianise bien anime 🔥",
+      "verseName": "2 Jan 1:5",
+      "parentId": "local-1780107608211",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780113324992,
+      "updatedAt": 1780113324992,
+      "status": "active"
+    },
     {
       "id": "local-1780107608211",
       "text": "amén amén amén amén 🙏🙏🙏",
@@ -11,13 +39,13 @@
       "userName": "linya",
       "verseName": "2 Jan 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "dd4a8fe00990b8192fcb5d3589128c8ff1d3b28e21387bfc2e630bf7bea6f923"
       ],
       "createdAt": 1780109781848,
-      "updatedAt": 1780109781848,
+      "updatedAt": 1780113324992,
       "status": "active"
     },
     {
@@ -37,7 +65,7 @@
   ],
   "likeCount": 16,
   "shareCount": 26,
-  "viewCount": 3457,
+  "viewCount": 3626,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
