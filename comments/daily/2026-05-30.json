@@ -1,9 +1,37 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780144870497,
+  "updatedAt": 1780144986981,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780144976445",
+      "text": "cassandra",
+      "userDeviceId": "bac5ed813298d54d8d866b4d87b1243985c7f0f78bc058d9275253643d5326bc",
+      "userName": "cassandra",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780144986981,
+      "updatedAt": 1780144986981,
+      "status": "active"
+    },
+    {
+      "id": "local-1780144945634",
+      "text": "a",
+      "userDeviceId": "bac5ed813298d54d8d866b4d87b1243985c7f0f78bc058d9275253643d5326bc",
+      "userName": "cassandra",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780144986980,
+      "updatedAt": 1780144986980,
+      "status": "active"
+    },
     {
       "id": "local-1780143674440",
       "text": "amen",
@@ -54,10 +82,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "35ff9b504c0567f368ffa06840d3d48234d35b1561b96e54fae43b12e0f7262d"
+      ],
       "createdAt": 1780134304987,
-      "updatedAt": 1780134304987,
+      "updatedAt": 1780144986980,
       "status": "active"
     },
     {
@@ -82,12 +112,10 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
-      "likedBy": [
-        "35ff9b504c0567f368ffa06840d3d48234d35b1561b96e54fae43b12e0f7262d"
-      ],
+      "likeCount": 0,
+      "likedBy": [],
       "createdAt": 1780117745484,
-      "updatedAt": 1780144870497,
+      "updatedAt": 1780144986980,
       "status": "active"
     },
     {
@@ -151,7 +179,7 @@
   ],
   "likeCount": 65,
   "shareCount": 115,
-  "viewCount": 8910,
+  "viewCount": 8942,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
