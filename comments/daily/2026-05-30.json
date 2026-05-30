@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780159627375,
+  "updatedAt": 1780159870988,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
+      ],
       "createdAt": 1780158428772,
-      "updatedAt": 1780159627375,
+      "updatedAt": 1780159870988,
       "status": "active"
     },
     {
@@ -59,7 +61,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780150221388,
-      "updatedAt": 1780159505962,
+      "updatedAt": 1780159870988,
       "status": "active"
     },
     {
@@ -90,7 +92,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780145226104,
-      "updatedAt": 1780159627375,
+      "updatedAt": 1780159870988,
       "status": "active"
     },
     {
@@ -106,7 +108,7 @@
         "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
       ],
       "createdAt": 1780145104466,
-      "updatedAt": 1780159387803,
+      "updatedAt": 1780159870988,
       "status": "active"
     },
     {
@@ -136,7 +138,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780144986980,
-      "updatedAt": 1780159505961,
+      "updatedAt": 1780159870988,
       "status": "active"
     },
     {
@@ -147,12 +149,10 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
-      "likedBy": [
-        "0b6f00d07e88e98648339684eddc1a4e0478c9920874a193b0861f1dae208b11"
-      ],
+      "likeCount": 0,
+      "likedBy": [],
       "createdAt": 1780143787952,
-      "updatedAt": 1780159387803,
+      "updatedAt": 1780159870988,
       "status": "active"
     },
     {
@@ -288,7 +288,7 @@
   ],
   "likeCount": 90,
   "shareCount": 147,
-  "viewCount": 12520,
+  "viewCount": 12567,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
