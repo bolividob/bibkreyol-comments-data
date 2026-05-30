@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780138882981,
+  "updatedAt": 1780138990302,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780108633011",
+      "text": "Amén",
+      "userDeviceId": "e715a4ad6e47df4452e64347537c6b93a7e079d64960a79a2edc77e6f0706ec2",
+      "userName": "Amén",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780138990302,
+      "updatedAt": 1780138990302,
+      "status": "active"
+    },
     {
       "id": "local-1780134296826",
       "text": "Amén",
@@ -107,7 +121,7 @@
   ],
   "likeCount": 54,
   "shareCount": 70,
-  "viewCount": 7367,
+  "viewCount": 7402,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
