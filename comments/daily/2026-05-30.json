@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780144986981,
+  "updatedAt": 1780145104466,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780145060649",
+      "text": "labibkreyòl",
+      "userDeviceId": "bac5ed813298d54d8d866b4d87b1243985c7f0f78bc058d9275253643d5326bc",
+      "userName": "cassandra",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780145104466,
+      "updatedAt": 1780145104466,
+      "status": "active"
+    },
     {
       "id": "local-1780144976445",
       "text": "cassandra",
@@ -115,7 +129,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780117745484,
-      "updatedAt": 1780144986980,
+      "updatedAt": 1780145104466,
       "status": "active"
     },
     {
@@ -177,9 +191,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
+  "likeCount": 66,
   "shareCount": 115,
-  "viewCount": 8942,
+  "viewCount": 8958,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
@@ -245,7 +259,8 @@
     "8811971a870fd55e877b333f58333e72a3009c2d99526e8425fecdbdce2382e2",
     "d935a1d543c37c9fdda9b4330be73b314b6c2a4e04d2d886571565a53f3ec159",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
-    "1c0f67bad232d4475ad12fa9b0c9607baec86462c4605993acefaf42607b20fa"
+    "1c0f67bad232d4475ad12fa9b0c9607baec86462c4605993acefaf42607b20fa",
+    "5b7766f194a622d7d1c2c35b32007d7b5a67c11d62e7d74acfe72733eecf6523"
   ],
   "verseViewBy": []
 }
