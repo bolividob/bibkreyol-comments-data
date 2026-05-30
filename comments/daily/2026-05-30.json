@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780151165621,
+  "updatedAt": 1780151435901,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780151271347",
+      "text": "Amen",
+      "userDeviceId": "34c77a1dd78ffdc9be854ea1d088edf044ed0ddf6056978e86e504dd693e4cf7",
+      "userName": "desire Evelyne",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780151435901,
+      "updatedAt": 1780151435901,
+      "status": "active"
+    },
     {
       "id": "local-1780148260884",
       "text": "Jeremi ch 17v 5 à 8",
@@ -249,9 +263,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
+  "likeCount": 74,
   "shareCount": 124,
-  "viewCount": 10366,
+  "viewCount": 10430,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
@@ -325,7 +339,8 @@
     "d25a0a212ea575908fd6eb04d2e4d3373bded4e1443c55aaad4d857e2046b07f",
     "f531257d73527f5f00683d4dd579a1a3b383790d3a29f2e4eebbbddcb550d280",
     "12b5271f2befda7b213b05be1ba3635c46275dc5d73435f8e11495cb9d30468e",
-    "a393b833623a0217cc1819f0bbe335a880c30544cd90093c08a67136a45e4486"
+    "a393b833623a0217cc1819f0bbe335a880c30544cd90093c08a67136a45e4486",
+    "34c77a1dd78ffdc9be854ea1d088edf044ed0ddf6056978e86e504dd693e4cf7"
   ],
   "verseViewBy": []
 }
