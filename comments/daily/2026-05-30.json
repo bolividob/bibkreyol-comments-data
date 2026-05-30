@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780141027818,
+  "updatedAt": 1780141147082,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780141023296",
+      "text": "Amèn Amèn Amèn, Alleluia Gloire",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780141147081,
+      "updatedAt": 1780141147081,
+      "status": "active"
+    },
     {
       "id": "local-1780108633011",
       "text": "Amén",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 86,
-  "viewCount": 7961,
+  "likeCount": 58,
+  "shareCount": 87,
+  "viewCount": 7997,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
@@ -179,7 +193,8 @@
     "f9b3e52c1860d39eaf923c192282f13ecac5126c50721a6b35b1878904d42ad8",
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "e0022a5bf41fadd8a4019cdd7d33d04ccf0d2bf59bf9ee801dde5e6942eaf747",
-    "9bba5b38dcb5390351925ae1b5b449d801bdd3745bcd1218c6524fe3cfea94b9"
+    "9bba5b38dcb5390351925ae1b5b449d801bdd3745bcd1218c6524fe3cfea94b9",
+    "7581ea734c7a6dee9cd9810567603913f4d68228cd155092690fdb081eb166d6"
   ],
   "verseViewBy": []
 }
