@@ -1,9 +1,23 @@
 {
   "date": "2026-05-30",
   "verseKey": "daily:2026-05-30",
-  "updatedAt": 1780146434887,
+  "updatedAt": 1780146624099,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780108007631",
+      "text": "Amen 🙏🏼🙏🏼🙇🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780146624099,
+      "updatedAt": 1780146624099,
+      "status": "active"
+    },
     {
       "id": "local-1780145149145",
       "text": "1122",
@@ -207,7 +221,7 @@
   ],
   "likeCount": 68,
   "shareCount": 117,
-  "viewCount": 9264,
+  "viewCount": 9295,
   "verseLikedBy": [
     "64785148c67664fa79d86bc4af8b08c663d19333ace7c9c500eb509dbe397784",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
