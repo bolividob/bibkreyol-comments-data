@@ -1,7 +1,7 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780228645504,
+  "updatedAt": 1780229227735,
   "version": 1,
   "comments": [
     {
@@ -82,12 +82,13 @@
       "verseName": "Neemi 8:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "52fddc495bbef744b4d1c51d581a9ab023c32dd4138dd3cb5d5f0fe32fb34f25"
+        "52fddc495bbef744b4d1c51d581a9ab023c32dd4138dd3cb5d5f0fe32fb34f25",
+        "d28ab462a7784575e7ffc52df5f73ef451a79f5849504a4bcab4d8b9ca55fd81"
       ],
       "createdAt": 1780194009256,
-      "updatedAt": 1780198107900,
+      "updatedAt": 1780229227635,
       "status": "active"
     },
     {
@@ -171,9 +172,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
-  "shareCount": 91,
-  "viewCount": 8617,
+  "likeCount": 46,
+  "shareCount": 93,
+  "viewCount": 9012,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
     "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
@@ -218,7 +219,9 @@
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2529d694bb618bdf2051d60159839c52e9880678e02e2b0ae8dacff8485dddc0",
     "1a18c3c41af0acdb6c6ff4caf59f77a9de8e045fbb74cc4316cd28f377ddb3d5",
-    "eb374552a91b89f43669cb97f570f5a0d37dab7bb47b0107074bb52f05a1b45d"
+    "eb374552a91b89f43669cb97f570f5a0d37dab7bb47b0107074bb52f05a1b45d",
+    "ff8c6af98792166b5768bae36d478e879c40d8d02dd089062cd76c4839000470",
+    "c82c2a7acd08a782c657187a2bc072e3bc8f881cb536d93967c8dff89d35d0cf"
   ],
   "verseViewBy": []
 }
