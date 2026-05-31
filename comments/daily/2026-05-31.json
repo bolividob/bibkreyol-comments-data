@@ -1,15 +1,31 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780186209109,
+  "updatedAt": 1780186454688,
   "version": 1,
-  "comments": [],
-  "likeCount": 2,
+  "comments": [
+    {
+      "id": "local-1780186381725",
+      "text": "papa",
+      "userDeviceId": "0a484c624ba11608be831bac11271022a6e1550e28bc53ef90b2c42efcf7ea2c",
+      "userName": "Julmy",
+      "verseName": "Neemi 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780186454688,
+      "updatedAt": 1780186454688,
+      "status": "active"
+    }
+  ],
+  "likeCount": 3,
   "shareCount": 1,
-  "viewCount": 248,
+  "viewCount": 338,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
-    "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3"
+    "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
+    "5775b1d16e23a9925fe16b5d6687d057e2530f1226260078cc5a72a6dfaa07d3"
   ],
   "verseViewBy": []
 }
