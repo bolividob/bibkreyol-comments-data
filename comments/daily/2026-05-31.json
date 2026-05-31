@@ -1,9 +1,23 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780220836109,
+  "updatedAt": 1780221006818,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780220921774",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Neemi 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780221006818,
+      "updatedAt": 1780221006818,
+      "status": "active"
+    },
     {
       "id": "local-1780207825189",
       "text": "Amén y amén",
@@ -129,9 +143,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 35,
+  "likeCount": 36,
   "shareCount": 66,
-  "viewCount": 6492,
+  "viewCount": 6524,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
     "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
@@ -167,7 +181,8 @@
     "4acbdffca2b54542f682ade446743157e29d542e0e0c5f45e800bad0220e6edb",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
     "ae8c7cdca1d83b48a9aa6d961a47769e0f697e46bb15353a133bc4027c9f3ffc",
-    "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390"
+    "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
