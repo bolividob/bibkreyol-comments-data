@@ -1,7 +1,7 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780229227735,
+  "updatedAt": 1780232459935,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Neemi 8:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "59cb940638115572f80a2af0056837d691a1fabc0800aabedcd10e45c37fd56d"
+      ],
       "createdAt": 1780223406049,
-      "updatedAt": 1780223406049,
+      "updatedAt": 1780232459836,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Neemi 8:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "59cb940638115572f80a2af0056837d691a1fabc0800aabedcd10e45c37fd56d"
+      ],
       "createdAt": 1780222446122,
-      "updatedAt": 1780222446122,
+      "updatedAt": 1780232459836,
       "status": "active"
     },
     {
@@ -88,7 +92,7 @@
         "d28ab462a7784575e7ffc52df5f73ef451a79f5849504a4bcab4d8b9ca55fd81"
       ],
       "createdAt": 1780194009256,
-      "updatedAt": 1780229227635,
+      "updatedAt": 1780232459435,
       "status": "active"
     },
     {
@@ -172,9 +176,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 93,
-  "viewCount": 9012,
+  "likeCount": 51,
+  "shareCount": 96,
+  "viewCount": 9539,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
     "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
@@ -221,7 +225,12 @@
     "1a18c3c41af0acdb6c6ff4caf59f77a9de8e045fbb74cc4316cd28f377ddb3d5",
     "eb374552a91b89f43669cb97f570f5a0d37dab7bb47b0107074bb52f05a1b45d",
     "ff8c6af98792166b5768bae36d478e879c40d8d02dd089062cd76c4839000470",
-    "c82c2a7acd08a782c657187a2bc072e3bc8f881cb536d93967c8dff89d35d0cf"
+    "c82c2a7acd08a782c657187a2bc072e3bc8f881cb536d93967c8dff89d35d0cf",
+    "72c6e627aa820d04a962e899b034b6cca97b255f8e4fada1fa71d11794ab2d69",
+    "afa6d80f1da329f3035f7bc014542ca4e5bae7d5fd4634cb5bf7df3ae98ad05a",
+    "ff65b3aebfcfca7cf09434323a6e0ffe706e6f475ff2591a42904a3259e66b0e",
+    "d996fa02885cca5552b958d10edee7a85d3d211d9234131fc039787e1c19f6e9",
+    "72b88739a3e330936dc61a255a0aaf829961567146ac9e74af2caf52959d4bc8"
   ],
   "verseViewBy": []
 }
