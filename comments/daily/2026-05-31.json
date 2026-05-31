@@ -1,9 +1,23 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780193288679,
+  "updatedAt": 1780193432973,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780193347386",
+      "text": "Amen",
+      "userDeviceId": "d6ec0597fce873d3e0fb276b6768331c96b3dfb38e811448306ef477eadea711",
+      "userName": "obin",
+      "verseName": "Neemi 8:3",
+      "parentId": "local-1780189066536",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780193432973,
+      "updatedAt": 1780193432973,
+      "status": "active"
+    },
     {
       "id": "local-1780189066536",
       "text": "Benie soit L'eternel",
@@ -11,11 +25,11 @@
       "userName": "Berline Pierre",
       "verseName": "Neemi 8:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780189095012,
-      "updatedAt": 1780189095012,
+      "updatedAt": 1780193432973,
       "status": "active"
     },
     {
@@ -65,9 +79,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
-  "shareCount": 15,
-  "viewCount": 2305,
+  "likeCount": 14,
+  "shareCount": 16,
+  "viewCount": 2384,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
     "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
@@ -81,7 +95,8 @@
     "63b4390f28e1a0cc82201a805e961cfaf1ec3b5f354ee5516331b12d28b2e609",
     "bb0a26ca773a735f85b11dbd1d731c28cee727b4b3a9e762fde8749b2149ed16",
     "8ecc1bb3920be4d7356f5239724c65eb547dd71e0134fefd80ccb152de16910e",
-    "b047b48457263be71219460f1fb3552d0072723cf0436433ab3f213595d74956"
+    "b047b48457263be71219460f1fb3552d0072723cf0436433ab3f213595d74956",
+    "d6ec0597fce873d3e0fb276b6768331c96b3dfb38e811448306ef477eadea711"
   ],
   "verseViewBy": []
 }
