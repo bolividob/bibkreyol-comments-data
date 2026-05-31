@@ -1,9 +1,23 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780223286987,
+  "updatedAt": 1780223406049,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780223295180",
+      "text": "Amen amen amen amen amen amen amen",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Neemi 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780223406049,
+      "updatedAt": 1780223406049,
+      "status": "active"
+    },
     {
       "id": "local-1780222382945",
       "text": "amén",
@@ -158,8 +172,8 @@
     }
   ],
   "likeCount": 41,
-  "shareCount": 72,
-  "viewCount": 7082,
+  "shareCount": 74,
+  "viewCount": 7110,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
     "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
