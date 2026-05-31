@@ -1,9 +1,23 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780193893544,
+  "updatedAt": 1780194009257,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780193933842",
+      "text": "kreyol",
+      "userDeviceId": "bf1c61ef4d2e2389b609ebfb85a52287b77ff37e8f32dc86b38ede92754be6ac",
+      "userName": "kreyol",
+      "verseName": "Neemi 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780194009256,
+      "updatedAt": 1780194009256,
+      "status": "active"
+    },
     {
       "id": "local-1780193347386",
       "text": "Amen",
@@ -81,7 +95,7 @@
   ],
   "likeCount": 17,
   "shareCount": 18,
-  "viewCount": 2598,
+  "viewCount": 2650,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
     "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
