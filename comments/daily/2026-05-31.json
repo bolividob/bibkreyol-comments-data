@@ -1,9 +1,37 @@
 {
   "date": "2026-05-31",
   "verseKey": "daily:2026-05-31",
-  "updatedAt": 1780232459935,
+  "updatedAt": 1780240035280,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780191057875",
+      "text": "amèn",
+      "userDeviceId": "8a3431c74befc1ee792478f3772bff728c730b7c92ec83fd7daa81eab214e5ec",
+      "userName": "derno",
+      "verseName": "Neemi 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780240035280,
+      "updatedAt": 1780240035280,
+      "status": "active"
+    },
+    {
+      "id": "local-1780239054712",
+      "text": "amen",
+      "userDeviceId": "192920b1edb4a23d21031b9248b18902045d77769e588471e0e0370a2c428953",
+      "userName": "vely Yltide",
+      "verseName": "Neemi 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780240035280,
+      "updatedAt": 1780240035280,
+      "status": "active"
+    },
     {
       "id": "local-1780223295180",
       "text": "Amen amen amen amen amen amen amen",
@@ -176,9 +204,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 96,
-  "viewCount": 9539,
+  "likeCount": 55,
+  "shareCount": 99,
+  "viewCount": 10529,
   "verseLikedBy": [
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
     "828d56d7227253870ad421d3b6192386fb3b8791a938192d3f73b26aae84bfb3",
@@ -230,7 +258,11 @@
     "afa6d80f1da329f3035f7bc014542ca4e5bae7d5fd4634cb5bf7df3ae98ad05a",
     "ff65b3aebfcfca7cf09434323a6e0ffe706e6f475ff2591a42904a3259e66b0e",
     "d996fa02885cca5552b958d10edee7a85d3d211d9234131fc039787e1c19f6e9",
-    "72b88739a3e330936dc61a255a0aaf829961567146ac9e74af2caf52959d4bc8"
+    "72b88739a3e330936dc61a255a0aaf829961567146ac9e74af2caf52959d4bc8",
+    "6581337387b521ec9671a6c52811e96e9d328b4f9eb256bc90e73f339cd8dc1e",
+    "04b779017dab26d73789f46f9590bdd0f93108cba5400679a23f6bdaf9f0c494",
+    "6bc9f486bb9e1d7554b2f6d4b59ad7439824af3d72c10fef4cc00556b7de58da",
+    "6ed918d270228d972eb0c85c0b245a3e61c052e9984b57e4a73589cc48694efd"
   ],
   "verseViewBy": []
 }
