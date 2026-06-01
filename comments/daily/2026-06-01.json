@@ -1,9 +1,23 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780324387635,
+  "updatedAt": 1780324507849,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780324486380",
+      "text": "Amen, amen, amen",
+      "userDeviceId": "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+      "userName": "Omeliz",
+      "verseName": "2 Timote 3:3",
+      "parentId": "local-1780282315596",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780324507849,
+      "updatedAt": 1780324507849,
+      "status": "active"
+    },
     {
       "id": "local-1780278306810",
       "text": "Bndye beniw",
@@ -109,11 +123,13 @@
       "userName": "Bib Kreyol",
       "verseName": "2 Timote 3:3",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
+      ],
       "createdAt": 1780282830490,
-      "updatedAt": 1780323186359,
+      "updatedAt": 1780324507849,
       "status": "active"
     },
     {
@@ -231,7 +247,7 @@
   ],
   "likeCount": 54,
   "shareCount": 131,
-  "viewCount": 7474,
+  "viewCount": 7503,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
