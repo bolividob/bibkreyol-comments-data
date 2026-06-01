@@ -1,9 +1,23 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780338485973,
+  "updatedAt": 1780338730331,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780280440375",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780338730331,
+      "updatedAt": 1780338730331,
+      "status": "active"
+    },
     {
       "id": "local-1780335774534",
       "text": "Amen 🙏🙏",
@@ -338,7 +352,7 @@
   ],
   "likeCount": 72,
   "shareCount": 165,
-  "viewCount": 10428,
+  "viewCount": 10473,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
