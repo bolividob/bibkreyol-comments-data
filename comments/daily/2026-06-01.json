@@ -1,9 +1,23 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780335725129,
+  "updatedAt": 1780335845252,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780335774534",
+      "text": "Amen 🙏🙏",
+      "userDeviceId": "032b6b5001166c9d5284b1e4bd1e584f5288504fd7eb95187377ed26ca495d76",
+      "userName": "odrickson pierre",
+      "verseName": "2 Timote 3:3",
+      "parentId": "local-1780277451115",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780335845252,
+      "updatedAt": 1780335845252,
+      "status": "active"
+    },
     {
       "id": "local-1780329445131",
       "text": "Bib Kreyol pale, si yon moun ou kon bay, fe nou santi sa la. Mwen menm m pa genyen.",
@@ -228,11 +242,11 @@
       "userName": "Pasteur David Saint Jean",
       "verseName": "2 Timote 3:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780279120934,
-      "updatedAt": 1780282830490,
+      "updatedAt": 1780335845252,
       "status": "active"
     },
     {
@@ -324,7 +338,7 @@
   ],
   "likeCount": 69,
   "shareCount": 159,
-  "viewCount": 9967,
+  "viewCount": 9982,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
