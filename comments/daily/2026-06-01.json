@@ -1,9 +1,23 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780329313510,
+  "updatedAt": 1780329560657,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780329445131",
+      "text": "Bib Kreyol pale, si yon moun ou kon bay, fe nou santi sa la. Mwen menm m pa genyen.",
+      "userDeviceId": "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+      "userName": "Omeliz",
+      "verseName": "Genèse 1:1",
+      "parentId": "local-1780274386077",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780329560657,
+      "updatedAt": 1780329560657,
+      "status": "active"
+    },
     {
       "id": "local-1780278348158",
       "text": "bndye bndye",
@@ -227,11 +241,13 @@
       "userName": "Bok",
       "verseName": "2 Timote 3:3",
       "parentId": null,
-      "replyCount": 2,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 3,
+      "likeCount": 1,
+      "likedBy": [
+        "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
+      ],
       "createdAt": 1780275927658,
-      "updatedAt": 1780313659098,
+      "updatedAt": 1780329560657,
       "status": "active"
     },
     {
@@ -305,9 +321,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 141,
-  "viewCount": 8578,
+  "likeCount": 60,
+  "shareCount": 142,
+  "viewCount": 8674,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
@@ -367,7 +383,8 @@
     "ceeeb757a5a60c1fd02446f8ff2132a627f19779dfc69bfc4b5eb1d351937717",
     "9b653af2c47b0d595c39e822a5f53b14467ae2e2b75aaafcc8130fca973bec8c",
     "28a7f808b79664dba5f34ccbe8edde7151c7fe7a2996269a149b2c38ea4cab16",
-    "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac"
+    "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac",
+    "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
   ],
   "verseViewBy": []
 }
