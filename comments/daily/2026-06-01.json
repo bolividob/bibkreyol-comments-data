@@ -1,9 +1,51 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780279882609,
+  "updatedAt": 1780282830490,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780281137288",
+      "text": "Amèn Amèn Amèn,  Merci Seigneur,Alleluia Gloire",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780282830490,
+      "updatedAt": 1780282830490,
+      "status": "active"
+    },
+    {
+      "id": "local-1780282331304",
+      "text": "Wi, se toujou menm moun ki ap ekri mesaj sa a. Mond kretyen an se yon kote ou ka jwenn moun ki pi chich. Aplikasyon sa a jwenn tout sipò li bò kote Jamhson, pwogramè ki kreye aplikasyon an. Aplikasyon sa a ta pi bèl e pi enfòmatif si li te jwenn plis sipò.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "2 Timote 3:3",
+      "parentId": "local-1780274386077",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780282830490,
+      "updatedAt": 1780282830490,
+      "status": "active"
+    },
+    {
+      "id": "local-1780282315596",
+      "text": "Wi, se toujou menm moun lan ki ap ekri mesaj sa a. Mond kretyen an se yon kote ou ka jwenn moun ki pi chich. Aplikasyon sa a jwenn tout sipò li bò kote Jamhson, pwogramè ki kreye aplikasyon an. Aplikasyon sa a ta pi bèl e pi enfòmatif si li te jwenn plis sipò.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780282830490,
+      "updatedAt": 1780282830490,
+      "status": "active"
+    },
     {
       "id": "local-1780276363568",
       "text": "amen",
@@ -29,7 +71,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780279120934,
-      "updatedAt": 1780279120934,
+      "updatedAt": 1780282830490,
       "status": "active"
     },
     {
@@ -39,11 +81,11 @@
       "userName": "Bok",
       "verseName": "2 Timote 3:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780275927658,
-      "updatedAt": 1780275927658,
+      "updatedAt": 1780282830490,
       "status": "active"
     },
     {
@@ -117,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
+  "likeCount": 12,
   "shareCount": 5,
-  "viewCount": 1193,
+  "viewCount": 1350,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
@@ -131,7 +173,8 @@
     "b55bdbe758815fbd7ca58b9cc93bdaa0f8aeee245fae0ff0f4edbb53cb11efad",
     "17e6f0689cd456bd7097d6c89de47a6357cf737c34b8955e43936243a481ae96",
     "0afffef73174e3e773cef206b63a5ad31afbc3f4bea08076fcf22c50b4068aa9",
-    "cb00be60fa50c4d46c88b7e83ba1e57e5e18a347c2607adbbaef7ea12408242e"
+    "cb00be60fa50c4d46c88b7e83ba1e57e5e18a347c2607adbbaef7ea12408242e",
+    "27e8ccf6f8826f9471ee545ddd8e2c73d6a66244700071b20789910ae91ba2bf"
   ],
   "verseViewBy": []
 }
