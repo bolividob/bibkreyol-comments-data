@@ -1,9 +1,51 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780313359082,
+  "updatedAt": 1780313659098,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780278306810",
+      "text": "Bndye beniw",
+      "userDeviceId": "5de31afae0c8139b949ed2eaca2c4bfe902d9b488b17a4f5311f49e2101b1425",
+      "userName": "Jean sammentha",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780313659098,
+      "updatedAt": 1780313659098,
+      "status": "active"
+    },
+    {
+      "id": "local-1780278344150",
+      "text": "waawwwww",
+      "userDeviceId": "5de31afae0c8139b949ed2eaca2c4bfe902d9b488b17a4f5311f49e2101b1425",
+      "userName": "Jean sammentha",
+      "verseName": "2 Timote 3:3",
+      "parentId": "local-1780274386077",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780313659098,
+      "updatedAt": 1780313659098,
+      "status": "active"
+    },
+    {
+      "id": "local-1780278373380",
+      "text": "svp yn explique un peu de la bible",
+      "userDeviceId": "5de31afae0c8139b949ed2eaca2c4bfe902d9b488b17a4f5311f49e2101b1425",
+      "userName": "Jean sammentha",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780313659098,
+      "updatedAt": 1780313659098,
+      "status": "active"
+    },
     {
       "id": "local-1780310837479",
       "text": "Amèn amèn amèn amèn amèn amèn 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -109,11 +151,11 @@
       "userName": "Bok",
       "verseName": "2 Timote 3:3",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780275927658,
-      "updatedAt": 1780282830490,
+      "updatedAt": 1780313659098,
       "status": "active"
     },
     {
@@ -188,8 +230,8 @@
     }
   ],
   "likeCount": 33,
-  "shareCount": 75,
-  "viewCount": 5045,
+  "shareCount": 78,
+  "viewCount": 5124,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
