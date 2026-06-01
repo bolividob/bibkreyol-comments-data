@@ -1,9 +1,23 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780324992761,
+  "updatedAt": 1780325106743,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780325036326",
+      "text": "Bon travay🪎🪎",
+      "userDeviceId": "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
+      "userName": "Martina Merger",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780325106743,
+      "updatedAt": 1780325106743,
+      "status": "active"
+    },
     {
       "id": "local-1780324756559",
       "text": "bonjour mwen c sherline",
@@ -274,8 +288,8 @@
     }
   ],
   "likeCount": 55,
-  "shareCount": 132,
-  "viewCount": 7597,
+  "shareCount": 133,
+  "viewCount": 7621,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
