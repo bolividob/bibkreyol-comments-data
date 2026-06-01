@@ -1,9 +1,37 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780275927658,
+  "updatedAt": 1780279120934,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780276363568",
+      "text": "amen",
+      "userDeviceId": "2c7495607b880a7f81a7a25c8f3955a517d8f9a67df50e71d49b9b6040467f7f",
+      "userName": "carine",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780279120934,
+      "updatedAt": 1780279120934,
+      "status": "active"
+    },
+    {
+      "id": "local-1780277451115",
+      "text": "Gras Bondye kontinye beni nou",
+      "userDeviceId": "49140bab4c920b5431ecb377a1bd092d909b3132d49996ab3d1f5a22f93dede2",
+      "userName": "Pasteur David Saint Jean",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780279120934,
+      "updatedAt": 1780279120934,
+      "status": "active"
+    },
     {
       "id": "local-1780274386077",
       "text": "Kijan mwn ka fe yon donation svp: Mwen santi mwen beni avek song yo.",
@@ -89,14 +117,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 4,
-  "shareCount": 2,
-  "viewCount": 614,
+  "likeCount": 7,
+  "shareCount": 5,
+  "viewCount": 870,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
     "e364b1f91a6e4ba270cf025be3c1a6a22eefb93a8187f9661a350aba8a8947de",
-    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+    "8e5024b2256fb2895fde7758ecf603ae5f5920c25e55f44216f666fe0b9ab555",
+    "928c6d01cf7a12f95e5fcfdf071308d0c7dfcceb5c288391b3246d6db5c02127",
+    "2c7495607b880a7f81a7a25c8f3955a517d8f9a67df50e71d49b9b6040467f7f"
   ],
   "verseViewBy": []
 }
