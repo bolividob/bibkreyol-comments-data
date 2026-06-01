@@ -1,9 +1,37 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780275517671,
+  "updatedAt": 1780275927658,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780274386077",
+      "text": "Kijan mwn ka fe yon donation svp: Mwen santi mwen beni avek song yo.",
+      "userDeviceId": "465f224dc048d57e1c90312a2cc02a5b0cb62ee6a997da38c8f7691bbc2a827c",
+      "userName": "Bok",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780275927658,
+      "updatedAt": 1780275927658,
+      "status": "active"
+    },
+    {
+      "id": "local-1780275632993",
+      "text": "se Bondye ki Bondye 🔥🔥🔥",
+      "userDeviceId": "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+      "userName": "Ruth",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780275927658,
+      "updatedAt": 1780275927658,
+      "status": "active"
+    },
     {
       "id": "local-1780272459683",
       "text": "bonDye pisan e ligran",
@@ -61,11 +89,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 1,
-  "shareCount": 0,
-  "viewCount": 417,
+  "likeCount": 4,
+  "shareCount": 2,
+  "viewCount": 614,
   "verseLikedBy": [
-    "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082"
+    "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
+    "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
+    "e364b1f91a6e4ba270cf025be3c1a6a22eefb93a8187f9661a350aba8a8947de",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
