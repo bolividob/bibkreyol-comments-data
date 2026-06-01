@@ -1,9 +1,23 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780310826321,
+  "updatedAt": 1780310949718,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780310837479",
+      "text": "Amèn amèn amèn amèn amèn amèn 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780310949718,
+      "updatedAt": 1780310949718,
+      "status": "active"
+    },
     {
       "id": "local-1780283809961",
       "text": "Amen amen amen",
@@ -175,7 +189,7 @@
   ],
   "likeCount": 30,
   "shareCount": 55,
-  "viewCount": 4368,
+  "viewCount": 4408,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
