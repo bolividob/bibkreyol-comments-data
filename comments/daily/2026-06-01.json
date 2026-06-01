@@ -1,9 +1,37 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780355838683,
+  "updatedAt": 1780356027564,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780355840869",
+      "text": "Ekri nou sou Facebook.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "2 Timote 3:3",
+      "parentId": "local-1780324827699",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780356027564,
+      "updatedAt": 1780356027564,
+      "status": "active"
+    },
+    {
+      "id": "local-1780355870591",
+      "text": "Ekri nou sou Facebook e kisa ou ta renmin konen.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "2 Timote 3:3",
+      "parentId": "local-1780278373380",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780356027564,
+      "updatedAt": 1780356027564,
+      "status": "active"
+    },
     {
       "id": "local-1780280440375",
       "text": "Amén y amén",
@@ -98,11 +126,11 @@
       "userName": "sherline",
       "verseName": "2 Timote 3:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780324992760,
-      "updatedAt": 1780324992760,
+      "updatedAt": 1780356027564,
       "status": "active"
     },
     {
@@ -154,11 +182,11 @@
       "userName": "Jean sammentha",
       "verseName": "2 Timote 3:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780313659098,
-      "updatedAt": 1780313659098,
+      "updatedAt": 1780356027564,
       "status": "active"
     },
     {
@@ -351,8 +379,8 @@
     }
   ],
   "likeCount": 85,
-  "shareCount": 196,
-  "viewCount": 14174,
+  "shareCount": 198,
+  "viewCount": 14228,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
