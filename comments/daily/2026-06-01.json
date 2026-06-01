@@ -1,9 +1,37 @@
 {
   "date": "2026-06-01",
   "verseKey": "daily:2026-06-01",
-  "updatedAt": 1780324745985,
+  "updatedAt": 1780324992761,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780324756559",
+      "text": "bonjour mwen c sherline",
+      "userDeviceId": "287df09f3ab1cc38908ace3dd56d34cb1d43332acf957bbe887ddbe822d86ab3",
+      "userName": "sherline",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780324992760,
+      "updatedAt": 1780324992760,
+      "status": "active"
+    },
+    {
+      "id": "local-1780324827699",
+      "text": "Mwen bezwen pou Nou fè étude AK mwen",
+      "userDeviceId": "287df09f3ab1cc38908ace3dd56d34cb1d43332acf957bbe887ddbe822d86ab3",
+      "userName": "sherline",
+      "verseName": "2 Timote 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780324992760,
+      "updatedAt": 1780324992760,
+      "status": "active"
+    },
     {
       "id": "local-1780324486380",
       "text": "Amen, amen, amen",
@@ -245,9 +273,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 131,
-  "viewCount": 7548,
+  "likeCount": 55,
+  "shareCount": 132,
+  "viewCount": 7597,
   "verseLikedBy": [
     "7b92eaf8dd782e4e9e844a24c711e7c0c3652736b18abc5cf1b3b1379ad19082",
     "c615eb15d17e098f76d21afd9daf5ac61383b7a94849d543150b52fb6665117a",
@@ -302,7 +330,8 @@
     "4aa08fc693284f8ac11b08f75e3a8f7c57b790ad4d155dacadb67308e6303fc4",
     "e04e55bfb62a0eb75da1a6b65cd2b2313a98cda108a3a01d1d9f9b04118931bb",
     "200a8ba69fc7b103a92bd61151e7051ec17b90530bcb45c7843774e5195213a6",
-    "35ff9b504c0567f368ffa06840d3d48234d35b1561b96e54fae43b12e0f7262d"
+    "35ff9b504c0567f368ffa06840d3d48234d35b1561b96e54fae43b12e0f7262d",
+    "801cb162db809e0338046af5d47d6c7703f3d8c741c488c8b3fafc5745f2b080"
   ],
   "verseViewBy": []
 }
