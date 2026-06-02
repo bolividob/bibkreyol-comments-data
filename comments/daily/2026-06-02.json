@@ -1,9 +1,23 @@
 {
   "date": "2026-06-02",
   "verseKey": "daily:2026-06-02",
-  "updatedAt": 1780409600411,
+  "updatedAt": 1780409774433,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780409642170",
+      "text": "Amen",
+      "userDeviceId": "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31",
+      "userName": "amen Rosie",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780409774433,
+      "updatedAt": 1780409774433,
+      "status": "active"
+    },
     {
       "id": "local-1780404965156",
       "text": "Amen mèsi anpil Senyè pou gras ou",
@@ -135,9 +149,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 92,
-  "viewCount": 10410,
+  "likeCount": 57,
+  "shareCount": 93,
+  "viewCount": 10453,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "31b13121b6888fb31df532c3d0b5f481c7b7fe2aac75d4383ce4cf7f86241769",
@@ -193,7 +207,9 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "4f0b43dcfcea1f1d76f1a3479a80513dcf1e12c38084193eb50489880a4e1b4f",
     "ed4ad9672f376af5edd09e921c24e8a569b10fe81d6baed8fa0ba3b6ae782dd6",
-    "42221bdd7f4cd78f49f8beedbca93a751a58490a9c3bef3663cef7c84262cc2f"
+    "42221bdd7f4cd78f49f8beedbca93a751a58490a9c3bef3663cef7c84262cc2f",
+    "a290bd9f2019f9e6c5650ac1330ba34ee66323a98b2d2d35c38951e15b978951",
+    "5400c45734fc0f6bddb75d7bddd6c2d4553a3693cc8ca8ccb2c5759020aa8716"
   ],
   "verseViewBy": []
 }
