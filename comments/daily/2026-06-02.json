@@ -1,9 +1,23 @@
 {
   "date": "2026-06-02",
   "verseKey": "daily:2026-06-02",
-  "updatedAt": 1780402925466,
+  "updatedAt": 1780403049277,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780363214237",
+      "text": "bondée beni nou",
+      "userDeviceId": "60e17adb4e7cebf92a07a533ea4c789a3407bff314b9709a25a989c82411e15c",
+      "userName": "yselande lochard",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780403049277,
+      "updatedAt": 1780403049277,
+      "status": "active"
+    },
     {
       "id": "local-1780399487582",
       "text": "se gras a ou seigneur",
@@ -108,8 +122,8 @@
     }
   ],
   "likeCount": 44,
-  "shareCount": 81,
-  "viewCount": 8937,
+  "shareCount": 82,
+  "viewCount": 8976,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "31b13121b6888fb31df532c3d0b5f481c7b7fe2aac75d4383ce4cf7f86241769",
