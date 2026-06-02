@@ -1,9 +1,37 @@
 {
   "date": "2026-06-02",
   "verseKey": "daily:2026-06-02",
-  "updatedAt": 1780418410657,
+  "updatedAt": 1780418530284,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780418445110",
+      "text": "mèsisegnè",
+      "userDeviceId": "9d5460ed5f7bd293a158622492982175c66568b04d7db1c97e9f0d6e8292743d",
+      "userName": "mode",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780418530284,
+      "updatedAt": 1780418530284,
+      "status": "active"
+    },
+    {
+      "id": "local-1780418363877",
+      "text": "amen",
+      "userDeviceId": "9d5460ed5f7bd293a158622492982175c66568b04d7db1c97e9f0d6e8292743d",
+      "userName": "mode",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780418530283,
+      "updatedAt": 1780418530283,
+      "status": "active"
+    },
     {
       "id": "local-1780410766277",
       "text": "letènel se gadyen mwen",
@@ -177,9 +205,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 64,
-  "shareCount": 106,
-  "viewCount": 12590,
+  "likeCount": 65,
+  "shareCount": 110,
+  "viewCount": 12618,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "31b13121b6888fb31df532c3d0b5f481c7b7fe2aac75d4383ce4cf7f86241769",
@@ -244,7 +272,8 @@
     "9fdc221a9443a47048f2ac0ce77fb80b1434c251c1cd7b493c1f3c053a665037",
     "30f63e91e91d279a36fea0abc44eae053e42a73d88d8d85d5272adb32293dbf1",
     "fc86691b2ddedc2d926b0bf6adf522052ac069fe74cf5adf63c8f7c6230ede40",
-    "5583179819f9e50416ea627ceaa99850afbc7aba8b4617640c717b2fdd805f32"
+    "5583179819f9e50416ea627ceaa99850afbc7aba8b4617640c717b2fdd805f32",
+    "be6f6e30c743c9a5778d128409d9fabe68813af5725cc7e053663c171174f7f7"
   ],
   "verseViewBy": []
 }
