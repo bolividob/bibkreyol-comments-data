@@ -1,9 +1,23 @@
 {
   "date": "2026-06-02",
   "verseKey": "daily:2026-06-02",
-  "updatedAt": 1780369763591,
+  "updatedAt": 1780369942252,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780369891927",
+      "text": "tout gloire pou bondye",
+      "userDeviceId": "473d7b484f312584adac1e67df5d06eaac8e6d8fa118cb19b04441d5c1c14daa",
+      "userName": "carina",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780369942252,
+      "updatedAt": 1780369942252,
+      "status": "active"
+    },
     {
       "id": "local-1780367502230",
       "text": "🙏🙏🙏",
@@ -63,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
+  "likeCount": 12,
   "shareCount": 9,
-  "viewCount": 3168,
+  "viewCount": 3241,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "31b13121b6888fb31df532c3d0b5f481c7b7fe2aac75d4383ce4cf7f86241769",
@@ -76,7 +90,9 @@
     "c3596d9c12b294786627fbb032b5a1436f329dd2526dcfd415aae49c3848389b",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "1d37ab95634e5f546df0b52c71cec8f307086e834e4a1e710c7431018aa600d6",
-    "9cfbd79dddc144383cc049c4ac37aa24e6f40388dfe3d1d301086019177bbf08"
+    "9cfbd79dddc144383cc049c4ac37aa24e6f40388dfe3d1d301086019177bbf08",
+    "473d7b484f312584adac1e67df5d06eaac8e6d8fa118cb19b04441d5c1c14daa",
+    "cd42e7b6a1751896d17c872ed87c419d14b4672a71456ad9573f89c9b99c240e"
   ],
   "verseViewBy": []
 }
