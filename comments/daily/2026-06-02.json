@@ -1,9 +1,23 @@
 {
   "date": "2026-06-02",
   "verseKey": "daily:2026-06-02",
-  "updatedAt": 1780404907124,
+  "updatedAt": 1780405027305,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780404965156",
+      "text": "Amen mèsi anpil Senyè pou gras ou",
+      "userDeviceId": "34c77a1dd78ffdc9be854ea1d088edf044ed0ddf6056978e86e504dd693e4cf7",
+      "userName": "desire Evelyne",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780405027305,
+      "updatedAt": 1780405027305,
+      "status": "active"
+    },
     {
       "id": "local-1780363214237",
       "text": "bondée beni nou",
@@ -123,7 +137,7 @@
   ],
   "likeCount": 48,
   "shareCount": 86,
-  "viewCount": 9407,
+  "viewCount": 9433,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "31b13121b6888fb31df532c3d0b5f481c7b7fe2aac75d4383ce4cf7f86241769",
