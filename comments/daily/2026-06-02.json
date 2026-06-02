@@ -1,19 +1,37 @@
 {
   "date": "2026-06-02",
   "verseKey": "daily:2026-06-02",
-  "updatedAt": 1780366641392,
+  "updatedAt": 1780366940790,
   "version": 1,
-  "comments": [],
-  "likeCount": 6,
+  "comments": [
+    {
+      "id": "local-1780366748816",
+      "text": "🙏🙏",
+      "userDeviceId": "bd9ca3b630b46d3946b0785a9a0b5d325c85c6cadbbf22c572d2646e0b8cf0d2",
+      "userName": "noel",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "bd9ca3b630b46d3946b0785a9a0b5d325c85c6cadbbf22c572d2646e0b8cf0d2"
+      ],
+      "createdAt": 1780366940790,
+      "updatedAt": 1780366940790,
+      "status": "active"
+    }
+  ],
+  "likeCount": 7,
   "shareCount": 6,
-  "viewCount": 2537,
+  "viewCount": 2667,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "31b13121b6888fb31df532c3d0b5f481c7b7fe2aac75d4383ce4cf7f86241769",
     "4d60187657b637625c4bcb09c510194c678ea7569b18ac23a7d9a997db54b723",
     "6200f38b7b370af6565aecf4ed5dd389c7c176b0e8a9e8d77c6e72b3a09a5fb9",
     "8f8554031f80ffddfd42f2812099100b5a77dd79d4f72c3207e9a3c17bac8141",
-    "e06b90de5bb424f81d5f6063ac4d6d2174c7ccd7fb62f2d45e246ff9ba4e6153"
+    "e06b90de5bb424f81d5f6063ac4d6d2174c7ccd7fb62f2d45e246ff9ba4e6153",
+    "c3596d9c12b294786627fbb032b5a1436f329dd2526dcfd415aae49c3848389b"
   ],
   "verseViewBy": []
 }
