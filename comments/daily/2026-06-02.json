@@ -1,9 +1,37 @@
 {
   "date": "2026-06-02",
   "verseKey": "daily:2026-06-02",
-  "updatedAt": 1780410725751,
+  "updatedAt": 1780410982237,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780410766277",
+      "text": "letènel se gadyen mwen",
+      "userDeviceId": "181998c86439f0e3fbb1176262dc402f5ef1785ab62b7cf30df9d361705d7c93",
+      "userName": "Darius Daniela",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780410982237,
+      "updatedAt": 1780410982237,
+      "status": "active"
+    },
+    {
+      "id": "local-1780410866202",
+      "text": "amen",
+      "userDeviceId": "8f8f33ae097efc31b564f0b16b3b1d3b6003f304b408bbb27bac330ef6f565fe",
+      "userName": "dieula Antoine",
+      "verseName": "1 Kwonik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780410982237,
+      "updatedAt": 1780410982237,
+      "status": "active"
+    },
     {
       "id": "local-1780409642170",
       "text": "Amen",
@@ -150,8 +178,8 @@
     }
   ],
   "likeCount": 60,
-  "shareCount": 93,
-  "viewCount": 10633,
+  "shareCount": 94,
+  "viewCount": 10699,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "31b13121b6888fb31df532c3d0b5f481c7b7fe2aac75d4383ce4cf7f86241769",
