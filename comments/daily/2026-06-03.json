@@ -1,12 +1,41 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780445966983,
+  "updatedAt": 1780448446961,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1780447789561",
+      "text": "catacon",
+      "userDeviceId": "efa9504cc64d4f1de671e72a12a7f91661d916d99f7eb71a9828234c7cd814ab",
+      "userName": "som",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780448446961,
+      "updatedAt": 1780448446961,
+      "status": "active"
+    },
+    {
+      "id": "local-1780448372110",
+      "text": "Nice meeting you Ana Lopez, you are smart.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780448446961,
+      "updatedAt": 1780448446961,
+      "status": "active"
+    }
+  ],
   "likeCount": 2,
   "shareCount": 0,
-  "viewCount": 1132,
+  "viewCount": 1302,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe"
