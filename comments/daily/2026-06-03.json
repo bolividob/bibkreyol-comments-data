@@ -1,9 +1,23 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780494609539,
+  "updatedAt": 1780494726872,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780494654841",
+      "text": "bondye beni nou 🙏🏽🙏🏽🙏🏽",
+      "userDeviceId": "76cb3e7670535da5c54528201383e7973683bd54a203c3c9fd7638fafab9bab0",
+      "userName": "Aby",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780494726871,
+      "updatedAt": 1780494726871,
+      "status": "active"
+    },
     {
       "id": "local-1780489084074",
       "text": "bondye beni nou frem al sem yo",
@@ -251,9 +265,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
+  "likeCount": 58,
   "shareCount": 136,
-  "viewCount": 9939,
+  "viewCount": 9962,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
@@ -311,7 +325,8 @@
     "0dd938d4b08ba23f502b1efb9c61747a285787121e62ded11395b13db1234c6b",
     "d2d665c4e370f73801f920449219e7d9f6ec668749eeb23f226e500773fe2e74",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
-    "76cb3e7670535da5c54528201383e7973683bd54a203c3c9fd7638fafab9bab0"
+    "76cb3e7670535da5c54528201383e7973683bd54a203c3c9fd7638fafab9bab0",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
