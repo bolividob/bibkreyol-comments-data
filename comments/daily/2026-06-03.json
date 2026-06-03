@@ -1,9 +1,23 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780453036226,
+  "updatedAt": 1780453345690,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780453083338",
+      "text": "amen",
+      "userDeviceId": "5b1c10c800d910af790fe084c0684188b4364af094dc87c169e38a17454607c3",
+      "userName": "Nelson Sylvia",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780453345689,
+      "updatedAt": 1780453345689,
+      "status": "active"
+    },
     {
       "id": "local-1780449788009",
       "text": "🥱🥱🥱🥱🥱",
@@ -82,8 +96,8 @@
     }
   ],
   "likeCount": 9,
-  "shareCount": 7,
-  "viewCount": 2704,
+  "shareCount": 12,
+  "viewCount": 2861,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
