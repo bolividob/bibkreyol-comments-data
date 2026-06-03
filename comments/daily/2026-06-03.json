@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780517829734,
+  "updatedAt": 1780517946551,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jòb 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ac66c6415af7c5014eb723f65f92a7c5cde150ca28fe0f01fe403aba15b51ee8"
+      ],
       "createdAt": 1780516626755,
-      "updatedAt": 1780516626755,
+      "updatedAt": 1780517946551,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "Jòb 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ac66c6415af7c5014eb723f65f92a7c5cde150ca28fe0f01fe403aba15b51ee8"
+      ],
       "createdAt": 1780489147183,
-      "updatedAt": 1780494609539,
+      "updatedAt": 1780517946551,
       "status": "active"
     },
     {
@@ -281,7 +285,7 @@
   ],
   "likeCount": 80,
   "shareCount": 179,
-  "viewCount": 14570,
+  "viewCount": 14590,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
