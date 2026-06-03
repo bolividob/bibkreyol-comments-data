@@ -1,9 +1,23 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780516518209,
+  "updatedAt": 1780516626755,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780516569974",
+      "text": "Amen",
+      "userDeviceId": "4817add356f7af6e29485a8204f1e91873ffce243d23fffd6dba4eed60bfe185",
+      "userName": "Frè waslin",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780516626755,
+      "updatedAt": 1780516626755,
+      "status": "active"
+    },
     {
       "id": "local-1780494654841",
       "text": "bondye beni nou 🙏🏽🙏🏽🙏🏽",
@@ -267,7 +281,7 @@
   ],
   "likeCount": 79,
   "shareCount": 176,
-  "viewCount": 14367,
+  "viewCount": 14376,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
