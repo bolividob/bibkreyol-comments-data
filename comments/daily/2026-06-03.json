@@ -1,9 +1,23 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780484955017,
+  "updatedAt": 1780485448008,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780451119858",
+      "text": "Amen !",
+      "userDeviceId": "64091b6eb6292f6054c9fc9c9413eb1ba145030592bba16a0a7f22f31984a6f9",
+      "userName": "Femme bénie",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780485448008,
+      "updatedAt": 1780485448008,
+      "status": "active"
+    },
     {
       "id": "local-1780482385368",
       "text": "🙏🙏🙏🙏🙏",
@@ -224,8 +238,8 @@
     }
   ],
   "likeCount": 40,
-  "shareCount": 99,
-  "viewCount": 7796,
+  "shareCount": 103,
+  "viewCount": 7918,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
