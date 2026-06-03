@@ -1,9 +1,23 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780457648503,
+  "updatedAt": 1780459214721,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780457866427",
+      "text": "amen 🙏",
+      "userDeviceId": "d911252324f723959c688ee68f31e366cde86a38aafdd3726fb070a55681c498",
+      "userName": "Belinda 🙏🙏🙏",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780459214721,
+      "updatedAt": 1780459214721,
+      "status": "active"
+    },
     {
       "id": "local-1780453083338",
       "text": "amen",
@@ -97,7 +111,7 @@
   ],
   "likeCount": 13,
   "shareCount": 21,
-  "viewCount": 4017,
+  "viewCount": 4094,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
