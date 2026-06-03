@@ -1,9 +1,23 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780479725976,
+  "updatedAt": 1780479846499,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780479799340",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780479846499,
+      "updatedAt": 1780479846499,
+      "status": "active"
+    },
     {
       "id": "local-1780449751965",
       "text": "sòm",
@@ -165,9 +179,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 29,
-  "shareCount": 64,
-  "viewCount": 6521,
+  "likeCount": 30,
+  "shareCount": 67,
+  "viewCount": 6543,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
@@ -197,7 +211,8 @@
     "b73c4d4060b1ee437f7387c699eb77614f20edecbf09ec1b1e1b3c3c09fbdcec",
     "d86064f684f8215cc1152d14c9e90144a90cf7df449727d0747cd09b15f94ede",
     "f20f7f2cf1d7abbb793bf027c6cf229bacd4aa01ce838ab7c763b33b6e9ee453",
-    "2d53c92f6d1ed3a401c0833a5430a6a2595ffe438fa94e585041ab1e309e14fe"
+    "2d53c92f6d1ed3a401c0833a5430a6a2595ffe438fa94e585041ab1e309e14fe",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
   ],
   "verseViewBy": []
 }
