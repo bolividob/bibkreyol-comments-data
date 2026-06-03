@@ -1,9 +1,41 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780449751370,
+  "updatedAt": 1780449933957,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780449788009",
+      "text": "🥱🥱🥱🥱🥱",
+      "userDeviceId": "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
+      "userName": "Martina Merger",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
+      "createdAt": 1780449933957,
+      "updatedAt": 1780449933957,
+      "status": "active"
+    },
+    {
+      "id": "local-1780449827057",
+      "text": "Bondye kouvri nou tout",
+      "userDeviceId": "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
+      "userName": "Martina Merger",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
+      "createdAt": 1780449933957,
+      "updatedAt": 1780449933957,
+      "status": "active"
+    },
     {
       "id": "local-1780448679752",
       "text": "thank youuuu!",
@@ -40,22 +72,26 @@
       "verseName": "Jòb 6:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1780448446961,
-      "updatedAt": 1780448854610,
+      "updatedAt": 1780449933957,
       "status": "active"
     }
   ],
-  "likeCount": 5,
-  "shareCount": 4,
-  "viewCount": 1933,
+  "likeCount": 7,
+  "shareCount": 6,
+  "viewCount": 2108,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "76695b947426379d295eddea7556ac2daad7c87eab0a38348f74a449f59af148",
-    "abd91b6f660ac70a45bb65bcd39403a13e7e486437b8d3ea4c5d79253ee7db51"
+    "abd91b6f660ac70a45bb65bcd39403a13e7e486437b8d3ea4c5d79253ee7db51",
+    "6c0331485a23ed312572be45ca48abaf3a742bdd1caf62de17745bbca2f9c842",
+    "d6f9bf841d7887c968f873311a7e11378e4bc29fbb4c84a4ae8e2963e7dd1f0f"
   ],
   "verseViewBy": []
 }
