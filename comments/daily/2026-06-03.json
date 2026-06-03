@@ -1,9 +1,51 @@
 {
   "date": "2026-06-03",
   "verseKey": "daily:2026-06-03",
-  "updatedAt": 1780475044598,
+  "updatedAt": 1780475166424,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780449751965",
+      "text": "sòm",
+      "userDeviceId": "09fcaccbfe529fbbba66445b910acea292eb7684a289028aa5ad00285c39e46c",
+      "userName": "Loobyd",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780475166424,
+      "updatedAt": 1780475166424,
+      "status": "active"
+    },
+    {
+      "id": "local-1780449768994",
+      "text": "35",
+      "userDeviceId": "09fcaccbfe529fbbba66445b910acea292eb7684a289028aa5ad00285c39e46c",
+      "userName": "Loobyd",
+      "verseName": "Jòb 6:5",
+      "parentId": "local-1780447789561",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780475166424,
+      "updatedAt": 1780475166424,
+      "status": "active"
+    },
+    {
+      "id": "local-1780449819458",
+      "text": "bon bagay",
+      "userDeviceId": "09fcaccbfe529fbbba66445b910acea292eb7684a289028aa5ad00285c39e46c",
+      "userName": "Loobyd",
+      "verseName": "Jòb 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780475166424,
+      "updatedAt": 1780475166424,
+      "status": "active"
+    },
     {
       "id": "local-1780459757209",
       "text": "Amèn Amèn Amèn",
@@ -99,11 +141,11 @@
       "userName": "som",
       "verseName": "Jòb 6:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780448446961,
-      "updatedAt": 1780448446961,
+      "updatedAt": 1780475166424,
       "status": "active"
     },
     {
@@ -125,7 +167,7 @@
   ],
   "likeCount": 27,
   "shareCount": 36,
-  "viewCount": 5867,
+  "viewCount": 5890,
   "verseLikedBy": [
     "d5367ca7ae7b8389222a4c46a08a68e38584f98e2352a410fae50d3d1296807e",
     "3d72733ca4d3f05add86e8170fee988dc3c56112d67c9f9ce83304d5ae2d3efe",
