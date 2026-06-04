@@ -1,9 +1,23 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780539865317,
+  "updatedAt": 1780542211747,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780542077976",
+      "text": "💕💕💕💕💕💕💕💕💕",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780542211747,
+      "updatedAt": 1780542211747,
+      "status": "active"
+    },
     {
       "id": "local-1780539283801",
       "text": "Kiki 🤔",
@@ -68,9 +82,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
-  "shareCount": 6,
-  "viewCount": 2716,
+  "likeCount": 12,
+  "shareCount": 7,
+  "viewCount": 2883,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
@@ -81,7 +95,9 @@
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "3c069f8b5c20c406ff5a8b0eb172faf119d54d9168039f5b476b2d54cd6f0195",
     "e49e38a38a6446f7a0a0f2afd1a298a2c221f7c0c503675648b7508afcd34f9a",
-    "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86"
+    "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9"
   ],
   "verseViewBy": []
 }
