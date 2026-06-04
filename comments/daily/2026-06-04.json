@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780539572585,
+  "updatedAt": 1780539865317,
   "version": 1,
   "comments": [
     {
@@ -42,13 +42,12 @@
       "verseName": "Oze 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 1,
       "likedBy": [
-        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
-        "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86"
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
       ],
       "createdAt": 1780535711495,
-      "updatedAt": 1780539572584,
+      "updatedAt": 1780539865316,
       "status": "active"
     },
     {
@@ -69,9 +68,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
+  "likeCount": 10,
   "shareCount": 6,
-  "viewCount": 2576,
+  "viewCount": 2716,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
@@ -81,7 +80,8 @@
     "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "3c069f8b5c20c406ff5a8b0eb172faf119d54d9168039f5b476b2d54cd6f0195",
-    "e49e38a38a6446f7a0a0f2afd1a298a2c221f7c0c503675648b7508afcd34f9a"
+    "e49e38a38a6446f7a0a0f2afd1a298a2c221f7c0c503675648b7508afcd34f9a",
+    "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86"
   ],
   "verseViewBy": []
 }
