@@ -1,9 +1,39 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780539160331,
+  "updatedAt": 1780539572585,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780539283801",
+      "text": "Kiki 🤔",
+      "userDeviceId": "866888bc97aaacdd62ebc694293a6e1c8c6b805c4b5ebed7300b2c429586ab18",
+      "userName": "Kiki",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780539572584,
+      "updatedAt": 1780539572584,
+      "status": "active"
+    },
+    {
+      "id": "local-1780539251677",
+      "text": "𝕛𝕖 𝕥'𝕒𝕚𝕞𝕖 𝕛𝕖𝕫𝕚 ❤️❤️❤️❤️❤️💯",
+      "userDeviceId": "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86",
+      "userName": "𝕃𝕠𝕦𝕚𝕤 𝔹𝕚𝕒𝕝𝕒𝕟𝕕𝕛𝕠𝕤",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86"
+      ],
+      "createdAt": 1780539572584,
+      "updatedAt": 1780539572585,
+      "status": "active"
+    },
     {
       "id": "local-1780535673777",
       "text": "🌹❤️🌹❤️",
@@ -12,12 +42,13 @@
       "verseName": "Oze 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
+        "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86"
       ],
       "createdAt": 1780535711495,
-      "updatedAt": 1780535711495,
+      "updatedAt": 1780539572584,
       "status": "active"
     },
     {
@@ -28,18 +59,19 @@
       "verseName": "Oze 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
+        "6c39e188a68e17e1bc9d92d81da7922518a87d066abdcf3b5b92cc2ccbe33e86"
       ],
       "createdAt": 1780535240783,
-      "updatedAt": 1780535711495,
+      "updatedAt": 1780539572584,
       "status": "active"
     }
   ],
   "likeCount": 9,
   "shareCount": 6,
-  "viewCount": 2382,
+  "viewCount": 2576,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
