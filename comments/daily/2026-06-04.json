@@ -1,9 +1,23 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780568109923,
+  "updatedAt": 1780568229531,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780568131532",
+      "text": "amén",
+      "userDeviceId": "5bdd161c8ebb220035aba089fbdafee79888b49805883400ecd1203a0ec788b6",
+      "userName": "Past Marlo",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780568229530,
+      "updatedAt": 1780568229530,
+      "status": "active"
+    },
     {
       "id": "local-1780553442071",
       "text": "Rosemida",
@@ -139,8 +153,8 @@
     }
   ],
   "likeCount": 24,
-  "shareCount": 27,
-  "viewCount": 6551,
+  "shareCount": 28,
+  "viewCount": 6590,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
