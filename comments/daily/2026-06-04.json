@@ -1,9 +1,25 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780535593953,
+  "updatedAt": 1780535711495,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780535673777",
+      "text": "🌹❤️🌹❤️",
+      "userDeviceId": "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b",
+      "userName": "Martina Merger",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
+      "createdAt": 1780535711495,
+      "updatedAt": 1780535711495,
+      "status": "active"
+    },
     {
       "id": "local-1780534990762",
       "text": "❤️",
@@ -12,22 +28,25 @@
       "verseName": "Oze 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
+      ],
       "createdAt": 1780535240783,
-      "updatedAt": 1780535240783,
+      "updatedAt": 1780535711495,
       "status": "active"
     }
   ],
-  "likeCount": 5,
-  "shareCount": 3,
-  "viewCount": 1209,
+  "likeCount": 6,
+  "shareCount": 4,
+  "viewCount": 1255,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
     "a5e11d7b4acd8d2a404ff608956b23a6c969f9f3cc5f7d39b91a77eec74a04f0",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
-    "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9"
+    "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
+    "4854a4dba379d1e5063ec1c3d99e09da13371cbba5f52a2fe63dd97fb1c6249b"
   ],
   "verseViewBy": []
 }
