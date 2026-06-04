@@ -1,9 +1,23 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780610105436,
+  "updatedAt": 1780610228376,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780610145252",
+      "text": "nb",
+      "userDeviceId": "158d26b1b9f7d0f2ab6848dfe2eebb0aaa675223577f6e811c87e5d1791f006e",
+      "userName": "mimise",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780610228376,
+      "updatedAt": 1780610228376,
+      "status": "active"
+    },
     {
       "id": "local-1780605810097",
       "text": "Amén",
@@ -316,7 +330,7 @@
   ],
   "likeCount": 77,
   "shareCount": 124,
-  "viewCount": 16051,
+  "viewCount": 16091,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
