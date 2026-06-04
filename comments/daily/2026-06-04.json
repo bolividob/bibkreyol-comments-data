@@ -1,9 +1,23 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780588568367,
+  "updatedAt": 1780588688456,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780588654382",
+      "text": "Dieu tout puissant 🙏",
+      "userDeviceId": "8ef9f2b997b4a561ae7041cafd72edc4281f4f417acc24fe3f6cf22883846a77",
+      "userName": "Tanoue",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780588688456,
+      "updatedAt": 1780588688456,
+      "status": "active"
+    },
     {
       "id": "local-1780587037720",
       "text": "amen",
@@ -256,7 +270,7 @@
   ],
   "likeCount": 54,
   "shareCount": 98,
-  "viewCount": 11492,
+  "viewCount": 11526,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
