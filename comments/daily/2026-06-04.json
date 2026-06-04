@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780606086646,
+  "updatedAt": 1780606208418,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Oze 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1dd869fc4fe16b2987cbade2f3c9dab70da28328f4322418ca425d5bef72f9a7"
+      ],
       "createdAt": 1780590426495,
-      "updatedAt": 1780590426495,
+      "updatedAt": 1780606208418,
       "status": "active"
     },
     {
@@ -314,7 +316,7 @@
   ],
   "likeCount": 73,
   "shareCount": 119,
-  "viewCount": 15009,
+  "viewCount": 15039,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
