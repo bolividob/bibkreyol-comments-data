@@ -1,9 +1,23 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780553344508,
+  "updatedAt": 1780553464975,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780553442071",
+      "text": "Rosemida",
+      "userDeviceId": "44a315ad8c945868026527b7f8e2d739f2c2c3811ebb88c887945720b64470f5",
+      "userName": "56823234",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780553464974,
+      "updatedAt": 1780553464974,
+      "status": "active"
+    },
     {
       "id": "local-1780549949140",
       "text": "Merci cher seigneur 🙏🙏🙏🙏",
@@ -124,9 +138,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 17,
+  "likeCount": 18,
   "shareCount": 17,
-  "viewCount": 4956,
+  "viewCount": 4964,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
@@ -144,7 +158,8 @@
     "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
     "d4a9ed1023a5421d7a4e8cfa32eb4d4e6edb5cebc05d3f4443b146c041c067ac",
     "5095ce0486259eb518aca474066590a40d0fa851fc9266520633aac13b288805",
-    "3ac4edd1422311730508e8562fc61c6665d16472c4c45d1ee379d11c7a48de84"
+    "3ac4edd1422311730508e8562fc61c6665d16472c4c45d1ee379d11c7a48de84",
+    "44a315ad8c945868026527b7f8e2d739f2c2c3811ebb88c887945720b64470f5"
   ],
   "verseViewBy": []
 }
