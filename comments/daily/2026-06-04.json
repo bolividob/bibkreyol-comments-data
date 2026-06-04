@@ -1,9 +1,23 @@
 {
   "date": "2026-06-04",
   "verseKey": "daily:2026-06-04",
-  "updatedAt": 1780575614673,
+  "updatedAt": 1780575727450,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780575650949",
+      "text": "Amen 🙏🙏",
+      "userDeviceId": "2a4743c5cbca2f566a9db06b1850795c73f99bb8e16f4436a7646b09c1f53bd3",
+      "userName": "ROSE",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780575727450,
+      "updatedAt": 1780575727450,
+      "status": "active"
+    },
     {
       "id": "local-1780569146298",
       "text": "Amen amen amen🙏🙏",
@@ -181,8 +195,8 @@
     }
   ],
   "likeCount": 40,
-  "shareCount": 77,
-  "viewCount": 8465,
+  "shareCount": 78,
+  "viewCount": 8498,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "ee9024e5d24c57d9d4cf3fab9ee36744e48f7f9661798fa53d47411d0c96dc57",
