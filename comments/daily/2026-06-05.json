@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780621915657,
+  "updatedAt": 1780622083518,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780621957458",
+      "text": "Jesus  conais tous les choses",
+      "userDeviceId": "073f3e477b90e6fa672f8129e630f6dd7256ee46c6df5e8f434d583f839d78cb",
+      "userName": "Rosemichelle  Theodore",
+      "verseName": "Jenèz 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780622083518,
+      "updatedAt": 1780622083518,
+      "status": "active"
+    },
     {
       "id": "local-1780593732575",
       "text": "amen",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 7,
-  "shareCount": 9,
-  "viewCount": 1409,
+  "shareCount": 10,
+  "viewCount": 1658,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
