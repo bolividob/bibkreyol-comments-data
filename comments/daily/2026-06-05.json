@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780692905174,
+  "updatedAt": 1780693026587,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780692905922",
+      "text": "mèsi jezi pou pawol u",
+      "userDeviceId": "dc2768c187caae9760ed0dd5ce452e63295552f1eae66a706d00f4e84b922ae9",
+      "userName": "Natacha St fort",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780693026587,
+      "updatedAt": 1780693026587,
+      "status": "active"
+    },
     {
       "id": "local-1780688166571",
       "text": "mèsi pou jounen sa senyè",
@@ -298,7 +312,7 @@
   ],
   "likeCount": 90,
   "shareCount": 149,
-  "viewCount": 14955,
+  "viewCount": 14986,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
