@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780694606953,
+  "updatedAt": 1780694893272,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780694620140",
+      "text": "amen",
+      "userDeviceId": "17b5c8d89280b4d86741fba4db5d745da8f1436a5f8df29b37bc0e83c62c102b",
+      "userName": "Wismane",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780694893271,
+      "updatedAt": 1780694893271,
+      "status": "active"
+    },
     {
       "id": "local-1780692905922",
       "text": "mèsi jezi pou pawol u",
@@ -310,9 +324,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 91,
+  "likeCount": 92,
   "shareCount": 152,
-  "viewCount": 15342,
+  "viewCount": 15408,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
@@ -404,7 +418,8 @@
     "b1df84d99d4478799aa387dca5466f71e7ab6af4f2329666b9dec8408aac7ad4",
     "f6922e9a2bdf52db9a3760614ef3894fc4487aa283b4291e5663b26e174d9e62",
     "dc2768c187caae9760ed0dd5ce452e63295552f1eae66a706d00f4e84b922ae9",
-    "594dd2f2a358d2d686f3ac033ea16d907b461d2db6ef24c170ea48e2d1fcc45b"
+    "594dd2f2a358d2d686f3ac033ea16d907b461d2db6ef24c170ea48e2d1fcc45b",
+    "f64f1f0532a985fb037f6975eec81c7dbcc1106627e615b9ea2c83bd76a2ede1"
   ],
   "verseViewBy": []
 }
