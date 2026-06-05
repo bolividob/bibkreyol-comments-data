@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780680307256,
+  "updatedAt": 1780680550151,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780680189551",
+      "text": "amén",
+      "userDeviceId": "728ce636aa745e758249eece953b7ac0d2a26f316823df2bda2ace0a6dabb1cd",
+      "userName": "geralda",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780680550151,
+      "updatedAt": 1780680550151,
+      "status": "active"
+    },
     {
       "id": "local-1780679924849",
       "text": "mw kanpe sou menm pawòl la",
@@ -226,9 +240,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 78,
+  "likeCount": 79,
   "shareCount": 139,
-  "viewCount": 12773,
+  "viewCount": 12820,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
@@ -307,7 +321,8 @@
     "b1acf386e47d0d4d9ab03f0bb25bf32231155179e8f7b6e9171281062b3c031a",
     "13209a2d326e1c2b676a2b8d38b50fc9ed80fc2b572fad9650b6838d14e5dd70",
     "d3880baa78fa402365ffd1213bd19de3001eb5efb77677e8ddd2fb46abadcc56",
-    "c7310d6c2b2ab2d50c0aacd1270e09ae214219a6bb608bd3ab5c0f7fcc2a765f"
+    "c7310d6c2b2ab2d50c0aacd1270e09ae214219a6bb608bd3ab5c0f7fcc2a765f",
+    "728ce636aa745e758249eece953b7ac0d2a26f316823df2bda2ace0a6dabb1cd"
   ],
   "verseViewBy": []
 }
