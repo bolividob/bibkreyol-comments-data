@@ -1,9 +1,25 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780624995705,
+  "updatedAt": 1780625174520,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780624948821",
+      "text": "Amen!!!",
+      "userDeviceId": "9fd7d66619c61047ecc7110d10cb9c3c7b821d2beada7006af8eef95dd16d95e",
+      "userName": "marvensky Amen!!!",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "9fd7d66619c61047ecc7110d10cb9c3c7b821d2beada7006af8eef95dd16d95e"
+      ],
+      "createdAt": 1780625174520,
+      "updatedAt": 1780625174520,
+      "status": "active"
+    },
     {
       "id": "local-1780621957458",
       "text": "Jesus  conais tous les choses",
@@ -33,9 +49,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
+  "likeCount": 10,
   "shareCount": 13,
-  "viewCount": 2096,
+  "viewCount": 2168,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
@@ -45,7 +61,8 @@
     "ec8290d48d8a5b4bcb13b24ebe75c744f512ec7e8c28182301bab7979c1726ce",
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
     "deb1ed28b9f0d51627107ab002f7b890dd3c0c23e6e5b7b68db77eea6f472044",
-    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb"
+    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
+    "9fd7d66619c61047ecc7110d10cb9c3c7b821d2beada7006af8eef95dd16d95e"
   ],
   "verseViewBy": []
 }
