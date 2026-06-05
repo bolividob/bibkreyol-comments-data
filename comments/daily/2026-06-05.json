@@ -1,12 +1,27 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780618585933,
+  "updatedAt": 1780618765880,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1780593732575",
+      "text": "amen",
+      "userDeviceId": "405e2910f51e28e69a08bc985b3a2e7bf62defc83135c7c4dd716b4342e2b1ff",
+      "userName": "youseline",
+      "verseName": "Oze 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780618765880,
+      "updatedAt": 1780618765880,
+      "status": "active"
+    }
+  ],
   "likeCount": 3,
-  "shareCount": 5,
-  "viewCount": 424,
+  "shareCount": 6,
+  "viewCount": 550,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
