@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780687384767,
+  "updatedAt": 1780687506084,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780687395947",
+      "text": "Atelus jinie",
+      "userDeviceId": "884adcde94accb90db0665a73e27513e96e50be16d70c3503d5e66f3d9bfdb2e",
+      "userName": "jinie",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780687506084,
+      "updatedAt": 1780687506084,
+      "status": "active"
+    },
     {
       "id": "local-1780687344922",
       "text": "jinie Attelus",
@@ -268,9 +282,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 85,
+  "likeCount": 86,
   "shareCount": 144,
-  "viewCount": 13922,
+  "viewCount": 13945,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
@@ -356,7 +370,8 @@
     "885e6f806a355fc57b7acc59e86d8eacb94306ea50a76ab098809ac26dde690a",
     "fd90df0bd81f7ce4912177a2041b2273c63703a31ba0498d17c78f0677e6cd46",
     "c849ea31aa90e4013a1e6c9fb63d45db9c321ca1cc9c3c1c0a3d31d02fa8ffde",
-    "dcf466f4ff6572168acd90a706a8ff761ed4177e7c4f45e18b9ec5f611b90ec9"
+    "dcf466f4ff6572168acd90a706a8ff761ed4177e7c4f45e18b9ec5f611b90ec9",
+    "470da90821018956e55e57579df39c81c511fb46a41de6d37f4f0f842260a716"
   ],
   "verseViewBy": []
 }
