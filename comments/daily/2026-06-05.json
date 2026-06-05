@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780662009165,
+  "updatedAt": 1780662256820,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780662068966",
+      "text": "amén amén amén 🙏 merci Pou gras ou papá ,🙏🙏❤️❤️",
+      "userDeviceId": "526639411f40b7ff53d11b9706b0927a818dbd9af55a174ccb4772c7170e3dab",
+      "userName": "amen",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780662256820,
+      "updatedAt": 1780662256820,
+      "status": "active"
+    },
     {
       "id": "local-1780661179406",
       "text": "Jezi se nan prezans ou nanm mwen pran plezi",
@@ -177,9 +191,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 101,
-  "viewCount": 8699,
+  "likeCount": 56,
+  "shareCount": 102,
+  "viewCount": 8764,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
@@ -234,7 +248,9 @@
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
-    "d6370b9ac1876ee6276cb92e40249a19700e1debf694aa464feef6ea7da133e1"
+    "d6370b9ac1876ee6276cb92e40249a19700e1debf694aa464feef6ea7da133e1",
+    "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
+    "f86e56ee35010cccb6b303003e433a246cb02dd89caf2bf0917fab41a4329c4c"
   ],
   "verseViewBy": []
 }
