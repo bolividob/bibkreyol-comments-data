@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780695963986,
+  "updatedAt": 1780696086687,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780696033968",
+      "text": "tout gla pou pawòl BONDYE",
+      "userDeviceId": "079fdf33a617674b2b3254e7ca76c845808d09ab1f68773e549ea097a2c3ad32",
+      "userName": "judson",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780696086686,
+      "updatedAt": 1780696086686,
+      "status": "active"
+    },
     {
       "id": "local-1780694620140",
       "text": "amen",
@@ -325,8 +339,8 @@
     }
   ],
   "likeCount": 92,
-  "shareCount": 152,
-  "viewCount": 15676,
+  "shareCount": 153,
+  "viewCount": 15705,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
