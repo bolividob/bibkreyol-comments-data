@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780679766058,
+  "updatedAt": 1780680135097,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780679924849",
+      "text": "mw kanpe sou menm pawòl la",
+      "userDeviceId": "d3880baa78fa402365ffd1213bd19de3001eb5efb77677e8ddd2fb46abadcc56",
+      "userName": "Kéttia Orasmé",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780680135097,
+      "updatedAt": 1780680135097,
+      "status": "active"
+    },
     {
       "id": "local-1780662665777",
       "text": "jean6v7",
@@ -212,9 +226,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 76,
+  "likeCount": 77,
   "shareCount": 138,
-  "viewCount": 12674,
+  "viewCount": 12746,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
@@ -291,7 +305,8 @@
     "f7d122f04c8219a56738541d02d1ce3537eb1325b0bce068378939c774e7123e",
     "e801250ec2b7d444fa6dc742cdae4806570d25a2823ce704dcfdf36de56a2a3e",
     "b1acf386e47d0d4d9ab03f0bb25bf32231155179e8f7b6e9171281062b3c031a",
-    "13209a2d326e1c2b676a2b8d38b50fc9ed80fc2b572fad9650b6838d14e5dd70"
+    "13209a2d326e1c2b676a2b8d38b50fc9ed80fc2b572fad9650b6838d14e5dd70",
+    "d3880baa78fa402365ffd1213bd19de3001eb5efb77677e8ddd2fb46abadcc56"
   ],
   "verseViewBy": []
 }
