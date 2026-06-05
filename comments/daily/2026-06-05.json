@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780630330956,
+  "updatedAt": 1780632248661,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780631818651",
+      "text": "amén amén amén",
+      "userDeviceId": "3198b6649a96e9c50ba47320eb24dfd9bc8eebe48db0bcb0c54194820cdc7488",
+      "userName": "Louis rosematha",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780632248661,
+      "updatedAt": 1780632248661,
+      "status": "active"
+    },
     {
       "id": "local-1780629959988",
       "text": "Merci Jezi Kris ki nn syèl la 🙏🙏",
@@ -109,7 +123,7 @@
   ],
   "likeCount": 17,
   "shareCount": 19,
-  "viewCount": 3900,
+  "viewCount": 3942,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
