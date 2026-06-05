@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780692545944,
+  "updatedAt": 1780692666216,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780688166571",
+      "text": "mèsi pou jounen sa senyè",
+      "userDeviceId": "763891eb102ca24342af0db83dc670410460e5a47118844adfa3fac9b21fac9d",
+      "userName": "Appuyez sur un élément pour le coller dans le champ de texte.",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780692666216,
+      "updatedAt": 1780692666216,
+      "status": "active"
+    },
     {
       "id": "local-1780687395947",
       "text": "Atelus jinie",
@@ -284,7 +298,7 @@
   ],
   "likeCount": 89,
   "shareCount": 149,
-  "viewCount": 14877,
+  "viewCount": 14904,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
