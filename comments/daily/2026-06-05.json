@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780662608083,
+  "updatedAt": 1780662727808,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780662665777",
+      "text": "jean6v7",
+      "userDeviceId": "ccba86fac82c42d34d8cf285db8fbbeffd5bfd6977a33b3bdaccad452f6f54b9",
+      "userName": "Jean 3 v6",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780662727808,
+      "updatedAt": 1780662727808,
+      "status": "active"
+    },
     {
       "id": "local-1780662068966",
       "text": "amén amén amén 🙏 merci Pou gras ou papá ,🙏🙏❤️❤️",
@@ -192,8 +206,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 102,
-  "viewCount": 8846,
+  "shareCount": 103,
+  "viewCount": 8873,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
