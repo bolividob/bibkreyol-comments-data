@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780661169889,
+  "updatedAt": 1780661286381,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780661179406",
+      "text": "Jezi se nan prezans ou nanm mwen pran plezi",
+      "userDeviceId": "3a809da755cb64d559ae796c915eceffc061742881dc2a492708354c983af14f",
+      "userName": "Sr Give",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780661286381,
+      "updatedAt": 1780661286381,
+      "status": "active"
+    },
     {
       "id": "local-1780661145021",
       "text": "m leve je m gade mòn yo",
@@ -165,7 +179,7 @@
   ],
   "likeCount": 54,
   "shareCount": 98,
-  "viewCount": 8493,
+  "viewCount": 8522,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
