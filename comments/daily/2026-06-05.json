@@ -1,9 +1,23 @@
 {
   "date": "2026-06-05",
   "verseKey": "daily:2026-06-05",
-  "updatedAt": 1780684984301,
+  "updatedAt": 1780685114109,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780685089761",
+      "text": "Merci seigneur Jésus",
+      "userDeviceId": "fd90df0bd81f7ce4912177a2041b2273c63703a31ba0498d17c78f0677e6cd46",
+      "userName": "Gerda joseph",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780685114109,
+      "updatedAt": 1780685114109,
+      "status": "active"
+    },
     {
       "id": "local-1780680189551",
       "text": "amén",
@@ -240,9 +254,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 82,
+  "likeCount": 83,
   "shareCount": 141,
-  "viewCount": 13513,
+  "viewCount": 13540,
   "verseLikedBy": [
     "e8b0aa66bfe498fc28439d174d7e1bc846fc8e5fa023083711d2945cbb0305b7",
     "4b2d544c677421a7c4d780624fdb0c9666ac99d2d54d8d6bfffe75bf31c3bdbc",
@@ -325,7 +339,8 @@
     "20e62f30156840ba927d100e0f35c482b9b3d3693ae5b23932ca1727ac2f4e7d",
     "e801250ec2b7d444fa6dc742cdae4806570d25a2823ce704dcfdf36de56a2a3e",
     "a6c659671da32482209c47c8fe34328115313af119b88ba49ce58296b59afbfa",
-    "885e6f806a355fc57b7acc59e86d8eacb94306ea50a76ab098809ac26dde690a"
+    "885e6f806a355fc57b7acc59e86d8eacb94306ea50a76ab098809ac26dde690a",
+    "fd90df0bd81f7ce4912177a2041b2273c63703a31ba0498d17c78f0677e6cd46"
   ],
   "verseViewBy": []
 }
