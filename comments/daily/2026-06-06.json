@@ -1,12 +1,27 @@
 {
   "date": "2026-06-06",
   "verseKey": "daily:2026-06-06",
-  "updatedAt": 1780705149009,
+  "updatedAt": 1780705277637,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1780705194400",
+      "text": "egzòd",
+      "userDeviceId": "155e03ee4e4e695920fcff350248a17779143525bb0439cdb868ffcd7d3656e6",
+      "userName": "Anne Patricia dede",
+      "verseName": "Mike 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780705277637,
+      "updatedAt": 1780705277637,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
   "shareCount": 3,
-  "viewCount": 417,
+  "viewCount": 473,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e"
   ],
