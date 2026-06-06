@@ -1,9 +1,23 @@
 {
   "date": "2026-06-06",
   "verseKey": "daily:2026-06-06",
-  "updatedAt": 1780719007906,
+  "updatedAt": 1780719127929,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780719049575",
+      "text": "Amén Amén Amén",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Jij 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780719127929,
+      "updatedAt": 1780719127929,
+      "status": "active"
+    },
     {
       "id": "local-1780714701112",
       "text": "amèn",
@@ -54,7 +68,7 @@
   ],
   "likeCount": 14,
   "shareCount": 24,
-  "viewCount": 4167,
+  "viewCount": 4202,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "dd741479bd01f50770b5046ee664378f8fa4887e48f54225dbb4b83e10b5a0c9",
