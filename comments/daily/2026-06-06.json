@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
   "verseKey": "daily:2026-06-06",
-  "updatedAt": 1780743065933,
+  "updatedAt": 1780743186677,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jij 7:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ce35021cc133e99860883d7363a3b47c8b85361636ad6f6aa069c51784a5fdba"
+      ],
       "createdAt": 1780741884407,
-      "updatedAt": 1780741884407,
+      "updatedAt": 1780743186677,
       "status": "active"
     },
     {
@@ -82,10 +84,12 @@
       "verseName": "Jij 7:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ce35021cc133e99860883d7363a3b47c8b85361636ad6f6aa069c51784a5fdba"
+      ],
       "createdAt": 1780719127929,
-      "updatedAt": 1780719127929,
+      "updatedAt": 1780743186677,
       "status": "active"
     },
     {
@@ -137,8 +141,8 @@
     }
   ],
   "likeCount": 40,
-  "shareCount": 76,
-  "viewCount": 7165,
+  "shareCount": 77,
+  "viewCount": 7196,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "dd741479bd01f50770b5046ee664378f8fa4887e48f54225dbb4b83e10b5a0c9",
