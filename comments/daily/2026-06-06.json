@@ -1,9 +1,23 @@
 {
   "date": "2026-06-06",
   "verseKey": "daily:2026-06-06",
-  "updatedAt": 1780754770705,
+  "updatedAt": 1780755029860,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780753254510",
+      "text": "mwen renmem bon dye anpil",
+      "userDeviceId": "30a47b424d2f224f63cb08e9a534c1f77dfce0af3974c0d1a3a0b76ba0a05109",
+      "userName": "idelain",
+      "verseName": "Jij 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780755029860,
+      "updatedAt": 1780755029860,
+      "status": "active"
+    },
     {
       "id": "local-1780746899355",
       "text": "amén",
@@ -196,9 +210,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 70,
+  "likeCount": 73,
   "shareCount": 122,
-  "viewCount": 10271,
+  "viewCount": 10363,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "dd741479bd01f50770b5046ee664378f8fa4887e48f54225dbb4b83e10b5a0c9",
@@ -269,7 +283,10 @@
     "31ce5d3bec7418ca8b361f0034f228a56c3d3e2e04a3624ed81645aa13aa18d9",
     "efa2adfea25916c1328ed5e47f3c52cdacf0f067c432e24474ca1c7248d598ad",
     "6021b9626b386596da0d80f0de8333d8c8463876f8f959e74e046586aeef5423",
-    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+    "7e13fdefc64831161eafc4103be4c18ce5d0660fce331cc0ddeb44026fdce6c6",
+    "ab64b1a0554954057026c441a777f2c687ec144345abe3bc0df2649664058065",
+    "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0"
   ],
   "verseViewBy": []
 }
