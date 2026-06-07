@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780812127947,
+  "updatedAt": 1780812246607,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780812209120",
+      "text": "amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780812246607,
+      "updatedAt": 1780812246607,
+      "status": "active"
+    },
     {
       "id": "local-1780809151946",
       "text": "Amen wi",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 21,
-  "shareCount": 34,
-  "viewCount": 4918,
+  "likeCount": 22,
+  "shareCount": 35,
+  "viewCount": 4927,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
@@ -169,7 +183,8 @@
     "fb00b7fffe91332343a7b995f895757056a374673cd9e1f126879596f98fbc9b",
     "fd3e53f27ca984543e7dc56cba0ebd6ef145143ecf404b462bc33a6e5d64a3b0",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
-    "15aa8027d57c05c1003f922cdd6ed936343574fb530652e03e6f78ed54d0e1ef"
+    "15aa8027d57c05c1003f922cdd6ed936343574fb530652e03e6f78ed54d0e1ef",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
