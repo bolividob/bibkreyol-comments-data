@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780794857869,
+  "updatedAt": 1780794968631,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780794794805",
+      "text": "alelouya",
+      "userDeviceId": "cf7cb31e95e3842c587a3b8ea2f3581795e1f621120d182b85de5e423734e262",
+      "userName": "pawòl Bondye ki gen tout pouvwa a",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780794968631,
+      "updatedAt": 1780794968631,
+      "status": "active"
+    },
     {
       "id": "local-1780794809012",
       "text": "jenêz",
@@ -63,7 +77,7 @@
   ],
   "likeCount": 3,
   "shareCount": 6,
-  "viewCount": 1213,
+  "viewCount": 1262,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
