@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780809123658,
+  "updatedAt": 1780809243088,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780809151946",
+      "text": "Amen wi",
+      "userDeviceId": "15aa8027d57c05c1003f922cdd6ed936343574fb530652e03e6f78ed54d0e1ef",
+      "userName": "Jocelene",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780809243088,
+      "updatedAt": 1780809243088,
+      "status": "active"
+    },
     {
       "id": "local-1780807851631",
       "text": "1timote3v5 tout moun ki tonbe sou vèsè sa ta dwe mete l an aplikasyon pou ka yon bon dirijan ou dwe komanse nan fanmiy ou ,sa montre ke si fanmiy ou ki piti yon moun paka dirije l ap vrèman digisil pou dirije yon lot group nan sosyete a",
@@ -132,8 +146,8 @@
     }
   ],
   "likeCount": 21,
-  "shareCount": 32,
-  "viewCount": 4672,
+  "shareCount": 33,
+  "viewCount": 4681,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
