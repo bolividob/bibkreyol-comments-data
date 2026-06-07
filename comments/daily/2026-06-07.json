@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780794675384,
+  "updatedAt": 1780794857869,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780794809012",
+      "text": "jenêz",
+      "userDeviceId": "42b4e6dda0c5d167b1654d7e3c72baab09359ac3949df9e97a1e35675469cfef",
+      "userName": "jenêz 1er",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780794857869,
+      "updatedAt": 1780794857869,
+      "status": "active"
+    },
     {
       "id": "local-1780793713129",
       "text": "tout glwapou",
@@ -47,12 +61,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 2,
-  "shareCount": 5,
-  "viewCount": 1143,
+  "likeCount": 3,
+  "shareCount": 6,
+  "viewCount": 1213,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
-    "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb"
+    "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
+    "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356"
   ],
   "verseViewBy": []
 }
