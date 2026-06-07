@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780795569043,
+  "updatedAt": 1780795690210,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780795580106",
+      "text": "Som",
+      "userDeviceId": "5afc4530c017bb129439934165718105ce0042415b26687e3883e4b93e7b7a79",
+      "userName": "amén",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780795690210,
+      "updatedAt": 1780795690210,
+      "status": "active"
+    },
     {
       "id": "local-1780794794805",
       "text": "alelouya",
@@ -77,7 +91,7 @@
   ],
   "likeCount": 4,
   "shareCount": 6,
-  "viewCount": 1541,
+  "viewCount": 1600,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
