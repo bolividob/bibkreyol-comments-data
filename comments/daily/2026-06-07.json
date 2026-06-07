@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780863302550,
+  "updatedAt": 1780866828076,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780840529957",
+      "text": "dk",
+      "userDeviceId": "98140a8ef49ef2685a086962c668013f510ce190d0cca98d542866996c2cf4fd",
+      "userName": "Montelus",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780866827377,
+      "updatedAt": 1780866827377,
+      "status": "active"
+    },
     {
       "id": "local-1780862499328",
       "text": "robert",
@@ -257,9 +271,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 155,
-  "viewCount": 18519,
+  "likeCount": 54,
+  "shareCount": 163,
+  "viewCount": 19502,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
@@ -309,7 +323,12 @@
     "1794e0080a474f1bd106cea2a88fd682c1d3041782385a98e5c7553e5f4aaf02",
     "5f374a53cd08efec9f3eb15f63114d44fcb6f0e29e1eafc1c416a21a7df86b97",
     "20cc0f2b857ee69ed068e4fef0ebb3c15d4fa22f88fbc0e004320ea69b15cb29",
-    "08a84d46e011ec9851eb1b00270e10ace17c5e76059bb5b5d3275642ee341017"
+    "08a84d46e011ec9851eb1b00270e10ace17c5e76059bb5b5d3275642ee341017",
+    "9598fc42c77eac05b4a229f8eb962b557f2a600f13ff1833c81dde764471a3cd",
+    "98140a8ef49ef2685a086962c668013f510ce190d0cca98d542866996c2cf4fd",
+    "8f809ac27f6c409ea8c9511ab027d0a84739c758a98ab3f3d5ac247af5b7c4ff",
+    "73e950cef618065c1968c8dbc950c78383c7a3bf52dd46cc33abf304850d9727",
+    "808468317b120a32b125872ff8cdd74f1174e8bb29367f90f1ae7a626ad67377"
   ],
   "verseViewBy": []
 }
