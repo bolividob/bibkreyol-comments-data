@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780859997776,
+  "updatedAt": 1780863302550,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780862499328",
+      "text": "robert",
+      "userDeviceId": "18e63c42e3a027aa103cdac96ef31b44ab66010b80acbc82fc83b335a06676f9",
+      "userName": "robert",
+      "verseName": "1 Timote 3:5",
+      "parentId": "local-1780836049326",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780863302549,
+      "updatedAt": 1780863302549,
+      "status": "active"
+    },
     {
       "id": "local-1780841482199",
       "text": "amén 🙏🙏🙏🙏",
@@ -25,11 +39,11 @@
       "userName": "yollande",
       "verseName": "1 Timote 3:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780838184077,
-      "updatedAt": 1780838184077,
+      "updatedAt": 1780863302549,
       "status": "active"
     },
     {
@@ -244,8 +258,8 @@
     }
   ],
   "likeCount": 49,
-  "shareCount": 147,
-  "viewCount": 17531,
+  "shareCount": 155,
+  "viewCount": 18519,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
