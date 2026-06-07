@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780838184377,
+  "updatedAt": 1780848762777,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780841482199",
+      "text": "amén 🙏🙏🙏🙏",
+      "userDeviceId": "1794e0080a474f1bd106cea2a88fd682c1d3041782385a98e5c7553e5f4aaf02",
+      "userName": "ana💗🙏",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780848762476,
+      "updatedAt": 1780848762476,
+      "status": "active"
+    },
     {
       "id": "local-1780836049326",
       "text": "merci pou parôl la",
@@ -229,9 +243,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 96,
-  "viewCount": 9680,
+  "likeCount": 46,
+  "shareCount": 99,
+  "viewCount": 10670,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
@@ -275,7 +289,10 @@
     "371488426d7f753214d20d43bfb211b979134c38013f57a3c8f09e135a1f5984",
     "ca1cb7cb7bccd9d36e935e89601e02d27e6966a04af4d3434bf16f8213dc9747",
     "eb19111d1b32cd339eff3f5dfaa66eb8145d211ef527eedf0d51267129bca41a",
-    "00a395478c178048464c5e901566d02ec2a09013ef63550ef9783ebd6ae683b0"
+    "00a395478c178048464c5e901566d02ec2a09013ef63550ef9783ebd6ae683b0",
+    "3ddd4446731350347f8160e1b797c32728531b6082c789c651f5c799f9646b7f",
+    "604e98bcc59622afd5193bd99fec3ad8aa9dcea352ea2286cceddfcecd7bffff",
+    "1794e0080a474f1bd106cea2a88fd682c1d3041782385a98e5c7553e5f4aaf02"
   ],
   "verseViewBy": []
 }
