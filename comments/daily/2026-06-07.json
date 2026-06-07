@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780803019744,
+  "updatedAt": 1780803126836,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780803095540",
+      "text": "lavi nn pawòl BD a",
+      "userDeviceId": "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+      "userName": "Marcline Elie",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780803126836,
+      "updatedAt": 1780803126836,
+      "status": "active"
+    },
     {
       "id": "local-1780795596236",
       "text": "Som 91",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 18,
-  "viewCount": 3549,
+  "likeCount": 14,
+  "shareCount": 19,
+  "viewCount": 3584,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
@@ -118,7 +132,9 @@
     "b09ef7590cce9883499194d8c706e6b2f2e7d90937370593fbd42420f4140b0e",
     "abe4c16523c0f0caf6baa5b135ed14dedf1f34cec2eba5deafb55e210c0131fa",
     "51b52fb501ae4c64b45d9b60fe354315266d2c626c01c9cbf6830557919519a3",
-    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "cd91cf675a465568dd16b9cb215097970e03ff3c42af7be67badab70712e5f07",
+    "559523733b2be20522a6f695d70c2c71dd0e24eba2b0397f577568bb2cce99d8"
   ],
   "verseViewBy": []
 }
