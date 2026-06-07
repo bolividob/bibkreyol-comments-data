@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780794498774,
+  "updatedAt": 1780794675384,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780793713129",
+      "text": "tout glwapou",
+      "userDeviceId": "e9234e3002ce6367b5a2e3ee524c33c025fb9a5bb9ef864a7e2bdc15c8d068a0",
+      "userName": "maestro Auchel aristil",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780794675384,
+      "updatedAt": 1780794675384,
+      "status": "active"
+    },
     {
       "id": "local-1780793153211",
       "text": "amèn premye kote legliz BNDYE a ye se lakay la",
@@ -34,8 +48,8 @@
     }
   ],
   "likeCount": 2,
-  "shareCount": 4,
-  "viewCount": 1057,
+  "shareCount": 5,
+  "viewCount": 1143,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb"
