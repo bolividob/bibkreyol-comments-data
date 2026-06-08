@@ -1,9 +1,65 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780910870954,
+  "updatedAt": 1780917550096,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780867153244",
+      "text": "Amen",
+      "userDeviceId": "f7be62c5256f957e979a4f45af783449d90625533e0b200343f3c2aa9a9abd97",
+      "userName": "Amèn",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780917550096,
+      "updatedAt": 1780917550096,
+      "status": "active"
+    },
+    {
+      "id": "local-1780867165541",
+      "text": "Amén",
+      "userDeviceId": "f7be62c5256f957e979a4f45af783449d90625533e0b200343f3c2aa9a9abd97",
+      "userName": "Amèn",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780917550096,
+      "updatedAt": 1780917550096,
+      "status": "active"
+    },
+    {
+      "id": "local-1780841395370",
+      "text": "amèn",
+      "userDeviceId": "f58ad0785487f8dd064bf38b55f54548331a8077f442e1f4b1cf6de811023a02",
+      "userName": "Jean Djeff chery",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780917550092,
+      "updatedAt": 1780917550092,
+      "status": "active"
+    },
+    {
+      "id": "local-1780841408473",
+      "text": "amèn wiiiiiiii",
+      "userDeviceId": "f58ad0785487f8dd064bf38b55f54548331a8077f442e1f4b1cf6de811023a02",
+      "userName": "Jean Djeff chery",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780917550092,
+      "updatedAt": 1780917550092,
+      "status": "active"
+    },
     {
       "id": "local-1780847536864",
       "text": "amen amen amen",
@@ -317,9 +373,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 251,
-  "viewCount": 34233,
+  "likeCount": 67,
+  "shareCount": 260,
+  "viewCount": 35191,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
@@ -385,7 +441,9 @@
     "bb5a7c7a1ab7621c11c0310cf882506ce53cc93fac8ee382e1cc3680a8ae99ab",
     "ec4083ec2556cb23e06adeb0805d4755cd8f3133bc71397b0b22811352309718",
     "e10b4986869807ac6f2e4f37ca7a23c3b128442c5951c7ee70192f7dd946733e",
-    "d4e95855d3018c07c19d93713fe9bd4fff9ffd26833638352c9dc7c8df5cf5e4"
+    "d4e95855d3018c07c19d93713fe9bd4fff9ffd26833638352c9dc7c8df5cf5e4",
+    "f120e6c5da22ad7ed3227f02db30630c606664a6d1a9d7b70d1426e202e52285",
+    "f92f57f1107663f500bcd9497d2c2a74b51d8f4cb615399647d2c5d18cca305a"
   ],
   "verseViewBy": []
 }
