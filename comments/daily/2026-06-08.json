@@ -1,9 +1,23 @@
 {
   "date": "2026-06-08",
   "verseKey": "daily:2026-06-08",
-  "updatedAt": 1780888459818,
+  "updatedAt": 1780888758955,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780888596467",
+      "text": "amèn",
+      "userDeviceId": "473d7b484f312584adac1e67df5d06eaac8e6d8fa118cb19b04441d5c1c14daa",
+      "userName": "carina",
+      "verseName": "Lik 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780888758955,
+      "updatedAt": 1780888758955,
+      "status": "active"
+    },
     {
       "id": "local-1780885074093",
       "text": "Amén y amén",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 5,
-  "shareCount": 13,
-  "viewCount": 1895,
+  "shareCount": 15,
+  "viewCount": 2019,
   "verseLikedBy": [
     "4f67f25fdeec50828dce64d171444bf2a50dbec7cf2be7c3a8d5ead6697dcd09",
     "4c0f239d2cf701e755d5b31c7c8d53087c25f85b0ad7c12fbdfb1a6ee51d1a8e",
