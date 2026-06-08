@@ -1,9 +1,37 @@
 {
   "date": "2026-06-08",
   "verseKey": "daily:2026-06-08",
-  "updatedAt": 1780945446768,
+  "updatedAt": 1780945577666,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780945440132",
+      "text": "yo panse fè mwen lèm va panse Yon byen se Pou tet sa bondye mani festem",
+      "userDeviceId": "e09634379f098445c5fc344ac4fb6d776006e845dc675007357fafd2d0322688",
+      "userName": "pitit jezi",
+      "verseName": "Lik 5:1",
+      "parentId": "local-1780932159544",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780945577666,
+      "updatedAt": 1780945577666,
+      "status": "active"
+    },
+    {
+      "id": "local-1780945479985",
+      "text": "mwen trèbyen gras adye epouw sèm",
+      "userDeviceId": "e09634379f098445c5fc344ac4fb6d776006e845dc675007357fafd2d0322688",
+      "userName": "pitit jezi",
+      "verseName": "Lik 5:1",
+      "parentId": "local-1780923969819",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780945577666,
+      "updatedAt": 1780945577666,
+      "status": "active"
+    },
     {
       "id": "local-1780932159544",
       "text": "Benie soit L'eternel mon Rocher",
@@ -11,11 +39,11 @@
       "userName": "Berline Pierre",
       "verseName": "Lik 5:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780932187174,
-      "updatedAt": 1780932187174,
+      "updatedAt": 1780945577666,
       "status": "active"
     },
     {
@@ -25,11 +53,11 @@
       "userName": "volcy",
       "verseName": "Lik 5:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780931473560,
-      "updatedAt": 1780940406196,
+      "updatedAt": 1780945577666,
       "status": "active"
     },
     {
@@ -89,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 35,
+  "likeCount": 36,
   "shareCount": 60,
-  "viewCount": 8150,
+  "viewCount": 8174,
   "verseLikedBy": [
     "4f67f25fdeec50828dce64d171444bf2a50dbec7cf2be7c3a8d5ead6697dcd09",
     "4c0f239d2cf701e755d5b31c7c8d53087c25f85b0ad7c12fbdfb1a6ee51d1a8e",
@@ -127,7 +155,8 @@
     "05e8c83b6aeae07fe32407ff17e612b9d247b65b180e5513cf65cf58cdb2a0c3",
     "180de5d8bb820b479f132f196c4d45bfcd8d5b066092f49979b57ea11552a5fc",
     "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19",
-    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c"
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "d6fce277211b55ef27e84d6b82bcc3fce880c64428d27bfeb34290d2260e7170"
   ],
   "verseViewBy": []
 }
