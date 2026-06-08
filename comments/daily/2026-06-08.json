@@ -1,9 +1,23 @@
 {
   "date": "2026-06-08",
   "verseKey": "daily:2026-06-08",
-  "updatedAt": 1780932078913,
+  "updatedAt": 1780932187174,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780932159544",
+      "text": "Benie soit L'eternel mon Rocher",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Lik 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780932187174,
+      "updatedAt": 1780932187174,
+      "status": "active"
+    },
     {
       "id": "local-1780923969819",
       "text": "komanw ye fr",
@@ -75,9 +89,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 20,
+  "likeCount": 21,
   "shareCount": 49,
-  "viewCount": 5311,
+  "viewCount": 5326,
   "verseLikedBy": [
     "4f67f25fdeec50828dce64d171444bf2a50dbec7cf2be7c3a8d5ead6697dcd09",
     "4c0f239d2cf701e755d5b31c7c8d53087c25f85b0ad7c12fbdfb1a6ee51d1a8e",
@@ -98,7 +112,8 @@
     "dd7e453d217008f7b75a73c1fc22c5bdf24f874c1ad0fa252e5cc9db4fea7ee8",
     "68b57da4dc2b8785d106bf03b0f26cb75ecd979813f907cba1e3ca430b3160b6",
     "6c63e796c39fa65eea1f11c19816d1b4f7ecbfac821d16f0a3a54241802816c2",
-    "2d61d5e37cf8e88ae6f63e21813acafc8838843552c696eaec7e4bf045b46096"
+    "2d61d5e37cf8e88ae6f63e21813acafc8838843552c696eaec7e4bf045b46096",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
