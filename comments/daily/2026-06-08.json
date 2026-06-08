@@ -1,9 +1,23 @@
 {
   "date": "2026-06-08",
   "verseKey": "daily:2026-06-08",
-  "updatedAt": 1780956008166,
+  "updatedAt": 1780956133580,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780955749631",
+      "text": "glwa a Dye",
+      "userDeviceId": "268ad5961d33b9e36ff1bf54d08c15016b5235dc9cf4ebdca11cd1c4df663474",
+      "userName": "vitaljocelene",
+      "verseName": "Lik 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780956133580,
+      "updatedAt": 1780956133580,
+      "status": "active"
+    },
     {
       "id": "local-1780945440132",
       "text": "yo panse fè mwen lèm va panse Yon byen se Pou tet sa bondye mani festem",
@@ -119,7 +133,7 @@
   ],
   "likeCount": 46,
   "shareCount": 74,
-  "viewCount": 10252,
+  "viewCount": 10284,
   "verseLikedBy": [
     "4f67f25fdeec50828dce64d171444bf2a50dbec7cf2be7c3a8d5ead6697dcd09",
     "4c0f239d2cf701e755d5b31c7c8d53087c25f85b0ad7c12fbdfb1a6ee51d1a8e",
