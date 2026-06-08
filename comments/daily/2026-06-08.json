@@ -1,17 +1,33 @@
 {
   "date": "2026-06-08",
   "verseKey": "daily:2026-06-08",
-  "updatedAt": 1780884913692,
+  "updatedAt": 1780885092926,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
+  "comments": [
+    {
+      "id": "local-1780885074093",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Lik 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780885092926,
+      "updatedAt": 1780885092926,
+      "status": "active"
+    }
+  ],
+  "likeCount": 5,
   "shareCount": 10,
-  "viewCount": 1477,
+  "viewCount": 1556,
   "verseLikedBy": [
     "4f67f25fdeec50828dce64d171444bf2a50dbec7cf2be7c3a8d5ead6697dcd09",
     "4c0f239d2cf701e755d5b31c7c8d53087c25f85b0ad7c12fbdfb1a6ee51d1a8e",
     "0bafc34a669ed61dafdb48fe474fb6e8fdac398d7fb52fe68936e89fd7bd2b08",
-    "aea45fe2f346e169c1ce2049a211726f03e5fbb2a5f3cefc14cbbc43b305c544"
+    "aea45fe2f346e169c1ce2049a211726f03e5fbb2a5f3cefc14cbbc43b305c544",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
