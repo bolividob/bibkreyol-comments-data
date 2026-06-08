@@ -1,9 +1,23 @@
 {
   "date": "2026-06-07",
   "verseKey": "daily:2026-06-07",
-  "updatedAt": 1780906520993,
+  "updatedAt": 1780910702816,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780847536864",
+      "text": "amen amen amen",
+      "userDeviceId": "e44535d984704f149a440ffe8455fe6e26fc93c6ce6a51d460075a3274e3a68e",
+      "userName": "Merantil Jn similien",
+      "verseName": "1 Timote 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780910702816,
+      "updatedAt": 1780910702816,
+      "status": "active"
+    },
     {
       "id": "local-1780870680473",
       "text": "amèn gen lavi nan pawòl bondye 📢📢",
@@ -303,9 +317,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 235,
-  "viewCount": 32307,
+  "likeCount": 65,
+  "shareCount": 243,
+  "viewCount": 33270,
   "verseLikedBy": [
     "fc2c29db7ba17c7e2dc9d98b4197daba7bbcc5238ed9e7903f1acb43e366f434",
     "6adc0c9d21a627caaddb04575cf5b2e27ef2ee6a21313d77327951c43ed152bb",
@@ -368,7 +382,10 @@
     "b66e3fee37bf5925dd6947595020715749442e5d64c40908cbc19a0e53007697",
     "a3ed2a78328fd3efc4102e7f4e100b84c6486a6c47e033e013d530ea830360ed",
     "bd05323f95af5068c9a018767216cb10652bf6f58e79b5217d6efa56ffd72bda",
-    "bb5a7c7a1ab7621c11c0310cf882506ce53cc93fac8ee382e1cc3680a8ae99ab"
+    "bb5a7c7a1ab7621c11c0310cf882506ce53cc93fac8ee382e1cc3680a8ae99ab",
+    "ec4083ec2556cb23e06adeb0805d4755cd8f3133bc71397b0b22811352309718",
+    "d4e95855d3018c07c19d93713fe9bd4fff9ffd26833638352c9dc7c8df5cf5e4",
+    "e10b4986869807ac6f2e4f37ca7a23c3b128442c5951c7ee70192f7dd946733e"
   ],
   "verseViewBy": []
 }
