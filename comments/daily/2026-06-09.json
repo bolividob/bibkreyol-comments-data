@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1781013796012,
+  "updatedAt": 1781013918813,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781017331988",
+      "text": "merci papa pou gras ou",
+      "userDeviceId": "b75123f140a35d26307340c6abd0446327dcad8a3da5240e9de67403861d0a14",
+      "userName": "junior musac",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781013918813,
+      "updatedAt": 1781013918813,
+      "status": "active"
+    },
     {
       "id": "local-1781008804937",
       "text": "amen tut glwa pou jzi",
@@ -40,10 +54,12 @@
       "verseName": "2 Kwonik 10:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "b75123f140a35d26307340c6abd0446327dcad8a3da5240e9de67403861d0a14"
+      ],
       "createdAt": 1781007255671,
-      "updatedAt": 1781007255671,
+      "updatedAt": 1781013918813,
       "status": "active"
     },
     {
@@ -68,10 +84,12 @@
       "verseName": "2 Kwonik 10:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "b75123f140a35d26307340c6abd0446327dcad8a3da5240e9de67403861d0a14"
+      ],
       "createdAt": 1781001729697,
-      "updatedAt": 1781001729697,
+      "updatedAt": 1781013918813,
       "status": "active"
     },
     {
@@ -166,10 +184,12 @@
       "verseName": "2 Kwonik 10:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "b75123f140a35d26307340c6abd0446327dcad8a3da5240e9de67403861d0a14"
+      ],
       "createdAt": 1780986027029,
-      "updatedAt": 1780986027029,
+      "updatedAt": 1781013918813,
       "status": "active"
     },
     {
@@ -180,13 +200,14 @@
       "verseName": "2 Kwonik 10:4",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be",
-        "3d75193cc791ec2dc35c1cac8b148602758f6e57cca4fc941cbc30f6c3763c8f"
+        "3d75193cc791ec2dc35c1cac8b148602758f6e57cca4fc941cbc30f6c3763c8f",
+        "b75123f140a35d26307340c6abd0446327dcad8a3da5240e9de67403861d0a14"
       ],
       "createdAt": 1780985524866,
-      "updatedAt": 1780988053827,
+      "updatedAt": 1781013918813,
       "status": "active"
     },
     {
@@ -321,8 +342,8 @@
     }
   ],
   "likeCount": 60,
-  "shareCount": 147,
-  "viewCount": 9980,
+  "shareCount": 149,
+  "viewCount": 10007,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
