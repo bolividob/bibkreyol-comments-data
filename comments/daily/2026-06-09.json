@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1781001609016,
+  "updatedAt": 1781001729697,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781001709725",
+      "text": "papa se pu gras ou pa janm sispann kuvri avèk tut pitit mwn yo",
+      "userDeviceId": "b777df112a2a628ef66acabba470b73611658fbf9b2bf173a3ba564dce2914ba",
+      "userName": "Dachoue",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781001729697,
+      "updatedAt": 1781001729697,
+      "status": "active"
+    },
     {
       "id": "local-1781000858305",
       "text": "amen",
@@ -250,9 +264,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 41,
-  "shareCount": 77,
-  "viewCount": 7111,
+  "likeCount": 42,
+  "shareCount": 78,
+  "viewCount": 7152,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
@@ -294,7 +308,8 @@
     "d965c3c8f93ab50ab4702f3b42cff30227fe9e2e42c948f7d5b68d60fdb9ff7c",
     "1bd00c423de2c4c12fe8e8d0481fcc7084073f2e74a75005aa8f2b4938203dcf",
     "88cacd719712f5f9d33cdf6a398525d2ebfbc2aa413b255e808672a02dc52121",
-    "11b6c2cc2e7dfe93d0d40d93ddf353a6534bf1db0f41444fea4a5292d1c75082"
+    "11b6c2cc2e7dfe93d0d40d93ddf353a6534bf1db0f41444fea4a5292d1c75082",
+    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414"
   ],
   "verseViewBy": []
 }
