@@ -1,9 +1,37 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780987802657,
+  "updatedAt": 1780988053827,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780987916929",
+      "text": "Bib Kreyol aprove komante sa",
+      "userDeviceId": "465f224dc048d57e1c90312a2cc02a5b0cb62ee6a997da38c8f7691bbc2a827c",
+      "userName": "Bok",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": "local-1780985492427",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780988053827,
+      "updatedAt": 1780988053827,
+      "status": "active"
+    },
+    {
+      "id": "local-1780987969312",
+      "text": "Pre laksa",
+      "userDeviceId": "465f224dc048d57e1c90312a2cc02a5b0cb62ee6a997da38c8f7691bbc2a827c",
+      "userName": "Bok",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780988053827,
+      "updatedAt": 1780988053827,
+      "status": "active"
+    },
     {
       "id": "local-1780986013904",
       "text": "Amén y amén",
@@ -25,13 +53,14 @@
       "userName": "TESSIER Marc",
       "verseName": "2 Kwonik 10:4",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 1,
+      "replyCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be"
+        "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be",
+        "3d75193cc791ec2dc35c1cac8b148602758f6e57cca4fc941cbc30f6c3763c8f"
       ],
       "createdAt": 1780985524866,
-      "updatedAt": 1780985524866,
+      "updatedAt": 1780988053827,
       "status": "active"
     },
     {
@@ -59,7 +88,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1780975878195,
-      "updatedAt": 1780975878195,
+      "updatedAt": 1780988053827,
       "status": "active"
     },
     {
@@ -145,7 +174,7 @@
         "54aea876cb115a54d0d1c38c355432d9f9bd3d29fa56d251b9b8b555488f6729"
       ],
       "createdAt": 1780967724580,
-      "updatedAt": 1780968729614,
+      "updatedAt": 1780988053827,
       "status": "active"
     },
     {
@@ -167,7 +196,7 @@
   ],
   "likeCount": 24,
   "shareCount": 31,
-  "viewCount": 5041,
+  "viewCount": 5060,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
