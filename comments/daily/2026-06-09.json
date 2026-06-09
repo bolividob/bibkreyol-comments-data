@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780974859431,
+  "updatedAt": 1780975162265,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780974976959",
+      "text": "Merci Seigneur Jesus Merci",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780975162265,
+      "updatedAt": 1780975162265,
+      "status": "active"
+    },
     {
       "id": "local-1780974184961",
       "text": "amén amén amén",
@@ -94,8 +108,8 @@
     }
   ],
   "likeCount": 10,
-  "shareCount": 14,
-  "viewCount": 3073,
+  "shareCount": 15,
+  "viewCount": 3207,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
