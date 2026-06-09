@@ -1,9 +1,25 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780985402960,
+  "updatedAt": 1780985524866,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780985492427",
+      "text": "papa pèmèt m viv byen nan peyi m",
+      "userDeviceId": "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be",
+      "userName": "TESSIER Marc",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be"
+      ],
+      "createdAt": 1780985524866,
+      "updatedAt": 1780985524866,
+      "status": "active"
+    },
     {
       "id": "local-1780980348034",
       "text": "𝑨𝑴𝑬𝑵",
@@ -135,9 +151,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
+  "likeCount": 23,
   "shareCount": 27,
-  "viewCount": 4890,
+  "viewCount": 4899,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
@@ -160,7 +176,8 @@
     "b25cd2f34ce5b594ee75b042092708b52fecc58af7d2715707555b364f6a6e64",
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "a5723abf9a15c85f009e361828539609bcc0b426380310f91ab871b6c84cdc0a",
-    "4bde507f196df8134afc10f53a6797b7dcbc66d6b97b47981e0411ff35fc5667"
+    "4bde507f196df8134afc10f53a6797b7dcbc66d6b97b47981e0411ff35fc5667",
+    "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be"
   ],
   "verseViewBy": []
 }
