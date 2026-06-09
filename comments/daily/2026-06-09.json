@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1781034627018,
+  "updatedAt": 1781036011935,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781035619620",
+      "text": "bib kreyòl",
+      "userDeviceId": "83fc50ec6b3fe7f603ca79b777f9a1ccf0a2f726e682e0319ad60defe76c431d",
+      "userName": "sr dalman",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781036011935,
+      "updatedAt": 1781036011935,
+      "status": "active"
+    },
     {
       "id": "local-1781034196672",
       "text": "bondye",
@@ -45,7 +59,7 @@
         "022803b0857112b9bdef0e735407ab86aa25083a42be5ab91ae48536c0500620"
       ],
       "createdAt": 1781028498607,
-      "updatedAt": 1781034627017,
+      "updatedAt": 1781036011935,
       "status": "active"
     },
     {
@@ -62,7 +76,7 @@
         "022803b0857112b9bdef0e735407ab86aa25083a42be5ab91ae48536c0500620"
       ],
       "createdAt": 1781024230419,
-      "updatedAt": 1781034627018,
+      "updatedAt": 1781036011935,
       "status": "active"
     },
     {
@@ -79,7 +93,7 @@
         "022803b0857112b9bdef0e735407ab86aa25083a42be5ab91ae48536c0500620"
       ],
       "createdAt": 1781022500048,
-      "updatedAt": 1781034627018,
+      "updatedAt": 1781036011935,
       "status": "active"
     },
     {
@@ -471,7 +485,7 @@
   ],
   "likeCount": 85,
   "shareCount": 208,
-  "viewCount": 14536,
+  "viewCount": 14597,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
