@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780980245035,
+  "updatedAt": 1780980364134,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780980348034",
+      "text": "𝑨𝑴𝑬𝑵",
+      "userDeviceId": "2cbda158365997d57d67dd34a803ac44f9ce53c7099ccb1ee088fe2c33af32ed",
+      "userName": "kenson",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780980364134,
+      "updatedAt": 1780980364134,
+      "status": "active"
+    },
     {
       "id": "local-1780975642040",
       "text": "tout gloua est à Dieu",
@@ -121,9 +135,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 17,
-  "shareCount": 22,
-  "viewCount": 4367,
+  "likeCount": 18,
+  "shareCount": 24,
+  "viewCount": 4381,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
@@ -141,7 +155,8 @@
     "17e515842402286e788aba1e7cfde00bac6576161883ab4815ee725e9290f1b7",
     "f18649b597d00fdab815212ef6a57b2308c0d1d19722b85c89c6e9baf96ad0e5",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
-    "4cd7ab9df9cca6857775b28d23f0cf92570e47ce307305a4e5784dcfa2ba896e"
+    "4cd7ab9df9cca6857775b28d23f0cf92570e47ce307305a4e5784dcfa2ba896e",
+    "2cbda158365997d57d67dd34a803ac44f9ce53c7099ccb1ee088fe2c33af32ed"
   ],
   "verseViewBy": []
 }
