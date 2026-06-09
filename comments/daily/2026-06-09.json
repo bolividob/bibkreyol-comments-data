@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1781007732872,
+  "updatedAt": 1781007852081,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781007769866",
+      "text": "Amen",
+      "userDeviceId": "ecedccd644a9f5c9f77c0dd6575f07de5ad1d0a93755b6e71e26b675476559a8",
+      "userName": "Ashley",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781007852081,
+      "updatedAt": 1781007852081,
+      "status": "active"
+    },
     {
       "id": "local-1780971342105",
       "text": "BnDye Beniw",
@@ -292,9 +306,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
+  "likeCount": 53,
   "shareCount": 128,
-  "viewCount": 8671,
+  "viewCount": 8697,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
@@ -346,7 +360,9 @@
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "5a9b4d9f3b5797d47c9dbb9aa54248d5b5f3f3d05f551025daa9a614bf276e22",
     "de38360b148ac3a091f2a43f61b8493a69c309f0327431e3302a2b81edb55d98",
-    "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227"
+    "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
+    "ecedccd644a9f5c9f77c0dd6575f07de5ad1d0a93755b6e71e26b675476559a8",
+    "f5be4f299c8158f95454c08e2a20cbaa7f426ea0e0826005ad4dd5c2af8f9d37"
   ],
   "verseViewBy": []
 }
