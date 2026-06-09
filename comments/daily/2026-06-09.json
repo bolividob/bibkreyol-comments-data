@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780969514660,
+  "updatedAt": 1780971077791,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780970654765",
+      "text": "Merci seigneur 🙏🙏",
+      "userDeviceId": "b8e696359e29394ebe40492394984d0ad0da8d4d41d6f148343de8ccdd641611",
+      "userName": "mersline",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780971077791,
+      "updatedAt": 1780971077791,
+      "status": "active"
+    },
     {
       "id": "local-1780969253689",
       "text": "merçi mondieu 🙏",
@@ -52,8 +66,8 @@
     }
   ],
   "likeCount": 9,
-  "shareCount": 11,
-  "viewCount": 1959,
+  "shareCount": 12,
+  "viewCount": 2059,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
