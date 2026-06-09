@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780985905213,
+  "updatedAt": 1780986027029,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780986013904",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780986027029,
+      "updatedAt": 1780986027029,
+      "status": "active"
+    },
     {
       "id": "local-1780985492427",
       "text": "papa pèmèt m viv byen nan peyi m",
@@ -151,9 +165,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 23,
-  "shareCount": 27,
-  "viewCount": 4920,
+  "likeCount": 24,
+  "shareCount": 29,
+  "viewCount": 4933,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
@@ -177,7 +191,8 @@
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "a5723abf9a15c85f009e361828539609bcc0b426380310f91ab871b6c84cdc0a",
     "4bde507f196df8134afc10f53a6797b7dcbc66d6b97b47981e0411ff35fc5667",
-    "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be"
+    "b891aca06b7a94ace9a96122b214c2d2dba1f4db26596be82969c09e5eafc4be",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
