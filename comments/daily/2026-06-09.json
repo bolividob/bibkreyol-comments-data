@@ -1,9 +1,37 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1781028112988,
+  "updatedAt": 1781028498607,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781028120972",
+      "text": "salut",
+      "userDeviceId": "6009c819ae538d88c8c33958a20f4d5c3d4e4164e78e8e4c65caf2d04cc07327",
+      "userName": "sterline Thomas",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781028498607,
+      "updatedAt": 1781028498607,
+      "status": "active"
+    },
+    {
+      "id": "local-1781028132895",
+      "text": "salut",
+      "userDeviceId": "6009c819ae538d88c8c33958a20f4d5c3d4e4164e78e8e4c65caf2d04cc07327",
+      "userName": "sterline Thomas",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781028498607,
+      "updatedAt": 1781028498607,
+      "status": "active"
+    },
     {
       "id": "local-1781024141794",
       "text": "mesaj sa se pou mwen",
@@ -424,8 +452,8 @@
     }
   ],
   "likeCount": 80,
-  "shareCount": 192,
-  "viewCount": 13420,
+  "shareCount": 196,
+  "viewCount": 13496,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
