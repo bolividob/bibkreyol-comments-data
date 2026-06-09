@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1781041686214,
+  "updatedAt": 1781041806974,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781041708036",
+      "text": "mesi anpil senye Jesús",
+      "userDeviceId": "139fb4270b19381e4836109ce42a67f07c6c8bb38f9e485bd150e3be02f39f7e",
+      "userName": "marie Augustin femme de Dieu",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781041806973,
+      "updatedAt": 1781041806973,
+      "status": "active"
+    },
     {
       "id": "local-1781035619620",
       "text": "bib kreyòl",
@@ -487,7 +501,7 @@
   ],
   "likeCount": 90,
   "shareCount": 216,
-  "viewCount": 15854,
+  "viewCount": 15887,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
