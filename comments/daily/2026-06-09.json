@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780997954856,
+  "updatedAt": 1780998065340,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780997976901",
+      "text": "Amèn",
+      "userDeviceId": "3b9a662e19e1a2b1b9950a040f1262f34f5b35b0d907f49f0743ab41960475b8",
+      "userName": "Schmivenska",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780998065340,
+      "updatedAt": 1780998065340,
+      "status": "active"
+    },
     {
       "id": "local-1780997512899",
       "text": "amén 🙏",
@@ -224,7 +238,7 @@
   ],
   "likeCount": 33,
   "shareCount": 52,
-  "viewCount": 6167,
+  "viewCount": 6190,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
