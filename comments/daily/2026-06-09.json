@@ -1,12 +1,27 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780965069744,
+  "updatedAt": 1780965198638,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1780965159106",
+      "text": "❤️❤️",
+      "userDeviceId": "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+      "userName": "Marcline Elie",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780965198638,
+      "updatedAt": 1780965198638,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
-  "shareCount": 2,
-  "viewCount": 590,
+  "shareCount": 3,
+  "viewCount": 659,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81"
   ],
