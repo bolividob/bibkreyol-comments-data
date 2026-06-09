@@ -1,9 +1,37 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1780972465901,
+  "updatedAt": 1780974682331,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1780974184961",
+      "text": "amén amén amén",
+      "userDeviceId": "322960171edfcca9600a1f13f9ca893ca624f99631cbe42ea544c63d44cc400f",
+      "userName": "Carmen la hija del rey",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780974682331,
+      "updatedAt": 1780974682331,
+      "status": "active"
+    },
+    {
+      "id": "local-1780974436444",
+      "text": "bon travail",
+      "userDeviceId": "347d9ec9c288b3eaa0f670ac7266e64f3d80431b5e28e9d47f92fc422256acdd",
+      "userName": "fr.joseph paulin",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1780974682331,
+      "updatedAt": 1780974682331,
+      "status": "active"
+    },
     {
       "id": "local-1780970654765",
       "text": "Merci seigneur 🙏🙏",
@@ -67,7 +95,7 @@
   ],
   "likeCount": 10,
   "shareCount": 14,
-  "viewCount": 2847,
+  "viewCount": 2982,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
