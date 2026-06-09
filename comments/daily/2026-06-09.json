@@ -1,9 +1,23 @@
 {
   "date": "2026-06-09",
   "verseKey": "daily:2026-06-09",
-  "updatedAt": 1781008807265,
+  "updatedAt": 1781008944163,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781008804937",
+      "text": "amen tut glwa pou jzi",
+      "userDeviceId": "76cb3e7670535da5c54528201383e7973683bd54a203c3c9fd7638fafab9bab0",
+      "userName": "Aby",
+      "verseName": "2 Kwonik 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781008944163,
+      "updatedAt": 1781008944163,
+      "status": "active"
+    },
     {
       "id": "local-1781007769866",
       "text": "Amen",
@@ -307,8 +321,8 @@
     }
   ],
   "likeCount": 54,
-  "shareCount": 132,
-  "viewCount": 8917,
+  "shareCount": 133,
+  "viewCount": 8952,
   "verseLikedBy": [
     "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
     "99061d2aac96b8cff39407bc5fedaa021901480f7503f01d7283f1f524878b0a",
