@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781090168689,
+  "updatedAt": 1781090287571,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781089816509",
+      "text": "amen",
+      "userDeviceId": "f1ae4a55c6186feb4da7a9ee6ea23b0c13ea0beb132b0bd19f9139446a5d3eed",
+      "userName": "jhonny",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781090287571,
+      "updatedAt": 1781090287571,
+      "status": "active"
+    },
     {
       "id": "local-1781084730224",
       "text": "Amén",
@@ -174,7 +188,7 @@
   ],
   "likeCount": 43,
   "shareCount": 96,
-  "viewCount": 7245,
+  "viewCount": 7271,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
