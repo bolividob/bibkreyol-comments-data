@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781114525567,
+  "updatedAt": 1781114658678,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781114599244",
+      "text": "Hey, ki email ou?",
+      "userDeviceId": "3d75193cc791ec2dc35c1cac8b148602758f6e57cca4fc941cbc30f6c3763c8f",
+      "userName": "Charles Barkley",
+      "verseName": "Jonas 3:5",
+      "parentId": "local-1781104864975",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781114658678,
+      "updatedAt": 1781114658678,
+      "status": "active"
+    },
     {
       "id": "local-1781104864975",
       "text": "merci Jesucrist 🙏🙏🤝♥️👀👄",
@@ -11,11 +25,13 @@
       "userName": "keicha",
       "verseName": "Jonas 3:5",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "3d75193cc791ec2dc35c1cac8b148602758f6e57cca4fc941cbc30f6c3763c8f"
+      ],
       "createdAt": 1781104994486,
-      "updatedAt": 1781104994486,
+      "updatedAt": 1781114658678,
       "status": "active"
     },
     {
@@ -259,8 +275,8 @@
     }
   ],
   "likeCount": 71,
-  "shareCount": 187,
-  "viewCount": 12845,
+  "shareCount": 188,
+  "viewCount": 12869,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
