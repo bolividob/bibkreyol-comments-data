@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781082364840,
+  "updatedAt": 1781082616825,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781059488392",
+      "text": "God bless ya!",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781082616825,
+      "updatedAt": 1781082616825,
+      "status": "active"
+    },
     {
       "id": "local-1781079493676",
       "text": "Amen amen amen amen amen amen",
@@ -110,9 +124,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
+  "likeCount": 32,
   "shareCount": 69,
-  "viewCount": 5858,
+  "viewCount": 5906,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
@@ -144,7 +158,8 @@
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "af1247956bec95ded7daa6535ce2d8eb84acb0bfce3f3420ef647defcb6d4e49",
     "4dfe531c9aea9ccb3716c50fffea2e23d2c01d461a4a552aea86eb9e83ad39e9",
-    "ebaf0eb44ecd630db849c7a57f2f6c51f3bb3bfc6a7688de55f1982adc1dcfa8"
+    "ebaf0eb44ecd630db849c7a57f2f6c51f3bb3bfc6a7688de55f1982adc1dcfa8",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
