@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781135183197,
+  "updatedAt": 1781135357930,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781135320419",
+      "text": "amèn Alelouya",
+      "userDeviceId": "cc564507324efe1fa39963137861a084d93d60a0bd6aca4703f86d2549112ae6",
+      "userName": "lourdinapierre95@gmail.com",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781135357929,
+      "updatedAt": 1781135357929,
+      "status": "active"
+    },
     {
       "id": "local-1781134016845",
       "text": "amen",
@@ -474,9 +488,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 102,
-  "shareCount": 216,
-  "viewCount": 17670,
+  "likeCount": 103,
+  "shareCount": 217,
+  "viewCount": 17750,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
@@ -579,7 +593,8 @@
     "6c8e4a8add1f4ecddcf43f822919316e0189fbf340a005fdbda8f74439070e6a",
     "c611d24efaa03bb6bfe3848788181b0347f29a601c336c23655230ce4fed0ad2",
     "ee592ae9719ef4a5e5625af2e2681f4d8d53a0b9ca56422b95673fad7a067f22",
-    "087fe6f409f37a00926cabe381312af68473fc781c35b15c1ad0607b826fc0e5"
+    "087fe6f409f37a00926cabe381312af68473fc781c35b15c1ad0607b826fc0e5",
+    "cc564507324efe1fa39963137861a084d93d60a0bd6aca4703f86d2549112ae6"
   ],
   "verseViewBy": []
 }
