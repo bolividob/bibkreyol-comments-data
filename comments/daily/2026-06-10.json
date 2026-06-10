@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781130439597,
+  "updatedAt": 1781130551065,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781134016845",
+      "text": "amen",
+      "userDeviceId": "723f812ba28c1925aa5b976b76acd43195a551fc016cfcd8f43cbff072f55a0b",
+      "userName": "sr Dalcée",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781130551065,
+      "updatedAt": 1781130551065,
+      "status": "active"
+    },
     {
       "id": "local-1781050631939",
       "text": "pg dsjgtfuw:30jep ,us",
@@ -458,7 +472,7 @@
   ],
   "likeCount": 94,
   "shareCount": 211,
-  "viewCount": 16160,
+  "viewCount": 16185,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
