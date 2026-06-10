@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781082966070,
+  "updatedAt": 1781083085591,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781083041151",
+      "text": "amèn",
+      "userDeviceId": "ca74875ae9dab8d264f90164b52eddffa7630f96096392090aa2d168881a48dd",
+      "userName": "Tously",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781083085591,
+      "updatedAt": 1781083085591,
+      "status": "active"
+    },
     {
       "id": "local-1781059488392",
       "text": "God bless ya!",
@@ -124,9 +138,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 32,
+  "likeCount": 33,
   "shareCount": 72,
-  "viewCount": 5956,
+  "viewCount": 5976,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
@@ -159,7 +173,8 @@
     "af1247956bec95ded7daa6535ce2d8eb84acb0bfce3f3420ef647defcb6d4e49",
     "4dfe531c9aea9ccb3716c50fffea2e23d2c01d461a4a552aea86eb9e83ad39e9",
     "ebaf0eb44ecd630db849c7a57f2f6c51f3bb3bfc6a7688de55f1982adc1dcfa8",
-    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+    "ca74875ae9dab8d264f90164b52eddffa7630f96096392090aa2d168881a48dd"
   ],
   "verseViewBy": []
 }
