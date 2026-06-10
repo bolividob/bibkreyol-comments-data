@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781126597550,
+  "updatedAt": 1781126712285,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781126696762",
+      "text": "Bonsoir",
+      "userDeviceId": "b2f0d611233b661fc51e5833855f3764bd1bb2e3475be53ae2f1f5f5807833d1",
+      "userName": "Fr Frantz ley",
+      "verseName": "Egzòd 4:8",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781126712285,
+      "updatedAt": 1781126712285,
+      "status": "active"
+    },
     {
       "id": "local-1781121314917",
       "text": "eeey",
@@ -424,9 +438,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 86,
-  "shareCount": 206,
-  "viewCount": 15046,
+  "likeCount": 87,
+  "shareCount": 207,
+  "viewCount": 15077,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
@@ -513,7 +527,8 @@
     "92df754d4bff383e9ad87e81585fbea61f3715ed6902712985713670e2386673",
     "9191ebda94886bdfe34c498a87129a7099820dcd1f0810926c508ad249b47ee4",
     "34698a03d31381f7097673cb7433af13bc6a30da3f8c6607a859e6156e3afd79",
-    "111c28a205219b57b4b5198703086d25f1b3654f8b0955e736cfbb89f7619d6a"
+    "111c28a205219b57b4b5198703086d25f1b3654f8b0955e736cfbb89f7619d6a",
+    "b2f0d611233b661fc51e5833855f3764bd1bb2e3475be53ae2f1f5f5807833d1"
   ],
   "verseViewBy": []
 }
