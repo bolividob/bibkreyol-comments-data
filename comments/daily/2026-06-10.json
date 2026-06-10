@@ -1,9 +1,25 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781075883612,
+  "updatedAt": 1781076005980,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781075972059",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
+      ],
+      "createdAt": 1781076005980,
+      "updatedAt": 1781076005980,
+      "status": "active"
+    },
     {
       "id": "local-1781074643168",
       "text": "amén y amén",
@@ -12,10 +28,12 @@
       "verseName": "Jonas 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
+      ],
       "createdAt": 1781074683854,
-      "updatedAt": 1781074683854,
+      "updatedAt": 1781076005980,
       "status": "active"
     },
     {
@@ -26,16 +44,18 @@
       "verseName": "Jonas 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
+      ],
       "createdAt": 1781064743929,
-      "updatedAt": 1781064743929,
+      "updatedAt": 1781076005980,
       "status": "active"
     }
   ],
-  "likeCount": 26,
-  "shareCount": 54,
-  "viewCount": 5244,
+  "likeCount": 27,
+  "shareCount": 56,
+  "viewCount": 5255,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
@@ -62,7 +82,8 @@
     "4dfe08efde62039cd1849fd49953c43052ed79b1d07a776ca554e4122f63c713",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
-    "1ac3bc17703fbfbc5f63ca56d817d6671e0f9daaad39b6082acf7eacccde6f79"
+    "1ac3bc17703fbfbc5f63ca56d817d6671e0f9daaad39b6082acf7eacccde6f79",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
   ],
   "verseViewBy": []
 }
