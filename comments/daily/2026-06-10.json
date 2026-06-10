@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781134523975,
+  "updatedAt": 1781134696053,
   "version": 1,
   "comments": [
     {
@@ -123,7 +123,7 @@
         "f3f83a6d265920f56037f3162c191cc3a9033c28e1aed9e46f6d9b7124e3e697"
       ],
       "createdAt": 1781119699077,
-      "updatedAt": 1781127067133,
+      "updatedAt": 1781134696053,
       "status": "active"
     },
     {
@@ -247,12 +247,13 @@
       "verseName": "Jonas 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce"
+        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce",
+        "8078f116e6f678a446d9d56c037c845e3c2d6a22bf5bd1cafd220007fc2c87db"
       ],
       "createdAt": 1781092808932,
-      "updatedAt": 1781121071662,
+      "updatedAt": 1781134696053,
       "status": "active"
     },
     {
@@ -329,14 +330,15 @@
       "verseName": "Jonas 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "likedBy": [
         "2424a2da4bd6a69f4a487e7298b1768ff221fa5b294e0e994e7e8ad1e0bff468",
         "bb07af15df9b4464af1ae32b8a7ff8d8e961f54d16c7183cd6a41fcadbdc9285",
-        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce"
+        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce",
+        "8078f116e6f678a446d9d56c037c845e3c2d6a22bf5bd1cafd220007fc2c87db"
       ],
       "createdAt": 1781083085591,
-      "updatedAt": 1781121071662,
+      "updatedAt": 1781134696053,
       "status": "active"
     },
     {
@@ -423,14 +425,15 @@
       "verseName": "Jonas 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "likedBy": [
         "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
         "bb07af15df9b4464af1ae32b8a7ff8d8e961f54d16c7183cd6a41fcadbdc9285",
-        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce"
+        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce",
+        "8078f116e6f678a446d9d56c037c845e3c2d6a22bf5bd1cafd220007fc2c87db"
       ],
       "createdAt": 1781076005980,
-      "updatedAt": 1781121071662,
+      "updatedAt": 1781134696053,
       "status": "active"
     },
     {
@@ -449,7 +452,7 @@
         "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce"
       ],
       "createdAt": 1781074683854,
-      "updatedAt": 1781121071662,
+      "updatedAt": 1781134696053,
       "status": "active"
     },
     {
@@ -460,19 +463,20 @@
       "verseName": "Jonas 3:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
-        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce"
+        "a16c7a688eab03843d61e0d2567cb54a4102e9d6309eade0eb86a388c113c0ce",
+        "8078f116e6f678a446d9d56c037c845e3c2d6a22bf5bd1cafd220007fc2c87db"
       ],
       "createdAt": 1781064743929,
-      "updatedAt": 1781121071662,
+      "updatedAt": 1781134696053,
       "status": "active"
     }
   ],
   "likeCount": 102,
-  "shareCount": 214,
-  "viewCount": 17411,
+  "shareCount": 215,
+  "viewCount": 17473,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
