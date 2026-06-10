@@ -1,12 +1,27 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781062636710,
+  "updatedAt": 1781064743930,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1781060158539",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781064743929,
+      "updatedAt": 1781064743929,
+      "status": "active"
+    }
+  ],
   "likeCount": 12,
-  "shareCount": 26,
-  "viewCount": 3833,
+  "shareCount": 28,
+  "viewCount": 3956,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
