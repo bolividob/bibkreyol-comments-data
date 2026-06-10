@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781126712285,
+  "updatedAt": 1781126836467,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Egzòd 4:8",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "b2f0d611233b661fc51e5833855f3764bd1bb2e3475be53ae2f1f5f5807833d1"
+      ],
       "createdAt": 1781126712285,
-      "updatedAt": 1781126712285,
+      "updatedAt": 1781126836467,
       "status": "active"
     },
     {
@@ -440,7 +442,7 @@
   ],
   "likeCount": 87,
   "shareCount": 207,
-  "viewCount": 15077,
+  "viewCount": 15109,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
