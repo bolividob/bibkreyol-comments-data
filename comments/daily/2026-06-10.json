@@ -1,9 +1,23 @@
 {
   "date": "2026-06-10",
   "verseKey": "daily:2026-06-10",
-  "updatedAt": 1781130308809,
+  "updatedAt": 1781130439597,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781050631939",
+      "text": "pg dsjgtfuw:30jep ,us",
+      "userDeviceId": "3d58a7502abb47e6687192326211b32c1f8e005d9fc82c57caf1ddfbedc30db8",
+      "userName": "oô7",
+      "verseName": "Jonas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781130439597,
+      "updatedAt": 1781130439597,
+      "status": "active"
+    },
     {
       "id": "local-1781126696762",
       "text": "Bonsoir",
@@ -444,7 +458,7 @@
   ],
   "likeCount": 94,
   "shareCount": 211,
-  "viewCount": 16125,
+  "viewCount": 16160,
   "verseLikedBy": [
     "18bd9c39586414b2db716954b3b6067ad113c66a7759c13a171867031da18c1f",
     "a79a423f2820aa4a525223d4470bec6f6a8f479811652a3ff6db1ad904e29c76",
