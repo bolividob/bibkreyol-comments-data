@@ -1,9 +1,37 @@
 {
   "date": "2026-06-11",
   "verseKey": "daily:2026-06-11",
-  "updatedAt": 1781153226485,
+  "updatedAt": 1781153345965,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781153314366",
+      "text": "amen gloir",
+      "userDeviceId": "668960aa17c0c5db415c7ac0347da12552a6ffb5ef785ca2a258eeb0e59d82a6",
+      "userName": "sr Mardi",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781153345965,
+      "updatedAt": 1781153345965,
+      "status": "active"
+    },
+    {
+      "id": "local-1781153238428",
+      "text": "amen gloir",
+      "userDeviceId": "668960aa17c0c5db415c7ac0347da12552a6ffb5ef785ca2a258eeb0e59d82a6",
+      "userName": "sr Mardi",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781153345964,
+      "updatedAt": 1781153345964,
+      "status": "active"
+    },
     {
       "id": "local-1781150969918",
       "text": "amén Amén amén amén ❤️🙏😫",
@@ -147,7 +175,7 @@
   ],
   "likeCount": 24,
   "shareCount": 38,
-  "viewCount": 4222,
+  "viewCount": 4241,
   "verseLikedBy": [
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "5e03d725fcf48c3f4b8d770513a57bc2947f9a06cb5ca6d23d5f636765c131b9",
