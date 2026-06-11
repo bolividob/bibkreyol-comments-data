@@ -1,9 +1,23 @@
 {
   "date": "2026-06-11",
   "verseKey": "daily:2026-06-11",
-  "updatedAt": 1781149270364,
+  "updatedAt": 1781149518329,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781149478436",
+      "text": "byen",
+      "userDeviceId": "580710deae1c6ecbce3419490bea4366dbd8ed686815318908dd42c58c7aaff0",
+      "userName": "Adoue",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781149518328,
+      "updatedAt": 1781149518328,
+      "status": "active"
+    },
     {
       "id": "local-1781136558431",
       "text": "Amen 🙏",
@@ -105,7 +119,7 @@
   ],
   "likeCount": 19,
   "shareCount": 34,
-  "viewCount": 3506,
+  "viewCount": 3607,
   "verseLikedBy": [
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "5e03d725fcf48c3f4b8d770513a57bc2947f9a06cb5ca6d23d5f636765c131b9",
