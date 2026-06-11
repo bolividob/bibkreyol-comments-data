@@ -1,9 +1,23 @@
 {
   "date": "2026-06-11",
   "verseKey": "daily:2026-06-11",
-  "updatedAt": 1781145146162,
+  "updatedAt": 1781145330033,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781145218932",
+      "text": "Merci Seigneur Jesus Merci",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781145330033,
+      "updatedAt": 1781145330033,
+      "status": "active"
+    },
     {
       "id": "local-1781142552062",
       "text": "Moooooop",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
+  "likeCount": 13,
   "shareCount": 32,
-  "viewCount": 2589,
+  "viewCount": 2694,
   "verseLikedBy": [
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "5e03d725fcf48c3f4b8d770513a57bc2947f9a06cb5ca6d23d5f636765c131b9",
@@ -76,7 +90,8 @@
     "ee8320d0a3a6cad767da88a50f5805cd94f6c32202ab807ffa4d3d33839d24e9",
     "7c0bd9594a9e6c0bf32d018cc50e0a9a392c5d0524375b09d017bcb97f730480",
     "8937df6770e75b8ac2aafbbefd871f7ac27bf79e86b6fe817cc4259b458914c9",
-    "0848ec928e420d7c5bbae84e3bfe795701761873d4343fdd520f31f849d90769"
+    "0848ec928e420d7c5bbae84e3bfe795701761873d4343fdd520f31f849d90769",
+    "f985300fedd4864aff977f2a3e0fd5ac3d610b3fd16f5dbecfb1616463b4558c"
   ],
   "verseViewBy": []
 }
