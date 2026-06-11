@@ -1,9 +1,23 @@
 {
   "date": "2026-06-11",
   "verseKey": "daily:2026-06-11",
-  "updatedAt": 1781169667249,
+  "updatedAt": 1781169793047,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781169738169",
+      "text": "amén 🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781169793047,
+      "updatedAt": 1781169793047,
+      "status": "active"
+    },
     {
       "id": "local-1781167572830",
       "text": "Amen 🙏🏾",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
-  "shareCount": 68,
-  "viewCount": 5760,
+  "likeCount": 31,
+  "shareCount": 69,
+  "viewCount": 5784,
   "verseLikedBy": [
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "5e03d725fcf48c3f4b8d770513a57bc2947f9a06cb5ca6d23d5f636765c131b9",
@@ -220,7 +234,8 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "f31556db98e020b160a44fe1ceec48faad319eaad1384c1f7468919ee5418ddb",
     "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
-    "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733"
+    "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
   ],
   "verseViewBy": []
 }
