@@ -1,9 +1,23 @@
 {
   "date": "2026-06-11",
   "verseKey": "daily:2026-06-11",
-  "updatedAt": 1781191766035,
+  "updatedAt": 1781191866857,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781191685605",
+      "text": "Mille Amen",
+      "userDeviceId": "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
+      "userName": "Gogo",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781191866856,
+      "updatedAt": 1781191866856,
+      "status": "active"
+    },
     {
       "id": "local-1781186565812",
       "text": "kòman nouye",
@@ -320,7 +334,7 @@
   ],
   "likeCount": 66,
   "shareCount": 241,
-  "viewCount": 11011,
+  "viewCount": 11032,
   "verseLikedBy": [
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "5e03d725fcf48c3f4b8d770513a57bc2947f9a06cb5ca6d23d5f636765c131b9",
