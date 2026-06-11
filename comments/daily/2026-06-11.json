@@ -1,9 +1,39 @@
 {
   "date": "2026-06-11",
   "verseKey": "daily:2026-06-11",
-  "updatedAt": 1781220136482,
+  "updatedAt": 1781220314217,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781219858479",
+      "text": "salut",
+      "userDeviceId": "b98b23a1e5f8cf978b8daa3c72df1a3b10008467c5821df278e34d2d0496e799",
+      "userName": "dalthon pierre",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781220314217,
+      "updatedAt": 1781220314217,
+      "status": "active"
+    },
+    {
+      "id": "local-1781220264694",
+      "text": "Amen amen amen thanks you Jesus ❤️",
+      "userDeviceId": "df3ac7a150534495858fc9a7855df7a29bdf81fdd0103eb8881ea30309e6fd84",
+      "userName": "Leah",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "df3ac7a150534495858fc9a7855df7a29bdf81fdd0103eb8881ea30309e6fd84"
+      ],
+      "createdAt": 1781220314217,
+      "updatedAt": 1781220314217,
+      "status": "active"
+    },
     {
       "id": "local-1781214394561",
       "text": "Amen 🙏🏾",
@@ -17,7 +47,7 @@
         "047b1e189cec4b368f748d1d0701a1447e03ce9b8707e0999be6b2075cbec9a9"
       ],
       "createdAt": 1781214436605,
-      "updatedAt": 1781214436605,
+      "updatedAt": 1781220314217,
       "status": "active"
     },
     {
@@ -363,9 +393,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 105,
+  "likeCount": 106,
   "shareCount": 296,
-  "viewCount": 17343,
+  "viewCount": 17406,
   "verseLikedBy": [
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "5e03d725fcf48c3f4b8d770513a57bc2947f9a06cb5ca6d23d5f636765c131b9",
@@ -471,7 +501,8 @@
     "4ea62a3ebd5d02ee72ff8d22e61cfe21e196498ff6d8081bff03d8343635bfdf",
     "9bf10af9decd435ddfd712723de17eb8fa5695f860d5f4b74d64b0ba7f9cd097",
     "75593055347242f9892d490fdc7fd8178b3d42dc62942b2115d4282e06e3be43",
-    "b41d2a345a1cbbf4afd3d421997d23c2e5c6076063b8cabae364b5020d6c1508"
+    "b41d2a345a1cbbf4afd3d421997d23c2e5c6076063b8cabae364b5020d6c1508",
+    "df3ac7a150534495858fc9a7855df7a29bdf81fdd0103eb8881ea30309e6fd84"
   ],
   "verseViewBy": []
 }
