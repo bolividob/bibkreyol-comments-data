@@ -1,9 +1,25 @@
 {
   "date": "2026-06-11",
   "verseKey": "daily:2026-06-11",
-  "updatedAt": 1781214188570,
+  "updatedAt": 1781214436605,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781214394561",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "047b1e189cec4b368f748d1d0701a1447e03ce9b8707e0999be6b2075cbec9a9",
+      "userName": "Nayoo fille de Dieu 🙌🏾🙏🏾",
+      "verseName": "Galasyen 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "047b1e189cec4b368f748d1d0701a1447e03ce9b8707e0999be6b2075cbec9a9"
+      ],
+      "createdAt": 1781214436605,
+      "updatedAt": 1781214436605,
+      "status": "active"
+    },
     {
       "id": "local-1781213352300",
       "text": "Amén",
@@ -347,9 +363,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 98,
+  "likeCount": 99,
   "shareCount": 286,
-  "viewCount": 15642,
+  "viewCount": 15715,
   "verseLikedBy": [
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "5e03d725fcf48c3f4b8d770513a57bc2947f9a06cb5ca6d23d5f636765c131b9",
@@ -448,7 +464,8 @@
     "2aecec376886712a8c5d212c73f9425bf241d8a4b2146028644435fe1e88555b",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
     "0e3305329c3df22ec1daf7e3695d8924fea2c8ff343772b05a027c8884c69c07",
-    "80cdb461084cc7f380e2798277434b744ff5f42a8b0a4187cf0bd82a9ddc4359"
+    "80cdb461084cc7f380e2798277434b744ff5f42a8b0a4187cf0bd82a9ddc4359",
+    "047b1e189cec4b368f748d1d0701a1447e03ce9b8707e0999be6b2075cbec9a9"
   ],
   "verseViewBy": []
 }
