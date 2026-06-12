@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": 1781289303041,
+  "updatedAt": 1781289422496,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 1,
@@ -15,15 +15,15 @@
       "expectedSeason": "few_weeks",
       "customExpectedSeason": null,
       "request": "Mwen beswin priye pou app sa rive a 100M downloads.",
-      "status": "praying",
+      "status": "answered",
       "prayerCount": 0,
       "prayedBy": [],
       "prayingPreview": [],
       "encouragements": [],
       "submittedAt": 1781236378285,
-      "updatedAt": 1781289303040,
-      "answeredAt": null,
-      "testimony": null
+      "updatedAt": 1781289422496,
+      "answeredAt": 1781289422496,
+      "testimony": "null"
     }
   ]
 }
