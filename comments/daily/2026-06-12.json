@@ -1,9 +1,23 @@
 {
   "date": "2026-06-12",
   "verseKey": "daily:2026-06-12",
-  "updatedAt": 1781256486648,
+  "updatedAt": 1781256624109,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781256503750",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Mak 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781256624109,
+      "updatedAt": 1781256624109,
+      "status": "active"
+    },
     {
       "id": "local-1781246364618",
       "text": "Amen Amen Amen todos gloria a Jesús 🙏🙏",
@@ -90,8 +104,8 @@
     }
   ],
   "likeCount": 31,
-  "shareCount": 35,
-  "viewCount": 5654,
+  "shareCount": 36,
+  "viewCount": 5682,
   "verseLikedBy": [
     "0e9256a2496adddfc90803b278fdc2cd512cbdc8b1c53879a426fb1c4f4935f0",
     "26c6067c3cbaf1a26d7f1f8f60241531f7b886e4c9faa0bfbbf0258b3dc9f8ca",
