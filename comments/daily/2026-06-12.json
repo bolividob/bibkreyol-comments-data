@@ -1,9 +1,23 @@
 {
   "date": "2026-06-12",
   "verseKey": "daily:2026-06-12",
-  "updatedAt": 1781223557465,
+  "updatedAt": 1781223867946,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781223656051",
+      "text": "Amen",
+      "userDeviceId": "705f72e27ae8ea6e0b045d1f9bf18d3f7aaef24197ca116ae215399e17b70a27",
+      "userName": "ser jezila",
+      "verseName": "Mak 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781223867945,
+      "updatedAt": 1781223867945,
+      "status": "active"
+    },
     {
       "id": "local-1781222507182",
       "text": "🙏🙏🙏",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 0,
   "shareCount": 0,
-  "viewCount": 144,
+  "viewCount": 292,
   "verseLikedBy": [],
   "verseViewBy": []
 }
