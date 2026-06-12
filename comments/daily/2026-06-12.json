@@ -1,9 +1,23 @@
 {
   "date": "2026-06-12",
   "verseKey": "daily:2026-06-12",
-  "updatedAt": 1781301431074,
+  "updatedAt": 1781301559993,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781301485070",
+      "text": "MW renmen w jezi",
+      "userDeviceId": "b369e27bbfd71fad291c2166913a6918403880f1e0f6c5d64b084fd759e0a0e7",
+      "userName": "Rit",
+      "verseName": "Mak 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781301559993,
+      "updatedAt": 1781301559993,
+      "status": "active"
+    },
     {
       "id": "local-1781290873282",
       "text": "Amen",
@@ -335,7 +349,7 @@
   ],
   "likeCount": 90,
   "shareCount": 157,
-  "viewCount": 14857,
+  "viewCount": 14889,
   "verseLikedBy": [
     "0e9256a2496adddfc90803b278fdc2cd512cbdc8b1c53879a426fb1c4f4935f0",
     "26c6067c3cbaf1a26d7f1f8f60241531f7b886e4c9faa0bfbbf0258b3dc9f8ca",
