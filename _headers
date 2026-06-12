@@ -1,3 +1,7 @@
 /comments/daily/*
   Cache-Control: public, max-age=30, s-maxage=300
   X-Content-Type-Options: nosniff
+
+/prayer-requests/*
+  Cache-Control: public, max-age=30, s-maxage=300
+  X-Content-Type-Options: nosniff

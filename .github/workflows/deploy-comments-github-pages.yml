@@ -1,17 +1,18 @@
-name: Deploy comments to GitHub Pages
+name: Deploy comments and prayer requests to GitHub Pages
 
 on:
   push:
     branches: [main, master]
     paths:
       - 'comments/daily/**'
+      - 'prayer-requests/**'
       - '.github/workflows/deploy-comments-github-pages.yml'
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
 concurrency:
-  group: comments-data-github-pages
+  group: comments-prayer-data-github-pages
   cancel-in-progress: true
 
 permissions:
@@ -32,10 +33,11 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Assemble static site (all daily JSON + index + nojekyll)
+      - name: Assemble static site (comments + prayer requests + index + nojekyll)
         run: |
           set -euo pipefail
           mkdir -p _site/comments/daily
+          mkdir -p _site/prayer-requests
           shopt -s nullglob
           files=(comments/daily/*.json)
           if [ ${#files[@]} -eq 0 ]; then
@@ -43,7 +45,13 @@ jobs:
             exit 1
           fi
           cp -v "${files[@]}" _site/comments/daily/
-          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>Comments data</title></head><body><p>Static JSON under <code>comments/daily/</code>.</p></body></html>' > _site/index.html
+          prayer_files=(prayer-requests/*.json)
+          if [ ${#prayer_files[@]} -eq 0 ]; then
+            echo "No prayer-requests/*.json files to publish."
+            exit 1
+          fi
+          cp -v "${prayer_files[@]}" _site/prayer-requests/
+          echo '<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><title>BibKreyol data</title></head><body><p>Static JSON under <code>comments/daily/</code> and <code>prayer-requests/</code>.</p></body></html>' > _site/index.html
           : > _site/.nojekyll
 
       - uses: actions/configure-pages@v5

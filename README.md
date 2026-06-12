@@ -29,7 +29,7 @@ If this project helps you, please **[give the repo a star](https://github.com/bo
 
 ## About this repository
 
-This repo holds **static JSON** used by the Bib Kreyol app for **daily verse comments** and related data (for example under `comments/daily/`). It is updated by automation (e.g. Firebase Cloud Functions + GitHub) when users interact through the app.
+This repo holds **static JSON** used by the Bib Kreyol app for **daily verse comments**, **Prayer Requests**, and related data (for example under `comments/daily/` and `prayer-requests/`). It is updated by automation (e.g. Firebase Cloud Functions + GitHub) when users interact through the app.
 
 It is **not** the main application source code; it is the **published data** that clients read from hosting mirrors (Firebase Hosting, GitHub Pages, Cloudflare, etc.).
 
