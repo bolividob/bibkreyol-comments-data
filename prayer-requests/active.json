@@ -1,27 +1,6 @@
 {
-  "updatedAt": 1781289303741,
+  "updatedAt": 1781289423553,
   "version": 1,
   "dailyLimit": 33,
-  "requests": [
-    {
-      "id": "local-prayer-1781236375478",
-      "userDeviceId": "055c45a33d4c394f26fb8c8bdf0d66c64c6ef80c89a2e2bdc8d1ce32e652cc35",
-      "userName": "Bib Kreyol",
-      "category": "employment_business",
-      "customCategory": null,
-      "faithLevel": 3,
-      "expectedSeason": "few_weeks",
-      "customExpectedSeason": null,
-      "request": "Mwen beswin priye pou app sa rive a 100M downloads.",
-      "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
-      "encouragements": [],
-      "submittedAt": 1781236378285,
-      "updatedAt": 1781289303040,
-      "answeredAt": null,
-      "testimony": null
-    }
-  ]
+  "requests": []
 }
