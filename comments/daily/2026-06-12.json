@@ -1,9 +1,23 @@
 {
   "date": "2026-06-12",
   "verseKey": "daily:2026-06-12",
-  "updatedAt": 1781271907368,
+  "updatedAt": 1781272029016,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781271922337",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Mak 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781272029016,
+      "updatedAt": 1781272029016,
+      "status": "active"
+    },
     {
       "id": "local-1781267375534",
       "text": "bonjou",
@@ -216,8 +230,8 @@
     }
   ],
   "likeCount": 50,
-  "shareCount": 112,
-  "viewCount": 8746,
+  "shareCount": 113,
+  "viewCount": 8778,
   "verseLikedBy": [
     "0e9256a2496adddfc90803b278fdc2cd512cbdc8b1c53879a426fb1c4f4935f0",
     "26c6067c3cbaf1a26d7f1f8f60241531f7b886e4c9faa0bfbbf0258b3dc9f8ca",
