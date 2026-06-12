@@ -1,9 +1,23 @@
 {
   "date": "2026-06-12",
   "verseKey": "daily:2026-06-12",
-  "updatedAt": 1781276407451,
+  "updatedAt": 1781276530434,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781276418962",
+      "text": "Amen",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "Mak 1:5",
+      "parentId": "local-1781236267560",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781276530434,
+      "updatedAt": 1781276530434,
+      "status": "active"
+    },
     {
       "id": "local-1781273831349",
       "text": "amén amén amén",
@@ -193,11 +207,11 @@
       "userName": "Bib Kreyol",
       "verseName": "Mak 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1781236328850,
-      "updatedAt": 1781236328850,
+      "updatedAt": 1781276530434,
       "status": "active"
     },
     {
@@ -244,8 +258,8 @@
     }
   ],
   "likeCount": 53,
-  "shareCount": 120,
-  "viewCount": 9715,
+  "shareCount": 121,
+  "viewCount": 9750,
   "verseLikedBy": [
     "0e9256a2496adddfc90803b278fdc2cd512cbdc8b1c53879a426fb1c4f4935f0",
     "26c6067c3cbaf1a26d7f1f8f60241531f7b886e4c9faa0bfbbf0258b3dc9f8ca",
