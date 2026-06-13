@@ -1,9 +1,37 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781390465106,
+  "updatedAt": 1781390708251,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781390648193",
+      "text": "Mwen dako, Haiti ap bat jodi a",
+      "userDeviceId": "79c7dbe67315f89de62ad7f416cf56379e54aa78728ab298bff0172c5dfaa940",
+      "userName": "Haiti21",
+      "verseName": "Rit 2:4",
+      "parentId": "local-1781316662277",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781390708251,
+      "updatedAt": 1781390708251,
+      "status": "active"
+    },
+    {
+      "id": "local-1781390572148",
+      "text": "kobyen match Brazil la ye?",
+      "userDeviceId": "79c7dbe67315f89de62ad7f416cf56379e54aa78728ab298bff0172c5dfaa940",
+      "userName": "Haiti21",
+      "verseName": "Rit 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781390708248,
+      "updatedAt": 1781390708248,
+      "status": "active"
+    },
     {
       "id": "local-1781382814508",
       "text": "amène",
@@ -56,13 +84,14 @@
       "verseName": "Rit 2:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "5a6b435f819daf35067ead8c32a7f37b888d1503e41460534a5e3402bba73bff",
-        "d305506f704f96535e50ad4fd3ded9287492e32b06c66b5ee4200b93e2f150d3"
+        "d305506f704f96535e50ad4fd3ded9287492e32b06c66b5ee4200b93e2f150d3",
+        "79c7dbe67315f89de62ad7f416cf56379e54aa78728ab298bff0172c5dfaa940"
       ],
       "createdAt": 1781368756380,
-      "updatedAt": 1781382186583,
+      "updatedAt": 1781390708248,
       "status": "active"
     },
     {
@@ -320,11 +349,13 @@
       "userName": "Bib Kreyol",
       "verseName": "Rit 2:4",
       "parentId": null,
-      "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 2,
+      "likeCount": 1,
+      "likedBy": [
+        "79c7dbe67315f89de62ad7f416cf56379e54aa78728ab298bff0172c5dfaa940"
+      ],
       "createdAt": 1781317158564,
-      "updatedAt": 1781320820171,
+      "updatedAt": 1781390708251,
       "status": "active"
     },
     {
@@ -388,9 +419,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 88,
+  "likeCount": 90,
   "shareCount": 173,
-  "viewCount": 16484,
+  "viewCount": 16541,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "8fee3074b5179ae9d287933572e127e83b86b70d6eb4844422ca29a9857371a0",
@@ -479,7 +510,9 @@
     "68d229d92465f9415904505491d803d5392866fe00b7ba2b5d04646684347340",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "970c3cb7abc692f6e341553c67d835f12f65769173975198a451b24fbdc60099",
-    "28698bd753f38de941a531d4a57b4c02d77bbaa952ab65cde22c3723aa10e4f2"
+    "28698bd753f38de941a531d4a57b4c02d77bbaa952ab65cde22c3723aa10e4f2",
+    "548dba281b215cc7f376ca7e265f297ed089d213b7453a8179617b6761f8d3ca",
+    "9ce81dbc9984db8814327d3444a7de920c1b6de285e2bc1fff4e73ce19714894"
   ],
   "verseViewBy": []
 }
