@@ -1,12 +1,27 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781310019665,
+  "updatedAt": 1781310568212,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1781310413200",
+      "text": "amen🙏🙏",
+      "userDeviceId": "84c84b91979d7b221b0b99afc2dd0aa00c49600143c5158a04ec92929375df42",
+      "userName": "pierre utabe",
+      "verseName": "Rit 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781310568212,
+      "updatedAt": 1781310568212,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
-  "shareCount": 0,
-  "viewCount": 151,
+  "shareCount": 2,
+  "viewCount": 386,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e"
   ],
