@@ -1,9 +1,23 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781369945087,
+  "updatedAt": 1781370065984,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781326748291",
+      "text": "Amen 🙏",
+      "userDeviceId": "e555b686f00ce4a01a03eb5a27bfa2d136ffcc5cf146767ca5d431744720b9ca",
+      "userName": "robert",
+      "verseName": "Rit 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781370065984,
+      "updatedAt": 1781370065984,
+      "status": "active"
+    },
     {
       "id": "local-1781369535060",
       "text": "amen 🙌 bel vèsé",
@@ -359,7 +373,7 @@
   ],
   "likeCount": 72,
   "shareCount": 143,
-  "viewCount": 12333,
+  "viewCount": 12354,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "8fee3074b5179ae9d287933572e127e83b86b70d6eb4844422ca29a9857371a0",
