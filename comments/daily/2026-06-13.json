@@ -1,9 +1,23 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781315418022,
+  "updatedAt": 1781317158564,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781316662277",
+      "text": "Nap gad ti match nou?",
+      "userDeviceId": "055c45a33d4c394f26fb8c8bdf0d66c64c6ef80c89a2e2bdc8d1ce32e652cc35",
+      "userName": "Bib Kreyol",
+      "verseName": "Rit 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781317158564,
+      "updatedAt": 1781317158564,
+      "status": "active"
+    },
     {
       "id": "local-1781314826994",
       "text": "amén 🙏🙏🙏",
@@ -63,7 +77,7 @@
   ],
   "likeCount": 8,
   "shareCount": 18,
-  "viewCount": 1716,
+  "viewCount": 1865,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "8fee3074b5179ae9d287933572e127e83b86b70d6eb4844422ca29a9857371a0",
