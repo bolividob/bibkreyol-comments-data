@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781381944923,
+  "updatedAt": 1781382186583,
   "version": 1,
   "comments": [
     {
@@ -40,12 +40,13 @@
       "verseName": "Rit 2:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "5a6b435f819daf35067ead8c32a7f37b888d1503e41460534a5e3402bba73bff"
+        "5a6b435f819daf35067ead8c32a7f37b888d1503e41460534a5e3402bba73bff",
+        "d305506f704f96535e50ad4fd3ded9287492e32b06c66b5ee4200b93e2f150d3"
       ],
       "createdAt": 1781368756380,
-      "updatedAt": 1781368756380,
+      "updatedAt": 1781382186583,
       "status": "active"
     },
     {
@@ -373,7 +374,7 @@
   ],
   "likeCount": 79,
   "shareCount": 159,
-  "viewCount": 14497,
+  "viewCount": 14541,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "8fee3074b5179ae9d287933572e127e83b86b70d6eb4844422ca29a9857371a0",
