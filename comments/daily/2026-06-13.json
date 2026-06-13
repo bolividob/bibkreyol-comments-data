@@ -1,9 +1,23 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781314753215,
+  "updatedAt": 1781314930435,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781314826994",
+      "text": "amén 🙏🙏🙏",
+      "userDeviceId": "62dc8dbe2b848d65816eda16ffa1fb60a3582ac898c4cfe019ba238e70f71ce5",
+      "userName": "sr.christi",
+      "verseName": "Rit 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781314930435,
+      "updatedAt": 1781314930435,
+      "status": "active"
+    },
     {
       "id": "local-1781310912249",
       "text": "mesi Pou vese a",
@@ -47,16 +61,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 6,
+  "likeCount": 7,
   "shareCount": 18,
-  "viewCount": 1434,
+  "viewCount": 1509,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "8fee3074b5179ae9d287933572e127e83b86b70d6eb4844422ca29a9857371a0",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "f0ddc305459466e153fa149410d6643179a106c5b067225631511cf11446f401",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
-    "10722a8d0ca7cb1e55bd73b2c6325c8933d761760013c30921740049e4e265e2"
+    "10722a8d0ca7cb1e55bd73b2c6325c8933d761760013c30921740049e4e265e2",
+    "86a96a481654a66cc8cf34dbbae6adcb3b147196785934d187f6b71118e71b9d"
   ],
   "verseViewBy": []
 }
