@@ -1,9 +1,23 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781361725062,
+  "updatedAt": 1781361846971,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781361800355",
+      "text": "chichi",
+      "userDeviceId": "cf45befceb428c97fbf3aa7fbf075ce1fcc60bd28e176b0a4d72b5b22cdf042e",
+      "userName": "chichi",
+      "verseName": "Rit 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781361846971,
+      "updatedAt": 1781361846971,
+      "status": "active"
+    },
     {
       "id": "local-1781355572118",
       "text": "amén",
@@ -307,7 +321,7 @@
   ],
   "likeCount": 55,
   "shareCount": 122,
-  "viewCount": 10183,
+  "viewCount": 10221,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "8fee3074b5179ae9d287933572e127e83b86b70d6eb4844422ca29a9857371a0",
