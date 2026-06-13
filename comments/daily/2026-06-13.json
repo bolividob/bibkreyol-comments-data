@@ -1,9 +1,23 @@
 {
   "date": "2026-06-13",
   "verseKey": "daily:2026-06-13",
-  "updatedAt": 1781343123968,
+  "updatedAt": 1781343244270,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781343138542",
+      "text": "amén amén amén",
+      "userDeviceId": "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
+      "userName": "Guirlene Gilles",
+      "verseName": "Rit 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781343244270,
+      "updatedAt": 1781343244270,
+      "status": "active"
+    },
     {
       "id": "local-1781330731922",
       "text": "Amén y amén",
@@ -175,9 +189,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
+  "likeCount": 34,
   "shareCount": 41,
-  "viewCount": 5596,
+  "viewCount": 5615,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "8fee3074b5179ae9d287933572e127e83b86b70d6eb4844422ca29a9857371a0",
@@ -211,7 +225,8 @@
     "b9b806b60c0070f3dc07c6bbbe59135bbc37fc6dd4cf9bcb077314e118323367",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
     "d9aa74c8a034053a9fb903c7a703152dc99776eebbc0fcba6c87668e57db1ba2",
-    "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9"
+    "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
+    "f7a2291a745736c67cc1b435f17c83f7a21ca1912fe1fcb9fd08f929966f7b61"
   ],
   "verseViewBy": []
 }
