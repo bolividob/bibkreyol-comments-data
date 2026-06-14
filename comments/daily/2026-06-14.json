@@ -1,9 +1,23 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781479238277,
+  "updatedAt": 1781479648137,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781479465337",
+      "text": "amén",
+      "userDeviceId": "807e980991e5b8371ca875fb35b7b79d89fd8fcc1ad23afac6358d72de8e1d60",
+      "userName": "Emmanuel joassaint",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781479648137,
+      "updatedAt": 1781479648137,
+      "status": "active"
+    },
     {
       "id": "local-1781450607106",
       "text": "de sWsz‰<*Z*†*√¢-5%%%%%***£``lj*fre",
@@ -12,10 +26,12 @@
       "verseName": "Filipyen 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "807e980991e5b8371ca875fb35b7b79d89fd8fcc1ad23afac6358d72de8e1d60"
+      ],
       "createdAt": 1781465070473,
-      "updatedAt": 1781465070473,
+      "updatedAt": 1781479648137,
       "status": "active"
     },
     {
@@ -376,9 +392,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
+  "likeCount": 72,
   "shareCount": 147,
-  "viewCount": 20788,
+  "viewCount": 20998,
   "verseLikedBy": [
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
@@ -450,7 +466,8 @@
     "863ef586f1c290454c1b0bbd159f3f8f031c9a6b7b8bd81308cc0956d580fb79",
     "1f000dc7b65e9e8b2d0b4dbd6063a520f269e263a881b1dcdd933d5c526d956f",
     "de4d95f6d18abf427ba8ab04aa460b4aa781bbf7f0800ce97bcecee83d4c045d",
-    "4cc8edb3c3ddedbb6bcc36960c67f18683dd0660749fb1f49ab73862c2d4ecbd"
+    "4cc8edb3c3ddedbb6bcc36960c67f18683dd0660749fb1f49ab73862c2d4ecbd",
+    "807e980991e5b8371ca875fb35b7b79d89fd8fcc1ad23afac6358d72de8e1d60"
   ],
   "verseViewBy": []
 }
