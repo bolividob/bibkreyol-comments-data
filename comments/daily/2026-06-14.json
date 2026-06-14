@@ -1,9 +1,37 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781443409105,
+  "updatedAt": 1781447254604,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781446553183",
+      "text": "Mwen se yon pitit Bondye",
+      "userDeviceId": "3b28d50e8e51db9ca36beb61210bb75b7e5c411c9904797e032e1048c9c51bc3",
+      "userName": "Monac Pierre",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781447254604,
+      "updatedAt": 1781447254604,
+      "status": "active"
+    },
+    {
+      "id": "local-1781443317516",
+      "text": "Amene",
+      "userDeviceId": "248e9f9eb95b7e4c35f37fb154d485beb03b1e67a6c12ccb1ba99b05f64b1014",
+      "userName": "Edoo",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781447254603,
+      "updatedAt": 1781447254603,
+      "status": "active"
+    },
     {
       "id": "local-1781437982223",
       "text": "tout glwa se pou Bondye",
@@ -237,9 +265,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 56,
-  "shareCount": 106,
-  "viewCount": 9377,
+  "likeCount": 60,
+  "shareCount": 114,
+  "viewCount": 10348,
   "verseLikedBy": [
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
@@ -294,9 +322,13 @@
     "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac",
     "2691d0b59ba9c8c0937bff0b226898786ca5122d5ceaf243dc13584f7cedd0f5",
     "b516691130da4e55d0734d23a7d0c45f51f67a64736e505dfcd9f044585093be",
-    "809a1ddfda170e3b2aba8f5f2dd600edfac22ebb34079068b381973a7e8b9033",
     "eb88ac5e0681003a5adcf714c8b141b048ac3efff2000e8a5a226527bc79fa43",
-    "6f4a0288dcc7d3834406beefc059b1e014d2510bb8a96480659730ad69575357"
+    "6f4a0288dcc7d3834406beefc059b1e014d2510bb8a96480659730ad69575357",
+    "809a1ddfda170e3b2aba8f5f2dd600edfac22ebb34079068b381973a7e8b9033",
+    "1af1e035592c4eee0f0b700ac6985f1a3a8866340e829d27c4d4c3593ca45514",
+    "5c65b268dd01a3248ecea808c5a9fc13b3cbb99d3b44b7804b5496dcf585f8af",
+    "a4bc9c2891acb32583db4393ecc14edb5a01092d28c0da3f45079fdc7df5f020",
+    "8138e2b480180649a5af1a40d330d99da5c24537d2e9729176d8b0efdaa58bac"
   ],
   "verseViewBy": []
 }
