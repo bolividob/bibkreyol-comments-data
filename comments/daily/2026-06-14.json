@@ -1,9 +1,23 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781397426516,
+  "updatedAt": 1781397922917,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781397427416",
+      "text": "Gen man pa wé",
+      "userDeviceId": "8f40579cd11a48c299e7a9e0b0ac7b46e3b7df861e11eff7d1004360c11b753b",
+      "userName": "Mrs Berly",
+      "verseName": "Filipyen 4:1",
+      "parentId": "local-1781397308036",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781397922917,
+      "updatedAt": 1781397922917,
+      "status": "active"
+    },
     {
       "id": "local-1781397308036",
       "text": "ok",
@@ -11,13 +25,13 @@
       "userName": "Mrs Berly",
       "verseName": "Filipyen 4:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "8f40579cd11a48c299e7a9e0b0ac7b46e3b7df861e11eff7d1004360c11b753b"
       ],
       "createdAt": 1781397426516,
-      "updatedAt": 1781397426516,
+      "updatedAt": 1781397922917,
       "status": "active"
     },
     {
@@ -105,14 +119,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 4,
-  "shareCount": 4,
-  "viewCount": 731,
+  "likeCount": 6,
+  "shareCount": 5,
+  "viewCount": 919,
   "verseLikedBy": [
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "bb5254adda2788cf0c39971acf00bef54bb7dd1bd8c57557879d6a0c652a2a28",
-    "8f40579cd11a48c299e7a9e0b0ac7b46e3b7df861e11eff7d1004360c11b753b"
+    "8f40579cd11a48c299e7a9e0b0ac7b46e3b7df861e11eff7d1004360c11b753b",
+    "df13620d40edba5bc705c9627e70dff49c36fd1d444f7b52bb7b0d56397302e2",
+    "85dd4d0e56c63885081e6acec7b807b02bb81de418bf708ed6a62d22d0c78fb5"
   ],
   "verseViewBy": []
 }
