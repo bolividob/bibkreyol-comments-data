@@ -1,12 +1,55 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781396047165,
+  "updatedAt": 1781396407832,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1781396062739",
+      "text": "bib kreyol",
+      "userDeviceId": "9f20c7ac1958a196b502ea4dca0d77d174ea6b21b4fd64a5d5f67c45f592168b",
+      "userName": "ameli",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781396407832,
+      "updatedAt": 1781396407832,
+      "status": "active"
+    },
+    {
+      "id": "local-1781396124262",
+      "text": "kman sa",
+      "userDeviceId": "9f20c7ac1958a196b502ea4dca0d77d174ea6b21b4fd64a5d5f67c45f592168b",
+      "userName": "ameli",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781396407832,
+      "updatedAt": 1781396407832,
+      "status": "active"
+    },
+    {
+      "id": "local-1781396216029",
+      "text": "bib la toutjou bon anpil",
+      "userDeviceId": "9f20c7ac1958a196b502ea4dca0d77d174ea6b21b4fd64a5d5f67c45f592168b",
+      "userName": "ameli",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781396407832,
+      "updatedAt": 1781396407832,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 339,
+  "shareCount": 1,
+  "viewCount": 393,
   "verseLikedBy": [],
   "verseViewBy": []
 }
