@@ -1,9 +1,37 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781437281443,
+  "updatedAt": 1781443409105,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781437982223",
+      "text": "tout glwa se pou Bondye",
+      "userDeviceId": "6e75004d2a0851f5087e4303b60319262fd82024de8b396dd68b18318f82acdd",
+      "userName": "Fr Adner",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781443409104,
+      "updatedAt": 1781443409104,
+      "status": "active"
+    },
+    {
+      "id": "local-1781437717520",
+      "text": "amén 🙏",
+      "userDeviceId": "8b6d42bae07a078514d2dd2f2f49a7af265f7be0b9c0f906f2696ccda5f43d44",
+      "userName": "Bondye se lavim",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781443409103,
+      "updatedAt": 1781443409103,
+      "status": "active"
+    },
     {
       "id": "local-1781418135398",
       "text": "Amen Amen Amen Amen Amen Amen Amen 🙏 🙌",
@@ -12,10 +40,12 @@
       "verseName": "Filipyen 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "eb88ac5e0681003a5adcf714c8b141b048ac3efff2000e8a5a226527bc79fa43"
+      ],
       "createdAt": 1781418184935,
-      "updatedAt": 1781418184935,
+      "updatedAt": 1781443409104,
       "status": "active"
     },
     {
@@ -26,10 +56,12 @@
       "verseName": "Filipyen 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "eb88ac5e0681003a5adcf714c8b141b048ac3efff2000e8a5a226527bc79fa43"
+      ],
       "createdAt": 1781411827953,
-      "updatedAt": 1781411827953,
+      "updatedAt": 1781443409104,
       "status": "active"
     },
     {
@@ -54,10 +86,12 @@
       "verseName": "Filipyen 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "eb88ac5e0681003a5adcf714c8b141b048ac3efff2000e8a5a226527bc79fa43"
+      ],
       "createdAt": 1781405109864,
-      "updatedAt": 1781405109864,
+      "updatedAt": 1781443409104,
       "status": "active"
     },
     {
@@ -203,9 +237,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 97,
-  "viewCount": 8447,
+  "likeCount": 56,
+  "shareCount": 106,
+  "viewCount": 9377,
   "verseLikedBy": [
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
@@ -257,7 +291,12 @@
     "731343bbdf9b94a5da38d191ddc8f7207e40d3a114cbe7998bb6421109b6c66c",
     "4095d97efbd690e6426a6d563ac4220ec82f29efc3f1a924e1c4bac39c261ec6",
     "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
-    "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac"
+    "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac",
+    "2691d0b59ba9c8c0937bff0b226898786ca5122d5ceaf243dc13584f7cedd0f5",
+    "b516691130da4e55d0734d23a7d0c45f51f67a64736e505dfcd9f044585093be",
+    "809a1ddfda170e3b2aba8f5f2dd600edfac22ebb34079068b381973a7e8b9033",
+    "eb88ac5e0681003a5adcf714c8b141b048ac3efff2000e8a5a226527bc79fa43",
+    "6f4a0288dcc7d3834406beefc059b1e014d2510bb8a96480659730ad69575357"
   ],
   "verseViewBy": []
 }
