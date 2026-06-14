@@ -1,9 +1,23 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781400908590,
+  "updatedAt": 1781401149860,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781400910590",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781401149860,
+      "updatedAt": 1781401149860,
+      "status": "active"
+    },
     {
       "id": "local-1781397427416",
       "text": "Gen man pa wé",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 12,
-  "viewCount": 1592,
+  "viewCount": 1661,
   "verseLikedBy": [
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
@@ -129,7 +143,8 @@
     "8f40579cd11a48c299e7a9e0b0ac7b46e3b7df861e11eff7d1004360c11b753b",
     "df13620d40edba5bc705c9627e70dff49c36fd1d444f7b52bb7b0d56397302e2",
     "85dd4d0e56c63885081e6acec7b807b02bb81de418bf708ed6a62d22d0c78fb5",
-    "33da174ec7b2dc20204db01d3efe164c08550b15757e7bb289ba282476150f96"
+    "33da174ec7b2dc20204db01d3efe164c08550b15757e7bb289ba282476150f96",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
   ],
   "verseViewBy": []
 }
