@@ -1,9 +1,37 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781396526165,
+  "updatedAt": 1781396646422,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781396469899",
+      "text": "justifier",
+      "userDeviceId": "d5e46f1daa280116f3bbd06bd5226de3581d7b599115f7c3481cd7715487fea6",
+      "userName": "gerard",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781396646422,
+      "updatedAt": 1781396646422,
+      "status": "active"
+    },
+    {
+      "id": "local-1781396499833",
+      "text": "bernardgerard@gmail.com",
+      "userDeviceId": "d5e46f1daa280116f3bbd06bd5226de3581d7b599115f7c3481cd7715487fea6",
+      "userName": "gerard",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781396646422,
+      "updatedAt": 1781396646422,
+      "status": "active"
+    },
     {
       "id": "local-1781396062739",
       "text": "bib kreyol",
@@ -48,8 +76,8 @@
     }
   ],
   "likeCount": 0,
-  "shareCount": 1,
-  "viewCount": 432,
+  "shareCount": 2,
+  "viewCount": 470,
   "verseLikedBy": [],
   "verseViewBy": []
 }
