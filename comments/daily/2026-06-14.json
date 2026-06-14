@@ -1,9 +1,23 @@
 {
   "date": "2026-06-14",
   "verseKey": "daily:2026-06-14",
-  "updatedAt": 1781411584335,
+  "updatedAt": 1781411827953,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781411626793",
+      "text": "Sel sa map di, penalite sa manke a, se expre yo fe.",
+      "userDeviceId": "79c7dbe67315f89de62ad7f416cf56379e54aa78728ab298bff0172c5dfaa940",
+      "userName": "Haiti21",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781411827953,
+      "updatedAt": 1781411827953,
+      "status": "active"
+    },
     {
       "id": "local-1781408257826",
       "text": "New York champion, dapre mwn Spurs fe yo kado 2 nan match yo pedi a: Congrats to NY.",
@@ -177,7 +191,7 @@
   ],
   "likeCount": 25,
   "shareCount": 46,
-  "viewCount": 4511,
+  "viewCount": 4565,
   "verseLikedBy": [
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
