@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781515805179,
+  "updatedAt": 1781515925495,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781515850136",
+      "text": "amen🙏🙏🙏",
+      "userDeviceId": "3c93431a7fbf4be54b4c170abf80acb755100bbc73438041d87e9cc9b4b5b2e2",
+      "userName": "louidjy montreuil",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781515925495,
+      "updatedAt": 1781515925495,
+      "status": "active"
+    },
     {
       "id": "local-1781510191065",
       "text": "Amén 🙏🙏🙏",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 21,
+  "likeCount": 22,
   "shareCount": 33,
-  "viewCount": 5276,
+  "viewCount": 5299,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
@@ -155,7 +169,8 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
-    "fdef26b6cd7350b2a0cde83bb9a93317e711d6d05bd3c82621900a1ab132caa9"
+    "fdef26b6cd7350b2a0cde83bb9a93317e711d6d05bd3c82621900a1ab132caa9",
+    "356f7d8d6b3c34aed05b19008e50fd62746ac3947f26d888c54a43e9ebd1692e"
   ],
   "verseViewBy": []
 }
