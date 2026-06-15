@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781534593216,
+  "updatedAt": 1781534832366,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781534792897",
+      "text": "Amén",
+      "userDeviceId": "c3d9bb1d4fdf24382057b181cedccb3d7e23a9497486d2253a49b39dd336a14d",
+      "userName": "Farah",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781534832366,
+      "updatedAt": 1781534832366,
+      "status": "active"
+    },
     {
       "id": "local-1781531814776",
       "text": "Amén",
@@ -235,9 +249,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 97,
-  "viewCount": 9568,
+  "likeCount": 50,
+  "shareCount": 98,
+  "viewCount": 9615,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
@@ -287,7 +301,8 @@
     "3e656db51203135f86763a1b8803ec041435b9bfbfc3a638ffc09fa2f6eb535b",
     "63920b5944f81647851a5b4ac4ce21207e3de881a8f48661d471a65fc7a558c9",
     "834b295eee2b7aaaca8480c8f27a5887976649fb8509f1239c722908cc597562",
-    "101a2a0c9d9533493b8b2d5c94d68e8182003525a0e55d42426df64d22285d8e"
+    "101a2a0c9d9533493b8b2d5c94d68e8182003525a0e55d42426df64d22285d8e",
+    "c3d9bb1d4fdf24382057b181cedccb3d7e23a9497486d2253a49b39dd336a14d"
   ],
   "verseViewBy": []
 }
