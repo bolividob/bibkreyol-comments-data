@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781510283094,
+  "updatedAt": 1781510403175,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781510191065",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781510403175,
+      "updatedAt": 1781510403175,
+      "status": "active"
+    },
     {
       "id": "local-1781498467954",
       "text": "Merci seigneur pour ta grâce",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
+  "likeCount": 19,
   "shareCount": 29,
-  "viewCount": 4682,
+  "viewCount": 4685,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
@@ -138,7 +152,8 @@
     "98df3828ae917ef390a3f2f644ffb6b3162e99abff48c87b42c43ab34c5026ea",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
     "2ed979404f5ef3c2cdd721535e600f37e84f4036de9f4ff02777767cab39cc6c",
-    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37"
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
