@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "updatedAt": 1781537103653,
+  "updatedAt": 1781538303003,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 2,
@@ -33,6 +33,13 @@
       ],
       "encouragements": [
         {
+          "id": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430-1781538206127-encouragement",
+          "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+          "userName": "Denisi",
+          "text": "mwen poste deja",
+          "createdAt": 1781538206127
+        },
+        {
           "id": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430-1781536958771-encouragement",
           "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
           "userName": "Anonymous",
@@ -48,7 +55,7 @@
         }
       ],
       "submittedAt": 1781390898817,
-      "updatedAt": 1781536984286,
+      "updatedAt": 1781538303003,
       "answeredAt": null,
       "testimony": null
     },
