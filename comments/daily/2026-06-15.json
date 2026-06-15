@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781516284900,
+  "updatedAt": 1781516404854,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781516364597",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781516404854,
+      "updatedAt": 1781516404854,
+      "status": "active"
+    },
     {
       "id": "local-1781515850136",
       "text": "amen🙏🙏🙏",
@@ -147,7 +161,7 @@
   ],
   "likeCount": 23,
   "shareCount": 35,
-  "viewCount": 5357,
+  "viewCount": 5376,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
