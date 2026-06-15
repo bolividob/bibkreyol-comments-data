@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781517125326,
+  "updatedAt": 1781517246144,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781517203143",
+      "text": "amén merci seignuer 🙌",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781517246144,
+      "updatedAt": 1781517246144,
+      "status": "active"
+    },
     {
       "id": "local-1781516364597",
       "text": "amén amén amén 🙏🙏🙏",
@@ -159,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 24,
-  "shareCount": 37,
-  "viewCount": 5515,
+  "likeCount": 25,
+  "shareCount": 39,
+  "viewCount": 5547,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
@@ -186,7 +200,8 @@
     "fdef26b6cd7350b2a0cde83bb9a93317e711d6d05bd3c82621900a1ab132caa9",
     "356f7d8d6b3c34aed05b19008e50fd62746ac3947f26d888c54a43e9ebd1692e",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
-    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
