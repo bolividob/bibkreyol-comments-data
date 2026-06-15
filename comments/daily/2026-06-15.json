@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781531525282,
+  "updatedAt": 1781531770802,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781531742470",
+      "text": "Amen",
+      "userDeviceId": "34c77a1dd78ffdc9be854ea1d088edf044ed0ddf6056978e86e504dd693e4cf7",
+      "userName": "desire Evelyne",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781531770802,
+      "updatedAt": 1781531770802,
+      "status": "active"
+    },
     {
       "id": "local-1781523536852",
       "text": "Amen 🙏🏼🙇🙏🏼🙇🙏🏼🙇🙏🏼🙇",
@@ -203,9 +217,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
+  "likeCount": 45,
   "shareCount": 91,
-  "viewCount": 8979,
+  "viewCount": 9022,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
@@ -250,7 +264,8 @@
     "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
     "a94596d33475ad3a01b4014adfddce3e484b32732ed25222e24dca1fa1866def",
     "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
-    "23140628d70ad54b2b9dfdb9e9108bba75587a62166dfeb551aae5d3caa80510"
+    "23140628d70ad54b2b9dfdb9e9108bba75587a62166dfeb551aae5d3caa80510",
+    "34c77a1dd78ffdc9be854ea1d088edf044ed0ddf6056978e86e504dd693e4cf7"
   ],
   "verseViewBy": []
 }
