@@ -1,9 +1,25 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781518206517,
+  "updatedAt": 1781518327769,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781518216594",
+      "text": "Amen 🙏🏿🙇🏿‍♂️🧎🏿‍♂️",
+      "userDeviceId": "94c34858f18699299c022416f0e1cd2933ce2d2ef151e2d93ff37c36a6e078f9",
+      "userName": "Charles Jerry",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "94c34858f18699299c022416f0e1cd2933ce2d2ef151e2d93ff37c36a6e078f9"
+      ],
+      "createdAt": 1781518327769,
+      "updatedAt": 1781518327769,
+      "status": "active"
+    },
     {
       "id": "local-1781517203143",
       "text": "amén merci seignuer 🙌",
@@ -173,9 +189,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 25,
+  "likeCount": 26,
   "shareCount": 44,
-  "viewCount": 5785,
+  "viewCount": 5821,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
@@ -201,7 +217,8 @@
     "356f7d8d6b3c34aed05b19008e50fd62746ac3947f26d888c54a43e9ebd1692e",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
-    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "94c34858f18699299c022416f0e1cd2933ce2d2ef151e2d93ff37c36a6e078f9"
   ],
   "verseViewBy": []
 }
