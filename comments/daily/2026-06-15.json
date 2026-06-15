@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781492109587,
+  "updatedAt": 1781493668147,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781493430575",
+      "text": "pa wòl bondye dia amen 🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "30cdaaae5604306f3f8ca86f80c5da6e610b8d101c1abcf4c018532c11a9f0ba",
+      "userName": "bondye",
+      "verseName": "Jij 19:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781493668147,
+      "updatedAt": 1781493668147,
+      "status": "active"
+    },
     {
       "id": "local-1781488431323",
       "text": "amén",
@@ -91,7 +105,7 @@
   ],
   "likeCount": 8,
   "shareCount": 7,
-  "viewCount": 2360,
+  "viewCount": 2420,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
