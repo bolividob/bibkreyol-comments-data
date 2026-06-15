@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781537165849,
+  "updatedAt": 1781537289250,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Women 7:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430"
+      ],
       "createdAt": 1781536819366,
-      "updatedAt": 1781536819366,
+      "updatedAt": 1781537289250,
       "status": "active"
     },
     {
@@ -82,10 +84,12 @@
       "verseName": "Women 7:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430"
+      ],
       "createdAt": 1781523549726,
-      "updatedAt": 1781523549726,
+      "updatedAt": 1781537289250,
       "status": "active"
     },
     {
@@ -279,7 +283,7 @@
   ],
   "likeCount": 55,
   "shareCount": 106,
-  "viewCount": 10137,
+  "viewCount": 10158,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
