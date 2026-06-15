@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781535941529,
+  "updatedAt": 1781536088422,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781535899270",
+      "text": "amén",
+      "userDeviceId": "3a015491b9e7b9553dfc022cffd7ec5632a907107cbb092be470b9d002fc0520",
+      "userName": "Taylor Dawenlove",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781536088422,
+      "updatedAt": 1781536088422,
+      "status": "active"
+    },
     {
       "id": "local-1781534792897",
       "text": "Amén",
@@ -250,8 +264,8 @@
     }
   ],
   "likeCount": 52,
-  "shareCount": 102,
-  "viewCount": 9852,
+  "shareCount": 103,
+  "viewCount": 9889,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
