@@ -1,12 +1,57 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781482866867,
+  "updatedAt": 1781483564144,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
+  "comments": [
+    {
+      "id": "local-1781483266639",
+      "text": "Amen tout legliz!",
+      "userDeviceId": "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
+      "userName": "Brazil20",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781483564144,
+      "updatedAt": 1781483564144,
+      "status": "active"
+    },
+    {
+      "id": "local-1781481861832",
+      "text": "amén 🙏🙏",
+      "userDeviceId": "807e980991e5b8371ca875fb35b7b79d89fd8fcc1ad23afac6358d72de8e1d60",
+      "userName": "Emmanuel joassaint",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781483564144,
+      "updatedAt": 1781483564144,
+      "status": "active"
+    },
+    {
+      "id": "local-1781410551973",
+      "text": "Amen !",
+      "userDeviceId": "64091b6eb6292f6054c9fc9c9413eb1ba145030592bba16a0a7f22f31984a6f9",
+      "userName": "Femme bénie",
+      "verseName": "Filipyen 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781483564144,
+      "updatedAt": 1781483564144,
+      "status": "active"
+    }
+  ],
+  "likeCount": 1,
   "shareCount": 0,
-  "viewCount": 40,
-  "verseLikedBy": [],
+  "viewCount": 422,
+  "verseLikedBy": [
+    "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8"
+  ],
   "verseViewBy": []
 }
