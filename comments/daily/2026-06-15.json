@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781550794379,
+  "updatedAt": 1781550917511,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781550898999",
+      "text": "amén amén amén amén",
+      "userDeviceId": "bca2edea395f6a6cf66c3e909380d98989ab5a3010a3ec9cf0c4a98309c9e47c",
+      "userName": "amén",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781550917511,
+      "updatedAt": 1781550917511,
+      "status": "active"
+    },
     {
       "id": "local-1781542630970",
       "text": "sim pa adore bondyem lan kiyès poum adore🙏🙏🙏",
@@ -359,9 +373,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
+  "likeCount": 70,
   "shareCount": 117,
-  "viewCount": 12787,
+  "viewCount": 12809,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
@@ -431,7 +445,8 @@
     "aaeca715e90f4730076f11344e50b4babdf201fb3ad92974a23b36765921f33e",
     "a649da68f360b5d7c2a36f114acada1606f44a26b692196eefc50f617e7e62f8",
     "3f45c9bd98753b3f656ef6f4c256433c962c7a0f51fd0a5b51e84a6e8832dad5",
-    "b9acd1b25d01289f93ec29717de8d79401a163f85b46f971071237a55a69c668"
+    "b9acd1b25d01289f93ec29717de8d79401a163f85b46f971071237a55a69c668",
+    "bca2edea395f6a6cf66c3e909380d98989ab5a3010a3ec9cf0c4a98309c9e47c"
   ],
   "verseViewBy": []
 }
