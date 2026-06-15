@@ -1,9 +1,23 @@
 {
   "date": "2026-06-15",
   "verseKey": "daily:2026-06-15",
-  "updatedAt": 1781539213411,
+  "updatedAt": 1781539330334,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781539227245",
+      "text": "I know me know me",
+      "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+      "userName": "Denisi",
+      "verseName": "Women 7:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781539330334,
+      "updatedAt": 1781539330334,
+      "status": "active"
+    },
     {
       "id": "local-1781536704114",
       "text": "Ke Dye beni nou",
@@ -17,7 +31,7 @@
         "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430"
       ],
       "createdAt": 1781536819366,
-      "updatedAt": 1781537289250,
+      "updatedAt": 1781539330334,
       "status": "active"
     },
     {
@@ -282,8 +296,8 @@
     }
   ],
   "likeCount": 57,
-  "shareCount": 106,
-  "viewCount": 10657,
+  "shareCount": 107,
+  "viewCount": 10701,
   "verseLikedBy": [
     "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
     "713c5a65d447da2380ed3a7f02be4222f06b2cbfab8b32bf23a2a29b834d0125",
