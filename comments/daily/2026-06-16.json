@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781591523713,
+  "updatedAt": 1781591825663,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781591598676",
+      "text": "nou beni",
+      "userDeviceId": "407b6956dc74c69112b97ae7ea2b93f5ad105bc057465aa3f6c0c5e5a8a80433",
+      "userName": "Gabriel",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781591825663,
+      "updatedAt": 1781591825663,
+      "status": "active"
+    },
     {
       "id": "local-1781589818323",
       "text": "Amén y amén",
@@ -305,9 +319,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 21,
-  "shareCount": 36,
-  "viewCount": 4722,
+  "likeCount": 22,
+  "shareCount": 37,
+  "viewCount": 4748,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -329,7 +343,8 @@
     "6754a2b8def0d4d48db465bc054f7f3e91ac5f2d419049f21abe3bdc4ac4c1bb",
     "8b40ffb5dbdf4144fcec14388bbb8f2e30b3dd22bfb52e8261af750e7aa4aeb7",
     "76f7adfd92925cfc6820483da2cf8104192d3fff433a351bb8e655cf46e4ebd0",
-    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "407b6956dc74c69112b97ae7ea2b93f5ad105bc057465aa3f6c0c5e5a8a80433"
   ],
   "verseViewBy": []
 }
