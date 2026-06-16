@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781618886708,
+  "updatedAt": 1781619029369,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781618994612",
+      "text": "mesi segne  pou  gras  ou",
+      "userDeviceId": "3116c7d37b0251c0f06106c94028f2acee35cca116507a164da5d3fb12295e90",
+      "userName": "Alexis  Judith",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781619029369,
+      "updatedAt": 1781619029369,
+      "status": "active"
+    },
     {
       "id": "local-1781615178018",
       "text": "Bondieu est majestieu",
@@ -495,7 +509,7 @@
   ],
   "likeCount": 55,
   "shareCount": 109,
-  "viewCount": 9643,
+  "viewCount": 9672,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
