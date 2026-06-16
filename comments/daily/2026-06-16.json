@@ -1,9 +1,37 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781569335256,
+  "updatedAt": 1781569642045,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781569468516",
+      "text": "waaa",
+      "userDeviceId": "58359e8b3fb566f5053c2d2cb79e51dca2eb4c2d30242e3747d16d955755bc77",
+      "userName": "garry volcy",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781569642045,
+      "updatedAt": 1781569642045,
+      "status": "active"
+    },
+    {
+      "id": "local-1781569506675",
+      "text": "jezi kris beni nou",
+      "userDeviceId": "58359e8b3fb566f5053c2d2cb79e51dca2eb4c2d30242e3747d16d955755bc77",
+      "userName": "garry volcy",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781569642045,
+      "updatedAt": 1781569642045,
+      "status": "active"
+    },
     {
       "id": "local-1781569183736",
       "text": "bondye Beni nou",
@@ -20,8 +48,8 @@
     }
   ],
   "likeCount": 1,
-  "shareCount": 0,
-  "viewCount": 186,
+  "shareCount": 1,
+  "viewCount": 332,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da"
   ],
