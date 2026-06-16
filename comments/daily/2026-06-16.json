@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781571364602,
+  "updatedAt": 1781572934502,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781572324552",
+      "text": "mèsi jezi",
+      "userDeviceId": "79e89498989b544ed1c1cf9797eddc1acb77d7efb66fddd0dc20cbaac944313d",
+      "userName": "annette alexis",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781572934502,
+      "updatedAt": 1781572934502,
+      "status": "active"
+    },
     {
       "id": "local-1781571149935",
       "text": "bonne soirée nan AK jezi",
@@ -69,7 +83,7 @@
   ],
   "likeCount": 7,
   "shareCount": 6,
-  "viewCount": 988,
+  "viewCount": 1034,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
