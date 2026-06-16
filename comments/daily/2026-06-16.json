@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781644934470,
+  "updatedAt": 1781645046850,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781644958742",
+      "text": "amen",
+      "userDeviceId": "d996fa02885cca5552b958d10edee7a85d3d211d9234131fc039787e1c19f6e9",
+      "userName": "antoinette",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781645046850,
+      "updatedAt": 1781645046850,
+      "status": "active"
+    },
     {
       "id": "local-1781640899994",
       "text": "Bon bagay",
@@ -646,7 +660,7 @@
   ],
   "likeCount": 97,
   "shareCount": 142,
-  "viewCount": 14841,
+  "viewCount": 14869,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
