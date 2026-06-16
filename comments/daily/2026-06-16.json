@@ -1,9 +1,25 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781613796638,
+  "updatedAt": 1781614229709,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781613919681",
+      "text": "bonjour kòman Nou ye",
+      "userDeviceId": "a361b6652f044ea9bdc9106b960cd1fc41a9f645cced9ea9174e5a34eeac8cb8",
+      "userName": "amor",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "a361b6652f044ea9bdc9106b960cd1fc41a9f645cced9ea9174e5a34eeac8cb8"
+      ],
+      "createdAt": 1781614229709,
+      "updatedAt": 1781614229709,
+      "status": "active"
+    },
     {
       "id": "local-1781610520967",
       "text": "Amén 🙏🏻",
@@ -12,10 +28,12 @@
       "verseName": "3 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a361b6652f044ea9bdc9106b960cd1fc41a9f645cced9ea9174e5a34eeac8cb8"
+      ],
       "createdAt": 1781610749070,
-      "updatedAt": 1781610749070,
+      "updatedAt": 1781614229709,
       "status": "active"
     },
     {
@@ -54,10 +72,12 @@
       "verseName": "3 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a361b6652f044ea9bdc9106b960cd1fc41a9f645cced9ea9174e5a34eeac8cb8"
+      ],
       "createdAt": 1781606241629,
-      "updatedAt": 1781606241629,
+      "updatedAt": 1781614229709,
       "status": "active"
     },
     {
@@ -432,8 +452,8 @@
     }
   ],
   "likeCount": 48,
-  "shareCount": 96,
-  "viewCount": 8538,
+  "shareCount": 97,
+  "viewCount": 8635,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
