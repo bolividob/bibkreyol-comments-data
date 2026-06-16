@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781649197741,
+  "updatedAt": 1781649321371,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781649216502",
+      "text": "Bonjour",
+      "userDeviceId": "c78552aa419fe67447e7376eb7bb0d087d7cea5c58a03800ea63ad3a1fa7b0a2",
+      "userName": "Tachou",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781649321371,
+      "updatedAt": 1781649321371,
+      "status": "active"
+    },
     {
       "id": "local-1781644958742",
       "text": "amen",
@@ -663,7 +677,7 @@
   ],
   "likeCount": 105,
   "shareCount": 152,
-  "viewCount": 16045,
+  "viewCount": 16084,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
