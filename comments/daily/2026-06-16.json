@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781615112466,
+  "updatedAt": 1781615240084,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781615178018",
+      "text": "Bondieu est majestieu",
+      "userDeviceId": "df1d058bdcce8569b04a1c88a8293f81b0cfbe12be2631f857ab37b99f00ccf0",
+      "userName": "jean ydèle",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781615240084,
+      "updatedAt": 1781615240084,
+      "status": "active"
+    },
     {
       "id": "local-1781615044158",
       "text": "Bon",
@@ -481,7 +495,7 @@
   ],
   "likeCount": 51,
   "shareCount": 98,
-  "viewCount": 8826,
+  "viewCount": 8850,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
