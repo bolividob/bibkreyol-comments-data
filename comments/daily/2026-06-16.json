@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781633591736,
+  "updatedAt": 1781633714534,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781633693378",
+      "text": "Leve pou Nou priye, mande Bondye padon, e mande li chanje ke ou; se sa ki fe w toujou konekte avek li.",
+      "userDeviceId": "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705",
+      "userName": "Ann Fe Nou Konfians",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781633714534,
+      "updatedAt": 1781633714534,
+      "status": "active"
+    },
     {
       "id": "local-1781624460049",
       "text": "RENÉ LILINE 89 RENÉ",
@@ -569,7 +583,7 @@
   ],
   "likeCount": 79,
   "shareCount": 130,
-  "viewCount": 12932,
+  "viewCount": 12951,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
