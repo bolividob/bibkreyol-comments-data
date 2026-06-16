@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781610440184,
+  "updatedAt": 1781610749070,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781610520967",
+      "text": "Amén 🙏🏻",
+      "userDeviceId": "ae8973d932dd63b1ebea740b7698b69a840db41edfdf7f22f2ef16b2258e68f1",
+      "userName": "Worlmy Exantus",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781610749070,
+      "updatedAt": 1781610749070,
+      "status": "active"
+    },
     {
       "id": "local-1781609181572",
       "text": "amèn",
@@ -417,9 +431,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 88,
-  "viewCount": 7832,
+  "likeCount": 45,
+  "shareCount": 89,
+  "viewCount": 7913,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -463,7 +477,9 @@
     "892b289c887c3cefbae81669335c88d3a4fcc56c7244dd8d0e0e772a57f2999a",
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
-    "84366415c17a50cfc6bc802a9ab290f964763c7aedfac9324db80e5580c91f64"
+    "84366415c17a50cfc6bc802a9ab290f964763c7aedfac9324db80e5580c91f64",
+    "ae8973d932dd63b1ebea740b7698b69a840db41edfdf7f22f2ef16b2258e68f1",
+    "ce6de33333c84ae0702e73d0c2e53e269c530803922b34c6eccb018a69ea6d25"
   ],
   "verseViewBy": []
 }
