@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781601785521,
+  "updatedAt": 1781601907225,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781601860780",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781601907225,
+      "updatedAt": 1781601907225,
+      "status": "active"
+    },
     {
       "id": "local-1781575850951",
       "text": "Bondye beni nou",
@@ -347,9 +361,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
+  "likeCount": 29,
   "shareCount": 49,
-  "viewCount": 5704,
+  "viewCount": 5725,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -378,7 +392,8 @@
     "d43b21597f2ef218c10174468d0f3b7a793553040e5d332a56de7f467a6f028e",
     "c899784f2e808d0d3dde3fde3a0702bc997c48d3eba2a0bbb35f82afd33ee866",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
-    "e519e129706045ca85f4fc92b6c37c11a794035ab5e28f43eb0177129f457d35"
+    "e519e129706045ca85f4fc92b6c37c11a794035ab5e28f43eb0177129f457d35",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
   ],
   "verseViewBy": []
 }
