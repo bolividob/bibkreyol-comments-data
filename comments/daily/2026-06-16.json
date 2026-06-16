@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781636950844,
+  "updatedAt": 1781637064194,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781636980323",
+      "text": "amén amén amén 🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781637064194,
+      "updatedAt": 1781637064194,
+      "status": "active"
+    },
     {
       "id": "local-1781635537034",
       "text": "Yo di Michelle Obama, se yon gason. Sa Bondye di nan bagay konsa. Eske se vre?",
@@ -612,8 +626,8 @@
     }
   ],
   "likeCount": 83,
-  "shareCount": 130,
-  "viewCount": 13444,
+  "shareCount": 132,
+  "viewCount": 13454,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
