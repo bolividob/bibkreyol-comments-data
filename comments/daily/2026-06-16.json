@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781635384225,
+  "updatedAt": 1781635525308,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781633943830",
+      "text": "Amen amen",
+      "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+      "userName": "Denisi",
+      "verseName": "3 Jan 1:5",
+      "parentId": "local-1781633693378",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781635525308,
+      "updatedAt": 1781635525308,
+      "status": "active"
+    },
     {
       "id": "local-1781633693378",
       "text": "Leve pou Nou priye, mande Bondye padon, e mande li chanje ke ou; se sa ki fe w toujou konekte avek li.",
@@ -11,13 +25,13 @@
       "userName": "Ann Fe Nou Konfians",
       "verseName": "3 Jan 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430"
       ],
       "createdAt": 1781633714534,
-      "updatedAt": 1781633945538,
+      "updatedAt": 1781635525308,
       "status": "active"
     },
     {
@@ -585,7 +599,7 @@
   ],
   "likeCount": 81,
   "shareCount": 130,
-  "viewCount": 13204,
+  "viewCount": 13218,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
