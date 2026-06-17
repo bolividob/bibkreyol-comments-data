@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781670845508,
+  "updatedAt": 1781671088847,
   "version": 1,
   "comments": [
     {
@@ -74,10 +74,12 @@
       "verseName": "Travay 5:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae"
+      ],
       "createdAt": 1781667967657,
-      "updatedAt": 1781667967657,
+      "updatedAt": 1781671088847,
       "status": "active"
     },
     {
@@ -249,9 +251,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
+  "likeCount": 16,
   "shareCount": 20,
-  "viewCount": 3829,
+  "viewCount": 3886,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
@@ -266,7 +268,9 @@
     "829d9a4e351ad91eed57e3dfcd896fbba2c0fc8b51321e6362d9379eb78d691a",
     "3edbd77e7e86490187cd9360dc90cbba69d79d36c6bf2e0c7fb27cd13d0bf902",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
-    "2881e2cb7c9a9690c3248b0c8681ef33ff46d8978546bdcbe2b1c824d330c8ad"
+    "2881e2cb7c9a9690c3248b0c8681ef33ff46d8978546bdcbe2b1c824d330c8ad",
+    "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
+    "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19"
   ],
   "verseViewBy": []
 }
