@@ -1,9 +1,39 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781668088743,
+  "updatedAt": 1781668208533,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781668151872",
+      "text": "Haiti better win this Friday!",
+      "userDeviceId": "649eb3a49c35b6c3aeb625f88fac123ced57c04d1b0eeb9e764907393e566503",
+      "userName": "Aloso",
+      "verseName": "Travay 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "649eb3a49c35b6c3aeb625f88fac123ced57c04d1b0eeb9e764907393e566503"
+      ],
+      "createdAt": 1781668208533,
+      "updatedAt": 1781668208533,
+      "status": "active"
+    },
+    {
+      "id": "local-1781668190536",
+      "text": "Naples Florida",
+      "userDeviceId": "649eb3a49c35b6c3aeb625f88fac123ced57c04d1b0eeb9e764907393e566503",
+      "userName": "Aloso",
+      "verseName": "Travay 5:2",
+      "parentId": "local-1781667965890",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781668208533,
+      "updatedAt": 1781668208533,
+      "status": "active"
+    },
     {
       "id": "local-1781667965890",
       "text": "Hi everyone, where are you using this app from.",
@@ -11,11 +41,13 @@
       "userName": "Animate",
       "verseName": "Travay 5:2",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "649eb3a49c35b6c3aeb625f88fac123ced57c04d1b0eeb9e764907393e566503"
+      ],
       "createdAt": 1781668088743,
-      "updatedAt": 1781668088743,
+      "updatedAt": 1781668208533,
       "status": "active"
     },
     {
@@ -26,10 +58,12 @@
       "verseName": "Travay 5:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "649eb3a49c35b6c3aeb625f88fac123ced57c04d1b0eeb9e764907393e566503"
+      ],
       "createdAt": 1781667967657,
-      "updatedAt": 1781667967657,
+      "updatedAt": 1781668208533,
       "status": "active"
     },
     {
@@ -217,7 +251,7 @@
   ],
   "likeCount": 14,
   "shareCount": 20,
-  "viewCount": 3474,
+  "viewCount": 3525,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
