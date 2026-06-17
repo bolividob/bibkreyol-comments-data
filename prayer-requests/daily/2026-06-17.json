@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "updatedAt": 1781732762499,
+  "updatedAt": 1781736855317,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 4,
@@ -16,12 +16,27 @@
       "customExpectedSeason": null,
       "request": "som 23",
       "status": "answered",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
-      "encouragements": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "byen",
+          "prayedAt": 1781736823105
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89-1781736823105-encouragement",
+          "userDeviceId": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89",
+          "userName": "byen",
+          "text": "Men \nok",
+          "createdAt": 1781736823105
+        }
+      ],
       "submittedAt": 1781732572867,
-      "updatedAt": 1781732762499,
+      "updatedAt": 1781736855316,
       "answeredAt": 1781732644770,
       "testimony": null
     },
