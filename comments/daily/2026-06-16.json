@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781654050230,
+  "updatedAt": 1781656262593,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781654062111",
+      "text": "ou pa we lew",
+      "userDeviceId": "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705",
+      "userName": "Ann Fe Nou Konfians",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781656262593,
+      "updatedAt": 1781656262593,
+      "status": "active"
+    },
     {
       "id": "local-1781649216502",
       "text": "Bonjour",
@@ -40,13 +54,14 @@
       "verseName": "3 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "c16fb4f0e0a64175d65ec87a160f9f1b0a9de23f248941639cd8fb1806b869c9",
-        "4846773c4b920c128ada74735273560354cc1ac36cfdd0f1b0e08ddf50de69bf"
+        "4846773c4b920c128ada74735273560354cc1ac36cfdd0f1b0e08ddf50de69bf",
+        "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705"
       ],
       "createdAt": 1781640917105,
-      "updatedAt": 1781646971233,
+      "updatedAt": 1781656262593,
       "status": "active"
     },
     {
@@ -677,7 +692,7 @@
   ],
   "likeCount": 109,
   "shareCount": 158,
-  "viewCount": 17638,
+  "viewCount": 17737,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
