@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781664210454,
+  "updatedAt": 1781664630046,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781664584549",
+      "text": "amen amen",
+      "userDeviceId": "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f",
+      "userName": "merci jesus pou gras ou",
+      "verseName": "Travay 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781664630046,
+      "updatedAt": 1781664630046,
+      "status": "active"
+    },
     {
       "id": "local-1781663772333",
       "text": "Amén amén amén amén",
@@ -159,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
-  "shareCount": 14,
-  "viewCount": 2446,
+  "likeCount": 9,
+  "shareCount": 15,
+  "viewCount": 2647,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
@@ -169,7 +183,9 @@
     "a0e435c873d5fa57c329624fa2c712199b83766fbf5eca859d0a69fdb0098890",
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
-    "12008cb0a8d36cca0a1b08b06b350aec9cb47dc7d5c2cbd14fe51ea9fe67fa20"
+    "12008cb0a8d36cca0a1b08b06b350aec9cb47dc7d5c2cbd14fe51ea9fe67fa20",
+    "5cf247e89e0bba4d0d4a9e5846af970da37a0a60220e9b2c7fcd0eda5e18471e",
+    "d904dc0c9f6715fa1e94823e02e04e9977bfd46ce8b7d61208006cbbaba49d0f"
   ],
   "verseViewBy": []
 }
