@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "updatedAt": 1781736855317,
+  "updatedAt": 1781736965161,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 4,
@@ -28,6 +28,13 @@
       ],
       "encouragements": [
         {
+          "id": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89-1781736863885-encouragement",
+          "userDeviceId": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89",
+          "userName": "byen",
+          "text": "mwen vlekòn nn",
+          "createdAt": 1781736863885
+        },
+        {
           "id": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89-1781736823105-encouragement",
           "userDeviceId": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89",
           "userName": "byen",
@@ -36,7 +43,7 @@
         }
       ],
       "submittedAt": 1781732572867,
-      "updatedAt": 1781736855316,
+      "updatedAt": 1781736965161,
       "answeredAt": 1781732644770,
       "testimony": null
     },
