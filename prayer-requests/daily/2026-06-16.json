@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "updatedAt": 1781635862516,
+  "updatedAt": 1781697183762,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 2,
@@ -16,12 +16,17 @@
       "customExpectedSeason": null,
       "request": "Haiti deja nan final, yo preske champion",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
-        "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430"
+        "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+        "ccc94918110bf15d7904596f8d89661c7544655e9d23a3cc331d1d757c6ec8f7"
       ],
       "prayingPreview": [
+        {
+          "userName": "antioline",
+          "prayedAt": 1781697069643
+        },
         {
           "userName": "Anonymous",
           "prayedAt": 1781536958771
@@ -55,7 +60,7 @@
         }
       ],
       "submittedAt": 1781390898817,
-      "updatedAt": 1781538303003,
+      "updatedAt": 1781697183762,
       "answeredAt": null,
       "testimony": null
     },
