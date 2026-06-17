@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781667967657,
+  "updatedAt": 1781668088743,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781667965890",
+      "text": "Hi everyone, where are you using this app from.",
+      "userDeviceId": "3edbd77e7e86490187cd9360dc90cbba69d79d36c6bf2e0c7fb27cd13d0bf902",
+      "userName": "Animate",
+      "verseName": "Travay 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781668088743,
+      "updatedAt": 1781668088743,
+      "status": "active"
+    },
     {
       "id": "local-1781667894945",
       "text": "Gloire pour Dieu",
@@ -201,9 +215,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
+  "likeCount": 14,
   "shareCount": 20,
-  "viewCount": 3417,
+  "viewCount": 3474,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
@@ -217,7 +231,8 @@
     "c5e39c3f4a616b96f244b9dabb7fe594f39629d84c045822688fc927e23925f2",
     "829d9a4e351ad91eed57e3dfcd896fbba2c0fc8b51321e6362d9379eb78d691a",
     "3edbd77e7e86490187cd9360dc90cbba69d79d36c6bf2e0c7fb27cd13d0bf902",
-    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "2881e2cb7c9a9690c3248b0c8681ef33ff46d8978546bdcbe2b1c824d330c8ad"
   ],
   "verseViewBy": []
 }
