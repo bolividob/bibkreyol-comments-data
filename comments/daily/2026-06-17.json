@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781740506958,
+  "updatedAt": 1781740639704,
   "version": 1,
   "comments": [
     {
@@ -124,12 +124,13 @@
       "verseName": "Travay 5:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "c2137c3d9dee1adfbf4a828677e82a1519a44e3fa0598827a9775ec911e81b71"
+        "c2137c3d9dee1adfbf4a828677e82a1519a44e3fa0598827a9775ec911e81b71",
+        "a2c5aeb219d31a9f62e42fab7b6e39080d9a5f1c1af7e5b2d1788f127fb8d685"
       ],
       "createdAt": 1781688605538,
-      "updatedAt": 1781720585937,
+      "updatedAt": 1781740639704,
       "status": "active"
     },
     {
@@ -456,7 +457,7 @@
   ],
   "likeCount": 78,
   "shareCount": 140,
-  "viewCount": 17793,
+  "viewCount": 17855,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
