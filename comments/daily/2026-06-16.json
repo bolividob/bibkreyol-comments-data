@@ -1,9 +1,23 @@
 {
   "date": "2026-06-16",
   "verseKey": "daily:2026-06-16",
-  "updatedAt": 1781691986409,
+  "updatedAt": 1781692353226,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781649051948",
+      "text": "amén",
+      "userDeviceId": "1160463a31acb6e4a78d2ef1da6a8fc9d3b2ae34aa6eacac48898c8614c9f8e7",
+      "userName": "amén",
+      "verseName": "3 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781692353226,
+      "updatedAt": 1781692353226,
+      "status": "active"
+    },
     {
       "id": "local-1781654062111",
       "text": "ou pa we lew",
@@ -690,9 +704,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 109,
+  "likeCount": 110,
   "shareCount": 159,
-  "viewCount": 17784,
+  "viewCount": 17785,
   "verseLikedBy": [
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -802,7 +816,8 @@
     "3adf02b3543905a62bda689e7996fd3705d7bf33ac8408cd680c6e8a61a05e22",
     "1acb1d4d024a9552475cf122ec3fe3140174ef91a274f031499c1b1deef4fdcb",
     "5ad10cd0f35e52212e24aa97bbb93d339abb2d8d6010cee2520668881c782d35",
-    "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9"
+    "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9",
+    "1160463a31acb6e4a78d2ef1da6a8fc9d3b2ae34aa6eacac48898c8614c9f8e7"
   ],
   "verseViewBy": []
 }
