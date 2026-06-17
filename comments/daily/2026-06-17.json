@@ -1,9 +1,37 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781667850833,
+  "updatedAt": 1781667967657,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781667894945",
+      "text": "Gloire pour Dieu",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Travay 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781667967657,
+      "updatedAt": 1781667967657,
+      "status": "active"
+    },
+    {
+      "id": "local-1781667910086",
+      "text": "Amèn Amèn Amèn tout glwa pou Bondye",
+      "userDeviceId": "bb8aad8fadd95678d59764db6b447ef79c8e20b72334b2d7cd13d4f93d279e7a",
+      "userName": "frè jeanrony Apredieu",
+      "verseName": "Travay 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781667967657,
+      "updatedAt": 1781667967657,
+      "status": "active"
+    },
     {
       "id": "local-1781664584549",
       "text": "amen amen",
@@ -175,7 +203,7 @@
   ],
   "likeCount": 13,
   "shareCount": 20,
-  "viewCount": 3371,
+  "viewCount": 3417,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
