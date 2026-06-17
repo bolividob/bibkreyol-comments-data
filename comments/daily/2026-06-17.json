@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781675403196,
+  "updatedAt": 1781675525504,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781675456159",
+      "text": "Si FIFA vle",
+      "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+      "userName": "Denisi",
+      "verseName": "Travay 5:2",
+      "parentId": "local-1781668151872",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781675525504,
+      "updatedAt": 1781675525504,
+      "status": "active"
+    },
     {
       "id": "local-1781671091299",
       "text": "Amén amén amén",
@@ -25,13 +39,13 @@
       "userName": "Aloso",
       "verseName": "Travay 5:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "649eb3a49c35b6c3aeb625f88fac123ced57c04d1b0eeb9e764907393e566503"
       ],
       "createdAt": 1781668208533,
-      "updatedAt": 1781668208533,
+      "updatedAt": 1781675525504,
       "status": "active"
     },
     {
@@ -105,10 +119,12 @@
       "verseName": "Travay 5:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a90c7a83038bf04b199d3bef95cb7573d5a4277564d5d810049fd2f19b33da93"
+      ],
       "createdAt": 1781664630046,
-      "updatedAt": 1781664630046,
+      "updatedAt": 1781675525504,
       "status": "active"
     },
     {
@@ -266,9 +282,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 19,
-  "shareCount": 24,
-  "viewCount": 4454,
+  "likeCount": 20,
+  "shareCount": 25,
+  "viewCount": 4474,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
@@ -288,7 +304,8 @@
     "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19",
     "d29f49de3f3d62fa4c255d3493d38cbb155d99fda42585e59fc3392c3b73e8ad",
     "c5bd57974e04bd3e99acb2ab7972a13d534e049633ece557f5488f515ab03f7f",
-    "d58dfbc6ac9ee595e5990b250a7bee1c8e36d960f9e20f93149c40e4af031fe2"
+    "d58dfbc6ac9ee595e5990b250a7bee1c8e36d960f9e20f93149c40e4af031fe2",
+    "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430"
   ],
   "verseViewBy": []
 }
