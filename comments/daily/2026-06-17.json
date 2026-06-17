@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781710687116,
+  "updatedAt": 1781710943576,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781710776056",
+      "text": "person pa ka bay santespri manti.",
+      "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+      "userName": "Denisi",
+      "verseName": "Travay 5:2",
+      "parentId": "local-1781665702779",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781710943576,
+      "updatedAt": 1781710943576,
+      "status": "active"
+    },
     {
       "id": "local-1781665702779",
       "text": "nou pa bay sentespri manti",
@@ -11,11 +25,11 @@
       "userName": "fr hold",
       "verseName": "Travay 5:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1781701386253,
-      "updatedAt": 1781701386253,
+      "updatedAt": 1781710943576,
       "status": "active"
     },
     {
@@ -26,12 +40,13 @@
       "verseName": "Travay 5:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "eaf7642f35f7265797f1ff0611a72dec1072bef7c97b5de324b597daf872b92b"
+        "eaf7642f35f7265797f1ff0611a72dec1072bef7c97b5de324b597daf872b92b",
+        "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430"
       ],
       "createdAt": 1781695643136,
-      "updatedAt": 1781697545798,
+      "updatedAt": 1781710943576,
       "status": "active"
     },
     {
@@ -386,7 +401,7 @@
   ],
   "likeCount": 50,
   "shareCount": 96,
-  "viewCount": 11011,
+  "viewCount": 11076,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
