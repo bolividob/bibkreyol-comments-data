@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781671088847,
+  "updatedAt": 1781671214772,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781671091299",
+      "text": "Amén amén amén",
+      "userDeviceId": "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae",
+      "userName": "cynthiachevry654@gmail.com",
+      "verseName": "Travay 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781671214772,
+      "updatedAt": 1781671214772,
+      "status": "active"
+    },
     {
       "id": "local-1781668151872",
       "text": "Haiti better win this Friday!",
@@ -79,7 +93,7 @@
         "0cfd6be3d47c231957877f0b78664145f3350aa7098f80a9613eef91cdf97eae"
       ],
       "createdAt": 1781667967657,
-      "updatedAt": 1781671088847,
+      "updatedAt": 1781671214772,
       "status": "active"
     },
     {
@@ -253,7 +267,7 @@
   ],
   "likeCount": 16,
   "shareCount": 20,
-  "viewCount": 3886,
+  "viewCount": 3907,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
