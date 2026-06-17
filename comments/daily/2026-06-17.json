@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781730127215,
+  "updatedAt": 1781730278362,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781730193853",
+      "text": "apokakip",
+      "userDeviceId": "dfcbb28fbf4190e9370ac32878d21953a66c2d1837f340b1a2fe31116474e732",
+      "userName": "apolup",
+      "verseName": "Travay 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781730278362,
+      "updatedAt": 1781730278362,
+      "status": "active"
+    },
     {
       "id": "local-1781715754822",
       "text": "amén",
@@ -442,7 +456,7 @@
   ],
   "likeCount": 68,
   "shareCount": 129,
-  "viewCount": 14740,
+  "viewCount": 14777,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
