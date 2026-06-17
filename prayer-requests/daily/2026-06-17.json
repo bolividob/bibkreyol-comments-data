@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "updatedAt": 1781732643004,
+  "updatedAt": 1781732762499,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 4,
@@ -15,14 +15,14 @@
       "expectedSeason": "few_weeks",
       "customExpectedSeason": null,
       "request": "som 23",
-      "status": "praying",
+      "status": "answered",
       "prayerCount": 0,
       "prayedBy": [],
       "prayingPreview": [],
       "encouragements": [],
       "submittedAt": 1781732572867,
-      "updatedAt": 1781732643004,
-      "answeredAt": null,
+      "updatedAt": 1781732762499,
+      "answeredAt": 1781732644770,
       "testimony": null
     },
     {
