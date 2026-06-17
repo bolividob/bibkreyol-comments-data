@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "verseKey": "daily:2026-06-17",
-  "updatedAt": 1781714471769,
+  "updatedAt": 1781714717662,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781714654283",
+      "text": "amneem",
+      "userDeviceId": "9149d59de6cd7edfa099ef916e77c2420057ee95b37824a613b0daaba36e33ea",
+      "userName": "yefry pezer",
+      "verseName": "Jenèz 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781714717662,
+      "updatedAt": 1781714717662,
+      "status": "active"
+    },
     {
       "id": "local-1781710776056",
       "text": "person pa ka bay santespri manti.",
@@ -401,9 +415,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 52,
-  "shareCount": 100,
-  "viewCount": 12009,
+  "likeCount": 53,
+  "shareCount": 101,
+  "viewCount": 12064,
   "verseLikedBy": [
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
@@ -456,7 +470,8 @@
     "2c20a3d263e50380784e8fc381aff48532b4d2eab7ab535b4f7bf284b8488bd3",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "c970b31ca1e73e502673e8729a4495db75be6662b277f276865513b9d51057f9",
-    "e8c1839a1e499d2df5866d2c11f824ae8582b77934571419f2f8d5d70c00e23a"
+    "e8c1839a1e499d2df5866d2c11f824ae8582b77934571419f2f8d5d70c00e23a",
+    "9149d59de6cd7edfa099ef916e77c2420057ee95b37824a613b0daaba36e33ea"
   ],
   "verseViewBy": []
 }
