@@ -1,9 +1,37 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781785153571,
+  "updatedAt": 1781785325903,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781785278852",
+      "text": "mési segne paske ou benim",
+      "userDeviceId": "e67d51c3cd7f907e7daa6fbc4dd378c19249486e3731a9c987251252ca8779ef",
+      "userName": "François",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781785325903,
+      "updatedAt": 1781785325903,
+      "status": "active"
+    },
+    {
+      "id": "local-1781785293961",
+      "text": "🙏🙏",
+      "userDeviceId": "e67d51c3cd7f907e7daa6fbc4dd378c19249486e3731a9c987251252ca8779ef",
+      "userName": "François",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781785325903,
+      "updatedAt": 1781785325903,
+      "status": "active"
+    },
     {
       "id": "local-1781784742599",
       "text": "Amén",
@@ -302,8 +330,8 @@
     }
   ],
   "likeCount": 62,
-  "shareCount": 100,
-  "viewCount": 8195,
+  "shareCount": 102,
+  "viewCount": 8224,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
