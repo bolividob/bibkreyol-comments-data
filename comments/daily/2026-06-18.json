@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781747353643,
+  "updatedAt": 1781749534740,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781749238852",
+      "text": "mw apresye aa",
+      "userDeviceId": "285dd9306b66c3d3c59e06fccfb0d616574118eced3de082e52b13a985fc2d59",
+      "userName": "magdala juste y7",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781749534740,
+      "updatedAt": 1781749534740,
+      "status": "active"
+    },
     {
       "id": "local-1781742570387",
       "text": "Amen amen amen amen amen amen amen amen amen 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -29,13 +43,13 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1781742753211,
-      "updatedAt": 1781742753211,
+      "updatedAt": 1781749534740,
       "status": "active"
     }
   ],
-  "likeCount": 10,
+  "likeCount": 13,
   "shareCount": 10,
-  "viewCount": 1572,
+  "viewCount": 1797,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -46,7 +60,10 @@
     "ca56ba51ddd9ed91f4e8f8e5f132f2bceadab9e940b8c7106f2c014a5c1276de",
     "0fb9e23486ffe92768b46b1934f2ed00ed88806faa79f27636c7c098faa20189",
     "b1da923eebb8ad56b91b8679d197d8917973737961fac2d4b0d75fdcc985c134",
-    "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+    "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966",
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
   ],
   "verseViewBy": []
 }
