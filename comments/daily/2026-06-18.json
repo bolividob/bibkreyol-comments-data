@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781813464599,
+  "updatedAt": 1781813585540,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781813558241",
+      "text": "seigneur tanpri tande priyem 🙏",
+      "userDeviceId": "31dc7934411c6692ce0a9528cc980e5748e3ad309a90f1ae16fe55e740573e5f",
+      "userName": "Magdane Servius",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781813585540,
+      "updatedAt": 1781813585540,
+      "status": "active"
+    },
     {
       "id": "local-1781812782487",
       "text": "Bondye gen pouvwa Poul fè tout bagay🙏🙏🙏❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥",
@@ -520,9 +534,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 109,
+  "likeCount": 110,
   "shareCount": 172,
-  "viewCount": 14037,
+  "viewCount": 14061,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -632,7 +646,8 @@
     "1ff8c65f9107eecd6f2e36cfb07246d0439ce2e7913a3b81dbe4730c02542aeb",
     "63311e76ea7e16e82f75b985b4f81c745fcf1f191883a7877d403b28bcce82c9",
     "81ad7717210cabf542e351d33787408561245941836c61437885fde5017844ee",
-    "b44a13d9139109bb2577c92b80ffa39af61b5015833f555e5b7ab4a3843b03ab"
+    "b44a13d9139109bb2577c92b80ffa39af61b5015833f555e5b7ab4a3843b03ab",
+    "31dc7934411c6692ce0a9528cc980e5748e3ad309a90f1ae16fe55e740573e5f"
   ],
   "verseViewBy": []
 }
