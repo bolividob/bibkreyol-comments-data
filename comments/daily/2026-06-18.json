@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781784546953,
+  "updatedAt": 1781784790975,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781784742599",
+      "text": "Amén",
+      "userDeviceId": "ae8973d932dd63b1ebea740b7698b69a840db41edfdf7f22f2ef16b2258e68f1",
+      "userName": "Worlmy Exantus",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781784790975,
+      "updatedAt": 1781784790975,
+      "status": "active"
+    },
     {
       "id": "local-1781783324197",
       "text": "Amen amen amen",
@@ -287,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
+  "likeCount": 61,
   "shareCount": 99,
-  "viewCount": 8049,
+  "viewCount": 8115,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -350,7 +364,8 @@
     "72b5e58ef60270369d4a51be00e6daf002f4c24847cef94e2e3f90e5c5f13764",
     "6af9bdcc9e8d265faffc6c1afc2b81e9b40e6759bde6a844b7b9b70fb8db8897",
     "39fab6f6c8bccae1a02109a183568ec04343ea7f54d9a6c40c79ca83d13a7256",
-    "07802278baa0dac36ef0cf99c3ff16b3a79a7c38d6c2fadb6061368a6d6cc203"
+    "07802278baa0dac36ef0cf99c3ff16b3a79a7c38d6c2fadb6061368a6d6cc203",
+    "ae8973d932dd63b1ebea740b7698b69a840db41edfdf7f22f2ef16b2258e68f1"
   ],
   "verseViewBy": []
 }
