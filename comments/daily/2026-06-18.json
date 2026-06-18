@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781762235126,
+  "updatedAt": 1781762354137,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781762239001",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781762354137,
+      "updatedAt": 1781762354137,
+      "status": "active"
+    },
     {
       "id": "local-1781761634834",
       "text": "Amèn! Bondye kite pitit li yo soufri se pou non l' ka beni! Tout glwa pou Segnè Jezi Kris ki renmen nou anpil la!",
@@ -138,8 +152,8 @@
     }
   ],
   "likeCount": 36,
-  "shareCount": 34,
-  "viewCount": 4440,
+  "shareCount": 36,
+  "viewCount": 4447,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
