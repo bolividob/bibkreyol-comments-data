@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781788747299,
+  "updatedAt": 1781788991510,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781788775959",
+      "text": "c bonDye m nan k bonDye🙏",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781788991510,
+      "updatedAt": 1781788991510,
+      "status": "active"
+    },
     {
       "id": "local-1781786866701",
       "text": "Bonjour kijan nou ye?",
@@ -345,7 +359,7 @@
   ],
   "likeCount": 71,
   "shareCount": 122,
-  "viewCount": 9020,
+  "viewCount": 9086,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
