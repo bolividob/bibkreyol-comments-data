@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781779626103,
+  "updatedAt": 1781779748027,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781779682500",
+      "text": "Amén🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781779748027,
+      "updatedAt": 1781779748027,
+      "status": "active"
+    },
     {
       "id": "local-1781779139818",
       "text": "Gloire a Dieu",
@@ -236,8 +250,8 @@
     }
   ],
   "likeCount": 51,
-  "shareCount": 79,
-  "viewCount": 6743,
+  "shareCount": 84,
+  "viewCount": 6785,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
