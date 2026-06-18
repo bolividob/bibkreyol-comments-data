@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781754562886,
+  "updatedAt": 1781754794612,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781754678559",
+      "text": "Amen Amen Amen Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781754794612,
+      "updatedAt": 1781754794612,
+      "status": "active"
+    },
     {
       "id": "local-1781753508869",
       "text": "Mwen anfòm Ak Jezi e ou menm ?",
@@ -65,9 +79,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
+  "likeCount": 23,
   "shareCount": 11,
-  "viewCount": 3297,
+  "viewCount": 3398,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -90,7 +104,8 @@
     "15ae86ba7e52c08e59e33b3d6d771e22db2ece7362865c89aefa94983b3edcb0",
     "e715a4ad6e47df4452e64347537c6b93a7e079d64960a79a2edc77e6f0706ec2",
     "bbe13e49a0c87846e4bd3c135e18ef2078dd77b9611565d97871abf281c59c0c",
-    "006cc9410b953bc9782a096c35c638b3aaad370cd1a413ea948d4d158643a300"
+    "006cc9410b953bc9782a096c35c638b3aaad370cd1a413ea948d4d158643a300",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240"
   ],
   "verseViewBy": []
 }
