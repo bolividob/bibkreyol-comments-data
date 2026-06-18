@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "updatedAt": 1781762763433,
+  "updatedAt": 1781779820408,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 6,
@@ -16,12 +16,27 @@
       "customExpectedSeason": null,
       "request": "Ede m' priye pou Bondye kenbe m' lakay li e fè m' rete nan volonte l' menm ke m'ap soufri pou tout rès vi m' nan non Jezi Kris!🙏🏼🙏🏼🙏🏼",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
-      "encouragements": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "melquicedec",
+          "prayedAt": 1781779773852
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d-1781779773852-encouragement",
+          "userDeviceId": "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d",
+          "userName": "melquicedec",
+          "text": "Il ne s'agit pas seulement d'un culte oral, mais aussi d'un culte au nom de Dieu qui les accompagne.",
+          "createdAt": 1781779773852
+        }
+      ],
       "submittedAt": 1781762758453,
-      "updatedAt": 1781762763433,
+      "updatedAt": 1781779820408,
       "answeredAt": null,
       "testimony": null
     },
