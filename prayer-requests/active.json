@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781818453281,
+  "updatedAt": 1781819404768,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,11 +14,16 @@
       "customExpectedSeason": null,
       "request": "Pou Mwen fè yon bon Chrétien Kap imite Christ",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "15b59df571c8dd136ec54fc11315765e5f5f35bbf1cc3ce163344cdcf3a38b93"
+        "15b59df571c8dd136ec54fc11315765e5f5f35bbf1cc3ce163344cdcf3a38b93",
+        "d00425e9fee8b26187852d6ef9521f518f820a24e147c572d5f4dc390df0fecb"
       ],
       "prayingPreview": [
+        {
+          "userName": "mayoo",
+          "prayedAt": 1781819295987
+        },
         {
           "userName": "sr benitha",
           "prayedAt": 1781818342202
@@ -26,7 +31,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1781809107560,
-      "updatedAt": 1781818452524,
+      "updatedAt": 1781819403930,
       "answeredAt": null,
       "testimony": null
     },
