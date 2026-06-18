@@ -1,10 +1,30 @@
 {
   "date": "2026-06-18",
-  "updatedAt": 1781783762133,
+  "updatedAt": 1781784962896,
   "version": 1,
   "dailyLimit": 33,
-  "dailySubmissionCount": 6,
+  "dailySubmissionCount": 7,
   "requests": [
+    {
+      "id": "local-prayer-1781788415505",
+      "userDeviceId": "84e6eba0059119bf14a26ad036325e86a37bdd2a3c52cec29aab44736c300496",
+      "userName": "sabibi",
+      "category": "spiritual_growth",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "Disponibilité pour le ministère",
+      "status": "praying",
+      "prayerCount": 0,
+      "prayedBy": [],
+      "prayingPreview": [],
+      "encouragements": [],
+      "submittedAt": 1781784878392,
+      "updatedAt": 1781784962896,
+      "answeredAt": null,
+      "testimony": null
+    },
     {
       "id": "local-prayer-1781762741136",
       "userDeviceId": "d340ffcb4b58a0ffd71ac39450dad0f7a7dcb78d1a208747bfedf73fc4a521c9",
