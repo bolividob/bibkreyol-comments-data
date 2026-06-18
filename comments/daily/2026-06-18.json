@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781797867192,
+  "updatedAt": 1781798001949,
   "version": 1,
   "comments": [
     {
@@ -96,10 +96,12 @@
       "verseName": "Egzòd 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ad4127cb10a9a71373a8e63e46d8c05729e5337e8c1c82c9e7b42402f8b98717"
+      ],
       "createdAt": 1781788991510,
-      "updatedAt": 1781788991510,
+      "updatedAt": 1781798001949,
       "status": "active"
     },
     {
@@ -444,7 +446,7 @@
   ],
   "likeCount": 93,
   "shareCount": 155,
-  "viewCount": 11096,
+  "viewCount": 11136,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
