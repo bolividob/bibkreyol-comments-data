@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781789225758,
+  "updatedAt": 1781789346348,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781789332076",
+      "text": "amén",
+      "userDeviceId": "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
+      "userName": "amén",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781789346348,
+      "updatedAt": 1781789346348,
+      "status": "active"
+    },
     {
       "id": "local-1781788775959",
       "text": "c bonDye m nan k bonDye🙏",
@@ -357,9 +371,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
-  "shareCount": 122,
-  "viewCount": 9136,
+  "likeCount": 72,
+  "shareCount": 123,
+  "viewCount": 9166,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -431,7 +445,8 @@
     "07f1fce7875fa70dce7842dfbc54d9a05bba8f1b5bd7d8427e9df60c89c0d075",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "44c35900e12dca6ffea29223e1f61ab4709d88546756067d18510011d68ffa7c",
-    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12"
   ],
   "verseViewBy": []
 }
