@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781812516677,
+  "updatedAt": 1781812643729,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781812536032",
+      "text": "amén amén",
+      "userDeviceId": "1993cae032b305518db15422abffbe241c7ec5668748045bb5ac5105930a0858",
+      "userName": "viegelineaugustin",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781812643729,
+      "updatedAt": 1781812643729,
+      "status": "active"
+    },
     {
       "id": "local-1781810712469",
       "text": "M gen pou bann option, pou nou mete vese jounen pou kont nou.",
@@ -100,10 +114,12 @@
       "verseName": "Egzòd 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1993cae032b305518db15422abffbe241c7ec5668748045bb5ac5105930a0858"
+      ],
       "createdAt": 1781790786074,
-      "updatedAt": 1781790786074,
+      "updatedAt": 1781812643729,
       "status": "active"
     },
     {
@@ -492,7 +508,7 @@
   ],
   "likeCount": 107,
   "shareCount": 171,
-  "viewCount": 13882,
+  "viewCount": 13901,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
