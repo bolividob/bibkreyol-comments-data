@@ -1,10 +1,30 @@
 {
   "date": "2026-06-18",
-  "updatedAt": 1781798650975,
+  "updatedAt": 1781809217968,
   "version": 1,
   "dailyLimit": 33,
-  "dailySubmissionCount": 9,
+  "dailySubmissionCount": 10,
   "requests": [
+    {
+      "id": "local-prayer-1781809105349",
+      "userDeviceId": "92cd1d42a958b9a93a049b27f226286f954fe6ff32d00ef816710f1698bc9fde",
+      "userName": "judelove",
+      "category": "healing",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "Pou Mwen fè yon bon Chrétien Kap imite Christ",
+      "status": "praying",
+      "prayerCount": 0,
+      "prayedBy": [],
+      "prayingPreview": [],
+      "encouragements": [],
+      "submittedAt": 1781809107560,
+      "updatedAt": 1781809217968,
+      "answeredAt": null,
+      "testimony": null
+    },
     {
       "id": "local-prayer-1781800910675",
       "userDeviceId": "ac5ab05ef3f63c0cd9c591da0291f13a83537b66971ca0c4eebb54c9a6c5c42b",
