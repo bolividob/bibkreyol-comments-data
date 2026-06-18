@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "updatedAt": 1781784962896,
+  "updatedAt": 1781785802554,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 7,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "Disponibilité pour le ministère",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "df9753fb1e79ccee5c6f6d3036a2d519f11603575882742eaf8f979a41e4bd7a"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Jesús ou se tout pou mwen",
+          "prayedAt": 1781785769226
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1781784878392,
-      "updatedAt": 1781784962896,
+      "updatedAt": 1781785802554,
       "answeredAt": null,
       "testimony": null
     },
