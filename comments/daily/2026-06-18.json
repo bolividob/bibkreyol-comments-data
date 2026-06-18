@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781801593978,
+  "updatedAt": 1781801714657,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Egzòd 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fe5d0984b061fec06780f8f92ad283f7e0826ab333546d9414c809874e39d15f"
+      ],
       "createdAt": 1781793429835,
-      "updatedAt": 1781793429835,
+      "updatedAt": 1781801714657,
       "status": "active"
     },
     {
@@ -472,9 +474,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 97,
-  "shareCount": 159,
-  "viewCount": 12064,
+  "likeCount": 99,
+  "shareCount": 160,
+  "viewCount": 12096,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -572,7 +574,9 @@
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
     "b8e696359e29394ebe40492394984d0ad0da8d4d41d6f148343de8ccdd641611",
     "7fcb4c2ecac8f8e7ef99eb1072d93b489e0c63deaa14ed4e9d7b9abb7040b26c",
-    "11c0748638b87d23679f48176cdd025a83ba0b6e331c2898c8efe5ce6cc660b5"
+    "11c0748638b87d23679f48176cdd025a83ba0b6e331c2898c8efe5ce6cc660b5",
+    "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
+    "fe5d0984b061fec06780f8f92ad283f7e0826ab333546d9414c809874e39d15f"
   ],
   "verseViewBy": []
 }
