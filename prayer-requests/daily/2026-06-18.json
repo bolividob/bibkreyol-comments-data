@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "updatedAt": 1781779820408,
+  "updatedAt": 1781780041935,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 6,
@@ -16,17 +16,29 @@
       "customExpectedSeason": null,
       "request": "Ede m' priye pou Bondye kenbe m' lakay li e fè m' rete nan volonte l' menm ke m'ap soufri pou tout rès vi m' nan non Jezi Kris!🙏🏼🙏🏼🙏🏼",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d"
+        "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d",
+        "d26c6f85e0ef8418c281a339703ac42520917f68a9bbddfce2a51c5043a9e9b4"
       ],
       "prayingPreview": [
+        {
+          "userName": "naïder",
+          "prayedAt": 1781779959241
+        },
         {
           "userName": "melquicedec",
           "prayedAt": 1781779773852
         }
       ],
       "encouragements": [
+        {
+          "id": "d26c6f85e0ef8418c281a339703ac42520917f68a9bbddfce2a51c5043a9e9b4-1781780025818-encouragement",
+          "userDeviceId": "d26c6f85e0ef8418c281a339703ac42520917f68a9bbddfce2a51c5043a9e9b4",
+          "userName": "naïder",
+          "text": "map kenbe fòs",
+          "createdAt": 1781780025818
+        },
         {
           "id": "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d-1781779773852-encouragement",
           "userDeviceId": "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d",
@@ -36,7 +48,7 @@
         }
       ],
       "submittedAt": 1781762758453,
-      "updatedAt": 1781779820408,
+      "updatedAt": 1781780041934,
       "answeredAt": null,
       "testimony": null
     },
