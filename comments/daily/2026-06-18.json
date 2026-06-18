@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781790305566,
+  "updatedAt": 1781790425930,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781790321701",
+      "text": "Amen",
+      "userDeviceId": "e11eba71819365a3ccc936bb6c8b4dac557c25c789aa76812804d3a0199877b8",
+      "userName": "sylla",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781790425930,
+      "updatedAt": 1781790425930,
+      "status": "active"
+    },
     {
       "id": "local-1781789332076",
       "text": "amén",
@@ -372,8 +386,8 @@
     }
   ],
   "likeCount": 76,
-  "shareCount": 130,
-  "viewCount": 9378,
+  "shareCount": 131,
+  "viewCount": 9406,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
