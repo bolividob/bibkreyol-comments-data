@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781778441060,
+  "updatedAt": 1781778561657,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781778527858",
+      "text": "Amèn",
+      "userDeviceId": "78b5bf40346247cbedf52e55ec17befe4bc9ea80c0868b3ae739060a80527d94",
+      "userName": "Widelandine",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781778561657,
+      "updatedAt": 1781778561657,
+      "status": "active"
+    },
     {
       "id": "local-1781777539358",
       "text": "amén amén amén",
@@ -209,7 +223,7 @@
   ],
   "likeCount": 48,
   "shareCount": 70,
-  "viewCount": 6409,
+  "viewCount": 6439,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
