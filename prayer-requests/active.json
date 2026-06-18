@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781787723421,
+  "updatedAt": 1781788804426,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,17 @@
       "customExpectedSeason": null,
       "request": "Disponibilité pour le ministère",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "df9753fb1e79ccee5c6f6d3036a2d519f11603575882742eaf8f979a41e4bd7a",
-        "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753"
+        "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753",
+        "6b6989a41e5d84294fa9f98d46ba8616eea404b53526a3edc6be502c95aa1556"
       ],
       "prayingPreview": [
+        {
+          "userName": "sé samorah jaboin",
+          "prayedAt": 1781788753765
+        },
         {
           "userName": "fr Bendjy",
           "prayedAt": 1781787609472
@@ -31,6 +36,13 @@
       ],
       "encouragements": [
         {
+          "id": "6b6989a41e5d84294fa9f98d46ba8616eea404b53526a3edc6be502c95aa1556-1781788753765-encouragement",
+          "userDeviceId": "6b6989a41e5d84294fa9f98d46ba8616eea404b53526a3edc6be502c95aa1556",
+          "userName": "sé samorah jaboin",
+          "text": "fòs fòs",
+          "createdAt": 1781788753765
+        },
+        {
           "id": "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753-1781787609472-encouragement",
           "userDeviceId": "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753",
           "userName": "fr Bendjy",
@@ -39,7 +51,7 @@
         }
       ],
       "submittedAt": 1781784878392,
-      "updatedAt": 1781787722454,
+      "updatedAt": 1781788802282,
       "answeredAt": null,
       "testimony": null
     },
