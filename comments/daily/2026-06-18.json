@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781753946067,
+  "updatedAt": 1781754068471,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Egzòd 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e715a4ad6e47df4452e64347537c6b93a7e079d64960a79a2edc77e6f0706ec2"
+      ],
       "createdAt": 1781749534740,
-      "updatedAt": 1781749534740,
+      "updatedAt": 1781754068471,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "Egzòd 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e715a4ad6e47df4452e64347537c6b93a7e079d64960a79a2edc77e6f0706ec2"
+      ],
       "createdAt": 1781742753211,
-      "updatedAt": 1781742753211,
+      "updatedAt": 1781754068471,
       "status": "active"
     },
     {
@@ -61,9 +65,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 19,
+  "likeCount": 20,
   "shareCount": 11,
-  "viewCount": 3039,
+  "viewCount": 3084,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -83,7 +87,8 @@
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "b94797ca48254864953766053f3158dd5feef44f3eb8af2e13ca46ecb306d408",
     "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
-    "15ae86ba7e52c08e59e33b3d6d771e22db2ece7362865c89aefa94983b3edcb0"
+    "15ae86ba7e52c08e59e33b3d6d771e22db2ece7362865c89aefa94983b3edcb0",
+    "e715a4ad6e47df4452e64347537c6b93a7e079d64960a79a2edc77e6f0706ec2"
   ],
   "verseViewBy": []
 }
