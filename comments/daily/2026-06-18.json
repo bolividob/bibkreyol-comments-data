@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781825425316,
+  "updatedAt": 1781825713993,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781825555903",
+      "text": "seigneur tanpri de li vrem",
+      "userDeviceId": "edefaccc633c7251dfc9fa66eee76e6558312a8ef8abe81e9aac616f1470f0c3",
+      "userName": "faralove",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781825713993,
+      "updatedAt": 1781825713993,
+      "status": "active"
+    },
     {
       "id": "local-1781824286859",
       "text": "bndyem nan gran",
@@ -613,8 +627,8 @@
     }
   ],
   "likeCount": 123,
-  "shareCount": 191,
-  "viewCount": 17005,
+  "shareCount": 192,
+  "viewCount": 17110,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
