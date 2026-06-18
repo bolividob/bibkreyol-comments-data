@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781773264172,
+  "updatedAt": 1781773386269,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781773363080",
+      "text": "amén amén amén amén amén amén",
+      "userDeviceId": "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa",
+      "userName": "Pierre julienne",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781773386269,
+      "updatedAt": 1781773386269,
+      "status": "active"
+    },
     {
       "id": "local-1781762239001",
       "text": "Amén y amén",
@@ -151,9 +165,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 47,
-  "viewCount": 5308,
+  "likeCount": 45,
+  "shareCount": 48,
+  "viewCount": 5330,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -197,7 +211,9 @@
     "9323be922f2bab9052a44e7b85eaf61f1f4e64c0eb39f9a55c679b6158e36b77",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
     "922643ff3828139f5425fc0430d977e8add8cca82c2fb87b5493dd651caa234f",
-    "2f86923ab67c1f145b42501a7a273123a6f2b395b3ebbdddfdf362f50c1de147"
+    "2f86923ab67c1f145b42501a7a273123a6f2b395b3ebbdddfdf362f50c1de147",
+    "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa",
+    "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390"
   ],
   "verseViewBy": []
 }
