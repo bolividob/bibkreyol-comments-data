@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781774585009,
+  "updatedAt": 1781774710708,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781774674923",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781774710708,
+      "updatedAt": 1781774710708,
+      "status": "active"
+    },
     {
       "id": "local-1781774169513",
       "text": "amen",
@@ -179,9 +193,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 50,
-  "viewCount": 5516,
+  "likeCount": 47,
+  "shareCount": 52,
+  "viewCount": 5535,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -228,7 +242,8 @@
     "2f86923ab67c1f145b42501a7a273123a6f2b395b3ebbdddfdf362f50c1de147",
     "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa",
     "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390",
-    "2cecce5e5e97921a73f612b3bc65ea5c514e1f0e1fd16029304cc790eca0162c"
+    "2cecce5e5e97921a73f612b3bc65ea5c514e1f0e1fd16029304cc790eca0162c",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
   ],
   "verseViewBy": []
 }
