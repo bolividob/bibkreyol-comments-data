@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781786765636,
+  "updatedAt": 1781786885731,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781786866701",
+      "text": "Bonjour kijan nou ye?",
+      "userDeviceId": "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753",
+      "userName": "fr Bendjy",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781786885731,
+      "updatedAt": 1781786885731,
+      "status": "active"
+    },
     {
       "id": "local-1781785278852",
       "text": "mési segne paske ou benim",
@@ -330,8 +344,8 @@
     }
   ],
   "likeCount": 66,
-  "shareCount": 113,
-  "viewCount": 8557,
+  "shareCount": 115,
+  "viewCount": 8581,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
