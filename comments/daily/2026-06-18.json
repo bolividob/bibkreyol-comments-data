@@ -1,9 +1,37 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781801477295,
+  "updatedAt": 1781801593978,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781801519701",
+      "text": "som 35",
+      "userDeviceId": "7127ef2162b1d3fd8de7c2cc05c35a7a91f5564f91c054ef0e34ba98778f65af",
+      "userName": "siliana gil",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781801593978,
+      "updatedAt": 1781801593978,
+      "status": "active"
+    },
+    {
+      "id": "local-1781801537601",
+      "text": "😇😍",
+      "userDeviceId": "7127ef2162b1d3fd8de7c2cc05c35a7a91f5564f91c054ef0e34ba98778f65af",
+      "userName": "siliana gil",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781801593978,
+      "updatedAt": 1781801593978,
+      "status": "active"
+    },
     {
       "id": "local-1781793165609",
       "text": "Amén 🙏🙏",
@@ -445,8 +473,8 @@
     }
   ],
   "likeCount": 97,
-  "shareCount": 158,
-  "viewCount": 12039,
+  "shareCount": 159,
+  "viewCount": 12064,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
