@@ -1,9 +1,53 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781755225885,
+  "updatedAt": 1781756724388,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781755244730",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
+      ],
+      "createdAt": 1781756724388,
+      "updatedAt": 1781756724388,
+      "status": "active"
+    },
+    {
+      "id": "local-1781756636306",
+      "text": "Mwen byen gras a Dye, nan ki zone wap li bib la?",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "Egzòd 7:3",
+      "parentId": "local-1781742578217",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781756724388,
+      "updatedAt": 1781756724388,
+      "status": "active"
+    },
+    {
+      "id": "local-1781755223845",
+      "text": "Amen",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781756724387,
+      "updatedAt": 1781756724388,
+      "status": "active"
+    },
     {
       "id": "local-1781754678559",
       "text": "Amen Amen Amen Amen",
@@ -71,17 +115,17 @@
       "userName": "Omeliz",
       "verseName": "Jenèz 1:1",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1781742753211,
-      "updatedAt": 1781753541708,
+      "updatedAt": 1781756724388,
       "status": "active"
     }
   ],
-  "likeCount": 24,
+  "likeCount": 25,
   "shareCount": 14,
-  "viewCount": 3561,
+  "viewCount": 3607,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -106,7 +150,8 @@
     "bbe13e49a0c87846e4bd3c135e18ef2078dd77b9611565d97871abf281c59c0c",
     "006cc9410b953bc9782a096c35c638b3aaad370cd1a413ea948d4d158643a300",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
-    "3919ab93514b0e8871c50f62893a888f17ff8a32cae23115b8baa9a03bd37c78"
+    "3919ab93514b0e8871c50f62893a888f17ff8a32cae23115b8baa9a03bd37c78",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
   ],
   "verseViewBy": []
 }
