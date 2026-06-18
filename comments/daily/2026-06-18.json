@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781817200029,
+  "updatedAt": 1781817430761,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781817310846",
+      "text": "Rete swiv, Bib Kreyol la pou pale la verite. Pasaj se yon pasaj ki Mande yon gran deba. M ap kite lot moun fe komante avan mwen fe Pam la.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "Egzòd 7:3",
+      "parentId": "local-1781815419161",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781817430761,
+      "updatedAt": 1781817430761,
+      "status": "active"
+    },
     {
       "id": "local-1781815419161",
       "text": "nan egzòd 21 vs 5-6 charonnyy yo rele jezi a dakò esklavaj sèke sa paka bondye et yon vrè ayisyen patadwe nan radòt sa",
@@ -11,11 +25,11 @@
       "userName": "kale jew",
       "verseName": "Egzòd 7:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1781815510209,
-      "updatedAt": 1781815510209,
+      "updatedAt": 1781817430761,
       "status": "active"
     },
     {
@@ -564,7 +578,7 @@
   ],
   "likeCount": 112,
   "shareCount": 179,
-  "viewCount": 14751,
+  "viewCount": 14797,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
