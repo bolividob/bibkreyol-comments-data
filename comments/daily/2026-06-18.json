@@ -1,9 +1,23 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781753242226,
+  "updatedAt": 1781753541708,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781753508869",
+      "text": "Mwen anfòm Ak Jezi e ou menm ?",
+      "userDeviceId": "15ae86ba7e52c08e59e33b3d6d771e22db2ece7362865c89aefa94983b3edcb0",
+      "userName": "Maurice Pouchna",
+      "verseName": "Egzòd 7:3",
+      "parentId": "local-1781742578217",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781753541708,
+      "updatedAt": 1781753541708,
+      "status": "active"
+    },
     {
       "id": "local-1781749238852",
       "text": "mw apresye aa",
@@ -39,17 +53,17 @@
       "userName": "Omeliz",
       "verseName": "Jenèz 1:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1781742753211,
-      "updatedAt": 1781749534740,
+      "updatedAt": 1781753541708,
       "status": "active"
     }
   ],
-  "likeCount": 18,
+  "likeCount": 19,
   "shareCount": 11,
-  "viewCount": 2749,
+  "viewCount": 2863,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -68,7 +82,8 @@
     "3f5282a98168ff8b63cbafd925aebf125db8d05077ae857d760b5c3cdf7f9376",
     "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
     "b94797ca48254864953766053f3158dd5feef44f3eb8af2e13ca46ecb306d408",
-    "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf"
+    "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
+    "15ae86ba7e52c08e59e33b3d6d771e22db2ece7362865c89aefa94983b3edcb0"
   ],
   "verseViewBy": []
 }
