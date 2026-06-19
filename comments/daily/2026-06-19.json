@@ -1,9 +1,23 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781875405677,
+  "updatedAt": 1781875641020,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781875410505",
+      "text": "Amén merci seignuer 🙌",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Zakari 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781875641020,
+      "updatedAt": 1781875641020,
+      "status": "active"
+    },
     {
       "id": "local-1781847817061",
       "text": "Amén y amén",
@@ -182,7 +196,7 @@
   ],
   "likeCount": 44,
   "shareCount": 76,
-  "viewCount": 9119,
+  "viewCount": 9172,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
