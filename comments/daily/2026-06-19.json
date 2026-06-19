@@ -1,9 +1,23 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781877501193,
+  "updatedAt": 1781877625515,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781877614633",
+      "text": "Bonjour  Amén",
+      "userDeviceId": "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+      "userName": "Bonjour",
+      "verseName": "Zakari 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781877625515,
+      "updatedAt": 1781877625515,
+      "status": "active"
+    },
     {
       "id": "local-1781875410505",
       "text": "Amén merci seignuer 🙌",
@@ -209,8 +223,8 @@
     }
   ],
   "likeCount": 50,
-  "shareCount": 78,
-  "viewCount": 9582,
+  "shareCount": 79,
+  "viewCount": 9602,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
