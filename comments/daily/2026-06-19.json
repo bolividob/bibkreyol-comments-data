@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781900825206,
+  "updatedAt": 1781900945235,
   "version": 1,
   "comments": [
     {
@@ -312,10 +312,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "706bb84d0b2e0aa6c4416fd865e7cf34247ecb6d8241d4e34218104a426f6f50"
+      ],
       "createdAt": 1781836101677,
-      "updatedAt": 1781836101677,
+      "updatedAt": 1781900945235,
       "status": "active"
     },
     {
@@ -342,18 +344,19 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "706bb84d0b2e0aa6c4416fd865e7cf34247ecb6d8241d4e34218104a426f6f50"
       ],
       "createdAt": 1781832735408,
-      "updatedAt": 1781884090440,
+      "updatedAt": 1781900945235,
       "status": "active"
     }
   ],
-  "likeCount": 79,
+  "likeCount": 81,
   "shareCount": 113,
-  "viewCount": 14133,
+  "viewCount": 14156,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
@@ -433,7 +436,9 @@
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "2ff526b0c1f99e1587fb264487963329a7972320c3e22e1d19a002727e22eb82",
     "5a4222531b716d824d0559a852d1ad78858804feabc6b95d29566d4ae2800940",
-    "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733"
+    "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
+    "3116aca5a3e0e88fc5870998faf2727f2e454147b6575243d7de35ba85a309a8",
+    "706bb84d0b2e0aa6c4416fd865e7cf34247ecb6d8241d4e34218104a426f6f50"
   ],
   "verseViewBy": []
 }
