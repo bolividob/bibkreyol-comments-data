@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781877368137,
+  "updatedAt": 1781877501193,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1781875641020,
-      "updatedAt": 1781875641020,
+      "updatedAt": 1781877501193,
       "status": "active"
     },
     {
@@ -59,10 +61,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1781843245711,
-      "updatedAt": 1781843245711,
+      "updatedAt": 1781877501193,
       "status": "active"
     },
     {
@@ -89,10 +93,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1781839748643,
-      "updatedAt": 1781839748643,
+      "updatedAt": 1781877501193,
       "status": "active"
     },
     {
@@ -131,10 +137,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1781836877384,
-      "updatedAt": 1781836877384,
+      "updatedAt": 1781877501193,
       "status": "active"
     },
     {
@@ -145,10 +153,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1781836101677,
-      "updatedAt": 1781836101677,
+      "updatedAt": 1781877501193,
       "status": "active"
     },
     {
@@ -173,10 +183,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1781836101676,
-      "updatedAt": 1781836101676,
+      "updatedAt": 1781877501193,
       "status": "active"
     },
     {
@@ -187,16 +199,18 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1781832735408,
-      "updatedAt": 1781847607946,
+      "updatedAt": 1781877501193,
       "status": "active"
     }
   ],
-  "likeCount": 49,
+  "likeCount": 50,
   "shareCount": 78,
-  "viewCount": 9561,
+  "viewCount": 9582,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
@@ -246,7 +260,8 @@
     "3edf9d89770ce28647fc77453fc366b522aadc635f5821a901c2820b56394b33",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
     "34bf361121bbc0b1c4a0c3c0e62f90a110f755690957c8faf0e4d528b7f8bd3d",
-    "6e4a6242f592252b33566bddf2ca48afad22202f810b86d408fcb5cb924b907b"
+    "6e4a6242f592252b33566bddf2ca48afad22202f810b86d408fcb5cb924b907b",
+    "1381176653c1c4e3f89d13d179f7cc553e27cfb0b1162125f53c8c1925b813ab"
   ],
   "verseViewBy": []
 }
