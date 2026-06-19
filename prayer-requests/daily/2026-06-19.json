@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "updatedAt": 1781887397341,
+  "updatedAt": 1781889307620,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 13,
@@ -36,13 +36,18 @@
       "customExpectedSeason": null,
       "request": "Ede nou priye pou Bondye toujou ban nou mwayen finansye pou nou peye bòdwo aplikasyon sa a chak mwa. Pou tout moun ki mete men nan travay beni sa a, pou tout moun ki fè don, ak tout moun ki ede travay la avanse, nou mande Bondye pou l beni yo an abondans. Se pou yo viv ak lapè, lajwa, ak benediksyon chak jou. Mèsi anpil! 🙏🏾\n\nPlease help us pray that God will continue to provide the financial resources needed to pay this app’s expenses each month. We also pray for everyone who has contributed to t",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "1ea48c43472ab5c1492463088ef1e7e64c3bc79ef250675aeded0b636d692f90",
         "436aa241681c12505e984aae02fa73849881a2b00363a7ffdb0a25778366f20e",
-        "73565c864766e2b4fb5fe1fc39f4d35207de1b7f07cfc24b51a40c1b781b9209"
+        "73565c864766e2b4fb5fe1fc39f4d35207de1b7f07cfc24b51a40c1b781b9209",
+        "69e61b79f4e99ad0dba75bc585d2b67361182da222f22b4076e491cbff4efa51"
       ],
       "prayingPreview": [
+        {
+          "userName": "bib kreol",
+          "prayedAt": 1781889204803
+        },
         {
           "userName": "Niyoo",
           "prayedAt": 1781878232359
@@ -56,9 +61,17 @@
           "prayedAt": 1781850065789
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "69e61b79f4e99ad0dba75bc585d2b67361182da222f22b4076e491cbff4efa51-1781889204803-encouragement",
+          "userDeviceId": "69e61b79f4e99ad0dba75bc585d2b67361182da222f22b4076e491cbff4efa51",
+          "userName": "bib kreol",
+          "text": "bib kreol",
+          "createdAt": 1781889204803
+        }
+      ],
       "submittedAt": 1781848365380,
-      "updatedAt": 1781878263648,
+      "updatedAt": 1781889307620,
       "answeredAt": null,
       "testimony": null
     },
