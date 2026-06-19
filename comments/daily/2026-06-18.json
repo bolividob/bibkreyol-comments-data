@@ -1,9 +1,37 @@
 {
   "date": "2026-06-18",
   "verseKey": "daily:2026-06-18",
-  "updatedAt": 1781827034108,
+  "updatedAt": 1781829310382,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781827121143",
+      "text": "l'éternel",
+      "userDeviceId": "83a6653c486467368a1aa9a72239624e9b9d72524814ea5851a231c1bd14846f",
+      "userName": "chachou",
+      "verseName": "Egzòd 7:3",
+      "parentId": "local-1781824286859",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781829310382,
+      "updatedAt": 1781829310382,
+      "status": "active"
+    },
+    {
+      "id": "local-1781827153710",
+      "text": "beniswa l'éternel",
+      "userDeviceId": "83a6653c486467368a1aa9a72239624e9b9d72524814ea5851a231c1bd14846f",
+      "userName": "chachou",
+      "verseName": "Egzòd 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781829310382,
+      "updatedAt": 1781829310382,
+      "status": "active"
+    },
     {
       "id": "local-1781825555903",
       "text": "seigneur tanpri de li vrem",
@@ -25,13 +53,13 @@
       "userName": "meyoo",
       "verseName": "Egzòd 7:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "0ca360e738739446f0680a282bcd43f897b816c92f664740b412d3356c1ffa84"
       ],
       "createdAt": 1781824405464,
-      "updatedAt": 1781824405464,
+      "updatedAt": 1781829310382,
       "status": "active"
     },
     {
@@ -626,9 +654,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 123,
+  "likeCount": 124,
   "shareCount": 198,
-  "viewCount": 17716,
+  "viewCount": 17787,
   "verseLikedBy": [
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "fd593e46cd27ca3c573f74c97c096d16f210cba633b7039510f2201280054d13",
@@ -752,7 +780,8 @@
     "485012651fd39a935f940253d90e3fe24c7786c242881406621264c91fdb5074",
     "fed41daea823c980522f058e7689a285d25140cc45a098ba39c5312ba49f7261",
     "878e1bdedf7d52426f1598c0baa7121a6133c019678a9a470b38f3916d45f41d",
-    "0ca360e738739446f0680a282bcd43f897b816c92f664740b412d3356c1ffa84"
+    "0ca360e738739446f0680a282bcd43f897b816c92f664740b412d3356c1ffa84",
+    "02809f59e68f601f998704d5124de4ac2509c4c2dd7f72052f44477c34b76627"
   ],
   "verseViewBy": []
 }
