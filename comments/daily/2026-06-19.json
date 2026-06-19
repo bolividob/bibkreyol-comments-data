@@ -1,18 +1,34 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781832445450,
+  "updatedAt": 1781832735408,
   "version": 1,
-  "comments": [],
-  "likeCount": 5,
+  "comments": [
+    {
+      "id": "local-1781832688959",
+      "text": "Moun android yo, nou gen nouvo version an Deja? Nap lage pa iPhone  deman.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "Zakari 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781832735408,
+      "updatedAt": 1781832735408,
+      "status": "active"
+    }
+  ],
+  "likeCount": 6,
   "shareCount": 1,
-  "viewCount": 1017,
+  "viewCount": 1136,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
     "40cc93d7085c8885931c2bcbbbbd186a0731b9b93263c8d60e8817e9d9bc3295",
     "88cacd719712f5f9d33cdf6a398525d2ebfbc2aa413b255e808672a02dc52121",
-    "1f3d7b61b6c7a5c33c923c9635f044e36c8b7daf2058298d9b8d8dccc391f9ed"
+    "1f3d7b61b6c7a5c33c923c9635f044e36c8b7daf2058298d9b8d8dccc391f9ed",
+    "ebc12449c940bbd6502a581671f836caa53f5bf1847431f0ccea2672e9ac9a94"
   ],
   "verseViewBy": []
 }
