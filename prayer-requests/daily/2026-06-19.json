@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "updatedAt": 1781834044977,
+  "updatedAt": 1781834172298,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 11,
@@ -424,12 +424,17 @@
       "customExpectedSeason": null,
       "request": "priye pou Brazil al jwe nan final avek Haiti an Fifa coup di mond 2026 lan. Wow, app sa komanse debouble wi mezanmi. priye pou Brazil al jwe nan final avek Haiti an Fifa coup di mond 2026 lan. Wow, app sa komanse debouble wi mezanmi.",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
-        "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705"
+        "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705",
+        "a557900669fdff052168dd539ecc49234a802954144d7c8e67b376a8cc78bddf"
       ],
       "prayingPreview": [
+        {
+          "userName": "catie",
+          "prayedAt": 1781834107453
+        },
         {
           "userName": "Ann Fe Nou Konfians",
           "prayedAt": 1781632099226
@@ -463,7 +468,7 @@
         }
       ],
       "submittedAt": 1781388735720,
-      "updatedAt": 1781635862516,
+      "updatedAt": 1781834172298,
       "answeredAt": null,
       "testimony": null
     }
