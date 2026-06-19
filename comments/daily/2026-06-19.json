@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781897706336,
+  "updatedAt": 1781897826401,
   "version": 1,
   "comments": [
     {
@@ -46,7 +46,7 @@
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1781885949023,
-      "updatedAt": 1781889252910,
+      "updatedAt": 1781897826401,
       "status": "active"
     },
     {
@@ -264,10 +264,12 @@
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "9df877187a2074dbda3539da5de8086d97505fcb30b514adadc1ee4351a89486"
+      ],
       "createdAt": 1781837480600,
-      "updatedAt": 1781837480600,
+      "updatedAt": 1781897826401,
       "status": "active"
     },
     {
@@ -350,8 +352,8 @@
     }
   ],
   "likeCount": 75,
-  "shareCount": 111,
-  "viewCount": 13668,
+  "shareCount": 112,
+  "viewCount": 13687,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
