@@ -1,14 +1,42 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781885771828,
+  "updatedAt": 1781885949023,
   "version": 1,
   "comments": [
     {
-      "id": "local-1781883039312",
-      "text": "Bagay sa mwen wè a li bèl WI.",
-      "userDeviceId": "2c5fc9b1f13acef5b0db05b680ce9caaf1d59db9c96ad11b47242bab92524af3",
-      "userName": "Jacinthe",
+      "id": "local-1781885825609",
+      "text": "Eden konprann svp?",
+      "userDeviceId": "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+      "userName": "Omeliz",
+      "verseName": "Zakari 3:3",
+      "parentId": "local-1781878069935",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781885949023,
+      "updatedAt": 1781885949023,
+      "status": "active"
+    },
+    {
+      "id": "local-1781885855025",
+      "text": "Men renmin li",
+      "userDeviceId": "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+      "userName": "Omeliz",
+      "verseName": "Zakari 3:3",
+      "parentId": "local-1781883039312",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781885949023,
+      "updatedAt": 1781885949023,
+      "status": "active"
+    },
+    {
+      "id": "local-1781885900975",
+      "text": "Pep sove Bondye beniw!",
+      "userDeviceId": "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e",
+      "userName": "Omeliz",
       "verseName": "Zakari 3:3",
       "parentId": null,
       "replyCount": 0,
@@ -16,8 +44,24 @@
       "likedBy": [
         "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
       ],
+      "createdAt": 1781885949023,
+      "updatedAt": 1781885949023,
+      "status": "active"
+    },
+    {
+      "id": "local-1781883039312",
+      "text": "Bagay sa mwen wè a li bèl WI.",
+      "userDeviceId": "2c5fc9b1f13acef5b0db05b680ce9caaf1d59db9c96ad11b47242bab92524af3",
+      "userName": "Jacinthe",
+      "verseName": "Zakari 3:3",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
+      ],
       "createdAt": 1781883203232,
-      "updatedAt": 1781885771828,
+      "updatedAt": 1781885949023,
       "status": "active"
     },
     {
@@ -27,14 +71,14 @@
       "userName": "Bonjour",
       "verseName": "Zakari 3:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 2,
       "likedBy": [
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
         "d9f68c76fd39d99dc354fc2a69799010087d03e549c82d3b6bea39e3870eb08e"
       ],
       "createdAt": 1781878096487,
-      "updatedAt": 1781885771828,
+      "updatedAt": 1781885949023,
       "status": "active"
     },
     {
@@ -305,7 +349,7 @@
   ],
   "likeCount": 59,
   "shareCount": 98,
-  "viewCount": 11516,
+  "viewCount": 11548,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
