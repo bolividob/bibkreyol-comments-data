@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "updatedAt": 1781834172298,
+  "updatedAt": 1781843545560,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 11,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "délivrance",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "3e10dd5d7f3c2b7068aff12559dc7de5f2a67a5bf4ea2702fe50715a7bbe44dc"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "kellineda",
+          "prayedAt": 1781843463025
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1781833982320,
-      "updatedAt": 1781834044977,
+      "updatedAt": 1781843545560,
       "answeredAt": null,
       "testimony": null
     },
