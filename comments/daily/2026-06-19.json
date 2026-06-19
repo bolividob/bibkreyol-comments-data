@@ -1,9 +1,23 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781843245711,
+  "updatedAt": 1781843610400,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781843334786",
+      "text": "zakari 3 vs4. Zanj lan pran lapawòl ankò, li pale ak lòt zanj ki te la tou devan li. Li di yo: -Wete rad sal ki sou li a. Epi li di Jozye konsa: -Ou wè. Mwen wete tout peche ou yo. M'ap ba ou bèl rad pwòp pou ou mete sou ou",
+      "userDeviceId": "3e10dd5d7f3c2b7068aff12559dc7de5f2a67a5bf4ea2702fe50715a7bbe44dc",
+      "userName": "kellineda",
+      "verseName": "Zakari 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781843610400,
+      "updatedAt": 1781843610400,
+      "status": "active"
+    },
     {
       "id": "local-1781842221892",
       "text": "ke bondye pote jem",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
+  "likeCount": 17,
   "shareCount": 13,
-  "viewCount": 3786,
+  "viewCount": 3870,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
@@ -164,7 +178,8 @@
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "8c5fe7b2d1b71c92cfa335cc2831f56619ee5348c631234f2b9ad3176a1fe422",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
-    "a854d8943e43b37bb80c93ee5ede8d846d0af831cf8f99ccffccea255c6321f2"
+    "a854d8943e43b37bb80c93ee5ede8d846d0af831cf8f99ccffccea255c6321f2",
+    "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19"
   ],
   "verseViewBy": []
 }
