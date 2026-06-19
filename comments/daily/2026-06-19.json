@@ -1,9 +1,23 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781905625158,
+  "updatedAt": 1781905750890,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781905665879",
+      "text": "a",
+      "userDeviceId": "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d",
+      "userName": "melquicedec",
+      "verseName": "Zakari 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781905750890,
+      "updatedAt": 1781905750890,
+      "status": "active"
+    },
     {
       "id": "local-1781885825609",
       "text": "Eden konprann svp?",
@@ -354,9 +368,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 85,
+  "likeCount": 86,
   "shareCount": 120,
-  "viewCount": 15090,
+  "viewCount": 15122,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
@@ -442,7 +456,8 @@
     "125ed2a30aadf20995463840402ef6b9a79887e8a200f4cc82767e7278ab2898",
     "377f29b47dc15fa03191000beeb34659209dc2da73e92ca6f558a7d07bc3b123",
     "a0eafd0d83d151ea624e77a744b1360a31d3ab5a63671a0748f1571993cd93f9",
-    "a9c7b45ee276ee623a3f1a183e0506dfaae1430f5c12637968a2fc817bffe09a"
+    "a9c7b45ee276ee623a3f1a183e0506dfaae1430f5c12637968a2fc817bffe09a",
+    "994c1df2257d38782cd06de5505d66cc4540f3697a5bc988eb0769748f6a64d9"
   ],
   "verseViewBy": []
 }
