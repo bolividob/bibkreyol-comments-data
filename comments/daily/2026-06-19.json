@@ -1,9 +1,23 @@
 {
   "date": "2026-06-19",
   "verseKey": "daily:2026-06-19",
-  "updatedAt": 1781908689602,
+  "updatedAt": 1781908817378,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781908748483",
+      "text": "salut",
+      "userDeviceId": "1a27c070c1bee47b9bcf8f07289870cea47a3964393cd0d32dacdbcb2b169865",
+      "userName": "igéni",
+      "verseName": "Zakari 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781908817377,
+      "updatedAt": 1781908817377,
+      "status": "active"
+    },
     {
       "id": "local-1781906206349",
       "text": "merçi Jesus 🙏🔥❤️❤️❤️",
@@ -396,9 +410,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 89,
+  "likeCount": 90,
   "shareCount": 121,
-  "viewCount": 15864,
+  "viewCount": 15910,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "092786563344efef94cd8fef76b4f9d3c2c02162fddb4964ba087833ffd5e70f",
@@ -488,7 +502,8 @@
     "994c1df2257d38782cd06de5505d66cc4540f3697a5bc988eb0769748f6a64d9",
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "9cfe8605c0e2042e1ea8b96abc6c754566b61d6c575784980d1bb59672223eeb",
-    "264853aac831d7e73dec01246c0f5c0050d24dab5cf09670c9717b61ec217003"
+    "264853aac831d7e73dec01246c0f5c0050d24dab5cf09670c9717b61ec217003",
+    "1a27c070c1bee47b9bcf8f07289870cea47a3964393cd0d32dacdbcb2b169865"
   ],
   "verseViewBy": []
 }
