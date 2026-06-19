@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781898063366,
+  "updatedAt": 1781900585176,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,19 @@
       "customExpectedSeason": null,
       "request": "delivrans",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "c428da3545c059b010deaaf3c3494c0996fb1fe52309534503da44791d6e4ed2"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "good",
+          "prayedAt": 1781900578215
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1781898043421,
-      "updatedAt": 1781898062558,
+      "updatedAt": 1781900584397,
       "answeredAt": null,
       "testimony": null
     },
