@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781843546314,
+  "updatedAt": 1781843661938,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -24,9 +24,17 @@
           "prayedAt": 1781843463025
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "3e10dd5d7f3c2b7068aff12559dc7de5f2a67a5bf4ea2702fe50715a7bbe44dc-1781843582761-encouragement",
+          "userDeviceId": "3e10dd5d7f3c2b7068aff12559dc7de5f2a67a5bf4ea2702fe50715a7bbe44dc",
+          "userName": "kellineda",
+          "text": "zakari 3 \n 4. Zanj lan pran lapawòl ankò, li pale ak lòt zanj ki te la tou devan li. Li di yo: -Wete rad sal ki sou li a. Epi li di Jozye konsa: -Ou wè. Mwen wete tout peche ou yo. M'ap ba ou bèl rad pwòp pou ou mete sou ou",
+          "createdAt": 1781843582761
+        }
+      ],
       "submittedAt": 1781833982320,
-      "updatedAt": 1781843545560,
+      "updatedAt": 1781843658434,
       "answeredAt": null,
       "testimony": null
     },
