@@ -1,0 +1,451 @@
+{
+  "date": "2026-06-19",
+  "updatedAt": 1781829253357,
+  "version": 1,
+  "dailyLimit": 33,
+  "dailySubmissionCount": 10,
+  "requests": [
+    {
+      "id": "local-prayer-1781809105349",
+      "userDeviceId": "92cd1d42a958b9a93a049b27f226286f954fe6ff32d00ef816710f1698bc9fde",
+      "userName": "judelove",
+      "category": "healing",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "Pou Mwen fè yon bon Chrétien Kap imite Christ",
+      "status": "praying",
+      "prayerCount": 4,
+      "prayedBy": [
+        "15b59df571c8dd136ec54fc11315765e5f5f35bbf1cc3ce163344cdcf3a38b93",
+        "d00425e9fee8b26187852d6ef9521f518f820a24e147c572d5f4dc390df0fecb",
+        "5686c09a673bb92f648e77e4ddef1861d671b52413f0d1a0235a0dcb97625e26",
+        "a57baa8ddc16fa8a3692d85daf933e63867136e6e9e474d85022b77de1d74fdd"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Adner",
+          "prayedAt": 1781829153439
+        },
+        {
+          "userName": "dieunode",
+          "prayedAt": 1781819900997
+        },
+        {
+          "userName": "mayoo",
+          "prayedAt": 1781819295987
+        },
+        {
+          "userName": "sr benitha",
+          "prayedAt": 1781818342202
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "a57baa8ddc16fa8a3692d85daf933e63867136e6e9e474d85022b77de1d74fdd-1781829230419-encouragement",
+          "userDeviceId": "a57baa8ddc16fa8a3692d85daf933e63867136e6e9e474d85022b77de1d74fdd",
+          "userName": "Adner",
+          "text": "wi",
+          "createdAt": 1781829230419
+        },
+        {
+          "id": "a57baa8ddc16fa8a3692d85daf933e63867136e6e9e474d85022b77de1d74fdd-1781829216671-encouragement",
+          "userDeviceId": "a57baa8ddc16fa8a3692d85daf933e63867136e6e9e474d85022b77de1d74fdd",
+          "userName": "Adner",
+          "text": "bondye",
+          "createdAt": 1781829216671
+        }
+      ],
+      "submittedAt": 1781809107560,
+      "updatedAt": 1781829253357,
+      "answeredAt": null,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781800910675",
+      "userDeviceId": "ac5ab05ef3f63c0cd9c591da0291f13a83537b66971ca0c4eebb54c9a6c5c42b",
+      "userName": "Maurice",
+      "category": "financial",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "Bonjour,Bonsoir,Mwen Fèk gen Papam ki antere,Tout sa nou te genyen pase nan antèman épi Mwen pap travay,tanpri priye pou Bondye Fèm jwenn Yon Travay",
+      "status": "praying",
+      "prayerCount": 1,
+      "prayedBy": [
+        "add77bdd8aa529479149b58b030eb05c36cecb4a28ddab3b541e2e7cc11f0a07"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Sr YVENCIA Chery  CELESTIN",
+          "prayedAt": 1781798564439
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "add77bdd8aa529479149b58b030eb05c36cecb4a28ddab3b541e2e7cc11f0a07-1781798564439-encouragement",
+          "userDeviceId": "add77bdd8aa529479149b58b030eb05c36cecb4a28ddab3b541e2e7cc11f0a07",
+          "userName": "Sr YVENCIA Chery  CELESTIN",
+          "text": "ke BD refonte ou nan pèd sa\nfe li konfyans  lap aji, li pa janm abandone pitit li.se Selman kite zyew fixe sou li,pa kite tristes ak doulè yo few bliye li pa bliyew, li avew,kite li panse pou kenbe lafwa.",
+          "createdAt": 1781798564439
+        }
+      ],
+      "submittedAt": 1781797361919,
+      "updatedAt": 1781798650975,
+      "answeredAt": null,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781791857575",
+      "userDeviceId": "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+      "userName": "Helioth",
+      "category": "spiritual_growth",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "ongoing",
+      "customExpectedSeason": null,
+      "request": "kwasans espirityèl",
+      "status": "praying",
+      "prayerCount": 1,
+      "prayedBy": [
+        "ac5ab05ef3f63c0cd9c591da0291f13a83537b66971ca0c4eebb54c9a6c5c42b"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Maurice",
+          "prayedAt": 1781797251907
+        }
+      ],
+      "encouragements": [],
+      "submittedAt": 1781791858650,
+      "updatedAt": 1781797325978,
+      "answeredAt": null,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781788415505",
+      "userDeviceId": "84e6eba0059119bf14a26ad036325e86a37bdd2a3c52cec29aab44736c300496",
+      "userName": "sabibi",
+      "category": "spiritual_growth",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "Disponibilité pour le ministère",
+      "status": "praying",
+      "prayerCount": 4,
+      "prayedBy": [
+        "df9753fb1e79ccee5c6f6d3036a2d519f11603575882742eaf8f979a41e4bd7a",
+        "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753",
+        "6b6989a41e5d84294fa9f98d46ba8616eea404b53526a3edc6be502c95aa1556",
+        "285a803436f29153eda63e7555fb5e65c4d01b76bc354bbad666c3e4b6cc4b14"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "djeamlsy aliscas",
+          "prayedAt": 1781791697882
+        },
+        {
+          "userName": "sé samorah jaboin",
+          "prayedAt": 1781788753765
+        },
+        {
+          "userName": "fr Bendjy",
+          "prayedAt": 1781787609472
+        },
+        {
+          "userName": "Jesús ou se tout pou mwen",
+          "prayedAt": 1781785769226
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "6b6989a41e5d84294fa9f98d46ba8616eea404b53526a3edc6be502c95aa1556-1781788753765-encouragement",
+          "userDeviceId": "6b6989a41e5d84294fa9f98d46ba8616eea404b53526a3edc6be502c95aa1556",
+          "userName": "sé samorah jaboin",
+          "text": "fòs fòs",
+          "createdAt": 1781788753765
+        },
+        {
+          "id": "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753-1781787609472-encouragement",
+          "userDeviceId": "e7e3aad51801bb5e5598a6f0227d396c2108bdc1ed7ffdd35bb6162ebdbfd753",
+          "userName": "fr Bendjy",
+          "text": "lafwa se yon fèm assurance✊",
+          "createdAt": 1781787609472
+        }
+      ],
+      "submittedAt": 1781784878392,
+      "updatedAt": 1781791802169,
+      "answeredAt": null,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781762741136",
+      "userDeviceId": "d340ffcb4b58a0ffd71ac39450dad0f7a7dcb78d1a208747bfedf73fc4a521c9",
+      "userName": "Stépha la spéciale de Dieu",
+      "category": "healing",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "Ede m' priye pou Bondye kenbe m' lakay li e fè m' rete nan volonte l' menm ke m'ap soufri pou tout rès vi m' nan non Jezi Kris!🙏🏼🙏🏼🙏🏼",
+      "status": "praying",
+      "prayerCount": 3,
+      "prayedBy": [
+        "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d",
+        "d26c6f85e0ef8418c281a339703ac42520917f68a9bbddfce2a51c5043a9e9b4",
+        "399afe68a5e8c496d64c7012b6f40d6d0e0c45b7ece018639431107d8e837dcd"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "bondye gand",
+          "prayedAt": 1781783697054
+        },
+        {
+          "userName": "naïder",
+          "prayedAt": 1781779959241
+        },
+        {
+          "userName": "melquicedec",
+          "prayedAt": 1781779773852
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "399afe68a5e8c496d64c7012b6f40d6d0e0c45b7ece018639431107d8e837dcd-1781783727199-encouragement",
+          "userDeviceId": "399afe68a5e8c496d64c7012b6f40d6d0e0c45b7ece018639431107d8e837dcd",
+          "userName": "bondye gand",
+          "text": "🙏🙏🙏🙏👏👏",
+          "createdAt": 1781783727199
+        },
+        {
+          "id": "399afe68a5e8c496d64c7012b6f40d6d0e0c45b7ece018639431107d8e837dcd-1781783697054-encouragement",
+          "userDeviceId": "399afe68a5e8c496d64c7012b6f40d6d0e0c45b7ece018639431107d8e837dcd",
+          "userName": "bondye gand",
+          "text": "jezu Mwen renmenm",
+          "createdAt": 1781783697054
+        },
+        {
+          "id": "d26c6f85e0ef8418c281a339703ac42520917f68a9bbddfce2a51c5043a9e9b4-1781780025818-encouragement",
+          "userDeviceId": "d26c6f85e0ef8418c281a339703ac42520917f68a9bbddfce2a51c5043a9e9b4",
+          "userName": "naïder",
+          "text": "map kenbe fòs",
+          "createdAt": 1781780025818
+        },
+        {
+          "id": "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d-1781779773852-encouragement",
+          "userDeviceId": "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d",
+          "userName": "melquicedec",
+          "text": "Il ne s'agit pas seulement d'un culte oral, mais aussi d'un culte au nom de Dieu qui les accompagne.",
+          "createdAt": 1781779773852
+        }
+      ],
+      "submittedAt": 1781762758453,
+      "updatedAt": 1781783762133,
+      "answeredAt": null,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781747736087",
+      "userDeviceId": "8e1c657dd8fe1ea9cd3009ebdac3aebc091bea7d226773d11305480fef532708",
+      "userName": "kensly jean",
+      "category": "healing",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "ongoing",
+      "customExpectedSeason": null,
+      "request": "map mande pou bondye banm plus dimension lakay li  mwen bezwen travay tou",
+      "status": "praying",
+      "prayerCount": 0,
+      "prayedBy": [],
+      "prayingPreview": [],
+      "encouragements": [],
+      "submittedAt": 1781747738133,
+      "updatedAt": 1781749686821,
+      "answeredAt": null,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781732570224",
+      "userDeviceId": "4cbea4c576b56e89bc2919ba68c16f8cd5b14816bd7f804b0047a798f2586bb0",
+      "userName": "som 23",
+      "category": "healing",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "som 23",
+      "status": "answered",
+      "prayerCount": 1,
+      "prayedBy": [
+        "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "byen",
+          "prayedAt": 1781736823105
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89-1781736863885-encouragement",
+          "userDeviceId": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89",
+          "userName": "byen",
+          "text": "mwen vlekòn nn",
+          "createdAt": 1781736863885
+        },
+        {
+          "id": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89-1781736823105-encouragement",
+          "userDeviceId": "6646ec7f046154bc13e968f6428ba5eb6e5460d192d12b824cf6e80f9fca5d89",
+          "userName": "byen",
+          "text": "Men \nok",
+          "createdAt": 1781736823105
+        }
+      ],
+      "submittedAt": 1781732572867,
+      "updatedAt": 1781736965161,
+      "answeredAt": 1781732644770,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781717490154",
+      "userDeviceId": "fe5d0984b061fec06780f8f92ad283f7e0826ab333546d9414c809874e39d15f",
+      "userName": "voltaire",
+      "category": "other",
+      "customCategory": "pou'm la toujou rete nan presans bondye.",
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "la priyè mwen se pou m toujou nan kondisyon pou bondye ka jwenn mwen pou'l itilize'm.\npou bondye viv nan mwen pou'm ka fè sa li vle'm fè.\npou bondye fèm mennen yon vi ki dakò ak volonte'l \npou'm ka pap mache daprè paròl li,pou'l fèm gras pou'm obeyi pwensib li yo,pou'l kenbe bem li lakay li malgre jan sa.sevre mwen ka jwenn bagay sou rout la pou'm ta dekouraje,smwen konnen BONDYE gran li fè salvle,li di sa nan paròl li sise pa volonte'l,menm yon branch nan tèt nou pap rache🙌🙏",
+      "status": "answered",
+      "prayerCount": 0,
+      "prayedBy": [],
+      "prayingPreview": [],
+      "encouragements": [],
+      "submittedAt": 1781717495100,
+      "updatedAt": 1781718062536,
+      "answeredAt": 1781717977745,
+      "testimony": "wi BONDIUE tandem \nbondye toujou pote jem tout kote pase, mwen soti,mwen antre se yon gran gras BONDYE fèm. gen moun ki soti ki pa gen sans po yo antre nan de mè yo,BONDYE fèl pou mwen 🤷‍♂️🤷‍♂️🙏🙏"
+    },
+    {
+      "id": "local-prayer-1781390874638",
+      "userDeviceId": "79c7dbe67315f89de62ad7f416cf56379e54aa78728ab298bff0172c5dfaa940",
+      "userName": "Haiti21",
+      "category": "thanksgiving",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "ongoing",
+      "customExpectedSeason": null,
+      "request": "Haiti deja nan final, yo preske champion",
+      "status": "praying",
+      "prayerCount": 4,
+      "prayedBy": [
+        "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
+        "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+        "82b727c760b2676f664dea27c331afc8e8350a75c9498771cc47eb863e5da4e8",
+        "29b806e4bdf8b076f8b8c4293ad6f7ab2e1fe0c171bbabed214c78aba3272560"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "lovely filius",
+          "prayedAt": 1781757449411
+        },
+        {
+          "userName": "Ferdin elna",
+          "prayedAt": 1781696001736
+        },
+        {
+          "userName": "Anonymous",
+          "prayedAt": 1781536958771
+        },
+        {
+          "userName": "Brazil20",
+          "prayedAt": 1781479942994
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430-1781538206127-encouragement",
+          "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+          "userName": "Denisi",
+          "text": "mwen poste deja",
+          "createdAt": 1781538206127
+        },
+        {
+          "id": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430-1781536958771-encouragement",
+          "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+          "userName": "Anonymous",
+          "text": "An kontinye sipote ekip Haiti a jiskaske yo chanpion",
+          "createdAt": 1781536958771
+        },
+        {
+          "id": "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8-1781479942994-encouragement",
+          "userDeviceId": "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
+          "userName": "Brazil20",
+          "text": "Nou tout te we Ke Haiti  bat 2-1.",
+          "createdAt": 1781479942994
+        }
+      ],
+      "submittedAt": 1781390898817,
+      "updatedAt": 1781757486200,
+      "answeredAt": null,
+      "testimony": null
+    },
+    {
+      "id": "local-prayer-1781388733747",
+      "userDeviceId": "091cd893dcefa29a2df4071c693105362ac8b16ed93be5022bbbf6c2da46e9b8",
+      "userName": "Brazil20",
+      "category": "healing",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "priye pou Brazil al jwe nan final avek Haiti an Fifa coup di mond 2026 lan. Wow, app sa komanse debouble wi mezanmi. priye pou Brazil al jwe nan final avek Haiti an Fifa coup di mond 2026 lan. Wow, app sa komanse debouble wi mezanmi.",
+      "status": "praying",
+      "prayerCount": 2,
+      "prayedBy": [
+        "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+        "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Ann Fe Nou Konfians",
+          "prayedAt": 1781632099226
+        },
+        {
+          "userName": "Anonymous",
+          "prayedAt": 1781537036093
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430-1781635825169-encouragement",
+          "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+          "userName": "Denisi",
+          "text": "Le ou konpran se satan ki nan tet tout sa, gen de bagay Bondye pa rentre ladanl. Siw vle konpran wap konpran",
+          "createdAt": 1781635825169
+        },
+        {
+          "id": "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705-1781632099226-encouragement",
+          "userDeviceId": "58a45fcfcabb20a339898c02a36fae0083c7c19c50213ff9554b0a19a2435705",
+          "userName": "Ann Fe Nou Konfians",
+          "text": "Amen  legliz, Ann priye pou Dye reponn pou Haiti nan kopetition yo an; se pou yo pa invite nou si yo gen problem pou kite Nou genyen.",
+          "createdAt": 1781632099226
+        },
+        {
+          "id": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430-1781537036093-encouragement",
+          "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+          "userName": "Anonymous",
+          "text": "amen",
+          "createdAt": 1781537036093
+        }
+      ],
+      "submittedAt": 1781388735720,
+      "updatedAt": 1781635862516,
+      "answeredAt": null,
+      "testimony": null
+    }
+  ]
+}
