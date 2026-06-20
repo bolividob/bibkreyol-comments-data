@@ -1,9 +1,37 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781962631342,
+  "updatedAt": 1781962758008,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781962666273",
+      "text": "bondye beniw nu",
+      "userDeviceId": "b7842f7c612bfa7860608a33576dd9f87cb7e4b48bb176b35bc62fc5101e55e8",
+      "userName": "sayneïla",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781962758008,
+      "updatedAt": 1781962758008,
+      "status": "active"
+    },
+    {
+      "id": "local-1781962651836",
+      "text": "amén amén",
+      "userDeviceId": "edc77a329c6eaceeec30a355703560f03d5892321a04ce45c62bbdad012dab02",
+      "userName": "sr vena",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781962758007,
+      "updatedAt": 1781962758007,
+      "status": "active"
+    },
     {
       "id": "local-1781963563282",
       "text": "mesi anpil WI jezu",
@@ -269,8 +297,8 @@
     }
   ],
   "likeCount": 65,
-  "shareCount": 126,
-  "viewCount": 9294,
+  "shareCount": 127,
+  "viewCount": 9321,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
