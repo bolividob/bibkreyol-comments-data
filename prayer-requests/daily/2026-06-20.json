@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "updatedAt": 1781952543318,
+  "updatedAt": 1781961784378,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 20,
@@ -16,12 +16,17 @@
       "customExpectedSeason": null,
       "request": "priyè deblokaj pou moun kap vwayaje",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07",
-        "e36b11a8b541b19e7e181fa7948a5d84c83563938a9d37708e96e662203254b6"
+        "e36b11a8b541b19e7e181fa7948a5d84c83563938a9d37708e96e662203254b6",
+        "47d427d112c35e7578c591cd979c21765824fe7a7662091507f3c0f17d5105d6"
       ],
       "prayingPreview": [
+        {
+          "userName": "som",
+          "prayedAt": 1781961756778
+        },
         {
           "userName": "Launia Nobert",
           "prayedAt": 1781952352528
@@ -69,7 +74,7 @@
         }
       ],
       "submittedAt": 1781947633383,
-      "updatedAt": 1781952543318,
+      "updatedAt": 1781961784377,
       "answeredAt": null,
       "testimony": null
     },
