@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781931424868,
+  "updatedAt": 1781931545551,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781931515758",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781931545551,
+      "updatedAt": 1781931545551,
+      "status": "active"
+    },
     {
       "id": "local-1781927946413",
       "text": "bila",
@@ -78,8 +92,8 @@
     }
   ],
   "likeCount": 22,
-  "shareCount": 35,
-  "viewCount": 4408,
+  "shareCount": 37,
+  "viewCount": 4435,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
