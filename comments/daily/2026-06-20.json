@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781981227239,
+  "updatedAt": 1781981348697,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781980960442",
+      "text": "BonDieu béni nou",
+      "userDeviceId": "2a46c45e6285b09465323b40bc05210a6f2227d9a93721d7f3df0e487183d726",
+      "userName": "sèvitris",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781981348697,
+      "updatedAt": 1781981348697,
+      "status": "active"
+    },
     {
       "id": "local-1781980116178",
       "text": "bonswa",
@@ -385,8 +399,8 @@
     }
   ],
   "likeCount": 96,
-  "shareCount": 164,
-  "viewCount": 13522,
+  "shareCount": 165,
+  "viewCount": 13538,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
