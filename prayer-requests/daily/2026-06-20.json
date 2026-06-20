@@ -1,10 +1,30 @@
 {
   "date": "2026-06-20",
-  "updatedAt": 1781995033641,
+  "updatedAt": 1781996346634,
   "version": 1,
   "dailyLimit": 33,
-  "dailySubmissionCount": 25,
+  "dailySubmissionCount": 26,
   "requests": [
+    {
+      "id": "local-prayer-1781996339244",
+      "userDeviceId": "9c99a0dc39393e6c75fba1b3501ff348dc25131044e0ca4142c16d0cec3b5c86",
+      "userName": "Chantale B. Napoléon",
+      "category": "spiritual_growth",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "ongoing",
+      "customExpectedSeason": null,
+      "request": "sèvi Bondye fidèl",
+      "status": "praying",
+      "prayerCount": 0,
+      "prayedBy": [],
+      "prayingPreview": [],
+      "encouragements": [],
+      "submittedAt": 1781996341413,
+      "updatedAt": 1781996346634,
+      "answeredAt": null,
+      "testimony": null
+    },
     {
       "id": "local-prayer-1781995014059",
       "userDeviceId": "758bf424184a9e94ed74ab7eb6eabd0d2b67c4338b7c8cf0cdfac218e2622420",
