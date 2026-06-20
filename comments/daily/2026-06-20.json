@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781999481726,
+  "updatedAt": 1781999598572,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781999480266",
+      "text": "bonjou",
+      "userDeviceId": "2b2bd8c2702dfc42c136611daea7e62095fbf49e7a607cd99b4867f9d0911e3b",
+      "userName": "junior",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781999598572,
+      "updatedAt": 1781999598572,
+      "status": "active"
+    },
     {
       "id": "local-1781995408299",
       "text": "Merci mon dieu",
@@ -472,7 +486,7 @@
   ],
   "likeCount": 115,
   "shareCount": 190,
-  "viewCount": 17728,
+  "viewCount": 17765,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
