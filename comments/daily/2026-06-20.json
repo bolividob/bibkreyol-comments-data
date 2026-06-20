@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781926641656,
+  "updatedAt": 1781926756248,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781926685712",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781926756248,
+      "updatedAt": 1781926756248,
+      "status": "active"
+    },
     {
       "id": "local-1781926582978",
       "text": "bondye beniw",
@@ -49,7 +63,7 @@
   ],
   "likeCount": 17,
   "shareCount": 25,
-  "viewCount": 3380,
+  "viewCount": 3423,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
