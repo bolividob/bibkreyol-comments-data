@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781927790884,
+  "updatedAt": 1781927962671,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781927946413",
+      "text": "bila",
+      "userDeviceId": "7cf4bec40adc494dae2e723eced5cd1a4f9cdda625f0e77b00e2e2dff6190e39",
+      "userName": "Beatriz 4367900",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781927962670,
+      "updatedAt": 1781927962670,
+      "status": "active"
+    },
     {
       "id": "local-1781926685712",
       "text": "Amen",
@@ -64,8 +78,8 @@
     }
   ],
   "likeCount": 21,
-  "shareCount": 29,
-  "viewCount": 3911,
+  "shareCount": 31,
+  "viewCount": 3990,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
