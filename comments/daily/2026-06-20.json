@@ -1,7 +1,7 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781927596254,
+  "updatedAt": 1781927790884,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7cf4bec40adc494dae2e723eced5cd1a4f9cdda625f0e77b00e2e2dff6190e39"
+      ],
       "createdAt": 1781926756248,
-      "updatedAt": 1781926756248,
+      "updatedAt": 1781927790884,
       "status": "active"
     },
     {
@@ -62,8 +64,8 @@
     }
   ],
   "likeCount": 21,
-  "shareCount": 28,
-  "viewCount": 3817,
+  "shareCount": 29,
+  "viewCount": 3911,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
