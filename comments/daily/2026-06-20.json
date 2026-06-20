@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781959866846,
+  "updatedAt": 1781959991883,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781959955741",
+      "text": "amén",
+      "userDeviceId": "0c41fddca8f1c249c90e6f62e98b1602df47cc07ffd3122606ae6f0674c43cc8",
+      "userName": "ronal",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781959991883,
+      "updatedAt": 1781959991883,
+      "status": "active"
+    },
     {
       "id": "local-1781959450269",
       "text": "Benie soit L'eternel mon Rocher",
@@ -241,8 +255,8 @@
     }
   ],
   "likeCount": 60,
-  "shareCount": 117,
-  "viewCount": 8616,
+  "shareCount": 118,
+  "viewCount": 8642,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
