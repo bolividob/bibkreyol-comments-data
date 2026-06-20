@@ -1,9 +1,51 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781986933905,
+  "updatedAt": 1781987174357,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781987093614",
+      "text": "momento não tem como vai",
+      "userDeviceId": "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685",
+      "userName": "Amen Amen Amen Amen Amen",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781987174357,
+      "updatedAt": 1781987174357,
+      "status": "active"
+    },
+    {
+      "id": "local-1781987053089",
+      "text": "bonswa zanmi pam",
+      "userDeviceId": "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685",
+      "userName": "Amen Amen Amen Amen Amen",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": "local-1781980960442",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781987174356,
+      "updatedAt": 1781987174356,
+      "status": "active"
+    },
+    {
+      "id": "local-1781987069772",
+      "text": "nou la nap lite avêc jezi",
+      "userDeviceId": "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685",
+      "userName": "Amen Amen Amen Amen Amen",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781987174356,
+      "updatedAt": 1781987174356,
+      "status": "active"
+    },
     {
       "id": "local-1781980960442",
       "text": "BonDieu béni nou",
@@ -11,11 +53,13 @@
       "userName": "sèvitris",
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
+      ],
       "createdAt": 1781981348697,
-      "updatedAt": 1781981348697,
+      "updatedAt": 1781987174356,
       "status": "active"
     },
     {
@@ -40,10 +84,12 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
+      ],
       "createdAt": 1781976788542,
-      "updatedAt": 1781976788542,
+      "updatedAt": 1781987174356,
       "status": "active"
     },
     {
@@ -82,10 +128,12 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
+      ],
       "createdAt": 1781973374555,
-      "updatedAt": 1781974993621,
+      "updatedAt": 1781987174356,
       "status": "active"
     },
     {
@@ -294,12 +342,13 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
       ],
       "createdAt": 1781934783059,
-      "updatedAt": 1781959099879,
+      "updatedAt": 1781987174357,
       "status": "active"
     },
     {
@@ -310,13 +359,14 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
-        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be"
+        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be",
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
       ],
       "createdAt": 1781931545551,
-      "updatedAt": 1781983397409,
+      "updatedAt": 1781987174356,
       "status": "active"
     },
     {
@@ -327,13 +377,14 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
-        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be"
+        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be",
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
       ],
       "createdAt": 1781927962670,
-      "updatedAt": 1781983272719,
+      "updatedAt": 1781987174356,
       "status": "active"
     },
     {
@@ -376,13 +427,14 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
-        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be"
+        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be",
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
       ],
       "createdAt": 1781926103694,
-      "updatedAt": 1781983272719,
+      "updatedAt": 1781987174356,
       "status": "active"
     },
     {
@@ -393,19 +445,20 @@
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
-        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be"
+        "5f71526f792f70919ede20a9ecc973246ae718cd07809b6f7a1c1466739758be",
+        "cdee2a52d0936b53bd1b9b0d32e4f06d2fc39b7fea5cfbc1cad3b1a284d4a685"
       ],
       "createdAt": 1781922563011,
-      "updatedAt": 1781983272719,
+      "updatedAt": 1781987174356,
       "status": "active"
     }
   ],
-  "likeCount": 98,
-  "shareCount": 173,
-  "viewCount": 14535,
+  "likeCount": 99,
+  "shareCount": 174,
+  "viewCount": 14591,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
@@ -504,7 +557,8 @@
     "ab758bee44bfddcdb05b81e9e883841867267ad42508f70debe20604b010ebe6",
     "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
     "ea2b626cc40374751a8300731d7bcd7923589826b08c3d9d0d601a8c58210dd4",
-    "3418e287f926aac0a9cca912d404daf26a4ea7c1e5f36d8e05dcf7bf42bfa8e9"
+    "3418e287f926aac0a9cca912d404daf26a4ea7c1e5f36d8e05dcf7bf42bfa8e9",
+    "2517401094eae86166fd84164d992953357d3ef1c731616442e0e090f2481c3b"
   ],
   "verseViewBy": []
 }
