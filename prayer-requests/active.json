@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781924232734,
+  "updatedAt": 1781924470544,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,17 @@
       "customExpectedSeason": null,
       "request": "on moun kap pèsekitem nan travay mw",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "d6c2a09e219cefa77a1e5888625fe5096563a6e7bc577f1277ea9cfc9af6c675",
-        "484f758bf5d594797d6bff5fbb1be03e4c6d6eaa01027b71d0fa8e42da559c7f"
+        "484f758bf5d594797d6bff5fbb1be03e4c6d6eaa01027b71d0fa8e42da559c7f",
+        "37019d81e7adc57f4bc1316d9841c7e281a5831ae17eb72ea0d78e93456ddc29"
       ],
       "prayingPreview": [
+        {
+          "userName": "Alexandre",
+          "prayedAt": 1781924438066
+        },
         {
           "userName": "MJR",
           "prayedAt": 1781924096487
@@ -31,7 +36,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1781909323813,
-      "updatedAt": 1781924232056,
+      "updatedAt": 1781924469825,
       "answeredAt": null,
       "testimony": null
     },
