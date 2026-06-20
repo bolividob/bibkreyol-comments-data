@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781996347315,
+  "updatedAt": 1781996705912,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,19 @@
       "customExpectedSeason": null,
       "request": "sèvi Bondye fidèl",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "2d0bc9d7812341baaa3b75c775b25a013de1582dc33a54b791bc62b60ea6ffd5"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "James lôm bon kè",
+          "prayedAt": 1781996655086
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1781996341413,
-      "updatedAt": 1781996346634,
+      "updatedAt": 1781996705121,
       "answeredAt": null,
       "testimony": null
     },
