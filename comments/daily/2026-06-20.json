@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781960351673,
+  "updatedAt": 1781960473778,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781963563282",
+      "text": "mesi anpil WI jezu",
+      "userDeviceId": "8df96ea861d4d5440dfef1ace86220a9a2e7d78e0c736c5044fe8ebf2d6764e2",
+      "userName": "rose",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781960473778,
+      "updatedAt": 1781960473778,
+      "status": "active"
+    },
     {
       "id": "local-1781959955741",
       "text": "amén",
@@ -255,8 +269,8 @@
     }
   ],
   "likeCount": 61,
-  "shareCount": 119,
-  "viewCount": 8736,
+  "shareCount": 120,
+  "viewCount": 8769,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
