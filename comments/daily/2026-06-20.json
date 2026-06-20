@@ -1,19 +1,36 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781921191108,
+  "updatedAt": 1781922563012,
   "version": 1,
-  "comments": [],
-  "likeCount": 6,
-  "shareCount": 10,
-  "viewCount": 1974,
+  "comments": [
+    {
+      "id": "local-1781921320871",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson Ceus",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781922563011,
+      "updatedAt": 1781922563011,
+      "status": "active"
+    }
+  ],
+  "likeCount": 8,
+  "shareCount": 14,
+  "viewCount": 2150,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "0173d4a283b123fcf7237397a8a7630de09e6d0271358b8938f0d64a9a90789d",
     "05f01411e8a2946cdd3ad88e2a0519d1582bb842c2d6c67d0ae3142f65a3c928",
-    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4"
+    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+    "9b53e2daddb602611cee00cd7980eab6330ad768fdc6ad6429208fc4dc82f637"
   ],
   "verseViewBy": []
 }
