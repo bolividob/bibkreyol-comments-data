@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781926515907,
+  "updatedAt": 1781926641656,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781926582978",
+      "text": "bondye beniw",
+      "userDeviceId": "2d991e2228ddf4e24badb4807899ba02c278f0d11213342a971739768ae71c08",
+      "userName": "pitit bondye a isena",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": "local-1781921320871",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781926641656,
+      "updatedAt": 1781926641656,
+      "status": "active"
+    },
     {
       "id": "local-1781924497025",
       "text": "🙏🙏🙏amen",
@@ -25,17 +39,17 @@
       "userName": "Mickenson Ceus",
       "verseName": "2 Samyèl 10:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1781922563011,
-      "updatedAt": 1781922563011,
+      "updatedAt": 1781926641656,
       "status": "active"
     }
   ],
   "likeCount": 17,
   "shareCount": 25,
-  "viewCount": 3320,
+  "viewCount": 3380,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
