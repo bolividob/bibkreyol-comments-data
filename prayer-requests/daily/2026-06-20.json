@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "updatedAt": 1781951224003,
+  "updatedAt": 1781952543318,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 20,
@@ -16,17 +16,29 @@
       "customExpectedSeason": null,
       "request": "priyè deblokaj pou moun kap vwayaje",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07"
+        "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07",
+        "e36b11a8b541b19e7e181fa7948a5d84c83563938a9d37708e96e662203254b6"
       ],
       "prayingPreview": [
+        {
+          "userName": "Launia Nobert",
+          "prayedAt": 1781952352528
+        },
         {
           "userName": "vertilus jeremy",
           "prayedAt": 1781950855079
         }
       ],
       "encouragements": [
+        {
+          "id": "e36b11a8b541b19e7e181fa7948a5d84c83563938a9d37708e96e662203254b6-1781952352528-encouragement",
+          "userDeviceId": "e36b11a8b541b19e7e181fa7948a5d84c83563938a9d37708e96e662203254b6",
+          "userName": "Launia Nobert",
+          "text": "se pou BD kindly gen tout you want a metem deyò",
+          "createdAt": 1781952352528
+        },
         {
           "id": "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07-1781951087806-encouragement",
           "userDeviceId": "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07",
@@ -57,7 +69,7 @@
         }
       ],
       "submittedAt": 1781947633383,
-      "updatedAt": 1781951224003,
+      "updatedAt": 1781952543318,
       "answeredAt": null,
       "testimony": null
     },
