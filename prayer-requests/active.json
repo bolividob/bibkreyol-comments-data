@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781950868396,
+  "updatedAt": 1781950998750,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -24,9 +24,24 @@
           "prayedAt": 1781950855079
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07-1781950987043-encouragement",
+          "userDeviceId": "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07",
+          "userName": "vertilus jeremy",
+          "text": "Bondye nap sèvia se li ki kab dilivre nou",
+          "createdAt": 1781950987043
+        },
+        {
+          "id": "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07-1781950903381-encouragement",
+          "userDeviceId": "ee1801b0d03884730ce4905d4066463c53ddf3d3fdcfed45d0202bf1d049bc07",
+          "userName": "vertilus jeremy",
+          "text": "ke Bondye bemi nou",
+          "createdAt": 1781950903381
+        }
+      ],
       "submittedAt": 1781947633383,
-      "updatedAt": 1781950867698,
+      "updatedAt": 1781950998055,
       "answeredAt": null,
       "testimony": null
     },
