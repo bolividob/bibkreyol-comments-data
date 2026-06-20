@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "updatedAt": 1781909592471,
+  "updatedAt": 1781917144432,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 16,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "on moun kap pèsekitem nan travay mw",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "eef0f2b0ed7e0d6f051b8893fbd5c23e30cc08947dd47e54f9926d66c0146371"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Roselanda pauluis",
+          "prayedAt": 1781917062233
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1781909323813,
-      "updatedAt": 1781909357230,
+      "updatedAt": 1781917144432,
       "answeredAt": null,
       "testimony": null
     },
