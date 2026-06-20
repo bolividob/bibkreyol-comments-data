@@ -1,9 +1,23 @@
 {
   "date": "2026-06-20",
   "verseKey": "daily:2026-06-20",
-  "updatedAt": 1781957647759,
+  "updatedAt": 1781957770685,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1781957650778",
+      "text": "amen amen amen",
+      "userDeviceId": "f301a3b77d93eaa7b6be29e09682ae03a0b32aa1d02d7b1f0eb431b076f78a08",
+      "userName": "bible kreyòl",
+      "verseName": "2 Samyèl 10:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1781957770685,
+      "updatedAt": 1781957770685,
+      "status": "active"
+    },
     {
       "id": "local-1781957090183",
       "text": "bonDye beni nou",
@@ -177,7 +191,7 @@
   ],
   "likeCount": 57,
   "shareCount": 108,
-  "viewCount": 8083,
+  "viewCount": 8116,
   "verseLikedBy": [
     "05d61e7379729f053480665851e55d50761cbbb714193d44d3aa70e8a8c15f6e",
     "e4ddf7aab654e2ced1abd9182d2514422bd9a373c8dfe6b2e07d6a4b8bade3be",
