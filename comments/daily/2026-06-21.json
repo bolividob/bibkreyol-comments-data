@@ -1,9 +1,23 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782077945470,
+  "updatedAt": 1782081342852,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782078567900",
+      "text": "amèn Amèn",
+      "userDeviceId": "6df8cf5e8b5d7cf945c5f7fe4ad1a7288e199ae6e41a44ac80216079511ff43b",
+      "userName": "Aimè",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782081342852,
+      "updatedAt": 1782081342852,
+      "status": "active"
+    },
     {
       "id": "local-1782054022075",
       "text": "Amen",
@@ -330,8 +344,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 157,
-  "viewCount": 20550,
+  "shareCount": 163,
+  "viewCount": 21531,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
