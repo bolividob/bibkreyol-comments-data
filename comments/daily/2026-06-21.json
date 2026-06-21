@@ -1,9 +1,37 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782007168471,
+  "updatedAt": 1782009031574,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782007661150",
+      "text": "som 27 vese14",
+      "userDeviceId": "a39ed41747d3d5fe00dc6412a2d16da210bb9518b92655954d6222709c8157c0",
+      "userName": "som",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782009031574,
+      "updatedAt": 1782009031574,
+      "status": "active"
+    },
+    {
+      "id": "local-1782007823145",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782009031574,
+      "updatedAt": 1782009031574,
+      "status": "active"
+    },
     {
       "id": "local-1782005052731",
       "text": "Amén",
@@ -21,7 +49,7 @@
   ],
   "likeCount": 9,
   "shareCount": 12,
-  "viewCount": 2207,
+  "viewCount": 2375,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
