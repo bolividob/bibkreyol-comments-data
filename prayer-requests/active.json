@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782041464514,
+  "updatedAt": 1782041599812,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -34,19 +34,32 @@
       "customExpectedSeason": null,
       "request": "pryè deblokaj",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "49ae37d9957145e45e4a74196a0a6c41fb02056d1474e324f6a4fc5b6ffa1717"
+        "49ae37d9957145e45e4a74196a0a6c41fb02056d1474e324f6a4fc5b6ffa1717",
+        "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2"
       ],
       "prayingPreview": [
+        {
+          "userName": "vanel",
+          "prayedAt": 1782041479690
+        },
         {
           "userName": "Love",
           "prayedAt": 1782038422943
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2-1782041479690-encouragement",
+          "userDeviceId": "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2",
+          "userName": "vanel",
+          "text": "mw gen yn erni",
+          "createdAt": 1782041479690
+        }
+      ],
       "submittedAt": 1782037965937,
-      "updatedAt": 1782038463474,
+      "updatedAt": 1782041598084,
       "answeredAt": null,
       "testimony": null
     },
