@@ -1,9 +1,23 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782009031574,
+  "updatedAt": 1782009205382,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782008637267",
+      "text": "amén",
+      "userDeviceId": "ede846da26182db0d4246400a60a365d1bace9f668c70f5b30a56232dd75b7a4",
+      "userName": "amén 🙏 y gracias a Dios por todo 🙏🙏🙏🙏",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782009205382,
+      "updatedAt": 1782009205382,
+      "status": "active"
+    },
     {
       "id": "local-1782007661150",
       "text": "som 27 vese14",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
+  "likeCount": 11,
   "shareCount": 12,
-  "viewCount": 2375,
+  "viewCount": 2495,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
@@ -59,7 +73,9 @@
     "bb2dbc63af71450745fff2ea97b194b0e63b2230615485fbf595f4d1a33b456e",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "b743eff314dfcdc7ffff0614cedc1320eac39bad130739f07aa7ab20e04bf75d",
-    "b27bcf151e253a6558301a06599a9849724b6e12cd43b9c2440e516e88ee65d2"
+    "b27bcf151e253a6558301a06599a9849724b6e12cd43b9c2440e516e88ee65d2",
+    "23a16dd802488bc8bdba57ea18cc4f9b3c73b179d2676a56aeba951553687486",
+    "0fb0cf26a29907fb29d6475cb74862837d564b6cd5f257bff34f8e9e98c61297"
   ],
   "verseViewBy": []
 }
