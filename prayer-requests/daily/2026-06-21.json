@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": 1782017468709,
+  "updatedAt": 1782018676465,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 28,
@@ -16,12 +16,19 @@
       "customExpectedSeason": "kikiKèk semèn",
       "request": "kiki\nkiki\nkiki\nkiki\nkiki",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "0c1ff267105ebec898d8f2be96efd40742dd5f77a7e63326bf2bfe5a634cf4d6"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "santo",
+          "prayedAt": 1782018650835
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1782017407365,
-      "updatedAt": 1782017468709,
+      "updatedAt": 1782018676465,
       "answeredAt": null,
       "testimony": null
     },
