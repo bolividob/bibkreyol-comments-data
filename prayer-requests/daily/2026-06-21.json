@@ -1,10 +1,30 @@
 {
   "date": "2026-06-21",
-  "updatedAt": 1782039064333,
+  "updatedAt": 1782041463805,
   "version": 1,
   "dailyLimit": 33,
-  "dailySubmissionCount": 29,
+  "dailySubmissionCount": 30,
   "requests": [
+    {
+      "id": "local-prayer-1782041428265",
+      "userDeviceId": "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2",
+      "userName": "vanel",
+      "category": "healing",
+      "customCategory": null,
+      "faithLevel": 3,
+      "expectedSeason": "few_weeks",
+      "customExpectedSeason": null,
+      "request": "mp mande edem priye Pou vi spirituel mw",
+      "status": "praying",
+      "prayerCount": 0,
+      "prayedBy": [],
+      "prayingPreview": [],
+      "encouragements": [],
+      "submittedAt": 1782041427910,
+      "updatedAt": 1782041463805,
+      "answeredAt": null,
+      "testimony": null
+    },
     {
       "id": "local-prayer-1782037962925",
       "userDeviceId": "a2848210c4c628fb985ae69ed8712ff8ff3a04350f0bf0a44845945f6ea3e0a1",
