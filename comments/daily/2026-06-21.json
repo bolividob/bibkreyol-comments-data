@@ -1,9 +1,23 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782070748776,
+  "updatedAt": 1782074156140,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782040549080",
+      "text": "le sang de jesus",
+      "userDeviceId": "c2b702be0c93988d4eafc886b5071733b72bb08a63a6cdd3a2cbe9ea84103b15",
+      "userName": "salomon",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782074156137,
+      "updatedAt": 1782074156137,
+      "status": "active"
+    },
     {
       "id": "local-1782062551979",
       "text": "amèn",
@@ -273,9 +287,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 125,
-  "viewCount": 16648,
+  "likeCount": 54,
+  "shareCount": 132,
+  "viewCount": 17630,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
@@ -325,7 +339,12 @@
     "3052f4745470df09eecb43c9359def5823a3f6e729ec32859c8c05e4d856f7d6",
     "2bec99050a5bd6e4a65c542a776e168100fbfb169d4db1e5246003789e1e08ab",
     "41cc53bd37ece6f0eceb88b047a4830ae07e7ce038ff84022dc9e2aca06e499d",
-    "1b550aa59f07a0062a2a27d09b57b9143d40e152b682b9d5180e738b01092969"
+    "1b550aa59f07a0062a2a27d09b57b9143d40e152b682b9d5180e738b01092969",
+    "bf121ff462257a0506996d84c1a69d5311394ef28fedd9c72d916590b16625cb",
+    "c69c64c6df79c494499e386225751cd5ce5deedc7eb93e3019cd99fca2f6ce35",
+    "bfc1f6844af97e9851b86d7907a413ca40513bf20e5a06088284667aa285e97f",
+    "b4653f6ea835bbf0a0ae89045c0660e5f863a55a80ea3412ec8445f856c3c3d5",
+    "134708dacef012c0dba648a455b6dda659553cb599df8bc68ac8f878dca70adc"
   ],
   "verseViewBy": []
 }
