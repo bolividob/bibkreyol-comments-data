@@ -1,9 +1,23 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782033363398,
+  "updatedAt": 1782033495984,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782033463133",
+      "text": "de livrans",
+      "userDeviceId": "24529002a4c0e0e9f52fc0ed037c19c8165ea5f2a94953fbbae59208c6c512a0",
+      "userName": "Rodelais",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782033495984,
+      "updatedAt": 1782033495984,
+      "status": "active"
+    },
     {
       "id": "local-1782023076545",
       "text": "Amén y amén",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
+  "likeCount": 28,
   "shareCount": 49,
-  "viewCount": 5907,
+  "viewCount": 5918,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
@@ -175,7 +189,8 @@
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "14ed141a07359a0843f2f5e70907e3d206e118564cd23eb41c7d8e482eba87c7",
     "6e97d59bbd27c3265419ad1bcd611dd1884d87aabcf3aa5ebedcbeaaf35b2473",
-    "4d60187657b637625c4bcb09c510194c678ea7569b18ac23a7d9a997db54b723"
+    "4d60187657b637625c4bcb09c510194c678ea7569b18ac23a7d9a997db54b723",
+    "24529002a4c0e0e9f52fc0ed037c19c8165ea5f2a94953fbbae59208c6c512a0"
   ],
   "verseViewBy": []
 }
