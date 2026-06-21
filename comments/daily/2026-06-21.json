@@ -1,9 +1,23 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782009565306,
+  "updatedAt": 1782009732016,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782007811669",
+      "text": "bonsoir koman ou ye?",
+      "userDeviceId": "2e76ed3181e61312efbd5a200748d8a08d82405cc94c6d91233418c5b8e2ee9f",
+      "userName": "Madame EMILE Esther Esther fania",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782009732016,
+      "updatedAt": 1782009732016,
+      "status": "active"
+    },
     {
       "id": "local-1782008637267",
       "text": "amén",
@@ -63,7 +77,7 @@
   ],
   "likeCount": 11,
   "shareCount": 15,
-  "viewCount": 2705,
+  "viewCount": 2790,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
