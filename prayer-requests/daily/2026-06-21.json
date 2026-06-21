@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "updatedAt": 1782041598084,
+  "updatedAt": 1782041837082,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 30,
@@ -36,12 +36,17 @@
       "customExpectedSeason": null,
       "request": "pryè deblokaj",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "49ae37d9957145e45e4a74196a0a6c41fb02056d1474e324f6a4fc5b6ffa1717",
-        "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2"
+        "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2",
+        "86c9b4776b0fc35b48c9be571991b6e38de0569d661e8b3c00eecb377b231316"
       ],
       "prayingPreview": [
+        {
+          "userName": "jezi",
+          "prayedAt": 1782041645838
+        },
         {
           "userName": "vanel",
           "prayedAt": 1782041479690
@@ -61,7 +66,7 @@
         }
       ],
       "submittedAt": 1782037965937,
-      "updatedAt": 1782041598084,
+      "updatedAt": 1782041837082,
       "answeredAt": null,
       "testimony": null
     },
