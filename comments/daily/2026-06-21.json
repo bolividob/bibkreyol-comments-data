@@ -1,9 +1,51 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782074517154,
+  "updatedAt": 1782077757751,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782054022075",
+      "text": "Amen",
+      "userDeviceId": "1ea1c6a682286bfedd7b7fe04a154de3daea635764b0056ca42b728aa0b1d66c",
+      "userName": "amen",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782077757751,
+      "updatedAt": 1782077757751,
+      "status": "active"
+    },
+    {
+      "id": "local-1782054073212",
+      "text": "klemen",
+      "userDeviceId": "1ea1c6a682286bfedd7b7fe04a154de3daea635764b0056ca42b728aa0b1d66c",
+      "userName": "amen",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782077757751,
+      "updatedAt": 1782077757751,
+      "status": "active"
+    },
+    {
+      "id": "local-1782076655952",
+      "text": "bonsoir mes frères et sœurs",
+      "userDeviceId": "d348932c839e22b07b589dbc68342bf7169496b3d60d69bf107e44a36128fa79",
+      "userName": "richefalove",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782077757751,
+      "updatedAt": 1782077757751,
+      "status": "active"
+    },
     {
       "id": "local-1782040549080",
       "text": "le sang de jesus",
@@ -287,9 +329,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 139,
-  "viewCount": 18597,
+  "likeCount": 58,
+  "shareCount": 148,
+  "viewCount": 19573,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
@@ -341,11 +383,14 @@
     "41cc53bd37ece6f0eceb88b047a4830ae07e7ce038ff84022dc9e2aca06e499d",
     "1b550aa59f07a0062a2a27d09b57b9143d40e152b682b9d5180e738b01092969",
     "bf121ff462257a0506996d84c1a69d5311394ef28fedd9c72d916590b16625cb",
-    "c69c64c6df79c494499e386225751cd5ce5deedc7eb93e3019cd99fca2f6ce35",
     "bfc1f6844af97e9851b86d7907a413ca40513bf20e5a06088284667aa285e97f",
     "b4653f6ea835bbf0a0ae89045c0660e5f863a55a80ea3412ec8445f856c3c3d5",
     "134708dacef012c0dba648a455b6dda659553cb599df8bc68ac8f878dca70adc",
-    "87f3ae343b58451ccdd2dbb2e373d0ee3d9f11b7a295bb64f35c1a74ccdb8b60"
+    "87f3ae343b58451ccdd2dbb2e373d0ee3d9f11b7a295bb64f35c1a74ccdb8b60",
+    "ccd778e03fe9d97c16587ab01f3d9867346717be548c35f854a139e769292f92",
+    "c69c64c6df79c494499e386225751cd5ce5deedc7eb93e3019cd99fca2f6ce35",
+    "d73b62478e914a0b38593dda41662dd5dd016d52528d0921d293342e8a0c5ad4",
+    "a3b122f5890852283e551a05b6f2676d94fe87e42e02fc76e14235cfe62799a2"
   ],
   "verseViewBy": []
 }
