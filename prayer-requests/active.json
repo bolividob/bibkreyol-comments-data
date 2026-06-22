@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782134722311,
+  "updatedAt": 1782136504270,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -41,17 +41,29 @@
       "customExpectedSeason": null,
       "request": "BonDieu benie nou map mande ed priye nou mwn genyien poum al opere nan coeur nan 4 semaine",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1"
+        "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
+        "95d01a895c3332169bafcd0a4bd591c91b2a9778739296372e26abd35bc09e21"
       ],
       "prayingPreview": [
+        {
+          "userName": "fleuradin wilna",
+          "prayedAt": 1782136463149
+        },
         {
           "userName": "Sr Jean Clivens",
           "prayedAt": 1782134689327
         }
       ],
       "encouragements": [
+        {
+          "id": "95d01a895c3332169bafcd0a4bd591c91b2a9778739296372e26abd35bc09e21-1782136463149-encouragement",
+          "userDeviceId": "95d01a895c3332169bafcd0a4bd591c91b2a9778739296372e26abd35bc09e21",
+          "userName": "fleuradin wilna",
+          "text": "mw beni e felisite Moun kifôme goroup de priye an ke bonye beni Nou?",
+          "createdAt": 1782136463149
+        },
         {
           "id": "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1-1782134689327-encouragement",
           "userDeviceId": "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
@@ -61,7 +73,7 @@
         }
       ],
       "submittedAt": 1782127383119,
-      "updatedAt": 1782134719971,
+      "updatedAt": 1782136503190,
       "answeredAt": null,
       "testimony": null
     },
