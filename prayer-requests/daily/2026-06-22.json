@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": 1782122832640,
+  "updatedAt": 1782125114331,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 31,
@@ -193,12 +193,19 @@
       "customExpectedSeason": null,
       "request": "mw vle konfesem Devan bondye\n.",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "6df8cf5e8b5d7cf945c5f7fe4ad1a7288e199ae6e41a44ac80216079511ff43b"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Aimè",
+          "prayedAt": 1782125103625
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1782014815255,
-      "updatedAt": 1782014831049,
+      "updatedAt": 1782125114331,
       "answeredAt": null,
       "testimony": null
     },
