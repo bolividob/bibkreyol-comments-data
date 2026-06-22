@@ -1,9 +1,23 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782117740308,
+  "updatedAt": 1782118883597,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782118431780",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782118883597,
+      "updatedAt": 1782118883597,
+      "status": "active"
+    },
     {
       "id": "local-1782098489700",
       "text": "mèsi senyè pou gloire",
@@ -159,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
+  "likeCount": 17,
   "shareCount": 15,
-  "viewCount": 3384,
+  "viewCount": 3489,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
@@ -178,7 +192,8 @@
     "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
     "b82f654d59de2e03bb449aa92f3a6c1a8b1a3dda94177940eab8a100c52dca7c",
     "982d5660c02bc7c4661b8bcb7354795107e4406101c36222fc63bda10cb44341",
-    "1b40f227b11cef370d6481679001b1a92c90fc2e99cb63ca04511f4df10f8f32"
+    "1b40f227b11cef370d6481679001b1a92c90fc2e99cb63ca04511f4df10f8f32",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
   ],
   "verseViewBy": []
 }
