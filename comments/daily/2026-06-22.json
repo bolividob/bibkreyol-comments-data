@@ -1,9 +1,23 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782096392994,
+  "updatedAt": 1782099157479,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782097955464",
+      "text": "Merci Seigneur Jesus Merci",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782099157478,
+      "updatedAt": 1782099157478,
+      "status": "active"
+    },
     {
       "id": "local-1782094570889",
       "text": "merci seigneur pour miséricorde à",
@@ -133,7 +147,7 @@
   ],
   "likeCount": 9,
   "shareCount": 9,
-  "viewCount": 2057,
+  "viewCount": 2248,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
