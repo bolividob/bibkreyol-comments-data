@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": 1782122471010,
+  "updatedAt": 1782122832640,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 31,
@@ -16,14 +16,19 @@
       "customExpectedSeason": null,
       "request": "pou n edem poum kenbe malgre tout sitiyasion mond lan kap pote",
       "status": "praying",
-      "prayerCount": 4,
+      "prayerCount": 5,
       "prayedBy": [
         "1ccd08abe5dfea33125ef8e338a85d118aa1236f9fc8ef7e3dfce1007f633afe",
         "86db03f1c18ed62488067293f0b8d286aaa61018c4f517ce2bfa029fd41a94b1",
         "d4d0abe9a79386561b6512b9fbd2669f353efd194ed65589f11c76f697aab568",
-        "199293462bd924a2a5b869cfb0fcb6d19397c03ebe53c883c8a09a02ae36270f"
+        "199293462bd924a2a5b869cfb0fcb6d19397c03ebe53c883c8a09a02ae36270f",
+        "9eea34eae9b9f2f9c6fb90dbac288ffa8ae0869f290d347911e297a842ad22f6"
       ],
       "prayingPreview": [
+        {
+          "userName": "Francesca",
+          "prayedAt": 1782122815060
+        },
         {
           "userName": "widson",
           "prayedAt": 1782122397658
@@ -41,9 +46,17 @@
           "prayedAt": 1782088547778
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "9eea34eae9b9f2f9c6fb90dbac288ffa8ae0869f290d347911e297a842ad22f6-1782122815060-encouragement",
+          "userDeviceId": "9eea34eae9b9f2f9c6fb90dbac288ffa8ae0869f290d347911e297a842ad22f6",
+          "userName": "Francesca",
+          "text": "kontinye fè Bondje konfyans sèm.",
+          "createdAt": 1782122815060
+        }
+      ],
       "submittedAt": 1782084638459,
-      "updatedAt": 1782122471010,
+      "updatedAt": 1782122832640,
       "answeredAt": null,
       "testimony": null
     },
