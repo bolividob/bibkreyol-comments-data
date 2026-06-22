@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782136504270,
+  "updatedAt": 1782138332395,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,11 +14,16 @@
       "customExpectedSeason": null,
       "request": "edem priye pou bondye fè falensky jwenn yon travail .epi poul metem yon kote mka adorel pi byen",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1"
+        "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
+        "55d467b2fb401a839510d55b70c668e6a91a3e217cc68a0c7adf7241d45ed604"
       ],
       "prayingPreview": [
+        {
+          "userName": "bib kreyòl",
+          "prayedAt": 1782138130288
+        },
         {
           "userName": "Sr Jean Clivens",
           "prayedAt": 1782134337235
@@ -26,7 +31,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1782129068724,
-      "updatedAt": 1782134345443,
+      "updatedAt": 1782138328227,
       "answeredAt": null,
       "testimony": null
     },
