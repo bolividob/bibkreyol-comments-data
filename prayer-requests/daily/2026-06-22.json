@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": 1782152942997,
+  "updatedAt": 1782163864557,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 33,
@@ -16,13 +16,18 @@
       "customExpectedSeason": null,
       "request": "edem priye pou bondye fè falensky jwenn yon travail .epi poul metem yon kote mka adorel pi byen",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
         "55d467b2fb401a839510d55b70c668e6a91a3e217cc68a0c7adf7241d45ed604",
-        "c771bea766f1d2b71d4cbb121034e3e7ce11a593ea3be6031393f458f9f937d4"
+        "c771bea766f1d2b71d4cbb121034e3e7ce11a593ea3be6031393f458f9f937d4",
+        "ef57ebb524e0200386fb2af83989d4f5f60a42585957893a4f18e19815e73c36"
       ],
       "prayingPreview": [
+        {
+          "userName": "fr dodo",
+          "prayedAt": 1782163819718
+        },
         {
           "userName": "beyoo",
           "prayedAt": 1782152926694
@@ -46,7 +51,7 @@
         }
       ],
       "submittedAt": 1782129068724,
-      "updatedAt": 1782152942997,
+      "updatedAt": 1782163864557,
       "answeredAt": null,
       "testimony": null
     },
