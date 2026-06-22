@@ -1,9 +1,37 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782092267141,
+  "updatedAt": 1782092674392,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782088167144",
+      "text": "mèsi seyè pou gras ou papa",
+      "userDeviceId": "bb8aad8fadd95678d59764db6b447ef79c8e20b72334b2d7cd13d4f93d279e7a",
+      "userName": "fre jeanrony apredieu",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782092674391,
+      "updatedAt": 1782092674391,
+      "status": "active"
+    },
+    {
+      "id": "local-1782092244228",
+      "text": "slt atous",
+      "userDeviceId": "241d1b1d05f3bb1d3edec81dee20e3004a961a6897ea6affea21b6835d50c78d",
+      "userName": "Laurie cha lacourageuse🙏🙏💋❤❤💯💯💥",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782092674391,
+      "updatedAt": 1782092674391,
+      "status": "active"
+    },
     {
       "id": "local-1782091896688",
       "text": "Amen 🙏🏾",
@@ -75,13 +103,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 5,
-  "viewCount": 1284,
+  "likeCount": 4,
+  "shareCount": 6,
+  "viewCount": 1462,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
-    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+    "86db03f1c18ed62488067293f0b8d286aaa61018c4f517ce2bfa029fd41a94b1"
   ],
   "verseViewBy": []
 }
