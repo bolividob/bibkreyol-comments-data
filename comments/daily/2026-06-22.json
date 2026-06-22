@@ -1,9 +1,23 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782122651541,
+  "updatedAt": 1782122894593,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782122655385",
+      "text": "Amèn",
+      "userDeviceId": "9eea34eae9b9f2f9c6fb90dbac288ffa8ae0869f290d347911e297a842ad22f6",
+      "userName": "Francesca",
+      "verseName": "Galasyen 1:5",
+      "parentId": "local-1782094603848",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782122894592,
+      "updatedAt": 1782122894592,
+      "status": "active"
+    },
     {
       "id": "local-1782122552965",
       "text": "Bondje pa janm an reta.",
@@ -95,11 +109,11 @@
       "userName": "Mrs Darla",
       "verseName": "Galasyen 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782095485706,
-      "updatedAt": 1782095485706,
+      "updatedAt": 1782122894592,
       "status": "active"
     },
     {
@@ -202,8 +216,8 @@
     }
   ],
   "likeCount": 21,
-  "shareCount": 25,
-  "viewCount": 4149,
+  "shareCount": 26,
+  "viewCount": 4219,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
