@@ -1,9 +1,23 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782153322618,
+  "updatedAt": 1782153428153,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782093201609",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782153428153,
+      "updatedAt": 1782153428153,
+      "status": "active"
+    },
     {
       "id": "local-1782149961095",
       "text": "🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤✨✨🫂🫂🫂🫂😁😁😁😁🥰🥰🥰🥰♈♈👋👋👋👋💞💞💞💞🌟🌟🌟🌟💫💫💫💫✨✨🌺",
@@ -568,7 +582,7 @@
   ],
   "likeCount": 77,
   "shareCount": 112,
-  "viewCount": 10964,
+  "viewCount": 10980,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
