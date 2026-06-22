@@ -1,9 +1,25 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782149898591,
+  "updatedAt": 1782150135549,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782149961095",
+      "text": "🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤✨✨🫂🫂🫂🫂😁😁😁😁🥰🥰🥰🥰♈♈👋👋👋👋💞💞💞💞🌟🌟🌟🌟💫💫💫💫✨✨🌺",
+      "userDeviceId": "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+      "userName": "Bonjour",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
+      "createdAt": 1782150135549,
+      "updatedAt": 1782150135549,
+      "status": "active"
+    },
     {
       "id": "local-1782146046957",
       "text": "Amen 🙏🏾🙏🏾🙏🏾",
@@ -283,10 +299,12 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1782124822003,
-      "updatedAt": 1782124822003,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -407,12 +425,13 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
+        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1782095485706,
-      "updatedAt": 1782125047306,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -423,12 +442,13 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 2,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
+        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1782095485706,
-      "updatedAt": 1782125168545,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -439,12 +459,13 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
+        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1782092674391,
-      "updatedAt": 1782125168545,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -455,10 +476,12 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1782092674391,
-      "updatedAt": 1782125168545,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -469,12 +492,13 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
+        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1782091962531,
-      "updatedAt": 1782125168545,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -485,10 +509,12 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1782089150827,
-      "updatedAt": 1782089150827,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -499,10 +525,12 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1782089150827,
-      "updatedAt": 1782089150827,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -513,10 +541,12 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1782089150827,
-      "updatedAt": 1782089150827,
+      "updatedAt": 1782150135549,
       "status": "active"
     },
     {
@@ -527,16 +557,18 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1782089150827,
-      "updatedAt": 1782125302333,
+      "updatedAt": 1782150135549,
       "status": "active"
     }
   ],
   "likeCount": 75,
-  "shareCount": 105,
-  "viewCount": 10397,
+  "shareCount": 107,
+  "viewCount": 10437,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
