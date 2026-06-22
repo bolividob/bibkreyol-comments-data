@@ -1,9 +1,24 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782158614355,
+  "updatedAt": 1782162765076,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1782083814049",
+      "text": "Very bibkreyol.com",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782162765076,
+      "updatedAt": 1782162765076,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
   "shareCount": 0,
   "viewCount": 6,
