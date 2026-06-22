@@ -1,9 +1,23 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782089150827,
+  "updatedAt": 1782091962531,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782091896688",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782091962531,
+      "updatedAt": 1782091962531,
+      "status": "active"
+    },
     {
       "id": "local-1782088903490",
       "text": "amor me voy para allá y wè wè del jefe hdhtdhtdjgdjgjdjgjtdjdtjdjtdjtdjtdjd de julio JD JJ dd jdj jd djj dj dj dj djd jdjdjdj jf jj ffj jf jf bf fjfjfbb fb fb fbf bfv f fb fb fbf bfv bff bff bff FB bff bien FB FB FB FB FB FB FB bff bff bff FB bff bb de de eh eh ehefbtebtdbdubdbudddjdjbdjujdj y dvd vdvdvvtddvtvdtvzcyxvyxvduhdududkudousoyditidi si si x jx x cv voy bb dj ffj jx jgjjtjt jfbxbxBienvenido al portapapeles de Gboard; todo texto que copies se guardará ahdhPara pegar un clip en el cuadro",
@@ -61,11 +75,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 1,
-  "shareCount": 2,
-  "viewCount": 763,
+  "likeCount": 3,
+  "shareCount": 4,
+  "viewCount": 1050,
   "verseLikedBy": [
-    "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4"
+    "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
+    "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228"
   ],
   "verseViewBy": []
 }
