@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782134346373,
+  "updatedAt": 1782134722311,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -41,12 +41,27 @@
       "customExpectedSeason": null,
       "request": "BonDieu benie nou map mande ed priye nou mwn genyien poum al opere nan coeur nan 4 semaine",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
-      "encouragements": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Sr Jean Clivens",
+          "prayedAt": 1782134689327
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1-1782134689327-encouragement",
+          "userDeviceId": "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
+          "userName": "Sr Jean Clivens",
+          "text": "Lafwaw nan Kris se yon fém asirans, ke se pa men lom ki operew si non men BonDye.",
+          "createdAt": 1782134689327
+        }
+      ],
       "submittedAt": 1782127383119,
-      "updatedAt": 1782127400249,
+      "updatedAt": 1782134719971,
       "answeredAt": null,
       "testimony": null
     },
