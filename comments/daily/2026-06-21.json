@@ -1,9 +1,23 @@
 {
   "date": "2026-06-21",
   "verseKey": "daily:2026-06-21",
-  "updatedAt": 1782103696990,
+  "updatedAt": 1782110155444,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782077847626",
+      "text": "san jezu pirifye m",
+      "userDeviceId": "eae70c64c5f4c89995d5d046471c4c4fdd78d18592af2007525f8e7aaefb7e56",
+      "userName": "wilner",
+      "verseName": "1 Wa 8:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782110155443,
+      "updatedAt": 1782110155443,
+      "status": "active"
+    },
     {
       "id": "local-1782082699073",
       "text": "Salut",
@@ -427,9 +441,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 58,
-  "shareCount": 183,
-  "viewCount": 25459,
+  "likeCount": 61,
+  "shareCount": 190,
+  "viewCount": 26417,
   "verseLikedBy": [
     "6c211c1ec09a4282b3a4c7f018ce9c48f1c9c4bb835b04ff829363996b5505e5",
     "95fbaa63d2999cb4d4e9af23e8fb25e3e4b64170f4b4cf77cfc3ad991534d500",
@@ -488,7 +502,10 @@
     "ccd778e03fe9d97c16587ab01f3d9867346717be548c35f854a139e769292f92",
     "d73b62478e914a0b38593dda41662dd5dd016d52528d0921d293342e8a0c5ad4",
     "a3b122f5890852283e551a05b6f2676d94fe87e42e02fc76e14235cfe62799a2",
-    "c69c64c6df79c494499e386225751cd5ce5deedc7eb93e3019cd99fca2f6ce35"
+    "c69c64c6df79c494499e386225751cd5ce5deedc7eb93e3019cd99fca2f6ce35",
+    "e8637564d39db72573871d93a7acf4f79e6354c6a36ea32c5d95a2910a8958b8",
+    "eab4ccf3f331b0a939b65d29af80569cf7e4cc9bfa3cdcf6e09dbecdd1ec2cf9",
+    "e83e113da5a8c1a4b6ad5cbdf304ec8efdc5cbef1744f6061b698470818796ca"
   ],
   "verseViewBy": []
 }
