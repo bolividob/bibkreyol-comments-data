@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "updatedAt": 1782092825325,
+  "updatedAt": 1782120076937,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 31,
@@ -16,12 +16,17 @@
       "customExpectedSeason": null,
       "request": "pou n edem poum kenbe malgre tout sitiyasion mond lan kap pote",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "1ccd08abe5dfea33125ef8e338a85d118aa1236f9fc8ef7e3dfce1007f633afe",
-        "86db03f1c18ed62488067293f0b8d286aaa61018c4f517ce2bfa029fd41a94b1"
+        "86db03f1c18ed62488067293f0b8d286aaa61018c4f517ce2bfa029fd41a94b1",
+        "d4d0abe9a79386561b6512b9fbd2669f353efd194ed65589f11c76f697aab568"
       ],
       "prayingPreview": [
+        {
+          "userName": "soni",
+          "prayedAt": 1782120056065
+        },
         {
           "userName": "Love",
           "prayedAt": 1782092820703
@@ -33,7 +38,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1782084638459,
-      "updatedAt": 1782092825325,
+      "updatedAt": 1782120076937,
       "answeredAt": null,
       "testimony": null
     },
