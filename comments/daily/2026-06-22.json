@@ -1,7 +1,7 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782142867026,
+  "updatedAt": 1782143132536,
   "version": 1,
   "comments": [
     {
@@ -42,12 +42,13 @@
       "verseName": "Galasyen 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "9fb92359cfb1cf9a351b78f3950bc73af120c7d90629b0285b95cb00ee05663a"
+        "9fb92359cfb1cf9a351b78f3950bc73af120c7d90629b0285b95cb00ee05663a",
+        "0c06d41c29eee6d715738ad6488bfae829cca3959892af39da5d575434d8fc63"
       ],
       "createdAt": 1782138664955,
-      "updatedAt": 1782141626062,
+      "updatedAt": 1782143132536,
       "status": "active"
     },
     {
@@ -519,9 +520,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 66,
+  "likeCount": 67,
   "shareCount": 100,
-  "viewCount": 8741,
+  "viewCount": 8801,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
@@ -588,7 +589,8 @@
     "11a3b8ce335d43e42a50544b44c7f48fb767711116c1a8652bb19149290fdba0",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
     "d7924eb113c5c7ad2597b80c5137eea4710f8206d4c7fd5842cadc543e2fa779",
-    "9fb92359cfb1cf9a351b78f3950bc73af120c7d90629b0285b95cb00ee05663a"
+    "9fb92359cfb1cf9a351b78f3950bc73af120c7d90629b0285b95cb00ee05663a",
+    "b11e8540b5a65cb07f6766521939d485fe8b2bd6ff0be5b3e81ae5690700fb0d"
   ],
   "verseViewBy": []
 }
