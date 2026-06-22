@@ -1,9 +1,37 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782092674392,
+  "updatedAt": 1782095485706,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782094570889",
+      "text": "merci seigneur pour miséricorde à",
+      "userDeviceId": "c3f844381520bca61b4c392dacffe532af9c178c12de49119b898b3c31574e06",
+      "userName": "Mrs Darla",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782095485706,
+      "updatedAt": 1782095485706,
+      "status": "active"
+    },
+    {
+      "id": "local-1782094603848",
+      "text": "merci seigneur pour ta bonté divine",
+      "userDeviceId": "c3f844381520bca61b4c392dacffe532af9c178c12de49119b898b3c31574e06",
+      "userName": "Mrs Darla",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782095485706,
+      "updatedAt": 1782095485706,
+      "status": "active"
+    },
     {
       "id": "local-1782088167144",
       "text": "mèsi seyè pou gras ou papa",
@@ -104,8 +132,8 @@
     }
   ],
   "likeCount": 4,
-  "shareCount": 6,
-  "viewCount": 1462,
+  "shareCount": 7,
+  "viewCount": 1631,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
