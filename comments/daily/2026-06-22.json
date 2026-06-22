@@ -1,9 +1,65 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782125047306,
+  "updatedAt": 1782125168545,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782125051186",
+      "text": "Amen 🙏🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+      "userName": "RISSARDY FRITZ BIENVENU",
+      "verseName": "Galasyen 1:5",
+      "parentId": "local-1782094603848",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782125168545,
+      "updatedAt": 1782125168545,
+      "status": "active"
+    },
+    {
+      "id": "local-1782125076961",
+      "text": "Amèn 🙏🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+      "userName": "RISSARDY FRITZ BIENVENU",
+      "verseName": "Galasyen 1:5",
+      "parentId": "local-1782088167144",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782125168545,
+      "updatedAt": 1782125168545,
+      "status": "active"
+    },
+    {
+      "id": "local-1782125094242",
+      "text": "Salut",
+      "userDeviceId": "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+      "userName": "RISSARDY FRITZ BIENVENU",
+      "verseName": "Galasyen 1:5",
+      "parentId": "local-1782092244228",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782125168545,
+      "updatedAt": 1782125168545,
+      "status": "active"
+    },
+    {
+      "id": "local-1782125148139",
+      "text": "Amen 🙏🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+      "userName": "RISSARDY FRITZ BIENVENU",
+      "verseName": "Galasyen 1:5",
+      "parentId": "local-1782091896688",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782125168545,
+      "updatedAt": 1782125168545,
+      "status": "active"
+    },
     {
       "id": "local-1782124940946",
       "text": "Amèn 🙏🙏🙏🙏🙏🙏🙏🙏",
@@ -233,13 +289,13 @@
       "userName": "Mrs Darla",
       "verseName": "Galasyen 1:5",
       "parentId": null,
-      "replyCount": 1,
+      "replyCount": 2,
       "likeCount": 1,
       "likedBy": [
         "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
       ],
       "createdAt": 1782095485706,
-      "updatedAt": 1782124822003,
+      "updatedAt": 1782125168545,
       "status": "active"
     },
     {
@@ -249,13 +305,13 @@
       "userName": "fre jeanrony apredieu",
       "verseName": "Galasyen 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
       ],
       "createdAt": 1782092674391,
-      "updatedAt": 1782124936236,
+      "updatedAt": 1782125168545,
       "status": "active"
     },
     {
@@ -265,11 +321,11 @@
       "userName": "Laurie cha lacourageuse🙏🙏💋❤❤💯💯💥",
       "verseName": "Galasyen 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782092674391,
-      "updatedAt": 1782092674391,
+      "updatedAt": 1782125168545,
       "status": "active"
     },
     {
@@ -279,11 +335,13 @@
       "userName": "Mickenson",
       "verseName": "Galasyen 1:5",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
+      ],
       "createdAt": 1782091962531,
-      "updatedAt": 1782091962531,
+      "updatedAt": 1782125168545,
       "status": "active"
     },
     {
@@ -343,9 +401,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
+  "likeCount": 29,
   "shareCount": 41,
-  "viewCount": 4775,
+  "viewCount": 4799,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
@@ -374,7 +432,8 @@
     "eefde5494667b7b0cb5d92eae5b5aec05c0de482165b01c7b2d250a6a5584a77",
     "4d46e1bae47261916aee2abebacb9875b0a07e0fe87285e0f81b84d4499465d6",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
-    "f1451f057af78bee99443e75ae4e8afbc94f212ba1134c0d40c29980578f4e7c"
+    "f1451f057af78bee99443e75ae4e8afbc94f212ba1134c0d40c29980578f4e7c",
+    "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab"
   ],
   "verseViewBy": []
 }
