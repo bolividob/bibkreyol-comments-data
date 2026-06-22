@@ -1,9 +1,23 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782126215306,
+  "updatedAt": 1782126505517,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782090743000",
+      "text": "amén 🙏🙏",
+      "userDeviceId": "5f49ac92a59f835d32ba17bc361eae5edb3270a46fcd31dba6eaa71388b7514b",
+      "userName": "mw di bondye merci pou sal pral fé pou mw an",
+      "verseName": "Galasyen 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782126505517,
+      "updatedAt": 1782126505517,
+      "status": "active"
+    },
     {
       "id": "local-1782125191533",
       "text": "Amen 🙏🙏🙏🙏🙏🙏🙏🙏",
@@ -430,8 +444,8 @@
     }
   ],
   "likeCount": 33,
-  "shareCount": 51,
-  "viewCount": 5098,
+  "shareCount": 52,
+  "viewCount": 5178,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
