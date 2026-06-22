@@ -1,9 +1,23 @@
 {
   "date": "2026-06-22",
   "verseKey": "daily:2026-06-22",
-  "updatedAt": 1782124822003,
+  "updatedAt": 1782124936237,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782124835294",
+      "text": "Amèn 🙏🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d",
+      "userName": "RISSARDY FRITZ BIENVENU",
+      "verseName": "Galasyen 1:5",
+      "parentId": "local-1782122552965",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782124936236,
+      "updatedAt": 1782124936236,
+      "status": "active"
+    },
     {
       "id": "local-1782124730646",
       "text": "Amèn 🙏🙏🙏🙏🙏🙏🙏🙏",
@@ -53,13 +67,13 @@
       "userName": "Francesca",
       "verseName": "Galasyen 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
       ],
       "createdAt": 1782122651541,
-      "updatedAt": 1782124822003,
+      "updatedAt": 1782124936236,
       "status": "active"
     },
     {
@@ -123,7 +137,7 @@
         "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
       ],
       "createdAt": 1782099157478,
-      "updatedAt": 1782124822003,
+      "updatedAt": 1782124936236,
       "status": "active"
     },
     {
@@ -171,7 +185,7 @@
         "afb2317cf5335e117644f2f4f750aa096a00e16a15f97bb478b666477644c00d"
       ],
       "createdAt": 1782092674391,
-      "updatedAt": 1782124822003,
+      "updatedAt": 1782124936236,
       "status": "active"
     },
     {
@@ -260,8 +274,8 @@
     }
   ],
   "likeCount": 28,
-  "shareCount": 40,
-  "viewCount": 4711,
+  "shareCount": 41,
+  "viewCount": 4749,
   "verseLikedBy": [
     "2b1dc030cf76356168549d49a1f6986a5945bb3426ba70c390cc524929fdbce4",
     "62ae2f4e4c695092baf8e74dc40e518d9f925e9d92ab00566f77413b84d4a5c7",
