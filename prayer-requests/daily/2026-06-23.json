@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": 1782182228286,
+  "updatedAt": 1782182593862,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "bib kreol",
+          "prayedAt": 1782182573723
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782182228286,
+      "updatedAt": 1782182593862,
       "answeredAt": null,
       "testimony": null
     },
