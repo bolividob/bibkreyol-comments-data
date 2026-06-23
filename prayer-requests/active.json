@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782222192348,
+  "updatedAt": 1782222310221,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -39,9 +39,17 @@
           "prayedAt": 1782182573723
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560-1782222278971-encouragement",
+          "userDeviceId": "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560",
+          "userName": "Mónica pitit bondye a",
+          "text": "doulè mwen yo anpil ak lapriye map delivre edem priye ak lafwa",
+          "createdAt": 1782222278971
+        }
+      ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782222191395,
+      "updatedAt": 1782222308235,
       "answeredAt": null,
       "testimony": null
     },
