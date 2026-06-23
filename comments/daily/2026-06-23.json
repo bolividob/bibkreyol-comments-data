@@ -1,9 +1,23 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782231790384,
+  "updatedAt": 1782232164306,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782232045496",
+      "text": "se si bon de louwe son non, de chante ses louamj e gwa a ton sin non.",
+      "userDeviceId": "84099d9e17ff95333413caaaf9cd470d1b399bf327f6d77cdd162917694731ea",
+      "userName": "Louye",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782232164306,
+      "updatedAt": 1782232164306,
+      "status": "active"
+    },
     {
       "id": "local-1782230736653",
       "text": "sr Darline",
@@ -12,10 +26,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "84099d9e17ff95333413caaaf9cd470d1b399bf327f6d77cdd162917694731ea"
+      ],
       "createdAt": 1782230964917,
-      "updatedAt": 1782230964917,
+      "updatedAt": 1782232164306,
       "status": "active"
     },
     {
@@ -358,9 +374,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 75,
+  "likeCount": 76,
   "shareCount": 189,
-  "viewCount": 12410,
+  "viewCount": 12530,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
@@ -436,7 +452,8 @@
     "3116aca5a3e0e88fc5870998faf2727f2e454147b6575243d7de35ba85a309a8",
     "fd04d136ee32e7e1b2765d7449c7a17a2d010705c452fd25ce4d9e836ce4b752",
     "5d13774608a9c3121b534e42319f465c78eed7dc5a92b7de51a7260f8835063a",
-    "c20493b5afcfeb2decaad4cd3ba8c10ba4d5e1fe5b6e3276bfe1734f4c9b6f90"
+    "c20493b5afcfeb2decaad4cd3ba8c10ba4d5e1fe5b6e3276bfe1734f4c9b6f90",
+    "84099d9e17ff95333413caaaf9cd470d1b399bf327f6d77cdd162917694731ea"
   ],
   "verseViewBy": []
 }
