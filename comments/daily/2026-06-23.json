@@ -1,9 +1,23 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782194652944,
+  "updatedAt": 1782194770857,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782194735533",
+      "text": "Amén y amén 🙏🏾🙏🏾🙏🏾🙏🏾",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782194770857,
+      "updatedAt": 1782194770857,
+      "status": "active"
+    },
     {
       "id": "local-1782189110275",
       "text": "🙏amen",
@@ -107,7 +121,7 @@
   ],
   "likeCount": 23,
   "shareCount": 42,
-  "viewCount": 4690,
+  "viewCount": 4702,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
