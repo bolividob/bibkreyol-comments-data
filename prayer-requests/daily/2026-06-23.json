@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": 1782227479134,
+  "updatedAt": 1782227593680,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -16,15 +16,20 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 5,
+      "prayerCount": 6,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
         "d42d70a59efc2df6e65daa6cc663a1ca686d466a622402067c04758ba77d6eb4",
         "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560",
-        "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a"
+        "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a",
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bib Kreyol",
+          "prayedAt": 1782227543217
+        },
         {
           "userName": "fgjjf",
           "prayedAt": 1782225915543
@@ -63,7 +68,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782226026775,
+      "updatedAt": 1782227593680,
       "answeredAt": null,
       "testimony": null
     },
@@ -78,7 +83,7 @@
       "customExpectedSeason": null,
       "request": "edem priye pou bondye fè falensky jwenn yon travail .epi poul metem yon kote mka adorel pi byen",
       "status": "praying",
-      "prayerCount": 9,
+      "prayerCount": 10,
       "prayedBy": [
         "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
         "55d467b2fb401a839510d55b70c668e6a91a3e217cc68a0c7adf7241d45ed604",
@@ -88,9 +93,14 @@
         "0d0f14ceb689ffbb0f9bdb2d9b8cc9a53a5dcf6988321906c7d9b2c37e36aa70",
         "8020c931e533ce3a0b9e47d22064ff4af6e200f23dcba3825220ba24989dec18",
         "a56118d263f4533cde9e4bef7589f850e5d94025820f316b5f7f78440c05d6a4",
-        "67237f7d7a4ccad568c27b4b134445aa7591a94e35260be7da3776db7748a350"
+        "67237f7d7a4ccad568c27b4b134445aa7591a94e35260be7da3776db7748a350",
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bib Kreyol",
+          "prayedAt": 1782227548611
+        },
         {
           "userName": "loud",
           "prayedAt": 1782187257971
@@ -145,7 +155,7 @@
         }
       ],
       "submittedAt": 1782129068724,
-      "updatedAt": 1782187273190,
+      "updatedAt": 1782227593680,
       "answeredAt": null,
       "testimony": null
     },
@@ -204,7 +214,7 @@
         }
       ],
       "submittedAt": 1782127383119,
-      "updatedAt": 1782227479134,
+      "updatedAt": 1782227593680,
       "answeredAt": null,
       "testimony": null
     },
@@ -499,7 +509,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1781995018353,
-      "updatedAt": 1782038943371,
+      "updatedAt": 1782227593680,
       "answeredAt": null,
       "testimony": null
     },
