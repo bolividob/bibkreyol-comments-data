@@ -1,9 +1,23 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782204378578,
+  "updatedAt": 1782204490440,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782175040502",
+      "text": "Amen 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782204490440,
+      "updatedAt": 1782204490440,
+      "status": "active"
+    },
     {
       "id": "local-1782183940364",
       "text": "Nou Dako ak pawol la.",
@@ -134,8 +148,8 @@
     }
   ],
   "likeCount": 28,
-  "shareCount": 62,
-  "viewCount": 5401,
+  "shareCount": 63,
+  "viewCount": 5411,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
