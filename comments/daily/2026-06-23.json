@@ -1,9 +1,23 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782248731038,
+  "updatedAt": 1782248831393,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782248793319",
+      "text": "Amen Amen 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782248831393,
+      "updatedAt": 1782248831393,
+      "status": "active"
+    },
     {
       "id": "local-1782247039619",
       "text": "amén amén amén",
@@ -419,7 +433,7 @@
   ],
   "likeCount": 100,
   "shareCount": 227,
-  "viewCount": 15684,
+  "viewCount": 15705,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
