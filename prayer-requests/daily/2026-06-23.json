@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": 1782222308235,
+  "updatedAt": 1782226026776,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -16,14 +16,19 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 4,
+      "prayerCount": 5,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
         "d42d70a59efc2df6e65daa6cc663a1ca686d466a622402067c04758ba77d6eb4",
-        "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560"
+        "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560",
+        "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a"
       ],
       "prayingPreview": [
+        {
+          "userName": "fgjjf",
+          "prayedAt": 1782225915543
+        },
         {
           "userName": "Mónica pitit bondye a",
           "prayedAt": 1782222177300
@@ -43,6 +48,13 @@
       ],
       "encouragements": [
         {
+          "id": "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a-1782225915543-encouragement",
+          "userDeviceId": "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a",
+          "userName": "fgjjf",
+          "text": "ghhf",
+          "createdAt": 1782225915543
+        },
+        {
           "id": "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560-1782222278971-encouragement",
           "userDeviceId": "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560",
           "userName": "Mónica pitit bondye a",
@@ -51,7 +63,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782222308235,
+      "updatedAt": 1782226026775,
       "answeredAt": null,
       "testimony": null
     },
