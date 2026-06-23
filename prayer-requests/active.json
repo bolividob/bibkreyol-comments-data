@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782227348135,
+  "updatedAt": 1782227483198,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -180,6 +180,13 @@
       ],
       "encouragements": [
         {
+          "id": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d-1782227420598-encouragement",
+          "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+          "userName": "Bib Kreyol",
+          "text": "Bondye deja nan sal operasyon an, fe kew kontan!",
+          "createdAt": 1782227420598
+        },
+        {
           "id": "95d01a895c3332169bafcd0a4bd591c91b2a9778739296372e26abd35bc09e21-1782136463149-encouragement",
           "userDeviceId": "95d01a895c3332169bafcd0a4bd591c91b2a9778739296372e26abd35bc09e21",
           "userName": "fleuradin wilna",
@@ -195,7 +202,7 @@
         }
       ],
       "submittedAt": 1782127383119,
-      "updatedAt": 1782227347249,
+      "updatedAt": 1782227479134,
       "answeredAt": null,
       "testimony": null
     },
