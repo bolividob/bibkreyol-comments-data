@@ -1,9 +1,23 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782230653348,
+  "updatedAt": 1782230964917,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782230736653",
+      "text": "sr Darline",
+      "userDeviceId": "09dd7a3f009b4cd3b225428bda5c6bdcd83d4a49fbe14bed001ad9e8a01fe977",
+      "userName": "Darline",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782230964917,
+      "updatedAt": 1782230964917,
+      "status": "active"
+    },
     {
       "id": "local-1782227870844",
       "text": "amen",
@@ -345,8 +359,8 @@
     }
   ],
   "likeCount": 75,
-  "shareCount": 186,
-  "viewCount": 12025,
+  "shareCount": 187,
+  "viewCount": 12139,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
