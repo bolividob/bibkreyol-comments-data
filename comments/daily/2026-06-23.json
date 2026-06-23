@@ -1,9 +1,23 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782226578843,
+  "updatedAt": 1782226692768,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782226575498",
+      "text": "don",
+      "userDeviceId": "baaa137b4218d00cee33a827cc5b423cd74861be05e4932ce73bfe339b905fa8",
+      "userName": "fré colas",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782226692768,
+      "updatedAt": 1782226692768,
+      "status": "active"
+    },
     {
       "id": "local-1782226518829",
       "text": "es que Yon sél moun kagenyen plizye bon",
@@ -318,7 +332,7 @@
   ],
   "likeCount": 70,
   "shareCount": 176,
-  "viewCount": 10942,
+  "viewCount": 10969,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
