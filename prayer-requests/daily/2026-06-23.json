@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": 1782253628739,
+  "updatedAt": 1782257832784,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 8,
+      "prayerCount": 9,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -25,9 +25,14 @@
         "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a",
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
         "48095ef9df556e11e94b6bdcf2cffb4cb4d36bea005cbf381ca22416140cb720",
-        "7bde37d916adc92dfdcb5bb364c6f81d811b0b8b9ca7a9ab4d2a453dcdac5cb6"
+        "7bde37d916adc92dfdcb5bb364c6f81d811b0b8b9ca7a9ab4d2a453dcdac5cb6",
+        "0449c9155778615c42fab10f424b84d142dac142c378047125b071e6f8e2c593"
       ],
       "prayingPreview": [
+        {
+          "userName": "edem priye poum tounè nanplas mwen merci",
+          "prayedAt": 1782257790199
+        },
         {
           "userName": "naval",
           "prayedAt": 1782253620093
@@ -92,7 +97,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782253628739,
+      "updatedAt": 1782257832784,
       "answeredAt": null,
       "testimony": null
     },
