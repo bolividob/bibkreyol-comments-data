@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782227706556,
+  "updatedAt": 1782253273129,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,16 +14,21 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 6,
+      "prayerCount": 7,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
         "d42d70a59efc2df6e65daa6cc663a1ca686d466a622402067c04758ba77d6eb4",
         "c28ebf2cfbb7216eeee25cfc009b6666ff9b7f6c0457b59a74b57c6fe143a560",
         "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a",
-        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+        "48095ef9df556e11e94b6bdcf2cffb4cb4d36bea005cbf381ca22416140cb720"
       ],
       "prayingPreview": [
+        {
+          "userName": "mona",
+          "prayedAt": 1782253196158
+        },
         {
           "userName": "Bib Kreyol",
           "prayedAt": 1782227543217
@@ -51,6 +56,13 @@
       ],
       "encouragements": [
         {
+          "id": "48095ef9df556e11e94b6bdcf2cffb4cb4d36bea005cbf381ca22416140cb720-1782253196158-encouragement",
+          "userDeviceId": "48095ef9df556e11e94b6bdcf2cffb4cb4d36bea005cbf381ca22416140cb720",
+          "userName": "mona",
+          "text": "mèsu",
+          "createdAt": 1782253196158
+        },
+        {
           "id": "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a-1782225915543-encouragement",
           "userDeviceId": "382af4c1950cab1f77f6530bebac97eca3ef87b5495995abdee3635b3539228a",
           "userName": "fgjjf",
@@ -66,7 +78,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782227593680,
+      "updatedAt": 1782253272380,
       "answeredAt": null,
       "testimony": null
     },
