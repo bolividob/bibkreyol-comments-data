@@ -1,9 +1,25 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782255014740,
+  "updatedAt": 1782255206836,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782255043778",
+      "text": "Amén amén",
+      "userDeviceId": "e39316520aae3bd3fe4c94d56ebbee5edbe574733bd0ca0aab93ba45bcbe2ded",
+      "userName": "Samuel",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "e39316520aae3bd3fe4c94d56ebbee5edbe574733bd0ca0aab93ba45bcbe2ded"
+      ],
+      "createdAt": 1782255206836,
+      "updatedAt": 1782255206836,
+      "status": "active"
+    },
     {
       "id": "local-1782252083909",
       "text": "Amén",
@@ -15,7 +31,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782252199140,
-      "updatedAt": 1782252199140,
+      "updatedAt": 1782255206836,
       "status": "active"
     },
     {
@@ -441,13 +457,13 @@
         "bca2edea395f6a6cf66c3e909380d98989ab5a3010a3ec9cf0c4a98309c9e47c"
       ],
       "createdAt": 1782179180018,
-      "updatedAt": 1782186205148,
+      "updatedAt": 1782255206836,
       "status": "active"
     }
   ],
   "likeCount": 115,
   "shareCount": 244,
-  "viewCount": 17593,
+  "viewCount": 17669,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
