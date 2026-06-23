@@ -1,9 +1,23 @@
 {
   "date": "2026-06-23",
   "verseKey": "daily:2026-06-23",
-  "updatedAt": 1782227836901,
+  "updatedAt": 1782227965872,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782227870844",
+      "text": "amen",
+      "userDeviceId": "3116aca5a3e0e88fc5870998faf2727f2e454147b6575243d7de35ba85a309a8",
+      "userName": "madeleine Milhomme",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782227965872,
+      "updatedAt": 1782227965872,
+      "status": "active"
+    },
     {
       "id": "local-1782226575498",
       "text": "don",
@@ -330,9 +344,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
+  "likeCount": 72,
   "shareCount": 177,
-  "viewCount": 11213,
+  "viewCount": 11242,
   "verseLikedBy": [
     "2a807613a856fcd762bb324e88dfdc6f4248a25ed235a416536223dd9b9e67e5",
     "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
@@ -404,7 +418,8 @@
     "1b2b6a7ed2cfaef2e517c590c893524c925ba07d946f6adb107d25c80d77dc3d",
     "baaa137b4218d00cee33a827cc5b423cd74861be05e4932ce73bfe339b905fa8",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
-    "d434840e5894778875dc63e98e4950633573a84f77f70b6dfd336a8fcabb85ad"
+    "d434840e5894778875dc63e98e4950633573a84f77f70b6dfd336a8fcabb85ad",
+    "3116aca5a3e0e88fc5870998faf2727f2e454147b6575243d7de35ba85a309a8"
   ],
   "verseViewBy": []
 }
