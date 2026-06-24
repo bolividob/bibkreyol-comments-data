@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": 1782262269948,
+  "updatedAt": 1782265743316,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -120,7 +120,7 @@
       "customExpectedSeason": null,
       "request": "edem priye pou bondye fè falensky jwenn yon travail .epi poul metem yon kote mka adorel pi byen",
       "status": "praying",
-      "prayerCount": 10,
+      "prayerCount": 11,
       "prayedBy": [
         "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
         "55d467b2fb401a839510d55b70c668e6a91a3e217cc68a0c7adf7241d45ed604",
@@ -131,9 +131,14 @@
         "8020c931e533ce3a0b9e47d22064ff4af6e200f23dcba3825220ba24989dec18",
         "a56118d263f4533cde9e4bef7589f850e5d94025820f316b5f7f78440c05d6a4",
         "67237f7d7a4ccad568c27b4b134445aa7591a94e35260be7da3776db7748a350",
-        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+        "aa6148afd605d002e8c6144f943a277707242d01881d9d966802b6cd4112d664"
       ],
       "prayingPreview": [
+        {
+          "userName": "Neftalie Louis",
+          "prayedAt": 1782265539889
+        },
         {
           "userName": "Bib Kreyol",
           "prayedAt": 1782227548611
@@ -177,6 +182,13 @@
       ],
       "encouragements": [
         {
+          "id": "aa6148afd605d002e8c6144f943a277707242d01881d9d966802b6cd4112d664-1782265539889-encouragement",
+          "userDeviceId": "aa6148afd605d002e8c6144f943a277707242d01881d9d966802b6cd4112d664",
+          "userName": "Neftalie Louis",
+          "text": "bondye gran lap fèl pou li jus fèl konfyans",
+          "createdAt": 1782265539889
+        },
+        {
           "id": "67237f7d7a4ccad568c27b4b134445aa7591a94e35260be7da3776db7748a350-1782187257971-encouragement",
           "userDeviceId": "67237f7d7a4ccad568c27b4b134445aa7591a94e35260be7da3776db7748a350",
           "userName": "loud",
@@ -192,7 +204,7 @@
         }
       ],
       "submittedAt": 1782129068724,
-      "updatedAt": 1782227704331,
+      "updatedAt": 1782265743316,
       "answeredAt": null,
       "testimony": null
     },
