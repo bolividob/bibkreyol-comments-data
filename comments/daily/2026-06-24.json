@@ -1,9 +1,23 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782283689881,
+  "updatedAt": 1782283804482,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782283736103",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782283804482,
+      "updatedAt": 1782283804482,
+      "status": "active"
+    },
     {
       "id": "local-1782281984022",
       "text": "amen",
@@ -152,9 +166,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
-  "shareCount": 51,
-  "viewCount": 5547,
+  "likeCount": 28,
+  "shareCount": 52,
+  "viewCount": 5551,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
@@ -182,7 +196,8 @@
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "bdf4ec7975243284d9139d5c3ae8354ba186486460b0c9d5f0f85c88f361fe93",
     "08c6154fa9a61381b17454fddb69ef06271a5a3dd3d18bdda10203a4bc6e1059",
-    "e915339c2c9d01cd630865cda42ddbc3d9b610f9a000813eb4d35b6a0ca3ad0f"
+    "e915339c2c9d01cd630865cda42ddbc3d9b610f9a000813eb4d35b6a0ca3ad0f",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
