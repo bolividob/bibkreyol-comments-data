@@ -1,9 +1,37 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782269127646,
+  "updatedAt": 1782269307145,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782269113140",
+      "text": "idiomas",
+      "userDeviceId": "e4d4cf150d5b830d5e671071e8a10a097096edfd10cc703e28e994289446f569",
+      "userName": "kes",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782269307145,
+      "updatedAt": 1782269307145,
+      "status": "active"
+    },
+    {
+      "id": "local-1782269149608",
+      "text": "languages",
+      "userDeviceId": "e4d4cf150d5b830d5e671071e8a10a097096edfd10cc703e28e994289446f569",
+      "userName": "kes",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782269307145,
+      "updatedAt": 1782269307145,
+      "status": "active"
+    },
     {
       "id": "local-1782264152238",
       "text": "amen 5fois",
@@ -52,8 +80,8 @@
     }
   ],
   "likeCount": 11,
-  "shareCount": 28,
-  "viewCount": 3139,
+  "shareCount": 29,
+  "viewCount": 3258,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
