@@ -1,9 +1,23 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782272906772,
+  "updatedAt": 1782273070280,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782270748367",
+      "text": "Parole BonDieu Vivian",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782273070280,
+      "updatedAt": 1782273070280,
+      "status": "active"
+    },
     {
       "id": "local-1782272716313",
       "text": "Amén",
@@ -98,7 +112,7 @@
   ],
   "likeCount": 17,
   "shareCount": 38,
-  "viewCount": 4072,
+  "viewCount": 4133,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
