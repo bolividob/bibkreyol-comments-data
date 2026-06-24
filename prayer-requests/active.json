@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782299464456,
+  "updatedAt": 1782299584047,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -102,6 +102,13 @@
       ],
       "encouragements": [
         {
+          "id": "346189cbc131cb7699b493b06a0067f54326817fecbb9f065969a14ca6dea8b6-1782299479031-encouragement",
+          "userDeviceId": "346189cbc131cb7699b493b06a0067f54326817fecbb9f065969a14ca6dea8b6",
+          "userName": "josephandresonne",
+          "text": "nou dwe ankouraje travay sa pou li k avanse",
+          "createdAt": 1782299479031
+        },
+        {
           "id": "37b2f082bb3f0cddb80cfd9fa8627cb0b1ec613db7e868756a6b26c283f1fe9e-1782288001349-encouragement",
           "userDeviceId": "37b2f082bb3f0cddb80cfd9fa8627cb0b1ec613db7e868756a6b26c283f1fe9e",
           "userName": "Linda adras",
@@ -173,7 +180,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782299463455,
+      "updatedAt": 1782299583241,
       "answeredAt": null,
       "testimony": null
     },
