@@ -1,9 +1,23 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782304266149,
+  "updatedAt": 1782304388458,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782304273047",
+      "text": "amén Mesi anpil séye mi gras ou",
+      "userDeviceId": "2448d53ff1fecb5e30dd23ea5d9b07374b28de38af91e3a79a02a72a58dd3073",
+      "userName": "mesi séye ✋",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782304388458,
+      "updatedAt": 1782304388458,
+      "status": "active"
+    },
     {
       "id": "local-1782297839998",
       "text": "AMEN ET GLOIRE",
@@ -238,7 +252,7 @@
   ],
   "likeCount": 53,
   "shareCount": 134,
-  "viewCount": 9272,
+  "viewCount": 9310,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
