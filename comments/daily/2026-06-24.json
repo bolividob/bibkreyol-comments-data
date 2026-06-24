@@ -1,9 +1,23 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782273560982,
+  "updatedAt": 1782273732759,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782273634590",
+      "text": "Amén Amén",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782273732759,
+      "updatedAt": 1782273732759,
+      "status": "active"
+    },
     {
       "id": "local-1782270748367",
       "text": "Parole BonDieu Vivian",
@@ -110,9 +124,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 17,
-  "shareCount": 39,
-  "viewCount": 4335,
+  "likeCount": 18,
+  "shareCount": 41,
+  "viewCount": 4408,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
@@ -130,7 +144,8 @@
     "ace27586365d4de25d9ffe99289ac956bb962eab586d3c4c40630add5471029a",
     "b443321ed5d2ce8527b4351f96358840784b8c16bbfbd8576089694a652f4da4",
     "ebc5aaf882c545d853a35d6ccae2faab8cc5f669f82eecb0e032b3850d53e57e",
-    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25"
+    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe"
   ],
   "verseViewBy": []
 }
