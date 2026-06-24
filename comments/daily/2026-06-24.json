@@ -1,9 +1,23 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782296846002,
+  "updatedAt": 1782297195865,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782294707136",
+      "text": "Merci seigneur pour grâce au",
+      "userDeviceId": "473d7b484f312584adac1e67df5d06eaac8e6d8fa118cb19b04441d5c1c14daa",
+      "userName": "carina",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782297195865,
+      "updatedAt": 1782297195865,
+      "status": "active"
+    },
     {
       "id": "local-1782295058140",
       "text": "amèn",
@@ -195,8 +209,8 @@
     }
   ],
   "likeCount": 42,
-  "shareCount": 91,
-  "viewCount": 7297,
+  "shareCount": 93,
+  "viewCount": 7398,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
