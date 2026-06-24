@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": 1782299583242,
+  "updatedAt": 1782302231800,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -104,6 +104,13 @@
       ],
       "encouragements": [
         {
+          "id": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951-1782302145481-encouragement",
+          "userDeviceId": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951",
+          "userName": "Rose",
+          "text": "mèsi pou travay lan nap fè a kenbe la pa  lage psk rekonpans la",
+          "createdAt": 1782302145481
+        },
+        {
           "id": "346189cbc131cb7699b493b06a0067f54326817fecbb9f065969a14ca6dea8b6-1782299479031-encouragement",
           "userDeviceId": "346189cbc131cb7699b493b06a0067f54326817fecbb9f065969a14ca6dea8b6",
           "userName": "josephandresonne",
@@ -182,7 +189,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782299583241,
+      "updatedAt": 1782302231800,
       "answeredAt": null,
       "testimony": null
     },
