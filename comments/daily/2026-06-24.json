@@ -1,9 +1,37 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782321375085,
+  "updatedAt": 1782321497675,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782321438429",
+      "text": "amèn",
+      "userDeviceId": "f66baac87e02b13230109fd90fc2cfd30b7dbbeba7719ea75cee622ea3cfb94e",
+      "userName": "Nadoo",
+      "verseName": "Revelasyon 5:2",
+      "parentId": "local-1782318695107",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782321497675,
+      "updatedAt": 1782321497675,
+      "status": "active"
+    },
+    {
+      "id": "local-1782321458465",
+      "text": "mèsi Senyè pou gras ou",
+      "userDeviceId": "f66baac87e02b13230109fd90fc2cfd30b7dbbeba7719ea75cee622ea3cfb94e",
+      "userName": "Nadoo",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782321497675,
+      "updatedAt": 1782321497675,
+      "status": "active"
+    },
     {
       "id": "local-1782318695107",
       "text": "Amén pèsón paka louvri liv sa, sèl sila kite imole ya Ali menm sèl laglwa",
@@ -11,11 +39,11 @@
       "userName": "amen Rosie",
       "verseName": "Revelasyon 5:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782318887461,
-      "updatedAt": 1782318887461,
+      "updatedAt": 1782321497675,
       "status": "active"
     },
     {
@@ -281,8 +309,8 @@
     }
   ],
   "likeCount": 91,
-  "shareCount": 164,
-  "viewCount": 13567,
+  "shareCount": 165,
+  "viewCount": 13590,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
