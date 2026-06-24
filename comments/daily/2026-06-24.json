@@ -1,9 +1,37 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782297847673,
+  "updatedAt": 1782297967117,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782297839998",
+      "text": "AMEN ET GLOIRE",
+      "userDeviceId": "ebdd6e80ca867d1ec8ef0fedcf9c45b5f11fd4bb42a24b92e21ff6123d832776",
+      "userName": "CLAUDANISE ESTIMÉ L'EDVAENNE",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782297967117,
+      "updatedAt": 1782297967117,
+      "status": "active"
+    },
+    {
+      "id": "local-1782297517212",
+      "text": "BnDye Beniw",
+      "userDeviceId": "f0c0f31147ee6f5e62a9306091bff3497d2269d263940fb05c61c0f4ce778e64",
+      "userName": "Aïnand Brunia",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782297967117,
+      "updatedAt": 1782297967117,
+      "status": "active"
+    },
     {
       "id": "local-1782294707136",
       "text": "Merci seigneur pour grâce au",
@@ -209,8 +237,8 @@
     }
   ],
   "likeCount": 45,
-  "shareCount": 96,
-  "viewCount": 7606,
+  "shareCount": 97,
+  "viewCount": 7645,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
