@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": 1782302231800,
+  "updatedAt": 1782304268910,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 17,
+      "prayerCount": 18,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -34,9 +34,14 @@
         "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951",
         "531e35090478d5e0b01e402d9f0ce036376e6fc6ecffdfbbb0a7dfdaffa15dcd",
         "37b2f082bb3f0cddb80cfd9fa8627cb0b1ec613db7e868756a6b26c283f1fe9e",
-        "346189cbc131cb7699b493b06a0067f54326817fecbb9f065969a14ca6dea8b6"
+        "346189cbc131cb7699b493b06a0067f54326817fecbb9f065969a14ca6dea8b6",
+        "51a28df80578f42164eae4f18a6603a63f896edcaa84c5a44feaa65e30dfe63f"
       ],
       "prayingPreview": [
+        {
+          "userName": "Carole Jean",
+          "prayedAt": 1782304089565
+        },
         {
           "userName": "josephandresonne",
           "prayedAt": 1782299372100
@@ -103,6 +108,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "51a28df80578f42164eae4f18a6603a63f896edcaa84c5a44feaa65e30dfe63f-1782304089565-encouragement",
+          "userDeviceId": "51a28df80578f42164eae4f18a6603a63f896edcaa84c5a44feaa65e30dfe63f",
+          "userName": "Carole Jean",
+          "text": "bondye konnen tout sa kap te pase, SA kap pase e SA sak gen Poul pase.",
+          "createdAt": 1782304089565
+        },
         {
           "id": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951-1782302145481-encouragement",
           "userDeviceId": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951",
@@ -189,7 +201,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782302231800,
+      "updatedAt": 1782304268910,
       "answeredAt": null,
       "testimony": null
     },
