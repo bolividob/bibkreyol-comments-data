@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": 1782272109068,
+  "updatedAt": 1782272952462,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 12,
+      "prayerCount": 14,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -29,9 +29,19 @@
         "0449c9155778615c42fab10f424b84d142dac142c378047125b071e6f8e2c593",
         "1be7a0da9f31eaf7a027884e956e06acee8f10f6c84ddb3fcd6144ccb2d4f60c",
         "92650ea50c24ffedd7239bb2be79e135facbf78e68cf6e02127b6a1043a2e441",
-        "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481"
+        "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
+        "cf85beb78afce26dceafd7dde3157d0e93cc10f073dc3438baa92ec09e8d9f4a",
+        "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951"
       ],
       "prayingPreview": [
+        {
+          "userName": "Rose",
+          "prayedAt": 1782272861072
+        },
+        {
+          "userName": "karolin priye pou mwen pou ka jwenn papi",
+          "prayedAt": 1782272842560
+        },
         {
           "userName": "lisiana piter",
           "prayedAt": 1782272026963
@@ -79,6 +89,20 @@
       ],
       "encouragements": [
         {
+          "id": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951-1782272861072-encouragement",
+          "userDeviceId": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951",
+          "userName": "Rose",
+          "text": "Bondye bini n svp ede m priye pou Bondye ban m yon doub pansyon",
+          "createdAt": 1782272861072
+        },
+        {
+          "id": "cf85beb78afce26dceafd7dde3157d0e93cc10f073dc3438baa92ec09e8d9f4a-1782272842560-encouragement",
+          "userDeviceId": "cf85beb78afce26dceafd7dde3157d0e93cc10f073dc3438baa92ec09e8d9f4a",
+          "userName": "karolin priye pou mwen pou ka jwenn papi",
+          "text": "ede m priye pou m jwenn lapè nan lavi m Mwen santi m ap soufri Mwen ta renmen gen yon timoun Ede m priye pou dokiman m yo ka byen fini si se volonte Bondye. amèn",
+          "createdAt": 1782272842560
+        },
+        {
           "id": "92650ea50c24ffedd7239bb2be79e135facbf78e68cf6e02127b6a1043a2e441-1782269722071-encouragement",
           "userDeviceId": "92650ea50c24ffedd7239bb2be79e135facbf78e68cf6e02127b6a1043a2e441",
           "userName": "chrismene",
@@ -122,7 +146,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782272109068,
+      "updatedAt": 1782272952462,
       "answeredAt": null,
       "testimony": null
     },
