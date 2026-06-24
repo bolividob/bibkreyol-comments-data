@@ -1,9 +1,23 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782272719498,
+  "updatedAt": 1782272906772,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782272716313",
+      "text": "Amén",
+      "userDeviceId": "0c996816a89a6cfa82f6a0ab9567835b20ea31b7c1004cb82ba3fadf354b4c6d",
+      "userName": "frère aull",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782272906772,
+      "updatedAt": 1782272906772,
+      "status": "active"
+    },
     {
       "id": "local-1782269113140",
       "text": "idiomas",
@@ -82,9 +96,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
-  "shareCount": 37,
-  "viewCount": 3993,
+  "likeCount": 17,
+  "shareCount": 38,
+  "viewCount": 4072,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
@@ -101,7 +115,8 @@
     "350e458afb0e2eefa8c9dbb34da58aefdb4bf8c323bcb1e08095da2fb891582f",
     "ace27586365d4de25d9ffe99289ac956bb962eab586d3c4c40630add5471029a",
     "b443321ed5d2ce8527b4351f96358840784b8c16bbfbd8576089694a652f4da4",
-    "ebc5aaf882c545d853a35d6ccae2faab8cc5f669f82eecb0e032b3850d53e57e"
+    "ebc5aaf882c545d853a35d6ccae2faab8cc5f669f82eecb0e032b3850d53e57e",
+    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25"
   ],
   "verseViewBy": []
 }
