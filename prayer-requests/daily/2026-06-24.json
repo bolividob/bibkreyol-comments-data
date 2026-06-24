@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": 1782272952462,
+  "updatedAt": 1782274513291,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 34,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 14,
+      "prayerCount": 15,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -31,9 +31,14 @@
         "92650ea50c24ffedd7239bb2be79e135facbf78e68cf6e02127b6a1043a2e441",
         "76339056a4268b5a472bd21659c3aaed9625427c1e0f5d7612a5fe28ca153481",
         "cf85beb78afce26dceafd7dde3157d0e93cc10f073dc3438baa92ec09e8d9f4a",
-        "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951"
+        "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951",
+        "531e35090478d5e0b01e402d9f0ce036376e6fc6ecffdfbbb0a7dfdaffa15dcd"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bichon",
+          "prayedAt": 1782274420423
+        },
         {
           "userName": "Rose",
           "prayedAt": 1782272861072
@@ -88,6 +93,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "531e35090478d5e0b01e402d9f0ce036376e6fc6ecffdfbbb0a7dfdaffa15dcd-1782274420423-encouragement",
+          "userDeviceId": "531e35090478d5e0b01e402d9f0ce036376e6fc6ecffdfbbb0a7dfdaffa15dcd",
+          "userName": "Bichon",
+          "text": "mwen renmen travay nap fè pou bondye an",
+          "createdAt": 1782274420423
+        },
         {
           "id": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951-1782272861072-encouragement",
           "userDeviceId": "2226145e9dc067c321c65ec86419e9075eb24c6340eb8594c8588bfa7aeb6951",
@@ -146,7 +158,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782272952462,
+      "updatedAt": 1782274513291,
       "answeredAt": null,
       "testimony": null
     },
