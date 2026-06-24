@@ -1,9 +1,23 @@
 {
   "date": "2026-06-24",
   "verseKey": "daily:2026-06-24",
-  "updatedAt": 1782328210972,
+  "updatedAt": 1782328338937,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782328294991",
+      "text": "Mwen renmen Bndye",
+      "userDeviceId": "0ace188f0d8ce66f3ab232ce4c6818b9437d15e56ab300b2dbf8de39e5b62293",
+      "userName": "francklin",
+      "verseName": "Revelasyon 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782328338937,
+      "updatedAt": 1782328338937,
+      "status": "active"
+    },
     {
       "id": "local-1782321438429",
       "text": "amèn",
@@ -310,7 +324,7 @@
   ],
   "likeCount": 100,
   "shareCount": 181,
-  "viewCount": 14705,
+  "viewCount": 14727,
   "verseLikedBy": [
     "bcea6fbf618bfcc617ca037611ba713c9079c91ab525748050d0af7a10777a76",
     "9fdf2dafa0e2e5d173fd47c9d1226051036b279c29fa4636d2b1babb462a70dc",
