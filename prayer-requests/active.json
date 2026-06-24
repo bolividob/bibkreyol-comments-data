@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782265745242,
+  "updatedAt": 1782269834283,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 10,
+      "prayerCount": 11,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -25,9 +25,14 @@
         "48095ef9df556e11e94b6bdcf2cffb4cb4d36bea005cbf381ca22416140cb720",
         "7bde37d916adc92dfdcb5bb364c6f81d811b0b8b9ca7a9ab4d2a453dcdac5cb6",
         "0449c9155778615c42fab10f424b84d142dac142c378047125b071e6f8e2c593",
-        "1be7a0da9f31eaf7a027884e956e06acee8f10f6c84ddb3fcd6144ccb2d4f60c"
+        "1be7a0da9f31eaf7a027884e956e06acee8f10f6c84ddb3fcd6144ccb2d4f60c",
+        "92650ea50c24ffedd7239bb2be79e135facbf78e68cf6e02127b6a1043a2e441"
       ],
       "prayingPreview": [
+        {
+          "userName": "chrismene",
+          "prayedAt": 1782269722071
+        },
         {
           "userName": "bib kreyol",
           "prayedAt": 1782262238636
@@ -67,6 +72,13 @@
       ],
       "encouragements": [
         {
+          "id": "92650ea50c24ffedd7239bb2be79e135facbf78e68cf6e02127b6a1043a2e441-1782269722071-encouragement",
+          "userDeviceId": "92650ea50c24ffedd7239bb2be79e135facbf78e68cf6e02127b6a1043a2e441",
+          "userName": "chrismene",
+          "text": "edem priye MWe Santim clé febli",
+          "createdAt": 1782269722071
+        },
+        {
           "id": "0449c9155778615c42fab10f424b84d142dac142c378047125b071e6f8e2c593-1782258014233-encouragement",
           "userDeviceId": "0449c9155778615c42fab10f424b84d142dac142c378047125b071e6f8e2c593",
           "userName": "edem priye poum tounè nanplas mwen merci",
@@ -103,7 +115,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782262269948,
+      "updatedAt": 1782269833525,
       "answeredAt": null,
       "testimony": null
     },
