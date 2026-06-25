@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782428830945,
+  "updatedAt": 1782428959169,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782403436814",
+      "text": "Bondye beni Nou",
+      "userDeviceId": "71084f6d2cb8ff2f32fd1c09c83e8f75b1b980fe3a92fd58cd241fe1ded773fd",
+      "userName": "ALABRÉ",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782428959169,
+      "updatedAt": 1782428959169,
+      "status": "active"
+    },
     {
       "id": "local-1782424979215",
       "text": "bon.dieu. bon",
@@ -437,7 +451,7 @@
   ],
   "likeCount": 151,
   "shareCount": 247,
-  "viewCount": 18725,
+  "viewCount": 18762,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
