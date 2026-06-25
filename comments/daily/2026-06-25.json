@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782379688622,
+  "updatedAt": 1782379820860,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782379804925",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782379820860,
+      "updatedAt": 1782379820860,
+      "status": "active"
+    },
     {
       "id": "local-1782372140544",
       "text": "mesi jezu",
@@ -221,9 +235,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
+  "likeCount": 64,
   "shareCount": 75,
-  "viewCount": 7485,
+  "viewCount": 7507,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -286,7 +300,9 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "8abebe7afedd45a762012a305cb4bc5b124d669555839dd2a4d7c99c58faae25",
     "8f91968c10f8a905ab5c1845b4caad957726eda6b8479bb56ff7cd8187f16c9a",
-    "7f0b0a69869c2e141c88b75b9d0ab7cf2893a4475a1fafc02776e20d8b783d45"
+    "7f0b0a69869c2e141c88b75b9d0ab7cf2893a4475a1fafc02776e20d8b783d45",
+    "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
   ],
   "verseViewBy": []
 }
