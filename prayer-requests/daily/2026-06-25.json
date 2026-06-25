@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "updatedAt": 1782428950112,
+  "updatedAt": 1782429304012,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 35,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "demand lapriye svpl",
       "status": "praying",
-      "prayerCount": 14,
+      "prayerCount": 15,
       "prayedBy": [
         "a0bbcd878ab9d390ce4c4995298b8292e40699da89d0dd17a8f9e5d6dc2ab0df",
         "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69",
@@ -31,9 +31,14 @@
         "bc305d4cb2013ca6f1e4977467183b8569ffcd65c76cafebef29ce7f3c8b4b37",
         "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
         "f145245c989da5e57f9f40a65bdd46519a190c30425ada089b3a001bec71f412",
-        "20ecb229c4a78d38dfe92634a2a601e1e4a684fa2f785a9ecc04b5e227266f55"
+        "20ecb229c4a78d38dfe92634a2a601e1e4a684fa2f785a9ecc04b5e227266f55",
+        "8a7512e3bd029498f6e79af09cb1079cfcafe35786f95b4cf8d9a47166ed014e"
       ],
       "prayingPreview": [
+        {
+          "userName": "Sr Adorelle Joazil 40497984",
+          "prayedAt": 1782429275311
+        },
         {
           "userName": "jezi wa déwa 😭",
           "prayedAt": 1782428868511
@@ -93,6 +98,13 @@
       ],
       "encouragements": [
         {
+          "id": "8a7512e3bd029498f6e79af09cb1079cfcafe35786f95b4cf8d9a47166ed014e-1782429275311-encouragement",
+          "userDeviceId": "8a7512e3bd029498f6e79af09cb1079cfcafe35786f95b4cf8d9a47166ed014e",
+          "userName": "Sr Adorelle Joazil 40497984",
+          "text": "bd beni nou\nmwen bezwen gen plis kwentif pou Bondye,mwen vle pote plis vista sou lemond ak la chè\nmwen roujou mache tet leve devan Edwin mwen yo",
+          "createdAt": 1782429275311
+        },
+        {
           "id": "20ecb229c4a78d38dfe92634a2a601e1e4a684fa2f785a9ecc04b5e227266f55-1782428868511-encouragement",
           "userDeviceId": "20ecb229c4a78d38dfe92634a2a601e1e4a684fa2f785a9ecc04b5e227266f55",
           "userName": "jezi wa déwa 😭",
@@ -136,7 +148,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782428950112,
+      "updatedAt": 1782429304012,
       "answeredAt": null,
       "testimony": null
     },
