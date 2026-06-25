@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782345802460,
+  "updatedAt": 1782345975554,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782346109657",
+      "text": "Ke Bondye beni",
+      "userDeviceId": "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
+      "userName": "𝕁𝕖𝕗𝕗𝕖𝕣𝕤𝕠𝕟",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782345975554,
+      "updatedAt": 1782345975554,
+      "status": "active"
+    },
     {
       "id": "local-1782298063846",
       "text": "bondye beniw",
@@ -19,9 +33,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 0,
+  "likeCount": 1,
   "shareCount": 0,
-  "viewCount": 121,
-  "verseLikedBy": [],
+  "viewCount": 204,
+  "verseLikedBy": [
+    "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05"
+  ],
   "verseViewBy": []
 }
