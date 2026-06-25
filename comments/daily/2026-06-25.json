@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782404295819,
+  "updatedAt": 1782404474126,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782404287423",
+      "text": "amen",
+      "userDeviceId": "51b7d5463718b02cc1f4dc004aee28ad287c7ea61deb56ca8472c5aa0d49d350",
+      "userName": "Samentha",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782404474126,
+      "updatedAt": 1782404474126,
+      "status": "active"
+    },
     {
       "id": "local-1782402436467",
       "text": "koman goup saa fok sione",
@@ -390,8 +404,8 @@
     }
   ],
   "likeCount": 112,
-  "shareCount": 179,
-  "viewCount": 13502,
+  "shareCount": 182,
+  "viewCount": 13542,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
