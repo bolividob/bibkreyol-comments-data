@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782402429277,
+  "updatedAt": 1782402559032,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782402436467",
+      "text": "koman goup saa fok sione",
+      "userDeviceId": "211ff883307c2f0b39ce646952e1cb77ef0b9823336f41209e0269ee02cda0b7",
+      "userName": "csrina",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782402559032,
+      "updatedAt": 1782402559032,
+      "status": "active"
+    },
     {
       "id": "local-1782402298952",
       "text": "amen",
@@ -375,9 +389,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 108,
-  "shareCount": 172,
-  "viewCount": 12924,
+  "likeCount": 109,
+  "shareCount": 173,
+  "viewCount": 12956,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -486,7 +500,8 @@
     "346fee4874a9ca15cb3d111095a9a782d2cc158da5cb5fe123391b7068d83dcc",
     "c1e1f026430f9a12e90d357a87554e62a1d6d8eb07c7cb1224cc60b704f7abcc",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
-    "05c70e4fdbf1792c187c78aa358a07be3f12f3ec93ec5bb2b6aecd23a2ef7e59"
+    "05c70e4fdbf1792c187c78aa358a07be3f12f3ec93ec5bb2b6aecd23a2ef7e59",
+    "421cca9029eeca78f91bd3a8aa518c5174cc85a78e1948e101a74731aea07a9d"
   ],
   "verseViewBy": []
 }
