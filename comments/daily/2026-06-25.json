@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782397042323,
+  "updatedAt": 1782397157164,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782397054679",
+      "text": "Kot moun vivan yo",
+      "userDeviceId": "013a6b1d820093c63ce81082316b81801fe4db8610dcab386d573e5515f45045",
+      "userName": "Ben Chapiyo",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782397157164,
+      "updatedAt": 1782397157164,
+      "status": "active"
+    },
     {
       "id": "local-1782394842449",
       "text": "Ke Dye, the extreme of good, akopanye tout moun ki sipote app sa. Mwen we anpil benediksyon pou tout moun ki rend app sa posib.",
@@ -335,7 +349,7 @@
   ],
   "likeCount": 100,
   "shareCount": 165,
-  "viewCount": 11575,
+  "viewCount": 11596,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
