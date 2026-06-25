@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782386285231,
+  "updatedAt": 1782386408003,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782386301334",
+      "text": "Amen",
+      "userDeviceId": "51ff4d0177de253b7854d5f1120564e9d043773696c9adf08a5eacbe831480b7",
+      "userName": "Nicolas",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782386408003,
+      "updatedAt": 1782386408003,
+      "status": "active"
+    },
     {
       "id": "local-1782386222247",
       "text": "Amen",
@@ -264,8 +278,8 @@
     }
   ],
   "likeCount": 80,
-  "shareCount": 124,
-  "viewCount": 9117,
+  "shareCount": 126,
+  "viewCount": 9156,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
