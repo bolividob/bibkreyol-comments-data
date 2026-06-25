@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782359537143,
+  "updatedAt": 1782359656410,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782359635257",
+      "text": "jezi woyyyyyy",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782359656410,
+      "updatedAt": 1782359656410,
+      "status": "active"
+    },
     {
       "id": "local-1782356792413",
       "text": "Alleluia Gloire",
@@ -151,9 +165,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 41,
-  "viewCount": 5040,
+  "likeCount": 41,
+  "shareCount": 42,
+  "viewCount": 5081,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -194,7 +208,8 @@
     "1fb49062dedb3070ac826ad9a51c1b72e18442afea963b72c18f534afd3c4267",
     "41f9d27369fc75a2054cb3b4d66959727cde575a8eeef4d30edef7c1a45599ff",
     "de4c4ab223fc346ecefc4281ef9d975497b79604637adc70aa216f2248abc26b",
-    "faabdbbd0bb975e2679c2acf80d9c17fa90b524286778bb5a22528ad82c3675b"
+    "faabdbbd0bb975e2679c2acf80d9c17fa90b524286778bb5a22528ad82c3675b",
+    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe"
   ],
   "verseViewBy": []
 }
