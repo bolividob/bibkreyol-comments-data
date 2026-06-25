@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782405392376,
+  "updatedAt": 1782405547500,
   "version": 1,
   "comments": [
     {
@@ -126,10 +126,12 @@
       "verseName": "Oze 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "9a2a2dd88f4e6b799f9c2157d439a231bb2fa0047ede0f5a0223aff7d6097899"
+      ],
       "createdAt": 1782386526643,
-      "updatedAt": 1782405392376,
+      "updatedAt": 1782405547500,
       "status": "active"
     },
     {
@@ -406,8 +408,8 @@
     }
   ],
   "likeCount": 116,
-  "shareCount": 185,
-  "viewCount": 13786,
+  "shareCount": 186,
+  "viewCount": 13818,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
