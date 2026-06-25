@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782350168348,
+  "updatedAt": 1782351372605,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782351214516",
+      "text": "Amen 🙏 🙏 🙏",
+      "userDeviceId": "ecd5f9bb383de5016b8102fe33cd01f8b861ea860155f54dfe08296c65a2b6ce",
+      "userName": "amen 🙏 🙏 🙏",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782351372605,
+      "updatedAt": 1782351372605,
+      "status": "active"
+    },
     {
       "id": "local-1782346109657",
       "text": "Ke Bondye beni",
@@ -35,7 +49,7 @@
   ],
   "likeCount": 13,
   "shareCount": 11,
-  "viewCount": 2073,
+  "viewCount": 2130,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
