@@ -1,9 +1,37 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782355034521,
+  "updatedAt": 1782355226554,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782355158166",
+      "text": "mersi jez",
+      "userDeviceId": "39aecb0cc1d8aab24412b7d9d0d2232dc1f68cf984402c1ea0d88dabe71dadfb",
+      "userName": "MOLEY",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782355226554,
+      "updatedAt": 1782355226554,
+      "status": "active"
+    },
+    {
+      "id": "local-1782355203006",
+      "text": "Mersi",
+      "userDeviceId": "39aecb0cc1d8aab24412b7d9d0d2232dc1f68cf984402c1ea0d88dabe71dadfb",
+      "userName": "MOLEY",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782355226554,
+      "updatedAt": 1782355226554,
+      "status": "active"
+    },
     {
       "id": "local-1782353225764",
       "text": "amén",
@@ -111,7 +139,7 @@
   ],
   "likeCount": 26,
   "shareCount": 26,
-  "viewCount": 3396,
+  "viewCount": 3490,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
