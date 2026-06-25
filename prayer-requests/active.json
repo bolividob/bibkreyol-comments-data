@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782363193595,
+  "updatedAt": 1782381304488,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,17 @@
       "customExpectedSeason": null,
       "request": "demand lapriye svpl",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "a0bbcd878ab9d390ce4c4995298b8292e40699da89d0dd17a8f9e5d6dc2ab0df",
-        "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69"
+        "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69",
+        "de069edaf6597bc17ee123843f103e77699f92ebdc94e370ab6d017ae51da568"
       ],
       "prayingPreview": [
+        {
+          "userName": "Naïka",
+          "prayedAt": 1782381214210
+        },
         {
           "userName": "Guerlyne",
           "prayedAt": 1782363142040
@@ -29,9 +34,17 @@
           "prayedAt": 1782353073441
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "de069edaf6597bc17ee123843f103e77699f92ebdc94e370ab6d017ae51da568-1782381214210-encouragement",
+          "userDeviceId": "de069edaf6597bc17ee123843f103e77699f92ebdc94e370ab6d017ae51da568",
+          "userName": "Naïka",
+          "text": "merci",
+          "createdAt": 1782381214210
+        }
+      ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782363192746,
+      "updatedAt": 1782381303610,
       "answeredAt": null,
       "testimony": null
     },
