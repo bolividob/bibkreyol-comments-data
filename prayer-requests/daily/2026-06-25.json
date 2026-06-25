@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "updatedAt": 1782409263256,
+  "updatedAt": 1782420668232,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 35,
@@ -105,7 +105,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 23,
+      "prayerCount": 24,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -129,9 +129,14 @@
         "05525cfed913efc9b678915105c0a4adb2b49bdec5e7481f47bc14faa3785b05",
         "93b78e44568460ac6dd603517e99205894dd11cb0bde3730b07a9f05489a7910",
         "2fa4f7f8cf7932d8978811f35be5d6cca74200011343f505a4c14e33acfc5373",
-        "6933476f9ce8d0787e3b1bd1858f64db50dfb264594ea228f4a7538aff25ed36"
+        "6933476f9ce8d0787e3b1bd1858f64db50dfb264594ea228f4a7538aff25ed36",
+        "f19782debc9b79e09c84f5f69b585e844c2d2589f3c193cb3d072991f16ef50a"
       ],
       "prayingPreview": [
+        {
+          "userName": "Rémy Sherley",
+          "prayedAt": 1782420636445
+        },
         {
           "userName": "som",
           "prayedAt": 1782403696044
@@ -207,10 +212,6 @@
         {
           "userName": "Mónica pitit bondye a",
           "prayedAt": 1782222177300
-        },
-        {
-          "userName": "bethie",
-          "prayedAt": 1782198262078
         }
       ],
       "encouragements": [
@@ -342,7 +343,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782403863784,
+      "updatedAt": 1782420668232,
       "answeredAt": null,
       "testimony": null
     },
