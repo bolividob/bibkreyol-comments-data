@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782406640012,
+  "updatedAt": 1782406752286,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782406650790",
+      "text": "Amen 🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782406752286,
+      "updatedAt": 1782406752286,
+      "status": "active"
+    },
     {
       "id": "local-1782404287423",
       "text": "amen",
@@ -407,9 +421,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 116,
-  "shareCount": 190,
-  "viewCount": 14067,
+  "likeCount": 117,
+  "shareCount": 191,
+  "viewCount": 14089,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -526,7 +540,8 @@
     "559dc36a92df4a11fe5ffef5200c2724757d41645b8c0f7322368ea272896924",
     "8ecde8babd3012231d872a239c18dfad7b18339041057b69a33583746e0fe9fb",
     "62ba84760bfba06e50972cace73cf028569fc1d508b0cfdd7bfd114b8d94f144",
-    "8ab62c294427934b93557273aaf6e475376004a2d5dc759cdef36809b3ff801c"
+    "8ab62c294427934b93557273aaf6e475376004a2d5dc759cdef36809b3ff801c",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
   ],
   "verseViewBy": []
 }
