@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782353127206,
+  "updatedAt": 1782353300578,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782353225764",
+      "text": "amén",
+      "userDeviceId": "903fbb840c1ac7eca86a5c5ce98b5a5fe4bac1c55850c8bc56c592c9d0a0a9fc",
+      "userName": "amén mi amor",
+      "verseName": "Oze 9:1",
+      "parentId": "local-1782351548402",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782353300577,
+      "updatedAt": 1782353300577,
+      "status": "active"
+    },
     {
       "id": "local-1782351548402",
       "text": "🙏🙏🙏🙏🙏🙏🙏🙏 Amen",
@@ -11,11 +25,11 @@
       "userName": "merci jezi",
       "verseName": "Oze 9:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782353127205,
-      "updatedAt": 1782353127205,
+      "updatedAt": 1782353300577,
       "status": "active"
     },
     {
@@ -95,9 +109,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 17,
-  "viewCount": 2910,
+  "likeCount": 23,
+  "shareCount": 19,
+  "viewCount": 2978,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -120,7 +134,8 @@
     "c0d7450d74159f8ab1de6711587103b0686fe6ad5c7c8ddefd365db33a166bbd",
     "cfe433198c294a1ffddf08c47a5eca531aa2101a185c3fa9c4ba0127a633be5d",
     "2d1ad2b7c00b976d9d4c4e3baaddf2fc1f4da2aa08567048fc4f6a4538b5c153",
-    "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721"
+    "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721",
+    "16e46935ac483ce1c997b3a68469b79d4bd9efcd1ca36aa71a8f041680bfa20d"
   ],
   "verseViewBy": []
 }
