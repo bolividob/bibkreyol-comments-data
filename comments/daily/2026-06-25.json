@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782351735329,
+  "updatedAt": 1782351916914,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Oze 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7"
+      ],
       "createdAt": 1782351372605,
-      "updatedAt": 1782351372605,
+      "updatedAt": 1782351916914,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Oze 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7"
+      ],
       "createdAt": 1782345975554,
-      "updatedAt": 1782345975554,
+      "updatedAt": 1782351916914,
       "status": "active"
     },
     {
@@ -47,9 +51,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
-  "shareCount": 13,
-  "viewCount": 2285,
+  "likeCount": 18,
+  "shareCount": 14,
+  "viewCount": 2371,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -66,7 +70,9 @@
     "25bd7247a6835745af23bd13a4daede2898b00768241d39f054b877190ebda29",
     "d53843d15fb67bc5b56ef38658107d7c642b7a3b1e876e2a4486936aaaf8eef2",
     "8ba5b55525de3faceeff5e52f9f68995afe144f41819584a7bfb5ebadcb3211c",
-    "a24e9f8e9c7d8b541c1518b730ef4e57e2e9549b94c68e9530aa406b83121070"
+    "a24e9f8e9c7d8b541c1518b730ef4e57e2e9549b94c68e9530aa406b83121070",
+    "500f9ed834c920925c1a55f28023626f2858be22b16d564fb5c1788622ba336c",
+    "dff8e39c617a53b2d3917999fc9bc39e5a69e166e47ecfba01001df7065070f0"
   ],
   "verseViewBy": []
 }
