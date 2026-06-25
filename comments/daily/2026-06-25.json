@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782356616598,
+  "updatedAt": 1782357038640,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782356792413",
+      "text": "Alleluia Gloire",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782357038639,
+      "updatedAt": 1782357038639,
+      "status": "active"
+    },
     {
       "id": "local-1782355158166",
       "text": "mersi jez",
@@ -137,9 +151,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
-  "shareCount": 32,
-  "viewCount": 4135,
+  "likeCount": 34,
+  "shareCount": 35,
+  "viewCount": 4309,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -173,7 +187,8 @@
     "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966",
     "07c7b02a7fd169d6c42ac67b8d8a1ffc419fea8539bc478e79f02795051a0fed",
     "f4821b033a8133112dd3d0d81101d178729107bc372f32d7573595649e4eaade",
-    "6467a0998f541952987508901c004e3b6fff74a42940a3458d60ee8bc529ce0e"
+    "6467a0998f541952987508901c004e3b6fff74a42940a3458d60ee8bc529ce0e",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
