@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782448348915,
+  "updatedAt": 1782448444105,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782448378228",
+      "text": "🇭🇹🇭🇹🇭🇹🙏🙏",
+      "userDeviceId": "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19",
+      "userName": "Loubens",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782448444104,
+      "updatedAt": 1782448444104,
+      "status": "active"
+    },
     {
       "id": "local-1782447971956",
       "text": "mèsi bondye",
@@ -207,9 +221,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
+  "likeCount": 31,
   "shareCount": 42,
-  "viewCount": 5127,
+  "viewCount": 5145,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -240,7 +254,8 @@
     "eb2759547db9c97e4ad8fccada7edee5ee5033aa711c46b68ee59f68fd0936e4",
     "532b5749fdc17cb959f0229c9bcb42ad9c6206ffb3065a685089fff3627cf78f",
     "92be6a6cec720d8191d2ce29065afb65ef40b3bbe84f12cea8d0bd41a801a99c",
-    "24e81194821f1f5ee62526830e0a3d27bef64582bb872269067b0ecca84a2ab7"
+    "24e81194821f1f5ee62526830e0a3d27bef64582bb872269067b0ecca84a2ab7",
+    "4626bbd64926ff8164a7f685ff955ad0fa54c3716b2b721847bf95834f402ea8"
   ],
   "verseViewBy": []
 }
