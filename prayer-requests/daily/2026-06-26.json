@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updatedAt": 1782448033637,
+  "updatedAt": 1782448145095,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 35,
@@ -128,6 +128,13 @@
       ],
       "encouragements": [
         {
+          "id": "24e81194821f1f5ee62526830e0a3d27bef64582bb872269067b0ecca84a2ab7-1782448033206-encouragement",
+          "userDeviceId": "24e81194821f1f5ee62526830e0a3d27bef64582bb872269067b0ecca84a2ab7",
+          "userName": "Chedeline vertu",
+          "text": "priye déblocage",
+          "createdAt": 1782448033206
+        },
+        {
           "id": "24e81194821f1f5ee62526830e0a3d27bef64582bb872269067b0ecca84a2ab7-1782448004174-encouragement",
           "userDeviceId": "24e81194821f1f5ee62526830e0a3d27bef64582bb872269067b0ecca84a2ab7",
           "userName": "Chedeline vertu",
@@ -220,7 +227,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782448033637,
+      "updatedAt": 1782448145095,
       "answeredAt": null,
       "testimony": null
     },
