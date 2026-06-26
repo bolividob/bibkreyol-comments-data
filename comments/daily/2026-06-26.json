@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782491108461,
+  "updatedAt": 1782491351837,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782491287405",
+      "text": "Amen",
+      "userDeviceId": "67ffd6539c1c63137b63d3d2c170e7b101fc2279cf81e0acb4ff6f2bec668cba",
+      "userName": "Sr Chanaïca",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782491351837,
+      "updatedAt": 1782491351837,
+      "status": "active"
+    },
     {
       "id": "local-1782487002867",
       "text": "bondye ak nou",
@@ -398,9 +412,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
+  "likeCount": 94,
   "shareCount": 168,
-  "viewCount": 12950,
+  "viewCount": 13017,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -494,7 +508,8 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "26136239e1c0087689b706d9396a3616dea25a027fcbdc0eff5688ab7395a468",
     "7e9f1167f3f0c7be0030ff561a4a03889b96b3ecabdc4a27988b33e6db727027",
-    "d14629779e5464c4a1eaafeb6b21fde5dadf8cc2713a20914f52488d9d28845d"
+    "d14629779e5464c4a1eaafeb6b21fde5dadf8cc2713a20914f52488d9d28845d",
+    "67ffd6539c1c63137b63d3d2c170e7b101fc2279cf81e0acb4ff6f2bec668cba"
   ],
   "verseViewBy": []
 }
