@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782507675639,
+  "updatedAt": 1782507800334,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782507730371",
+      "text": "amén 🙏🙏🙏🙆",
+      "userDeviceId": "f3650b2a06882e197302ebc5726eb7d491355d8ec2d95c81088a55540740dcbb",
+      "userName": "selande",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782507800334,
+      "updatedAt": 1782507800334,
+      "status": "active"
+    },
     {
       "id": "local-1782506653548",
       "text": "jezi kapab",
@@ -603,7 +617,7 @@
   ],
   "likeCount": 112,
   "shareCount": 199,
-  "viewCount": 16073,
+  "viewCount": 16096,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
