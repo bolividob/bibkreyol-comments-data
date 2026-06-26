@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782435500501,
+  "updatedAt": 1782435913538,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Oze 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7bb7583dc1eb0edf0a1f8ea98b2f1eeff1ea583da3270daea1ceaea2b857dbd2"
+      ],
       "createdAt": 1782406752286,
-      "updatedAt": 1782406752286,
+      "updatedAt": 1782435913538,
       "status": "active"
     },
     {
@@ -463,9 +465,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 152,
-  "shareCount": 263,
-  "viewCount": 20367,
+  "likeCount": 153,
+  "shareCount": 264,
+  "viewCount": 20425,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
@@ -618,7 +620,8 @@
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "75c86a92203a986d685a4bd4aaecda823f017d9dff1eb77b5a4681106b96e0da",
     "72c3fe501708eabcbea2cc3e3cbc5df75fbe902bbd83d08d58b5985490669f26",
-    "1c815fe6aa47f90fdf91ad77b428bdd419fe3c164de17cd2b2e2785ceb287094"
+    "1c815fe6aa47f90fdf91ad77b428bdd419fe3c164de17cd2b2e2785ceb287094",
+    "7bb7583dc1eb0edf0a1f8ea98b2f1eeff1ea583da3270daea1ceaea2b857dbd2"
   ],
   "verseViewBy": []
 }
