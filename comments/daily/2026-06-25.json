@@ -1,9 +1,23 @@
 {
   "date": "2026-06-25",
   "verseKey": "daily:2026-06-25",
-  "updatedAt": 1782431651171,
+  "updatedAt": 1782432123923,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782431697242",
+      "text": "amen amen 🔥🙏",
+      "userDeviceId": "e3088ad4b69af2848504124d62c8f944c8d794d2da1a50fcbbef2a8119132dcb",
+      "userName": "Selinedia amen amen amen",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782432123922,
+      "updatedAt": 1782432123922,
+      "status": "active"
+    },
     {
       "id": "local-1782403436814",
       "text": "Bondye beni Nou",
@@ -450,8 +464,8 @@
     }
   ],
   "likeCount": 152,
-  "shareCount": 259,
-  "viewCount": 19847,
+  "shareCount": 262,
+  "viewCount": 20224,
   "verseLikedBy": [
     "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
     "cf3133f453e3bae5f8efe00fd61c0478604446af7988129b18ea7a4460aab8ab",
