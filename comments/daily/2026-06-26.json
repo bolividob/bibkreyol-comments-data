@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782481744772,
+  "updatedAt": 1782481989917,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782481745780",
+      "text": "amen wi",
+      "userDeviceId": "79b29a07870a3e58bcfb4510350f99848a746f9712d5fe202c227e542729d2be",
+      "userName": "Richasson",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782481989917,
+      "updatedAt": 1782481989917,
+      "status": "active"
+    },
     {
       "id": "local-1782473588640",
       "text": "Amen",
@@ -342,9 +356,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 76,
-  "shareCount": 139,
-  "viewCount": 10689,
+  "likeCount": 77,
+  "shareCount": 141,
+  "viewCount": 10744,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -421,7 +435,8 @@
     "53ad27713ddcf14981bddd8ef735e2f8f7b89300355ddc32608a30084e4a767d",
     "c50eae4c03d0d176edc3abb1870141a5ba7464b25cf39d0fa63b12b23fec7e18",
     "3c4deb49bbb3f738f4ea800e364bdd2cc37eec962e2c972fb31de0d82c87afbc",
-    "79b29a07870a3e58bcfb4510350f99848a746f9712d5fe202c227e542729d2be"
+    "79b29a07870a3e58bcfb4510350f99848a746f9712d5fe202c227e542729d2be",
+    "10aabef967d8e769d9d562dd39d5b54416eb36f7e1f5c4b603140662d8b06694"
   ],
   "verseViewBy": []
 }
