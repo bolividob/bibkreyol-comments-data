@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782517998622,
+  "updatedAt": 1782518123457,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -138,6 +138,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "18e1cab63b213501a059296366ff6ddbcb5089e8fd8d9dd6e770228d5fc84bd9-1782518072962-encouragement",
+          "userDeviceId": "18e1cab63b213501a059296366ff6ddbcb5089e8fd8d9dd6e770228d5fc84bd9",
+          "userName": "Elie",
+          "text": "bonswa non pam se Eli map mande Pou Nou edem priye Pou bondye chanje la vim spv",
+          "createdAt": 1782518072962
+        },
         {
           "id": "74eaa0b1256a4e444a5b804acdc3fb9064daf6d4595f4e291f63a14f6cd16a2d-1782501725797-encouragement",
           "userDeviceId": "74eaa0b1256a4e444a5b804acdc3fb9064daf6d4595f4e291f63a14f6cd16a2d",
@@ -308,7 +315,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782517997849,
+      "updatedAt": 1782518121451,
       "answeredAt": null,
       "testimony": null
     },
