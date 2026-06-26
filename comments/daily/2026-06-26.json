@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782438981758,
+  "updatedAt": 1782439232653,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782439062510",
+      "text": "Amen amen amen amen amen amen amen amen",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782439232653,
+      "updatedAt": 1782439232653,
+      "status": "active"
+    },
     {
       "id": "local-1782438018208",
       "text": "Amèn🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏",
@@ -109,9 +123,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 15,
-  "viewCount": 2066,
+  "likeCount": 12,
+  "shareCount": 16,
+  "viewCount": 2179,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -123,7 +137,8 @@
     "c89a43461cd83bc3d5a2d05b3eefa8160d2215a49ea6bed6ce0713ff19980910",
     "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
     "f65e58561293e6545441e30a976975304726b67a8f98cae820676389d1608583",
-    "3536e123c9a22dce30bd23082d494120002cc3df9df5d57ce432882dbac4c340"
+    "3536e123c9a22dce30bd23082d494120002cc3df9df5d57ce432882dbac4c340",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
   ],
   "verseViewBy": []
 }
