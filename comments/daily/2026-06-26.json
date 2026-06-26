@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782467231501,
+  "updatedAt": 1782467357550,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782467320520",
+      "text": "amèn 🙏🙏🙏",
+      "userDeviceId": "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21",
+      "userName": "sr landie chrisme",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782467357550,
+      "updatedAt": 1782467357550,
+      "status": "active"
+    },
     {
       "id": "local-1782467067888",
       "text": "amèn",
@@ -54,10 +68,12 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21"
+      ],
       "createdAt": 1782451092591,
-      "updatedAt": 1782451092591,
+      "updatedAt": 1782467357550,
       "status": "active"
     },
     {
@@ -152,10 +168,12 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21"
+      ],
       "createdAt": 1782439828683,
-      "updatedAt": 1782439828683,
+      "updatedAt": 1782467357550,
       "status": "active"
     },
     {
@@ -166,10 +184,12 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21"
+      ],
       "createdAt": 1782439232653,
-      "updatedAt": 1782439232653,
+      "updatedAt": 1782467357550,
       "status": "active"
     },
     {
@@ -236,12 +256,13 @@
       "verseName": "Oze 9:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057"
+        "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057",
+        "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21"
       ],
       "createdAt": 1782434787456,
-      "updatedAt": 1782434971642,
+      "updatedAt": 1782467357550,
       "status": "active"
     },
     {
@@ -268,18 +289,19 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057"
+        "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057",
+        "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21"
       ],
       "createdAt": 1782434311628,
-      "updatedAt": 1782434787456,
+      "updatedAt": 1782467357550,
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 68,
-  "viewCount": 7088,
+  "likeCount": 47,
+  "shareCount": 69,
+  "viewCount": 7109,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -326,7 +348,8 @@
     "4e2e8177409a3aba9afa8d249fd2f09d188e084f483d916229a25e0d55b564cf",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
     "85a78be99476798a41ff511e7199e6ad56519d8a3786a6f259af7787aa16d64c",
-    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+    "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21"
   ],
   "verseViewBy": []
 }
