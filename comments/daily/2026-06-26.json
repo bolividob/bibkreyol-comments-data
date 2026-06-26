@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782445878104,
+  "updatedAt": 1782445998841,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782445947176",
+      "text": "Amen Amen Amen Amen Amen Amen Amen Amen Amen Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782445998841,
+      "updatedAt": 1782445998841,
+      "status": "active"
+    },
     {
       "id": "local-1782444219010",
       "text": "Amén Amén",
@@ -165,9 +179,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 25,
+  "likeCount": 27,
   "shareCount": 31,
-  "viewCount": 4306,
+  "viewCount": 4351,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -193,7 +207,9 @@
     "3354406344601ee029c219a2baab4a5f299f5abefa909285f16ebf093db43642",
     "4d034812058450c20cd631836df9542054cbe31b6ef259b6b9d02349d33ee3b9",
     "3b28ea05f85a762c12efa767a9151bc87e7ed1bca8e33153b66508fa11132983",
-    "a854d8943e43b37bb80c93ee5ede8d846d0af831cf8f99ccffccea255c6321f2"
+    "a854d8943e43b37bb80c93ee5ede8d846d0af831cf8f99ccffccea255c6321f2",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "eb2759547db9c97e4ad8fccada7edee5ee5033aa711c46b68ee59f68fd0936e4"
   ],
   "verseViewBy": []
 }
