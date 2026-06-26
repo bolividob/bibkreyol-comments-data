@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updatedAt": 1782476102162,
+  "updatedAt": 1782477062605,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 35,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "demand lapriye svpl",
       "status": "praying",
-      "prayerCount": 30,
+      "prayerCount": 31,
       "prayedBy": [
         "a0bbcd878ab9d390ce4c4995298b8292e40699da89d0dd17a8f9e5d6dc2ab0df",
         "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69",
@@ -47,9 +47,14 @@
         "0e14a2467c785da4b3d631784ac8a266ef92a2f794850ec56aadd4745b9ea03b",
         "4f42334e4fd8934b41fa097fb43a73584bd05cb585ab2645b5764c45c4211c1c",
         "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21",
-        "323abc3f537a1d7be1a84cd74e5735ac2c2292a32c69b0e8f36a7cafcbf79a34"
+        "323abc3f537a1d7be1a84cd74e5735ac2c2292a32c69b0e8f36a7cafcbf79a34",
+        "e241fe045f0f9b10883fcb0b11af3087df20d1345f2907b799fe8dd7fa9e5540"
       ],
       "prayingPreview": [
+        {
+          "userName": "christionor",
+          "prayedAt": 1782477006067
+        },
         {
           "userName": "Marie",
           "prayedAt": 1782475922749
@@ -125,10 +130,6 @@
         {
           "userName": "Flonell Félix",
           "prayedAt": 1782427366636
-        },
-        {
-          "userName": "DEGENA",
-          "prayedAt": 1782421575803
         }
       ],
       "encouragements": [
@@ -267,7 +268,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782476102162,
+      "updatedAt": 1782477062605,
       "answeredAt": null,
       "testimony": null
     },
