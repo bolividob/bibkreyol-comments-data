@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782473528550,
+  "updatedAt": 1782473647085,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782473588640",
+      "text": "Amen",
+      "userDeviceId": "4a90f1a7486b38612d41d5915b5e5fc237178aa06fb904a51a6efb13788108ea",
+      "userName": "Fr Myson",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782473647085,
+      "updatedAt": 1782473647085,
+      "status": "active"
+    },
     {
       "id": "local-1782470755690",
       "text": "amen",
@@ -196,12 +210,13 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21"
+        "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21",
+        "4a90f1a7486b38612d41d5915b5e5fc237178aa06fb904a51a6efb13788108ea"
       ],
       "createdAt": 1782439828683,
-      "updatedAt": 1782467357550,
+      "updatedAt": 1782473647085,
       "status": "active"
     },
     {
@@ -329,7 +344,7 @@
   ],
   "likeCount": 60,
   "shareCount": 100,
-  "viewCount": 8769,
+  "viewCount": 8806,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
