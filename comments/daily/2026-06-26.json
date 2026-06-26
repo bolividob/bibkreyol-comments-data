@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782514267322,
+  "updatedAt": 1782514387177,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782514327109",
+      "text": "amén",
+      "userDeviceId": "11a3b8ce335d43e42a50544b44c7f48fb767711116c1a8652bb19149290fdba0",
+      "userName": "sr veve",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782514387177,
+      "updatedAt": 1782514387177,
+      "status": "active"
+    },
     {
       "id": "local-1782512225123",
       "text": "jesus",
@@ -663,7 +677,7 @@
   ],
   "likeCount": 118,
   "shareCount": 207,
-  "viewCount": 17812,
+  "viewCount": 17846,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
