@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782466987939,
+  "updatedAt": 1782467108849,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782467067888",
+      "text": "amèn",
+      "userDeviceId": "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+      "userName": "Marcline Elie",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782467108849,
+      "updatedAt": 1782467108849,
+      "status": "active"
+    },
     {
       "id": "local-1782465671372",
       "text": "amén amén amén 🙏🙏🙏",
@@ -263,9 +277,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
+  "likeCount": 46,
   "shareCount": 67,
-  "viewCount": 7050,
+  "viewCount": 7069,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -311,7 +325,8 @@
     "45a68fcceb3858fec24bb26535b3d0d491c11b4bd9984f0848d266cd49ec434a",
     "4e2e8177409a3aba9afa8d249fd2f09d188e084f483d916229a25e0d55b564cf",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
-    "85a78be99476798a41ff511e7199e6ad56519d8a3786a6f259af7787aa16d64c"
+    "85a78be99476798a41ff511e7199e6ad56519d8a3786a6f259af7787aa16d64c",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
   ],
   "verseViewBy": []
 }
