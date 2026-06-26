@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782508027217,
+  "updatedAt": 1782508269415,
   "version": 1,
   "comments": [
     {
@@ -342,12 +342,13 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "214e9bfee3966814fb4739f29c296a015d9ab07a62bd9fa26eea5d750f6f1e2a"
+        "214e9bfee3966814fb4739f29c296a015d9ab07a62bd9fa26eea5d750f6f1e2a",
+        "1405865d7fd788eacb8fc040cde6fb3b54d9a5e99e168375b54744846b935120"
       ],
       "createdAt": 1782452646093,
-      "updatedAt": 1782503592629,
+      "updatedAt": 1782508269415,
       "status": "active"
     },
     {
@@ -358,13 +359,14 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "3e40d93e60716996177f22d8b3d99f2ba437246a40bb31f4b1a0fed53838fb21",
-        "214e9bfee3966814fb4739f29c296a015d9ab07a62bd9fa26eea5d750f6f1e2a"
+        "214e9bfee3966814fb4739f29c296a015d9ab07a62bd9fa26eea5d750f6f1e2a",
+        "1405865d7fd788eacb8fc040cde6fb3b54d9a5e99e168375b54744846b935120"
       ],
       "createdAt": 1782451092591,
-      "updatedAt": 1782503592629,
+      "updatedAt": 1782508269415,
       "status": "active"
     },
     {
@@ -615,9 +617,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 112,
+  "likeCount": 113,
   "shareCount": 199,
-  "viewCount": 16142,
+  "viewCount": 16198,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -730,7 +732,8 @@
     "0f32427508294f60fb687399b157ab5c8d5374384798cf8cf32e6609ec28fced",
     "a1689d109596382ea14a6ebe6a4c34b48d58af3fec2a029d5843fa38455bc0c9",
     "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
-    "b27722b57c76a8887d8eacc33de93e9d6a9ff8e520c6e74a354a6ac7504308cb"
+    "b27722b57c76a8887d8eacc33de93e9d6a9ff8e520c6e74a354a6ac7504308cb",
+    "1405865d7fd788eacb8fc040cde6fb3b54d9a5e99e168375b54744846b935120"
   ],
   "verseViewBy": []
 }
