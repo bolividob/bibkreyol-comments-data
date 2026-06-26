@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782439572625,
+  "updatedAt": 1782439828683,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782439581969",
+      "text": "🙏🙏🙏🙏",
+      "userDeviceId": "d5f48f7f79a983d26145347906ec396a0910661c0a7ad38ef22888f2cb12cd5f",
+      "userName": "dieuyoo",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782439828683,
+      "updatedAt": 1782439828683,
+      "status": "active"
+    },
     {
       "id": "local-1782439062510",
       "text": "Amen amen amen amen amen amen amen amen",
@@ -125,7 +139,7 @@
   ],
   "likeCount": 12,
   "shareCount": 17,
-  "viewCount": 2346,
+  "viewCount": 2481,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
