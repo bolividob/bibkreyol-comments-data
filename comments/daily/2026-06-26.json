@@ -1,9 +1,41 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782434622658,
+  "updatedAt": 1782434787456,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782434662969",
+      "text": "MWN PA LA",
+      "userDeviceId": "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057",
+      "userName": "claudin",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057"
+      ],
+      "createdAt": 1782434787456,
+      "updatedAt": 1782434787456,
+      "status": "active"
+    },
+    {
+      "id": "local-1782434699109",
+      "text": "amèn",
+      "userDeviceId": "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057",
+      "userName": "claudin",
+      "verseName": "Oze 9:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057"
+      ],
+      "createdAt": 1782434787456,
+      "updatedAt": 1782434787456,
+      "status": "active"
+    },
     {
       "id": "local-1782433386439",
       "text": "Amen 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏",
@@ -12,16 +44,18 @@
       "verseName": "Danyèl 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42923d9a466c75e286d57d783ebc8a575356bd12e0690d9ac0f4eaff9fedf057"
+      ],
       "createdAt": 1782434311628,
-      "updatedAt": 1782434311628,
+      "updatedAt": 1782434787456,
       "status": "active"
     }
   ],
   "likeCount": 6,
-  "shareCount": 6,
-  "viewCount": 677,
+  "shareCount": 7,
+  "viewCount": 771,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
