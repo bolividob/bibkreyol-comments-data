@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782510261073,
+  "updatedAt": 1782510445063,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782510396744",
+      "text": "bib kreyiôl",
+      "userDeviceId": "941530fbd2549961466a7458b6454490368111860d92192f353ec1d0e7d81990",
+      "userName": "gito",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782510445063,
+      "updatedAt": 1782510445063,
+      "status": "active"
+    },
     {
       "id": "local-1782507730371",
       "text": "amén 🙏🙏🙏🙆",
@@ -619,7 +633,7 @@
   ],
   "likeCount": 114,
   "shareCount": 201,
-  "viewCount": 16679,
+  "viewCount": 16725,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
