@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782477183463,
+  "updatedAt": 1782480183659,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -288,7 +288,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 26,
+      "prayerCount": 27,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -315,9 +315,14 @@
         "6933476f9ce8d0787e3b1bd1858f64db50dfb264594ea228f4a7538aff25ed36",
         "f19782debc9b79e09c84f5f69b585e844c2d2589f3c193cb3d072991f16ef50a",
         "3ce4597b2b72cfe63891ea544bf6a10f8848d6418b4b6b7e989af98f0c068a93",
-        "b047b48457263be71219460f1fb3552d0072723cf0436433ab3f213595d74956"
+        "b047b48457263be71219460f1fb3552d0072723cf0436433ab3f213595d74956",
+        "bb79b4f5c3076847b8ecf237305f56835c0db9955391cd0eddb55321a990e92a"
       ],
       "prayingPreview": [
+        {
+          "userName": "bondye kapab",
+          "prayedAt": 1782480099518
+        },
         {
           "userName": "Mamane merisson",
           "prayedAt": 1782474527696
@@ -393,13 +398,16 @@
         {
           "userName": "naval",
           "prayedAt": 1782253620093
-        },
-        {
-          "userName": "mona",
-          "prayedAt": 1782253196158
         }
       ],
       "encouragements": [
+        {
+          "id": "bb79b4f5c3076847b8ecf237305f56835c0db9955391cd0eddb55321a990e92a-1782480099518-encouragement",
+          "userDeviceId": "bb79b4f5c3076847b8ecf237305f56835c0db9955391cd0eddb55321a990e92a",
+          "userName": "bondye kapab",
+          "text": "Bondye kap kapab",
+          "createdAt": 1782480099518
+        },
         {
           "id": "b047b48457263be71219460f1fb3552d0072723cf0436433ab3f213595d74956-1782474806125-encouragement",
           "userDeviceId": "b047b48457263be71219460f1fb3552d0072723cf0436433ab3f213595d74956",
@@ -549,7 +557,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782474902016,
+      "updatedAt": 1782480182624,
       "answeredAt": null,
       "testimony": null
     },
