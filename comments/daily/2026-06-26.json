@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782510979699,
+  "updatedAt": 1782511099949,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782511030522",
+      "text": "🙏🙏🙏",
+      "userDeviceId": "ba8bd9ddbebf8eea68465d58f610a599b59d0d73fceca4992f298865ea1c49df",
+      "userName": "Fabiola",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782511099949,
+      "updatedAt": 1782511099949,
+      "status": "active"
+    },
     {
       "id": "local-1782510396744",
       "text": "bib kreyiôl",
@@ -633,7 +647,7 @@
   ],
   "likeCount": 114,
   "shareCount": 202,
-  "viewCount": 16866,
+  "viewCount": 16896,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
