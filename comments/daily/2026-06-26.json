@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782486965716,
+  "updatedAt": 1782487084505,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782487002867",
+      "text": "bondye ak nou",
+      "userDeviceId": "5499bc1baf172c2c0b0fb4bf10910af221475819e33d18d3b9ee62f072cdfffa",
+      "userName": "vanessa",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782487084505,
+      "updatedAt": 1782487084505,
+      "status": "active"
+    },
     {
       "id": "local-1782482506192",
       "text": "kabaret",
@@ -386,7 +400,7 @@
   ],
   "likeCount": 84,
   "shareCount": 153,
-  "viewCount": 11827,
+  "viewCount": 11846,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
