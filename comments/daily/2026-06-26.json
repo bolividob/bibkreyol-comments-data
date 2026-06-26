@@ -1,9 +1,23 @@
 {
   "date": "2026-06-26",
   "verseKey": "daily:2026-06-26",
-  "updatedAt": 1782440176303,
+  "updatedAt": 1782441572526,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782441111404",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Danyèl 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782441572526,
+      "updatedAt": 1782441572526,
+      "status": "active"
+    },
     {
       "id": "local-1782439581969",
       "text": "🙏🙏🙏🙏",
@@ -137,9 +151,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
-  "shareCount": 18,
-  "viewCount": 2655,
+  "likeCount": 16,
+  "shareCount": 19,
+  "viewCount": 2883,
   "verseLikedBy": [
     "c306109595c02badd6123761800c61a166ac2b67cc98f14453e85d92005076d7",
     "409e3670fb6d0e07dcf22c480b50841cffef5375bd4000fbc068f2fbb66457c0",
@@ -153,7 +167,10 @@
     "f65e58561293e6545441e30a976975304726b67a8f98cae820676389d1608583",
     "3536e123c9a22dce30bd23082d494120002cc3df9df5d57ce432882dbac4c340",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
-    "3f591574cd2b67d9bf8d10b8d6c11dbc624be830939691c746b2556f63b9eb3b"
+    "3f591574cd2b67d9bf8d10b8d6c11dbc624be830939691c746b2556f63b9eb3b",
+    "8ab5b74e46d697fed9aa2c912a36962b4366857721b5c77332281df70973a438",
+    "3ad308fd977f176f7747aa10dfc94caeeaa8a3f237995825143da2ecf7c398b4",
+    "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966"
   ],
   "verseViewBy": []
 }
