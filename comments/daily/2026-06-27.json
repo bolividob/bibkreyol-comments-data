@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782531933613,
+  "updatedAt": 1782532240183,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782532207931",
+      "text": "som",
+      "userDeviceId": "1c26fab26e303728054f0c6f02ce65bbff78830daa02b4cf00849d77fe639ece",
+      "userName": "Monia",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782532240183,
+      "updatedAt": 1782532240183,
+      "status": "active"
+    },
     {
       "id": "local-1782531155852",
       "text": "yes",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 42,
-  "viewCount": 3503,
+  "likeCount": 10,
+  "shareCount": 43,
+  "viewCount": 3643,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -101,7 +115,8 @@
     "63311e76ea7e16e82f75b985b4f81c745fcf1f191883a7877d403b28bcce82c9",
     "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966",
     "b36b2ceaff0df4a674826192d0b0d31e39ab5a4040c8dcf8c7e9b275f26728bf",
-    "d635e5a72a40b516d27b17f5bfe06998944b4ba25f0809d6e7f53dda155029c0"
+    "d635e5a72a40b516d27b17f5bfe06998944b4ba25f0809d6e7f53dda155029c0",
+    "1c26fab26e303728054f0c6f02ce65bbff78830daa02b4cf00849d77fe639ece"
   ],
   "verseViewBy": []
 }
