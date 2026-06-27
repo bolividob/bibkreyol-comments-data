@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782581173251,
+  "updatedAt": 1782581293904,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782581260393",
+      "text": "Mwen renmen jezi",
+      "userDeviceId": "33fdcf7eba623d4e5f079be390140667a818096e916d738ca57bde410571973c",
+      "userName": "louius",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782581293904,
+      "updatedAt": 1782581293904,
+      "status": "active"
+    },
     {
       "id": "local-1782530735589",
       "text": "merci pour gras ou jezi",
@@ -359,7 +373,7 @@
   ],
   "likeCount": 84,
   "shareCount": 194,
-  "viewCount": 13064,
+  "viewCount": 13092,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
