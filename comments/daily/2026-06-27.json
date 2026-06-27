@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782588915918,
+  "updatedAt": 1782589026403,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "2 Timote 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d"
+      ],
       "createdAt": 1782588786972,
-      "updatedAt": 1782588786972,
+      "updatedAt": 1782589026403,
       "status": "active"
     },
     {
@@ -474,7 +476,7 @@
   ],
   "likeCount": 96,
   "shareCount": 217,
-  "viewCount": 14448,
+  "viewCount": 14468,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
