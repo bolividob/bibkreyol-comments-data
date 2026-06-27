@@ -1,9 +1,51 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782597127027,
+  "updatedAt": 1782597369319,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782597135434",
+      "text": "bib katoli",
+      "userDeviceId": "97263681ce44a6401d21a279b90025af705605bef9855a74ad6fe3b052f9fc39",
+      "userName": "jelanda",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782597369319,
+      "updatedAt": 1782597369319,
+      "status": "active"
+    },
+    {
+      "id": "local-1782597164476",
+      "text": "jezi sové",
+      "userDeviceId": "97263681ce44a6401d21a279b90025af705605bef9855a74ad6fe3b052f9fc39",
+      "userName": "jelanda",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782597369319,
+      "updatedAt": 1782597369319,
+      "status": "active"
+    },
+    {
+      "id": "local-1782597190167",
+      "text": "amen",
+      "userDeviceId": "97263681ce44a6401d21a279b90025af705605bef9855a74ad6fe3b052f9fc39",
+      "userName": "jelanda",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782597369319,
+      "updatedAt": 1782597369319,
+      "status": "active"
+    },
     {
       "id": "local-1782592461839",
       "text": "jezi sél solisyon m",
@@ -580,9 +622,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 107,
+  "likeCount": 108,
   "shareCount": 245,
-  "viewCount": 16245,
+  "viewCount": 16311,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -690,7 +732,8 @@
     "40bc741adf03362ffdb1c42a07bd3045d92a047b143e3e2d4bd187500db2156c",
     "bfc459da6a4088cbc3aefedac4bbed84c2159d2419358ce350b35052b036b127",
     "0c7c88a3df4551f68d17245fa463a19938428e7f622e0816d57fadaeb1f99450",
-    "97263681ce44a6401d21a279b90025af705605bef9855a74ad6fe3b052f9fc39"
+    "97263681ce44a6401d21a279b90025af705605bef9855a74ad6fe3b052f9fc39",
+    "965656f32d9d6c6103066129ea6e5af3e1df65da059567380dd047b5361ff07d"
   ],
   "verseViewBy": []
 }
