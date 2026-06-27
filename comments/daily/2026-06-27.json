@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782587464737,
+  "updatedAt": 1782587588506,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782587578951",
+      "text": "merci jesus",
+      "userDeviceId": "3c751d112bcb760532ee49f6f767c75581769167f4428e9981130ce39ac6e74d",
+      "userName": "mamar",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782587588506,
+      "updatedAt": 1782587588506,
+      "status": "active"
+    },
     {
       "id": "local-1782586620974",
       "text": "merci",
@@ -401,9 +415,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 211,
-  "viewCount": 14165,
+  "likeCount": 94,
+  "shareCount": 213,
+  "viewCount": 14191,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -496,7 +510,9 @@
     "881a8feab7be5bdaee6234c50ce8c38a8846626026cada16379d3f352806bf32",
     "2f1e649fd8bf0337b18dd77bbca3c920d0e37edc817600653c20a8da45423093",
     "f5ab1ad7204882d06c56935217136f9c413513d70d1396392c473e78a68e0744",
-    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "3bf5ab1b5b6ff60c59164f3ec202a076c0c9535ed3774148b0d28753d723f1ef",
+    "3c751d112bcb760532ee49f6f767c75581769167f4428e9981130ce39ac6e74d"
   ],
   "verseViewBy": []
 }
