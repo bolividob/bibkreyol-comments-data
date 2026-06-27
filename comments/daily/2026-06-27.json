@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782564495129,
+  "updatedAt": 1782564612298,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782564605812",
+      "text": "bonDieu beni nou",
+      "userDeviceId": "6c486e4c9739149d3aa85d4cfa24314b27462b2219744776369d71417307ef9c",
+      "userName": "merci",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782564612298,
+      "updatedAt": 1782564612298,
+      "status": "active"
+    },
     {
       "id": "local-1782562746320",
       "text": "amen",
@@ -303,7 +317,7 @@
   ],
   "likeCount": 60,
   "shareCount": 146,
-  "viewCount": 8966,
+  "viewCount": 8993,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
