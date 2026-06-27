@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "updatedAt": 1782584584926,
+  "updatedAt": 1782600666725,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 35,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "demand lapriye svpl",
       "status": "praying",
-      "prayerCount": 55,
+      "prayerCount": 56,
       "prayedBy": [
         "a0bbcd878ab9d390ce4c4995298b8292e40699da89d0dd17a8f9e5d6dc2ab0df",
         "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69",
@@ -72,9 +72,14 @@
         "37cf2f2687c70e79f3be80e2d62e33f6e7c8451b33f3fe343d7b9702ddd0da5a",
         "7f4dd0545940a4ca20807fa9ddedaa808bfe193fa30273b0f1f5a9a333c88e6b",
         "4b24e32e5759ab14267db5d7c2d405cb25efc38a4d62f026daa7c91bd28970d8",
-        "717435f918eca0381f4d186949b8d28b79e17201a6ba4b09ac1f2f7f4b56df85"
+        "717435f918eca0381f4d186949b8d28b79e17201a6ba4b09ac1f2f7f4b56df85",
+        "abb464c021272520af4d6c27ea0f324224ca77224112ed47bbc7d80cf94fd4d0"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bellanjlo estimable",
+          "prayedAt": 1782600580217
+        },
         {
           "userName": "Joseph Frantz",
           "prayedAt": 1782584456532
@@ -150,10 +155,6 @@
         {
           "userName": "gesca",
           "prayedAt": 1782496162635
-        },
-        {
-          "userName": "eza ou",
-          "prayedAt": 1782492211474
         }
       ],
       "encouragements": [
@@ -425,7 +426,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782584584926,
+      "updatedAt": 1782600666725,
       "answeredAt": null,
       "testimony": null
     },
