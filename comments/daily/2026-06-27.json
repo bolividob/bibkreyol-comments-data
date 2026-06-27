@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782567013589,
+  "updatedAt": 1782567125169,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782567015035",
+      "text": "Benie soit L'eternel mon Rocher",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782567125169,
+      "updatedAt": 1782567125169,
+      "status": "active"
+    },
     {
       "id": "local-1782564605812",
       "text": "bonDieu beni nou",
@@ -315,9 +329,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 154,
-  "viewCount": 9578,
+  "likeCount": 64,
+  "shareCount": 155,
+  "viewCount": 9602,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -382,7 +396,6 @@
     "10c8b22384c704e7c4c25f0ffeddda6ad5e4003c1993a4ac6b0e2cbb93e177f7",
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "b3d04c88c217964dbe5bf13371b9fe82a7e38dcf1c2ce756bb0659711e191898",
-    "62966f646f9154c194b6ba40a4f62614854b2bb4b35a02877db93422f064a9b5",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
