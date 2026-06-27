@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782542409304,
+  "updatedAt": 1782542537150,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782542526266",
+      "text": "ki som",
+      "userDeviceId": "904f72cbfa94ca1ce996f321a03868781cc065df582e1df0f01347e62022a14e",
+      "userName": "Tayoo",
+      "verseName": "2 Timote 2:5",
+      "parentId": "local-1782532207931",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782542537150,
+      "updatedAt": 1782542537150,
+      "status": "active"
+    },
     {
       "id": "local-1782537621799",
       "text": "Amén y amén",
@@ -53,11 +67,11 @@
       "userName": "Monia",
       "verseName": "2 Timote 2:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782532240183,
-      "updatedAt": 1782532240183,
+      "updatedAt": 1782542537150,
       "status": "active"
     },
     {
@@ -147,7 +161,7 @@
   ],
   "likeCount": 19,
   "shareCount": 65,
-  "viewCount": 5229,
+  "viewCount": 5237,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
