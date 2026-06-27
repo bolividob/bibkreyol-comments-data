@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782575047376,
+  "updatedAt": 1782575165793,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782572822466",
+      "text": "amen",
+      "userDeviceId": "1f000dc7b65e9e8b2d0b4dbd6063a520f269e263a881b1dcdd933d5c526d956f",
+      "userName": "amen",
+      "verseName": "1 Samwèl 15:7",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782575165793,
+      "updatedAt": 1782575165793,
+      "status": "active"
+    },
     {
       "id": "local-1782567015035",
       "text": "Benie soit L'eternel mon Rocher",
@@ -331,7 +345,7 @@
   ],
   "likeCount": 75,
   "shareCount": 183,
-  "viewCount": 11568,
+  "viewCount": 11601,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
