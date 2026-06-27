@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782557825826,
+  "updatedAt": 1782558063819,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -145,6 +145,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "81330478a35ca3fb2afb4dcc662a956e65fa62deb78ef8fa984782f16771ab3e-1782558057581-encouragement",
+          "userDeviceId": "81330478a35ca3fb2afb4dcc662a956e65fa62deb78ef8fa984782f16771ab3e",
+          "userName": "priyè de proteksyon",
+          "text": "se pou Bondye bénie",
+          "createdAt": 1782558057581
+        },
         {
           "id": "a62547f87ad0c08eb3ccbf4b5fb5d56b9f1fa8ed31483ed294f7aabfaa69575e-1782537835005-encouragement",
           "userDeviceId": "a62547f87ad0c08eb3ccbf4b5fb5d56b9f1fa8ed31483ed294f7aabfaa69575e",
@@ -357,7 +364,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782557825020,
+      "updatedAt": 1782558062960,
       "answeredAt": null,
       "testimony": null
     },
