@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782552724868,
+  "updatedAt": 1782552853462,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782552787945",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782552853462,
+      "updatedAt": 1782552853462,
+      "status": "active"
+    },
     {
       "id": "local-1782545429786",
       "text": "Amèn",
@@ -201,9 +215,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
+  "likeCount": 29,
   "shareCount": 87,
-  "viewCount": 6094,
+  "viewCount": 6114,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -232,7 +246,8 @@
     "40ca766f8f7f265f34b38f352c606a03bfdc5675c959a4e9f1187a4bc896d880",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "ee567f1d300708a626f54df85da01e8601e53f38e7184147a78ce68fef2911ff",
-    "02137087a853f996a6d45ab13cfcba033f4929e050b84284f104e81af72cf685"
+    "02137087a853f996a6d45ab13cfcba033f4929e050b84284f104e81af72cf685",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
