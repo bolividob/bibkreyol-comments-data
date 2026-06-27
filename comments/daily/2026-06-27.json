@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782576500690,
+  "updatedAt": 1782576608685,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782530735589",
+      "text": "merci pour gras ou jezi",
+      "userDeviceId": "5fb76d929bc131b5b61ca791624cb444ac31f8bb503a6e04ca81b25f9b9bff60",
+      "userName": "MARDANNIE ENTREPRISE",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782576608684,
+      "updatedAt": 1782576608684,
+      "status": "active"
+    },
     {
       "id": "local-1782572822466",
       "text": "amen",
@@ -343,9 +357,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 78,
+  "likeCount": 79,
   "shareCount": 187,
-  "viewCount": 11992,
+  "viewCount": 12032,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -424,7 +438,8 @@
     "784873acf2076e2c4c83eb992540b2efbc1b80767281633e6aeecb8bf8d7f0fc",
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
     "2fee5f275c19e0ba34a372f21c9c03d1c7530d70719b6d899497cb02e2066163",
-    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12"
+    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+    "411b6042dd169e063a253ddaa8f91b997681efcb4a8829fe5439f2d1c87f9d03"
   ],
   "verseViewBy": []
 }
