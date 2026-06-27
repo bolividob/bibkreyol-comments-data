@@ -1,9 +1,37 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782586516297,
+  "updatedAt": 1782586629733,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782586620974",
+      "text": "merci",
+      "userDeviceId": "5b919a90615044855c5522636e40a355ac53cb4294a6eaa672b63de851455c07",
+      "userName": "angelaine",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782586629733,
+      "updatedAt": 1782586629733,
+      "status": "active"
+    },
+    {
+      "id": "local-1782586529838",
+      "text": "mw renmen jezi wi",
+      "userDeviceId": "5b919a90615044855c5522636e40a355ac53cb4294a6eaa672b63de851455c07",
+      "userName": "angelaine",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782586629732,
+      "updatedAt": 1782586629732,
+      "status": "active"
+    },
     {
       "id": "local-1782581260393",
       "text": "Mwen renmen jezi",
@@ -375,7 +403,7 @@
   ],
   "likeCount": 91,
   "shareCount": 210,
-  "viewCount": 14004,
+  "viewCount": 14026,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
