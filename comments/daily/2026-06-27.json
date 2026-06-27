@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782537612892,
+  "updatedAt": 1782537724747,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782537621799",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782537724747,
+      "updatedAt": 1782537724747,
+      "status": "active"
+    },
     {
       "id": "local-1782534956823",
       "text": "amén",
@@ -132,8 +146,8 @@
     }
   ],
   "likeCount": 17,
-  "shareCount": 57,
-  "viewCount": 4731,
+  "shareCount": 58,
+  "viewCount": 4748,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
