@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782589514223,
+  "updatedAt": 1782589631958,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782589556022",
+      "text": "Ké non BonDieu Beni",
+      "userDeviceId": "2b9131fbcd656621c33096693a4d0b1e4e530c04eeee113e1b5e4f77db7858ab",
+      "userName": "Jeancossite Sanon",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782589631958,
+      "updatedAt": 1782589631958,
+      "status": "active"
+    },
     {
       "id": "local-1782589466627",
       "text": "Amen",
@@ -532,7 +546,7 @@
   ],
   "likeCount": 98,
   "shareCount": 218,
-  "viewCount": 14552,
+  "viewCount": 14568,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
