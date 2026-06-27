@@ -1,9 +1,37 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782525506699,
+  "updatedAt": 1782525676733,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782525580463",
+      "text": "amen",
+      "userDeviceId": "4ce791c816d6a7e4dd067f9f2803e39a977b4fc797e90a10cd7b09c8baf1b872",
+      "userName": "manise",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782525676733,
+      "updatedAt": 1782525676733,
+      "status": "active"
+    },
+    {
+      "id": "local-1782525651575",
+      "text": "bondye fidel",
+      "userDeviceId": "4ce791c816d6a7e4dd067f9f2803e39a977b4fc797e90a10cd7b09c8baf1b872",
+      "userName": "manise",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782525676733,
+      "updatedAt": 1782525676733,
+      "status": "active"
+    },
     {
       "id": "local-1782524088256",
       "text": "Amèn 7 fois",
@@ -33,14 +61,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 4,
-  "shareCount": 28,
-  "viewCount": 2048,
+  "likeCount": 5,
+  "shareCount": 29,
+  "viewCount": 2136,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
     "3d87c986ab197706b0cd2f2266d72086d50133ae6c8184c267489e1e415bd4dc",
-    "064c6e5cbfc8f9e6af06be4c2eea9a3d5bceae0298860ba6b9b706a73f13b5ff"
+    "064c6e5cbfc8f9e6af06be4c2eea9a3d5bceae0298860ba6b9b706a73f13b5ff",
+    "e6839e7bf8cc1c00e668e2d85c7e6e40b1ef84bfb71541d0eb442e6303a1ea64"
   ],
   "verseViewBy": []
 }
