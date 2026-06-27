@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782566357867,
+  "updatedAt": 1782566472059,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -149,6 +149,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "d3e2862db2172102478b40e7520feddbe0bc719634c961d8d31d0450d4a6c196-1782566400420-encouragement",
+          "userDeviceId": "d3e2862db2172102478b40e7520feddbe0bc719634c961d8d31d0450d4a6c196",
+          "userName": "widoo",
+          "text": "lonje menw soumw senyé💖💓",
+          "createdAt": 1782566400420
+        },
         {
           "id": "8a062caf06c2a8b3fa9d19ef46568e451ab9e11b1553d1332bd48c25ade1691e-1782563047404-encouragement",
           "userDeviceId": "8a062caf06c2a8b3fa9d19ef46568e451ab9e11b1553d1332bd48c25ade1691e",
@@ -389,7 +396,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782566357125,
+      "updatedAt": 1782566471201,
       "answeredAt": null,
       "testimony": null
     },
