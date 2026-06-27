@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782556831917,
+  "updatedAt": 1782556937717,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782556882237",
+      "text": "Amen",
+      "userDeviceId": "dde06bcac20f54128d5eaee1b566179badb6a988b43c830b16564ba25dda1584",
+      "userName": "darleine oreste",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782556937717,
+      "updatedAt": 1782556937717,
+      "status": "active"
+    },
     {
       "id": "local-1782552787945",
       "text": "Amén",
@@ -217,7 +231,7 @@
   ],
   "likeCount": 39,
   "shareCount": 109,
-  "viewCount": 6955,
+  "viewCount": 6987,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
