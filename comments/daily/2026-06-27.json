@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782532870457,
+  "updatedAt": 1782532999709,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782532969740",
+      "text": "Amen 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782532999709,
+      "updatedAt": 1782532999709,
+      "status": "active"
+    },
     {
       "id": "local-1782532207931",
       "text": "som",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 48,
-  "viewCount": 3977,
+  "likeCount": 13,
+  "shareCount": 49,
+  "viewCount": 4043,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -117,7 +131,9 @@
     "b36b2ceaff0df4a674826192d0b0d31e39ab5a4040c8dcf8c7e9b275f26728bf",
     "d635e5a72a40b516d27b17f5bfe06998944b4ba25f0809d6e7f53dda155029c0",
     "1c26fab26e303728054f0c6f02ce65bbff78830daa02b4cf00849d77fe639ece",
-    "5ef200fd6706bf8ca17e23147ec68adc7b0274873496fec5ebbd501394b716a2"
+    "5ef200fd6706bf8ca17e23147ec68adc7b0274873496fec5ebbd501394b716a2",
+    "597861568448db6bbf9205bf55283325786b1c17100a50d402154469c3288a92",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240"
   ],
   "verseViewBy": []
 }
