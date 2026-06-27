@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782600608312,
+  "updatedAt": 1782600735812,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "2 Timote 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c89f930a3e94cb341c661b7dc3186c70f1c8fc8b02eaa193316957f67f37140c"
+      ],
       "createdAt": 1782597369319,
-      "updatedAt": 1782597369319,
+      "updatedAt": 1782600735812,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "2 Timote 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c89f930a3e94cb341c661b7dc3186c70f1c8fc8b02eaa193316957f67f37140c"
+      ],
       "createdAt": 1782592506769,
-      "updatedAt": 1782592506769,
+      "updatedAt": 1782600735812,
       "status": "active"
     },
     {
@@ -623,8 +627,8 @@
     }
   ],
   "likeCount": 114,
-  "shareCount": 256,
-  "viewCount": 17235,
+  "shareCount": 258,
+  "viewCount": 17278,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
