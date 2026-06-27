@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782581351548,
+  "updatedAt": 1782581463516,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -152,6 +152,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "37cf2f2687c70e79f3be80e2d62e33f6e7c8451b33f3fe343d7b9702ddd0da5a-1782581416971-encouragement",
+          "userDeviceId": "37cf2f2687c70e79f3be80e2d62e33f6e7c8451b33f3fe343d7b9702ddd0da5a",
+          "userName": "bebi",
+          "text": "mw vle gerizon",
+          "createdAt": 1782581416971
+        },
         {
           "id": "d3e2862db2172102478b40e7520feddbe0bc719634c961d8d31d0450d4a6c196-1782566400420-encouragement",
           "userDeviceId": "d3e2862db2172102478b40e7520feddbe0bc719634c961d8d31d0450d4a6c196",
@@ -399,7 +406,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782581349545,
+      "updatedAt": 1782581462736,
       "answeredAt": null,
       "testimony": null
     },
