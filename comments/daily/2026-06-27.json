@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782529525050,
+  "updatedAt": 1782531615548,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782531155852",
+      "text": "yes",
+      "userDeviceId": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
+      "userName": "sr sansann",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782531615548,
+      "updatedAt": 1782531615548,
+      "status": "active"
+    },
     {
       "id": "local-1782529437089",
       "text": "amen",
@@ -77,7 +91,7 @@
   ],
   "likeCount": 8,
   "shareCount": 42,
-  "viewCount": 3255,
+  "viewCount": 3345,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
