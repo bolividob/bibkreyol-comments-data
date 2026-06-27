@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782542644098,
+  "updatedAt": 1782542763513,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782542661979",
+      "text": "amen",
+      "userDeviceId": "904f72cbfa94ca1ce996f321a03868781cc065df582e1df0f01347e62022a14e",
+      "userName": "Tayoo",
+      "verseName": "2 Timote 2:5",
+      "parentId": "local-1782537621799",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782542763513,
+      "updatedAt": 1782542763513,
+      "status": "active"
+    },
     {
       "id": "local-1782542633501",
       "text": "Bonsoir comment je fais pour télécharger ce même Bible en créole en français ? perdez pas de temps répond moi tant que vous aurez lu ce commentaire déjà merci pour votre compréhension 🙃",
@@ -39,11 +53,11 @@
       "userName": "Darline Claivoyant",
       "verseName": "2 Timote 2:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782537724747,
-      "updatedAt": 1782537724747,
+      "updatedAt": 1782542763513,
       "status": "active"
     },
     {
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 19,
-  "shareCount": 65,
-  "viewCount": 5241,
+  "likeCount": 20,
+  "shareCount": 66,
+  "viewCount": 5251,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
@@ -195,7 +209,8 @@
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "bbe6ea4eb5bc0e4013b240e8dce4dd77fd6e9dd60a71eced04833e08ea819218",
     "9eeeadfeaa15b03fd1af1c985f7c8e9c4a137b2edfaab2607ba1134e6632c3ee",
-    "84d1378c68844df3b9bf9fb175e44719ddf2e02e3898c4bb6e1b4ddc47d1a20b"
+    "84d1378c68844df3b9bf9fb175e44719ddf2e02e3898c4bb6e1b4ddc47d1a20b",
+    "904f72cbfa94ca1ce996f321a03868781cc065df582e1df0f01347e62022a14e"
   ],
   "verseViewBy": []
 }
