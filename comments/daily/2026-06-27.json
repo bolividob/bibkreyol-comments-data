@@ -1,9 +1,23 @@
 {
   "date": "2026-06-27",
   "verseKey": "daily:2026-06-27",
-  "updatedAt": 1782588664523,
+  "updatedAt": 1782588786972,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782588714146",
+      "text": "amen",
+      "userDeviceId": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
+      "userName": "amen",
+      "verseName": "2 Timote 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782588786972,
+      "updatedAt": 1782588786972,
+      "status": "active"
+    },
     {
       "id": "local-1782587606423",
       "text": "merci papa souple",
@@ -260,12 +274,13 @@
       "verseName": "2 Timote 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "988a2e2742c7e035c1f5526b2ef86ee7ec93cec7027cf7a9fe98f70b8427a508"
+        "988a2e2742c7e035c1f5526b2ef86ee7ec93cec7027cf7a9fe98f70b8427a508",
+        "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d"
       ],
       "createdAt": 1782542644098,
-      "updatedAt": 1782562818484,
+      "updatedAt": 1782588786972,
       "status": "active"
     },
     {
@@ -445,7 +460,7 @@
   ],
   "likeCount": 96,
   "shareCount": 217,
-  "viewCount": 14397,
+  "viewCount": 14427,
   "verseLikedBy": [
     "dce82bba325d79f5a4a0d81d202059487358547a55b85e0ba3499f5fb76e66cd",
     "ec086fc23a15b23a93d0bc0c9a21f7c7177359fb474525157aed6b6a5fcf6ebc",
