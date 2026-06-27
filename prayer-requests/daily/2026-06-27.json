@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "updatedAt": 1782558062960,
+  "updatedAt": 1782559144251,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 35,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "demand lapriye svpl",
       "status": "praying",
-      "prayerCount": 45,
+      "prayerCount": 46,
       "prayedBy": [
         "a0bbcd878ab9d390ce4c4995298b8292e40699da89d0dd17a8f9e5d6dc2ab0df",
         "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69",
@@ -62,9 +62,14 @@
         "24578341d52d0a9a5a0ed8b5c6138169535c1f9109bec247c55ec93d957b7f12",
         "c43a208f8701129cdf529792e4bad48d7f66730976490a57ae812bf9dcbee174",
         "a62547f87ad0c08eb3ccbf4b5fb5d56b9f1fa8ed31483ed294f7aabfaa69575e",
-        "81330478a35ca3fb2afb4dcc662a956e65fa62deb78ef8fa984782f16771ab3e"
+        "81330478a35ca3fb2afb4dcc662a956e65fa62deb78ef8fa984782f16771ab3e",
+        "48df102033e356cf799f47ba56ae446110d0bf673d3eac0e146ba790dbbcb052"
       ],
       "prayingPreview": [
+        {
+          "userName": "Monique Romain",
+          "prayedAt": 1782559126458
+        },
         {
           "userName": "priyè de proteksyon",
           "prayedAt": 1782557780879
@@ -140,13 +145,16 @@
         {
           "userName": "bonjour 👋👋",
           "prayedAt": 1782456179618
-        },
-        {
-          "userName": "Fille De Dieu",
-          "prayedAt": 1782452784790
         }
       ],
       "encouragements": [
+        {
+          "id": "48df102033e356cf799f47ba56ae446110d0bf673d3eac0e146ba790dbbcb052-1782559126458-encouragement",
+          "userDeviceId": "48df102033e356cf799f47ba56ae446110d0bf673d3eac0e146ba790dbbcb052",
+          "userName": "Monique Romain",
+          "text": "Deblokaj pou papye imigrasyon mw silvouple 🙏🙏",
+          "createdAt": 1782559126458
+        },
         {
           "id": "81330478a35ca3fb2afb4dcc662a956e65fa62deb78ef8fa984782f16771ab3e-1782558057581-encouragement",
           "userDeviceId": "81330478a35ca3fb2afb4dcc662a956e65fa62deb78ef8fa984782f16771ab3e",
@@ -366,7 +374,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782558062960,
+      "updatedAt": 1782559144251,
       "answeredAt": null,
       "testimony": null
     },
