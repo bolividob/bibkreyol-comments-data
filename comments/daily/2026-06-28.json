@@ -1,9 +1,37 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782609908055,
+  "updatedAt": 1782611000168,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782610778073",
+      "text": "🥰🥰🥰🥰🥰🥰🥰",
+      "userDeviceId": "36a0dce4dcd8397491614c7bbd627b310e5fc34877dac62e576e26ec233c970c",
+      "userName": "cia  kreyòl",
+      "verseName": "Malaki 2:2",
+      "parentId": "local-1782605344411",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782611000168,
+      "updatedAt": 1782611000168,
+      "status": "active"
+    },
+    {
+      "id": "local-1782610805244",
+      "text": "Amène  Amène Amène",
+      "userDeviceId": "36a0dce4dcd8397491614c7bbd627b310e5fc34877dac62e576e26ec233c970c",
+      "userName": "cia  kreyòl",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782611000168,
+      "updatedAt": 1782611000168,
+      "status": "active"
+    },
     {
       "id": "local-1782605344411",
       "text": "amén amén amén 🙏",
@@ -11,11 +39,11 @@
       "userName": "carline",
       "verseName": "Malaki 2:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782605466348,
-      "updatedAt": 1782605466348,
+      "updatedAt": 1782611000168,
       "status": "active"
     },
     {
@@ -33,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
+  "likeCount": 12,
   "shareCount": 16,
-  "viewCount": 1566,
+  "viewCount": 1655,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -46,7 +74,9 @@
     "0937a6f7e7c9d58d7d01c8caa57aad9028095ad3072c1f4acc23fa6077465345",
     "4763b1f6f999406500b82fc4f85ddef6129b90f00267a1ba83bf0a732cee7766",
     "2b1041ff5cdc61d6617957b8eb836891a1b20d7afa7aebad8655dc2e416d92eb",
-    "723a65801b9000c4e556078b380d397866b5680988da3ed2cd3e530f643f0dc2"
+    "723a65801b9000c4e556078b380d397866b5680988da3ed2cd3e530f643f0dc2",
+    "db39eaa45da3e22b9ca53dc87c4ed7de4f58d9fa5d97d6431c0ab9c8312251d6",
+    "c696c98f8a671e29e9993f575aae98e70fe8b26b529065ed9ba7c5dea91d67ec"
   ],
   "verseViewBy": []
 }
