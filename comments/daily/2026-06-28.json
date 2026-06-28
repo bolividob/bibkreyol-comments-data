@@ -1,9 +1,25 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782647012173,
+  "updatedAt": 1782647431605,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782647253914",
+      "text": "Amen Gloire à Dieu",
+      "userDeviceId": "717855c42684ba8bb222e48150cef3e42df25c2e1eef819e999e2982e1218269",
+      "userName": "Manou06",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "717855c42684ba8bb222e48150cef3e42df25c2e1eef819e999e2982e1218269"
+      ],
+      "createdAt": 1782647431605,
+      "updatedAt": 1782647431605,
+      "status": "active"
+    },
     {
       "id": "local-1782645493671",
       "text": "🤩🤩",
@@ -54,10 +70,12 @@
       "verseName": "Malaki 2:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "717855c42684ba8bb222e48150cef3e42df25c2e1eef819e999e2982e1218269"
+      ],
       "createdAt": 1782644285561,
-      "updatedAt": 1782644285561,
+      "updatedAt": 1782647431605,
       "status": "active"
     },
     {
@@ -68,10 +86,12 @@
       "verseName": "Malaki 2:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "717855c42684ba8bb222e48150cef3e42df25c2e1eef819e999e2982e1218269"
+      ],
       "createdAt": 1782639665959,
-      "updatedAt": 1782639665959,
+      "updatedAt": 1782647431605,
       "status": "active"
     },
     {
@@ -245,9 +265,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 119,
-  "viewCount": 7979,
+  "likeCount": 69,
+  "shareCount": 121,
+  "viewCount": 8244,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -316,7 +336,8 @@
     "10c8b22384c704e7c4c25f0ffeddda6ad5e4003c1993a4ac6b0e2cbb93e177f7",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "8330131b5fd2c6bb1e01fe24df9ff8eec78920347e65b4fcae007ab1a8853004",
-    "b4cfc8d8c7002f69ae9530fb271fc8dbadee4489589a9e26b8d30e76995c2032"
+    "b4cfc8d8c7002f69ae9530fb271fc8dbadee4489589a9e26b8d30e76995c2032",
+    "64e1642c10b5f49f1c2d8f4e6ed260fda2ba512c78ce271c7078dada569569f4"
   ],
   "verseViewBy": []
 }
