@@ -1,9 +1,23 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782665518793,
+  "updatedAt": 1782668744706,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782665659283",
+      "text": "merci",
+      "userDeviceId": "74c005c4d6a79d2ad825f9d6d13ceec1fc26ba7938c303fe748a5db38f0aea7c",
+      "userName": "fabi",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782668744706,
+      "updatedAt": 1782668744706,
+      "status": "active"
+    },
     {
       "id": "local-1782621486779",
       "text": "Amen Amen 🙏 🙌",
@@ -349,9 +363,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 86,
-  "shareCount": 207,
-  "viewCount": 12635,
+  "likeCount": 88,
+  "shareCount": 216,
+  "viewCount": 13615,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -438,7 +452,9 @@
     "33c1e477799fa5193440f55c5e890b79c2bf858e308b287868ee66c78217c1cd",
     "3a3e5831d7f7d3956b8dcb1cac5f060ca9c3ab793c73669eea02efa54f40ac88",
     "0c7db95c2b6d3aaaa638090d7932924c945d5ada71d173f3e22bd1f3c8cfaeba",
-    "03de24a6e5590bbc7620818fc3a510222c375c52b94857dcf6d36c9bd6dacdfa"
+    "03de24a6e5590bbc7620818fc3a510222c375c52b94857dcf6d36c9bd6dacdfa",
+    "9a2fc1aaecaef1bba00ffeda3ef455279ceac9d28f43b94d9500e0fb2b6c144d",
+    "43985aeb156052807e90e3ca770e1545660e937b378684102bd4dd279410a551"
   ],
   "verseViewBy": []
 }
