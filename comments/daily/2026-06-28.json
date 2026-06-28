@@ -1,9 +1,37 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782679538864,
+  "updatedAt": 1782683143877,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782679573709",
+      "text": "amén",
+      "userDeviceId": "b1d1b53e57b471f687e5829720f3eadb08f6512b69316387a7346a61ac7b10b8",
+      "userName": "amén amén",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782683143877,
+      "updatedAt": 1782683143877,
+      "status": "active"
+    },
+    {
+      "id": "local-1782657153967",
+      "text": "felisitasyon pou bon Travay sa a, se pou Bondye beni nou pandan n'ap kontinye travay pou avansman wayòm Li an!",
+      "userDeviceId": "d228dc8eb2a7960445614f986d4113bc26ab84fa0f80ba02d8c484cd6c3fa7ce",
+      "userName": "Estinfil Albert",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782683143877,
+      "updatedAt": 1782683143877,
+      "status": "active"
+    },
     {
       "id": "local-1782675846116",
       "text": "amen",
@@ -12,10 +40,12 @@
       "verseName": "Malaki 2:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "b1d1b53e57b471f687e5829720f3eadb08f6512b69316387a7346a61ac7b10b8"
+      ],
       "createdAt": 1782679538863,
-      "updatedAt": 1782679538863,
+      "updatedAt": 1782683143877,
       "status": "active"
     },
     {
@@ -391,9 +421,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
-  "shareCount": 265,
-  "viewCount": 18436,
+  "likeCount": 96,
+  "shareCount": 275,
+  "viewCount": 19415,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -487,7 +517,10 @@
     "3e1630faa4bf044cef083c5c28f027987172234cd165424f4ede11aacb4211f5",
     "55c70b55262cbf81c32597d2ff1a8f6ce6d1a5a78f0807601fb3559f19f5cfda",
     "02e89e7f931448456c0dc4421d1ed473216589e9ee2cfe3239eff359ea2d9e6e",
-    "be3f08edb3f78d39c1be95630e0b60ccdbbb010f25bf1572d407d408ad57ee7b"
+    "be3f08edb3f78d39c1be95630e0b60ccdbbb010f25bf1572d407d408ad57ee7b",
+    "aa30b76f517ce201b740b7087e071a209cf9bfce487a39a3b327395f3bb544db",
+    "44515f7162cca45f35200c7c5cd09c1e76d922026b0de1417da81554e73c45ae",
+    "ba8c038fe7d06d462dad698f39c591d7bec7b3cedfbeafb5d1fa3ac6e118e46e"
   ],
   "verseViewBy": []
 }
