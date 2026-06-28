@@ -1,9 +1,23 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782619937357,
+  "updatedAt": 1782621852414,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782621759132",
+      "text": "amén amén amen",
+      "userDeviceId": "7298dfc0b5430988009a6988a78600784bdb3efc8c9c53414ecf1c37182c1c07",
+      "userName": "wesner",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782621852414,
+      "updatedAt": 1782621852414,
+      "status": "active"
+    },
     {
       "id": "local-1782613323273",
       "text": "Dieu  pour moi",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
+  "likeCount": 32,
   "shareCount": 45,
-  "viewCount": 4343,
+  "viewCount": 4415,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -137,7 +151,8 @@
     "e89d05f4a3afce6751e8b7db874fd0fc1af2e51e8012a978395360e58f3c01f0",
     "0e3feabf8e2f312bf659f6ed48a34154f8ff01ca5449f07ff7225fb899ec94c3",
     "03df3e02a661820c0cd4a5029eef118a1867e13cc07a091bf9e9b6e970102a67",
-    "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81"
+    "254c50c690c35efa0d59712216f6ecd13b201144198f6376734d474a08a35c81",
+    "b174922831ad48118f98404621f0cf25ba9ebb53da7565d6bb91109351eb90f9"
   ],
   "verseViewBy": []
 }
