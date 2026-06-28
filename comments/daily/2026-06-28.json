@@ -1,9 +1,37 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782612614793,
+  "updatedAt": 1782612730966,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782612710686",
+      "text": "mwen rin minjezi",
+      "userDeviceId": "8d1c5bd98b38d14095f4b29079dea5e0079502ac0d8ab3e856f5d868cb7b2c50",
+      "userName": "letwa",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782612730966,
+      "updatedAt": 1782612730966,
+      "status": "active"
+    },
+    {
+      "id": "local-1782612628004",
+      "text": "kisabib laye",
+      "userDeviceId": "8d1c5bd98b38d14095f4b29079dea5e0079502ac0d8ab3e856f5d868cb7b2c50",
+      "userName": "letwa",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782612730965,
+      "updatedAt": 1782612730965,
+      "status": "active"
+    },
     {
       "id": "local-1782610778073",
       "text": "🥰🥰🥰🥰🥰🥰🥰",
@@ -63,7 +91,7 @@
   ],
   "likeCount": 16,
   "shareCount": 24,
-  "viewCount": 2351,
+  "viewCount": 2406,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
