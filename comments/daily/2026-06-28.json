@@ -1,9 +1,23 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782675943352,
+  "updatedAt": 1782679538864,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782675846116",
+      "text": "amen",
+      "userDeviceId": "79164d01c3a814d0d4162c41900b38f710ae2eb0af5319abca0d9e76f753a829",
+      "userName": "bib",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782679538863,
+      "updatedAt": 1782679538863,
+      "status": "active"
+    },
     {
       "id": "local-1782668645176",
       "text": "amèn",
@@ -377,9 +391,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 258,
-  "viewCount": 17451,
+  "likeCount": 93,
+  "shareCount": 265,
+  "viewCount": 18436,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -472,7 +486,8 @@
     "2ac6419554b5694a8cdf2d0bf41b5bfbe0abd0c338daaa356903f2152233bace",
     "3e1630faa4bf044cef083c5c28f027987172234cd165424f4ede11aacb4211f5",
     "55c70b55262cbf81c32597d2ff1a8f6ce6d1a5a78f0807601fb3559f19f5cfda",
-    "02e89e7f931448456c0dc4421d1ed473216589e9ee2cfe3239eff359ea2d9e6e"
+    "02e89e7f931448456c0dc4421d1ed473216589e9ee2cfe3239eff359ea2d9e6e",
+    "be3f08edb3f78d39c1be95630e0b60ccdbbb010f25bf1572d407d408ad57ee7b"
   ],
   "verseViewBy": []
 }
