@@ -1,9 +1,23 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782687097541,
+  "updatedAt": 1782690337290,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782690067319",
+      "text": "raphael meselene",
+      "userDeviceId": "9bb632ddfab0a0a5481c8d9eb31b2dc89fbb7b58e444240d2f35f5c42ccd97f0",
+      "userName": "raphael meselene",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782690337290,
+      "updatedAt": 1782690337290,
+      "status": "active"
+    },
     {
       "id": "local-1782684493645",
       "text": "travay pou bondye",
@@ -436,8 +450,8 @@
     }
   ],
   "likeCount": 100,
-  "shareCount": 283,
-  "viewCount": 20397,
+  "shareCount": 290,
+  "viewCount": 21382,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
