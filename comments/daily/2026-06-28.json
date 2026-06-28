@@ -1,9 +1,51 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782645377034,
+  "updatedAt": 1782647012173,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782645493671",
+      "text": "🤩🤩",
+      "userDeviceId": "89eeda48f68c08f4ecccb50a8821d477b618a71a191272cbfa08c075a3476828",
+      "userName": "P l d",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782647012173,
+      "updatedAt": 1782647012173,
+      "status": "active"
+    },
+    {
+      "id": "local-1782645512187",
+      "text": "Paprese",
+      "userDeviceId": "89eeda48f68c08f4ecccb50a8821d477b618a71a191272cbfa08c075a3476828",
+      "userName": "P l d",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782647012173,
+      "updatedAt": 1782647012173,
+      "status": "active"
+    },
+    {
+      "id": "local-1782645461154",
+      "text": "P l d",
+      "userDeviceId": "89eeda48f68c08f4ecccb50a8821d477b618a71a191272cbfa08c075a3476828",
+      "userName": "P l d",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782647012172,
+      "updatedAt": 1782647012172,
+      "status": "active"
+    },
     {
       "id": "local-1782644233985",
       "text": "Beniswa Letènèl",
@@ -203,9 +245,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 66,
-  "shareCount": 115,
-  "viewCount": 7716,
+  "likeCount": 68,
+  "shareCount": 119,
+  "viewCount": 7979,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -272,7 +314,9 @@
     "e24d2fcf596b61df1033539519b007d7685733afd7a22d02ae3046fd86bffd8a",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "10c8b22384c704e7c4c25f0ffeddda6ad5e4003c1993a4ac6b0e2cbb93e177f7",
-    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969"
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
+    "8330131b5fd2c6bb1e01fe24df9ff8eec78920347e65b4fcae007ab1a8853004",
+    "b4cfc8d8c7002f69ae9530fb271fc8dbadee4489589a9e26b8d30e76995c2032"
   ],
   "verseViewBy": []
 }
