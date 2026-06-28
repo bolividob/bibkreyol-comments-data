@@ -1,9 +1,23 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782654396973,
+  "updatedAt": 1782661610318,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782654376947",
+      "text": "Amen 🙏🙏",
+      "userDeviceId": "3b152a9766104d378ca8e11a59d1742000a8f451b4d870e2cd161744df1d546a",
+      "userName": "Daphna",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782661610316,
+      "updatedAt": 1782661610316,
+      "status": "active"
+    },
     {
       "id": "local-1782652429702",
       "text": "tou jou mete la fwa ou disponib tan kou yon telefon ki tou jou gen chaj pou ka jwenn sa wap chache soeur a jaccin",
@@ -321,9 +335,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 78,
-  "shareCount": 145,
-  "viewCount": 9742,
+  "likeCount": 84,
+  "shareCount": 160,
+  "viewCount": 10716,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -402,7 +416,13 @@
     "84079fd512db783aa1a4cb0786181a237b8346164ea88423ebe3488627015a1d",
     "5f0df4cfc67185c941fbec9d8497707fefc3e11894c16d1ab832a8af29cfe539",
     "3da44b88852497846fcac7b60505c680f7afacafef81368c2ecacd9704fbb3f6",
-    "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c"
+    "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
+    "3b152a9766104d378ca8e11a59d1742000a8f451b4d870e2cd161744df1d546a",
+    "113c7316f4d2f59bcc291ec77909e19c277538776748068391f2687c8b71cd85",
+    "3ef5b1bbe18084cbe7b997f4d8be882b0b6395b9ffb5e3924762a95f53c9ee72",
+    "5687024ba45099c7c8def1075e121a60747d3e5bdbc42e7ef49a4c1d65ba300b",
+    "33c1e477799fa5193440f55c5e890b79c2bf858e308b287868ee66c78217c1cd",
+    "3a3e5831d7f7d3956b8dcb1cac5f060ca9c3ab793c73669eea02efa54f40ac88"
   ],
   "verseViewBy": []
 }
