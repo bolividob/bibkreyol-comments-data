@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": 1782694143065,
+  "updatedAt": 1782697517088,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 36,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "Mwen bezwen èd Nou finansyèman frèm ak sèm yo,Numéro moncash 36387231,Mwen pran twòp imilyasyon",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "4e1f6da57fd371b4ac77f54290cd4420e27e923591d8b3c0e1021dfa7c2e7ee3"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Jesús fanmi sr hercilienne nan  menm u🪽",
+          "prayedAt": 1782697442075
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1782693821884,
-      "updatedAt": 1782693905980,
+      "updatedAt": 1782697517088,
       "answeredAt": null,
       "testimony": null
     },
