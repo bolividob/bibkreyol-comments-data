@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782734711699,
+  "updatedAt": 1782734838911,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782734770813",
+      "text": "amén 🙌.",
+      "userDeviceId": "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7",
+      "userName": "Romere Milien",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782734838911,
+      "updatedAt": 1782734838911,
+      "status": "active"
+    },
     {
       "id": "local-1782729611536",
       "text": "Amén",
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
-  "shareCount": 108,
-  "viewCount": 6183,
+  "likeCount": 46,
+  "shareCount": 109,
+  "viewCount": 6212,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
@@ -221,7 +235,8 @@
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
     "70379b1e76da9dba60c46b15d8c94f741e19c0af019b611be907ca443c3c7af4",
     "d759033ff3bace6cae22c52f7849079ac975a414fa4aae616a4dd6bc6aa417fd",
-    "76ee69aa8e877166c329a94040586b65ab46e43c8c195761c367d90d9e66d2d6"
+    "76ee69aa8e877166c329a94040586b65ab46e43c8c195761c367d90d9e66d2d6",
+    "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7"
   ],
   "verseViewBy": []
 }
