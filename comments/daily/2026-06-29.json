@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782717604820,
+  "updatedAt": 1782717722977,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782694894999",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782717722977,
+      "updatedAt": 1782717722977,
+      "status": "active"
+    },
     {
       "id": "local-1782693076483",
       "text": "Bondye beni Nou",
@@ -105,7 +119,7 @@
   ],
   "likeCount": 13,
   "shareCount": 34,
-  "viewCount": 3087,
+  "viewCount": 3094,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
