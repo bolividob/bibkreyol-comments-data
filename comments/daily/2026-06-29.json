@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782708191020,
+  "updatedAt": 1782708364866,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782693076483",
+      "text": "Bondye beni Nou",
+      "userDeviceId": "440b4504b6ed1299948fb349f50139b5f43d5dc46aebd4b8327a0c5d3c96c63f",
+      "userName": "sr Sendina Amilca",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782708364866,
+      "updatedAt": 1782708364866,
+      "status": "active"
+    },
     {
       "id": "local-1782707876905",
       "text": "Sim byen konprann li pou usa pou epok kap vini si nou pa wèl pitit a pitit nou ap wèl Nerlande",
@@ -91,7 +105,7 @@
   ],
   "likeCount": 9,
   "shareCount": 28,
-  "viewCount": 2581,
+  "viewCount": 2611,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
