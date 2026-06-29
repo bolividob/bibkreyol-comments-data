@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782744904924,
+  "updatedAt": 1782745144357,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -704,6 +704,13 @@
       ],
       "encouragements": [
         {
+          "id": "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31-1782745087242-encouragement",
+          "userDeviceId": "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31",
+          "userName": "amen Rosie",
+          "text": "Ke lapè ak favè syèl la kouvri nou, mwen ankouraje nou Rete lakay Bondye, pa kite anyen de tounen nou nan travay nap fè pou mèt la...",
+          "createdAt": 1782745087242
+        },
+        {
           "id": "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31-1782744857653-encouragement",
           "userDeviceId": "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31",
           "userName": "amen Rosie",
@@ -866,7 +873,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782744903717,
+      "updatedAt": 1782745143450,
       "answeredAt": null,
       "testimony": null
     },
