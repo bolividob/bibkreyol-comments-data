@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782729499786,
+  "updatedAt": 1782729621698,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782729611536",
+      "text": "Amén",
+      "userDeviceId": "91216256023d9847eda45d0638efd6b9bd5cbb837faa93093829f99bcfce8162",
+      "userName": "Guilena ✌️😜",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782729621698,
+      "updatedAt": 1782729621698,
+      "status": "active"
+    },
     {
       "id": "local-1782726082141",
       "text": "Amém 🙏🙏",
@@ -160,8 +174,8 @@
     }
   ],
   "likeCount": 31,
-  "shareCount": 78,
-  "viewCount": 4795,
+  "shareCount": 79,
+  "viewCount": 4822,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
