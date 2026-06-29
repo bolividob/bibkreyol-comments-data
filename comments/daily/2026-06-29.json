@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782701481718,
+  "updatedAt": 1782701904611,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782701856929",
+      "text": "Kote nou jodi a",
+      "userDeviceId": "465f224dc048d57e1c90312a2cc02a5b0cb62ee6a997da38c8f7691bbc2a827c",
+      "userName": "Bok",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782701904610,
+      "updatedAt": 1782701904610,
+      "status": "active"
+    },
     {
       "id": "local-1782697303283",
       "text": "a chaque",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
-  "shareCount": 16,
-  "viewCount": 1658,
+  "likeCount": 9,
+  "shareCount": 19,
+  "viewCount": 1853,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
@@ -44,7 +58,8 @@
     "836ef4f5ca44fa648b7560ccf966ff547cdd832f4e38bedc8ba5d27f3dc156f9",
     "c1a32ec5b2756b8dfbb17a056bb6de8ab869ef32c7561182d5981ac874820a6b",
     "6daf32c591b6d65c844360fc77faaff465157375a9b4f587d66a11e48f6bb909",
-    "8d29d121982b424da31e844f0aaddd8937fb42e889abdc2222de6c9fb6d6edf4"
+    "8d29d121982b424da31e844f0aaddd8937fb42e889abdc2222de6c9fb6d6edf4",
+    "465f224dc048d57e1c90312a2cc02a5b0cb62ee6a997da38c8f7691bbc2a827c"
   ],
   "verseViewBy": []
 }
