@@ -1,9 +1,37 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782772686647,
+  "updatedAt": 1782773181192,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782773141303",
+      "text": "amén amén amen 🙏🙏🙏",
+      "userDeviceId": "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+      "userName": "philandine",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782773181192,
+      "updatedAt": 1782773181192,
+      "status": "active"
+    },
+    {
+      "id": "local-1782773124147",
+      "text": "slt",
+      "userDeviceId": "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+      "userName": "philandine",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": "local-1782771629756",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782773181191,
+      "updatedAt": 1782773181191,
+      "status": "active"
+    },
     {
       "id": "local-1782771629756",
       "text": "Amén amén amén amén amén Alléluia 🙏",
@@ -11,11 +39,11 @@
       "userName": "Ruth",
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1782771811498,
-      "updatedAt": 1782771811498,
+      "updatedAt": 1782773181191,
       "status": "active"
     },
     {
@@ -365,8 +393,8 @@
     }
   ],
   "likeCount": 106,
-  "shareCount": 204,
-  "viewCount": 14080,
+  "shareCount": 207,
+  "viewCount": 14220,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
