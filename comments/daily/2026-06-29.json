@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782741929942,
+  "updatedAt": 1782742038243,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782741963905",
+      "text": "amén amén amén amén amén amén amén amén amén amén amén",
+      "userDeviceId": "daac6c11a39f8eaeb89270c8f9a6308bbdc94f6c37d5d4680492d88334c57fbb",
+      "userName": "samhta",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782742038243,
+      "updatedAt": 1782742038243,
+      "status": "active"
+    },
     {
       "id": "local-1782738685722",
       "text": "mw bezwen bib kreyole",
@@ -277,9 +291,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 61,
+  "likeCount": 62,
   "shareCount": 141,
-  "viewCount": 7745,
+  "viewCount": 7769,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
@@ -341,7 +355,8 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "b2dbdfcd7e64564bd9c26372b1aa5608526cf03e9b319da7d7183ae5b1624353",
     "5f567149d04a32048bc7fe228bc1082543b8feefa240ccb0a78a22b685fe53db",
-    "632d865a7291829b578cf4bf9c24165fcb8835ce6c2e41af1d4b88764375d3d8"
+    "632d865a7291829b578cf4bf9c24165fcb8835ce6c2e41af1d4b88764375d3d8",
+    "daac6c11a39f8eaeb89270c8f9a6308bbdc94f6c37d5d4680492d88334c57fbb"
   ],
   "verseViewBy": []
 }
