@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": 1782770223931,
+  "updatedAt": 1782770351261,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 36,
@@ -53,6 +53,13 @@
       ],
       "encouragements": [
         {
+          "id": "877d7ff4ef2509781c85bb777e9dce85c0fd81a39aa0f520217aaa69844cc27e-1782770227143-encouragement",
+          "userDeviceId": "877d7ff4ef2509781c85bb777e9dce85c0fd81a39aa0f520217aaa69844cc27e",
+          "userName": "livie",
+          "text": "ke bndyn bnw",
+          "createdAt": 1782770227143
+        },
+        {
           "id": "877d7ff4ef2509781c85bb777e9dce85c0fd81a39aa0f520217aaa69844cc27e-1782770198308-encouragement",
           "userDeviceId": "877d7ff4ef2509781c85bb777e9dce85c0fd81a39aa0f520217aaa69844cc27e",
           "userName": "livie",
@@ -75,7 +82,7 @@
         }
       ],
       "submittedAt": 1782693821884,
-      "updatedAt": 1782770223931,
+      "updatedAt": 1782770351261,
       "answeredAt": null,
       "testimony": null
     },
