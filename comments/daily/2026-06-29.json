@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782747307700,
+  "updatedAt": 1782747949540,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782747508299",
+      "text": "morco2veso13",
+      "userDeviceId": "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+      "userName": "nenena",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": "local-1782697303283",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782747949540,
+      "updatedAt": 1782747949540,
+      "status": "active"
+    },
     {
       "id": "local-1782741963905",
       "text": "amén amén amén amén amén amén amén amén amén amén amén",
@@ -12,10 +26,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+      ],
       "createdAt": 1782742038243,
-      "updatedAt": 1782742038243,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -26,10 +42,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+      ],
       "createdAt": 1782738914697,
-      "updatedAt": 1782738914697,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -40,12 +58,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782738914697,
-      "updatedAt": 1782738914697,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -56,12 +75,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "9166a9431ad1be603bce8b1857e1a91ba0f40c2217fc3084146b8b45bab16ae8"
+        "9166a9431ad1be603bce8b1857e1a91ba0f40c2217fc3084146b8b45bab16ae8",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782738914697,
-      "updatedAt": 1782740357793,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -86,10 +106,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+      ],
       "createdAt": 1782735189764,
-      "updatedAt": 1782738665545,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -100,10 +122,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+      ],
       "createdAt": 1782734838911,
-      "updatedAt": 1782734838911,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -130,10 +154,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+      ],
       "createdAt": 1782726248424,
-      "updatedAt": 1782726248424,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -144,12 +170,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782725765973,
-      "updatedAt": 1782738549923,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -160,12 +187,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782722538847,
-      "updatedAt": 1782738549924,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -176,10 +204,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+      ],
       "createdAt": 1782717722977,
-      "updatedAt": 1782717722977,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -190,12 +220,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782708364866,
-      "updatedAt": 1782738549924,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -220,12 +251,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782708191020,
-      "updatedAt": 1782738549924,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -236,10 +268,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+      ],
       "createdAt": 1782704958913,
-      "updatedAt": 1782708191020,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -250,12 +284,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782701904610,
-      "updatedAt": 1782738549924,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -265,13 +300,14 @@
       "userName": "t Ok",
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 1,
+      "replyCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
       ],
       "createdAt": 1782697542570,
-      "updatedAt": 1782738549924,
+      "updatedAt": 1782747949540,
       "status": "active"
     },
     {
@@ -291,9 +327,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 154,
-  "viewCount": 8940,
+  "likeCount": 69,
+  "shareCount": 155,
+  "viewCount": 9091,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
@@ -361,7 +397,9 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2f4406a97fea447bc85bdd230856af79939397aa5df6ad3d97bfe97be759e420",
     "ac83719d70628b6e37ee00f0458d8a0250543ad99e5afe2f1e58f736c33620be",
-    "8a7b2e2fe18147f315c6fef45624892e290fc52e54e01562b0ba6484c63d68f5"
+    "8a7b2e2fe18147f315c6fef45624892e290fc52e54e01562b0ba6484c63d68f5",
+    "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+    "21ed769f3f3c903f25cec3101179d75c614c30714db2efbb56b17b70bd58c9b7"
   ],
   "verseViewBy": []
 }
