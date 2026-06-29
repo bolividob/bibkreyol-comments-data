@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782735065399,
+  "updatedAt": 1782735189764,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782705545543",
+      "text": "Amen 🙏 🙏 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782735189764,
+      "updatedAt": 1782735189764,
+      "status": "active"
+    },
     {
       "id": "local-1782734770813",
       "text": "amén 🙌.",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 112,
-  "viewCount": 6268,
+  "likeCount": 48,
+  "shareCount": 113,
+  "viewCount": 6297,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
@@ -237,7 +251,8 @@
     "d759033ff3bace6cae22c52f7849079ac975a414fa4aae616a4dd6bc6aa417fd",
     "76ee69aa8e877166c329a94040586b65ab46e43c8c195761c367d90d9e66d2d6",
     "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7",
-    "95303ee90f235d2f2a1d315937ee9196f2795bc07a27e5a331c77e6a972c8de0"
+    "95303ee90f235d2f2a1d315937ee9196f2795bc07a27e5a331c77e6a972c8de0",
+    "c1a18df70087c324ff170f65e1a5b8abaf04f6b81c5b285a7ec8435922a3fa88"
   ],
   "verseViewBy": []
 }
