@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782774494317,
+  "updatedAt": 1782774798612,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782733223844",
+      "text": "amen 🙏🙏🙏",
+      "userDeviceId": "b654c430ec217398c2585c0ea8b9c7c9cf202d865cdcc4992192b520ab31b94b",
+      "userName": "Dayana",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782774798612,
+      "updatedAt": 1782774798612,
+      "status": "active"
+    },
     {
       "id": "local-1782773691523",
       "text": "vèsè sa se pou Haïti ki vin tankou esklav devan tout nasyon sou latè",
@@ -12,10 +26,12 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "9c8d501325ddb48a75d69ba3fe9e34a5ff80971b455935aea01d8b94302cec6d"
+      ],
       "createdAt": 1782774030978,
-      "updatedAt": 1782774030978,
+      "updatedAt": 1782774798612,
       "status": "active"
     },
     {
@@ -408,9 +424,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 109,
-  "shareCount": 218,
-  "viewCount": 14671,
+  "likeCount": 110,
+  "shareCount": 220,
+  "viewCount": 14776,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
@@ -520,7 +536,8 @@
     "e08eaf5bd0c55f69463f57b0aea79c0868a0295a171c7e7417af7889aa419c9f",
     "ce644ddb8890a561f11d0539db2410507f6cb58f8100026e97bb73fbe2716b00",
     "e59e124d7d207b9235c200db6450c129302b1e9b2144add568545319259d162a",
-    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb"
+    "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
+    "4a81c44942c8c31481fec8a06ef5e6b8b57f5d04494da62ce967e08607b373ee"
   ],
   "verseViewBy": []
 }
