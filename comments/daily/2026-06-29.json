@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782773181192,
+  "updatedAt": 1782773601587,
   "version": 1,
   "comments": [
     {
@@ -349,13 +349,14 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
-        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
       ],
       "createdAt": 1782701904610,
-      "updatedAt": 1782747949540,
+      "updatedAt": 1782773601585,
       "status": "active"
     },
     {
@@ -366,13 +367,14 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
-        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
       ],
       "createdAt": 1782697542570,
-      "updatedAt": 1782747949540,
+      "updatedAt": 1782773601585,
       "status": "active"
     },
     {
@@ -392,9 +394,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 106,
-  "shareCount": 207,
-  "viewCount": 14220,
+  "likeCount": 108,
+  "shareCount": 213,
+  "viewCount": 14361,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
@@ -501,7 +503,9 @@
     "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "bdf6db08fd70d5c5a69f10b04fc2952c50e20fa6c39f1db20ed8be35602b3958",
-    "e08eaf5bd0c55f69463f57b0aea79c0868a0295a171c7e7417af7889aa419c9f"
+    "e08eaf5bd0c55f69463f57b0aea79c0868a0295a171c7e7417af7889aa419c9f",
+    "ce644ddb8890a561f11d0539db2410507f6cb58f8100026e97bb73fbe2716b00",
+    "e59e124d7d207b9235c200db6450c129302b1e9b2144add568545319259d162a"
   ],
   "verseViewBy": []
 }
