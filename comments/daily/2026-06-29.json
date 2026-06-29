@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782704788408,
+  "updatedAt": 1782704958913,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782704867891",
+      "text": "mw ta renmen konprann  parabol sa",
+      "userDeviceId": "7126671abcd7b2fb81b304db17109e3242934552d3368d288520d6e5200d1f38",
+      "userName": "Nerlande",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782704958913,
+      "updatedAt": 1782704958913,
+      "status": "active"
+    },
     {
       "id": "local-1782701856929",
       "text": "Kote nou jodi a",
@@ -48,8 +62,8 @@
     }
   ],
   "likeCount": 9,
-  "shareCount": 24,
-  "viewCount": 2279,
+  "shareCount": 25,
+  "viewCount": 2410,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
