@@ -1,9 +1,53 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782738665545,
+  "updatedAt": 1782738914697,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782738685722",
+      "text": "mw bezwen bib kreyole",
+      "userDeviceId": "e84c14869d05698dde889835788e8080ed60594a5add60fc48df73acc5e5533c",
+      "userName": "bible kreyol",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782738914697,
+      "updatedAt": 1782738914697,
+      "status": "active"
+    },
+    {
+      "id": "local-1782738720685",
+      "text": "🇺🇾 0 avec 1🇪🇸",
+      "userDeviceId": "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+      "userName": "Bonjour",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
+      "createdAt": 1782738914697,
+      "updatedAt": 1782738914697,
+      "status": "active"
+    },
+    {
+      "id": "local-1782738797146",
+      "text": "Efezyen 10:10 a12",
+      "userDeviceId": "e84c14869d05698dde889835788e8080ed60594a5add60fc48df73acc5e5533c",
+      "userName": "bible kreyol",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782738914697,
+      "updatedAt": 1782738914697,
+      "status": "active"
+    },
     {
       "id": "local-1782738598865",
       "text": ", ok 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭🇹",
@@ -233,7 +277,7 @@
   ],
   "likeCount": 54,
   "shareCount": 128,
-  "viewCount": 7031,
+  "viewCount": 7089,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
