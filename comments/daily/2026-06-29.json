@@ -1,9 +1,23 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782726013581,
+  "updatedAt": 1782726248424,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782726082141",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782726248424,
+      "updatedAt": 1782726248424,
+      "status": "active"
+    },
     {
       "id": "local-1782725709799",
       "text": "Amén",
@@ -146,8 +160,8 @@
     }
   ],
   "likeCount": 21,
-  "shareCount": 49,
-  "viewCount": 3959,
+  "shareCount": 51,
+  "viewCount": 4004,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
