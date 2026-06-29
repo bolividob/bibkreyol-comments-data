@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782743715359,
+  "updatedAt": 1782744904924,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -588,7 +588,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 28,
+      "prayerCount": 29,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -617,9 +617,14 @@
         "3ce4597b2b72cfe63891ea544bf6a10f8848d6418b4b6b7e989af98f0c068a93",
         "b047b48457263be71219460f1fb3552d0072723cf0436433ab3f213595d74956",
         "bb79b4f5c3076847b8ecf237305f56835c0db9955391cd0eddb55321a990e92a",
-        "4f0ac1c9aa42aaa3155926668529e87cf0eb2bc2b4ceaad9fca6d9b964438da8"
+        "4f0ac1c9aa42aaa3155926668529e87cf0eb2bc2b4ceaad9fca6d9b964438da8",
+        "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31"
       ],
       "prayingPreview": [
+        {
+          "userName": "amen Rosie",
+          "prayedAt": 1782744857653
+        },
         {
           "userName": "bib",
           "prayedAt": 1782525037770
@@ -695,13 +700,16 @@
         {
           "userName": "bib kreyol",
           "prayedAt": 1782262238636
-        },
-        {
-          "userName": "edem priye poum tounè nanplas mwen merci",
-          "prayedAt": 1782257790199
         }
       ],
       "encouragements": [
+        {
+          "id": "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31-1782744857653-encouragement",
+          "userDeviceId": "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31",
+          "userName": "amen Rosie",
+          "text": "Bondye avèk nou frèm ak sèm yo, edem priyè pou Bondye aktive m plis nan travay Li, epi pou fwaye'm tou mèsi bon jounen",
+          "createdAt": 1782744857653
+        },
         {
           "id": "bb79b4f5c3076847b8ecf237305f56835c0db9955391cd0eddb55321a990e92a-1782480099518-encouragement",
           "userDeviceId": "bb79b4f5c3076847b8ecf237305f56835c0db9955391cd0eddb55321a990e92a",
@@ -858,7 +866,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782525316458,
+      "updatedAt": 1782744903717,
       "answeredAt": null,
       "testimony": null
     },
