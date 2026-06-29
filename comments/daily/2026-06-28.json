@@ -1,9 +1,23 @@
 {
   "date": "2026-06-28",
   "verseKey": "daily:2026-06-28",
-  "updatedAt": 1782708432773,
+  "updatedAt": 1782712014808,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782652550373",
+      "text": "Amen",
+      "userDeviceId": "f567bb78eb3cc7b94d91320d97f59fefb32886b5369eebdb21500960f4bb1025",
+      "userName": "Martina",
+      "verseName": "Malaki 2:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782712014807,
+      "updatedAt": 1782712014807,
+      "status": "active"
+    },
     {
       "id": "local-1782690067319",
       "text": "raphael meselene",
@@ -449,9 +463,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 105,
-  "shareCount": 306,
-  "viewCount": 24338,
+  "likeCount": 111,
+  "shareCount": 310,
+  "viewCount": 25313,
   "verseLikedBy": [
     "896da13f973ab7102dd5ab88913d08cf21d3fb016603486a770b82768e2f3606",
     "c058e8719453e56c527825d830afafd8dde6e29cee91545e47b1cac94e4a0368",
@@ -557,7 +571,13 @@
     "44541d97db7ca8deefd3be70fb0a09db9cf80406c829f95dc689201058e24ff9",
     "4579cda2826ead3d94976f7ef086e77dd3bb0d46133f4ea1aacc57246bb80be4",
     "9d8fdcaeedd43d429cb739152ee20a5cc8dbff238aa4c6f2f7233197516b549e",
-    "e9505433655342b9885b3af0adc6d76bbab74db49a6f0ecf11ba021a3f2e12b0"
+    "e9505433655342b9885b3af0adc6d76bbab74db49a6f0ecf11ba021a3f2e12b0",
+    "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+    "fb72f3b7aa022e3b16aac24540c29cfa2863aeca25f16e85fbb19fec7f999dc7",
+    "f82bd2c63d088772cebd4f9cea46c23e575d77658e01c760f6b129158ca25d22",
+    "fda49852fe5c8c65a2772ca44d96358356e492e8f9093543043678106c4d6414",
+    "f59c860081d6e31bc73e179a342141d97fbd192269f364694573bfdc398ae0a3",
+    "fd341f31750f1c862a24915714735012f55175a86f04aaec67cdbbba1a7909f9"
   ],
   "verseViewBy": []
 }
