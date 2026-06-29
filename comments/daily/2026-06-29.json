@@ -1,15 +1,45 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782694357494,
+  "updatedAt": 1782697542570,
   "version": 1,
-  "comments": [],
-  "likeCount": 2,
-  "shareCount": 3,
-  "viewCount": 420,
+  "comments": [
+    {
+      "id": "local-1782697303283",
+      "text": "a chaque",
+      "userDeviceId": "d1f080da16fc287e3850a714b8c05b1cd59af63845d091ca7124f77e73788b69",
+      "userName": "t Ok",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782697542570,
+      "updatedAt": 1782697542570,
+      "status": "active"
+    },
+    {
+      "id": "local-1782697306805",
+      "text": "la BD",
+      "userDeviceId": "d1f080da16fc287e3850a714b8c05b1cd59af63845d091ca7124f77e73788b69",
+      "userName": "t Ok",
+      "verseName": "Lamantasyon 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782697542570,
+      "updatedAt": 1782697542570,
+      "status": "active"
+    }
+  ],
+  "likeCount": 3,
+  "shareCount": 6,
+  "viewCount": 706,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
-    "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85"
+    "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
+    "a6d073ff9a3a29b4fe928c434358891f1872112a07ac33ff7d9756d0609b251c"
   ],
   "verseViewBy": []
 }
