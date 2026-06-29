@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "verseKey": "daily:2026-06-29",
-  "updatedAt": 1782749778968,
+  "updatedAt": 1782751405129,
   "version": 1,
   "comments": [
     {
@@ -40,12 +40,13 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+        "0cfcc8e5386bdea05e5aec696a27c682af5fd68ea1b679a15358380f0f080861"
       ],
       "createdAt": 1782742038243,
-      "updatedAt": 1782748355901,
+      "updatedAt": 1782751405129,
       "status": "active"
     },
     {
@@ -88,13 +89,14 @@
       "verseName": "Lamantasyon 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "9166a9431ad1be603bce8b1857e1a91ba0f40c2217fc3084146b8b45bab16ae8",
-        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3"
+        "c80c8f20119cbf765c7083f07a7198fbc5caad79a41072ac3df1e89c843cbed3",
+        "467590118b32e54de97eaecd495b51bcb4209bd965074622f8933d48d22eb008"
       ],
       "createdAt": 1782738914697,
-      "updatedAt": 1782747949540,
+      "updatedAt": 1782751405128,
       "status": "active"
     },
     {
@@ -342,7 +344,7 @@
   ],
   "likeCount": 73,
   "shareCount": 172,
-  "viewCount": 9747,
+  "viewCount": 9854,
   "verseLikedBy": [
     "11c18049e4362bb425d05b5405c3b946f06177f00558e3f4f2aa16b2894fcb6f",
     "ac478529448be169ab642d743859b1161acb33f00bce360ad5f31bf86925be85",
