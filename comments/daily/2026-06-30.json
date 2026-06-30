@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782791590646,
+  "updatedAt": 1782792229311,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782791714216",
+      "text": "pèson paka met avèk pitite Bondye",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782792229311,
+      "updatedAt": 1782792229311,
+      "status": "active"
+    },
     {
       "id": "local-1782791237321",
       "text": "Amen 🙏 🙏 🙏",
@@ -75,9 +89,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 19,
-  "shareCount": 27,
-  "viewCount": 3681,
+  "likeCount": 21,
+  "shareCount": 28,
+  "viewCount": 4010,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
@@ -97,7 +111,9 @@
     "9de9c0daa5cd39ef64998fdf135cff903420bb97e5ccee6021c3069dc3b117ba",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "a0f0877311f130aa60b92ece3bd3401e5402939fd31b45111ab9e486d6567a07",
-    "4ddc61882c4d4ddfa9f0b89fcfd15bf250f06fb78405953ac7628c19f896c1d5"
+    "4ddc61882c4d4ddfa9f0b89fcfd15bf250f06fb78405953ac7628c19f896c1d5",
+    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+    "e12aeb92edfef202ddd8630899eb1f8c6a19d7da2a0c3ce9c31839d839d6575b"
   ],
   "verseViewBy": []
 }
