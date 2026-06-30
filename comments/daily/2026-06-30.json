@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782842721713,
+  "updatedAt": 1782842789898,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Estè 6:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6836256325907f60cdc74867b562767b817ddba0cbada48d9e6b06660546f794"
+      ],
       "createdAt": 1782833950852,
-      "updatedAt": 1782833950852,
+      "updatedAt": 1782842789898,
       "status": "active"
     },
     {
@@ -306,8 +308,8 @@
     }
   ],
   "likeCount": 84,
-  "shareCount": 155,
-  "viewCount": 13314,
+  "shareCount": 156,
+  "viewCount": 13320,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
