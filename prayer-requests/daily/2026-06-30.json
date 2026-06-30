@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": 1782789304015,
+  "updatedAt": 1782801786367,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 37,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "Bondye Beni nou,mwen gen yon grav pwoblèm nan Senti Mwen bezwen èd Finansyè nous tanpri numerom c 34101905,Moun ki vle edem ka kontaktem sou WhatsApp sou numéro sa,Nou pap pèdi sa",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "soeur Bellefleur",
+          "prayedAt": 1782801767136
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1782788211354,
-      "updatedAt": 1782788226082,
+      "updatedAt": 1782801786367,
       "answeredAt": null,
       "testimony": null
     },
