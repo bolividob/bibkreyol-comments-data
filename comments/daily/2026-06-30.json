@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782833828367,
+  "updatedAt": 1782833950853,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782833915217",
+      "text": "amén wi 🙏🙏🙏🙏",
+      "userDeviceId": "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+      "userName": "philandine",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782833950852,
+      "updatedAt": 1782833950852,
+      "status": "active"
+    },
     {
       "id": "local-1782829031303",
       "text": "dras",
@@ -277,9 +291,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 74,
-  "shareCount": 136,
-  "viewCount": 11494,
+  "likeCount": 75,
+  "shareCount": 137,
+  "viewCount": 11526,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
@@ -354,7 +368,8 @@
     "7ec4dddf3557f0233f50ecd2da277cf0eb5024afdd10cf98ec564f02f6089a02",
     "b392a70c29b2921d96869373880f688880987eba7346e4506c8c05b25a82e4f5",
     "99ee3d02b9a8f46ecd6d8c659d8da6281caa65c1140403e89cd9b83fb1113256",
-    "76200d3248e7e02b3089d5bfbbf43df9d4c3b46dac7a5abc0e555cdcab1f6ddb"
+    "76200d3248e7e02b3089d5bfbbf43df9d4c3b46dac7a5abc0e555cdcab1f6ddb",
+    "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
   ],
   "verseViewBy": []
 }
