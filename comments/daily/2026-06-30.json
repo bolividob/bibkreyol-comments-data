@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782791243364,
+  "updatedAt": 1782791426566,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782791237321",
+      "text": "Amen 🙏 🙏 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782791426566,
+      "updatedAt": 1782791426566,
+      "status": "active"
+    },
     {
       "id": "local-1782788945711",
       "text": "amén amén amén 🙏🙏🙏",
@@ -62,8 +76,8 @@
     }
   ],
   "likeCount": 19,
-  "shareCount": 24,
-  "viewCount": 3552,
+  "shareCount": 25,
+  "viewCount": 3612,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
