@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782819442251,
+  "updatedAt": 1782819917228,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Estè 6:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3307091047b71745f73b0cc7dc53f7127c2e265ccb6f2e5d23a4c6281dfcbd93"
+      ],
       "createdAt": 1782819442251,
-      "updatedAt": 1782819442251,
+      "updatedAt": 1782819917228,
       "status": "active"
     },
     {
@@ -159,9 +161,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 84,
-  "viewCount": 8061,
+  "likeCount": 49,
+  "shareCount": 86,
+  "viewCount": 8139,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
@@ -209,7 +211,9 @@
     "f5ab1ad7204882d06c56935217136f9c413513d70d1396392c473e78a68e0744",
     "b8eeb3388d8d3768078fd7c38331b362c3e4ceb1bf645a730b65a3a69accd103",
     "3aa9e52dd66353deab48938f47ad20e07479d178a92ae7297abbcf44daa560cf",
-    "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500"
+    "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
+    "3307091047b71745f73b0cc7dc53f7127c2e265ccb6f2e5d23a4c6281dfcbd93",
+    "ef6c47dba08f6603b31ec00c55ee74ec2da90b6040f683df867b4a42866e05e7"
   ],
   "verseViewBy": []
 }
