@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782784049780,
+  "updatedAt": 1782784214955,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782781382935",
+      "text": "la bib",
+      "userDeviceId": "0c9adc8fd06fc5f30dfdcd8974761c979cfefe61e59a9b3bfe5f825223558d76",
+      "userName": "la bab",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782784214955,
+      "updatedAt": 1782784214955,
+      "status": "active"
+    },
     {
       "id": "local-1782783623782",
       "text": "Il tombe dans la force qui'l a fète, Gloire a Dieu",
@@ -35,7 +49,7 @@
   ],
   "likeCount": 11,
   "shareCount": 14,
-  "viewCount": 1726,
+  "viewCount": 1795,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
