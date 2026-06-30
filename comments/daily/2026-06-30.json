@@ -1,9 +1,37 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782826265600,
+  "updatedAt": 1782826389795,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782826294717",
+      "text": "d d6v16",
+      "userDeviceId": "b4d1e127a4ed2e6eee3bac9ca8d432168ce90582cb0eb42fb56106dbb7dc8855",
+      "userName": "bible kwéyo",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782826389795,
+      "updatedAt": 1782826389795,
+      "status": "active"
+    },
+    {
+      "id": "local-1782826276245",
+      "text": "amen🙏",
+      "userDeviceId": "e698484c10e2b33606434da6accf7f272b88167773fb3db9ae78480218a841af",
+      "userName": "neyou",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782826389794,
+      "updatedAt": 1782826389794,
+      "status": "active"
+    },
     {
       "id": "local-1782823811548",
       "text": "lè mechan pase pou fém mal letènel changel an byen",
@@ -235,7 +263,7 @@
   ],
   "likeCount": 63,
   "shareCount": 111,
-  "viewCount": 9663,
+  "viewCount": 9697,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
