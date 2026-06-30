@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782852010616,
+  "updatedAt": 1782852257360,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782852208155",
+      "text": "Amén 😘🙏",
+      "userDeviceId": "49941bffd5dbe2de9cedee32fde77b82cce279951389d09b8afad950c6af6496",
+      "userName": "stecy Pierre 💞❣️",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782852257359,
+      "updatedAt": 1782852257359,
+      "status": "active"
+    },
     {
       "id": "local-1782839979431",
       "text": "rome 8,v31",
@@ -307,9 +321,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
+  "likeCount": 94,
   "shareCount": 172,
-  "viewCount": 14862,
+  "viewCount": 14914,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
@@ -402,7 +416,9 @@
     "a94e12799d96b8151f500e67e63edc0c72fdf007710260d9fbfa5653887788b3",
     "7303918e6f6389f24647967ab2c60cd02a4d98b0de2f0f0932cbe0dc4d73d673",
     "35f77d0d26eb626b9a6379e0c7a628e2dceaa7bc3384faa8eab7b7ba3c13359a",
-    "aa8c705c717984370b9e340140571ec97adf1397381cadadfa437ab6bb63a75f"
+    "aa8c705c717984370b9e340140571ec97adf1397381cadadfa437ab6bb63a75f",
+    "49941bffd5dbe2de9cedee32fde77b82cce279951389d09b8afad950c6af6496",
+    "98e09fecb1698d8907aff6e4da06b57905fe374dff2c8a519895e493a2469683"
   ],
   "verseViewBy": []
 }
