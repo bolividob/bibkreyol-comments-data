@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782812177944,
+  "updatedAt": 1782812287927,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782812220905",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782812287926,
+      "updatedAt": 1782812287926,
+      "status": "active"
+    },
     {
       "id": "local-1782799941961",
       "text": "Amén y amén mési pou pawol ou Senyé jezi",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 38,
+  "likeCount": 39,
   "shareCount": 45,
-  "viewCount": 6171,
+  "viewCount": 6184,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
@@ -144,7 +158,8 @@
     "142dc8109ba06c2a8d2d898d4ee1536694e110aa0702fdb02cee12e927fda544",
     "26ef3d8b579ce54fe3bcac7ff1a90221b53db1a09dc30e02d2aed88bd015c8d0",
     "59e5a262bd45eccd881727634b230920d8e2558949be15f48d06c13e7ee0846c",
-    "730265e0ef305636b1f95ff5bc6baf91b96fe05227efec3b0dbe718a493d8d2c"
+    "730265e0ef305636b1f95ff5bc6baf91b96fe05227efec3b0dbe718a493d8d2c",
+    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3"
   ],
   "verseViewBy": []
 }
