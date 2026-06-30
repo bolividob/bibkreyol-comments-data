@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782822861190,
+  "updatedAt": 1782823256485,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782818895619",
+      "text": "Bonjour à tous ! On voit que tout chose concours au bien de ce qui aime Dieu.",
+      "userDeviceId": "64091b6eb6292f6054c9fc9c9413eb1ba145030592bba16a0a7f22f31984a6f9",
+      "userName": "Femme bénie",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782823256485,
+      "updatedAt": 1782823256485,
+      "status": "active"
+    },
     {
       "id": "local-1782822565279",
       "text": "bonjour , Bondye Beni nou",
@@ -204,8 +218,8 @@
     }
   ],
   "likeCount": 52,
-  "shareCount": 96,
-  "viewCount": 8881,
+  "shareCount": 97,
+  "viewCount": 8984,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
