@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782804063552,
+  "updatedAt": 1782804315419,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -29,9 +29,24 @@
           "prayedAt": 1782801767136
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0-1782804309506-encouragement",
+          "userDeviceId": "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
+          "userName": "mw renmen bndye nn anpil",
+          "text": "nn Pam c fr kenson eliacin",
+          "createdAt": 1782804309506
+        },
+        {
+          "id": "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0-1782804229414-encouragement",
+          "userDeviceId": "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
+          "userName": "mw renmen bndye nn anpil",
+          "text": "bi priyèm c deblokay sou tout fòm\n\nemw remèsye pou travay saa np fè a",
+          "createdAt": 1782804229414
+        }
+      ],
       "submittedAt": 1782788211354,
-      "updatedAt": 1782804062535,
+      "updatedAt": 1782804314532,
       "answeredAt": null,
       "testimony": null
     },
