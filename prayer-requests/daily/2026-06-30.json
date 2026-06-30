@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": 1782815716165,
+  "updatedAt": 1782819560208,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 37,
@@ -149,7 +149,7 @@
       "customExpectedSeason": null,
       "request": "demand lapriye svpl",
       "status": "praying",
-      "prayerCount": 74,
+      "prayerCount": 75,
       "prayedBy": [
         "a0bbcd878ab9d390ce4c4995298b8292e40699da89d0dd17a8f9e5d6dc2ab0df",
         "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69",
@@ -224,9 +224,14 @@
         "b78af7646d812aead5c2187b50941a6e780448161dbd8228a8d0b618837695be",
         "63042fb0c8091545854b10a6a55b266c985e9cc6bc381c41ebd9d418587e1cb2",
         "0073fc54d7fce619e995d62f4925b5675fa6563877fda269cfef2efaf96fb6bf",
-        "6db5a95352a121166fac701cb06fff47edb296609fd73d3481f518be5b813125"
+        "6db5a95352a121166fac701cb06fff47edb296609fd73d3481f518be5b813125",
+        "a7f856884e2dc85915b07c014aa6e5fa72eff4e9238826078a242ce7708bc0b1"
       ],
       "prayingPreview": [
+        {
+          "userName": "André cledner",
+          "prayedAt": 1782819532513
+        },
         {
           "userName": "Berry",
           "prayedAt": 1782815693815
@@ -302,13 +307,16 @@
         {
           "userName": "Bellanjlo estimable",
           "prayedAt": 1782600580217
-        },
-        {
-          "userName": "Joseph Frantz",
-          "prayedAt": 1782584456532
         }
       ],
       "encouragements": [
+        {
+          "id": "a7f856884e2dc85915b07c014aa6e5fa72eff4e9238826078a242ce7708bc0b1-1782819532513-encouragement",
+          "userDeviceId": "a7f856884e2dc85915b07c014aa6e5fa72eff4e9238826078a242ce7708bc0b1",
+          "userName": "André cledner",
+          "text": "Le succès appartient à ceux qui refusent d'abandonner. Peu importe les obstacles, continue d'avancer avec courage et détermination. Chaque effort te rapproche de tes rêves. Garde confiance en toi, car les plus belles victoires naissent souvent des plus grands défis",
+          "createdAt": 1782819532513
+        },
         {
           "id": "0073fc54d7fce619e995d62f4925b5675fa6563877fda269cfef2efaf96fb6bf-1782788223913-encouragement",
           "userDeviceId": "0073fc54d7fce619e995d62f4925b5675fa6563877fda269cfef2efaf96fb6bf",
@@ -661,7 +669,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1782815716165,
+      "updatedAt": 1782819560206,
       "answeredAt": null,
       "testimony": null
     },
