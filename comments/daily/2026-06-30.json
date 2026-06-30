@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782822370589,
+  "updatedAt": 1782822621442,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782822565279",
+      "text": "bonjour , Bondye Beni nou",
+      "userDeviceId": "8c2e9f9e33c96a5145fd93ae0ed979c75db9d48f3d3b5d899cebca7517b990e0",
+      "userName": "sr Mislie",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782822621442,
+      "updatedAt": 1782822621442,
+      "status": "active"
+    },
     {
       "id": "local-1782782038217",
       "text": "jak lèm finn li yon chapit lèm retounen se téléchajel poum téléchajel",
@@ -191,7 +205,7 @@
   ],
   "likeCount": 52,
   "shareCount": 95,
-  "viewCount": 8774,
+  "viewCount": 8827,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
