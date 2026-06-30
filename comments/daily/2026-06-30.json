@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782839951670,
+  "updatedAt": 1782840065582,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782839979431",
+      "text": "rome 8,v31",
+      "userDeviceId": "0d66f45f806aacd26f3c669bccb7bfe78eef3944e415f60ea6667fd4d049feff",
+      "userName": "1wa",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782840065581,
+      "updatedAt": 1782840065581,
+      "status": "active"
+    },
     {
       "id": "local-1782833915217",
       "text": "amén wi 🙏🙏🙏🙏",
@@ -293,7 +307,7 @@
   ],
   "likeCount": 82,
   "shareCount": 150,
-  "viewCount": 12868,
+  "viewCount": 12886,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
