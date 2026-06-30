@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782823703229,
+  "updatedAt": 1782823823299,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782823811548",
+      "text": "lè mechan pase pou fém mal letènel changel an byen",
+      "userDeviceId": "088c9f2778701e2bb1865172c66031f0d21d5ec3e9bc281cbbf57dc2b9410147",
+      "userName": "dodo Rochelus",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782823823299,
+      "updatedAt": 1782823823299,
+      "status": "active"
+    },
     {
       "id": "local-1782818895619",
       "text": "Bonjour à tous ! On voit que tout chose concours au bien de ce qui aime Dieu.",
@@ -219,7 +233,7 @@
   ],
   "likeCount": 54,
   "shareCount": 104,
-  "viewCount": 9080,
+  "viewCount": 9107,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
