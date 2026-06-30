@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782819914250,
+  "updatedAt": 1782850263568,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -682,7 +682,7 @@
       "customExpectedSeason": null,
       "request": "ede m priye pou Bondye fèm gras li konnen tout sa Map Andire",
       "status": "praying",
-      "prayerCount": 30,
+      "prayerCount": 31,
       "prayedBy": [
         "ad05febdc8a9603da609f3ca3f34271e8fd02c9477716bdcb18688fefcea5227",
         "11d5d20194a01b6a8370d1f7d44f87ae97ddf2bf9794d37727ccdae1cbaac2be",
@@ -713,9 +713,14 @@
         "bb79b4f5c3076847b8ecf237305f56835c0db9955391cd0eddb55321a990e92a",
         "4f0ac1c9aa42aaa3155926668529e87cf0eb2bc2b4ceaad9fca6d9b964438da8",
         "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31",
-        "d1743c50373f775e80eb166883fcc5f7414fd8ea8d730aa49f60c490fbd8ab5c"
+        "d1743c50373f775e80eb166883fcc5f7414fd8ea8d730aa49f60c490fbd8ab5c",
+        "312f6956f87e45920e75fc892e9593227f2083d31bef0659782e2b61947b488d"
       ],
       "prayingPreview": [
+        {
+          "userName": "fille de Dieu",
+          "prayedAt": 1782850221710
+        },
         {
           "userName": "Pierre Jocelyne",
           "prayedAt": 1782788057902
@@ -791,13 +796,16 @@
         {
           "userName": "lisiana piter",
           "prayedAt": 1782272026963
-        },
-        {
-          "userName": "chrismene",
-          "prayedAt": 1782269722071
         }
       ],
       "encouragements": [
+        {
+          "id": "312f6956f87e45920e75fc892e9593227f2083d31bef0659782e2b61947b488d-1782850221710-encouragement",
+          "userDeviceId": "312f6956f87e45920e75fc892e9593227f2083d31bef0659782e2b61947b488d",
+          "userName": "fille de Dieu",
+          "text": "pou Bondye ogmnte lafwam mwen VL travay poum mnte non ciel pu Bondye prepare nanm mw",
+          "createdAt": 1782850221710
+        },
         {
           "id": "d1743c50373f775e80eb166883fcc5f7414fd8ea8d730aa49f60c490fbd8ab5c-1782788151186-encouragement",
           "userDeviceId": "d1743c50373f775e80eb166883fcc5f7414fd8ea8d730aa49f60c490fbd8ab5c",
@@ -982,7 +990,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1782788345940,
+      "updatedAt": 1782850262616,
       "answeredAt": null,
       "testimony": null
     },
