@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782812764718,
+  "updatedAt": 1782812908243,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782812761540",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782812908243,
+      "updatedAt": 1782812908243,
+      "status": "active"
+    },
     {
       "id": "local-1782812220905",
       "text": "Amén",
@@ -119,7 +133,7 @@
   ],
   "likeCount": 39,
   "shareCount": 47,
-  "viewCount": 6272,
+  "viewCount": 6313,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
