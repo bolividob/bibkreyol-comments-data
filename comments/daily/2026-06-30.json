@@ -1,9 +1,23 @@
 {
   "date": "2026-06-30",
   "verseKey": "daily:2026-06-30",
-  "updatedAt": 1782781880821,
+  "updatedAt": 1782783865792,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782783623782",
+      "text": "Il tombe dans la force qui'l a fète, Gloire a Dieu",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Estè 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782783865791,
+      "updatedAt": 1782783865791,
+      "status": "active"
+    },
     {
       "id": "local-1782781400281",
       "text": "la bib",
@@ -19,9 +33,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 11,
-  "viewCount": 1514,
+  "likeCount": 11,
+  "shareCount": 14,
+  "viewCount": 1634,
   "verseLikedBy": [
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "869e94e18c085e124e195f61fb7fa9e3c00eacf61241bef1acdfffdc093d7a3c",
@@ -31,7 +45,9 @@
     "fe8b0f5a3b4f7b71f5b259be8f40444624115b15fd9750f7b41f49f2abbac0ff",
     "70c9fc5552d12d61a919de08db3168bf009ba98f7883fcf280ae5b09a32f1b62",
     "73ad49cede31f621f62be4173112af6843f3509f406a918c1226a5a7e68d7dd5",
-    "0cd78d0fb61c882bfa204ddc3d198b3ae5ef05519c2086f6d67bc9f2a38ed9de"
+    "0cd78d0fb61c882bfa204ddc3d198b3ae5ef05519c2086f6d67bc9f2a38ed9de",
+    "08a93bfb5abf71407864b1752e00df9793bd81b37614d5988d5e1443a32f5fa8",
+    "5148b8eefce81398db076ad85171c5e9637786ff728b926adf67c8be95e72363"
   ],
   "verseViewBy": []
 }
