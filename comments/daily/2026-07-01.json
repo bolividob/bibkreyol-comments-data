@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782883563618,
+  "updatedAt": 1782883683062,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782883563307",
+      "text": "fèm gras tanpri seyè",
+      "userDeviceId": "c59fa0ef075700fbb15f9ad63c1d4a0b86cc38caac7da87d13c7bb5f4d2e021e",
+      "userName": "Eline Dios antes todo",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782883683062,
+      "updatedAt": 1782883683062,
+      "status": "active"
+    },
     {
       "id": "local-1782878644239",
       "text": "glwa a Dye",
@@ -157,7 +171,7 @@
   ],
   "likeCount": 30,
   "shareCount": 42,
-  "viewCount": 4196,
+  "viewCount": 4209,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
