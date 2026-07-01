@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782909310847,
+  "updatedAt": 1782909674087,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782909397703",
+      "text": "bondye fidèl anpil🙏🙏🙏",
+      "userDeviceId": "eb9c6327de2bd4284df31f12aafe0a7087dd347c4fb3434555ea8c6e66e5c9c9",
+      "userName": "marilous mompremier 🥰🥰",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782909674087,
+      "updatedAt": 1782909674087,
+      "status": "active"
+    },
     {
       "id": "local-1782907012174",
       "text": "bondye gran",
@@ -356,8 +370,8 @@
     }
   ],
   "likeCount": 66,
-  "shareCount": 147,
-  "viewCount": 8437,
+  "shareCount": 148,
+  "viewCount": 8533,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
