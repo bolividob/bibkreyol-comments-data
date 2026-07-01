@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "updatedAt": 1782914462037,
+  "updatedAt": 1782922022726,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 37,
@@ -1398,13 +1398,18 @@
       "customExpectedSeason": null,
       "request": "pryè deblokaj",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "49ae37d9957145e45e4a74196a0a6c41fb02056d1474e324f6a4fc5b6ffa1717",
         "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2",
-        "86c9b4776b0fc35b48c9be571991b6e38de0569d661e8b3c00eecb377b231316"
+        "86c9b4776b0fc35b48c9be571991b6e38de0569d661e8b3c00eecb377b231316",
+        "0f63aedd8f238d1ea1bb0eb3ae63b4a5d32a416cf0e18c97eca7c1f7483d6819"
       ],
       "prayingPreview": [
+        {
+          "userName": "Octave",
+          "prayedAt": 1782921997393
+        },
         {
           "userName": "jezi",
           "prayedAt": 1782041645838
@@ -1420,6 +1425,13 @@
       ],
       "encouragements": [
         {
+          "id": "0f63aedd8f238d1ea1bb0eb3ae63b4a5d32a416cf0e18c97eca7c1f7483d6819-1782921997393-encouragement",
+          "userDeviceId": "0f63aedd8f238d1ea1bb0eb3ae63b4a5d32a416cf0e18c97eca7c1f7483d6819",
+          "userName": "Octave",
+          "text": "rete plis nan lapriyè",
+          "createdAt": 1782921997393
+        },
+        {
           "id": "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2-1782041479690-encouragement",
           "userDeviceId": "7c15965201f6790cbbcc54151add4c37e46d2d49210441a69a3b86a9111193e2",
           "userName": "vanel",
@@ -1428,7 +1440,7 @@
         }
       ],
       "submittedAt": 1782037965937,
-      "updatedAt": 1782041944041,
+      "updatedAt": 1782922022726,
       "answeredAt": null,
       "testimony": null
     },
