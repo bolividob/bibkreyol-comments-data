@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782886684116,
+  "updatedAt": 1782886803256,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782886728249",
+      "text": "retirem nan peche papa",
+      "userDeviceId": "ec3650d0e766f775f80736bdec17018eb00fb8864ed1b0898129d0c6b8f0aaae",
+      "userName": "wendel pierre",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782886803256,
+      "updatedAt": 1782886803256,
+      "status": "active"
+    },
     {
       "id": "local-1782883563307",
       "text": "fèm gras tanpri seyè",
@@ -170,8 +184,8 @@
     }
   ],
   "likeCount": 33,
-  "shareCount": 45,
-  "viewCount": 4477,
+  "shareCount": 46,
+  "viewCount": 4485,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
