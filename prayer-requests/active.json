@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782922023590,
+  "updatedAt": 1782922143624,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -1423,6 +1423,13 @@
       ],
       "encouragements": [
         {
+          "id": "0f63aedd8f238d1ea1bb0eb3ae63b4a5d32a416cf0e18c97eca7c1f7483d6819-1782922038582-encouragement",
+          "userDeviceId": "0f63aedd8f238d1ea1bb0eb3ae63b4a5d32a416cf0e18c97eca7c1f7483d6819",
+          "userName": "Octave",
+          "text": "yon moman priyè chakjou",
+          "createdAt": 1782922038582
+        },
+        {
           "id": "0f63aedd8f238d1ea1bb0eb3ae63b4a5d32a416cf0e18c97eca7c1f7483d6819-1782921997393-encouragement",
           "userDeviceId": "0f63aedd8f238d1ea1bb0eb3ae63b4a5d32a416cf0e18c97eca7c1f7483d6819",
           "userName": "Octave",
@@ -1438,7 +1445,7 @@
         }
       ],
       "submittedAt": 1782037965937,
-      "updatedAt": 1782922022726,
+      "updatedAt": 1782922142677,
       "answeredAt": null,
       "testimony": null
     },
