@@ -1,9 +1,51 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782871701890,
+  "updatedAt": 1782874042264,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782873871012",
+      "text": "Amen",
+      "userDeviceId": "baa6e185aa10cc177bddc5d63af1d6894bacff63b4019241fdfbbbf38eedd342",
+      "userName": "madame edines",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782874042264,
+      "updatedAt": 1782874042264,
+      "status": "active"
+    },
+    {
+      "id": "local-1782873884931",
+      "text": "Amen",
+      "userDeviceId": "baa6e185aa10cc177bddc5d63af1d6894bacff63b4019241fdfbbbf38eedd342",
+      "userName": "madame edines",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782874042264,
+      "updatedAt": 1782874042264,
+      "status": "active"
+    },
+    {
+      "id": "local-1782871772547",
+      "text": "La foi est un remède efficace !",
+      "userDeviceId": "64091b6eb6292f6054c9fc9c9413eb1ba145030592bba16a0a7f22f31984a6f9",
+      "userName": "Femme bénie",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782874042264,
+      "updatedAt": 1782874042264,
+      "status": "active"
+    },
     {
       "id": "local-1782870308000",
       "text": "Gloire a L'eternel",
@@ -12,10 +54,12 @@
       "verseName": "Mak 2:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "9ac75293d8b91d67fd41f3624aabe905ea6e5f33958055f0b1a2058fd6d22568"
+      ],
       "createdAt": 1782870449786,
-      "updatedAt": 1782870449786,
+      "updatedAt": 1782874042264,
       "status": "active"
     },
     {
@@ -34,8 +78,8 @@
     }
   ],
   "likeCount": 11,
-  "shareCount": 14,
-  "viewCount": 2024,
+  "shareCount": 16,
+  "viewCount": 2173,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
