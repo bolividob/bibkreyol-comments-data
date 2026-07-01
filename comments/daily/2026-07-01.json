@@ -1,14 +1,30 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782864511597,
+  "updatedAt": 1782866848810,
   "version": 1,
-  "comments": [],
-  "likeCount": 1,
+  "comments": [
+    {
+      "id": "local-1782865703839",
+      "text": "koro musica",
+      "userDeviceId": "ea171c0e4e771b9b0668e64ce3d1d303bdd9101a6aba56ff4dd2dd49be12cd00",
+      "userName": "pitit bondye pa Kon pedí batai🙏👼",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782866848810,
+      "updatedAt": 1782866848810,
+      "status": "active"
+    }
+  ],
+  "likeCount": 2,
   "shareCount": 8,
-  "viewCount": 383,
+  "viewCount": 611,
   "verseLikedBy": [
-    "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7"
+    "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
+    "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e"
   ],
   "verseViewBy": []
 }
