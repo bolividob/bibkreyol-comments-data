@@ -1,9 +1,37 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782878649204,
+  "updatedAt": 1782878767904,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782878644239",
+      "text": "glwa a Dye",
+      "userDeviceId": "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+      "userName": "sœur Ruth",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782878767904,
+      "updatedAt": 1782878767904,
+      "status": "active"
+    },
+    {
+      "id": "local-1782878728328",
+      "text": "JEZi fèl pou mwen menm jan AK nonm paralize a",
+      "userDeviceId": "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+      "userName": "sœur Ruth",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782878767904,
+      "updatedAt": 1782878767904,
+      "status": "active"
+    },
     {
       "id": "local-1782878629579",
       "text": "Amén 🙏",
@@ -128,8 +156,8 @@
     }
   ],
   "likeCount": 20,
-  "shareCount": 32,
-  "viewCount": 3436,
+  "shareCount": 33,
+  "viewCount": 3480,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
