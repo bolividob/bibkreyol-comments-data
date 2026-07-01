@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782879662916,
+  "updatedAt": 1782901984905,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,15 +14,20 @@
       "customExpectedSeason": null,
       "request": "Bondye Beni nou,mwen gen yon grav pwoblèm nan Senti Mwen bezwen èd Finansyè nous tanpri numerom c 34101905,Moun ki vle edem ka kontaktem sou WhatsApp sou numéro sa,Nou pap pèdi sa",
       "status": "praying",
-      "prayerCount": 5,
+      "prayerCount": 6,
       "prayedBy": [
         "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c",
         "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
         "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66",
         "c7b6c6cbbab6e305d104537f889c74b84b3943faa999930afe49c0d3f24a0924",
-        "768adcdb02777fef1aaa19b477fe774c26a3ad0ef2cba723733c47f8e1bc8716"
+        "768adcdb02777fef1aaa19b477fe774c26a3ad0ef2cba723733c47f8e1bc8716",
+        "c0290e03d5cacc6838208a5161b4f35f3f9ddc3d28574df3c379f3124c42ab82"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bondye lavi a be nou !Nom se Francelene",
+          "prayedAt": 1782901900943
+        },
         {
           "userName": "Mwen komprann",
           "prayedAt": 1782879634943
@@ -45,6 +50,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "c0290e03d5cacc6838208a5161b4f35f3f9ddc3d28574df3c379f3124c42ab82-1782901900943-encouragement",
+          "userDeviceId": "c0290e03d5cacc6838208a5161b4f35f3f9ddc3d28574df3c379f3124c42ab82",
+          "userName": "Bondye lavi a be nou !Nom se Francelene",
+          "text": "travay nap fè a anpil pa dekourage,rekonpans nou pa sou tè a men pito se awo li ye kay bondye...",
+          "createdAt": 1782901900943
+        },
         {
           "id": "c7b6c6cbbab6e305d104537f889c74b84b3943faa999930afe49c0d3f24a0924-1782867495075-encouragement",
           "userDeviceId": "c7b6c6cbbab6e305d104537f889c74b84b3943faa999930afe49c0d3f24a0924",
@@ -82,7 +94,7 @@
         }
       ],
       "submittedAt": 1782788211354,
-      "updatedAt": 1782879662124,
+      "updatedAt": 1782901982648,
       "answeredAt": null,
       "testimony": null
     },
