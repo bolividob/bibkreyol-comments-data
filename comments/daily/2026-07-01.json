@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782942789386,
+  "updatedAt": 1782942907404,
   "version": 1,
   "comments": [
     {
@@ -70,10 +70,12 @@
       "verseName": "Mak 2:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "de6a67a50335287a0e182ba0486e0c8d5c4c39304086b81e4e5e0448c08cb296"
+      ],
       "createdAt": 1782914110581,
-      "updatedAt": 1782914110581,
+      "updatedAt": 1782942907404,
       "status": "active"
     },
     {
@@ -252,10 +254,12 @@
       "verseName": "Mak 2:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "de6a67a50335287a0e182ba0486e0c8d5c4c39304086b81e4e5e0448c08cb296"
+      ],
       "createdAt": 1782899045793,
-      "updatedAt": 1782899045793,
+      "updatedAt": 1782942907404,
       "status": "active"
     },
     {
@@ -483,9 +487,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 103,
-  "shareCount": 255,
-  "viewCount": 15524,
+  "likeCount": 104,
+  "shareCount": 256,
+  "viewCount": 15561,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
@@ -589,7 +593,8 @@
     "5b42e423dd6ecf34800a867c642fe56345a0fe996eafa9b7ddae4874aef0d1ec",
     "fdff0733ccea99e82e6cc08b41587f0ca8a153e41ada76232b43cd2ae111ccdd",
     "8f5ba8a76535630e4df3d69e3a6915244a85083e7de7ddff0b5b180a8a15d201",
-    "2ad84d67c4c51c107469f026a7ee362a1ea6ad51d8a84838d0aa088108baf144"
+    "2ad84d67c4c51c107469f026a7ee362a1ea6ad51d8a84838d0aa088108baf144",
+    "de6a67a50335287a0e182ba0486e0c8d5c4c39304086b81e4e5e0448c08cb296"
   ],
   "verseViewBy": []
 }
