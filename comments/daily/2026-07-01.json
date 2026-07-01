@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782906367393,
+  "updatedAt": 1782906485867,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782906298920",
+      "text": "God bless you. bon kouraj frèm. kè Bondye avè nou.",
+      "userDeviceId": "a05f422f7d0ea0a30f86b00b89191e0a8b0b2dc62dfa80a0714e7133910565c3",
+      "userName": "Miranel",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782906485867,
+      "updatedAt": 1782906485867,
+      "status": "active"
+    },
     {
       "id": "local-1782905779097",
       "text": "tout gloire pou bondye 🙏🙏",
@@ -314,8 +328,8 @@
     }
   ],
   "likeCount": 64,
-  "shareCount": 126,
-  "viewCount": 7654,
+  "shareCount": 128,
+  "viewCount": 7681,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
