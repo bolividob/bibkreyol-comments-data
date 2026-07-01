@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782905765678,
+  "updatedAt": 1782905886381,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782905779097",
+      "text": "tout gloire pou bondye 🙏🙏",
+      "userDeviceId": "4133c381a49af55cce2cbb9204ccd6dd1dc7816aeaf04b70fc20165059ecbd12",
+      "userName": "maleine mwn kontan itilize bib kreol la",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782905886381,
+      "updatedAt": 1782905886381,
+      "status": "active"
+    },
     {
       "id": "local-1782905129212",
       "text": "amen amen amen ❤❤❤❤❤❤",
@@ -301,7 +315,7 @@
   ],
   "likeCount": 60,
   "shareCount": 119,
-  "viewCount": 7524,
+  "viewCount": 7557,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
