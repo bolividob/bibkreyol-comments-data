@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782889082422,
+  "updatedAt": 1782889204120,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782889096698",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782889204120,
+      "updatedAt": 1782889204120,
+      "status": "active"
+    },
     {
       "id": "local-1782886728249",
       "text": "retirem nan peche papa",
@@ -183,9 +197,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
-  "shareCount": 51,
-  "viewCount": 4655,
+  "likeCount": 35,
+  "shareCount": 53,
+  "viewCount": 4665,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
@@ -220,7 +234,8 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "067a6c464c6fe0bae3d7a74554e84316c2d38fe32e3e64fc071d32f153de829b",
     "ec3650d0e766f775f80736bdec17018eb00fb8864ed1b0898129d0c6b8f0aaae",
-    "ff3d224f5519c526a716dba4337559c068e20ad9579a1bd9ac492f5fcf6004b2"
+    "ff3d224f5519c526a716dba4337559c068e20ad9579a1bd9ac492f5fcf6004b2",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
