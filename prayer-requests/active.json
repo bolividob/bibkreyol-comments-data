@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782866942824,
+  "updatedAt": 1782867542922,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,13 +14,18 @@
       "customExpectedSeason": null,
       "request": "Bondye Beni nou,mwen gen yon grav pwoblèm nan Senti Mwen bezwen èd Finansyè nous tanpri numerom c 34101905,Moun ki vle edem ka kontaktem sou WhatsApp sou numéro sa,Nou pap pèdi sa",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c",
         "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
-        "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66"
+        "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66",
+        "c7b6c6cbbab6e305d104537f889c74b84b3943faa999930afe49c0d3f24a0924"
       ],
       "prayingPreview": [
+        {
+          "userName": "judeline  tinord",
+          "prayedAt": 1782867495075
+        },
         {
           "userName": "sr Bernard morancy",
           "prayedAt": 1782866737077
@@ -35,6 +40,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "c7b6c6cbbab6e305d104537f889c74b84b3943faa999930afe49c0d3f24a0924-1782867495075-encouragement",
+          "userDeviceId": "c7b6c6cbbab6e305d104537f889c74b84b3943faa999930afe49c0d3f24a0924",
+          "userName": "judeline  tinord",
+          "text": "fè bondye konfians pa gen maladie li pa geri se li menm ki te la yè a e se li ki la jodia ,pote tout fado nou yo ba li .",
+          "createdAt": 1782867495075
+        },
         {
           "id": "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66-1782866795438-encouragement",
           "userDeviceId": "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66",
@@ -65,7 +77,7 @@
         }
       ],
       "submittedAt": 1782788211354,
-      "updatedAt": 1782866941908,
+      "updatedAt": 1782867542024,
       "answeredAt": null,
       "testimony": null
     },
