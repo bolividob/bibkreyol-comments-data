@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782867745223,
+  "updatedAt": 1782870449787,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782870308000",
+      "text": "Gloire a L'eternel",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782870449786,
+      "updatedAt": 1782870449786,
+      "status": "active"
+    },
     {
       "id": "local-1782865703839",
       "text": "koro musica",
@@ -19,9 +33,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
-  "shareCount": 10,
-  "viewCount": 1149,
+  "likeCount": 10,
+  "shareCount": 11,
+  "viewCount": 1385,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
@@ -30,7 +44,9 @@
     "e17878a3827d3a2f6612983929690a4698f10072928f09642c1ec9a9268cc239",
     "c7b6c6cbbab6e305d104537f889c74b84b3943faa999930afe49c0d3f24a0924",
     "a2ae4bb2c64f24c590ae7a92f74522f0f4b3c9270c77f0820245c6188c79466b",
-    "556e5145c6556993aba22e1f2e7f69a5df258b3f859189d19bc6224dac8e12ff"
+    "556e5145c6556993aba22e1f2e7f69a5df258b3f859189d19bc6224dac8e12ff",
+    "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632"
   ],
   "verseViewBy": []
 }
