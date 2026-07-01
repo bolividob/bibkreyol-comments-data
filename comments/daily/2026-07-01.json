@@ -1,9 +1,65 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782913867446,
+  "updatedAt": 1782914110581,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782913997062",
+      "text": "Bondye fidèle",
+      "userDeviceId": "9aaacddd976c523a28f03483a259e22a04bcdc43cd20fd84424628918a673dfc",
+      "userName": "mitch",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782914110581,
+      "updatedAt": 1782914110581,
+      "status": "active"
+    },
+    {
+      "id": "local-1782914042745",
+      "text": "Bondye fidèle",
+      "userDeviceId": "9aaacddd976c523a28f03483a259e22a04bcdc43cd20fd84424628918a673dfc",
+      "userName": "mitch",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782914110581,
+      "updatedAt": 1782914110581,
+      "status": "active"
+    },
+    {
+      "id": "local-1782914047703",
+      "text": "amen amen",
+      "userDeviceId": "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
+      "userName": "anna cherimond",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782914110581,
+      "updatedAt": 1782914110581,
+      "status": "active"
+    },
+    {
+      "id": "local-1782914092361",
+      "text": "👏👏👏👏",
+      "userDeviceId": "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
+      "userName": "anna cherimond",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782914110581,
+      "updatedAt": 1782914110581,
+      "status": "active"
+    },
     {
       "id": "local-1782909827259",
       "text": "tout sa te fèt pou moutre lafwa moun yo genyen nan pitit bondye a , esa te fèt jan yo te kwèl la",
@@ -383,9 +439,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
-  "shareCount": 163,
-  "viewCount": 9583,
+  "likeCount": 74,
+  "shareCount": 166,
+  "viewCount": 9637,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
@@ -459,7 +515,8 @@
     "ffb718a5b1646bdfb9766412cf82b670bad610d308c001dd717fa0929ede6966",
     "9a5aa51f713e9560bc621064ec775dbc0d1cafc1cfe99ba75215abbd937151c5",
     "3e58a76ecbecabaf13a15a83b6d28008a08b66a34d606fe641474a5cfec5484a",
-    "4d45c61106c26d5e257b6c7686abeec2ac0a071e4a94d4ed43aea7d933fd8893"
+    "4d45c61106c26d5e257b6c7686abeec2ac0a071e4a94d4ed43aea7d933fd8893",
+    "9aaacddd976c523a28f03483a259e22a04bcdc43cd20fd84424628918a673dfc"
   ],
   "verseViewBy": []
 }
