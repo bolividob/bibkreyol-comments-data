@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782902284993,
+  "updatedAt": 1782902406685,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782867999412",
+      "text": "bon bagay",
+      "userDeviceId": "fbafc0ac26f9709f1929a88514871d4e31d9ab347d1dfc24fb7918c5ef352257",
+      "userName": "marcelin",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782902406685,
+      "updatedAt": 1782902406685,
+      "status": "active"
+    },
     {
       "id": "local-1782898921985",
       "text": "groire a Dieu 🙌",
@@ -243,7 +257,7 @@
   ],
   "likeCount": 52,
   "shareCount": 105,
-  "viewCount": 6546,
+  "viewCount": 6580,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
