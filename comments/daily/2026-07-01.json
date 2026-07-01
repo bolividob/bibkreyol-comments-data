@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782929464214,
+  "updatedAt": 1782929585451,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782929569025",
+      "text": "amén",
+      "userDeviceId": "a89f1af649fa33885a1056762d83e5feff22969ae62bdd97ef0f77382d753a87",
+      "userName": "sr achline",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782929585451,
+      "updatedAt": 1782929585451,
+      "status": "active"
+    },
     {
       "id": "local-1782921992304",
       "text": "amen",
@@ -453,9 +467,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 94,
-  "shareCount": 213,
-  "viewCount": 13086,
+  "likeCount": 95,
+  "shareCount": 214,
+  "viewCount": 13109,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
@@ -550,7 +564,8 @@
     "39bea8ef3da6472cce1c7f3086d43a74833ad7bc216fb1a54f30a4b29389e1ed",
     "e35ec53dc98f851f66084be27cf2407aab39c39c6c2ac06c767a34cb4cfdc06b",
     "3b977509010ba852b375500480d11e410a166dda00d5d26e093e8c4fdf1f8bdb",
-    "1fd797f658af4978e988b0fa228a89c40ea780bce9f1acd878615321579285a0"
+    "1fd797f658af4978e988b0fa228a89c40ea780bce9f1acd878615321579285a0",
+    "a89f1af649fa33885a1056762d83e5feff22969ae62bdd97ef0f77382d753a87"
   ],
   "verseViewBy": []
 }
