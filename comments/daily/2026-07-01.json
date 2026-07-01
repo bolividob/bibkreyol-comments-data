@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782906848243,
+  "updatedAt": 1782906965757,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782906903812",
+      "text": "Mathieu",
+      "userDeviceId": "26a65d4e7a1c2457833192398fbaf8ed8ae09ae4b3f080b08fc40a4ad9817e10",
+      "userName": "Mathieu  12",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782906965757,
+      "updatedAt": 1782906965757,
+      "status": "active"
+    },
     {
       "id": "local-1782906298920",
       "text": "God bless you. bon kouraj frèm. kè Bondye avè nou.",
@@ -328,8 +342,8 @@
     }
   ],
   "likeCount": 64,
-  "shareCount": 130,
-  "viewCount": 7791,
+  "shareCount": 133,
+  "viewCount": 7815,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
