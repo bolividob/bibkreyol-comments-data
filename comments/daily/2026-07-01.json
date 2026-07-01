@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782875358958,
+  "updatedAt": 1782877582927,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782877261979",
+      "text": "amén",
+      "userDeviceId": "2ee3e05d3a9e78f31bb92d77beea3586a172922aab5b4ab1a4afa3e191c10266",
+      "userName": "genes",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782877582927,
+      "updatedAt": 1782877582927,
+      "status": "active"
+    },
     {
       "id": "local-1782874976351",
       "text": "amèn🙏",
@@ -101,7 +115,7 @@
   ],
   "likeCount": 15,
   "shareCount": 23,
-  "viewCount": 2832,
+  "viewCount": 3012,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
