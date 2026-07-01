@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782864196835,
+  "updatedAt": 1782866942824,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,17 @@
       "customExpectedSeason": null,
       "request": "Bondye Beni nou,mwen gen yon grav pwoblèm nan Senti Mwen bezwen èd Finansyè nous tanpri numerom c 34101905,Moun ki vle edem ka kontaktem sou WhatsApp sou numéro sa,Nou pap pèdi sa",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c",
-        "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0"
+        "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
+        "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66"
       ],
       "prayingPreview": [
+        {
+          "userName": "sr Bernard morancy",
+          "prayedAt": 1782866737077
+        },
         {
           "userName": "mw renmen bndye nn anpil",
           "prayedAt": 1782804010859
@@ -30,6 +35,20 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66-1782866795438-encouragement",
+          "userDeviceId": "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66",
+          "userName": "sr Bernard morancy",
+          "text": "Jesús sé tout bagay Pou mw",
+          "createdAt": 1782866795438
+        },
+        {
+          "id": "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66-1782866737077-encouragement",
+          "userDeviceId": "221e742c4aa1ebd44c550859ebbaccf98b528b647149acb58d26ae596bdf8e66",
+          "userName": "sr Bernard morancy",
+          "text": "mesi jezi Pou Bel jounen sa senye edem nan batay map men nin an",
+          "createdAt": 1782866737077
+        },
         {
           "id": "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0-1782804309506-encouragement",
           "userDeviceId": "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
@@ -46,7 +65,7 @@
         }
       ],
       "submittedAt": 1782788211354,
-      "updatedAt": 1782804314532,
+      "updatedAt": 1782866941908,
       "answeredAt": null,
       "testimony": null
     },
