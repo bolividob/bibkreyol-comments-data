@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782904927192,
+  "updatedAt": 1782905046145,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782904962442",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782905046145,
+      "updatedAt": 1782905046145,
+      "status": "active"
+    },
     {
       "id": "local-1782869198477",
       "text": "Amen amen amen amen amen amen amen",
@@ -271,9 +285,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
+  "likeCount": 59,
   "shareCount": 114,
-  "viewCount": 7303,
+  "viewCount": 7336,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
@@ -331,7 +345,9 @@
     "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
     "b2e4486d2367877901013a8bab0bd8b126d686906fe07bd16d8142d7ee774f0c",
     "e5f1d84dee6ea1ec80aa08abc246eeb6150461bc31d71f43029611b731cac3db",
-    "a4c4dc88e1aa417b6ba13fe973f92c1977286b8d05cbfd40cbbf298e14ac3dc1"
+    "a4c4dc88e1aa417b6ba13fe973f92c1977286b8d05cbfd40cbbf298e14ac3dc1",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
   ],
   "verseViewBy": []
 }
