@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782906965757,
+  "updatedAt": 1782907215209,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782907012174",
+      "text": "bondye gran",
+      "userDeviceId": "a5296a7e5d6f253dd7a1898d176b991970736f65424c3020f3397cf2e852026d",
+      "userName": "fre  Peterson",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782907215209,
+      "updatedAt": 1782907215209,
+      "status": "active"
+    },
     {
       "id": "local-1782906903812",
       "text": "Mathieu",
@@ -342,8 +356,8 @@
     }
   ],
   "likeCount": 64,
-  "shareCount": 133,
-  "viewCount": 7815,
+  "shareCount": 134,
+  "viewCount": 7887,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
