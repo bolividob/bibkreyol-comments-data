@@ -1,9 +1,23 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782878528965,
+  "updatedAt": 1782878649204,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782878629579",
+      "text": "Amén 🙏",
+      "userDeviceId": "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+      "userName": "sœur Ruth",
+      "verseName": "Mak 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782878649204,
+      "updatedAt": 1782878649204,
+      "status": "active"
+    },
     {
       "id": "local-1782877261979",
       "text": "amén",
@@ -113,9 +127,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 19,
-  "shareCount": 30,
-  "viewCount": 3383,
+  "likeCount": 20,
+  "shareCount": 32,
+  "viewCount": 3436,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
@@ -135,7 +149,8 @@
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "c07da43106d5379b8027fa0fc5f71e8bbf6b2d1f7feca28bd65a8de7f891e470",
     "8ab62c294427934b93557273aaf6e475376004a2d5dc759cdef36809b3ff801c",
-    "78a0ab8ce327ff5b520e9d36210c514dddded1fe0e63603f2cea73546ef20ab5"
+    "78a0ab8ce327ff5b520e9d36210c514dddded1fe0e63603f2cea73546ef20ab5",
+    "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0"
   ],
   "verseViewBy": []
 }
