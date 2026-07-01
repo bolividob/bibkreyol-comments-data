@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "verseKey": "daily:2026-07-01",
-  "updatedAt": 1782942435244,
+  "updatedAt": 1782942545420,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Mak 2:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f30a9669bc150cae42fa1b1b4f8c4d3e671a40ea79980f33ce229a968fb6e82b"
+      ],
       "createdAt": 1782914110581,
-      "updatedAt": 1782914110581,
+      "updatedAt": 1782942545420,
       "status": "active"
     },
     {
@@ -482,8 +484,8 @@
     }
   ],
   "likeCount": 103,
-  "shareCount": 254,
-  "viewCount": 15437,
+  "shareCount": 255,
+  "viewCount": 15464,
   "verseLikedBy": [
     "da94e093ea5321cc45d1987902331ab4cb9ecd2739be9d0f8285b90fc6c093f7",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
