@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": 1783006093413,
+  "updatedAt": 1783008133083,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 37,
@@ -1385,12 +1385,17 @@
       "customExpectedSeason": null,
       "request": "mp mande edem priye Pou vi spirituel mw",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "213b1ee72cfc7116a08bbef083eaf3eaa2f31650bda68a7439765c6ae0e55323",
-        "b2fbc4b05061feb2d0bb7cc6adec77bd9e276fa8a6995ed12abb26c6ced3a801"
+        "b2fbc4b05061feb2d0bb7cc6adec77bd9e276fa8a6995ed12abb26c6ced3a801",
+        "760a9f914b0b6101a86599f84fb6d05ccbfc2661062d014d753d0f902ac67b4a"
       ],
       "prayingPreview": [
+        {
+          "userName": "kethia",
+          "prayedAt": 1783008091287
+        },
         {
           "userName": "bejbel",
           "prayedAt": 1782052343546
@@ -1402,6 +1407,13 @@
       ],
       "encouragements": [
         {
+          "id": "760a9f914b0b6101a86599f84fb6d05ccbfc2661062d014d753d0f902ac67b4a-1783008091287-encouragement",
+          "userDeviceId": "760a9f914b0b6101a86599f84fb6d05ccbfc2661062d014d753d0f902ac67b4a",
+          "userName": "kethia",
+          "text": "Jesus la pou ou",
+          "createdAt": 1783008091287
+        },
+        {
           "id": "b2fbc4b05061feb2d0bb7cc6adec77bd9e276fa8a6995ed12abb26c6ced3a801-1782052343546-encouragement",
           "userDeviceId": "b2fbc4b05061feb2d0bb7cc6adec77bd9e276fa8a6995ed12abb26c6ced3a801",
           "userName": "bejbel",
@@ -1410,7 +1422,7 @@
         }
       ],
       "submittedAt": 1782041427910,
-      "updatedAt": 1782052383665,
+      "updatedAt": 1783008133083,
       "answeredAt": null,
       "testimony": null
     },
