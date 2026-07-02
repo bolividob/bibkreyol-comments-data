@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1782975122559,
+  "updatedAt": 1782975243647,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782975210838",
+      "text": "Jezi soven sove fanmi mw 🙏🙏",
+      "userDeviceId": "f4555a7c3d5f04104de66898d551c9066cae0d75dbcfc9baef7252901655b6eb",
+      "userName": "som 20",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782975243647,
+      "updatedAt": 1782975243647,
+      "status": "active"
+    },
     {
       "id": "local-1782970848706",
       "text": "Amén gloire a Dieu",
@@ -93,7 +107,7 @@
   ],
   "likeCount": 37,
   "shareCount": 35,
-  "viewCount": 5150,
+  "viewCount": 5160,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
