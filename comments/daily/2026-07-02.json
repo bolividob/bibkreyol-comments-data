@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1782970803764,
+  "updatedAt": 1782970922964,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782970848706",
+      "text": "Amén gloire a Dieu",
+      "userDeviceId": "c59fa0ef075700fbb15f9ad63c1d4a0b86cc38caac7da87d13c7bb5f4d2e021e",
+      "userName": "Eline Dios antes todo",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782970922964,
+      "updatedAt": 1782970922964,
+      "status": "active"
+    },
     {
       "id": "local-1782961536719",
       "text": "Amèn Amèn Amèn, Alleluia Gloire",
@@ -77,9 +91,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
+  "likeCount": 31,
   "shareCount": 29,
-  "viewCount": 4821,
+  "viewCount": 4830,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
@@ -110,7 +124,8 @@
     "0bf6fffa901db5c797f89ad8bdedab70a912940121d704caad79f9b814c45421",
     "66a360d35a1d5dd1d16f512dfee2178d8d19154d5b7caeda0bf06e5fda7b87b4",
     "0d56a87f4bd963d16f114eeb6abbb4a14e211690e0cac91e7f37592d165620f0",
-    "cf651934fc3137105ed605dcbbf0cf21d75f81db75c1532ef64faee359707183"
+    "cf651934fc3137105ed605dcbbf0cf21d75f81db75c1532ef64faee359707183",
+    "c59fa0ef075700fbb15f9ad63c1d4a0b86cc38caac7da87d13c7bb5f4d2e021e"
   ],
   "verseViewBy": []
 }
