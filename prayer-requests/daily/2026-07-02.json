@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": 1783027563423,
+  "updatedAt": 1783028523644,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 37,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "Bondye Beni nou,mwen gen yon grav pwoblèm nan Senti Mwen bezwen èd Finansyè nous tanpri numerom c 34101905,Moun ki vle edem ka kontaktem sou WhatsApp sou numéro sa,Nou pap pèdi sa",
       "status": "praying",
-      "prayerCount": 15,
+      "prayerCount": 17,
       "prayedBy": [
         "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c",
         "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
@@ -32,9 +32,19 @@
         "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
         "86c681201f85106cbd6e51a91f8f71eeb307ef675d6cbb183b38e5b7447b6557",
         "d481104ee9d7d80b5aacbac5d4fadc21382f7eb1bd2a41772719c612e877d631",
-        "3df3d52c937c40230956a7b0d82e62c2929fae052c1f43e7f474614185a192fd"
+        "3df3d52c937c40230956a7b0d82e62c2929fae052c1f43e7f474614185a192fd",
+        "d44d6f7cfa19a83ffb5ced45c9ae40aa8ad10ca385f351e5624d18557333524e",
+        "eb0bb4dec87d77ec76144ff9183865a9878771c3560268c94290d05c2105194c"
       ],
       "prayingPreview": [
+        {
+          "userName": "Johnalta",
+          "prayedAt": 1783028432033
+        },
+        {
+          "userName": "cliventz",
+          "prayedAt": 1783028377345
+        },
         {
           "userName": "jozye",
           "prayedAt": 1783027460172
@@ -97,6 +107,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "eb0bb4dec87d77ec76144ff9183865a9878771c3560268c94290d05c2105194c-1783028432033-encouragement",
+          "userDeviceId": "eb0bb4dec87d77ec76144ff9183865a9878771c3560268c94290d05c2105194c",
+          "userName": "Johnalta",
+          "text": "bondye beni nou mw se Johnalta Agelus mp viv Haïti mw gn yon problème nan bouch mw bezwen èd yon moun bondye e bondye ap beniw plus ke sa ke bondye beni nou.",
+          "createdAt": 1783028432033
+        },
         {
           "id": "3df3d52c937c40230956a7b0d82e62c2929fae052c1f43e7f474614185a192fd-1783027466687-encouragement",
           "userDeviceId": "3df3d52c937c40230956a7b0d82e62c2929fae052c1f43e7f474614185a192fd",
@@ -162,7 +179,7 @@
         }
       ],
       "submittedAt": 1782788211354,
-      "updatedAt": 1783027563423,
+      "updatedAt": 1783028523644,
       "answeredAt": null,
       "testimony": null
     },
