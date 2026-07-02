@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1782993186738,
+  "updatedAt": 1782993322308,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Mike 5:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3af11ad0b8d29cc89e6e96fc29a66569efed90e8cd6624c80c8579d1f8537daf"
+      ],
       "createdAt": 1782989713023,
-      "updatedAt": 1782989713023,
+      "updatedAt": 1782993322308,
       "status": "active"
     },
     {
@@ -134,8 +136,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 88,
-  "viewCount": 8276,
+  "shareCount": 90,
+  "viewCount": 8316,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
