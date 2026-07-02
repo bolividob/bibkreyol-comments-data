@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1782980762897,
+  "updatedAt": 1782980886672,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782980809950",
+      "text": "Amennnnn",
+      "userDeviceId": "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+      "userName": "Yveline",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782980886672,
+      "updatedAt": 1782980886672,
+      "status": "active"
+    },
     {
       "id": "local-1782975210838",
       "text": "Jezi soven sove fanmi mw 🙏🙏",
@@ -105,9 +119,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
+  "likeCount": 41,
   "shareCount": 44,
-  "viewCount": 5565,
+  "viewCount": 5581,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
@@ -148,7 +162,8 @@
     "0f64a716d28a7c90ae8ed1c177df0bb618b0b1dcf816e7d470b9945f2d1b3bc7",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
-    "d43b21597f2ef218c10174468d0f3b7a793553040e5d332a56de7f467a6f028e"
+    "d43b21597f2ef218c10174468d0f3b7a793553040e5d332a56de7f467a6f028e",
+    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
   ],
   "verseViewBy": []
 }
