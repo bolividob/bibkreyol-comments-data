@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": 1783016405381,
+  "updatedAt": 1783016525451,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 37,
@@ -915,6 +915,13 @@
       ],
       "encouragements": [
         {
+          "id": "89c64b058ba05b15adaba994c03eb81775bf797d2e56f5cba2c7d80911068d68-1783016485997-encouragement",
+          "userDeviceId": "89c64b058ba05b15adaba994c03eb81775bf797d2e56f5cba2c7d80911068d68",
+          "userName": "Roselande",
+          "text": "gen moman wap travèse , se plis Yon leson ke Li pote \nanpil fwa , move moman, tribilsasyon, maladi , se kache Bondye ap kachew pou méchan sou tè sa pa fini ak lavi .\n\nLi lè pouw monte nan dimansyon spirityèl siw vle Geri tout bon",
+          "createdAt": 1783016485997
+        },
+        {
           "id": "312f6956f87e45920e75fc892e9593227f2083d31bef0659782e2b61947b488d-1782850221710-encouragement",
           "userDeviceId": "312f6956f87e45920e75fc892e9593227f2083d31bef0659782e2b61947b488d",
           "userName": "fille de Dieu",
@@ -1105,7 +1112,7 @@
         }
       ],
       "submittedAt": 1782182207581,
-      "updatedAt": 1783016405379,
+      "updatedAt": 1783016525451,
       "answeredAt": null,
       "testimony": null
     },
