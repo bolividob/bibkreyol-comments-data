@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1783000387076,
+  "updatedAt": 1783000510427,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783000478245",
+      "text": "som",
+      "userDeviceId": "d73757664160f2e2ed989a2d2345b6266ecda4c3ce9bda645442c85455925b00",
+      "userName": "steeve",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783000510427,
+      "updatedAt": 1783000510427,
+      "status": "active"
+    },
     {
       "id": "local-1782989652060",
       "text": "amen amen amen 🙏",
@@ -136,8 +150,8 @@
     }
   ],
   "likeCount": 69,
-  "shareCount": 115,
-  "viewCount": 9943,
+  "shareCount": 117,
+  "viewCount": 9969,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
