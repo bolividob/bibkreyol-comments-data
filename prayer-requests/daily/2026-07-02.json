@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": 1782950943537,
+  "updatedAt": 1783000263617,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 37,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "Bondye Beni nou,mwen gen yon grav pwoblèm nan Senti Mwen bezwen èd Finansyè nous tanpri numerom c 34101905,Moun ki vle edem ka kontaktem sou WhatsApp sou numéro sa,Nou pap pèdi sa",
       "status": "praying",
-      "prayerCount": 12,
+      "prayerCount": 13,
       "prayedBy": [
         "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c",
         "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
@@ -29,9 +29,14 @@
         "9d5661bd42c05b0b227fb9577f76384f404a3edd8c2e1b17869bab845bf9a6ec",
         "c3e8e494fc7924008519099f7c2c7001ab98534fe63d8af6271680d0dca2b6ea",
         "7b89a59e2996a03240cbaad49910fba506e3b5b766e7dfa18a2925ae2a650320",
-        "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1"
+        "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
+        "86c681201f85106cbd6e51a91f8f71eeb307ef675d6cbb183b38e5b7447b6557"
       ],
       "prayingPreview": [
+        {
+          "userName": "Francis",
+          "prayedAt": 1783000196023
+        },
         {
           "userName": "Telçoit Macul",
           "prayedAt": 1782950835353
@@ -83,6 +88,13 @@
       ],
       "encouragements": [
         {
+          "id": "86c681201f85106cbd6e51a91f8f71eeb307ef675d6cbb183b38e5b7447b6557-1783000261722-encouragement",
+          "userDeviceId": "86c681201f85106cbd6e51a91f8f71eeb307ef675d6cbb183b38e5b7447b6557",
+          "userName": "Francis",
+          "text": "Bondye béni group la pou bel travay sa",
+          "createdAt": 1783000261722
+        },
+        {
           "id": "c0290e03d5cacc6838208a5161b4f35f3f9ddc3d28574df3c379f3124c42ab82-1782901900943-encouragement",
           "userDeviceId": "c0290e03d5cacc6838208a5161b4f35f3f9ddc3d28574df3c379f3124c42ab82",
           "userName": "Bondye lavi a be nou !Nom se Francelene",
@@ -126,7 +138,7 @@
         }
       ],
       "submittedAt": 1782788211354,
-      "updatedAt": 1782950943536,
+      "updatedAt": 1783000263617,
       "answeredAt": null,
       "testimony": null
     },
