@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1783016045116,
+  "updatedAt": 1783016166796,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783016083681",
+      "text": "mèsi jezi",
+      "userDeviceId": "0f3917982dee68a8b7036702cd6489503a085aef7a9ab26e68d5fe0ecb106427",
+      "userName": "jezi beni fanmiy mwen",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783016166795,
+      "updatedAt": 1783016166795,
+      "status": "active"
+    },
     {
       "id": "local-1783000478245",
       "text": "som",
@@ -149,9 +163,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 88,
-  "shareCount": 159,
-  "viewCount": 13462,
+  "likeCount": 89,
+  "shareCount": 160,
+  "viewCount": 13484,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
@@ -240,7 +254,8 @@
     "74466d8690496cd35c4ceec293c8cd47d576acae848959d5514e742055cb6942",
     "744bcd4a7a10324762bbfaf8973100c7dcc7d502b05c37dab65b6268f19c69fb",
     "43b669d569a60223dd2628278bed51ca9e5ed87362099dfa3b6668425e615227",
-    "044be6c55357519ed1a32405100098ef4bcb773b569fc06d475c1c05bbb6b343"
+    "044be6c55357519ed1a32405100098ef4bcb773b569fc06d475c1c05bbb6b343",
+    "0f3917982dee68a8b7036702cd6489503a085aef7a9ab26e68d5fe0ecb106427"
   ],
   "verseViewBy": []
 }
