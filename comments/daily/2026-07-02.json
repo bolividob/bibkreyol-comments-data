@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1783033270165,
+  "updatedAt": 1783033388193,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783033370928",
+      "text": "gras bondye kouvri nou",
+      "userDeviceId": "2c65a9918ddf252c1e905f89e3189b2cec9334c744946477a1abdcf1d5e3e8b9",
+      "userName": "Antonio",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783033388193,
+      "updatedAt": 1783033388193,
+      "status": "active"
+    },
     {
       "id": "local-1783027675968",
       "text": "we",
@@ -207,9 +221,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
+  "likeCount": 118,
   "shareCount": 189,
-  "viewCount": 17036,
+  "viewCount": 17075,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
@@ -327,7 +341,8 @@
     "bd2794625ad5140542fc85592a86643a8b496ab3d2ec454f0d48b2551564ecbd",
     "6957897cf56dd3fc302d8dddb7ebd531ab184c6c77d57a3752ec470a5c4ed0a1",
     "6910f098ea4de289e7f25bd8c93815487e4e11e117ec306a1b59190b039f997e",
-    "2bcc8a6acda655991d71d24473855943c0ebae480bb62edd684a079528a28dae"
+    "2bcc8a6acda655991d71d24473855943c0ebae480bb62edd684a079528a28dae",
+    "724bf419ae5d9784288bff531f3852bbdedfbbb331c4c3a2680e0880a4a48c1f"
   ],
   "verseViewBy": []
 }
