@@ -1,9 +1,23 @@
 {
   "date": "2026-07-02",
   "verseKey": "daily:2026-07-02",
-  "updatedAt": 1782954927806,
+  "updatedAt": 1782956976329,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1782954933064",
+      "text": "Amen",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1782956976329,
+      "updatedAt": 1782956976329,
+      "status": "active"
+    },
     {
       "id": "local-1782954568444",
       "text": "Amen amen amen mèsi anpil Bondye papa ke nonw beni Jezi 🙏🏼🙇🙇🙏🏼🙇🙏🏼",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 9,
-  "viewCount": 1484,
+  "likeCount": 11,
+  "shareCount": 10,
+  "viewCount": 1671,
   "verseLikedBy": [
     "81df0dd8e81514117a570c5c99fdd4577cc2c49336a43e4d394466841fd3e828",
     "a9d8d5a1957215e474c8f894dfc9208a3e1474249095a1bc53612a0ab47e1bc1",
@@ -45,7 +59,9 @@
     "483b5a003cd35503709f7222a42c7f1bd343eb609c207daae0384611a16b417e",
     "80e8a3b209923c7e301ef54f3100627a97153e418e9903909a872344ab8bdfd2",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
-    "7b9abe8494938219d0663dd0013c5ac83bd625ecb08104afa59b56a796ac8ed2"
+    "7b9abe8494938219d0663dd0013c5ac83bd625ecb08104afa59b56a796ac8ed2",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "ef90bdc0f33e11edce27352eec09942e6effbc9df2f07348b3be5ec34b74eac4"
   ],
   "verseViewBy": []
 }
