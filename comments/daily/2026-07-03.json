@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783074552103,
+  "updatedAt": 1783074667072,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783074646532",
+      "text": "mèsi anpil seyè jezi pou gras ou",
+      "userDeviceId": "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
+      "userName": "zanmi pawol la",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783074667072,
+      "updatedAt": 1783074667072,
+      "status": "active"
+    },
     {
       "id": "local-1783069630105",
       "text": "Mirlène",
@@ -309,8 +323,8 @@
     }
   ],
   "likeCount": 51,
-  "shareCount": 105,
-  "viewCount": 6708,
+  "shareCount": 106,
+  "viewCount": 6741,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
