@@ -1,9 +1,25 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783090266244,
+  "updatedAt": 1783090523235,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783090295524",
+      "text": "fè yon opération pou mw papa retire kis nan ovè mw genyen an Bondye",
+      "userDeviceId": "7a6d3dbce824c6fd3af98865e3482004d7f442ab18cc414d254abc34a4a2bd05",
+      "userName": "lonise",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "7a6d3dbce824c6fd3af98865e3482004d7f442ab18cc414d254abc34a4a2bd05"
+      ],
+      "createdAt": 1783090523234,
+      "updatedAt": 1783090523234,
+      "status": "active"
+    },
     {
       "id": "local-1783089906496",
       "text": "bebetho",
@@ -578,9 +594,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 94,
-  "shareCount": 196,
-  "viewCount": 10473,
+  "likeCount": 95,
+  "shareCount": 197,
+  "viewCount": 10529,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -675,7 +691,8 @@
     "4e993a9a6528d8130da75254100dd177689676dc28b15ff66f46e4e3f67372ae",
     "ec31465dc1d4ec2eae38b62fdb6b932b171e2c26f8be9fbc8a7e5758f9eab11b",
     "edd371a9ba9cabb4d0ea6e0289d47c0c332bcaa670503c0fe79b8a0588b4ebf5",
-    "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a"
+    "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
+    "590763b708220de628729ef0e1921c8032b20be631be9b0bddf2835d3a853710"
   ],
   "verseViewBy": []
 }
