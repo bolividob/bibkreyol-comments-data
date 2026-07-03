@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "updatedAt": 1783051930095,
+  "updatedAt": 1783052046273,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 38,
@@ -31,9 +31,17 @@
           "prayedAt": 1783048451090
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90-1783051945870-encouragement",
+          "userDeviceId": "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
+          "userName": "Flore",
+          "text": "som",
+          "createdAt": 1783051945870
+        }
+      ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783051930095,
+      "updatedAt": 1783052046273,
       "answeredAt": null,
       "testimony": null
     },
