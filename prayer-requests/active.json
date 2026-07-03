@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783076046698,
+  "updatedAt": 1783085046841,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 7,
+      "prayerCount": 8,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
@@ -22,9 +22,14 @@
         "253321c93c1f34605ba1ae0c670bca7a090d70b0907f28777438420ad9df40fa",
         "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91",
         "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798",
-        "055a7538eaa3de2a1688cda3bcc0fff27f46d057636ea75d6051ea551d9ce2a9"
+        "055a7538eaa3de2a1688cda3bcc0fff27f46d057636ea75d6051ea551d9ce2a9",
+        "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef"
       ],
       "prayingPreview": [
+        {
+          "userName": "lucson",
+          "prayedAt": 1783085039748
+        },
         {
           "userName": "sè Jackson",
           "prayedAt": 1783075885668
@@ -55,6 +60,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef-1783085039748-encouragement",
+          "userDeviceId": "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef",
+          "userName": "lucson",
+          "text": "lafwa",
+          "createdAt": 1783085039748
+        },
         {
           "id": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798-1783074768742-encouragement",
           "userDeviceId": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798",
@@ -106,7 +118,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783076045605,
+      "updatedAt": 1783085045887,
       "answeredAt": null,
       "testimony": null
     },
