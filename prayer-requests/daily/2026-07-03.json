@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "updatedAt": 1783052046273,
+  "updatedAt": 1783052765861,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 38,
@@ -16,12 +16,17 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
-        "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90"
+        "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
+        "153c7df805dc08d359449a48c1c71909f5cc1ac420aa974408db51e17d0a7954"
       ],
       "prayingPreview": [
+        {
+          "userName": "Jhonny jean Baptiste",
+          "prayedAt": 1783052696296
+        },
         {
           "userName": "Flore",
           "prayedAt": 1783051920170
@@ -33,6 +38,13 @@
       ],
       "encouragements": [
         {
+          "id": "153c7df805dc08d359449a48c1c71909f5cc1ac420aa974408db51e17d0a7954-1783052696296-encouragement",
+          "userDeviceId": "153c7df805dc08d359449a48c1c71909f5cc1ac420aa974408db51e17d0a7954",
+          "userName": "Jhonny jean Baptiste",
+          "text": "èd priyè",
+          "createdAt": 1783052696296
+        },
+        {
           "id": "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90-1783051945870-encouragement",
           "userDeviceId": "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
           "userName": "Flore",
@@ -41,7 +53,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783052046273,
+      "updatedAt": 1783052765861,
       "answeredAt": null,
       "testimony": null
     },
