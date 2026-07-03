@@ -1,9 +1,37 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783075162088,
+  "updatedAt": 1783075340118,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783075211116",
+      "text": "Merci notre père qui es aux cieux pour la vie",
+      "userDeviceId": "0f831d0ecdde32d999235c74d47058262a01fe8810ddd3c1512d73d092eed289",
+      "userName": "madame Montas",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783075340118,
+      "updatedAt": 1783075340118,
+      "status": "active"
+    },
+    {
+      "id": "local-1783075280574",
+      "text": "Bondye ou gran",
+      "userDeviceId": "0f831d0ecdde32d999235c74d47058262a01fe8810ddd3c1512d73d092eed289",
+      "userName": "madame Montas",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783075340118,
+      "updatedAt": 1783075340118,
+      "status": "active"
+    },
     {
       "id": "local-1783074646532",
       "text": "mèsi anpil seyè jezi pou gras ou",
@@ -323,8 +351,8 @@
     }
   ],
   "likeCount": 53,
-  "shareCount": 110,
-  "viewCount": 6879,
+  "shareCount": 111,
+  "viewCount": 6928,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
