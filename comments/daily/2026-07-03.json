@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783087146073,
+  "updatedAt": 1783087264970,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783087251616",
+      "text": "bondye m fèy konfyans m knnenw ap manyen dosyem lan",
+      "userDeviceId": "70aa90e00177a530dcc446e7c6b4f6f941353a223068f30d3e00c7c466107c77",
+      "userName": "mirca",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783087264970,
+      "updatedAt": 1783087264970,
+      "status": "active"
+    },
     {
       "id": "local-1783085302970",
       "text": "amen",
@@ -536,7 +550,7 @@
   ],
   "likeCount": 90,
   "shareCount": 183,
-  "viewCount": 9759,
+  "viewCount": 9783,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
