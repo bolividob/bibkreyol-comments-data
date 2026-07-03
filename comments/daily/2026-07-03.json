@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783052949216,
+  "updatedAt": 1783053193963,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783000919128",
+      "text": "Amen amen",
+      "userDeviceId": "3ae1c39d55b6c9a91ebaab8802ff7ef9fe62a92687479036c7d06901de32da10",
+      "userName": "Bernadeau",
+      "verseName": "Mike 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783053193963,
+      "updatedAt": 1783053193963,
+      "status": "active"
+    },
     {
       "id": "local-1783052632983",
       "text": "gro koze wi 🤔",
@@ -225,7 +239,7 @@
   ],
   "likeCount": 30,
   "shareCount": 36,
-  "viewCount": 4197,
+  "viewCount": 4251,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
