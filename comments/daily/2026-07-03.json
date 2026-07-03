@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783105325342,
+  "updatedAt": 1783105444926,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783041938520",
+      "text": "mèsi senyè pou gloire",
+      "userDeviceId": "473d7b484f312584adac1e67df5d06eaac8e6d8fa118cb19b04441d5c1c14daa",
+      "userName": "carina",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783105444925,
+      "updatedAt": 1783105444925,
+      "status": "active"
+    },
     {
       "id": "local-1783101507080",
       "text": "jesu se męt tout mèt",
@@ -631,7 +645,7 @@
   ],
   "likeCount": 120,
   "shareCount": 243,
-  "viewCount": 13657,
+  "viewCount": 13682,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
