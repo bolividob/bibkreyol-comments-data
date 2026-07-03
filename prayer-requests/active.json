@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783054203965,
+  "updatedAt": 1783055885822,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,14 +14,19 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 4,
+      "prayerCount": 5,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
         "153c7df805dc08d359449a48c1c71909f5cc1ac420aa974408db51e17d0a7954",
-        "253321c93c1f34605ba1ae0c670bca7a090d70b0907f28777438420ad9df40fa"
+        "253321c93c1f34605ba1ae0c670bca7a090d70b0907f28777438420ad9df40fa",
+        "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91"
       ],
       "prayingPreview": [
+        {
+          "userName": "Roodson",
+          "prayedAt": 1783055870734
+        },
         {
           "userName": "fequier jean Philippe",
           "prayedAt": 1783052990193
@@ -40,6 +45,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91-1783055870734-encouragement",
+          "userDeviceId": "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91",
+          "userName": "Roodson",
+          "text": "toujou priye Bondye",
+          "createdAt": 1783055870734
+        },
         {
           "id": "253321c93c1f34605ba1ae0c670bca7a090d70b0907f28777438420ad9df40fa-1783053433365-encouragement",
           "userDeviceId": "253321c93c1f34605ba1ae0c670bca7a090d70b0907f28777438420ad9df40fa",
@@ -63,7 +75,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783054203157,
+      "updatedAt": 1783055883856,
       "answeredAt": null,
       "testimony": null
     },
