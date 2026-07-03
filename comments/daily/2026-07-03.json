@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783048389403,
+  "updatedAt": 1783048640064,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783048501323",
+      "text": "Amen 🙏",
+      "userDeviceId": "0adeb27715889c1698f2c920f31f0fe856faab219a4c59643177b81863c4f33e",
+      "userName": "Elisabeth",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783048640064,
+      "updatedAt": 1783048640064,
+      "status": "active"
+    },
     {
       "id": "local-1783043659125",
       "text": "bonsoir mwen kontan PAMI nous",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
-  "shareCount": 27,
-  "viewCount": 3057,
+  "likeCount": 17,
+  "shareCount": 28,
+  "viewCount": 3181,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -152,7 +166,8 @@
     "aa2703d2996edbde1d4de1c361c3fc1a032988ccc79e3033d99818a930a7f4c0",
     "662c2274aefb551dd3c5b7910c24904b4f2e12292727bb163514fd8f9e70dd71",
     "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b",
-    "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04"
+    "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04",
+    "0adeb27715889c1698f2c920f31f0fe856faab219a4c59643177b81863c4f33e"
   ],
   "verseViewBy": []
 }
