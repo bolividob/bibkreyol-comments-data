@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783110426529,
+  "updatedAt": 1783110545717,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Abdyas 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "84bc2b3e283c40b770a48c25b4e3ac99e4ae8281426f1f78803db39d4c5e05a4"
+      ],
       "createdAt": 1783108206120,
-      "updatedAt": 1783108206120,
+      "updatedAt": 1783110545717,
       "status": "active"
     },
     {
@@ -59,7 +61,7 @@
         "7fec6ef8bf00311423e2149f86fb850b5e7007597617f2dfd4f70cdc702fba9f"
       ],
       "createdAt": 1783101621671,
-      "updatedAt": 1783103284111,
+      "updatedAt": 1783110545717,
       "status": "active"
     },
     {
@@ -673,7 +675,7 @@
   ],
   "likeCount": 126,
   "shareCount": 255,
-  "viewCount": 14521,
+  "viewCount": 14545,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
