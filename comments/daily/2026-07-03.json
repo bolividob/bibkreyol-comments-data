@@ -1,9 +1,69 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783081449322,
+  "updatedAt": 1783081953109,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783081587130",
+      "text": "🇦🇹avec🇪🇸",
+      "userDeviceId": "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+      "userName": "Bonjour",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
+      "createdAt": 1783081953109,
+      "updatedAt": 1783081953109,
+      "status": "active"
+    },
+    {
+      "id": "local-1783081685428",
+      "text": "🌍🇪🇸3-0🇦🇹🌏",
+      "userDeviceId": "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+      "userName": "Bonjour",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
+      "createdAt": 1783081953109,
+      "updatedAt": 1783081953109,
+      "status": "active"
+    },
+    {
+      "id": "local-1783081813445",
+      "text": "Amen",
+      "userDeviceId": "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+      "userName": "Jehochoua",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783081953109,
+      "updatedAt": 1783081953109,
+      "status": "active"
+    },
+    {
+      "id": "local-1783081900732",
+      "text": "Amén wi",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783081953109,
+      "updatedAt": 1783081953109,
+      "status": "active"
+    },
     {
       "id": "local-1783081415466",
       "text": "Amène",
@@ -12,10 +72,12 @@
       "verseName": "Abdyas 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1783081449321,
-      "updatedAt": 1783081449321,
+      "updatedAt": 1783081953109,
       "status": "active"
     },
     {
@@ -198,10 +260,12 @@
       "verseName": "Mike 5:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
+      ],
       "createdAt": 1783053193963,
-      "updatedAt": 1783053193963,
+      "updatedAt": 1783081953109,
       "status": "active"
     },
     {
@@ -212,12 +276,13 @@
       "verseName": "Abdyas 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "2118152e24b549617398cb3229cd6712edb49f18e24748053a9658af44afcc65"
+        "2118152e24b549617398cb3229cd6712edb49f18e24748053a9658af44afcc65",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1783052710496,
-      "updatedAt": 1783052710496,
+      "updatedAt": 1783081953109,
       "status": "active"
     },
     {
@@ -256,12 +321,13 @@
       "verseName": "Abdyas 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a4621d5c91487e9464be10fa0ac045f4792d90c02ec6e022600cc6ebfea54ae7"
+        "a4621d5c91487e9464be10fa0ac045f4792d90c02ec6e022600cc6ebfea54ae7",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1783050609722,
-      "updatedAt": 1783051030596,
+      "updatedAt": 1783081953109,
       "status": "active"
     },
     {
@@ -304,13 +370,14 @@
       "verseName": "Abdyas 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "6aeb64dc13408a0e38e5d086d603bfb6f7e7cd5bef0ba9e1e09522211643196b",
-        "ceec6f4b7297934e0cc71855cc43dfb404807891c2fc9669c7c7f391d047aab3"
+        "ceec6f4b7297934e0cc71855cc43dfb404807891c2fc9669c7c7f391d047aab3",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1783043848266,
-      "updatedAt": 1783063324817,
+      "updatedAt": 1783081953109,
       "status": "active"
     },
     {
@@ -321,12 +388,13 @@
       "verseName": "Abdyas 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a4621d5c91487e9464be10fa0ac045f4792d90c02ec6e022600cc6ebfea54ae7"
+        "a4621d5c91487e9464be10fa0ac045f4792d90c02ec6e022600cc6ebfea54ae7",
+        "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592"
       ],
       "createdAt": 1783043848266,
-      "updatedAt": 1783052710496,
+      "updatedAt": 1783081953109,
       "status": "active"
     },
     {
@@ -424,9 +492,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
-  "shareCount": 160,
-  "viewCount": 8568,
+  "likeCount": 73,
+  "shareCount": 163,
+  "viewCount": 8682,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -498,7 +566,9 @@
     "0f6716bb271f4cddc7bb8601135ef3c7103750cb3bcf57273e5b04bba84b67e1",
     "4834c2fb1f8cb20d76802b51f13c7f273f482117f370eea81a92a85f33f7406e",
     "05f01411e8a2946cdd3ad88e2a0519d1582bb842c2d6c67d0ae3142f65a3c928",
-    "5f165e1485a401b99455b0a6ebf8cd2d4b5d51686613b4a17afbc288f6fef2de"
+    "5f165e1485a401b99455b0a6ebf8cd2d4b5d51686613b4a17afbc288f6fef2de",
+    "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
+    "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad"
   ],
   "verseViewBy": []
 }
