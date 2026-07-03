@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783048928711,
+  "updatedAt": 1783050609722,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783050575879",
+      "text": "amén 🙏❤️",
+      "userDeviceId": "529f4ae8fe43c45a00b904877cbf7d7aa7b024c6cb75724347cd0fab3c0e86e2",
+      "userName": "rose",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783050609722,
+      "updatedAt": 1783050609722,
+      "status": "active"
+    },
     {
       "id": "local-1783048501323",
       "text": "Amen 🙏",
@@ -147,9 +161,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
+  "likeCount": 20,
   "shareCount": 30,
-  "viewCount": 3306,
+  "viewCount": 3369,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -168,7 +182,9 @@
     "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b",
     "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04",
     "0adeb27715889c1698f2c920f31f0fe856faab219a4c59643177b81863c4f33e",
-    "e71b4499fc12ec7c8fd53fe468dad9e2fbefc58ecaa4c647867fa8c042de1e1d"
+    "e71b4499fc12ec7c8fd53fe468dad9e2fbefc58ecaa4c647867fa8c042de1e1d",
+    "2014cdfca2b58b13af5dd034089307ef4d1046b877885328d3326c68572e17ee",
+    "529f4ae8fe43c45a00b904877cbf7d7aa7b024c6cb75724347cd0fab3c0e86e2"
   ],
   "verseViewBy": []
 }
