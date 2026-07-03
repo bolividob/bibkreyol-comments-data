@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783077911845,
+  "updatedAt": 1783078040771,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783078029466",
+      "text": "amèn... sa ku ekri la mwen swete li aplike nan peyi m Ayiti.. Bondye lavi a ou gran pa gen anyen w pa kab fè ni ki enposib pou ou",
+      "userDeviceId": "7527fa24d238de595c3e34e31e53af5f579d3c8bd6b8e507032e0b75faca50a5",
+      "userName": "St Hilaire Vilano",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783078040771,
+      "updatedAt": 1783078040771,
+      "status": "active"
+    },
     {
       "id": "local-1783075211116",
       "text": "Merci notre père qui es aux cieux pour la vie",
@@ -350,9 +364,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
+  "likeCount": 64,
   "shareCount": 141,
-  "viewCount": 7677,
+  "viewCount": 7716,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -415,7 +429,9 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "ec406ce9c343b74bc2793c41e32ce291561666c5c8c508cb8611f561911e8eec",
-    "5d52975149f8e168054dc716abb63df7a9f5640c88aa30a936d7ce6b2d24693c"
+    "5d52975149f8e168054dc716abb63df7a9f5640c88aa30a936d7ce6b2d24693c",
+    "7527fa24d238de595c3e34e31e53af5f579d3c8bd6b8e507032e0b75faca50a5",
+    "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d"
   ],
   "verseViewBy": []
 }
