@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783095972610,
+  "updatedAt": 1783096206551,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 11,
+      "prayerCount": 12,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
@@ -26,9 +26,14 @@
         "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef",
         "051a3dc0ba81666836d978acabbef9d68ddf211ca46dd163268b452531ecbd6c",
         "c72cf04e962eb3456c915bd7ce8b3ccda7148f7192eba098bb3b8b3238afb3cd",
-        "b921d74775501a961e7f6b33d9f89e08b848ded825e7b339c59abe5c952e5792"
+        "b921d74775501a961e7f6b33d9f89e08b848ded825e7b339c59abe5c952e5792",
+        "8129db8d40c8c04f9374417c0101b637374143ee66d88ecc30e62a06707b4dfd"
       ],
       "prayingPreview": [
+        {
+          "userName": "Josianne",
+          "prayedAt": 1783096192081
+        },
         {
           "userName": "gerizon",
           "prayedAt": 1783095925287
@@ -75,6 +80,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "8129db8d40c8c04f9374417c0101b637374143ee66d88ecc30e62a06707b4dfd-1783096192081-encouragement",
+          "userDeviceId": "8129db8d40c8c04f9374417c0101b637374143ee66d88ecc30e62a06707b4dfd",
+          "userName": "Josianne",
+          "text": "Mwen vle pran pozisyon pou BonDye ka jwenn mwen",
+          "createdAt": 1783096192081
+        },
         {
           "id": "b921d74775501a961e7f6b33d9f89e08b848ded825e7b339c59abe5c952e5792-1783095925287-encouragement",
           "userDeviceId": "b921d74775501a961e7f6b33d9f89e08b848ded825e7b339c59abe5c952e5792",
@@ -147,7 +159,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783095971738,
+      "updatedAt": 1783096205644,
       "answeredAt": null,
       "testimony": null
     },
