@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783052467258,
+  "updatedAt": 1783052588747,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783052557083",
+      "text": "Ou ka chanje li nan paramet lekti a.",
+      "userDeviceId": "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+      "userName": "Bib Kreyol",
+      "verseName": "Abdyas 1:4",
+      "parentId": "local-1783042972925",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783052588747,
+      "updatedAt": 1783052588747,
+      "status": "active"
+    },
     {
       "id": "local-1783050575879",
       "text": "amén 🙏❤️",
@@ -155,13 +169,13 @@
       "userName": "Augustin Roselourde",
       "verseName": "Abdyas 1:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "a4621d5c91487e9464be10fa0ac045f4792d90c02ec6e022600cc6ebfea54ae7"
       ],
       "createdAt": 1783043353303,
-      "updatedAt": 1783050889800,
+      "updatedAt": 1783052588747,
       "status": "active"
     },
     {
@@ -181,7 +195,7 @@
   ],
   "likeCount": 28,
   "shareCount": 35,
-  "viewCount": 4077,
+  "viewCount": 4107,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
