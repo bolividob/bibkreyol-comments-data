@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783055885822,
+  "updatedAt": 1783074853451,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,15 +14,20 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 5,
+      "prayerCount": 6,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
         "153c7df805dc08d359449a48c1c71909f5cc1ac420aa974408db51e17d0a7954",
         "253321c93c1f34605ba1ae0c670bca7a090d70b0907f28777438420ad9df40fa",
-        "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91"
+        "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91",
+        "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798"
       ],
       "prayingPreview": [
+        {
+          "userName": "Richardson Léon",
+          "prayedAt": 1783074719395
+        },
         {
           "userName": "Roodson",
           "prayedAt": 1783055870734
@@ -45,6 +50,27 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798-1783074768742-encouragement",
+          "userDeviceId": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798",
+          "userName": "Richardson Léon",
+          "text": "pou bondye deblokem",
+          "createdAt": 1783074768742
+        },
+        {
+          "id": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798-1783074754534-encouragement",
+          "userDeviceId": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798",
+          "userName": "Richardson Léon",
+          "text": "pou bondye deblokem",
+          "createdAt": 1783074754534
+        },
+        {
+          "id": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798-1783074719395-encouragement",
+          "userDeviceId": "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798",
+          "userName": "Richardson Léon",
+          "text": "jezi chanje lavim fem vine Yon Moun ki pou toujour béni nan travail mwen lanjan santé",
+          "createdAt": 1783074719395
+        },
         {
           "id": "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91-1783055870734-encouragement",
           "userDeviceId": "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91",
@@ -75,7 +101,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783055883856,
+      "updatedAt": 1783074851900,
       "answeredAt": null,
       "testimony": null
     },
