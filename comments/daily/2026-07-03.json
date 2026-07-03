@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783080560509,
+  "updatedAt": 1783080738377,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783080592791",
+      "text": "Amen",
+      "userDeviceId": "e08fa751eba8a770844330182ea495b8c52f8c46737cc1e772ca05bbee86dcf9",
+      "userName": "Stelancia Joseph",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783080738377,
+      "updatedAt": 1783080738377,
+      "status": "active"
+    },
     {
       "id": "local-1783080481967",
       "text": "Amen",
@@ -378,9 +392,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
+  "likeCount": 68,
   "shareCount": 155,
-  "viewCount": 8336,
+  "viewCount": 8379,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -448,7 +462,8 @@
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "8de07fac741e7da293f9957d8df3740e20396983658cb63c611d0db7e44fb60a",
-    "e08fa751eba8a770844330182ea495b8c52f8c46737cc1e772ca05bbee86dcf9"
+    "e08fa751eba8a770844330182ea495b8c52f8c46737cc1e772ca05bbee86dcf9",
+    "0f6716bb271f4cddc7bb8601135ef3c7103750cb3bcf57273e5b04bba84b67e1"
   ],
   "verseViewBy": []
 }
