@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783099207633,
+  "updatedAt": 1783099327619,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783038717008",
+      "text": "mw renmen li bib mw Chak jou",
+      "userDeviceId": "0839a97d35f5f5f8510b0019564476f0dd2b318256b7a17678cd8cf50a6dc9dd",
+      "userName": "Louis jeune Marie Getha",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783099327618,
+      "updatedAt": 1783099327618,
+      "status": "active"
+    },
     {
       "id": "local-1783090295524",
       "text": "fè yon opération pou mw papa retire kis nan ovè mw genyen an Bondye",
@@ -598,7 +612,7 @@
   ],
   "likeCount": 114,
   "shareCount": 230,
-  "viewCount": 12619,
+  "viewCount": 12639,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
