@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783085046841,
+  "updatedAt": 1783085531197,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 8,
+      "prayerCount": 9,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
@@ -23,9 +23,14 @@
         "37367b1a05e39964ebacc330f2824898be491a62401df244f170f4ccccd58a91",
         "5ab468d757a829d62120bcbd8426846aa54aa85df7667837e6d1e3aad28d5798",
         "055a7538eaa3de2a1688cda3bcc0fff27f46d057636ea75d6051ea551d9ce2a9",
-        "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef"
+        "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef",
+        "051a3dc0ba81666836d978acabbef9d68ddf211ca46dd163268b452531ecbd6c"
       ],
       "prayingPreview": [
+        {
+          "userName": "altidor",
+          "prayedAt": 1783085418862
+        },
         {
           "userName": "lucson",
           "prayedAt": 1783085039748
@@ -60,6 +65,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "051a3dc0ba81666836d978acabbef9d68ddf211ca46dd163268b452531ecbd6c-1783085418862-encouragement",
+          "userDeviceId": "051a3dc0ba81666836d978acabbef9d68ddf211ca46dd163268b452531ecbd6c",
+          "userName": "altidor",
+          "text": "mwen bezwen la priye pou fyayem restore",
+          "createdAt": 1783085418862
+        },
         {
           "id": "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef-1783085039748-encouragement",
           "userDeviceId": "218f76ab428c652a3f842de3c390bb5c4f4e077206181eb49f511bdaa80d01ef",
@@ -118,7 +130,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783085045887,
+      "updatedAt": 1783085530228,
       "answeredAt": null,
       "testimony": null
     },
