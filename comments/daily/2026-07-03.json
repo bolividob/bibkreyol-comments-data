@@ -1,9 +1,37 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783043353303,
+  "updatedAt": 1783043663255,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783043381635",
+      "text": "Alleluia Alleluia Alleluia",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783043663255,
+      "updatedAt": 1783043663255,
+      "status": "active"
+    },
+    {
+      "id": "local-1783043582497",
+      "text": "amén amén amén amén amén 🙏",
+      "userDeviceId": "daac6c11a39f8eaeb89270c8f9a6308bbdc94f6c37d5d4680492d88334c57fbb",
+      "userName": "samhta",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783043663255,
+      "updatedAt": 1783043663255,
+      "status": "active"
+    },
     {
       "id": "local-1783041930235",
       "text": "Amen amen amen amen amen amen amen amen amen",
@@ -63,7 +91,7 @@
   ],
   "likeCount": 9,
   "shareCount": 10,
-  "viewCount": 1541,
+  "viewCount": 1675,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
