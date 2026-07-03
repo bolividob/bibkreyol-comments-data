@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783048571318,
+  "updatedAt": 1783051930900,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,11 +14,16 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0"
+        "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
+        "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90"
       ],
       "prayingPreview": [
+        {
+          "userName": "Flore",
+          "prayedAt": 1783051920170
+        },
         {
           "userName": "bib",
           "prayedAt": 1783048451090
@@ -26,7 +31,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783048570489,
+      "updatedAt": 1783051930095,
       "answeredAt": null,
       "testimony": null
     },
