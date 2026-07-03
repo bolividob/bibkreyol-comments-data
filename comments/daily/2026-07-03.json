@@ -1,9 +1,23 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783089786188,
+  "updatedAt": 1783089927531,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783089906496",
+      "text": "bebetho",
+      "userDeviceId": "34151fe13b9a30043a9ed2d668beb94456fb165452021042049ec12372973feb",
+      "userName": "bebetho",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783089927530,
+      "updatedAt": 1783089927530,
+      "status": "active"
+    },
     {
       "id": "local-1783087346327",
       "text": "pale pou mw papa",
@@ -566,7 +580,7 @@
   ],
   "likeCount": 94,
   "shareCount": 193,
-  "viewCount": 10357,
+  "viewCount": 10390,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
