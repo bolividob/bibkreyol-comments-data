@@ -1,9 +1,37 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783069564963,
+  "updatedAt": 1783069687553,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783069630105",
+      "text": "Mirlène",
+      "userDeviceId": "a44687d4996148b557ff1f3d6bd126c315492c714b75a35aab381d3dfd2f416c",
+      "userName": "Mirlene",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783069687553,
+      "updatedAt": 1783069687553,
+      "status": "active"
+    },
+    {
+      "id": "local-1783069590582",
+      "text": "Mirlène",
+      "userDeviceId": "a44687d4996148b557ff1f3d6bd126c315492c714b75a35aab381d3dfd2f416c",
+      "userName": "Mirlene",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783069687552,
+      "updatedAt": 1783069687552,
+      "status": "active"
+    },
     {
       "id": "local-1783065262189",
       "text": "Mesi pou grâce ou papa 🙏🏾✝️",
@@ -280,9 +308,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
-  "shareCount": 67,
-  "viewCount": 5678,
+  "likeCount": 45,
+  "shareCount": 70,
+  "viewCount": 5702,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -327,7 +355,8 @@
     "4f5ac3601f47012e9f0b73d90f3f9b86a23165180e93ab788d7a338b5ecf5487",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
     "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
-    "2b6b541bc4239968673f7d7d85bb95811cdb3add7bbb83debae488ecbf5dbc8e"
+    "2b6b541bc4239968673f7d7d85bb95811cdb3add7bbb83debae488ecbf5dbc8e",
+    "0b57277620e29acef3ccb2331a5f9094d205da93e61b63c9a2153a919fcc8ed1"
   ],
   "verseViewBy": []
 }
