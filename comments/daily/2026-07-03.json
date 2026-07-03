@@ -1,9 +1,53 @@
 {
   "date": "2026-07-03",
   "verseKey": "daily:2026-07-03",
-  "updatedAt": 1783043663255,
+  "updatedAt": 1783043848266,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783043659125",
+      "text": "bonsoir mwen kontan PAMI nous",
+      "userDeviceId": "46487e19ab3fc268840252fb5ca8a858715766cef424ddf886f9611b7a06dc1c",
+      "userName": "Gabriel gabens",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783043848266,
+      "updatedAt": 1783043848266,
+      "status": "active"
+    },
+    {
+      "id": "local-1783043724352",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "6aeb64dc13408a0e38e5d086d603bfb6f7e7cd5bef0ba9e1e09522211643196b",
+      "userName": "Mickenson ceus",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "6aeb64dc13408a0e38e5d086d603bfb6f7e7cd5bef0ba9e1e09522211643196b"
+      ],
+      "createdAt": 1783043848266,
+      "updatedAt": 1783043848266,
+      "status": "active"
+    },
+    {
+      "id": "local-1783043816865",
+      "text": "amen 100000000000000000000000000 fwa",
+      "userDeviceId": "0984b895e9affb3629ca80099fa9414d58fd29d01c98ab4790a9137385b417c9",
+      "userName": "Bolivar",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783043848266,
+      "updatedAt": 1783043848266,
+      "status": "active"
+    },
     {
       "id": "local-1783043381635",
       "text": "Alleluia Alleluia Alleluia",
@@ -89,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 10,
-  "viewCount": 1675,
+  "likeCount": 10,
+  "shareCount": 13,
+  "viewCount": 1750,
   "verseLikedBy": [
     "a7e3a51ee1eb0d5bbf1d2d2012f0d863bcb10bd31fb466261d436fe80b8369f3",
     "ec858a67a5305fd3407ccbe6c0375a3a11fd817cbc0071671d54fad81a00cb9e",
@@ -101,7 +145,8 @@
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
     "668437c8969fed131d0b463f11ffc3aaf8a83f41e4f7823e4df170f203013ab4",
     "b13f97cad25e2bb5a7c7f3e46512075e49e36291611ef153de80828896bcbb68",
-    "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da"
+    "66fbc8ecabe2035832f2c372da2ab7c6c73146e353e7fa8f7e7bdcebcf5ac4da",
+    "0984b895e9affb3629ca80099fa9414d58fd29d01c98ab4790a9137385b417c9"
   ],
   "verseViewBy": []
 }
