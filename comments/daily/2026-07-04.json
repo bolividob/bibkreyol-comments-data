@@ -1,9 +1,23 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783160646111,
+  "updatedAt": 1783160765971,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783160668432",
+      "text": "li toujou bon pou li bib ou",
+      "userDeviceId": "f6bf968446c7ab4649599df0926fe2e938fb8f81b0fa3bfb4b0493d46983dea9",
+      "userName": "anis Jean Rosevelt",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783160765971,
+      "updatedAt": 1783160765971,
+      "status": "active"
+    },
     {
       "id": "local-1783160634308",
       "text": "li toujou bon pou li bib ou",
@@ -233,9 +247,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
+  "likeCount": 46,
   "shareCount": 47,
-  "viewCount": 6589,
+  "viewCount": 6618,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
@@ -281,7 +295,8 @@
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "b2ccadf420d58a27e59cf7c7b4f27d0a7824b427f9d55ce79d73fbb693c9c74b",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
-    "21ead6767aa80939d59b28f2759a7e618b0784ebf77e65f1f7f954394b2ecd3b"
+    "21ead6767aa80939d59b28f2759a7e618b0784ebf77e65f1f7f954394b2ecd3b",
+    "e7493e528fb100101ef625f167b77e95ea494034736a543f2a6a0ecc64acbc8e"
   ],
   "verseViewBy": []
 }
