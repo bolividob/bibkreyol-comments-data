@@ -1,9 +1,23 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783194724488,
+  "updatedAt": 1783194859806,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783194800519",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783194859806,
+      "updatedAt": 1783194859806,
+      "status": "active"
+    },
     {
       "id": "local-1783188402852",
       "text": "vese encreole",
@@ -335,7 +349,7 @@
   ],
   "likeCount": 110,
   "shareCount": 136,
-  "viewCount": 14483,
+  "viewCount": 14515,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
