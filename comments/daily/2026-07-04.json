@@ -1,9 +1,23 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783171806844,
+  "updatedAt": 1783171928126,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783171895555",
+      "text": "amén 🙏🙏🙏🙏",
+      "userDeviceId": "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+      "userName": "philandine",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783171928125,
+      "updatedAt": 1783171928125,
+      "status": "active"
+    },
     {
       "id": "local-1783160668432",
       "text": "li toujou bon pou li bib ou",
@@ -249,9 +263,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 74,
+  "likeCount": 75,
   "shareCount": 92,
-  "viewCount": 9529,
+  "viewCount": 9565,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
@@ -326,7 +340,8 @@
     "837f5e0d0766c45b51100c035616c2897c23cfc64943bd8c3f84af67845830e8",
     "51312ab7b07666f7b366e034e97fcd5336e53071df91d372512ec0ff65eb846d",
     "2db6466b7c1982e4bfa013ef7e7e87314aa3ce1bed866a516e26ed316a21e9f0",
-    "24d6ab6d6051153609f95786d606db4f8b7fbaf857db373eb96def337e2dffdb"
+    "24d6ab6d6051153609f95786d606db4f8b7fbaf857db373eb96def337e2dffdb",
+    "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
   ],
   "verseViewBy": []
 }
