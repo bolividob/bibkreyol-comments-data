@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783203494858,
+  "updatedAt": 1783203859243,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Kantik 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "11b37aad8f54e48d42f8e58add3c0c00e33ba70f02709eae889090870200352a"
+      ],
       "createdAt": 1783194859806,
-      "updatedAt": 1783194859806,
+      "updatedAt": 1783203859243,
       "status": "active"
     },
     {
@@ -43,7 +45,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1783188484207,
-      "updatedAt": 1783198745501,
+      "updatedAt": 1783203859243,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "Kantik 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "11b37aad8f54e48d42f8e58add3c0c00e33ba70f02709eae889090870200352a"
+      ],
       "createdAt": 1783179549034,
-      "updatedAt": 1783179549034,
+      "updatedAt": 1783203859243,
       "status": "active"
     },
     {
@@ -71,7 +75,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1783179549034,
-      "updatedAt": 1783179549034,
+      "updatedAt": 1783203859243,
       "status": "active"
     },
     {
@@ -361,9 +365,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 121,
-  "shareCount": 143,
-  "viewCount": 16595,
+  "likeCount": 122,
+  "shareCount": 144,
+  "viewCount": 16701,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
@@ -485,7 +489,8 @@
     "d91c17f0f973408ec5ff6572cafbbf9d8abd553184399dc9af3ab64c0bd4498e",
     "b01ea64b6bf5a61a940dece1a8587c51a4737ab31ec3d74e68c7674f25fb0b5d",
     "264853aac831d7e73dec01246c0f5c0050d24dab5cf09670c9717b61ec217003",
-    "a182c3ccde1a762ba65e161b4ffa458e9d02c0e22d9cfc85fa62e054f15f1bf5"
+    "a182c3ccde1a762ba65e161b4ffa458e9d02c0e22d9cfc85fa62e054f15f1bf5",
+    "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e"
   ],
   "verseViewBy": []
 }
