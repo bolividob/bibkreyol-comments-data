@@ -1,9 +1,23 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783175119767,
+  "updatedAt": 1783175225530,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783175029909",
+      "text": "amen",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783175225530,
+      "updatedAt": 1783175225530,
+      "status": "active"
+    },
     {
       "id": "local-1783171895555",
       "text": "amén 🙏🙏🙏🙏",
@@ -265,7 +279,7 @@
   ],
   "likeCount": 84,
   "shareCount": 97,
-  "viewCount": 10323,
+  "viewCount": 10347,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
