@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": 1783144562010,
+  "updatedAt": 1783167368478,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 39,
@@ -236,7 +236,7 @@
       "customExpectedSeason": null,
       "request": "Bondye Beni nou,mwen gen yon grav pwoblèm nan Senti Mwen bezwen èd Finansyè nous tanpri numerom c 34101905,Moun ki vle edem ka kontaktem sou WhatsApp sou numéro sa,Nou pap pèdi sa",
       "status": "praying",
-      "prayerCount": 21,
+      "prayerCount": 22,
       "prayedBy": [
         "d44da2f1863193c670dc44cb396397666a9c4e5726f96e614b0510c4d50ff96c",
         "b455e506e86463b6e28d246d1b263ca040cd18cbb9a93271bdcbd2e1e217bca0",
@@ -258,9 +258,14 @@
         "8c9c98e91dce1417fbd56d325b759970992e9c622f50983bce83f5c6935d0f88",
         "f2455eb24bd40f9504fd7f1ed73bc6098a4af66be3447e72878787c6d4807b4c",
         "edd371a9ba9cabb4d0ea6e0289d47c0c332bcaa670503c0fe79b8a0588b4ebf5",
-        "36839082187de5cc2563af52ab39626431af20c16747a34cc0e3e5aacd22989a"
+        "36839082187de5cc2563af52ab39626431af20c16747a34cc0e3e5aacd22989a",
+        "21b1b9de230ac882cb478c0f414b9a45d147c9f177801f29cb56f5f2ca5a5a9f"
       ],
       "prayingPreview": [
+        {
+          "userName": "u Fidel nan lavim jèzi",
+          "prayedAt": 1783167321035
+        },
         {
           "userName": "Deronnette jean Marquis",
           "prayedAt": 1783101392649
@@ -336,10 +341,6 @@
         {
           "userName": "sr Bernard morancy",
           "prayedAt": 1782866737077
-        },
-        {
-          "userName": "mw renmen bndye nn anpil",
-          "prayedAt": 1782804010859
         }
       ],
       "encouragements": [
@@ -436,7 +437,7 @@
         }
       ],
       "submittedAt": 1782788211354,
-      "updatedAt": 1783101481989,
+      "updatedAt": 1783167368477,
       "answeredAt": null,
       "testimony": null
     },
