@@ -1,9 +1,39 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783134554423,
+  "updatedAt": 1783134798387,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783134750821",
+      "text": "tout gloire pour bondieu",
+      "userDeviceId": "79b604111914d3156269244229a2db7645f56b6f396b6f66bd5c72fdce7eb5f5",
+      "userName": "tout gloire pour bondieu",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "79b604111914d3156269244229a2db7645f56b6f396b6f66bd5c72fdce7eb5f5"
+      ],
+      "createdAt": 1783134798387,
+      "updatedAt": 1783134798387,
+      "status": "active"
+    },
+    {
+      "id": "local-1783134798423",
+      "text": "rosemilove",
+      "userDeviceId": "79b604111914d3156269244229a2db7645f56b6f396b6f66bd5c72fdce7eb5f5",
+      "userName": "tout gloire pour bondieu",
+      "verseName": "Kantik 4:2",
+      "parentId": "local-1783134750821",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783134798387,
+      "updatedAt": 1783134798387,
+      "status": "active"
+    },
     {
       "id": "local-1783134374979",
       "text": "Amen 🙏🙏🙏🙏🙏🙏",
@@ -133,9 +163,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 24,
+  "likeCount": 27,
   "shareCount": 16,
-  "viewCount": 3108,
+  "viewCount": 3227,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
@@ -160,7 +190,10 @@
     "aa819b3ea7bfd03f2d822e9900ec25e2c2a7b7c8c1fa5122856733fe576bb247",
     "e9f3e9596878fa84236ea365ef55136201424a4e4e82d370504a5d4a063c64d3",
     "7499d39ec3f3cfff57640c358130e056a37ce54ea9f022c613433c3873283740",
-    "d84f882556dac73be2f95eb946d5f07880177f207c7c77261879c307fafa00f6"
+    "d84f882556dac73be2f95eb946d5f07880177f207c7c77261879c307fafa00f6",
+    "97cc720e59b68acefc5aea405fa7b8a562f219f0b7249bf4069a18920aaedcef",
+    "5f952f5aed74f66badd854199026b8af4b2cf8c397d71c749852b7e1533ea039",
+    "eff90daee77ebd46419b777d7f4d8a1317036f9e38459bff603c6b5998172b4e"
   ],
   "verseViewBy": []
 }
