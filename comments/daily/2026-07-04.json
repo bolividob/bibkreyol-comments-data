@@ -1,9 +1,23 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783149363155,
+  "updatedAt": 1783149485653,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783149455167",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783149485653,
+      "updatedAt": 1783149485653,
+      "status": "active"
+    },
     {
       "id": "local-1783145232747",
       "text": "Mwen kwè nan ou BonDieu puisans🙏🙏",
@@ -191,9 +205,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 37,
-  "shareCount": 24,
-  "viewCount": 5260,
+  "likeCount": 38,
+  "shareCount": 25,
+  "viewCount": 5270,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
@@ -231,7 +245,8 @@
     "2c6e85ec7d527f33170acf01200b574ad01c0c290725fa6f0d33eb3e1d367c17",
     "809a1a6567b55fbb4b5be912204eaca6d499276b0e1e274e954715acefb5c83c",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
-    "070a252b628315b8795454544d59139f777c9e28265b75cbe87df6872fe55171"
+    "070a252b628315b8795454544d59139f777c9e28265b75cbe87df6872fe55171",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
