@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783134964206,
+  "updatedAt": 1783137370678,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -1413,7 +1413,7 @@
       "customExpectedSeason": null,
       "request": "edem priye pou bondye fè falensky jwenn yon travail .epi poul metem yon kote mka adorel pi byen",
       "status": "praying",
-      "prayerCount": 14,
+      "prayerCount": 15,
       "prayedBy": [
         "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
         "55d467b2fb401a839510d55b70c668e6a91a3e217cc68a0c7adf7241d45ed604",
@@ -1428,9 +1428,14 @@
         "aa6148afd605d002e8c6144f943a277707242d01881d9d966802b6cd4112d664",
         "d1fa5d77be9666a322c4d74bb1fb892367814d0913b986f86fc6bf913cf5e84d",
         "8746f7342866237dd875a7ad97e8c37ac380aa65bdd78a9080f72d7d3859e7bf",
-        "89c64b058ba05b15adaba994c03eb81775bf797d2e56f5cba2c7d80911068d68"
+        "89c64b058ba05b15adaba994c03eb81775bf797d2e56f5cba2c7d80911068d68",
+        "0c996816a89a6cfa82f6a0ab9567835b20ea31b7c1004cb82ba3fadf354b4c6d"
       ],
       "prayingPreview": [
+        {
+          "userName": "Aull",
+          "prayedAt": 1783137273728
+        },
         {
           "userName": "Roselande",
           "prayedAt": 1783016675694
@@ -1526,7 +1531,7 @@
         }
       ],
       "submittedAt": 1782129068724,
-      "updatedAt": 1783016893755,
+      "updatedAt": 1783137369801,
       "answeredAt": null,
       "testimony": null
     },
