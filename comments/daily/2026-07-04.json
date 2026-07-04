@@ -1,9 +1,37 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783128188519,
+  "updatedAt": 1783129869165,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783129513336",
+      "text": "amén 🙏🙏🙏🙌",
+      "userDeviceId": "0b196146dfc791774d41222d8217e2eecdb536d43f4803a0cc9e1beb20d3657e",
+      "userName": "Maëva🙏🙏🙏",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783129869165,
+      "updatedAt": 1783129869165,
+      "status": "active"
+    },
+    {
+      "id": "local-1783129555729",
+      "text": "amén 🙏🙏 sèm 🙏🙌",
+      "userDeviceId": "0b196146dfc791774d41222d8217e2eecdb536d43f4803a0cc9e1beb20d3657e",
+      "userName": "Maëva🙏🙏🙏",
+      "verseName": "Kantik 4:2",
+      "parentId": "local-1783126466570",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783129869165,
+      "updatedAt": 1783129869165,
+      "status": "active"
+    },
     {
       "id": "local-1783126466570",
       "text": "Bondye svp bb fèm gras tanpri tanpri Bondye lavia",
@@ -11,11 +39,11 @@
       "userName": "Myrlande usta",
       "verseName": "Kantik 4:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1783126766250,
-      "updatedAt": 1783126766250,
+      "updatedAt": 1783129869165,
       "status": "active"
     },
     {
@@ -77,7 +105,7 @@
   ],
   "likeCount": 13,
   "shareCount": 10,
-  "viewCount": 1626,
+  "viewCount": 1669,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
