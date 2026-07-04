@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783205119994,
+  "updatedAt": 1783205230946,
   "version": 1,
   "comments": [
     {
@@ -31,7 +31,7 @@
         "11b37aad8f54e48d42f8e58add3c0c00e33ba70f02709eae889090870200352a"
       ],
       "createdAt": 1783194859806,
-      "updatedAt": 1783203859243,
+      "updatedAt": 1783205230946,
       "status": "active"
     },
     {
@@ -42,10 +42,12 @@
       "verseName": "Kantik 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1867e1c0653fb847a2ce77d21e41ec54677d3e32376cbaa4d03f3274159c0bd0"
+      ],
       "createdAt": 1783188484207,
-      "updatedAt": 1783203859243,
+      "updatedAt": 1783205230946,
       "status": "active"
     },
     {
@@ -61,7 +63,7 @@
         "11b37aad8f54e48d42f8e58add3c0c00e33ba70f02709eae889090870200352a"
       ],
       "createdAt": 1783179549034,
-      "updatedAt": 1783203859243,
+      "updatedAt": 1783205230946,
       "status": "active"
     },
     {
@@ -72,10 +74,12 @@
       "verseName": "Kantik 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1867e1c0653fb847a2ce77d21e41ec54677d3e32376cbaa4d03f3274159c0bd0"
+      ],
       "createdAt": 1783179549034,
-      "updatedAt": 1783204026629,
+      "updatedAt": 1783205230946,
       "status": "active"
     },
     {
@@ -367,7 +371,7 @@
   ],
   "likeCount": 124,
   "shareCount": 147,
-  "viewCount": 17046,
+  "viewCount": 17074,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
