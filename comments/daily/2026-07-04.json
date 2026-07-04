@@ -1,9 +1,23 @@
 {
   "date": "2026-07-04",
   "verseKey": "daily:2026-07-04",
-  "updatedAt": 1783126388903,
+  "updatedAt": 1783126766251,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783126466570",
+      "text": "Bondye svp bb fèm gras tanpri tanpri Bondye lavia",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Kantik 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783126766250,
+      "updatedAt": 1783126766250,
+      "status": "active"
+    },
     {
       "id": "local-1783124532208",
       "text": "yo pa janm preche nan pasag sa n",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
-  "shareCount": 4,
-  "viewCount": 814,
+  "likeCount": 9,
+  "shareCount": 6,
+  "viewCount": 991,
   "verseLikedBy": [
     "7a106f70bdf4e25fa003cf9ff992a1486fd3d56c06700ca062367b732fa684ac",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
@@ -71,7 +85,9 @@
     "0f07fe7274d06d0bba05ae040f2f9f163fd89e7a6e85ccf95c901115d5ed938a",
     "9344efa4657a6bcf1b4716ecf1f8541c7b25644efcdf36096512cc4aa71e565c",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
-    "f1d4bcacbaafd14440b301073827dd80fffda67fa152806cd453cfe763912815"
+    "f1d4bcacbaafd14440b301073827dd80fffda67fa152806cd453cfe763912815",
+    "3cfd4f2976a6fd345f71c008226493bef93d70a422bcfb6aaf525e604893a2ff",
+    "9364f20736b13255c134aacf3928e19cad29322a5c13e8bd6607d7bf0d90f9bf"
   ],
   "verseViewBy": []
 }
