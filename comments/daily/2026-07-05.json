@@ -1,9 +1,37 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783252670067,
+  "updatedAt": 1783253217150,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783252863732",
+      "text": "merçi SEIGNEUR JESUS",
+      "userDeviceId": "6daf32c591b6d65c844360fc77faaff465157375a9b4f587d66a11e48f6bb909",
+      "userName": "Elus SEVITÉ BONDYE AN JAEN JACQUE TELOR",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783253217150,
+      "updatedAt": 1783253217150,
+      "status": "active"
+    },
+    {
+      "id": "local-1783252839840",
+      "text": "BONDYE BON MOUN",
+      "userDeviceId": "6daf32c591b6d65c844360fc77faaff465157375a9b4f587d66a11e48f6bb909",
+      "userName": "Elus SEVITÉ BONDYE AN JAEN JACQUE TELOR",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783253217150,
+      "updatedAt": 1783253217150,
+      "status": "active"
+    },
     {
       "id": "local-1783250603992",
       "text": "amen 🙏",
@@ -145,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 88,
-  "viewCount": 8383,
+  "likeCount": 60,
+  "shareCount": 90,
+  "viewCount": 8752,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -207,7 +235,8 @@
     "e79173645957530d5da92bbb29104822996851c2e6f06d8be8c1506afac85a54",
     "4faf0aa2e6962e393578a9c3ec874cb68cd4bc18880aa56a7251d979f486a2fe",
     "264f483cd40c98b5f58af39115e819ea071455ff0566d41ab71159756fa3a9bc",
-    "cc2a92543cba993648b6306596b528a8e63c3ae815a20540ca3a5d46f825c601"
+    "cc2a92543cba993648b6306596b528a8e63c3ae815a20540ca3a5d46f825c601",
+    "60c1608f43f1770fff4a27224366707a19096161179fb24913d2739cb25defe1"
   ],
   "verseViewBy": []
 }
