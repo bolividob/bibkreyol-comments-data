@@ -1,9 +1,23 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783253217150,
+  "updatedAt": 1783256210420,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783255640652",
+      "text": "mwen rete nan prezans pawól Bd",
+      "userDeviceId": "27492e897853d627b0c1e0b1bcf9f12b55916bc1dbeede91c6992af3c784254a",
+      "userName": "Emmanuela",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783256210419,
+      "updatedAt": 1783256210419,
+      "status": "active"
+    },
     {
       "id": "local-1783252863732",
       "text": "merçi SEIGNEUR JESUS",
@@ -174,8 +188,8 @@
     }
   ],
   "likeCount": 60,
-  "shareCount": 90,
-  "viewCount": 8752,
+  "shareCount": 92,
+  "viewCount": 9258,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
