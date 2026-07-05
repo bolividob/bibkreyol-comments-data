@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "updatedAt": 1783225684880,
+  "updatedAt": 1783225924305,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 39,
@@ -134,7 +134,7 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 16,
+      "prayerCount": 17,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
@@ -151,9 +151,14 @@
         "3296ff08cfb5cb4ada081a911121227be4a13264300c2b2dab53c050e16792f0",
         "fbc5e75d1343fd69268604e8483e45f7428f24bf89d75385d9826ca0059eccac",
         "dd4823d73f6f2a4f7b3a32c508e9cf1c4c7f5677b85430960a805d27ea78eb98",
-        "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0"
+        "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+        "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed"
       ],
       "prayingPreview": [
+        {
+          "userName": "minuo",
+          "prayedAt": 1783225848676
+        },
         {
           "userName": "sœur Ruth",
           "prayedAt": 1783213233790
@@ -220,6 +225,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed-1783225848676-encouragement",
+          "userDeviceId": "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed",
+          "userName": "minuo",
+          "text": "I'm praying 🙏 now",
+          "createdAt": 1783225848676
+        },
         {
           "id": "8129db8d40c8c04f9374417c0101b637374143ee66d88ecc30e62a06707b4dfd-1783096192081-encouragement",
           "userDeviceId": "8129db8d40c8c04f9374417c0101b637374143ee66d88ecc30e62a06707b4dfd",
@@ -299,7 +311,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783213322573,
+      "updatedAt": 1783225924305,
       "answeredAt": null,
       "testimony": null
     },
