@@ -1,9 +1,65 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783259826228,
+  "updatedAt": 1783263520061,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783257883299",
+      "text": "bondieu se tut pu mw",
+      "userDeviceId": "8f7682974122c9b66f05bceed3e1a806bc826778ce5f97f07ca704940001bfae",
+      "userName": "dieulineda",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783263520061,
+      "updatedAt": 1783263520061,
+      "status": "active"
+    },
+    {
+      "id": "local-1783259345768",
+      "text": "ebre",
+      "userDeviceId": "42ae63bc7505ec45f386f2e9b3eace9cab189bb8f8ec9793defa2d31d58e50b3",
+      "userName": "la belle loveline",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783263520060,
+      "updatedAt": 1783263520060,
+      "status": "active"
+    },
+    {
+      "id": "local-1783259703683",
+      "text": "bondye fidel",
+      "userDeviceId": "5223974b23d590491549889be0f434f2368c295d54132616cb74b4e29ebab248",
+      "userName": "Bondye Bon moun",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783263520060,
+      "updatedAt": 1783263520060,
+      "status": "active"
+    },
+    {
+      "id": "local-1783254474666",
+      "text": "amen 🙏🙌🙌🙌🙌",
+      "userDeviceId": "a9ba374178cccae393803da99dcb17b2c5e9d71f87fb266c94913c44342e2f54",
+      "userName": "Ronalson Dorsainvil",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783263520060,
+      "updatedAt": 1783263520060,
+      "status": "active"
+    },
     {
       "id": "local-1783259314911",
       "text": "Amen 🙏",
@@ -229,9 +285,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 96,
-  "viewCount": 9875,
+  "likeCount": 69,
+  "shareCount": 102,
+  "viewCount": 10717,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -294,7 +350,14 @@
     "cc2a92543cba993648b6306596b528a8e63c3ae815a20540ca3a5d46f825c601",
     "60c1608f43f1770fff4a27224366707a19096161179fb24913d2739cb25defe1",
     "b2c61eaf988b319bb24cc6f2da8e8c5af0677b386632d3d3d62c73aeef605226",
-    "5223974b23d590491549889be0f434f2368c295d54132616cb74b4e29ebab248"
+    "5223974b23d590491549889be0f434f2368c295d54132616cb74b4e29ebab248",
+    "3e05205562393d7dd7eb9b1af16cc9d3fb7ca9fbf31819647c5125c99ac1ff2c",
+    "9aa85329da8ede61c393e6dd695af13a8e3b3c07bce82136016d5fb47f5ae3e4",
+    "f2592ef96a2700eb05c4ed837bfb71ea7cdcbbd70b2cf201b3be033009a74584",
+    "444ea403caaba4abef332abbecbd1a6f376939f5b59556c591770d1d5aae24fd",
+    "1a34d229fc7378f95135bfc465d00348af261f8215eff845658136743bc711e4",
+    "59195b51d58faab5ffd30f22f55546c99d0a0340ab050980d0ae7dbc3a824f51",
+    "8d51fd3d2a0e17bbab0ebe621667e6bc287763344ef23f399e4375861fbc0446"
   ],
   "verseViewBy": []
 }
