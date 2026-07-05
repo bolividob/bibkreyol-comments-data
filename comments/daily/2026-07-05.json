@@ -1,9 +1,37 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783263520061,
+  "updatedAt": 1783263868882,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783262805642",
+      "text": "Li bon li di konsa jan 15p7",
+      "userDeviceId": "214fa5fab5f131e6c6ed330494cc9f29af3b053568c26e9b7f9d2db4c6e09434",
+      "userName": "sintia",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783263868882,
+      "updatedAt": 1783263868882,
+      "status": "active"
+    },
+    {
+      "id": "local-1783262904328",
+      "text": "li",
+      "userDeviceId": "214fa5fab5f131e6c6ed330494cc9f29af3b053568c26e9b7f9d2db4c6e09434",
+      "userName": "sintia",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783263868882,
+      "updatedAt": 1783263868882,
+      "status": "active"
+    },
     {
       "id": "local-1783257883299",
       "text": "bondieu se tut pu mw",
@@ -285,9 +313,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
-  "shareCount": 102,
-  "viewCount": 10717,
+  "likeCount": 68,
+  "shareCount": 109,
+  "viewCount": 11692,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -356,8 +384,7 @@
     "f2592ef96a2700eb05c4ed837bfb71ea7cdcbbd70b2cf201b3be033009a74584",
     "444ea403caaba4abef332abbecbd1a6f376939f5b59556c591770d1d5aae24fd",
     "1a34d229fc7378f95135bfc465d00348af261f8215eff845658136743bc711e4",
-    "59195b51d58faab5ffd30f22f55546c99d0a0340ab050980d0ae7dbc3a824f51",
-    "8d51fd3d2a0e17bbab0ebe621667e6bc287763344ef23f399e4375861fbc0446"
+    "59195b51d58faab5ffd30f22f55546c99d0a0340ab050980d0ae7dbc3a824f51"
   ],
   "verseViewBy": []
 }
