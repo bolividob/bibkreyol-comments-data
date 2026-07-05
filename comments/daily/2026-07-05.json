@@ -1,9 +1,37 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783271189317,
+  "updatedAt": 1783274277242,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783273013363",
+      "text": "amén amén amén",
+      "userDeviceId": "d465a44b0b370d175331cc12884eebfe3a7932cfffc4127b73d8b1df23b2bb93",
+      "userName": "Pierre Jhon wesly",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783274277242,
+      "updatedAt": 1783274277242,
+      "status": "active"
+    },
+    {
+      "id": "local-1783250895993",
+      "text": "Bondye gran nan lavi m",
+      "userDeviceId": "ee45fb5d6b7e687fbfedf3a46e62172c1fce62cbc5c9642efb8ceb3b55bdd7d5",
+      "userName": "laguerre",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783274277241,
+      "updatedAt": 1783274277241,
+      "status": "active"
+    },
     {
       "id": "local-1783270276541",
       "text": "Amen",
@@ -328,8 +356,8 @@
     }
   ],
   "likeCount": 73,
-  "shareCount": 140,
-  "viewCount": 15592,
+  "shareCount": 148,
+  "viewCount": 16571,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
