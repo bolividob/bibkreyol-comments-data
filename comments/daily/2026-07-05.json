@@ -1,9 +1,23 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783267401082,
+  "updatedAt": 1783270674823,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783270276541",
+      "text": "Amen",
+      "userDeviceId": "412642feb9f5ea03ab710bfec260458415e136976b71400da8e489c6fe0a9815",
+      "userName": "sr berthadalance",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783270674823,
+      "updatedAt": 1783270674823,
+      "status": "active"
+    },
     {
       "id": "local-1783262805642",
       "text": "Li bon li di konsa jan 15p7",
@@ -313,9 +327,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 70,
-  "shareCount": 127,
-  "viewCount": 13648,
+  "likeCount": 72,
+  "shareCount": 134,
+  "viewCount": 14627,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -386,7 +400,9 @@
     "1a34d229fc7378f95135bfc465d00348af261f8215eff845658136743bc711e4",
     "59195b51d58faab5ffd30f22f55546c99d0a0340ab050980d0ae7dbc3a824f51",
     "41cd3cc55d20dff1322922900d31e9c661792d952e399423cfbad02773c0f741",
-    "cf66524bbc02cb9441a8794fbcc1969ca162bf8cba3c7dd9c35bf286314204b0"
+    "cf66524bbc02cb9441a8794fbcc1969ca162bf8cba3c7dd9c35bf286314204b0",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+    "5f9933bf6896989f4b06ab529fbaadb3f04b57bcde6aba936c74206189720b4a"
   ],
   "verseViewBy": []
 }
