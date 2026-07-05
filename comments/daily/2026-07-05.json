@@ -1,9 +1,23 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783295678429,
+  "updatedAt": 1783295871045,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783295815078",
+      "text": "amén",
+      "userDeviceId": "60016d5264a9b40b89ef3f843bbd2a20f7d1334cfe8da7b094150469567755c6",
+      "userName": "luc",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783295871045,
+      "updatedAt": 1783295871045,
+      "status": "active"
+    },
     {
       "id": "local-1783288231261",
       "text": "amèn 3fois",
@@ -369,9 +383,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 87,
-  "shareCount": 201,
-  "viewCount": 23372,
+  "likeCount": 88,
+  "shareCount": 202,
+  "viewCount": 23598,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -459,7 +473,8 @@
     "28ed3bfb580338cee64dac1678359c601f300eb3cd0681015cc7cf81be05e42f",
     "a33c130cf2b9af413aadcb6f822181bd783b2f270746f65ee2fa80a725a28342",
     "8e036425e02fcab703d315e915e9bd06dff0e4a97621317430aef5453e459c17",
-    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "d743c993e267d07b813192a8fc663dd4d087cba00ae48ed19d10c4c640cedf09"
   ],
   "verseViewBy": []
 }
