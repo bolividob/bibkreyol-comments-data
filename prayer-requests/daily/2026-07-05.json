@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "updatedAt": 1783225210042,
+  "updatedAt": 1783225684880,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 39,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "poum rete kay Dye,poum tuju gn puisns",
       "status": "praying",
-      "prayerCount": 11,
+      "prayerCount": 12,
       "prayedBy": [
         "9b81bd0b0ed45427cf746e9aca46655216ffc92ada04c9edd55f0a633464de8a",
         "0e320462eb99b30f841c344febcbe76c132f52518bc50f852eb487bed42fa456",
@@ -28,9 +28,14 @@
         "b99f56add16674cc8d6fb199027e0f6c9811944c95cc0e6ec2731caf3a469fdd",
         "c324b364a84d1ef826eb890c7e9cdc47702f40526ecd75ccec1d3365e7dcc028",
         "9cd7581fd2974b42cb8c3cae07fc0836b93c3d9599b3c21472cf95b107f510f1",
-        "f2aa53dfdec0babfbab3d824b7a4aa248eb57dbc9d5cdb1dde59d4b0334d60f8"
+        "f2aa53dfdec0babfbab3d824b7a4aa248eb57dbc9d5cdb1dde59d4b0334d60f8",
+        "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed"
       ],
       "prayingPreview": [
+        {
+          "userName": "minuo",
+          "prayedAt": 1783225587271
+        },
         {
           "userName": "Rosemica",
           "prayedAt": 1783225158708
@@ -78,6 +83,13 @@
       ],
       "encouragements": [
         {
+          "id": "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed-1783225669216-encouragement",
+          "userDeviceId": "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed",
+          "userName": "minuo",
+          "text": "God it's everything for me in  my life 💕",
+          "createdAt": 1783225669216
+        },
+        {
           "id": "f2aa53dfdec0babfbab3d824b7a4aa248eb57dbc9d5cdb1dde59d4b0334d60f8-1783225158708-encouragement",
           "userDeviceId": "f2aa53dfdec0babfbab3d824b7a4aa248eb57dbc9d5cdb1dde59d4b0334d60f8",
           "userName": "Rosemica",
@@ -107,7 +119,7 @@
         }
       ],
       "submittedAt": 1783130256640,
-      "updatedAt": 1783225210042,
+      "updatedAt": 1783225684880,
       "answeredAt": null,
       "testimony": null
     },
