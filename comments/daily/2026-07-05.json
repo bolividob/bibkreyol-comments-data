@@ -1,9 +1,23 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783243265269,
+  "updatedAt": 1783243384488,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783243378470",
+      "text": "amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783243384488,
+      "updatedAt": 1783243384488,
+      "status": "active"
+    },
     {
       "id": "local-1783226744240",
       "text": "bondye grand li bon pou mwen anpil 🙏",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
+  "likeCount": 41,
   "shareCount": 51,
-  "viewCount": 6004,
+  "viewCount": 6021,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -160,7 +174,8 @@
     "f7d2343ad17ca272babe3872cd0c331027914be5a597c9cb7ee414dcf6c1cdca",
     "50fa765bdf66924df32ea6e6b7c448c1b1c9bb4293c9561e39473d0390cf3953",
     "b66799cc1ad86550b8f385b2c3448d571b980becf2153ba3c7c5689775f9ecf7",
-    "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf"
+    "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
