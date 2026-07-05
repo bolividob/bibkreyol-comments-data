@@ -1,9 +1,23 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783250540971,
+  "updatedAt": 1783252670067,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783250603992",
+      "text": "amen 🙏",
+      "userDeviceId": "e79173645957530d5da92bbb29104822996851c2e6f06d8be8c1506afac85a54",
+      "userName": "tedely",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783252670066,
+      "updatedAt": 1783252670066,
+      "status": "active"
+    },
     {
       "id": "local-1783243378470",
       "text": "amén",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 85,
-  "viewCount": 8029,
+  "likeCount": 59,
+  "shareCount": 88,
+  "viewCount": 8383,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -189,7 +203,11 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "6ab3031ee7a4ab227301fcf8b9a826461bf1d6771dc8f22610d97caa60f23dcc",
     "d44d6f7cfa19a83ffb5ced45c9ae40aa8ad10ca385f351e5624d18557333524e",
-    "4aaaf1f77f5f7bdbbfbdb7c0ce8d8b828c5fa1430dd6222e2193be894468296f"
+    "4aaaf1f77f5f7bdbbfbdb7c0ce8d8b828c5fa1430dd6222e2193be894468296f",
+    "e79173645957530d5da92bbb29104822996851c2e6f06d8be8c1506afac85a54",
+    "4faf0aa2e6962e393578a9c3ec874cb68cd4bc18880aa56a7251d979f486a2fe",
+    "264f483cd40c98b5f58af39115e819ea071455ff0566d41ab71159756fa3a9bc",
+    "cc2a92543cba993648b6306596b528a8e63c3ae815a20540ca3a5d46f825c601"
   ],
   "verseViewBy": []
 }
