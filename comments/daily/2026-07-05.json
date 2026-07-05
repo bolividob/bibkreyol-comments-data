@@ -1,9 +1,51 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783256210420,
+  "updatedAt": 1783259826228,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783259314911",
+      "text": "Amen 🙏",
+      "userDeviceId": "412c3268b80c59db64a2e327e2d0940812dc9ba776b99f76b41e5298e6e0c423",
+      "userName": "Sanilia Maurepas",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783259826228,
+      "updatedAt": 1783259826228,
+      "status": "active"
+    },
+    {
+      "id": "local-1783259384888",
+      "text": "la belle loveline",
+      "userDeviceId": "42ae63bc7505ec45f386f2e9b3eace9cab189bb8f8ec9793defa2d31d58e50b3",
+      "userName": "la belle loveline",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783259826228,
+      "updatedAt": 1783259826228,
+      "status": "active"
+    },
+    {
+      "id": "local-1783256560738",
+      "text": "Amen 🙏🙌",
+      "userDeviceId": "e11c7306ae812949551a110cbed299d77265969f941ce85666cab588fc57d63c",
+      "userName": "Guillaume yvelore",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783259826227,
+      "updatedAt": 1783259826227,
+      "status": "active"
+    },
     {
       "id": "local-1783255640652",
       "text": "mwen rete nan prezans pawól Bd",
@@ -187,9 +229,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
-  "shareCount": 92,
-  "viewCount": 9258,
+  "likeCount": 62,
+  "shareCount": 96,
+  "viewCount": 9875,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
@@ -250,7 +292,9 @@
     "4faf0aa2e6962e393578a9c3ec874cb68cd4bc18880aa56a7251d979f486a2fe",
     "264f483cd40c98b5f58af39115e819ea071455ff0566d41ab71159756fa3a9bc",
     "cc2a92543cba993648b6306596b528a8e63c3ae815a20540ca3a5d46f825c601",
-    "60c1608f43f1770fff4a27224366707a19096161179fb24913d2739cb25defe1"
+    "60c1608f43f1770fff4a27224366707a19096161179fb24913d2739cb25defe1",
+    "b2c61eaf988b319bb24cc6f2da8e8c5af0677b386632d3d3d62c73aeef605226",
+    "5223974b23d590491549889be0f434f2368c295d54132616cb74b4e29ebab248"
   ],
   "verseViewBy": []
 }
