@@ -1,9 +1,23 @@
 {
   "date": "2026-07-05",
   "verseKey": "daily:2026-07-05",
-  "updatedAt": 1783287673350,
+  "updatedAt": 1783288514788,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783288231261",
+      "text": "amèn 3fois",
+      "userDeviceId": "7489ca3590ba2090e83fa509351b1e009a4b6fe01dcfbfab1e83adb4398d2246",
+      "userName": "jovenel",
+      "verseName": "Zakari 2:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783288514788,
+      "updatedAt": 1783288514788,
+      "status": "active"
+    },
     {
       "id": "local-1783273013363",
       "text": "amén amén amén",
@@ -357,7 +371,7 @@
   ],
   "likeCount": 81,
   "shareCount": 194,
-  "viewCount": 21384,
+  "viewCount": 21481,
   "verseLikedBy": [
     "7f0380b8fc06abf3ca92db5bdd19f6fee80676905882e0a8adafbfd8ef0de994",
     "c06cbb9d53fdefd2d461b0248eb0bc702697ad63135fdb800dd084c569e66c3f",
