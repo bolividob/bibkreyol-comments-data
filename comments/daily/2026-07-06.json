@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783352348095,
+  "updatedAt": 1783352466036,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783352437402",
+      "text": "Amène",
+      "userDeviceId": "05f01411e8a2946cdd3ad88e2a0519d1582bb842c2d6c67d0ae3142f65a3c928",
+      "userName": "Cesar Méliance",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783352466036,
+      "updatedAt": 1783352466036,
+      "status": "active"
+    },
     {
       "id": "local-1783351328728",
       "text": "amen 🙏🙏",
@@ -312,8 +326,8 @@
     }
   ],
   "likeCount": 74,
-  "shareCount": 153,
-  "viewCount": 9677,
+  "shareCount": 157,
+  "viewCount": 9698,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
