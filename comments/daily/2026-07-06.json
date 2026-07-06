@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783333326180,
+  "updatedAt": 1783333453439,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783302180258",
+      "text": "Nan non Jezi",
+      "userDeviceId": "c490c520b2c683ad2a31a06f11dc7a02848dbc534b8e5b261d12086f4400486c",
+      "userName": "pitit Bondye",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783333453439,
+      "updatedAt": 1783333453439,
+      "status": "active"
+    },
     {
       "id": "local-1783332072531",
       "text": "amen",
@@ -225,7 +239,7 @@
   ],
   "likeCount": 49,
   "shareCount": 88,
-  "viewCount": 6322,
+  "viewCount": 6349,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
