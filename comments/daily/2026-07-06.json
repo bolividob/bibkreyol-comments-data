@@ -1,9 +1,37 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783344789628,
+  "updatedAt": 1783345033807,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783344817278",
+      "text": "amén amén amén amén",
+      "userDeviceId": "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa",
+      "userName": "Pierre julienne",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783345033807,
+      "updatedAt": 1783345033807,
+      "status": "active"
+    },
+    {
+      "id": "local-1783337040186",
+      "text": "Amen 🙌🙌🙌",
+      "userDeviceId": "412c3268b80c59db64a2e327e2d0940812dc9ba776b99f76b41e5298e6e0c423",
+      "userName": "Sanilia Maurepas",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783345033807,
+      "updatedAt": 1783345033807,
+      "status": "active"
+    },
     {
       "id": "local-1783333852673",
       "text": "amén 🙌",
@@ -255,9 +283,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 61,
-  "shareCount": 125,
-  "viewCount": 8078,
+  "likeCount": 62,
+  "shareCount": 126,
+  "viewCount": 8131,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -319,7 +347,8 @@
     "06c273f28d4683ae201cf870a32529f0efd4b463fdda871164a00bb963e8af39",
     "37f9af5e66cdcad85b356160f4b91cb465a874582f94a061d248cceb0e0b24f6",
     "59a432a1b93d06a6ab43a7d561b0fd6826dfb21c9bf63fb757167552395ae364",
-    "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1"
+    "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
+    "ecebed4b1759d5a630755dee76dfc1817aeaf82fe30f2c5c0e4dc330c5ee06d4"
   ],
   "verseViewBy": []
 }
