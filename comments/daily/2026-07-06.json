@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783330639576,
+  "updatedAt": 1783330747492,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783330701418",
+      "text": "Amén 🙏🙏🙏❤️",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783330747492,
+      "updatedAt": 1783330747492,
+      "status": "active"
+    },
     {
       "id": "local-1783329755147",
       "text": "Merci seigneur Jésus",
@@ -195,9 +209,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 42,
-  "shareCount": 71,
-  "viewCount": 5695,
+  "likeCount": 43,
+  "shareCount": 72,
+  "viewCount": 5720,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -240,7 +254,8 @@
     "a415e532d89780454acbdd97756cc45e71c8595d20fd08b7a508a5274f72bdc5",
     "1dcecfe76621b65f12a1abbb9e35cf78042c247906183bf51542ae1ee9164637",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
-    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
   ],
   "verseViewBy": []
 }
