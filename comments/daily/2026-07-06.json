@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783369625911,
+  "updatedAt": 1783369745510,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783306074339",
+      "text": "Amen",
+      "userDeviceId": "bbb1862ee30b613e617d037cc2968a1e01e62e5408935408d29ad6ddd1170604",
+      "userName": "Sr Rolande",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783369745509,
+      "updatedAt": 1783369745509,
+      "status": "active"
+    },
     {
       "id": "local-1783360603752",
       "text": "amén 3 fwa ❤️‍🔥",
@@ -367,9 +381,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 96,
+  "likeCount": 97,
   "shareCount": 195,
-  "viewCount": 13008,
+  "viewCount": 13031,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -466,7 +480,8 @@
     "89090af1744e73c80e193e990dfc91d8dfa2022c7ee2084efa9e07e1bdf54f75",
     "2125f79c5dd79fbefebaa9095adaabec7127e343370758d233900f0e54457a34",
     "d612e7197401470e4d6260e4d2a3a30a9c6ec4f7d0d28b409d0328ae2e6d570a",
-    "b0325418c818aaf64cead9af9dadb49a8096f18da0d7d2323f3e11ecad76b889"
+    "b0325418c818aaf64cead9af9dadb49a8096f18da0d7d2323f3e11ecad76b889",
+    "7899fcb4ec5fc42194e9b39d38642e811438d15358a86dbc701ade217cf6714a"
   ],
   "verseViewBy": []
 }
