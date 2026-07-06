@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783299730384,
+  "updatedAt": 1783306924781,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -237,7 +237,7 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 18,
+      "prayerCount": 19,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
@@ -256,9 +256,14 @@
         "dd4823d73f6f2a4f7b3a32c508e9cf1c4c7f5677b85430960a805d27ea78eb98",
         "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
         "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed",
-        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d"
+        "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+        "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc"
       ],
       "prayingPreview": [
+        {
+          "userName": "sr sansann",
+          "prayedAt": 1783306893213
+        },
         {
           "userName": "Bib Kreyol",
           "prayedAt": 1783292368582
@@ -333,6 +338,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc-1783306893213-encouragement",
+          "userDeviceId": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
+          "userName": "sr sansann",
+          "text": "senye manifeste glwa ou nan lavim",
+          "createdAt": 1783306893213
+        },
         {
           "id": "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed-1783225848676-encouragement",
           "userDeviceId": "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed",
@@ -419,7 +431,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783292425058,
+      "updatedAt": 1783306922616,
       "answeredAt": null,
       "testimony": null
     },
