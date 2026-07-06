@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "updatedAt": 1783296482845,
+  "updatedAt": 1783299624946,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 40,
@@ -16,19 +16,32 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414"
+        "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
+        "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a"
       ],
       "prayingPreview": [
+        {
+          "userName": "creyó le",
+          "prayedAt": 1783299432845
+        },
         {
           "userName": "creole",
           "prayedAt": 1783296386775
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a-1783299468217-encouragement",
+          "userDeviceId": "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
+          "userName": "creyó le",
+          "text": "som 7",
+          "createdAt": 1783299468217
+        }
+      ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783296482845,
+      "updatedAt": 1783299624946,
       "answeredAt": null,
       "testimony": null
     },
