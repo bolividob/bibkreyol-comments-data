@@ -1,9 +1,37 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783307487033,
+  "updatedAt": 1783307916149,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783307496361",
+      "text": "jezi vizitem aswé a papa 🙏",
+      "userDeviceId": "6bb75f2dec561abed7788efffc1d756edd7078208258852a77f767926c0cda0b",
+      "userName": "periana",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783307916149,
+      "updatedAt": 1783307916149,
+      "status": "active"
+    },
+    {
+      "id": "local-1783307635579",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "7e64be467a1a781661071311dd76d56824fb94b8f03355c3939a105fb4a0d068",
+      "userName": "RASHELLE",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783307916149,
+      "updatedAt": 1783307916149,
+      "status": "active"
+    },
     {
       "id": "local-1783310899071",
       "text": "mesi pou bib la",
@@ -91,9 +119,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
-  "shareCount": 33,
-  "viewCount": 2825,
+  "likeCount": 19,
+  "shareCount": 35,
+  "viewCount": 3026,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -110,7 +138,10 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "cccf98c1eeb6292d2c80f0d5ca5d97e61abd917f5aa42dcaa0ec4502206ec898",
     "5de6289f3516259a89dffdf66daf42d42a02e47141b919d93706e808f4ab397a",
-    "0da831cc1fd736797b130a0ffc874ea9b5ee0a4039765128652511794b9c512a"
+    "0da831cc1fd736797b130a0ffc874ea9b5ee0a4039765128652511794b9c512a",
+    "7e64be467a1a781661071311dd76d56824fb94b8f03355c3939a105fb4a0d068",
+    "6bb75f2dec561abed7788efffc1d756edd7078208258852a77f767926c0cda0b",
+    "7c8f83b71ddc12e11a645b2fdd63e7841691ff2ee80de277b02a2106a840da59"
   ],
   "verseViewBy": []
 }
