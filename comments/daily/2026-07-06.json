@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783350911712,
+  "updatedAt": 1783351026852,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783334935760",
+      "text": ",🖤🖤",
+      "userDeviceId": "e2f539a72349ecb21b3b244eea343f8337c06a4f4af302a6861d2e42cf109592",
+      "userName": "Bonjour",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783351026852,
+      "updatedAt": 1783351026852,
+      "status": "active"
+    },
     {
       "id": "local-1783344817278",
       "text": "amén amén amén amén",
@@ -284,8 +298,8 @@
     }
   ],
   "likeCount": 69,
-  "shareCount": 149,
-  "viewCount": 9361,
+  "shareCount": 150,
+  "viewCount": 9385,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
