@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783311425546,
+  "updatedAt": 1783311674414,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783311602711",
+      "text": "gracias a dios",
+      "userDeviceId": "1137aa7e11e055be5c71897ce0487f3f7d2816c31a228146bddd41806eadd35e",
+      "userName": "mesi anpli Jesús",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783311674414,
+      "updatedAt": 1783311674414,
+      "status": "active"
+    },
     {
       "id": "local-1783307496361",
       "text": "jezi vizitem aswé a papa 🙏",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 26,
-  "shareCount": 39,
-  "viewCount": 3656,
+  "likeCount": 27,
+  "shareCount": 41,
+  "viewCount": 3742,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -148,7 +162,8 @@
     "e4a7442b6d16e9cc4565796d7c37da4ab4b62a29a542267a9d9fcd5bd38ed859",
     "5174028076a560a52066c68280fea72ec0add9430bae5c429be697f3b0e912cb",
     "0737c9507218a5417e053723e92379ff40533fa7bea6d738459d3f06a03aca83",
-    "079581aa51203d43296a3d022122d05f60f4e17da514847defa907e8b98f472d"
+    "079581aa51203d43296a3d022122d05f60f4e17da514847defa907e8b98f472d",
+    "1137aa7e11e055be5c71897ce0487f3f7d2816c31a228146bddd41806eadd35e"
   ],
   "verseViewBy": []
 }
