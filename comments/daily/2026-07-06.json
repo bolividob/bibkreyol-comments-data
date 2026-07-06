@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783307111446,
+  "updatedAt": 1783307487033,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783310899071",
+      "text": "mesi pou bib la",
+      "userDeviceId": "21dea7fb4e62a857a521c48c4645045aa15ffb92dd1796f5f48bc624a729ac92",
+      "userName": "Ynose",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783307487032,
+      "updatedAt": 1783307487032,
+      "status": "active"
+    },
     {
       "id": "local-1783305657589",
       "text": "🙏🙏🙏🙏",
@@ -78,8 +92,8 @@
     }
   ],
   "likeCount": 16,
-  "shareCount": 31,
-  "viewCount": 2644,
+  "shareCount": 33,
+  "viewCount": 2825,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
