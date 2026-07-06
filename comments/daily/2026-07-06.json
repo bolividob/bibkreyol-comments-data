@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783378853301,
+  "updatedAt": 1783379000627,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6c90d96a519d5b1d79927b812d22651886c30bd8b0f1c9db01a45572c398be49"
+      ],
       "createdAt": 1783377487000,
-      "updatedAt": 1783377487000,
+      "updatedAt": 1783379000627,
       "status": "active"
     },
     {
@@ -476,7 +478,7 @@
   ],
   "likeCount": 108,
   "shareCount": 220,
-  "viewCount": 15176,
+  "viewCount": 15216,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
