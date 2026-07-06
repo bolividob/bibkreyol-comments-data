@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "updatedAt": 1783352402853,
+  "updatedAt": 1783353127739,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 40,
@@ -16,16 +16,21 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 6,
+      "prayerCount": 7,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
         "697d13ebcc036a7f6e6989d911f290ce5e196f7140021f6ae942c0d6c4b9fcc8",
         "09fed454506def575076ad8b4f45e5e22fed75c83d3a678b07b04219f3250e4c",
         "8aa2b3b43ea5598a37a9ccef117be105ae7bd57baa4d467a31fb893985b423a5",
-        "e5531311ede8d23fa2fa636a079bbee3794d7dbf786ad5a4c6c865fb0039a614"
+        "e5531311ede8d23fa2fa636a079bbee3794d7dbf786ad5a4c6c865fb0039a614",
+        "625fca72b82ce06629659189ea12faa69baa15a2c724cc381da43adf83efc608"
       ],
       "prayingPreview": [
+        {
+          "userName": "mito",
+          "prayedAt": 1783353056420
+        },
         {
           "userName": "ethlene",
           "prayedAt": 1783352292013
@@ -53,6 +58,13 @@
       ],
       "encouragements": [
         {
+          "id": "625fca72b82ce06629659189ea12faa69baa15a2c724cc381da43adf83efc608-1783353056420-encouragement",
+          "userDeviceId": "625fca72b82ce06629659189ea12faa69baa15a2c724cc381da43adf83efc608",
+          "userName": "mito",
+          "text": "tou jour li labib",
+          "createdAt": 1783353056420
+        },
+        {
           "id": "09fed454506def575076ad8b4f45e5e22fed75c83d3a678b07b04219f3250e4c-1783313944352-encouragement",
           "userDeviceId": "09fed454506def575076ad8b4f45e5e22fed75c83d3a678b07b04219f3250e4c",
           "userName": "keliandavalmont@gmail.com",
@@ -68,7 +80,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783352402853,
+      "updatedAt": 1783353127739,
       "answeredAt": null,
       "testimony": null
     },
