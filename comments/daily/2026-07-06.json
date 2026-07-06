@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783359136737,
+  "updatedAt": 1783359254891,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783359164457",
+      "text": "amèn, tout glwa pou BonDye",
+      "userDeviceId": "031b719e4478b0b7b9bf55360a15425b1983b2b6b5764a554e98b131b290e14f",
+      "userName": "Emmanuel Dorléus",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783359254891,
+      "updatedAt": 1783359254891,
+      "status": "active"
+    },
     {
       "id": "local-1783355594752",
       "text": "Som 3",
@@ -339,9 +353,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 84,
-  "shareCount": 177,
-  "viewCount": 11318,
+  "likeCount": 85,
+  "shareCount": 178,
+  "viewCount": 11335,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -426,7 +440,8 @@
     "735909478f25a209bd715c07181571b79719161a5942618fb6590045ad2745bb",
     "7f121a3082dba375ba820e39a47931606a8c09778d9bbf350bfcf664c0b547ca",
     "ab0a693c37b4cfc024c09a26e2faa51985d9531f07a65f7a8c1df5baa1a38df6",
-    "f6d32e86dd9d518cc492396838bcb4053d0e3f651cb25d8d879b202ccccf03cd"
+    "f6d32e86dd9d518cc492396838bcb4053d0e3f651cb25d8d879b202ccccf03cd",
+    "031b719e4478b0b7b9bf55360a15425b1983b2b6b5764a554e98b131b290e14f"
   ],
   "verseViewBy": []
 }
