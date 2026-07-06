@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783351270874,
+  "updatedAt": 1783351635881,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783351328728",
+      "text": "amen 🙏🙏",
+      "userDeviceId": "6285fc37bb6a9013ab643139d56473f0b80866bafa260d4998e8ca8efc6e359c",
+      "userName": "widelie",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783351635880,
+      "updatedAt": 1783351635880,
+      "status": "active"
+    },
     {
       "id": "local-1783334935760",
       "text": ",🖤🖤",
@@ -297,9 +311,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
-  "shareCount": 150,
-  "viewCount": 9442,
+  "likeCount": 70,
+  "shareCount": 151,
+  "viewCount": 9506,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -369,7 +383,8 @@
     "180a78c0099b64b248367c4e65a3cca5e825ae269890208d1a596e872e0ab29e",
     "f76c731a458bde5157fad7e1d45385f9f901408e0c634fdc434b10acb73560ec",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
-    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414"
+    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
+    "d2c832f990015e16de01279b2b25afd5d96d60c070ffabced1d590e659951820"
   ],
   "verseViewBy": []
 }
