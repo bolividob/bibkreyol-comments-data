@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "updatedAt": 1783369091146,
+  "updatedAt": 1783371735737,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 40,
@@ -721,7 +721,7 @@
       "customExpectedSeason": null,
       "request": "Mwen bezwen èd Nou finansyèman frèm ak sèm yo,Numéro moncash 36387231,Mwen pran twòp imilyasyon",
       "status": "praying",
-      "prayerCount": 10,
+      "prayerCount": 11,
       "prayedBy": [
         "4e1f6da57fd371b4ac77f54290cd4420e27e923591d8b3c0e1021dfa7c2e7ee3",
         "1fafaaee3bba98b41d50d0a90616b1d62d615549ba7b01db3c912451e5e4c405",
@@ -732,9 +732,14 @@
         "098d6f6b1ac60b0da3412233887d6bb43f20c204ac654f78b858a8863c8e0671",
         "d25b0f03406c7b9aef4a564d6238fe34eafef60f76254b54e011f68be9dfdf72",
         "9d5661bd42c05b0b227fb9577f76384f404a3edd8c2e1b17869bab845bf9a6ec",
-        "9fd5e88e9e5f1a7a4c98e87292f28e343cdb514015b1b319a64e9cf0dac3ae39"
+        "9fd5e88e9e5f1a7a4c98e87292f28e343cdb514015b1b319a64e9cf0dac3ae39",
+        "b1dedd1e60e93835f663a0078a0dba946d5495abc824b39e852466aa559a3922"
       ],
       "prayingPreview": [
+        {
+          "userName": "bondieu",
+          "prayedAt": 1783371620033
+        },
         {
           "userName": "tana",
           "prayedAt": 1783201862249
@@ -828,7 +833,7 @@
         }
       ],
       "submittedAt": 1782693821884,
-      "updatedAt": 1783201926718,
+      "updatedAt": 1783371735737,
       "answeredAt": null,
       "testimony": null
     },
