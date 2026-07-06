@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783312569686,
+  "updatedAt": 1783312686212,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783312568412",
+      "text": "mési Bondye 🙏🙏🙏",
+      "userDeviceId": "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595",
+      "userName": "Fr Louko",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783312686212,
+      "updatedAt": 1783312686212,
+      "status": "active"
+    },
     {
       "id": "local-1783311602711",
       "text": "gracias a dios",
@@ -12,10 +26,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595"
+      ],
       "createdAt": 1783311674414,
-      "updatedAt": 1783311674414,
+      "updatedAt": 1783312686212,
       "status": "active"
     },
     {
@@ -26,10 +42,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595"
+      ],
       "createdAt": 1783307916149,
-      "updatedAt": 1783307916149,
+      "updatedAt": 1783312686212,
       "status": "active"
     },
     {
@@ -124,18 +142,19 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "de199c97b50481488e77cc1c23e5f243f5b4045a058441ec847db2be5b198356"
+        "de199c97b50481488e77cc1c23e5f243f5b4045a058441ec847db2be5b198356",
+        "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595"
       ],
       "createdAt": 1783302922271,
-      "updatedAt": 1783303093943,
+      "updatedAt": 1783312686212,
       "status": "active"
     }
   ],
-  "likeCount": 28,
+  "likeCount": 29,
   "shareCount": 44,
-  "viewCount": 3950,
+  "viewCount": 3976,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -164,7 +183,8 @@
     "0737c9507218a5417e053723e92379ff40533fa7bea6d738459d3f06a03aca83",
     "079581aa51203d43296a3d022122d05f60f4e17da514847defa907e8b98f472d",
     "1137aa7e11e055be5c71897ce0487f3f7d2816c31a228146bddd41806eadd35e",
-    "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595"
+    "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595",
+    "8ab62c294427934b93557273aaf6e475376004a2d5dc759cdef36809b3ff801c"
   ],
   "verseViewBy": []
 }
