@@ -1,9 +1,23 @@
 {
   "date": "2026-07-06",
   "verseKey": "daily:2026-07-06",
-  "updatedAt": 1783375267673,
+  "updatedAt": 1783375519241,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783375373271",
+      "text": "bonswa tout moun",
+      "userDeviceId": "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849",
+      "userName": "rodrigue blanchard",
+      "verseName": "Women 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783375519241,
+      "updatedAt": 1783375519241,
+      "status": "active"
+    },
     {
       "id": "local-1783371488112",
       "text": "amèn",
@@ -26,10 +40,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783370110567,
-      "updatedAt": 1783370110567,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -40,10 +56,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783369745509,
-      "updatedAt": 1783369745509,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -68,10 +86,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783359254891,
-      "updatedAt": 1783359254891,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -82,10 +102,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783355838047,
-      "updatedAt": 1783355838047,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -96,10 +118,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783352466036,
-      "updatedAt": 1783352466036,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -110,10 +134,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783351635880,
-      "updatedAt": 1783351635880,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -124,10 +150,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783351026852,
-      "updatedAt": 1783351026852,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -152,10 +180,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783345033807,
-      "updatedAt": 1783345033807,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -194,10 +224,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783332195314,
-      "updatedAt": 1783332195314,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -208,10 +240,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783330747492,
-      "updatedAt": 1783330747492,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -222,10 +256,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783329786775,
-      "updatedAt": 1783329786775,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -250,10 +286,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783319882298,
-      "updatedAt": 1783319882298,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -264,10 +302,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783312686212,
-      "updatedAt": 1783312686212,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -311,12 +351,13 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "8edb1ef9b1a07bbdccfadfbc2396e4198a40dec394952b53970a00c835ca8f43"
+        "8edb1ef9b1a07bbdccfadfbc2396e4198a40dec394952b53970a00c835ca8f43",
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
       ],
       "createdAt": 1783307916149,
-      "updatedAt": 1783344666705,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -327,12 +368,13 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "8edb1ef9b1a07bbdccfadfbc2396e4198a40dec394952b53970a00c835ca8f43"
+        "8edb1ef9b1a07bbdccfadfbc2396e4198a40dec394952b53970a00c835ca8f43",
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
       ],
       "createdAt": 1783307487032,
-      "updatedAt": 1783344666705,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -343,10 +385,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783306460639,
-      "updatedAt": 1783306460639,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -357,10 +401,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783304126083,
-      "updatedAt": 1783304126083,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -371,10 +417,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783303760949,
-      "updatedAt": 1783303760949,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -385,10 +433,12 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
+      ],
       "createdAt": 1783303576026,
-      "updatedAt": 1783303576026,
+      "updatedAt": 1783375519241,
       "status": "active"
     },
     {
@@ -399,19 +449,20 @@
       "verseName": "Women 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "de199c97b50481488e77cc1c23e5f243f5b4045a058441ec847db2be5b198356",
-        "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595"
+        "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595",
+        "e218d9b54008df6111352ecd5b1efe567f1ff9d30924d22470eacbe1e46b6849"
       ],
       "createdAt": 1783302922271,
-      "updatedAt": 1783312686212,
+      "updatedAt": 1783375519241,
       "status": "active"
     }
   ],
-  "likeCount": 100,
+  "likeCount": 101,
   "shareCount": 215,
-  "viewCount": 14258,
+  "viewCount": 14319,
   "verseLikedBy": [
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ceb1db430d3d91c4cb2a24e0f4bd1d016ed72b6e9459418021adb61e82466231",
@@ -512,7 +563,8 @@
     "7899fcb4ec5fc42194e9b39d38642e811438d15358a86dbc701ade217cf6714a",
     "c430874c5992be34faf1c5d20bd3a5b19337cd25e35bd8f7b241882bdeb7e30d",
     "b3d96c189fd7075d229bf7499af8a8775361b394fa59d13265e90b5fcddb5d0c",
-    "e34a065d5e29d3ab76b30c9194ee89477284647c8f6dd69a988d03be19a8791e"
+    "e34a065d5e29d3ab76b30c9194ee89477284647c8f6dd69a988d03be19a8791e",
+    "264853aac831d7e73dec01246c0f5c0050d24dab5cf09670c9717b61ec217003"
   ],
   "verseViewBy": []
 }
