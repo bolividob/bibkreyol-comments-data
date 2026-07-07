@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783390767847,
+  "updatedAt": 1783393114803,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783392612487",
+      "text": "aménn",
+      "userDeviceId": "41238e34f935125bad4d0e0090d2fd7af15848234f7ed268110cafe89bb25595",
+      "userName": "Fr Louko",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783393114803,
+      "updatedAt": 1783393114803,
+      "status": "active"
+    },
     {
       "id": "local-1783389844295",
       "text": "Amen",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
-  "shareCount": 25,
-  "viewCount": 2394,
+  "likeCount": 17,
+  "shareCount": 30,
+  "viewCount": 2634,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -49,7 +63,11 @@
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
     "690fdb32f15db3a6d7e95005e02e5213a8703d306f462b326e57e32671f4a27e",
     "4ca1e76079e1c45f1e3ecb1686173eafc243560d287e3e76dd7ea33a068d45a3",
-    "c3b2bde4cc6c679750c09a684d03bc5a78ab83174eda8993fc1ba6403277b051"
+    "c3b2bde4cc6c679750c09a684d03bc5a78ab83174eda8993fc1ba6403277b051",
+    "1197369c473f19acce40c5a7dc90898e39446605e528929d39acac58724b2a9a",
+    "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
+    "c03ccbbc020b6104fb5c5531bc0937aa378694117e480395491a4f37b63cf2cb",
+    "f6c6703a0aa0bf29d2230b33d962c765ab4edf393c6c3b22912c6f7a7e54a10b"
   ],
   "verseViewBy": []
 }
