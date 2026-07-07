@@ -1,9 +1,37 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783463712504,
+  "updatedAt": 1783463959247,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783463804142",
+      "text": "Bib kreyol",
+      "userDeviceId": "46f1943bc4e8202381340bf52ce0a915a7222099df3668b96b8784deec14bb9a",
+      "userName": "Bib kreyol",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783463959247,
+      "updatedAt": 1783463959247,
+      "status": "active"
+    },
+    {
+      "id": "local-1783463820573",
+      "text": "bib kreyol",
+      "userDeviceId": "46f1943bc4e8202381340bf52ce0a915a7222099df3668b96b8784deec14bb9a",
+      "userName": "Bib kreyol",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783463959247,
+      "updatedAt": 1783463959247,
+      "status": "active"
+    },
     {
       "id": "local-1783463395660",
       "text": "yes",
@@ -366,9 +394,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 142,
-  "shareCount": 209,
-  "viewCount": 16595,
+  "likeCount": 143,
+  "shareCount": 211,
+  "viewCount": 16675,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -511,7 +539,8 @@
     "2294c4754969348a60068b40449174e642ed680e5055b5b2ea8d8e58e4bf2d48",
     "67e8934878c11c9580b62930a2188188a30fc940ee708076f369fe63af04e003",
     "f3650b2a06882e197302ebc5726eb7d491355d8ec2d95c81088a55540740dcbb",
-    "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e"
+    "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
+    "46f1943bc4e8202381340bf52ce0a915a7222099df3668b96b8784deec14bb9a"
   ],
   "verseViewBy": []
 }
