@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": 1783393571835,
+  "updatedAt": 1783393683540,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 40,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 10,
+      "prayerCount": 11,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -27,9 +27,14 @@
         "625fca72b82ce06629659189ea12faa69baa15a2c724cc381da43adf83efc608",
         "a155a8cc72a402651ec9181f15a255fd8eecbf02117a735d71c6a8d2c3a6c82f",
         "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9",
-        "7d43c382774464dfed3f915724a4ade10dececfbd159bacb45e1c6300c544c48"
+        "7d43c382774464dfed3f915724a4ade10dececfbd159bacb45e1c6300c544c48",
+        "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e"
       ],
       "prayingPreview": [
+        {
+          "userName": "som",
+          "prayedAt": 1783393579307
+        },
         {
           "userName": "Marie. Louise Eugene",
           "prayedAt": 1783381227827
@@ -73,6 +78,13 @@
       ],
       "encouragements": [
         {
+          "id": "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e-1783393579307-encouragement",
+          "userDeviceId": "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e",
+          "userName": "som",
+          "text": "bondye di yon mo pou mw",
+          "createdAt": 1783393579307
+        },
+        {
           "id": "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9-1783377562717-encouragement",
           "userDeviceId": "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9",
           "userName": "velandi sauveur",
@@ -102,7 +114,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783381324861,
+      "updatedAt": 1783393683540,
       "answeredAt": null,
       "testimony": null
     },
@@ -290,7 +302,7 @@
         }
       ],
       "submittedAt": 1783130256640,
-      "updatedAt": 1783393571835,
+      "updatedAt": 1783393683540,
       "answeredAt": null,
       "testimony": null
     },
