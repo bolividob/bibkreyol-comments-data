@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783389790829,
+  "updatedAt": 1783389914186,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783389844295",
+      "text": "Amen",
+      "userDeviceId": "412c3268b80c59db64a2e327e2d0940812dc9ba776b99f76b41e5298e6e0c423",
+      "userName": "Sanilia Maurepas",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783389914186,
+      "updatedAt": 1783389914186,
+      "status": "active"
+    },
     {
       "id": "local-1783385783637",
       "text": "Amén merci seignuer 🙏",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 12,
-  "shareCount": 15,
-  "viewCount": 1898,
+  "shareCount": 17,
+  "viewCount": 1968,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
