@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783430117711,
+  "updatedAt": 1783430228475,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783430187613",
+      "text": "😍😍😍😍🥰🥰 amen",
+      "userDeviceId": "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6",
+      "userName": "yenifer",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783430228475,
+      "updatedAt": 1783430228475,
+      "status": "active"
+    },
     {
       "id": "local-1783427526506",
       "text": "amèn 3fwa",
@@ -26,10 +40,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783423325743,
-      "updatedAt": 1783423325743,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -40,10 +56,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783421529521,
-      "updatedAt": 1783421529521,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -54,10 +72,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783420987472,
-      "updatedAt": 1783420987472,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -68,10 +88,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783419437527,
-      "updatedAt": 1783419437527,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -96,10 +118,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783417149185,
-      "updatedAt": 1783417149185,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -110,10 +134,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783412344055,
-      "updatedAt": 1783412344055,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -124,10 +150,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783404664641,
-      "updatedAt": 1783404664641,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -138,10 +166,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783397653486,
-      "updatedAt": 1783397653486,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -152,10 +182,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783397427971,
-      "updatedAt": 1783397427971,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -166,10 +198,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+      ],
       "createdAt": 1783394305650,
-      "updatedAt": 1783394305650,
+      "updatedAt": 1783430228475,
       "status": "active"
     },
     {
@@ -215,9 +249,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 90,
-  "shareCount": 139,
-  "viewCount": 9191,
+  "likeCount": 91,
+  "shareCount": 141,
+  "viewCount": 9215,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -308,7 +342,8 @@
     "eb374552a91b89f43669cb97f570f5a0d37dab7bb47b0107074bb52f05a1b45d",
     "9eb08af363bb97d6abf34efa20447dd93c026b29ca3913bf3b56bcf15dca8fcc",
     "de9b52b28d929d7595961f3c3803f146c2ea2b6dc0962b8a916a4c27ef36c0a0",
-    "43d2848c04e0827b9690d4b15fafebe7d8c8663b6b820cc0fc25919b5d9b644b"
+    "43d2848c04e0827b9690d4b15fafebe7d8c8663b6b820cc0fc25919b5d9b644b",
+    "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
   ],
   "verseViewBy": []
 }
