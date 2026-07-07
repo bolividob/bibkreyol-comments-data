@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783458381862,
+  "updatedAt": 1783458497237,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783458415394",
+      "text": "Adiyise",
+      "userDeviceId": "67b5622ee123615cca6dad59ecd712929bdbeb38caa1cc37d6cebf532308d374",
+      "userName": "Adiyise",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783458497236,
+      "updatedAt": 1783458497236,
+      "status": "active"
+    },
     {
       "id": "local-1783451766412",
       "text": "nerlande",
@@ -326,7 +340,7 @@
   ],
   "likeCount": 129,
   "shareCount": 191,
-  "viewCount": 15152,
+  "viewCount": 15176,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
