@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783412226778,
+  "updatedAt": 1783412344055,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783412066037",
+      "text": "Amen Amen Amen 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783412344055,
+      "updatedAt": 1783412344055,
+      "status": "active"
+    },
     {
       "id": "local-1783404605813",
       "text": "Amén y amén mési pou pawol ou Senyé jezi",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
+  "likeCount": 55,
   "shareCount": 60,
-  "viewCount": 5246,
+  "viewCount": 5254,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -160,7 +174,8 @@
     "a102b61da496373fabcfe01d018c763dca2534f1305a3b1d6a445c97f1216df1",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "c73a00c4c7f36b412c99fc55fbde47baa3bb722517863e2821f5b4720d12314c",
-    "fc68e00d5abce153c46cd290acde847b8087fb626a32f6910b73aa4276f3fe9f"
+    "fc68e00d5abce153c46cd290acde847b8087fb626a32f6910b73aa4276f3fe9f",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
