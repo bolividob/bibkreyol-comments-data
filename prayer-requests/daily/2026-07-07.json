@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": 1783447339577,
+  "updatedAt": 1783449013565,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 40,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 22,
+      "prayerCount": 23,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -39,9 +39,14 @@
         "a1fa8d8bbbe3fb8629a26ca4239c6d7ad2e0a51f437811b3ca49f2e5d9ffa6d4",
         "0ce5dbc3cec1ad7ec063f746069a98a9e711d8e1536bec9f6d70bfb11ccb63e2",
         "0fa0d82ea20bd615cc67329f16af05cf4eadd50bc12293cd94cbfa993bd8b68c",
-        "0722276541374d6c2ce26aef771d4567d0aab865bcf0eb41b9737f3c7da1aeba"
+        "0722276541374d6c2ce26aef771d4567d0aab865bcf0eb41b9737f3c7da1aeba",
+        "58f06cd0672efab1149ead1ccc7190dcff1e9ba129b3b6aaabfebe649d791ebd"
       ],
       "prayingPreview": [
+        {
+          "userName": "Fr Jeff",
+          "prayedAt": 1783448925326
+        },
         {
           "userName": "wanberline",
           "prayedAt": 1783447321901
@@ -117,13 +122,16 @@
         {
           "userName": "keliandavalmont@gmail.com",
           "prayedAt": 1783313944352
-        },
-        {
-          "userName": "liline",
-          "prayedAt": 1783311344084
         }
       ],
       "encouragements": [
+        {
+          "id": "58f06cd0672efab1149ead1ccc7190dcff1e9ba129b3b6aaabfebe649d791ebd-1783448925326-encouragement",
+          "userDeviceId": "58f06cd0672efab1149ead1ccc7190dcff1e9ba129b3b6aaabfebe649d791ebd",
+          "userName": "Fr Jeff",
+          "text": "Edem priye pou Bondye gide'm...",
+          "createdAt": 1783448925326
+        },
         {
           "id": "0722276541374d6c2ce26aef771d4567d0aab865bcf0eb41b9737f3c7da1aeba-1783447321901-encouragement",
           "userDeviceId": "0722276541374d6c2ce26aef771d4567d0aab865bcf0eb41b9737f3c7da1aeba",
@@ -210,7 +218,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783447339576,
+      "updatedAt": 1783449013565,
       "answeredAt": null,
       "testimony": null
     },
