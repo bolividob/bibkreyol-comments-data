@@ -1,9 +1,37 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783419309673,
+  "updatedAt": 1783419437527,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783419329829",
+      "text": "mèsi senyè pou pawòl ou maten an",
+      "userDeviceId": "2edc085119866bd65fcc83dbc5ae0f10d2b592f4643349632503d15ff23a0b62",
+      "userName": "Missole",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783419437527,
+      "updatedAt": 1783419437527,
+      "status": "active"
+    },
+    {
+      "id": "local-1783419349877",
+      "text": "Amèn",
+      "userDeviceId": "2edc085119866bd65fcc83dbc5ae0f10d2b592f4643349632503d15ff23a0b62",
+      "userName": "Missole",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783419437527,
+      "updatedAt": 1783419437527,
+      "status": "active"
+    },
     {
       "id": "local-1783417065984",
       "text": "Amén 🙏 🙏🙏❤️",
@@ -133,7 +161,7 @@
   ],
   "likeCount": 63,
   "shareCount": 91,
-  "viewCount": 6365,
+  "viewCount": 6403,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
