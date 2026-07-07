@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783448346899,
+  "updatedAt": 1783448477483,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783448433650",
+      "text": "amèn amèn amèn wi papa",
+      "userDeviceId": "1ba22a4904d4d721ececc4b89f4b9d6cc596f65be51682afd3aee2fac60c12e2",
+      "userName": "pierre louis",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783448477483,
+      "updatedAt": 1783448477483,
+      "status": "active"
+    },
     {
       "id": "local-1783443556906",
       "text": "Amen Amen Amen",
@@ -296,9 +310,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 115,
-  "shareCount": 173,
-  "viewCount": 13451,
+  "likeCount": 116,
+  "shareCount": 174,
+  "viewCount": 13470,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -414,7 +428,8 @@
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
     "0722276541374d6c2ce26aef771d4567d0aab865bcf0eb41b9737f3c7da1aeba",
     "39bea8ef3da6472cce1c7f3086d43a74833ad7bc216fb1a54f30a4b29389e1ed",
-    "724f0222d21ee394c31b11036c965d1f069924b936f05fc334d1bd4bf128558d"
+    "724f0222d21ee394c31b11036c965d1f069924b936f05fc334d1bd4bf128558d",
+    "1ba22a4904d4d721ececc4b89f4b9d6cc596f65be51682afd3aee2fac60c12e2"
   ],
   "verseViewBy": []
 }
