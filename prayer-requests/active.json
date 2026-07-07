@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783461371069,
+  "updatedAt": 1783462684451,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 24,
+      "prayerCount": 25,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -39,9 +39,14 @@
         "0fa0d82ea20bd615cc67329f16af05cf4eadd50bc12293cd94cbfa993bd8b68c",
         "0722276541374d6c2ce26aef771d4567d0aab865bcf0eb41b9737f3c7da1aeba",
         "58f06cd0672efab1149ead1ccc7190dcff1e9ba129b3b6aaabfebe649d791ebd",
-        "99a725fe9ffecfb2f7428bb0d6b90dc3426a4fc3a3bfbab2a491004a2ce9cf0c"
+        "99a725fe9ffecfb2f7428bb0d6b90dc3426a4fc3a3bfbab2a491004a2ce9cf0c",
+        "b6aa987fae5cfa33af033d196b6c38366f438c4f0901ace7890a409d131bb182"
       ],
       "prayingPreview": [
+        {
+          "userName": "Rose guedie",
+          "prayedAt": 1783462655959
+        },
         {
           "userName": "destin",
           "prayedAt": 1783461159012
@@ -117,10 +122,6 @@
         {
           "userName": "ethlene",
           "prayedAt": 1783352292013
-        },
-        {
-          "userName": "Lovely 🌹🌹",
-          "prayedAt": 1783346198327
         }
       ],
       "encouragements": [
@@ -217,7 +218,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783461370201,
+      "updatedAt": 1783462683481,
       "answeredAt": null,
       "testimony": null
     },
