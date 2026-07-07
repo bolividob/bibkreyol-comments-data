@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783435468762,
+  "updatedAt": 1783435631855,
   "version": 1,
   "comments": [
     {
@@ -42,10 +42,12 @@
       "verseName": "Ezayi 4:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "83436c5852061ab626e12bb0de389b9d4adb0fa13a1ef94e92e038531008e3e4"
+      ],
       "createdAt": 1783427543817,
-      "updatedAt": 1783435468762,
+      "updatedAt": 1783435631855,
       "status": "active"
     },
     {
@@ -268,7 +270,7 @@
   ],
   "likeCount": 98,
   "shareCount": 155,
-  "viewCount": 10474,
+  "viewCount": 10524,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
