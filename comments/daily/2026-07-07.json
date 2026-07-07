@@ -1,9 +1,25 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783430228475,
+  "updatedAt": 1783430347575,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783430272703",
+      "text": "amèn🙏🤩",
+      "userDeviceId": "c0a065e0bf1cb858bd459b049c193e5c0b5f6c00e7d47ff2f1e4c0b4192c96f6",
+      "userName": "wisnaïda",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "c0a065e0bf1cb858bd459b049c193e5c0b5f6c00e7d47ff2f1e4c0b4192c96f6"
+      ],
+      "createdAt": 1783430347575,
+      "updatedAt": 1783430347575,
+      "status": "active"
+    },
     {
       "id": "local-1783430187613",
       "text": "😍😍😍😍🥰🥰 amen",
@@ -249,9 +265,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 91,
-  "shareCount": 141,
-  "viewCount": 9215,
+  "likeCount": 93,
+  "shareCount": 142,
+  "viewCount": 9236,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -343,7 +359,9 @@
     "9eb08af363bb97d6abf34efa20447dd93c026b29ca3913bf3b56bcf15dca8fcc",
     "de9b52b28d929d7595961f3c3803f146c2ea2b6dc0962b8a916a4c27ef36c0a0",
     "43d2848c04e0827b9690d4b15fafebe7d8c8663b6b820cc0fc25919b5d9b644b",
-    "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6"
+    "7775807e556332906da1c933693fd87970ccb46ed449b486c3fd98f1aa23d9a6",
+    "c0a065e0bf1cb858bd459b049c193e5c0b5f6c00e7d47ff2f1e4c0b4192c96f6",
+    "0e3f62425e3787f6ad307c81608f818f52834c7edf040776bf6e1f5b1aa15979"
   ],
   "verseViewBy": []
 }
