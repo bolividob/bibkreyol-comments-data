@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": 1783393683540,
+  "updatedAt": 1783398853803,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 40,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 11,
+      "prayerCount": 12,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -28,9 +28,14 @@
         "a155a8cc72a402651ec9181f15a255fd8eecbf02117a735d71c6a8d2c3a6c82f",
         "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9",
         "7d43c382774464dfed3f915724a4ade10dececfbd159bacb45e1c6300c544c48",
-        "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e"
+        "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e",
+        "33cfbba9e1aac60c0b8aecaf15a8c69120bf6711389ea5f06f2f24b47385c448"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bensley SAINSURIN",
+          "prayedAt": 1783398758329
+        },
         {
           "userName": "som",
           "prayedAt": 1783393579307
@@ -78,6 +83,13 @@
       ],
       "encouragements": [
         {
+          "id": "33cfbba9e1aac60c0b8aecaf15a8c69120bf6711389ea5f06f2f24b47385c448-1783398758329-encouragement",
+          "userDeviceId": "33cfbba9e1aac60c0b8aecaf15a8c69120bf6711389ea5f06f2f24b47385c448",
+          "userName": "Bensley SAINSURIN",
+          "text": "Dieu peut le faire, et seulement demande lui de t'aider à rester sur sa voie au moment de la douleur .",
+          "createdAt": 1783398758329
+        },
+        {
           "id": "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e-1783393579307-encouragement",
           "userDeviceId": "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e",
           "userName": "som",
@@ -114,7 +126,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783393683540,
+      "updatedAt": 1783398853803,
       "answeredAt": null,
       "testimony": null
     },
