@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783461134734,
+  "updatedAt": 1783461250135,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783461195973",
+      "text": "piblik",
+      "userDeviceId": "c28d333ad106bd28f4228ddf18b9a05d15a4155bfa17f7e31a40ca9f8461c9f5",
+      "userName": "bibkryol",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783461250135,
+      "updatedAt": 1783461250135,
+      "status": "active"
+    },
     {
       "id": "local-1783458415394",
       "text": "Adiyise",
@@ -338,9 +352,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 134,
-  "shareCount": 201,
-  "viewCount": 15825,
+  "likeCount": 135,
+  "shareCount": 202,
+  "viewCount": 15858,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -475,7 +489,8 @@
     "0c173f05fb5290c570920872d5b5964d768a514f204e452fb4ac6511e8280eac",
     "2d1d46593fd2907d077e1651f3cc0bdc34628f3881878c3ed32c2e63cdc9f7d0",
     "cd737668270e60dd23495a6d0609d218c5e8188a1607aa433b9ad2c17ab5d05e",
-    "8c0f0c2bb0a6d722f722303ee19464fec6220d5d69f42aa781783f44182a6039"
+    "8c0f0c2bb0a6d722f722303ee19464fec6220d5d69f42aa781783f44182a6039",
+    "6b7012aa5bde4f92729d91306f31d65176690d2a5838fb54aab150ec74b8d4db"
   ],
   "verseViewBy": []
 }
