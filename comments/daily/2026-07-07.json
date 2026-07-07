@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783421371396,
+  "updatedAt": 1783421529522,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783421363339",
+      "text": "amn",
+      "userDeviceId": "5acd0501349d7e74febf9b177f516fe4bc64762030364d1d62ae3d32be1c4e6f",
+      "userName": "🤲🙏",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783421529521,
+      "updatedAt": 1783421529521,
+      "status": "active"
+    },
     {
       "id": "local-1783421089411",
       "text": "amen",
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
-  "shareCount": 108,
-  "viewCount": 7002,
+  "likeCount": 73,
+  "shareCount": 109,
+  "viewCount": 7034,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -247,7 +261,9 @@
     "bd53c1e66238ee55baba4e6b6384ebc14554a0e7b4a37e6e90af5b7fb72e8ad6",
     "d348aae3ac8e9f1a8e9020bc051282dd3ae33b928e93a29ae291861d1489af3a",
     "76c52178ebc11ac103c6f4d64a7dcc2a905709e22947c32edbbf972ddc5f3999",
-    "80674bf9745e0cfc5256ecaa45160108b30b177e56b5b5dec8475882de28a760"
+    "80674bf9745e0cfc5256ecaa45160108b30b177e56b5b5dec8475882de28a760",
+    "4bc349996ecb9689d6690ca48caee06c43917de2c0cc84e1942986f669329407",
+    "8de8d9be20de34da475d40da787a070b0797bac5e68e04feaac7768f75b82b6f"
   ],
   "verseViewBy": []
 }
