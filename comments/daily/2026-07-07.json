@@ -1,17 +1,33 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783385781089,
+  "updatedAt": 1783385973043,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
+  "comments": [
+    {
+      "id": "local-1783385783637",
+      "text": "Amén merci seignuer 🙏",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783385973042,
+      "updatedAt": 1783385973042,
+      "status": "active"
+    }
+  ],
+  "likeCount": 5,
   "shareCount": 5,
-  "viewCount": 799,
+  "viewCount": 882,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
     "28c7afdb345b94732c4ae9ce6260e22d8914ef121e665046558dfc2df376b2f2",
-    "e6839e7bf8cc1c00e668e2d85c7e6e40b1ef84bfb71541d0eb442e6303a1ea64"
+    "e6839e7bf8cc1c00e668e2d85c7e6e40b1ef84bfb71541d0eb442e6303a1ea64",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
