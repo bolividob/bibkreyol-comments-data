@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783384086484,
+  "updatedAt": 1783393687460,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 10,
+      "prayerCount": 11,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -25,9 +25,14 @@
         "625fca72b82ce06629659189ea12faa69baa15a2c724cc381da43adf83efc608",
         "a155a8cc72a402651ec9181f15a255fd8eecbf02117a735d71c6a8d2c3a6c82f",
         "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9",
-        "7d43c382774464dfed3f915724a4ade10dececfbd159bacb45e1c6300c544c48"
+        "7d43c382774464dfed3f915724a4ade10dececfbd159bacb45e1c6300c544c48",
+        "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e"
       ],
       "prayingPreview": [
+        {
+          "userName": "som",
+          "prayedAt": 1783393579307
+        },
         {
           "userName": "Marie. Louise Eugene",
           "prayedAt": 1783381227827
@@ -71,6 +76,13 @@
       ],
       "encouragements": [
         {
+          "id": "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e-1783393579307-encouragement",
+          "userDeviceId": "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e",
+          "userName": "som",
+          "text": "bondye di yon mo pou mw",
+          "createdAt": 1783393579307
+        },
+        {
           "id": "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9-1783377562717-encouragement",
           "userDeviceId": "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9",
           "userName": "velandi sauveur",
@@ -100,7 +112,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783381324861,
+      "updatedAt": 1783393683540,
       "answeredAt": null,
       "testimony": null
     },
@@ -115,7 +127,7 @@
       "customExpectedSeason": null,
       "request": "poum rete kay Dye,poum tuju gn puisns",
       "status": "praying",
-      "prayerCount": 18,
+      "prayerCount": 19,
       "prayedBy": [
         "9b81bd0b0ed45427cf746e9aca46655216ffc92ada04c9edd55f0a633464de8a",
         "0e320462eb99b30f841c344febcbe76c132f52518bc50f852eb487bed42fa456",
@@ -134,9 +146,14 @@
         "78fc6180e4c6b4b299d76d2d866832bef8df616b57626ecbe8aad2497d90d69e",
         "ea150b53ff39d65c1f6ae2236ceb60e1b76a7ecb81b72cc1a5a5c9189de00fd4",
         "71386204fcca5cbc0ba67a685ba3e75f9416339bfdfcf49430d0b941eeabbc7e",
-        "0611446abf6d7acca09ea160c123bf8d1accc95cc0b56cfc0bd391d916099904"
+        "0611446abf6d7acca09ea160c123bf8d1accc95cc0b56cfc0bd391d916099904",
+        "f2f5abb1b5fbf4ed180ca7c662bad202cf22fdfc2779a5824dc9afeb5990d84e"
       ],
       "prayingPreview": [
+        {
+          "userName": "kamilo",
+          "prayedAt": 1783393492034
+        },
         {
           "userName": "macciusadelson",
           "prayedAt": 1783293044426
@@ -283,7 +300,7 @@
         }
       ],
       "submittedAt": 1783130256640,
-      "updatedAt": 1783293122698,
+      "updatedAt": 1783393683540,
       "answeredAt": null,
       "testimony": null
     },
