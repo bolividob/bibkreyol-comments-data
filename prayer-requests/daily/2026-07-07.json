@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": 1783443630218,
+  "updatedAt": 1783446964194,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 40,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 20,
+      "prayerCount": 21,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -37,9 +37,14 @@
         "0db616e155fe907235403f716968e525df4d1595db54bf620cf5ff7af3f7346d",
         "d348aae3ac8e9f1a8e9020bc051282dd3ae33b928e93a29ae291861d1489af3a",
         "a1fa8d8bbbe3fb8629a26ca4239c6d7ad2e0a51f437811b3ca49f2e5d9ffa6d4",
-        "0ce5dbc3cec1ad7ec063f746069a98a9e711d8e1536bec9f6d70bfb11ccb63e2"
+        "0ce5dbc3cec1ad7ec063f746069a98a9e711d8e1536bec9f6d70bfb11ccb63e2",
+        "0fa0d82ea20bd615cc67329f16af05cf4eadd50bc12293cd94cbfa993bd8b68c"
       ],
       "prayingPreview": [
+        {
+          "userName": "gerizon paske mwen vle gen yon pitit",
+          "prayedAt": 1783446856081
+        },
         {
           "userName": "bib krèyòl",
           "prayedAt": 1783443594811
@@ -115,10 +120,6 @@
         {
           "userName": "creyó le",
           "prayedAt": 1783299432845
-        },
-        {
-          "userName": "creole",
-          "prayedAt": 1783296386775
         }
       ],
       "encouragements": [
@@ -201,7 +202,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783443630215,
+      "updatedAt": 1783446964194,
       "answeredAt": null,
       "testimony": null
     },
