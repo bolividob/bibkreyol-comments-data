@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783404545832,
+  "updatedAt": 1783404664641,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783404605813",
+      "text": "Amén y amén mési pou pawol ou Senyé jezi",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783404664641,
+      "updatedAt": 1783404664641,
+      "status": "active"
+    },
     {
       "id": "local-1783395287341",
       "text": "Merci Seigneur Jesus Merci",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 51,
-  "viewCount": 4672,
+  "likeCount": 47,
+  "shareCount": 52,
+  "viewCount": 4687,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -138,7 +152,8 @@
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "0aa495081c43bb3e55db139e38e391f69754f1c7db2c2289caf71b2b604b92c4",
-    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad"
+    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
