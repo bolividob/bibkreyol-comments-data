@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783398854656,
+  "updatedAt": 1783399212265,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 12,
+      "prayerCount": 13,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -27,9 +27,14 @@
         "57bc69768d5c3b78c48cfd5ff8f9137ffa1c553ac269049759b8f63aa8a4abf9",
         "7d43c382774464dfed3f915724a4ade10dececfbd159bacb45e1c6300c544c48",
         "278f0c0fa1ec67c48d6298000831096a734421a4120fa703e8242e7b6774e84e",
-        "33cfbba9e1aac60c0b8aecaf15a8c69120bf6711389ea5f06f2f24b47385c448"
+        "33cfbba9e1aac60c0b8aecaf15a8c69120bf6711389ea5f06f2f24b47385c448",
+        "b50f4ad3f0a961516f812460c4fd89835db71a0505fa4d3afdcb9936a3df9607"
       ],
       "prayingPreview": [
+        {
+          "userName": "Josué",
+          "prayedAt": 1783399105919
+        },
         {
           "userName": "Bensley SAINSURIN",
           "prayedAt": 1783398758329
@@ -81,6 +86,13 @@
       ],
       "encouragements": [
         {
+          "id": "b50f4ad3f0a961516f812460c4fd89835db71a0505fa4d3afdcb9936a3df9607-1783399105919-encouragement",
+          "userDeviceId": "b50f4ad3f0a961516f812460c4fd89835db71a0505fa4d3afdcb9936a3df9607",
+          "userName": "Josué",
+          "text": "papa merci pour force où ban mw",
+          "createdAt": 1783399105919
+        },
+        {
           "id": "33cfbba9e1aac60c0b8aecaf15a8c69120bf6711389ea5f06f2f24b47385c448-1783398758329-encouragement",
           "userDeviceId": "33cfbba9e1aac60c0b8aecaf15a8c69120bf6711389ea5f06f2f24b47385c448",
           "userName": "Bensley SAINSURIN",
@@ -124,7 +136,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783398853803,
+      "updatedAt": 1783399210061,
       "answeredAt": null,
       "testimony": null
     },
