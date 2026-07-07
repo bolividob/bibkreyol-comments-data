@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783463352154,
+  "updatedAt": 1783463468833,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783463395660",
+      "text": "yes",
+      "userDeviceId": "67e8934878c11c9580b62930a2188188a30fc940ee708076f369fe63af04e003",
+      "userName": "Ramces",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783463468833,
+      "updatedAt": 1783463468833,
+      "status": "active"
+    },
     {
       "id": "local-1783461195973",
       "text": "piblik",
@@ -352,9 +366,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 139,
-  "shareCount": 208,
-  "viewCount": 16490,
+  "likeCount": 140,
+  "shareCount": 209,
+  "viewCount": 16527,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -494,7 +508,8 @@
     "3a93acea57bbfc9b157efc1354ee5372a1b07d4a54749d91b878234daaa9aaf2",
     "c94ebae97510cfb4e3f4e86e83f07200dd2839645f603c0fe814af5cc893f0ee",
     "148c36f9b73fc55e940ab547f94311bbf534b8fb6fc8a00f9407e9f7f9a5bdb1",
-    "2294c4754969348a60068b40449174e642ed680e5055b5b2ea8d8e58e4bf2d48"
+    "2294c4754969348a60068b40449174e642ed680e5055b5b2ea8d8e58e4bf2d48",
+    "67e8934878c11c9580b62930a2188188a30fc940ee708076f369fe63af04e003"
   ],
   "verseViewBy": []
 }
