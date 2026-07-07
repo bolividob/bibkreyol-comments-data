@@ -1,9 +1,23 @@
 {
   "date": "2026-07-07",
   "verseKey": "daily:2026-07-07",
-  "updatedAt": 1783442993178,
+  "updatedAt": 1783443521140,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783443556906",
+      "text": "Amen Amen Amen",
+      "userDeviceId": "6d02b8136ffe52a20edbb3178133574b95cd8257a1113b51ef8f607bf0c9000e",
+      "userName": "Sr Sergna Charles",
+      "verseName": "Ezayi 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783443521139,
+      "updatedAt": 1783443521139,
+      "status": "active"
+    },
     {
       "id": "local-1783441605196",
       "text": "amén amén amén 🙏",
@@ -282,9 +296,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 107,
-  "shareCount": 165,
-  "viewCount": 12539,
+  "likeCount": 108,
+  "shareCount": 167,
+  "viewCount": 12652,
   "verseLikedBy": [
     "218518ccbed05da6e66211a40cb5e0ddc2e1f6dff96258f63cfe5d401cb2ea69",
     "651b1e7a017b1311c44b8813d7134fd4c710e5161921901d4065086c04fbf407",
@@ -392,7 +406,8 @@
     "3fd5579abc0ca22579551a4e2c0085cdc318176b7f752cd844caf23019574971",
     "1d2366e4ef3a2675cbbda0dfb84eba6be0363ee7ec98da3ae8a53db6028b4f3b",
     "fc1fadd7347d26069913a60a192d602975c2ed5be66c2ba679294b1aef724632",
-    "e3a858c09ad2ad4a68bfe99915fee9f086a90426fb1f50f78e0fb72230a07c56"
+    "e3a858c09ad2ad4a68bfe99915fee9f086a90426fb1f50f78e0fb72230a07c56",
+    "537072b75abcb2b912c5f6dafc1cd21273efcb3b6607ed3b98784db5b3ff8815"
   ],
   "verseViewBy": []
 }
