@@ -1,9 +1,25 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783514437698,
+  "updatedAt": 1783514605899,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783514559303",
+      "text": "Amen amen amen 💋",
+      "userDeviceId": "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c",
+      "userName": "Jerova",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c"
+      ],
+      "createdAt": 1783514605899,
+      "updatedAt": 1783514605899,
+      "status": "active"
+    },
     {
       "id": "local-1783508238409",
       "text": "Donal saintilme",
@@ -12,10 +28,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c"
+      ],
       "createdAt": 1783508361117,
-      "updatedAt": 1783508361117,
+      "updatedAt": 1783514605899,
       "status": "active"
     },
     {
@@ -40,10 +58,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c"
+      ],
       "createdAt": 1783505736241,
-      "updatedAt": 1783505736241,
+      "updatedAt": 1783514605899,
       "status": "active"
     },
     {
@@ -82,10 +102,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c"
+      ],
       "createdAt": 1783491189966,
-      "updatedAt": 1783491189966,
+      "updatedAt": 1783514605899,
       "status": "active"
     },
     {
@@ -131,9 +153,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 93,
-  "viewCount": 8698,
+  "likeCount": 58,
+  "shareCount": 94,
+  "viewCount": 8729,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
@@ -191,7 +213,8 @@
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "48df102033e356cf799f47ba56ae446110d0bf673d3eac0e146ba790dbbcb052",
     "3ddb9027aecf0ad3be65f12ad64a3b35912e4ef74d97814ba4b923a50f35e9bd",
-    "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c"
+    "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c",
+    "ebdd6e80ca867d1ec8ef0fedcf9c45b5f11fd4bb42a24b92e21ff6123d832776"
   ],
   "verseViewBy": []
 }
