@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783503913992,
+  "updatedAt": 1783504033880,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783504001124",
+      "text": "amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783504033880,
+      "updatedAt": 1783504033880,
+      "status": "active"
+    },
     {
       "id": "local-1783500307425",
       "text": "Amén Amén Amén twa fwa",
@@ -75,9 +89,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
+  "likeCount": 29,
   "shareCount": 46,
-  "viewCount": 5959,
+  "viewCount": 5985,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
@@ -106,7 +120,8 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "0bf34f5495a97523785734f55ef0f1a737fb08d2b15fe0e0d0875c08a3964c4a",
     "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
-    "2ba977220571779a981ab2d59594254c28ae95dca2e86e706666562a56a261cb"
+    "2ba977220571779a981ab2d59594254c28ae95dca2e86e706666562a56a261cb",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
