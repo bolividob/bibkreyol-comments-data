@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783477168807,
+  "updatedAt": 1783479501100,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783478827707",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783479501099,
+      "updatedAt": 1783479501099,
+      "status": "active"
+    },
     {
       "id": "local-1783476095880",
       "text": "amèn 🙏",
@@ -19,9 +33,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 9,
   "shareCount": 23,
-  "viewCount": 2352,
+  "viewCount": 2418,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
@@ -29,7 +43,9 @@
     "461ffdcf68b417f216c7a651de0e89fb8ef0e5f912545a046f931c17793c1f1e",
     "c3033e472075b7741229396baafe2f6f61c85350831e7e848072da1f215fce85",
     "ba2861a362ca00d35d4df97777ba9718bc614649b383cc829e2d42d26a1cdb66",
-    "a8bd5b2098077d7c63e9bb8c1727c1053f44efe91b01c3786a6c73197ed3f8c8"
+    "a8bd5b2098077d7c63e9bb8c1727c1053f44efe91b01c3786a6c73197ed3f8c8",
+    "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04",
+    "ee1f6941a5966eb80307c34ff5f92d884a1dd3d12f7a0322c8d15e35ba582c08"
   ],
   "verseViewBy": []
 }
