@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783480091287,
+  "updatedAt": 1783480331086,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,27 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
-      "encouragements": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "amén",
+          "prayedAt": 1783480258779
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b-1783480258779-encouragement",
+          "userDeviceId": "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
+          "userName": "amén",
+          "text": "Mwen mandé nou éd priye nou",
+          "createdAt": 1783480258779
+        }
+      ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783468819119,
+      "updatedAt": 1783480330168,
       "answeredAt": null,
       "testimony": null
     },
@@ -1173,6 +1188,13 @@
       ],
       "encouragements": [
         {
+          "id": "afacc0a323cc512bf2743fa43011abb66501633ba173f11c80e3cda5128b207f-1783480257192-encouragement",
+          "userDeviceId": "afacc0a323cc512bf2743fa43011abb66501633ba173f11c80e3cda5128b207f",
+          "userName": "suzane",
+          "text": "mw mandé Pou bondye retiren nan sa me ye a mw pa gen pesonn tout bagay sou kont mw wi mw gen 4timoun Pou mw okipe mw pa travay jezi di yon mo non souple",
+          "createdAt": 1783480257192
+        },
+        {
           "id": "6c486e4c9739149d3aa85d4cfa24314b27462b2219744776369d71417307ef9c-1783384025246-encouragement",
           "userDeviceId": "6c486e4c9739149d3aa85d4cfa24314b27462b2219744776369d71417307ef9c",
           "userName": "johnkely",
@@ -1559,7 +1581,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1783480088762,
+      "updatedAt": 1783480330167,
       "answeredAt": null,
       "testimony": null
     },
