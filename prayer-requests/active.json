@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783510444613,
+  "updatedAt": 1783510703362,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 9,
+      "prayerCount": 10,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -24,9 +24,14 @@
         "852927658a5b6cb7258520720f7d53df6a29d0bf5203e8e19103eacefc7ab1d4",
         "d1fa5d77be9666a322c4d74bb1fb892367814d0913b986f86fc6bf913cf5e84d",
         "d0f6d3fe80f1683f8dd65f3585882a800350afda5cd5da447c0255ad4ab7e3c5",
-        "1627f516e9052d928a92704d9db233c4c4215f1292f020dd79f09db8ac3ce124"
+        "1627f516e9052d928a92704d9db233c4c4215f1292f020dd79f09db8ac3ce124",
+        "3aafa0547709535ae415ff5071166f7d0c9d1e4d3bd9e55c658a1eb84ab218cd"
       ],
       "prayingPreview": [
+        {
+          "userName": "Nancy François St Jean",
+          "prayedAt": 1783510663532
+        },
         {
           "userName": "bondye gran",
           "prayedAt": 1783510409886
@@ -66,6 +71,13 @@
       ],
       "encouragements": [
         {
+          "id": "3aafa0547709535ae415ff5071166f7d0c9d1e4d3bd9e55c658a1eb84ab218cd-1783510663532-encouragement",
+          "userDeviceId": "3aafa0547709535ae415ff5071166f7d0c9d1e4d3bd9e55c658a1eb84ab218cd",
+          "userName": "Nancy François St Jean",
+          "text": "edem priye pou papam jwenn travail",
+          "createdAt": 1783510663532
+        },
+        {
           "id": "d1fa5d77be9666a322c4d74bb1fb892367814d0913b986f86fc6bf913cf5e84d-1783506763943-encouragement",
           "userDeviceId": "d1fa5d77be9666a322c4d74bb1fb892367814d0913b986f86fc6bf913cf5e84d",
           "userName": "Mamah🇭🇹💎🙏",
@@ -102,7 +114,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783510443546,
+      "updatedAt": 1783510702354,
       "answeredAt": null,
       "testimony": null
     },
