@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783500307746,
+  "updatedAt": 1783500427971,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783500307425",
+      "text": "Amén Amén Amén twa fwa",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783500427971,
+      "updatedAt": 1783500427971,
+      "status": "active"
+    },
     {
       "id": "local-1783491129093",
       "text": "Amén y amén",
@@ -63,7 +77,7 @@
   ],
   "likeCount": 27,
   "shareCount": 41,
-  "viewCount": 5394,
+  "viewCount": 5401,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
