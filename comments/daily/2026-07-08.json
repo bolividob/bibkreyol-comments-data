@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783553365324,
+  "updatedAt": 1783553662077,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783553436428",
+      "text": "merci Jésus",
+      "userDeviceId": "35bacf245d7d6bbf6241f83bf9330e493317910e28cc8454b45bca18df4f8efb",
+      "userName": "mèmèn",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783553662077,
+      "updatedAt": 1783553662077,
+      "status": "active"
+    },
     {
       "id": "local-1783550725766",
       "text": "merci 🙏 bon dieu 🙏🙏",
@@ -252,9 +266,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 114,
+  "likeCount": 115,
   "shareCount": 180,
-  "viewCount": 17445,
+  "viewCount": 17539,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
@@ -369,7 +383,8 @@
     "9abeeb986659c77c2c92328c9be331bd1167036c2865b09b625d99b41a4b2953",
     "aa43b829b8ff7292b3ce10e205443a2cebbb2c2a75e27f2c2245543d116a3694",
     "88d5c9c1dea0c8b678f5480c75efe12ce579d847e799f3d654c777cb1499329e",
-    "57b04f2cc25d3eb5628aed7ff99b17ceda41c86d49a274fcc2a9551379b00731"
+    "57b04f2cc25d3eb5628aed7ff99b17ceda41c86d49a274fcc2a9551379b00731",
+    "35bacf245d7d6bbf6241f83bf9330e493317910e28cc8454b45bca18df4f8efb"
   ],
   "verseViewBy": []
 }
