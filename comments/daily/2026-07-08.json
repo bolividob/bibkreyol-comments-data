@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783505549912,
+  "updatedAt": 1783505736241,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783505625683",
+      "text": "amen amen amen 🙌👏👏",
+      "userDeviceId": "d0f6d3fe80f1683f8dd65f3585882a800350afda5cd5da447c0255ad4ab7e3c5",
+      "userName": "chery Jude",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783505736241,
+      "updatedAt": 1783505736241,
+      "status": "active"
+    },
     {
       "id": "local-1783504001124",
       "text": "amén",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
-  "shareCount": 55,
-  "viewCount": 6347,
+  "likeCount": 34,
+  "shareCount": 57,
+  "viewCount": 6401,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
@@ -125,7 +139,8 @@
     "705076c57b8c6273931555fb0316f558ef214979006dd0e386d0c640ca13e90b",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
-    "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18"
+    "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
+    "d0f6d3fe80f1683f8dd65f3585882a800350afda5cd5da447c0255ad4ab7e3c5"
   ],
   "verseViewBy": []
 }
