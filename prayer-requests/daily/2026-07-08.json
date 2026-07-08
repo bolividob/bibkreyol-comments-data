@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "updatedAt": 1783486093466,
+  "updatedAt": 1783492934286,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,13 +16,18 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
-        "1f916c83d45c5295908f268b18b3a8559f3510a9a3e0b0a399e1555c67f5fe53"
+        "1f916c83d45c5295908f268b18b3a8559f3510a9a3e0b0a399e1555c67f5fe53",
+        "07a90dd675bc717d6fa5ae07f5b01245bb8d5a2bd56daf628e456d8bcc007bae"
       ],
       "prayingPreview": [
+        {
+          "userName": "Centre communautaire EDEC",
+          "prayedAt": 1783492893734
+        },
         {
           "userName": "James",
           "prayedAt": 1783485971759
@@ -37,6 +42,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "07a90dd675bc717d6fa5ae07f5b01245bb8d5a2bd56daf628e456d8bcc007bae-1783492893734-encouragement",
+          "userDeviceId": "07a90dd675bc717d6fa5ae07f5b01245bb8d5a2bd56daf628e456d8bcc007bae",
+          "userName": "Centre communautaire EDEC",
+          "text": "ke Bondye fel janw kwel la",
+          "createdAt": 1783492893734
+        },
         {
           "id": "1f916c83d45c5295908f268b18b3a8559f3510a9a3e0b0a399e1555c67f5fe53-1783485971759-encouragement",
           "userDeviceId": "1f916c83d45c5295908f268b18b3a8559f3510a9a3e0b0a399e1555c67f5fe53",
@@ -60,7 +72,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783486093466,
+      "updatedAt": 1783492934286,
       "answeredAt": null,
       "testimony": null
     },
