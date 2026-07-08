@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783505892676,
+  "updatedAt": 1783506009416,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783505549538",
+      "text": "BonDye beniw Nou",
+      "userDeviceId": "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
+      "userName": "bonjour fr koman ou ye merci",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783506009416,
+      "updatedAt": 1783506009416,
+      "status": "active"
+    },
     {
       "id": "local-1783505625683",
       "text": "amen amen amen 🙌👏👏",
@@ -105,7 +119,7 @@
   ],
   "likeCount": 36,
   "shareCount": 58,
-  "viewCount": 6464,
+  "viewCount": 6493,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
