@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783484526276,
+  "updatedAt": 1783486094388,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,17 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
-        "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778"
+        "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
+        "1f916c83d45c5295908f268b18b3a8559f3510a9a3e0b0a399e1555c67f5fe53"
       ],
       "prayingPreview": [
+        {
+          "userName": "James",
+          "prayedAt": 1783485971759
+        },
         {
           "userName": "bib creole open",
           "prayedAt": 1783484427901
@@ -30,6 +35,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "1f916c83d45c5295908f268b18b3a8559f3510a9a3e0b0a399e1555c67f5fe53-1783485971759-encouragement",
+          "userDeviceId": "1f916c83d45c5295908f268b18b3a8559f3510a9a3e0b0a399e1555c67f5fe53",
+          "userName": "James",
+          "text": "amen amen bon travaille",
+          "createdAt": 1783485971759
+        },
         {
           "id": "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778-1783484427901-encouragement",
           "userDeviceId": "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -46,7 +58,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783484525296,
+      "updatedAt": 1783486093466,
       "answeredAt": null,
       "testimony": null
     },
