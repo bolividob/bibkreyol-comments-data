@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783526405305,
+  "updatedAt": 1783527488146,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 14,
+      "prayerCount": 15,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -29,9 +29,14 @@
         "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c",
         "1f9412c61aeb883cb0d4463e33dc7d5538bfed37888045fb8322f505a8245d08",
         "89952e907f214f808fd5d0f19be6743733c02b854e48a63c08ce638cd685cd4f",
-        "a85561978511942c5aa41ad73631f9277b1813dd89ab0f8499b4f0fde6a26274"
+        "a85561978511942c5aa41ad73631f9277b1813dd89ab0f8499b4f0fde6a26274",
+        "e15b54fb3798d521b937272776e1d7dc6e4e2b4e9526f35b7db1ffee59f5034c"
       ],
       "prayingPreview": [
+        {
+          "userName": "mika",
+          "prayedAt": 1783527387389
+        },
         {
           "userName": "kelly",
           "prayedAt": 1783526373422
@@ -91,6 +96,13 @@
       ],
       "encouragements": [
         {
+          "id": "e15b54fb3798d521b937272776e1d7dc6e4e2b4e9526f35b7db1ffee59f5034c-1783527387389-encouragement",
+          "userDeviceId": "e15b54fb3798d521b937272776e1d7dc6e4e2b4e9526f35b7db1ffee59f5034c",
+          "userName": "mika",
+          "text": "edem priye poum bondye ditije penséem",
+          "createdAt": 1783527387389
+        },
+        {
           "id": "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c-1783515184099-encouragement",
           "userDeviceId": "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c",
           "userName": "Jerova",
@@ -141,7 +153,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783526404244,
+      "updatedAt": 1783527487054,
       "answeredAt": null,
       "testimony": null
     },
