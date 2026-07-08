@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783550669818,
+  "updatedAt": 1783550848935,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783550725766",
+      "text": "merci 🙏 bon dieu 🙏🙏",
+      "userDeviceId": "5f8a3f9cfa2eebdd88f4d36caac6e26e4c087c78193df5a30a4a0c32ae16be6b",
+      "userName": "sabinoo",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783550848935,
+      "updatedAt": 1783550848935,
+      "status": "active"
+    },
     {
       "id": "local-1783530266947",
       "text": "amèn",
@@ -238,9 +252,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 109,
-  "shareCount": 177,
-  "viewCount": 16536,
+  "likeCount": 110,
+  "shareCount": 178,
+  "viewCount": 16594,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
@@ -350,7 +364,8 @@
     "8b6febe463721c20472474dcbdf16c0abafdb2c206702c7cacf100a353127757",
     "264853aac831d7e73dec01246c0f5c0050d24dab5cf09670c9717b61ec217003",
     "2aea58aa8fe7bd5a5e9c8946607b23fea307f937119b198ecf879535cab5c726",
-    "01179d117b026cb41d966fa456dd9e54b9412abd0375022c8f155204831f9542"
+    "01179d117b026cb41d966fa456dd9e54b9412abd0375022c8f155204831f9542",
+    "1186ac0488387547b1fa910536604a253a2fcdd8d1434359a605c8ee78cb3f43"
   ],
   "verseViewBy": []
 }
