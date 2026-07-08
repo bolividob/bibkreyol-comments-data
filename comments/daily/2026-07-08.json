@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783553662077,
+  "updatedAt": 1783553836415,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783553711266",
+      "text": "Jean woudeline",
+      "userDeviceId": "f0804e6eafd74608e37c90696d94f4dd37c3b7fe4c96bcb5d02183428b3142de",
+      "userName": "Jean woudeline",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783553836415,
+      "updatedAt": 1783553836415,
+      "status": "active"
+    },
     {
       "id": "local-1783553436428",
       "text": "merci Jésus",
@@ -267,8 +281,8 @@
     }
   ],
   "likeCount": 115,
-  "shareCount": 180,
-  "viewCount": 17539,
+  "shareCount": 181,
+  "viewCount": 17605,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
