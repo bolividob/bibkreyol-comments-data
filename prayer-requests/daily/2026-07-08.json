@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "updatedAt": 1783527487054,
+  "updatedAt": 1783532425538,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 15,
+      "prayerCount": 16,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -32,9 +32,14 @@
         "1f9412c61aeb883cb0d4463e33dc7d5538bfed37888045fb8322f505a8245d08",
         "89952e907f214f808fd5d0f19be6743733c02b854e48a63c08ce638cd685cd4f",
         "a85561978511942c5aa41ad73631f9277b1813dd89ab0f8499b4f0fde6a26274",
-        "e15b54fb3798d521b937272776e1d7dc6e4e2b4e9526f35b7db1ffee59f5034c"
+        "e15b54fb3798d521b937272776e1d7dc6e4e2b4e9526f35b7db1ffee59f5034c",
+        "510221219fa5a0fce22fdcb398ebe6a6d1bd64b15f6ae7cbab70893cc4a1127f"
       ],
       "prayingPreview": [
+        {
+          "userName": "GNAMI Elvis",
+          "prayedAt": 1783532418848
+        },
         {
           "userName": "mika",
           "prayedAt": 1783527387389
@@ -98,6 +103,13 @@
       ],
       "encouragements": [
         {
+          "id": "510221219fa5a0fce22fdcb398ebe6a6d1bd64b15f6ae7cbab70893cc4a1127f-1783532418848-encouragement",
+          "userDeviceId": "510221219fa5a0fce22fdcb398ebe6a6d1bd64b15f6ae7cbab70893cc4a1127f",
+          "userName": "GNAMI Elvis",
+          "text": "Que Dieu t'aide",
+          "createdAt": 1783532418848
+        },
+        {
           "id": "e15b54fb3798d521b937272776e1d7dc6e4e2b4e9526f35b7db1ffee59f5034c-1783527387389-encouragement",
           "userDeviceId": "e15b54fb3798d521b937272776e1d7dc6e4e2b4e9526f35b7db1ffee59f5034c",
           "userName": "mika",
@@ -155,7 +167,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783527487054,
+      "updatedAt": 1783532425538,
       "answeredAt": null,
       "testimony": null
     },
