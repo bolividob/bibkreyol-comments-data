@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "updatedAt": 1783480330168,
+  "updatedAt": 1783484525296,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,17 +16,29 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b"
+        "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
+        "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778"
       ],
       "prayingPreview": [
+        {
+          "userName": "bib creole open",
+          "prayedAt": 1783484427901
+        },
         {
           "userName": "amén",
           "prayedAt": 1783480258779
         }
       ],
       "encouragements": [
+        {
+          "id": "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778-1783484427901-encouragement",
+          "userDeviceId": "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
+          "userName": "bib creole open",
+          "text": "kinbe piet Jesus Christ ak deux main ou Bien du",
+          "createdAt": 1783484427901
+        },
         {
           "id": "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b-1783480258779-encouragement",
           "userDeviceId": "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
@@ -36,7 +48,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783480330168,
+      "updatedAt": 1783484525296,
       "answeredAt": null,
       "testimony": null
     },
