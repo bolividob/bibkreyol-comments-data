@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "updatedAt": 1783513325406,
+  "updatedAt": 1783515258619,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 10,
+      "prayerCount": 11,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -27,9 +27,14 @@
         "d1fa5d77be9666a322c4d74bb1fb892367814d0913b986f86fc6bf913cf5e84d",
         "d0f6d3fe80f1683f8dd65f3585882a800350afda5cd5da447c0255ad4ab7e3c5",
         "1627f516e9052d928a92704d9db233c4c4215f1292f020dd79f09db8ac3ce124",
-        "3aafa0547709535ae415ff5071166f7d0c9d1e4d3bd9e55c658a1eb84ab218cd"
+        "3aafa0547709535ae415ff5071166f7d0c9d1e4d3bd9e55c658a1eb84ab218cd",
+        "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c"
       ],
       "prayingPreview": [
+        {
+          "userName": "Jerova",
+          "prayedAt": 1783515184099
+        },
         {
           "userName": "Nancy François St Jean",
           "prayedAt": 1783510663532
@@ -72,6 +77,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c-1783515184099-encouragement",
+          "userDeviceId": "23c2c8abb1952b7fba1e7a94f278dc49b4fa81d10bf527d5b491118587b7987c",
+          "userName": "Jerova",
+          "text": "jan :3  16",
+          "createdAt": 1783515184099
+        },
         {
           "id": "3aafa0547709535ae415ff5071166f7d0c9d1e4d3bd9e55c658a1eb84ab218cd-1783510663532-encouragement",
           "userDeviceId": "3aafa0547709535ae415ff5071166f7d0c9d1e4d3bd9e55c658a1eb84ab218cd",
@@ -116,7 +128,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783510702354,
+      "updatedAt": 1783515258619,
       "answeredAt": null,
       "testimony": null
     },
