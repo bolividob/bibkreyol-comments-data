@@ -1,9 +1,23 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783525935040,
+  "updatedAt": 1783526056909,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783526028963",
+      "text": "bondye beniw",
+      "userDeviceId": "777060e2cf169435ee2d08ccf469e5d7ac231f175c6f70a2549c0cfe7e98c7d3",
+      "userName": "florane",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783526056909,
+      "updatedAt": 1783526056909,
+      "status": "active"
+    },
     {
       "id": "local-1783517743417",
       "text": "jerova",
@@ -178,7 +192,7 @@
   ],
   "likeCount": 77,
   "shareCount": 125,
-  "viewCount": 11471,
+  "viewCount": 11504,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
