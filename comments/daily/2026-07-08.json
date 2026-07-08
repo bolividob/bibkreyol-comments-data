@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "verseKey": "daily:2026-07-08",
-  "updatedAt": 1783530915290,
+  "updatedAt": 1783531034634,
   "version": 1,
   "comments": [
     {
@@ -40,12 +40,13 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a85561978511942c5aa41ad73631f9277b1813dd89ab0f8499b4f0fde6a26274"
+        "a85561978511942c5aa41ad73631f9277b1813dd89ab0f8499b4f0fde6a26274",
+        "add0f3359906fdd71f54821ecbea31061e8b54e2a77050e3f32ccf0cceafb274"
       ],
       "createdAt": 1783526289196,
-      "updatedAt": 1783526289196,
+      "updatedAt": 1783531034634,
       "status": "active"
     },
     {
@@ -236,9 +237,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 87,
+  "likeCount": 88,
   "shareCount": 134,
-  "viewCount": 12677,
+  "viewCount": 12699,
   "verseLikedBy": [
     "7184b51a294afe7becc21ae2136e8c46522cf2a35af4236243dec6b3601c6f4e",
     "720a9421f8ce66ff87bf33b2c8a64928b39078e3d90c1f4d7f6db006d2c80d8a",
@@ -326,7 +327,8 @@
     "22db0ebaff7a40803338732e792704a2caecf7e714205f22bc494a5dd2aa23ac",
     "c4b3e87eef6cad3bdc8aeff038dfbb82e1da3ce8913cc278198cfbefc1f0af0b",
     "a2bce512ccca341f2f418783c63c01f19ba47d1fd415906af0810b80bff11388",
-    "bda60d69c990a3365e8ebba4abfe4bf8e576964cb36b08063d5bc0dcd18a31f0"
+    "bda60d69c990a3365e8ebba4abfe4bf8e576964cb36b08063d5bc0dcd18a31f0",
+    "a7853c8b9a84982c31b9d262a8616a864ad6418144a0d20973ffbea26a23dac1"
   ],
   "verseViewBy": []
 }
