@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783492935282,
+  "updatedAt": 1783493059377,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -85,7 +85,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 26,
+      "prayerCount": 27,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -112,9 +112,14 @@
         "58f06cd0672efab1149ead1ccc7190dcff1e9ba129b3b6aaabfebe649d791ebd",
         "99a725fe9ffecfb2f7428bb0d6b90dc3426a4fc3a3bfbab2a491004a2ce9cf0c",
         "b6aa987fae5cfa33af033d196b6c38366f438c4f0901ace7890a409d131bb182",
-        "6c486e4c9739149d3aa85d4cfa24314b27462b2219744776369d71417307ef9c"
+        "6c486e4c9739149d3aa85d4cfa24314b27462b2219744776369d71417307ef9c",
+        "07a90dd675bc717d6fa5ae07f5b01245bb8d5a2bd56daf628e456d8bcc007bae"
       ],
       "prayingPreview": [
+        {
+          "userName": "Centre communautaire EDEC",
+          "prayedAt": 1783492956412
+        },
         {
           "userName": "johnkely",
           "prayedAt": 1783472636091
@@ -190,13 +195,16 @@
         {
           "userName": "𝕁𝕠𝕝𝕚𝕞𝕚𝕟𝕠𝕦",
           "prayedAt": 1783369054436
-        },
-        {
-          "userName": "mito",
-          "prayedAt": 1783353056420
         }
       ],
       "encouragements": [
+        {
+          "id": "07a90dd675bc717d6fa5ae07f5b01245bb8d5a2bd56daf628e456d8bcc007bae-1783492956412-encouragement",
+          "userDeviceId": "07a90dd675bc717d6fa5ae07f5b01245bb8d5a2bd56daf628e456d8bcc007bae",
+          "userName": "Centre communautaire EDEC",
+          "text": "syel la siyen pou ou deja sèm",
+          "createdAt": 1783492956412
+        },
         {
           "id": "58f06cd0672efab1149ead1ccc7190dcff1e9ba129b3b6aaabfebe649d791ebd-1783448925326-encouragement",
           "userDeviceId": "58f06cd0672efab1149ead1ccc7190dcff1e9ba129b3b6aaabfebe649d791ebd",
@@ -290,7 +298,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783472655542,
+      "updatedAt": 1783493058446,
       "answeredAt": null,
       "testimony": null
     },
