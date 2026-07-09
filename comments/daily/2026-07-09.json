@@ -1,9 +1,23 @@
 {
   "date": "2026-07-09",
   "verseKey": "daily:2026-07-09",
-  "updatedAt": 1783634222640,
+  "updatedAt": 1783634369157,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783634185487",
+      "text": "som",
+      "userDeviceId": "1ecab6e0100d13a1da37adf9eec62c44f03d008e582a7f95ad4e40d3a0b8da33",
+      "userName": "som",
+      "verseName": "2 Piè 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783634369157,
+      "updatedAt": 1783634369157,
+      "status": "active"
+    },
     {
       "id": "local-1783631487815",
       "text": "Fabienne Louidor",
@@ -497,9 +511,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 101,
-  "shareCount": 208,
-  "viewCount": 15819,
+  "likeCount": 102,
+  "shareCount": 210,
+  "viewCount": 15868,
   "verseLikedBy": [
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
     "9a6861fe393a0d540e387055946769aab71186a2e3b0c54486a13dfec7b628eb",
@@ -601,7 +615,8 @@
     "1a5110d7704e8bdf069b4e80d2331704512652fa2c60188e61854839d5c97daf",
     "6394dd5a3dee23199485bf2e845c51fdc6155d652501bdd2bd88b18ec4a62449",
     "cf38e04541d7c0488df6ea7ea2317098f957c6511214c45eb4d953956cb54b48",
-    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "ccf7eff90a703808eb8b4134090aa6666f8aa55b893dc38bdf725a7a659e912f"
   ],
   "verseViewBy": []
 }
