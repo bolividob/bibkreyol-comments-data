@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "updatedAt": 1783636751754,
+  "updatedAt": 1783638670840,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 24,
+      "prayerCount": 25,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -41,9 +41,14 @@
         "b1bf883f6780402aaa86dd9e7198bbf122770d60851aa19c9dcd71846e66a2d7",
         "ef70b3d7ff148331e537e3179091b325409d412f7a11e44154fe5efa8794ead3",
         "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9",
-        "6d64d97725af77953248f74eccc74a9b1a0bd9ba4c39d9e56d3f1d3f6e83291f"
+        "6d64d97725af77953248f74eccc74a9b1a0bd9ba4c39d9e56d3f1d3f6e83291f",
+        "d1e985c2ddd916e5085da349da53e760a6791b21452fedbf20fe9fd0a910e9f0"
       ],
       "prayingPreview": [
+        {
+          "userName": "Paul cherlanda",
+          "prayedAt": 1783638641683
+        },
         {
           "userName": "som 35",
           "prayedAt": 1783636717287
@@ -119,13 +124,16 @@
         {
           "userName": "sofo",
           "prayedAt": 1783506201015
-        },
-        {
-          "userName": "marckline",
-          "prayedAt": 1783502762335
         }
       ],
       "encouragements": [
+        {
+          "id": "d1e985c2ddd916e5085da349da53e760a6791b21452fedbf20fe9fd0a910e9f0-1783638641683-encouragement",
+          "userDeviceId": "d1e985c2ddd916e5085da349da53e760a6791b21452fedbf20fe9fd0a910e9f0",
+          "userName": "Paul cherlanda",
+          "text": "bondye ap aji pou 'ou",
+          "createdAt": 1783638641683
+        },
         {
           "id": "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9-1783614415649-encouragement",
           "userDeviceId": "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9",
@@ -226,7 +234,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783636751753,
+      "updatedAt": 1783638670840,
       "answeredAt": null,
       "testimony": null
     },
