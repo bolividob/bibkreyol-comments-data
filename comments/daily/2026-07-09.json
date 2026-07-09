@@ -1,9 +1,23 @@
 {
   "date": "2026-07-09",
   "verseKey": "daily:2026-07-09",
-  "updatedAt": 1783597091991,
+  "updatedAt": 1783597334012,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783597195492",
+      "text": "jezi se tout bgy pou mw",
+      "userDeviceId": "08fd7281d13f572b85569d3bb23255b72b7a44d9ae4756bbf3fb1dc9ee50d57c",
+      "userName": "ydna",
+      "verseName": "2 Piè 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783597334012,
+      "updatedAt": 1783597334012,
+      "status": "active"
+    },
     {
       "id": "local-1783585873876",
       "text": "Amén 🙏🙏",
@@ -341,9 +355,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 105,
-  "viewCount": 7618,
+  "likeCount": 48,
+  "shareCount": 106,
+  "viewCount": 7689,
   "verseLikedBy": [
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
     "9a6861fe393a0d540e387055946769aab71186a2e3b0c54486a13dfec7b628eb",
@@ -391,7 +405,8 @@
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
     "4b98730d3c01b7cbd42f3e5d51165ff3932d4fede2b6f628bd7daa09f94c2970",
     "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
-    "cb2ac8131e1ed499ccaa64d5421695a1f4b272841f35f4ab663ca1d5c19a08d7"
+    "cb2ac8131e1ed499ccaa64d5421695a1f4b272841f35f4ab663ca1d5c19a08d7",
+    "412c3268b80c59db64a2e327e2d0940812dc9ba776b99f76b41e5298e6e0c423"
   ],
   "verseViewBy": []
 }
