@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783553588075,
+  "updatedAt": 1783555263831,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -546,6 +546,13 @@
       ],
       "encouragements": [
         {
+          "id": "e3b80cc01a265c5e17b0f342d1b3c780470b9ebbc5fe47abcfeab45744f37c8a-1783551659830-encouragement",
+          "userDeviceId": "e3b80cc01a265c5e17b0f342d1b3c780470b9ebbc5fe47abcfeab45744f37c8a",
+          "userName": "Germina Josaphat",
+          "text": "Eden la priyé poum ka toujou rete Lakay bondye",
+          "createdAt": 1783551659830
+        },
+        {
           "id": "0611446abf6d7acca09ea160c123bf8d1accc95cc0b56cfc0bd391d916099904-1783293044426-encouragement",
           "userDeviceId": "0611446abf6d7acca09ea160c123bf8d1accc95cc0b56cfc0bd391d916099904",
           "userName": "macciusadelson",
@@ -617,7 +624,7 @@
         }
       ],
       "submittedAt": 1783130256640,
-      "updatedAt": 1783551662198,
+      "updatedAt": 1783555262706,
       "answeredAt": null,
       "testimony": null
     },
