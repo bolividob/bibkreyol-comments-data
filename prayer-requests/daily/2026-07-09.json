@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "updatedAt": 1783614547036,
+  "updatedAt": 1783636751754,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 23,
+      "prayerCount": 24,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -40,9 +40,14 @@
         "e75ad13306125ecebe897e4b7b5a28e8e551267677fafb4238574299f3edcdc4",
         "b1bf883f6780402aaa86dd9e7198bbf122770d60851aa19c9dcd71846e66a2d7",
         "ef70b3d7ff148331e537e3179091b325409d412f7a11e44154fe5efa8794ead3",
-        "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9"
+        "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9",
+        "6d64d97725af77953248f74eccc74a9b1a0bd9ba4c39d9e56d3f1d3f6e83291f"
       ],
       "prayingPreview": [
+        {
+          "userName": "som 35",
+          "prayedAt": 1783636717287
+        },
         {
           "userName": "Daphnée",
           "prayedAt": 1783614415649
@@ -118,10 +123,6 @@
         {
           "userName": "marckline",
           "prayedAt": 1783502762335
-        },
-        {
-          "userName": "Centre communautaire EDEC",
-          "prayedAt": 1783492893734
         }
       ],
       "encouragements": [
@@ -225,7 +226,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783614547036,
+      "updatedAt": 1783636751753,
       "answeredAt": null,
       "testimony": null
     },
