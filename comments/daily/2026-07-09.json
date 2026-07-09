@@ -1,9 +1,23 @@
 {
   "date": "2026-07-09",
   "verseKey": "daily:2026-07-09",
-  "updatedAt": 1783573940401,
+  "updatedAt": 1783574166475,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783574036320",
+      "text": "Amen,amen",
+      "userDeviceId": "2a5356307a3880bbb930b790522096a20e39cbc941708cab50f93814de900408",
+      "userName": "Roselie",
+      "verseName": "2 Piè 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783574166475,
+      "updatedAt": 1783574166475,
+      "status": "active"
+    },
     {
       "id": "local-1783571025825",
       "text": "Jezi ou se fòs mw",
@@ -201,9 +215,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
+  "likeCount": 28,
   "shareCount": 33,
-  "viewCount": 4287,
+  "viewCount": 4319,
   "verseLikedBy": [
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
     "9a6861fe393a0d540e387055946769aab71186a2e3b0c54486a13dfec7b628eb",
@@ -231,7 +245,8 @@
     "e9025f37b038499065d3bdb1debc03e48cbafcb21a05ffed862ceaf020307b73",
     "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31",
     "54fecd70ac6eddb855b704b51e759a3ba9027433cc699d8db344610bfe7290de",
-    "3d0a1a59c358e3dd40299edc8268eae7294624c53d14ec2def7da807f942b17d"
+    "3d0a1a59c358e3dd40299edc8268eae7294624c53d14ec2def7da807f942b17d",
+    "2a5356307a3880bbb930b790522096a20e39cbc941708cab50f93814de900408"
   ],
   "verseViewBy": []
 }
