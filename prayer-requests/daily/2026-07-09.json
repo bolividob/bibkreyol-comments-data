@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "updatedAt": 1783612263212,
+  "updatedAt": 1783614547036,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 22,
+      "prayerCount": 23,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -39,9 +39,14 @@
         "35bacf245d7d6bbf6241f83bf9330e493317910e28cc8454b45bca18df4f8efb",
         "e75ad13306125ecebe897e4b7b5a28e8e551267677fafb4238574299f3edcdc4",
         "b1bf883f6780402aaa86dd9e7198bbf122770d60851aa19c9dcd71846e66a2d7",
-        "ef70b3d7ff148331e537e3179091b325409d412f7a11e44154fe5efa8794ead3"
+        "ef70b3d7ff148331e537e3179091b325409d412f7a11e44154fe5efa8794ead3",
+        "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9"
       ],
       "prayingPreview": [
+        {
+          "userName": "Daphnée",
+          "prayedAt": 1783614415649
+        },
         {
           "userName": "Laurent Monetoile",
           "prayedAt": 1783612169264
@@ -117,13 +122,16 @@
         {
           "userName": "Centre communautaire EDEC",
           "prayedAt": 1783492893734
-        },
-        {
-          "userName": "James",
-          "prayedAt": 1783485971759
         }
       ],
       "encouragements": [
+        {
+          "id": "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9-1783614415649-encouragement",
+          "userDeviceId": "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9",
+          "userName": "Daphnée",
+          "text": "aji fwaw",
+          "createdAt": 1783614415649
+        },
         {
           "id": "ef70b3d7ff148331e537e3179091b325409d412f7a11e44154fe5efa8794ead3-1783612169264-encouragement",
           "userDeviceId": "ef70b3d7ff148331e537e3179091b325409d412f7a11e44154fe5efa8794ead3",
@@ -217,7 +225,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783612263211,
+      "updatedAt": 1783614547036,
       "answeredAt": null,
       "testimony": null
     },
