@@ -1,12 +1,27 @@
 {
   "date": "2026-07-09",
   "verseKey": "daily:2026-07-09",
-  "updatedAt": 1783555581146,
+  "updatedAt": 1783555759106,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1783555573539",
+      "text": "amen",
+      "userDeviceId": "9a6861fe393a0d540e387055946769aab71186a2e3b0c54486a13dfec7b628eb",
+      "userName": "sè mylove",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783555759106,
+      "updatedAt": 1783555759106,
+      "status": "active"
+    }
+  ],
   "likeCount": 1,
-  "shareCount": 0,
-  "viewCount": 183,
+  "shareCount": 1,
+  "viewCount": 264,
   "verseLikedBy": [
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6"
   ],
