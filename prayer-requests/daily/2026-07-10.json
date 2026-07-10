@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "updatedAt": 1783725013182,
+  "updatedAt": 1783725138081,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 32,
+      "prayerCount": 33,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -49,9 +49,14 @@
         "ddea7fb10086afa2b8f1a9a9bc6cbd29736073a36b86c100c7205a52d44199e6",
         "a334f2e565cbf0a2afb4b2b3feb2244ee7c793490f2cdfc7def9b6f017943a9c",
         "8f60cb9fcc7b9d033a3bd48a8e42b3d1c666424926c725b6f0a8c35ab80b2d3a",
-        "c9a278291e50a22ff25aedc42bba519a12b947c4b2f39305c9c365345e6b321f"
+        "c9a278291e50a22ff25aedc42bba519a12b947c4b2f39305c9c365345e6b321f",
+        "08208fb2c794e779120c5bb9e97015744873a3b7a4284a2580613a45d2a3f5cb"
       ],
       "prayingPreview": [
+        {
+          "userName": "mont-fleury Hetechnoune",
+          "prayedAt": 1783725046214
+        },
         {
           "userName": "Lucius Robenson",
           "prayedAt": 1783724928630
@@ -127,13 +132,23 @@
         {
           "userName": "kelly",
           "prayedAt": 1783526373422
-        },
-        {
-          "userName": "kettia",
-          "prayedAt": 1783524888775
         }
       ],
       "encouragements": [
+        {
+          "id": "08208fb2c794e779120c5bb9e97015744873a3b7a4284a2580613a45d2a3f5cb-1783725112842-encouragement",
+          "userDeviceId": "08208fb2c794e779120c5bb9e97015744873a3b7a4284a2580613a45d2a3f5cb",
+          "userName": "mont-fleury Hetechnoune",
+          "text": "Yon deblokaj total",
+          "createdAt": 1783725112842
+        },
+        {
+          "id": "08208fb2c794e779120c5bb9e97015744873a3b7a4284a2580613a45d2a3f5cb-1783725046214-encouragement",
+          "userDeviceId": "08208fb2c794e779120c5bb9e97015744873a3b7a4284a2580613a45d2a3f5cb",
+          "userName": "mont-fleury Hetechnoune",
+          "text": "bon travay",
+          "createdAt": 1783725046214
+        },
         {
           "id": "8f60cb9fcc7b9d033a3bd48a8e42b3d1c666424926c725b6f0a8c35ab80b2d3a-1783714793479-encouragement",
           "userDeviceId": "8f60cb9fcc7b9d033a3bd48a8e42b3d1c666424926c725b6f0a8c35ab80b2d3a",
@@ -255,7 +270,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783725013181,
+      "updatedAt": 1783725138080,
       "answeredAt": null,
       "testimony": null
     },
