@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "verseKey": "daily:2026-07-10",
-  "updatedAt": 1783696946124,
+  "updatedAt": 1783711578583,
   "version": 1,
   "comments": [
     {
@@ -57,7 +57,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1783656836540,
-      "updatedAt": 1783656836540,
+      "updatedAt": 1783711578409,
       "status": "active"
     },
     {
@@ -68,12 +68,13 @@
       "verseName": "1 Kwonik 6:4",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "23846e622cbd67ab017bb8cb819b97f6d3c34e2467495bda3a0d0d817081fbee"
+        "23846e622cbd67ab017bb8cb819b97f6d3c34e2467495bda3a0d0d817081fbee",
+        "3596f497add4340042b6c0ee50a830d0661e1c8197488f63fdf2ef67d21c365f"
       ],
       "createdAt": 1783648986965,
-      "updatedAt": 1783657193566,
+      "updatedAt": 1783711578409,
       "status": "active"
     },
     {
@@ -84,16 +85,18 @@
       "verseName": "1 Kwonik 6:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3596f497add4340042b6c0ee50a830d0661e1c8197488f63fdf2ef67d21c365f"
+      ],
       "createdAt": 1783645450943,
-      "updatedAt": 1783645450943,
+      "updatedAt": 1783711578409,
       "status": "active"
     }
   ],
-  "likeCount": 20,
-  "shareCount": 38,
-  "viewCount": 7025,
+  "likeCount": 25,
+  "shareCount": 48,
+  "viewCount": 7997,
   "verseLikedBy": [
     "a9d555d7733b40d5f3dff31947ec2f3846df5015a52b1788cd27434db15fcd3a",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
@@ -114,7 +117,12 @@
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
     "22dd9a3365b37d7103eb31d69c948294405f4084cda62a5ef71e435e1ecc9c43",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
-    "0bde2acd5f9a6754716471dcbefc7feb1ec4caa1fcb16465d50848b5f375e69b"
+    "0bde2acd5f9a6754716471dcbefc7feb1ec4caa1fcb16465d50848b5f375e69b",
+    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "3071696a74abe6ad636cce8c4b10a29052488faeeb8919aa23a35ade73f5ce44",
+    "1e3b351484b7b0aecdd9a8c540366fe98a436456d63f9de26fc59fcaa52c0bae",
+    "0c173f05fb5290c570920872d5b5964d768a514f204e452fb4ac6511e8280eac",
+    "31e86a7d7008796acd71944739efd5f15e2c7baefc39bf0fc881e59d3b02396e"
   ],
   "verseViewBy": []
 }
