@@ -1,16 +1,32 @@
 {
   "date": "2026-07-10",
   "verseKey": "daily:2026-07-10",
-  "updatedAt": 1783642748288,
+  "updatedAt": 1783645450943,
   "version": 1,
-  "comments": [],
-  "likeCount": 3,
-  "shareCount": 0,
-  "viewCount": 619,
+  "comments": [
+    {
+      "id": "local-1783644915461",
+      "text": "mwen renmen travay sa anpil",
+      "userDeviceId": "27d9fa139f9c1b992fbd2430da7caa99c2024ca550d9430f2e6b29e56217d6e7",
+      "userName": "Johnny",
+      "verseName": "1 Kwonik 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783645450943,
+      "updatedAt": 1783645450943,
+      "status": "active"
+    }
+  ],
+  "likeCount": 4,
+  "shareCount": 1,
+  "viewCount": 995,
   "verseLikedBy": [
     "a9d555d7733b40d5f3dff31947ec2f3846df5015a52b1788cd27434db15fcd3a",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
-    "4bc199de29f0a30c8ad64837c81228d39a9094c05e4fd08945c82ca166bf0a50"
+    "4bc199de29f0a30c8ad64837c81228d39a9094c05e4fd08945c82ca166bf0a50",
+    "d07891754345077cdf2ee34f473d730bb4f975bfd418034421aaa1c14ddb87ce"
   ],
   "verseViewBy": []
 }
