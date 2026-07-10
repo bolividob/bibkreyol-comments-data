@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "updatedAt": 1783641799858,
+  "updatedAt": 1783642519673,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 26,
+      "prayerCount": 27,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -43,9 +43,14 @@
         "ec63ed2df3ef8e15c4480fe611ad82cae7936be78d8a5bfe0f078273dcf263e9",
         "6d64d97725af77953248f74eccc74a9b1a0bd9ba4c39d9e56d3f1d3f6e83291f",
         "d1e985c2ddd916e5085da349da53e760a6791b21452fedbf20fe9fd0a910e9f0",
-        "6d9694a98f30a653e769ed755458f645af2e3d9e96b84ab952195c7ac2d85473"
+        "6d9694a98f30a653e769ed755458f645af2e3d9e96b84ab952195c7ac2d85473",
+        "d83d919c73ef6b5b6ee1186233cf05051afbab0d5e650e62c20207008115e936"
       ],
       "prayingPreview": [
+        {
+          "userName": "linds",
+          "prayedAt": 1783642391144
+        },
         {
           "userName": "Nesky solo",
           "prayedAt": 1783641685079
@@ -121,10 +126,6 @@
         {
           "userName": "chery Jude",
           "prayedAt": 1783508817931
-        },
-        {
-          "userName": "Mamah🇭🇹💎🙏",
-          "prayedAt": 1783506763943
         }
       ],
       "encouragements": [
@@ -242,7 +243,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783641799858,
+      "updatedAt": 1783642519673,
       "answeredAt": null,
       "testimony": null
     },
