@@ -1,9 +1,51 @@
 {
   "date": "2026-07-10",
   "verseKey": "daily:2026-07-10",
-  "updatedAt": 1783650211861,
+  "updatedAt": 1783656836542,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783651269955",
+      "text": "ok bondye ap beniw",
+      "userDeviceId": "aadf2c8c30d00b8f67f56a0f23c54c969f1d4a03cfe77533cf79a2a37f4d845d",
+      "userName": "julio",
+      "verseName": "1 Kwonik 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783656836541,
+      "updatedAt": 1783656836541,
+      "status": "active"
+    },
+    {
+      "id": "local-1783651323355",
+      "text": "ou met fèl confiance",
+      "userDeviceId": "aadf2c8c30d00b8f67f56a0f23c54c969f1d4a03cfe77533cf79a2a37f4d845d",
+      "userName": "julio",
+      "verseName": "1 Kwonik 6:4",
+      "parentId": "local-1783648648946",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783656836541,
+      "updatedAt": 1783656836541,
+      "status": "active"
+    },
+    {
+      "id": "local-1783650342267",
+      "text": "jezi se sèl sovè",
+      "userDeviceId": "23846e622cbd67ab017bb8cb819b97f6d3c34e2467495bda3a0d0d817081fbee",
+      "userName": "bedjine",
+      "verseName": "1 Kwonik 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783656836540,
+      "updatedAt": 1783656836540,
+      "status": "active"
+    },
     {
       "id": "local-1783648648946",
       "text": "BonDieu ou Fidel Seigneur",
@@ -11,11 +53,13 @@
       "userName": "Berline Pierre",
       "verseName": "1 Kwonik 6:4",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "23846e622cbd67ab017bb8cb819b97f6d3c34e2467495bda3a0d0d817081fbee"
+      ],
       "createdAt": 1783648986965,
-      "updatedAt": 1783648986965,
+      "updatedAt": 1783656836541,
       "status": "active"
     },
     {
@@ -33,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 3,
-  "viewCount": 2129,
+  "likeCount": 13,
+  "shareCount": 9,
+  "viewCount": 3114,
   "verseLikedBy": [
     "a9d555d7733b40d5f3dff31947ec2f3846df5015a52b1788cd27434db15fcd3a",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
@@ -45,7 +89,11 @@
     "4b62f9e0febfeec1a605d16c57e7ca3011c77732c3ddf36aedec88e0489f399d",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "b8e696359e29394ebe40492394984d0ad0da8d4d41d6f148343de8ccdd641611",
-    "39aa18ede68410d1ad6106d185030ee9eceb4c3ecb2ffec664968f67cc720158"
+    "39aa18ede68410d1ad6106d185030ee9eceb4c3ecb2ffec664968f67cc720158",
+    "72c3fe501708eabcbea2cc3e3cbc5df75fbe902bbd83d08d58b5985490669f26",
+    "cd8bb98a2a4a668bf2e19228d43cc25722035e896f0e5b92156980ac0d8592eb",
+    "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b",
+    "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac"
   ],
   "verseViewBy": []
 }
