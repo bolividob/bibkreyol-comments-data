@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "updatedAt": 1783700768110,
+  "updatedAt": 1783708577343,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 41,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 29,
+      "prayerCount": 30,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -46,9 +46,14 @@
         "6d9694a98f30a653e769ed755458f645af2e3d9e96b84ab952195c7ac2d85473",
         "d83d919c73ef6b5b6ee1186233cf05051afbab0d5e650e62c20207008115e936",
         "199f5cb9ccffa9eb5aaac5a089132af4de861301212fe74d55988947a199fadd",
-        "ddea7fb10086afa2b8f1a9a9bc6cbd29736073a36b86c100c7205a52d44199e6"
+        "ddea7fb10086afa2b8f1a9a9bc6cbd29736073a36b86c100c7205a52d44199e6",
+        "a334f2e565cbf0a2afb4b2b3feb2244ee7c793490f2cdfc7def9b6f017943a9c"
       ],
       "prayingPreview": [
+        {
+          "userName": "ly la bib",
+          "prayedAt": 1783708571759
+        },
         {
           "userName": "fifa",
           "prayedAt": 1783700744491
@@ -124,10 +129,6 @@
         {
           "userName": "Jerova",
           "prayedAt": 1783515184099
-        },
-        {
-          "userName": "Nancy François St Jean",
-          "prayedAt": 1783510663532
         }
       ],
       "encouragements": [
@@ -245,7 +246,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783700768109,
+      "updatedAt": 1783708577342,
       "answeredAt": null,
       "testimony": null
     },
