@@ -1,9 +1,23 @@
 {
   "date": "2026-07-10",
   "verseKey": "daily:2026-07-10",
-  "updatedAt": 1783646191314,
+  "updatedAt": 1783648986965,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783648648946",
+      "text": "BonDieu ou Fidel Seigneur",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "1 Kwonik 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783648986965,
+      "updatedAt": 1783648986965,
+      "status": "active"
+    },
     {
       "id": "local-1783644915461",
       "text": "mwen renmen travay sa anpil",
@@ -19,14 +33,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 4,
+  "likeCount": 7,
   "shareCount": 1,
-  "viewCount": 1363,
+  "viewCount": 1578,
   "verseLikedBy": [
     "a9d555d7733b40d5f3dff31947ec2f3846df5015a52b1788cd27434db15fcd3a",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "4bc199de29f0a30c8ad64837c81228d39a9094c05e4fd08945c82ca166bf0a50",
-    "d07891754345077cdf2ee34f473d730bb4f975bfd418034421aaa1c14ddb87ce"
+    "d07891754345077cdf2ee34f473d730bb4f975bfd418034421aaa1c14ddb87ce",
+    "9a3d0514dde69ce168e89851c15009d9282dacef27bff485a07a3a2161345418",
+    "4b62f9e0febfeec1a605d16c57e7ca3011c77732c3ddf36aedec88e0489f399d",
+    "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d"
   ],
   "verseViewBy": []
 }
