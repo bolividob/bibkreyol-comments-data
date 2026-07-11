@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783793835598,
+  "updatedAt": 1783797674744,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 40,
+      "prayerCount": 41,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -55,9 +55,14 @@
         "aab5f53f08644562f41f04d625de5f269b3148af7e723368cfc8460b0efd8fc3",
         "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
         "01cc4a9c2eb4eb8f90b1c4f21559a5bb78b337d8223842d1775e7f8b9ea291b9",
-        "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99"
+        "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
+        "6dd7e358e583f3c506d2886c4eb48b7b405a9f072e86c7011d3bfbff65fd410e"
       ],
       "prayingPreview": [
+        {
+          "userName": "Meh renmen Bondye",
+          "prayedAt": 1783797571186
+        },
         {
           "userName": "amén amén amén amén amén amén amén",
           "prayedAt": 1783793791732
@@ -133,13 +138,16 @@
         {
           "userName": "Laurent Monetoile",
           "prayedAt": 1783612169264
-        },
-        {
-          "userName": "bible kreyòl",
-          "prayedAt": 1783608898511
         }
       ],
       "encouragements": [
+        {
+          "id": "6dd7e358e583f3c506d2886c4eb48b7b405a9f072e86c7011d3bfbff65fd410e-1783797650325-encouragement",
+          "userDeviceId": "6dd7e358e583f3c506d2886c4eb48b7b405a9f072e86c7011d3bfbff65fd410e",
+          "userName": "Meh renmen Bondye",
+          "text": "Mwen bezwen vinn pi près prezans bondye Mwen Nou ede Mwen priye nom Mwen se Guerline casimir",
+          "createdAt": 1783797650325
+        },
         {
           "id": "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99-1783793791732-encouragement",
           "userDeviceId": "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
@@ -296,7 +304,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783793834614,
+      "updatedAt": 1783797673791,
       "answeredAt": null,
       "testimony": null
     },
