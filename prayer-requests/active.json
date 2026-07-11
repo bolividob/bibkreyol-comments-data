@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783783148370,
+  "updatedAt": 1783793835598,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 39,
+      "prayerCount": 40,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -54,9 +54,14 @@
         "eccd51a001fd45122b551b7a25fc7927c3a1e473e83b28687e08075bb9d3ae94",
         "aab5f53f08644562f41f04d625de5f269b3148af7e723368cfc8460b0efd8fc3",
         "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
-        "01cc4a9c2eb4eb8f90b1c4f21559a5bb78b337d8223842d1775e7f8b9ea291b9"
+        "01cc4a9c2eb4eb8f90b1c4f21559a5bb78b337d8223842d1775e7f8b9ea291b9",
+        "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99"
       ],
       "prayingPreview": [
+        {
+          "userName": "amén amén amén amén amén amén amén",
+          "prayedAt": 1783793791732
+        },
         {
           "userName": "peterson",
           "prayedAt": 1783783026547
@@ -132,13 +137,16 @@
         {
           "userName": "bible kreyòl",
           "prayedAt": 1783608898511
-        },
-        {
-          "userName": "Angeline",
-          "prayedAt": 1783596180270
         }
       ],
       "encouragements": [
+        {
+          "id": "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99-1783793791732-encouragement",
+          "userDeviceId": "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
+          "userName": "amén amén amén amén amén amén amén",
+          "text": "edem priye poum Ka gen okis la fwa",
+          "createdAt": 1783793791732
+        },
         {
           "id": "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc-1783782183919-encouragement",
           "userDeviceId": "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
@@ -288,7 +296,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783783146321,
+      "updatedAt": 1783793834614,
       "answeredAt": null,
       "testimony": null
     },
