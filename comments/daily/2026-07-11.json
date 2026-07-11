@@ -1,9 +1,23 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783794157851,
+  "updatedAt": 1783794651952,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783770535514",
+      "text": "Amèn Amèn Amèn, Alleluia Gloire, Merci Seigneur Jesus Merci",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783794651952,
+      "updatedAt": 1783794651952,
+      "status": "active"
+    },
     {
       "id": "local-1783774547997",
       "text": "amén toifra",
@@ -275,9 +289,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 48,
-  "shareCount": 89,
-  "viewCount": 10464,
+  "likeCount": 50,
+  "shareCount": 90,
+  "viewCount": 10561,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
@@ -326,7 +340,9 @@
     "2d5833e17d66c6f337900f766beabaffcea5dd2411cabaa035ec972bbf61a2b0",
     "35dd3be89700569b01c7afabab769ab6462272c0253529f1b7c4c4ce94f6669d",
     "a61526f9515b52bc8bb6a43250895064890b6e7b76f0ef43446899557f496f4c",
-    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414"
+    "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "69bca2ea8321d46cb9507051fd7b60d6200d4d0f83d0d1f2f7430a41446b1c60"
   ],
   "verseViewBy": []
 }
