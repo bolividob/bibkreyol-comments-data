@@ -1,9 +1,23 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783776208299,
+  "updatedAt": 1783776410481,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783776341443",
+      "text": "merci seigneur pou favew fem",
+      "userDeviceId": "3b967ee4189e708eecd39e24b76064b33800955fa2c46ac52cbf407451098583",
+      "userName": "Magdala",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783776410481,
+      "updatedAt": 1783776410481,
+      "status": "active"
+    },
     {
       "id": "local-1783771897775",
       "text": "Amén 🙏🙏🙏🙏❤️",
@@ -219,9 +233,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 38,
-  "shareCount": 75,
-  "viewCount": 8599,
+  "likeCount": 39,
+  "shareCount": 76,
+  "viewCount": 8646,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
@@ -260,7 +274,8 @@
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "7518d74bf77ea00cb94e03240c76009c161aeeb11c8f01e2dccd1e247e645921",
-    "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd"
+    "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
+    "3b967ee4189e708eecd39e24b76064b33800955fa2c46ac52cbf407451098583"
   ],
   "verseViewBy": []
 }
