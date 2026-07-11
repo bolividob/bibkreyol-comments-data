@@ -1,9 +1,23 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783755145906,
+  "updatedAt": 1783755810305,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783755178966",
+      "text": "Mwen santim byen lè map tande parôl Bondye",
+      "userDeviceId": "36845630230dc2bfbb74f140a14442a0819587b2f29d7695bcae8e78f58d6169",
+      "userName": "Nelson",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783755810304,
+      "updatedAt": 1783755810304,
+      "status": "active"
+    },
     {
       "id": "local-1783736471934",
       "text": "mwen renmen prol bondye 🙏🙏🙏🙏🙏🙏",
@@ -151,7 +165,7 @@
   ],
   "likeCount": 20,
   "shareCount": 44,
-  "viewCount": 6758,
+  "viewCount": 6797,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
