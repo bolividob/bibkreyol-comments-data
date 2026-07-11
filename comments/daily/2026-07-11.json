@@ -1,9 +1,23 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783764670446,
+  "updatedAt": 1783765591925,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783739485385",
+      "text": "kolosyen 3 🆚 2",
+      "userDeviceId": "4b8f905a840496417cec452bfd2ca321872636a5addfff890452d4a8fff585c1",
+      "userName": "chandeline",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783765591925,
+      "updatedAt": 1783765591925,
+      "status": "active"
+    },
     {
       "id": "local-1783762199166",
       "text": "Amén 🙏",
@@ -191,9 +205,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 24,
-  "shareCount": 52,
-  "viewCount": 7316,
+  "likeCount": 27,
+  "shareCount": 57,
+  "viewCount": 7454,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
@@ -218,7 +232,10 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
-    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
+    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "17da2a14749234415a2c58b29edfc9f4a60e1ca5717854a4e31ecae11d074bde"
   ],
   "verseViewBy": []
 }
