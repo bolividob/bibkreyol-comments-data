@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783772828708,
+  "updatedAt": 1783782192768,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 37,
+      "prayerCount": 38,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -52,9 +52,14 @@
         "ae9fb90ee29c14e27ef260efd295c7a6cc44a9af5218fd2c7f9bfbdee6c884b6",
         "37f04ccd7d7376aec340fb4a207f10a70ed3b7893c1892ca28af4730fd12da4e",
         "eccd51a001fd45122b551b7a25fc7927c3a1e473e83b28687e08075bb9d3ae94",
-        "aab5f53f08644562f41f04d625de5f269b3148af7e723368cfc8460b0efd8fc3"
+        "aab5f53f08644562f41f04d625de5f269b3148af7e723368cfc8460b0efd8fc3",
+        "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc"
       ],
       "prayingPreview": [
+        {
+          "userName": "Marie Michelle",
+          "prayedAt": 1783782183919
+        },
         {
           "userName": "Yolande",
           "prayedAt": 1783772561089
@@ -130,13 +135,16 @@
         {
           "userName": "mèmèn",
           "prayedAt": 1783553510855
-        },
-        {
-          "userName": "legagneur Marie dilia",
-          "prayedAt": 1783550604390
         }
       ],
       "encouragements": [
+        {
+          "id": "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc-1783782183919-encouragement",
+          "userDeviceId": "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
+          "userName": "Marie Michelle",
+          "text": "bonjou frè m ak sèm yo.kijan nou yé menm nan senyè a.\nmwen kontan ampil pou bon travay nap fé nan mond evangelik lá.",
+          "createdAt": 1783782183919
+        },
         {
           "id": "ae9fb90ee29c14e27ef260efd295c7a6cc44a9af5218fd2c7f9bfbdee6c884b6-1783729158048-encouragement",
           "userDeviceId": "ae9fb90ee29c14e27ef260efd295c7a6cc44a9af5218fd2c7f9bfbdee6c884b6",
@@ -279,7 +287,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783772585615,
+      "updatedAt": 1783782191757,
       "answeredAt": null,
       "testimony": null
     },
