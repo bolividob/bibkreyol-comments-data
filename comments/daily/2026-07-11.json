@@ -1,9 +1,23 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783732190500,
+  "updatedAt": 1783732563778,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783732065334",
+      "text": "bondye beniw",
+      "userDeviceId": "457c58859a60e895efddcd0172ce28fd04f0f1104bcd5215d1656647037eaed8",
+      "userName": "saintelien silméne",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783732563777,
+      "updatedAt": 1783732563777,
+      "status": "active"
+    },
     {
       "id": "local-1783728565464",
       "text": "Amen amen amen mèsi anpil Bondye papa Pou grasw ak favè ou senyè 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
-  "shareCount": 7,
-  "viewCount": 855,
+  "likeCount": 10,
+  "shareCount": 10,
+  "viewCount": 1308,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
@@ -44,7 +58,9 @@
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "885d1da8fa0525ed739b66d0c73bf2caa0b98f1f0e9cf464efc2a7b6f5f45ba6",
     "39068fd658ba2ef8bf2a97e8094ff9e219fcf177e6024806280d9c96ccab5418",
-    "8399c59f20c0b8b71741c7bcd678a155502d7439f7104fac04b949443775e58c"
+    "8399c59f20c0b8b71741c7bcd678a155502d7439f7104fac04b949443775e58c",
+    "457c58859a60e895efddcd0172ce28fd04f0f1104bcd5215d1656647037eaed8",
+    "c6acb33429af4e332d68b9b630cb7464118e78cd69d555c5de4a6cc628e0954b"
   ],
   "verseViewBy": []
 }
