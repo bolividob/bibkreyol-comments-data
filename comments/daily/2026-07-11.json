@@ -1,9 +1,23 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783760613806,
+  "updatedAt": 1783760797757,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783759798959",
+      "text": "amén amén amén amén",
+      "userDeviceId": "4810f59c3dbc18cd69420cab83cea0492010874b79f4d55d0ec967a7fd386bfa",
+      "userName": "Pierre julienne",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783760797757,
+      "updatedAt": 1783760797757,
+      "status": "active"
+    },
     {
       "id": "local-1783755178966",
       "text": "Mwen santim byen lè map tande parôl Bondye",
@@ -165,7 +179,7 @@
   ],
   "likeCount": 21,
   "shareCount": 48,
-  "viewCount": 7005,
+  "viewCount": 7024,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
