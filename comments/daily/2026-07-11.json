@@ -1,9 +1,23 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783771786911,
+  "updatedAt": 1783771968225,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783771897775",
+      "text": "Amén 🙏🙏🙏🙏❤️",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783771968225,
+      "updatedAt": 1783771968225,
+      "status": "active"
+    },
     {
       "id": "local-1783739485385",
       "text": "kolosyen 3 🆚 2",
@@ -205,9 +219,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
+  "likeCount": 32,
   "shareCount": 63,
-  "viewCount": 7923,
+  "viewCount": 7976,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
@@ -239,7 +253,8 @@
     "4a69a581219263a953074bd0ab08d3fac9c124db5b360da2f66978a48b57e59c",
     "44b877e5225a17b70f84c803fac2989c7600bb77ce5022f6c99d95e3e761309f",
     "a3322b3bbea53b2dc5ebe12c39eb4a1212fa96d96010648457a62a017d068395",
-    "ee3be6b3e6e67b2718ad031f089a8321ed87ca4ae0690142cde871ca61588969"
+    "ee3be6b3e6e67b2718ad031f089a8321ed87ca4ae0690142cde871ca61588969",
+    "705342f5463102bd0ab38d72cddb32ba27b9e548aec11c587159716030a5911e"
   ],
   "verseViewBy": []
 }
