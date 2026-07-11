@@ -1,17 +1,49 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783728863075,
+  "updatedAt": 1783729229988,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
-  "shareCount": 3,
-  "viewCount": 239,
+  "comments": [
+    {
+      "id": "local-1783728565464",
+      "text": "Amen amen amen mèsi anpil Bondye papa Pou grasw ak favè ou senyè 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783729229988,
+      "updatedAt": 1783729229988,
+      "status": "active"
+    },
+    {
+      "id": "local-1783728546276",
+      "text": "Jésus",
+      "userDeviceId": "3eec171e606cf0ad1fb0267dc2099a1f77e1a3d67e61b4a6c512b25eb68c5b7a",
+      "userName": "Nozias",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783729229988,
+      "updatedAt": 1783729229988,
+      "status": "active"
+    }
+  ],
+  "likeCount": 7,
+  "shareCount": 6,
+  "viewCount": 503,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
     "6d6deb22f4e178468fae635692fb3d5563638f14107473042477c47989f29bf6",
-    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "885d1da8fa0525ed739b66d0c73bf2caa0b98f1f0e9cf464efc2a7b6f5f45ba6",
+    "39068fd658ba2ef8bf2a97e8094ff9e219fcf177e6024806280d9c96ccab5418"
   ],
   "verseViewBy": []
 }
