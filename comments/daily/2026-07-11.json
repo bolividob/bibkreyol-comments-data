@@ -1,9 +1,51 @@
 {
   "date": "2026-07-11",
   "verseKey": "daily:2026-07-11",
-  "updatedAt": 1783739563234,
+  "updatedAt": 1783739763055,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783739227996",
+      "text": "amén a le louya",
+      "userDeviceId": "529f4ae8fe43c45a00b904877cbf7d7aa7b024c6cb75724347cd0fab3c0e86e2",
+      "userName": "rose",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783739763055,
+      "updatedAt": 1783739763055,
+      "status": "active"
+    },
+    {
+      "id": "local-1783739235864",
+      "text": "amén",
+      "userDeviceId": "529f4ae8fe43c45a00b904877cbf7d7aa7b024c6cb75724347cd0fab3c0e86e2",
+      "userName": "rose",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783739763055,
+      "updatedAt": 1783739763055,
+      "status": "active"
+    },
+    {
+      "id": "local-1783739282911",
+      "text": "Que nom Bondie soit loué",
+      "userDeviceId": "95ae4fc520327ebbd8b7a435544dd976cf2db2bb669e393192818b7c7fd26dc6",
+      "userName": "Oh mon Dieu",
+      "verseName": "Oze 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783739763055,
+      "updatedAt": 1783739763055,
+      "status": "active"
+    },
     {
       "id": "local-1783732065334",
       "text": "bondye beniw",
@@ -47,9 +89,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 20,
-  "viewCount": 3779,
+  "likeCount": 15,
+  "shareCount": 29,
+  "viewCount": 4608,
   "verseLikedBy": [
     "de26a1a6350eb337914f5dd312530add790792f5ff42b6d97c71d193deb01bde",
     "b175f3db3902a55ed3c3740fc335e0589e74cf2e5ed44ed184cb5a9ea8391829",
@@ -62,7 +104,10 @@
     "457c58859a60e895efddcd0172ce28fd04f0f1104bcd5215d1656647037eaed8",
     "c6acb33429af4e332d68b9b630cb7464118e78cd69d555c5de4a6cc628e0954b",
     "1ba6694c7f5efeb1fcd5f916943ff2a036846ca894ca9f500c9d37901ca35991",
-    "c98438c005ca0b1e6c21b6108555e39783f61e12d90862a1c0f489d5a04d1f55"
+    "c98438c005ca0b1e6c21b6108555e39783f61e12d90862a1c0f489d5a04d1f55",
+    "69e49ac3e59e2bcfceebebe20f50f2bcadea15569599b4fca8010adb89673598",
+    "95ae4fc520327ebbd8b7a435544dd976cf2db2bb669e393192818b7c7fd26dc6",
+    "529f4ae8fe43c45a00b904877cbf7d7aa7b024c6cb75724347cd0fab3c0e86e2"
   ],
   "verseViewBy": []
 }
