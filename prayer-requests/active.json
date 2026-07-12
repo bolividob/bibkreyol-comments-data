@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783816036173,
+  "updatedAt": 1783822416969,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -41,7 +41,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 43,
+      "prayerCount": 44,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -85,9 +85,14 @@
         "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
         "6dd7e358e583f3c506d2886c4eb48b7b405a9f072e86c7011d3bfbff65fd410e",
         "ed57f9fa6885f969407fc6cfd0a613d99cc8d1b95b9fe5ef431cdad31ab29f23",
-        "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1"
+        "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
+        "f55bdb960ff1816764d29f74133209885b74b3f4f4f17d951690b96d7b42f784"
       ],
       "prayingPreview": [
+        {
+          "userName": "marah",
+          "prayedAt": 1783822047642
+        },
         {
           "userName": "Perpy Marie Yvena",
           "prayedAt": 1783815792506
@@ -163,13 +168,23 @@
         {
           "userName": "Paul cherlanda",
           "prayedAt": 1783638641683
-        },
-        {
-          "userName": "som 35",
-          "prayedAt": 1783636717287
         }
       ],
       "encouragements": [
+        {
+          "id": "f55bdb960ff1816764d29f74133209885b74b3f4f4f17d951690b96d7b42f784-1783822132031-encouragement",
+          "userDeviceId": "f55bdb960ff1816764d29f74133209885b74b3f4f4f17d951690b96d7b42f784",
+          "userName": "marah",
+          "text": "edem priye pum pa de oute nan wout lan paske mw vle dekouraj",
+          "createdAt": 1783822132031
+        },
+        {
+          "id": "f55bdb960ff1816764d29f74133209885b74b3f4f4f17d951690b96d7b42f784-1783822047642-encouragement",
+          "userDeviceId": "f55bdb960ff1816764d29f74133209885b74b3f4f4f17d951690b96d7b42f784",
+          "userName": "marah",
+          "text": "edem priye svp",
+          "createdAt": 1783822047642
+        },
         {
           "id": "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1-1783815968324-encouragement",
           "userDeviceId": "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
@@ -340,7 +355,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783816035271,
+      "updatedAt": 1783822408668,
       "answeredAt": null,
       "testimony": null
     },
