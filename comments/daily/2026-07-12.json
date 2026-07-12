@@ -1,14 +1,31 @@
 {
   "date": "2026-07-12",
   "verseKey": "daily:2026-07-12",
-  "updatedAt": 1783816659309,
+  "updatedAt": 1783830187152,
   "version": 1,
-  "comments": [],
-  "likeCount": 1,
-  "shareCount": 2,
-  "viewCount": 541,
+  "comments": [
+    {
+      "id": "local-1783825265363",
+      "text": "men",
+      "userDeviceId": "2ee3e05d3a9e78f31bb92d77beea3586a172922aab5b4ab1a4afa3e191c10266",
+      "userName": "genes",
+      "verseName": "3 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783830187151,
+      "updatedAt": 1783830187151,
+      "status": "active"
+    }
+  ],
+  "likeCount": 3,
+  "shareCount": 13,
+  "viewCount": 1527,
   "verseLikedBy": [
-    "63b2ddf94f41738a46c000b837b86f13e4ac5b30ceffd43ef27533793431b439"
+    "63b2ddf94f41738a46c000b837b86f13e4ac5b30ceffd43ef27533793431b439",
+    "09cd144d1d9014cec3340173193b1e5105b83fce7f36538536add871e743a711",
+    "417a3c7e1b516286b61ccc786617a7808fc3e8d479d0c173cabd3a0b324ae56f"
   ],
   "verseViewBy": []
 }
