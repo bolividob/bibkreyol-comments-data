@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783826594401,
+  "updatedAt": 1783829838276,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,17 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
-        "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e"
+        "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
+        "17e81e62c81ecb1c871476ffe0cc8cf91b9699d9c54e5233c4277b599a151e13"
       ],
       "prayingPreview": [
+        {
+          "userName": "Claudia Douville",
+          "prayedAt": 1783829797997
+        },
         {
           "userName": "somm",
           "prayedAt": 1783826500570
@@ -31,7 +36,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783826593266,
+      "updatedAt": 1783829837255,
       "answeredAt": null,
       "testimony": null
     },
