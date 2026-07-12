@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "updatedAt": 1783876631594,
+  "updatedAt": 1783880003391,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 42,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 10,
+      "prayerCount": 11,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -27,9 +27,14 @@
         "72eaa00947c3c39bd8748cff2f4b37ea79e5db6561c9756ca9d4d5ecdd5aee8a",
         "cdeaa8ee30abfb4909e517abd4197cd3fdb601429b2316b7b52c27b32b2e9c61",
         "754fbbb6e8635f9af38047d99717855b25f41292a60d252c3c7ac7a22ddeea49",
-        "7ebdc74bc395da63166b24012cb676d9ab1c8bbd41fd56b218e608179fe0365a"
+        "7ebdc74bc395da63166b24012cb676d9ab1c8bbd41fd56b218e608179fe0365a",
+        "bc7f8b04d3bbbb35824a4778b3e4d3198a4ed6b3829ab4b98dfaf074e4d960e2"
       ],
       "prayingPreview": [
+        {
+          "userName": "pou travail mwen",
+          "prayedAt": 1783879973712
+        },
         {
           "userName": "mesern..ristilya",
           "prayedAt": 1783874014465
@@ -73,6 +78,13 @@
       ],
       "encouragements": [
         {
+          "id": "bc7f8b04d3bbbb35824a4778b3e4d3198a4ed6b3829ab4b98dfaf074e4d960e2-1783879973712-encouragement",
+          "userDeviceId": "bc7f8b04d3bbbb35824a4778b3e4d3198a4ed6b3829ab4b98dfaf074e4d960e2",
+          "userName": "pou travail mwen",
+          "text": "pou travail mwen",
+          "createdAt": 1783879973712
+        },
+        {
           "id": "cdeaa8ee30abfb4909e517abd4197cd3fdb601429b2316b7b52c27b32b2e9c61-1783868776052-encouragement",
           "userDeviceId": "cdeaa8ee30abfb4909e517abd4197cd3fdb601429b2316b7b52c27b32b2e9c61",
           "userName": "andre felita",
@@ -95,7 +107,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783875910137,
+      "updatedAt": 1783880003391,
       "answeredAt": null,
       "testimony": null
     },
