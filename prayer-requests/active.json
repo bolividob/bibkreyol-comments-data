@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783868706864,
+  "updatedAt": 1783868829522,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -61,6 +61,13 @@
       ],
       "encouragements": [
         {
+          "id": "cdeaa8ee30abfb4909e517abd4197cd3fdb601429b2316b7b52c27b32b2e9c61-1783868776052-encouragement",
+          "userDeviceId": "cdeaa8ee30abfb4909e517abd4197cd3fdb601429b2316b7b52c27b32b2e9c61",
+          "userName": "andre felita",
+          "text": "mete konfyans ou nan li wap geri nan non jezi",
+          "createdAt": 1783868776052
+        },
+        {
           "id": "cdeaa8ee30abfb4909e517abd4197cd3fdb601429b2316b7b52c27b32b2e9c61-1783868680069-encouragement",
           "userDeviceId": "cdeaa8ee30abfb4909e517abd4197cd3fdb601429b2316b7b52c27b32b2e9c61",
           "userName": "andre felita",
@@ -76,7 +83,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783868702898,
+      "updatedAt": 1783868828512,
       "answeredAt": null,
       "testimony": null
     },
