@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "updatedAt": 1783875910137,
+  "updatedAt": 1783876631594,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 42,
@@ -683,7 +683,7 @@
       "customExpectedSeason": null,
       "request": "poum rete kay Dye,poum tuju gn puisns",
       "status": "praying",
-      "prayerCount": 22,
+      "prayerCount": 23,
       "prayedBy": [
         "9b81bd0b0ed45427cf746e9aca46655216ffc92ada04c9edd55f0a633464de8a",
         "0e320462eb99b30f841c344febcbe76c132f52518bc50f852eb487bed42fa456",
@@ -706,9 +706,14 @@
         "f2f5abb1b5fbf4ed180ca7c662bad202cf22fdfc2779a5824dc9afeb5990d84e",
         "3bf28526b47507c50e44c9f14bb38ad011c3251254dca5fea5dae14e5a7ac69c",
         "e3b80cc01a265c5e17b0f342d1b3c780470b9ebbc5fe47abcfeab45744f37c8a",
-        "ad3a1bfdfde1de3fee4bcfe2b7292ae54fbee624dbe48e09c159a2939d5e0d9a"
+        "ad3a1bfdfde1de3fee4bcfe2b7292ae54fbee624dbe48e09c159a2939d5e0d9a",
+        "63fba3c3da85f932f81702a72019030d3664959111b5cb5f2fe78ab177a9b9bc"
       ],
       "prayingPreview": [
+        {
+          "userName": "123456 Edwens",
+          "prayedAt": 1783876622575
+        },
         {
           "userName": "Wilson RAYMOND",
           "prayedAt": 1783772794698
@@ -784,10 +789,6 @@
         {
           "userName": "Sassoue",
           "prayedAt": 1783182242366
-        },
-        {
-          "userName": "febe 😘",
-          "prayedAt": 1783144342148
         }
       ],
       "encouragements": [
@@ -870,7 +871,7 @@
         }
       ],
       "submittedAt": 1783130256640,
-      "updatedAt": 1783772826673,
+      "updatedAt": 1783876631593,
       "answeredAt": null,
       "testimony": null
     },
