@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783843505760,
+  "updatedAt": 1783861865774,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,16 +14,21 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 6,
+      "prayerCount": 7,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
         "17e81e62c81ecb1c871476ffe0cc8cf91b9699d9c54e5233c4277b599a151e13",
         "6fafcf479913ec14ba6576815880f2ecb2fa77ffb91ae76a84ceb02ac3a813ee",
         "abde574a5bcdce09835c2e365e21aabe75d30449f09a0064917680b39c85d48f",
-        "ed2e8e983e5aee0d0c5748eef8a51c80ec8d6178edfc5ff13631134a9cb710b8"
+        "ed2e8e983e5aee0d0c5748eef8a51c80ec8d6178edfc5ff13631134a9cb710b8",
+        "72eaa00947c3c39bd8748cff2f4b37ea79e5db6561c9756ca9d4d5ecdd5aee8a"
       ],
       "prayingPreview": [
+        {
+          "userName": "jean françoir",
+          "prayedAt": 1783861769212
+        },
         {
           "userName": "sylvain",
           "prayedAt": 1783843496038
@@ -59,7 +64,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783843504778,
+      "updatedAt": 1783861863543,
       "answeredAt": null,
       "testimony": null
     },
