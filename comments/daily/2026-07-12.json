@@ -1,9 +1,23 @@
 {
   "date": "2026-07-12",
   "verseKey": "daily:2026-07-12",
-  "updatedAt": 1783894387902,
+  "updatedAt": 1783898056143,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783897296580",
+      "text": "salut",
+      "userDeviceId": "1a837cc0a103acf4612fe35b110cf04d46c1af4c802f8b536dcc2b65518a52e3",
+      "userName": "josez perer",
+      "verseName": "3 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783898056143,
+      "updatedAt": 1783898056143,
+      "status": "active"
+    },
     {
       "id": "local-1783883490906",
       "text": "amen",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 93,
-  "viewCount": 10405,
+  "likeCount": 13,
+  "shareCount": 95,
+  "viewCount": 11396,
   "verseLikedBy": [
     "09cd144d1d9014cec3340173193b1e5105b83fce7f36538536add871e743a711",
     "417a3c7e1b516286b61ccc786617a7808fc3e8d479d0c173cabd3a0b324ae56f",
@@ -76,7 +90,8 @@
     "025d84c1868b9a93edbcd2eb72e9e8119398ce9e1e1700703280463ee7ab8f8f",
     "0109a1ecee36d7dfbdba47e0a271203be1b967841ad0b37fe2758dd529173d4d",
     "1e9ead9a4021115a7cd0e05a2696b6088b9da71d7d65b14bc532c8819b91a1e0",
-    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce"
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "2978d02985dd71df33f32a32bf8ed26db80a936426ba0b255a4114f2b7f120c4"
   ],
   "verseViewBy": []
 }
