@@ -1,9 +1,51 @@
 {
   "date": "2026-07-13",
   "verseKey": "daily:2026-07-13",
-  "updatedAt": 1783980974761,
+  "updatedAt": 1783984298309,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783912918136",
+      "text": "dannyel",
+      "userDeviceId": "390cef7b853828610e47ac5f8a5a2e646456fb685f4164bba1e481de51fddaa1",
+      "userName": "verite",
+      "verseName": "Travay 7:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783984297509,
+      "updatedAt": 1783984297509,
+      "status": "active"
+    },
+    {
+      "id": "local-1783912940194",
+      "text": "dann",
+      "userDeviceId": "390cef7b853828610e47ac5f8a5a2e646456fb685f4164bba1e481de51fddaa1",
+      "userName": "verite",
+      "verseName": "Travay 7:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783984297509,
+      "updatedAt": 1783984297509,
+      "status": "active"
+    },
+    {
+      "id": "local-1783913042987",
+      "text": "ezayi 27 1",
+      "userDeviceId": "390cef7b853828610e47ac5f8a5a2e646456fb685f4164bba1e481de51fddaa1",
+      "userName": "verite",
+      "verseName": "Travay 7:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783984297509,
+      "updatedAt": 1783984297509,
+      "status": "active"
+    },
     {
       "id": "local-1783927284101",
       "text": "Amen Amen 🙏 🙌 👏",
@@ -33,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
-  "shareCount": 55,
-  "viewCount": 7127,
+  "likeCount": 12,
+  "shareCount": 61,
+  "viewCount": 8112,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -46,7 +88,9 @@
     "248fb075f412a134043daac903a2a5cada6537e53339108e4e8b746219a3824d",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2b291ea13aeb94317f0afdcd0896de51a76a6b72aafe6ac1e59b678a0df39a0e",
-    "31dcb29bfb1d31fa92367c88a30efcdd652a55884aba2e85ebe8800571074ea0"
+    "31dcb29bfb1d31fa92367c88a30efcdd652a55884aba2e85ebe8800571074ea0",
+    "3a6ce0eaf90d304e48dbfc2c887f60355c224cb0cc162c2f56e1c2bca488fe45",
+    "3b992a9e16acb038081426077e8419d2865b243a39bd68cf0c9ca486e5f15cdc"
   ],
   "verseViewBy": []
 }
