@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": 1783937958891,
+  "updatedAt": 1783939752862,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 42,
@@ -185,7 +185,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 45,
+      "prayerCount": 46,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -231,9 +231,14 @@
         "ed57f9fa6885f969407fc6cfd0a613d99cc8d1b95b9fe5ef431cdad31ab29f23",
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "f55bdb960ff1816764d29f74133209885b74b3f4f4f17d951690b96d7b42f784",
-        "4bcf559a3fccfa4f7f0e6bf296f2305133b1ebead93f42690efa868794b7620a"
+        "4bcf559a3fccfa4f7f0e6bf296f2305133b1ebead93f42690efa868794b7620a",
+        "cf5fe8e4ce9f9acb3f223f6f7f015ec6c62125fca089000a99eb9b027b07de8d"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bib",
+          "prayedAt": 1783939738196
+        },
         {
           "userName": "Nilia Louis",
           "prayedAt": 1783937909631
@@ -309,10 +314,6 @@
         {
           "userName": "linds",
           "prayedAt": 1783642391144
-        },
-        {
-          "userName": "Nesky solo",
-          "prayedAt": 1783641685079
         }
       ],
       "encouragements": [
@@ -500,7 +501,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1783937958890,
+      "updatedAt": 1783939752862,
       "answeredAt": null,
       "testimony": null
     },
