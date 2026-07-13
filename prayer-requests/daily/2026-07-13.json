@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": 1783948504008,
+  "updatedAt": 1783951623442,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 42,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 21,
+      "prayerCount": 22,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -38,9 +38,14 @@
         "c013822bc56ca1cb4c082b9d9aade5e4a23ed86bd1fd22f868e88e17eba45cd9",
         "00a0f5361ba8ec8be1b1e67abe92652b2962569e8dd91b8a22331a35b6db1d87",
         "fb7ce06cddfb7756911753a75da3c3e367c3c07602854b1bfd6b4652ac14db87",
-        "5232a9b251c40398d0150b00101bf7645c4fa0ce64f5d9e7e923d95cc7b7a5f7"
+        "5232a9b251c40398d0150b00101bf7645c4fa0ce64f5d9e7e923d95cc7b7a5f7",
+        "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5"
       ],
       "prayingPreview": [
+        {
+          "userName": "ritza",
+          "prayedAt": 1783951618709
+        },
         {
           "userName": "8295365611",
           "prayedAt": 1783948473027
@@ -116,13 +121,16 @@
         {
           "userName": "Claudia Douville",
           "prayedAt": 1783829797997
-        },
-        {
-          "userName": "somm",
-          "prayedAt": 1783826500570
         }
       ],
       "encouragements": [
+        {
+          "id": "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5-1783951618709-encouragement",
+          "userDeviceId": "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5",
+          "userName": "ritza",
+          "text": "edem priye pou yon vi de priyè",
+          "createdAt": 1783951618709
+        },
         {
           "id": "00a0f5361ba8ec8be1b1e67abe92652b2962569e8dd91b8a22331a35b6db1d87-1783940441851-encouragement",
           "userDeviceId": "00a0f5361ba8ec8be1b1e67abe92652b2962569e8dd91b8a22331a35b6db1d87",
@@ -188,7 +196,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783948504008,
+      "updatedAt": 1783951623441,
       "answeredAt": null,
       "testimony": null
     },
