@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783951624969,
+  "updatedAt": 1783951748813,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -123,6 +123,13 @@
       ],
       "encouragements": [
         {
+          "id": "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5-1783951710526-encouragement",
+          "userDeviceId": "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5",
+          "userName": "ritza",
+          "text": "mw bezwen yon vi de santifikasyon",
+          "createdAt": 1783951710526
+        },
+        {
           "id": "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5-1783951618709-encouragement",
           "userDeviceId": "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5",
           "userName": "ritza",
@@ -194,7 +201,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783951623441,
+      "updatedAt": 1783951746077,
       "answeredAt": null,
       "testimony": null
     },
