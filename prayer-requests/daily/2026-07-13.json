@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": 1783902079159,
+  "updatedAt": 1783904842769,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 42,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 13,
+      "prayerCount": 14,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -30,9 +30,14 @@
         "7ebdc74bc395da63166b24012cb676d9ab1c8bbd41fd56b218e608179fe0365a",
         "bc7f8b04d3bbbb35824a4778b3e4d3198a4ed6b3829ab4b98dfaf074e4d960e2",
         "87434add40581dd0521c6208e90571570f46f550c330b586194db7a3d1507923",
-        "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b"
+        "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b",
+        "131328aa547095cebe9d89795adb5a081072e1c6a888e46f9d7af7ba3d4c1307"
       ],
       "prayingPreview": [
+        {
+          "userName": "wedoo",
+          "prayedAt": 1783904755119
+        },
         {
           "userName": "Christoo",
           "prayedAt": 1783901512082
@@ -88,6 +93,13 @@
       ],
       "encouragements": [
         {
+          "id": "131328aa547095cebe9d89795adb5a081072e1c6a888e46f9d7af7ba3d4c1307-1783904755119-encouragement",
+          "userDeviceId": "131328aa547095cebe9d89795adb5a081072e1c6a888e46f9d7af7ba3d4c1307",
+          "userName": "wedoo",
+          "text": "pou Bondye banm yon travail kap fèm dire lontan ladanl o non de Jesus \n\npoul banm memoi konprann",
+          "createdAt": 1783904755119
+        },
+        {
           "id": "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b-1783901512082-encouragement",
           "userDeviceId": "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b",
           "userName": "Christoo",
@@ -131,7 +143,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783901587714,
+      "updatedAt": 1783904842768,
       "answeredAt": null,
       "testimony": null
     },
