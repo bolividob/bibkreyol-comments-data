@@ -1,9 +1,23 @@
 {
   "date": "2026-07-13",
   "verseKey": "daily:2026-07-13",
-  "updatedAt": 1783901828352,
+  "updatedAt": 1783945230221,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783927284101",
+      "text": "Amen Amen 🙏 🙌 👏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Travay 7:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1783945230221,
+      "updatedAt": 1783945230221,
+      "status": "active"
+    },
     {
       "id": "local-1783862631060",
       "text": "amen",
@@ -15,13 +29,16 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1783901311583,
-      "updatedAt": 1783901311583,
+      "updatedAt": 1783945230219,
       "status": "active"
     }
   ],
-  "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 247,
-  "verseLikedBy": [],
+  "likeCount": 2,
+  "shareCount": 6,
+  "viewCount": 1234,
+  "verseLikedBy": [
+    "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
+    "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98"
+  ],
   "verseViewBy": []
 }
