@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783884074683,
+  "updatedAt": 1783901588912,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 12,
+      "prayerCount": 13,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -27,9 +27,14 @@
         "754fbbb6e8635f9af38047d99717855b25f41292a60d252c3c7ac7a22ddeea49",
         "7ebdc74bc395da63166b24012cb676d9ab1c8bbd41fd56b218e608179fe0365a",
         "bc7f8b04d3bbbb35824a4778b3e4d3198a4ed6b3829ab4b98dfaf074e4d960e2",
-        "87434add40581dd0521c6208e90571570f46f550c330b586194db7a3d1507923"
+        "87434add40581dd0521c6208e90571570f46f550c330b586194db7a3d1507923",
+        "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b"
       ],
       "prayingPreview": [
+        {
+          "userName": "Christoo",
+          "prayedAt": 1783901512082
+        },
         {
           "userName": "jhon",
           "prayedAt": 1783883949105
@@ -81,6 +86,13 @@
       ],
       "encouragements": [
         {
+          "id": "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b-1783901512082-encouragement",
+          "userDeviceId": "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b",
+          "userName": "Christoo",
+          "text": "fè Bndye konfyans l'ap geri 🤍🛐",
+          "createdAt": 1783901512082
+        },
+        {
           "id": "bc7f8b04d3bbbb35824a4778b3e4d3198a4ed6b3829ab4b98dfaf074e4d960e2-1783880195390-encouragement",
           "userDeviceId": "bc7f8b04d3bbbb35824a4778b3e4d3198a4ed6b3829ab4b98dfaf074e4d960e2",
           "userName": "pou travail mwen",
@@ -117,7 +129,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783884067736,
+      "updatedAt": 1783901587714,
       "answeredAt": null,
       "testimony": null
     },
