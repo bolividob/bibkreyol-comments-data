@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": 1783912388837,
+  "updatedAt": 1783912624224,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 42,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 15,
+      "prayerCount": 16,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -32,9 +32,14 @@
         "87434add40581dd0521c6208e90571570f46f550c330b586194db7a3d1507923",
         "4f452a6af1818e3afdd941aecdf7becea56450ec8328c866b042d786ec41165b",
         "131328aa547095cebe9d89795adb5a081072e1c6a888e46f9d7af7ba3d4c1307",
-        "bc7ab3268350169dd0e929daa93f732c8326304b52223cc035ca6bf8c47d15fb"
+        "bc7ab3268350169dd0e929daa93f732c8326304b52223cc035ca6bf8c47d15fb",
+        "621f35a0a4e77698ed4b5f750804cebffefa1c1492a9ae06f6f20fcb3af3502b"
       ],
       "prayingPreview": [
+        {
+          "userName": "Jerry charles",
+          "prayedAt": 1783912597179
+        },
         {
           "userName": "pou bondye restore vi mw",
           "prayedAt": 1783912186331
@@ -98,6 +103,13 @@
       ],
       "encouragements": [
         {
+          "id": "621f35a0a4e77698ed4b5f750804cebffefa1c1492a9ae06f6f20fcb3af3502b-1783912597179-encouragement",
+          "userDeviceId": "621f35a0a4e77698ed4b5f750804cebffefa1c1492a9ae06f6f20fcb3af3502b",
+          "userName": "Jerry charles",
+          "text": "edem prye svp",
+          "createdAt": 1783912597179
+        },
+        {
           "id": "131328aa547095cebe9d89795adb5a081072e1c6a888e46f9d7af7ba3d4c1307-1783904755119-encouragement",
           "userDeviceId": "131328aa547095cebe9d89795adb5a081072e1c6a888e46f9d7af7ba3d4c1307",
           "userName": "wedoo",
@@ -148,7 +160,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783912388837,
+      "updatedAt": 1783912624224,
       "answeredAt": null,
       "testimony": null
     },
