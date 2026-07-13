@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783901588912,
+  "updatedAt": 1783902081270,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -473,7 +473,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 29,
+      "prayerCount": 30,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -503,9 +503,14 @@
         "6c486e4c9739149d3aa85d4cfa24314b27462b2219744776369d71417307ef9c",
         "07a90dd675bc717d6fa5ae07f5b01245bb8d5a2bd56daf628e456d8bcc007bae",
         "c81b5c813c554bd414b5a5d1ee8f353ca18779f45052a488e0e857d428137763",
-        "98958de3a3f04a6b7af933c9e73145ef4908f188d46ccdb1e61e73f3af862ab1"
+        "98958de3a3f04a6b7af933c9e73145ef4908f188d46ccdb1e61e73f3af862ab1",
+        "825d1faa27e9d91328e8639dfe3b373ab44d85c6177113306f26c5fb7e29d981"
       ],
       "prayingPreview": [
+        {
+          "userName": "sheelove shai",
+          "prayedAt": 1783901714624
+        },
         {
           "userName": "walky",
           "prayedAt": 1783724651339
@@ -581,13 +586,23 @@
         {
           "userName": "som",
           "prayedAt": 1783393579307
-        },
-        {
-          "userName": "Marie. Louise Eugene",
-          "prayedAt": 1783381227827
         }
       ],
       "encouragements": [
+        {
+          "id": "825d1faa27e9d91328e8639dfe3b373ab44d85c6177113306f26c5fb7e29d981-1783901769989-encouragement",
+          "userDeviceId": "825d1faa27e9d91328e8639dfe3b373ab44d85c6177113306f26c5fb7e29d981",
+          "userName": "sheelove shai",
+          "text": "pou Bondye gerim",
+          "createdAt": 1783901769989
+        },
+        {
+          "id": "825d1faa27e9d91328e8639dfe3b373ab44d85c6177113306f26c5fb7e29d981-1783901744240-encouragement",
+          "userDeviceId": "825d1faa27e9d91328e8639dfe3b373ab44d85c6177113306f26c5fb7e29d981",
+          "userName": "sheelove shai",
+          "text": "Edem priye",
+          "createdAt": 1783901744240
+        },
         {
           "id": "98958de3a3f04a6b7af933c9e73145ef4908f188d46ccdb1e61e73f3af862ab1-1783724714576-encouragement",
           "userDeviceId": "98958de3a3f04a6b7af933c9e73145ef4908f188d46ccdb1e61e73f3af862ab1",
@@ -702,7 +717,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1783724787964,
+      "updatedAt": 1783902079159,
       "answeredAt": null,
       "testimony": null
     },
