@@ -1,9 +1,23 @@
 {
   "date": "2026-07-13",
   "verseKey": "daily:2026-07-13",
-  "updatedAt": 1784006421280,
+  "updatedAt": 1784009548861,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783912784684",
+      "text": "Kote mou ye?",
+      "userDeviceId": "465f224dc048d57e1c90312a2cc02a5b0cb62ee6a997da38c8f7691bbc2a827c",
+      "userName": "Bok",
+      "verseName": "Travay 7:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784009548860,
+      "updatedAt": 1784009548860,
+      "status": "active"
+    },
     {
       "id": "local-1783935920198",
       "text": "Amén",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
-  "shareCount": 82,
-  "viewCount": 12046,
+  "likeCount": 16,
+  "shareCount": 91,
+  "viewCount": 13024,
   "verseLikedBy": [
     "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -106,7 +120,9 @@
     "3a6ce0eaf90d304e48dbfc2c887f60355c224cb0cc162c2f56e1c2bca488fe45",
     "3b992a9e16acb038081426077e8419d2865b243a39bd68cf0c9ca486e5f15cdc",
     "4002d98a0df85e46437279858b41d2eb0a5203eb31e081428bffc1c50d028059",
-    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "465f224dc048d57e1c90312a2cc02a5b0cb62ee6a997da38c8f7691bbc2a827c",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969"
   ],
   "verseViewBy": []
 }
