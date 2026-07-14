@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "verseKey": "daily:2026-07-12",
-  "updatedAt": 1783898225144,
+  "updatedAt": 1783977232015,
   "version": 1,
   "comments": [
     {
@@ -14,84 +14,20 @@
       "replyCount": 0,
       "likeCount": 0,
       "likedBy": [],
-      "createdAt": 1783898056143,
-      "updatedAt": 1783898056143,
-      "status": "active"
-    },
-    {
-      "id": "local-1783883490906",
-      "text": "amen",
-      "userDeviceId": "032c2cf5eeba32e9d7810eb21919d16c20c3ea1f3cb8a9f29a5d5cfa45140a95",
-      "userName": "saman",
-      "verseName": "3 Jan 1:4",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1783894387901,
-      "updatedAt": 1783894387901,
-      "status": "active"
-    },
-    {
-      "id": "local-1783872544371",
-      "text": "Amen",
-      "userDeviceId": "025d84c1868b9a93edbcd2eb72e9e8119398ce9e1e1700703280463ee7ab8f8f",
-      "userName": "Amen 🙌",
-      "verseName": "3 Jan 1:4",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1783884264680,
-      "updatedAt": 1783884264680,
-      "status": "active"
-    },
-    {
-      "id": "local-1783855098698",
-      "text": "amen",
-      "userDeviceId": "0494e9818ae280e7399f7aad72946c9ff99302420f1804a8bc5f7a29190b0851",
-      "userName": "Milena",
-      "verseName": "3 Jan 1:4",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1783858662667,
-      "updatedAt": 1783858662667,
-      "status": "active"
-    },
-    {
-      "id": "local-1783825265363",
-      "text": "men",
-      "userDeviceId": "2ee3e05d3a9e78f31bb92d77beea3586a172922aab5b4ab1a4afa3e191c10266",
-      "userName": "genes",
-      "verseName": "3 Jan 1:4",
-      "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
-      "createdAt": 1783830187151,
-      "updatedAt": 1783830187151,
+      "createdAt": 1783977232015,
+      "updatedAt": 1783977232015,
       "status": "active"
     }
   ],
-  "likeCount": 13,
-  "shareCount": 97,
-  "viewCount": 12387,
+  "likeCount": 5,
+  "shareCount": 5,
+  "viewCount": 988,
   "verseLikedBy": [
-    "09cd144d1d9014cec3340173193b1e5105b83fce7f36538536add871e743a711",
-    "417a3c7e1b516286b61ccc786617a7808fc3e8d479d0c173cabd3a0b324ae56f",
-    "4b62f9e0febfeec1a605d16c57e7ca3011c77732c3ddf36aedec88e0489f399d",
-    "63b2ddf94f41738a46c000b837b86f13e4ac5b30ceffd43ef27533793431b439",
-    "37075c5abc1ddc08e8d3105b415ca78f0ed97f76db9ceb3c30aa1e351c4fa61a",
-    "0ba4d75800e7be7eb211a91e4815e300420b885260bce3cf8bc361022b14903a",
-    "0494e9818ae280e7399f7aad72946c9ff99302420f1804a8bc5f7a29190b0851",
-    "014b17165cba50113db194102c49bdfb15527c22e313ab1542adedf709000099",
-    "025d84c1868b9a93edbcd2eb72e9e8119398ce9e1e1700703280463ee7ab8f8f",
-    "0109a1ecee36d7dfbdba47e0a271203be1b967841ad0b37fe2758dd529173d4d",
+    "2ec9792cc4d9fe322ba7ce955a7b3585f873425317e614e391f34c8b24ab6582",
+    "2e8a3ff0ce1b924be5005f1990987e8ace545a70af7c71436001adfacdd25473",
     "1e9ead9a4021115a7cd0e05a2696b6088b9da71d7d65b14bc532c8819b91a1e0",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
-    "2978d02985dd71df33f32a32bf8ed26db80a936426ba0b255a4114f2b7f120c4"
+    "2e694ff7f99d6d4fcc4d295273db2d0ed195c88f094102afa8f45f0d4ac6a178"
   ],
   "verseViewBy": []
 }
