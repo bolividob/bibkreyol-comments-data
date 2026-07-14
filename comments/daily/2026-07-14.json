@@ -1,9 +1,23 @@
 {
   "date": "2026-07-14",
   "verseKey": "daily:2026-07-14",
-  "updatedAt": 1784028016926,
+  "updatedAt": 1784030769958,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784030750162",
+      "text": "BonDye beni nou",
+      "userDeviceId": "a78412814f28e2fa45589830013aff3df919af846dee2d2d0fc25eba99d482cf",
+      "userName": "Marckendy",
+      "verseName": "Sofonyas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784030769958,
+      "updatedAt": 1784030769958,
+      "status": "active"
+    },
     {
       "id": "local-1784027489380",
       "text": "mrc",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 29,
+  "likeCount": 30,
   "shareCount": 86,
-  "viewCount": 4600,
+  "viewCount": 4615,
   "verseLikedBy": [
     "a7b1298076db3d4b025cd1bbb73eb088e81c81d45701b3cd1d29d7d915ebfe1b",
     "b68e4a5489c9c2c151693b1aa5c842beb5b0cb23ae31cc5a341d1e0a06b3f548",
@@ -219,7 +233,8 @@
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "4b62f9e0febfeec1a605d16c57e7ca3011c77732c3ddf36aedec88e0489f399d",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
-    "22dd9a3365b37d7103eb31d69c948294405f4084cda62a5ef71e435e1ecc9c43"
+    "22dd9a3365b37d7103eb31d69c948294405f4084cda62a5ef71e435e1ecc9c43",
+    "914f0266e5c2d5ca0521b198e522a588fe62e62f3498ad28f0acf307c9e51ee3"
   ],
   "verseViewBy": []
 }
