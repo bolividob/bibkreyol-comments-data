@@ -1,9 +1,23 @@
 {
   "date": "2026-07-14",
   "verseKey": "daily:2026-07-14",
-  "updatedAt": 1784049338587,
+  "updatedAt": 1784049612606,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783997276138",
+      "text": "amen 🙏",
+      "userDeviceId": "8e9ebdd1893615b19d8c9d22a831dd1b1eb48db0c858f32e9325f7e60caed0e8",
+      "userName": "mrs Bettoo🥰🥰🥰🥰🥰🥰",
+      "verseName": "Sofonyas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784049612606,
+      "updatedAt": 1784049612606,
+      "status": "active"
+    },
     {
       "id": "local-1784040168720",
       "text": "Amen",
@@ -217,7 +231,7 @@
   ],
   "likeCount": 42,
   "shareCount": 110,
-  "viewCount": 6244,
+  "viewCount": 6283,
   "verseLikedBy": [
     "a7b1298076db3d4b025cd1bbb73eb088e81c81d45701b3cd1d29d7d915ebfe1b",
     "b68e4a5489c9c2c151693b1aa5c842beb5b0cb23ae31cc5a341d1e0a06b3f548",
