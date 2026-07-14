@@ -1,9 +1,23 @@
 {
   "date": "2026-07-13",
   "verseKey": "daily:2026-07-13",
-  "updatedAt": 1784056765720,
+  "updatedAt": 1784063828632,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783914458412",
+      "text": "Amén Amén",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Travay 7:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784063828631,
+      "updatedAt": 1784063828631,
+      "status": "active"
+    },
     {
       "id": "local-1783948851480",
       "text": "som",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 15,
-  "shareCount": 90,
-  "viewCount": 7807,
+  "likeCount": 18,
+  "shareCount": 97,
+  "viewCount": 8781,
   "verseLikedBy": [
     "68e18cd8ff357eec0f42142d66ecf3bcb0823e27cb293411935cd5ef1cf6aae4",
     "63ce7721e59b95330b44b83ea4fbbdea5567b3d94cfd11e85559aedcfda90aba",
@@ -79,7 +93,10 @@
     "7b604766f25d5fd0ec614d0375c92dc125fbe3b695bb6fec0c7edfc0b8c1e3e7",
     "7c1c9e41929675bfe2afb2428b187b90d07ae46327823861e813e7af69005c7a",
     "7c837b7db0ad83095ed9dd84aa83f915a0359af211973cfdf70361269e9aec81",
-    "7f8a31876f282a369691d05bf8e4d69949a88c448ca730a8fd444330de383224"
+    "7f8a31876f282a369691d05bf8e4d69949a88c448ca730a8fd444330de383224",
+    "83dc65482ba253a2c44649d55eec11cb17ae7ad6d7ae67dfd66f3f89a835bf8c",
+    "8197b387c585bcb035861105b78426f15ab091a70605a37128aa2dd88aae58f3",
+    "8738ff3c8c22812d846d51b6df42bfc8148829d153f5295025c6eb286d549c98"
   ],
   "verseViewBy": []
 }
