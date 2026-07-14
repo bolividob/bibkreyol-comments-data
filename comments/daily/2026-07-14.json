@@ -1,9 +1,23 @@
 {
   "date": "2026-07-14",
   "verseKey": "daily:2026-07-14",
-  "updatedAt": 1784024482350,
+  "updatedAt": 1784027320293,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784000201749",
+      "text": "Benie soit L'eternel mon Rocher",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Sofonyas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784027320293,
+      "updatedAt": 1784027320293,
+      "status": "active"
+    },
     {
       "id": "local-1783991292097",
       "text": "slt",
@@ -159,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
-  "shareCount": 66,
-  "viewCount": 3975,
+  "likeCount": 29,
+  "shareCount": 71,
+  "viewCount": 4168,
   "verseLikedBy": [
     "a7b1298076db3d4b025cd1bbb73eb088e81c81d45701b3cd1d29d7d915ebfe1b",
     "b68e4a5489c9c2c151693b1aa5c842beb5b0cb23ae31cc5a341d1e0a06b3f548",
@@ -190,7 +204,8 @@
     "f698036640f988046ec043c34d8ec3980aa20fe8b56ada213265a2a4217f1393",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "4b62f9e0febfeec1a605d16c57e7ca3011c77732c3ddf36aedec88e0489f399d",
-    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "22dd9a3365b37d7103eb31d69c948294405f4084cda62a5ef71e435e1ecc9c43"
   ],
   "verseViewBy": []
 }
