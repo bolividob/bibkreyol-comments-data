@@ -1,9 +1,23 @@
 {
   "date": "2026-07-14",
   "verseKey": "daily:2026-07-14",
-  "updatedAt": 1784039469755,
+  "updatedAt": 1784041630528,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784040168720",
+      "text": "Amen",
+      "userDeviceId": "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+      "userName": "Jehochoua",
+      "verseName": "Sofonyas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784041630528,
+      "updatedAt": 1784041630528,
+      "status": "active"
+    },
     {
       "id": "local-1784030750162",
       "text": "BonDye beni nou",
@@ -202,8 +216,8 @@
     }
   ],
   "likeCount": 39,
-  "shareCount": 98,
-  "viewCount": 5417,
+  "shareCount": 99,
+  "viewCount": 5441,
   "verseLikedBy": [
     "a7b1298076db3d4b025cd1bbb73eb088e81c81d45701b3cd1d29d7d915ebfe1b",
     "b68e4a5489c9c2c151693b1aa5c842beb5b0cb23ae31cc5a341d1e0a06b3f548",
