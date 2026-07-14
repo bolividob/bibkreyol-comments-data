@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": 1783994885310,
+  "updatedAt": 1784006175539,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 43,
@@ -36,7 +36,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 25,
+      "prayerCount": 26,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -62,9 +62,14 @@
         "261e795c2713ac84e9a7a78e62d1ecaa0d42381a8300bd1770d6e037786364f5",
         "c7f6eaab8be77575d180e6a82f40d32a4d1254b0152a41c8a2cd9bcaac4711f8",
         "a8c6251f83900bcc0fa9f491b66de5cbe0beeb38bc1a6b5e95b1f2c67d0897ac",
-        "7da4b31fc0a6fe5bca498ca2c004cfda1b194018b0a3a3d633ce907c7556f513"
+        "7da4b31fc0a6fe5bca498ca2c004cfda1b194018b0a3a3d633ce907c7556f513",
+        "3c50222b1c2205b6c1757d3e41bbbd1d9bd4f6d328891d6a42835c97e9cb0274"
       ],
       "prayingPreview": [
+        {
+          "userName": "Dodjy🛐",
+          "prayedAt": 1784006164000
+        },
         {
           "userName": "delva Gislaine",
           "prayedAt": 1783994877654
@@ -140,10 +145,6 @@
         {
           "userName": "jean françoir",
           "prayedAt": 1783861769212
-        },
-        {
-          "userName": "sylvain",
-          "prayedAt": 1783843496038
         }
       ],
       "encouragements": [
@@ -233,7 +234,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1783994885310,
+      "updatedAt": 1784006175538,
       "answeredAt": null,
       "testimony": null
     },
