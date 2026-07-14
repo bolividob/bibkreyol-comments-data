@@ -1,9 +1,23 @@
 {
   "date": "2026-07-13",
   "verseKey": "daily:2026-07-13",
-  "updatedAt": 1784049390722,
+  "updatedAt": 1784052840431,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783959166523",
+      "text": "amen",
+      "userDeviceId": "78f3e75e133e29d510072ac6012a695498477c8885e6b21b3d18c936144b4eba",
+      "userName": "woodjina 💎",
+      "verseName": "Travay 7:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784052840430,
+      "updatedAt": 1784052840430,
+      "status": "active"
+    },
     {
       "id": "local-1783939183411",
       "text": "salut à tous et vous tous",
@@ -19,9 +33,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 57,
-  "viewCount": 4904,
+  "likeCount": 12,
+  "shareCount": 69,
+  "viewCount": 5852,
   "verseLikedBy": [
     "68e18cd8ff357eec0f42142d66ecf3bcb0823e27cb293411935cd5ef1cf6aae4",
     "63ce7721e59b95330b44b83ea4fbbdea5567b3d94cfd11e85559aedcfda90aba",
@@ -33,7 +47,8 @@
     "779cd753f545bdc03d3499b7b487f23e565d7dc1b5891743d40d2d31801e6966",
     "77551873125becd23066d4c5a9f664f16ddbf77c5cd7ec810e06ae9915eb33f4",
     "726cb446eae63b4a61d9d344aade1f9b640f27eb22865a2e60cd2552c14dbe47",
-    "72f703851f55100d2ff386f3235e1f17944cf63a6dcedd23ba4f084f7421c099"
+    "72f703851f55100d2ff386f3235e1f17944cf63a6dcedd23ba4f084f7421c099",
+    "7b604766f25d5fd0ec614d0375c92dc125fbe3b695bb6fec0c7edfc0b8c1e3e7"
   ],
   "verseViewBy": []
 }
