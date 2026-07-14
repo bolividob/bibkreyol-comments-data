@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": 1784046064272,
+  "updatedAt": 1784056022783,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 43,
@@ -2553,7 +2553,7 @@
       "customExpectedSeason": null,
       "request": "edem priye pou bondye fè falensky jwenn yon travail .epi poul metem yon kote mka adorel pi byen",
       "status": "praying",
-      "prayerCount": 15,
+      "prayerCount": 16,
       "prayedBy": [
         "c894f276494ec214dbb12e98c00001726f75af9b0dc6b76e624c81a225ec54c1",
         "55d467b2fb401a839510d55b70c668e6a91a3e217cc68a0c7adf7241d45ed604",
@@ -2569,9 +2569,14 @@
         "d1fa5d77be9666a322c4d74bb1fb892367814d0913b986f86fc6bf913cf5e84d",
         "8746f7342866237dd875a7ad97e8c37ac380aa65bdd78a9080f72d7d3859e7bf",
         "89c64b058ba05b15adaba994c03eb81775bf797d2e56f5cba2c7d80911068d68",
-        "0c996816a89a6cfa82f6a0ab9567835b20ea31b7c1004cb82ba3fadf354b4c6d"
+        "0c996816a89a6cfa82f6a0ab9567835b20ea31b7c1004cb82ba3fadf354b4c6d",
+        "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1"
       ],
       "prayingPreview": [
+        {
+          "userName": "Perpy Marie Yvena",
+          "prayedAt": 1784053552803
+        },
         {
           "userName": "Aull",
           "prayedAt": 1783137273728
@@ -2671,7 +2676,7 @@
         }
       ],
       "submittedAt": 1782129068724,
-      "updatedAt": 1783137369801,
+      "updatedAt": 1784056022783,
       "answeredAt": null,
       "testimony": null
     },
