@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": 1784027892098,
+  "updatedAt": 1784028008070,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 43,
@@ -250,7 +250,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 48,
+      "prayerCount": 49,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -299,9 +299,14 @@
         "4bcf559a3fccfa4f7f0e6bf296f2305133b1ebead93f42690efa868794b7620a",
         "cf5fe8e4ce9f9acb3f223f6f7f015ec6c62125fca089000a99eb9b027b07de8d",
         "ac86a194ec886d15c4ad1e2dc9efa2dd20d543abfc4bbd8d687fc34359f746a5",
-        "2310d823b0a299754c3027a631ded18ed77f52297b81bc3fd5c6b1013e19a662"
+        "2310d823b0a299754c3027a631ded18ed77f52297b81bc3fd5c6b1013e19a662",
+        "e7698f52d008af1a76a710041640f139615437f70381a3eca56bb6b397ecb8a8"
       ],
       "prayingPreview": [
+        {
+          "userName": "Nirva",
+          "prayedAt": 1784027907615
+        },
         {
           "userName": "Johnson Calixte",
           "prayedAt": 1784024999596
@@ -377,10 +382,6 @@
         {
           "userName": "ly la bib",
           "prayedAt": 1783708571759
-        },
-        {
-          "userName": "fifa",
-          "prayedAt": 1783700744491
         }
       ],
       "encouragements": [
@@ -568,7 +569,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1784025016548,
+      "updatedAt": 1784028008070,
       "answeredAt": null,
       "testimony": null
     },
