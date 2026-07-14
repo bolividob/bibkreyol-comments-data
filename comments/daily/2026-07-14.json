@@ -1,9 +1,23 @@
 {
   "date": "2026-07-14",
   "verseKey": "daily:2026-07-14",
-  "updatedAt": 1784024010450,
+  "updatedAt": 1784024297054,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1783991292097",
+      "text": "slt",
+      "userDeviceId": "25713c0b1d9c9966310e6da2334f248b7dfa239afb84d25c2213c844296f40dc",
+      "userName": "clercimène soirelus",
+      "verseName": "Sofonyas 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784024297054,
+      "updatedAt": 1784024297054,
+      "status": "active"
+    },
     {
       "id": "local-1784021421111",
       "text": "Amén merci seignuer 🙌",
@@ -146,8 +160,8 @@
     }
   ],
   "likeCount": 28,
-  "shareCount": 61,
-  "viewCount": 3842,
+  "shareCount": 64,
+  "viewCount": 3918,
   "verseLikedBy": [
     "a7b1298076db3d4b025cd1bbb73eb088e81c81d45701b3cd1d29d7d915ebfe1b",
     "b68e4a5489c9c2c151693b1aa5c842beb5b0cb23ae31cc5a341d1e0a06b3f548",
