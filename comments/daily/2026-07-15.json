@@ -1,9 +1,37 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784085979834,
+  "updatedAt": 1784088813948,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784088069154",
+      "text": "Dieu est bon",
+      "userDeviceId": "2b4a09e3195169073e6bac2e2cefffc9ada786ba38c56c3a32e668a663db8dbf",
+      "userName": "romel",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784088813948,
+      "updatedAt": 1784088813948,
+      "status": "active"
+    },
+    {
+      "id": "local-1784088111881",
+      "text": "sr trè byen sa",
+      "userDeviceId": "2b4a09e3195169073e6bac2e2cefffc9ada786ba38c56c3a32e668a663db8dbf",
+      "userName": "romel",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784088813948,
+      "updatedAt": 1784088813948,
+      "status": "active"
+    },
     {
       "id": "local-1784085810895",
       "text": "Mési Bondieu vivant.",
@@ -105,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
+  "likeCount": 14,
   "shareCount": 72,
-  "viewCount": 3344,
+  "viewCount": 3608,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -120,7 +148,9 @@
     "b5a792b226b8254a0f2e8946cedce26a610e1066171f66155e3e3b3a341bd3cf",
     "e75ad13306125ecebe897e4b7b5a28e8e551267677fafb4238574299f3edcdc4",
     "8d82547990eb0c6a44bb643681e39e8e3e917cd959b71140bd6d484bc4710a09",
-    "a8d85e3a1a7b4613deafdec2f9d4fffb6e10eb18e780a77605ac415aa4582711"
+    "a8d85e3a1a7b4613deafdec2f9d4fffb6e10eb18e780a77605ac415aa4582711",
+    "733f6f93dd42f2d6044db2865180e867c8014e4beba464f7cc29a68eac6631ec",
+    "2c855100fc3fd1ed4e829cb0141253e1c3434539fb92533fe8b58190759adff7"
   ],
   "verseViewBy": []
 }
