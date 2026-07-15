@@ -1,9 +1,25 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784138345722,
+  "updatedAt": 1784138466609,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784138362319",
+      "text": "aplikasyon an vin pi enteresan chak jou nou felisite staf teknik lan.Bon travay.",
+      "userDeviceId": "2333f3ba3c7d355c9d379106c42bf32b77e210fa737023e2c93abad8a93b7b62",
+      "userName": "Frisnel Similien",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "2333f3ba3c7d355c9d379106c42bf32b77e210fa737023e2c93abad8a93b7b62"
+      ],
+      "createdAt": 1784138466609,
+      "updatedAt": 1784138466609,
+      "status": "active"
+    },
     {
       "id": "local-1784136106944",
       "text": "amen",
@@ -421,7 +437,7 @@
   ],
   "likeCount": 68,
   "shareCount": 185,
-  "viewCount": 13019,
+  "viewCount": 13045,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
