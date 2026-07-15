@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784150346760,
+  "updatedAt": 1784150481007,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784150411555",
+      "text": "Bon travail",
+      "userDeviceId": "61169be0d3dba91e1e13334577167e80360552fabcb3832ba449d877f40c64c5",
+      "userName": "Pierre Louis sionem",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784150481007,
+      "updatedAt": 1784150481007,
+      "status": "active"
+    },
     {
       "id": "local-1784142163035",
       "text": "pwovèb",
@@ -467,7 +481,7 @@
   ],
   "likeCount": 76,
   "shareCount": 199,
-  "viewCount": 15093,
+  "viewCount": 15126,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
