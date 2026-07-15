@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784094134296,
+  "updatedAt": 1784094244235,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784094166757",
+      "text": "merci papa Pou grasa ou",
+      "userDeviceId": "2ee3e05d3a9e78f31bb92d77beea3586a172922aab5b4ab1a4afa3e191c10266",
+      "userName": "lawlola",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784094244234,
+      "updatedAt": 1784094244234,
+      "status": "active"
+    },
     {
       "id": "local-1784090682581",
       "text": "amen",
@@ -149,7 +163,7 @@
   ],
   "likeCount": 20,
   "shareCount": 77,
-  "viewCount": 4442,
+  "viewCount": 4448,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
