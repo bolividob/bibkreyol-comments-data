@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784135284769,
+  "updatedAt": 1784135543263,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -184,6 +184,13 @@
       ],
       "encouragements": [
         {
+          "id": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7-1784135481534-encouragement",
+          "userDeviceId": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
+          "userName": "béthel",
+          "text": "Maendji heureux l’homme qui ne marche pas selon les conseil des méchant qui trouve en l’éternel ses inclinations\nmw reklame chanjman de pozisyn nan lavi u ke Bondye lokalizew e pu l’esprit chita selman lky Bondye",
+          "createdAt": 1784135481534
+        },
+        {
           "id": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7-1784135275484-encouragement",
           "userDeviceId": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
           "userName": "béthel",
@@ -325,7 +332,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784135283529,
+      "updatedAt": 1784135542201,
       "answeredAt": null,
       "testimony": null
     },
