@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784127305810,
+  "updatedAt": 1784127437941,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784127368418",
+      "text": "amén 🙏🏻",
+      "userDeviceId": "46e464752051d972c3a6884b41ce1416b2419a5c7002a9cc6c66e2739ac08450",
+      "userName": "sr baby",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784127437941,
+      "updatedAt": 1784127437941,
+      "status": "active"
+    },
     {
       "id": "local-1784127114692",
       "text": "mèsi Bondye pougeafras lifem",
@@ -362,8 +376,8 @@
     }
   ],
   "likeCount": 60,
-  "shareCount": 160,
-  "viewCount": 10382,
+  "shareCount": 161,
+  "viewCount": 10407,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
