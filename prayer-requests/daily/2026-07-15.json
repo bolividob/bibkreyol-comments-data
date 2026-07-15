@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "updatedAt": 1784113941901,
+  "updatedAt": 1784115252398,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 43,
@@ -307,7 +307,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 50,
+      "prayerCount": 51,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -358,9 +358,14 @@
         "ac86a194ec886d15c4ad1e2dc9efa2dd20d543abfc4bbd8d687fc34359f746a5",
         "2310d823b0a299754c3027a631ded18ed77f52297b81bc3fd5c6b1013e19a662",
         "e7698f52d008af1a76a710041640f139615437f70381a3eca56bb6b397ecb8a8",
-        "5b086db54f77559a2f22664c0235993d79435f008d5fc3709296e6b4bfa4ce53"
+        "5b086db54f77559a2f22664c0235993d79435f008d5fc3709296e6b4bfa4ce53",
+        "02d539206c69b8fff5883c176aedeb727d16dfeb94bb286882f8a00e9ee0803d"
       ],
       "prayingPreview": [
+        {
+          "userName": "Lorguens Pierre",
+          "prayedAt": 1784115167693
+        },
         {
           "userName": "Bertha",
           "prayedAt": 1784042436422
@@ -436,13 +441,23 @@
         {
           "userName": "Lucius Robenson",
           "prayedAt": 1783724928630
-        },
-        {
-          "userName": "Chelle",
-          "prayedAt": 1783714793479
         }
       ],
       "encouragements": [
+        {
+          "id": "02d539206c69b8fff5883c176aedeb727d16dfeb94bb286882f8a00e9ee0803d-1784115219138-encouragement",
+          "userDeviceId": "02d539206c69b8fff5883c176aedeb727d16dfeb94bb286882f8a00e9ee0803d",
+          "userName": "Lorguens Pierre",
+          "text": "edem priye poum toujou rete nan Bondye paskem vrèman pèsekite",
+          "createdAt": 1784115219138
+        },
+        {
+          "id": "02d539206c69b8fff5883c176aedeb727d16dfeb94bb286882f8a00e9ee0803d-1784115167693-encouragement",
+          "userDeviceId": "02d539206c69b8fff5883c176aedeb727d16dfeb94bb286882f8a00e9ee0803d",
+          "userName": "Lorguens Pierre",
+          "text": "Bondye konn tout bagay",
+          "createdAt": 1784115167693
+        },
         {
           "id": "5b086db54f77559a2f22664c0235993d79435f008d5fc3709296e6b4bfa4ce53-1784042436422-encouragement",
           "userDeviceId": "5b086db54f77559a2f22664c0235993d79435f008d5fc3709296e6b4bfa4ce53",
@@ -634,7 +649,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1784045228135,
+      "updatedAt": 1784115252398,
       "answeredAt": null,
       "testimony": null
     },
