@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "updatedAt": 1784074210399,
+  "updatedAt": 1784074698406,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 43,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "prospérité,gerizon",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "ESTHER",
+          "prayedAt": 1784074614194
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1783987755628,
-      "updatedAt": 1783987829448,
+      "updatedAt": 1784074698406,
       "answeredAt": null,
       "testimony": null
     },
