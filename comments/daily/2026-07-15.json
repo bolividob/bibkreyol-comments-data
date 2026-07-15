@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784152990027,
+  "updatedAt": 1784153366568,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784153266189",
+      "text": "Amen !",
+      "userDeviceId": "8273480562cf95539db2de5935b2df475f38e98841209021fbb58a01a614e9ad",
+      "userName": "Gayou",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784153366568,
+      "updatedAt": 1784153366568,
+      "status": "active"
+    },
     {
       "id": "local-1784150411555",
       "text": "Bon travail",
@@ -480,8 +494,8 @@
     }
   ],
   "likeCount": 77,
-  "shareCount": 202,
-  "viewCount": 15760,
+  "shareCount": 203,
+  "viewCount": 15892,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
