@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784118253046,
+  "updatedAt": 1784118497155,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784118089046",
+      "text": "Amen Amen Amen 🙏🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784118497155,
+      "updatedAt": 1784118497155,
+      "status": "active"
+    },
     {
       "id": "local-1784113748293",
       "text": "Gloire a Dieu, Beni soit L'eternel",
@@ -261,9 +275,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 138,
-  "viewCount": 8281,
+  "likeCount": 44,
+  "shareCount": 139,
+  "viewCount": 8337,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -307,7 +321,8 @@
     "21ead6767aa80939d59b28f2759a7e618b0784ebf77e65f1f7f954394b2ecd3b",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "d2132348dbaa21e92deb7d4bcded2a92fe30b1d11b7fdc71455c67c9433ecddd",
-    "1edb8ed7fe3d5b0a3b46bc32d58bb226d978563159ed833da7065f7e51d0fc2a"
+    "1edb8ed7fe3d5b0a3b46bc32d58bb226d978563159ed833da7065f7e51d0fc2a",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
