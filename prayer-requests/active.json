@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784124031245,
+  "updatedAt": 1784124734211,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -51,7 +51,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 38,
+      "prayerCount": 39,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -90,9 +90,14 @@
         "8cd186e3d079b77f2ede1a88933b98a58a9b9e977fe4a78e7c7818431d004d81",
         "2344ff480a10dd9da12c31e0476ae54aa1083c6c4fd1e1679227ccaea4b6cb4c",
         "8e52fccc8d888f912b6e70318a77b45341e7b287b986c91ba9904cc09225ce52",
-        "d01e13cb0abab30c7e0b39fdde8c33aa4f002f9afb14075801c4d35f3d1cdac3"
+        "d01e13cb0abab30c7e0b39fdde8c33aa4f002f9afb14075801c4d35f3d1cdac3",
+        "1728602fecba8d71ee1401dbe38367a447347ca64cf72c9e3c5fca4c090b48eb"
       ],
       "prayingPreview": [
+        {
+          "userName": "djoulie",
+          "prayedAt": 1784124629209
+        },
         {
           "userName": "sœur weed",
           "prayedAt": 1784121864902
@@ -168,13 +173,23 @@
         {
           "userName": "mervil",
           "prayedAt": 1783940439541
-        },
-        {
-          "userName": "Ezayi 46",
-          "prayedAt": 1783940367394
         }
       ],
       "encouragements": [
+        {
+          "id": "1728602fecba8d71ee1401dbe38367a447347ca64cf72c9e3c5fca4c090b48eb-1784124726900-encouragement",
+          "userDeviceId": "1728602fecba8d71ee1401dbe38367a447347ca64cf72c9e3c5fca4c090b48eb",
+          "userName": "djoulie",
+          "text": "Bondye bon mw pitit Pam nn papa",
+          "createdAt": 1784124726900
+        },
+        {
+          "id": "1728602fecba8d71ee1401dbe38367a447347ca64cf72c9e3c5fca4c090b48eb-1784124629209-encouragement",
+          "userDeviceId": "1728602fecba8d71ee1401dbe38367a447347ca64cf72c9e3c5fca4c090b48eb",
+          "userName": "djoulie",
+          "text": "ke bondye fé Elmo rout oh non de Jesús",
+          "createdAt": 1784124629209
+        },
         {
           "id": "8e52fccc8d888f912b6e70318a77b45341e7b287b986c91ba9904cc09225ce52-1784113893736-encouragement",
           "userDeviceId": "8e52fccc8d888f912b6e70318a77b45341e7b287b986c91ba9904cc09225ce52",
@@ -296,7 +311,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784122087421,
+      "updatedAt": 1784124733055,
       "answeredAt": null,
       "testimony": null
     },
