@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "updatedAt": 1784122087422,
+  "updatedAt": 1784124028193,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 43,
@@ -16,12 +16,17 @@
       "customExpectedSeason": null,
       "request": "prospérité,gerizon",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
-        "c64eded9d675ee7ee6b05c18b5a86a3f63278621f3b286a7dd0538663e0576b1"
+        "c64eded9d675ee7ee6b05c18b5a86a3f63278621f3b286a7dd0538663e0576b1",
+        "295dc83e682ea8899b4541a9a0af26238dc9347a7776eda5b3ac2ffa1f769b76"
       ],
       "prayingPreview": [
+        {
+          "userName": "sosso simon",
+          "prayedAt": 1784123887361
+        },
         {
           "userName": "Nere Nelson",
           "prayedAt": 1784081901083
@@ -33,7 +38,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1783987755628,
-      "updatedAt": 1784082028105,
+      "updatedAt": 1784124028193,
       "answeredAt": null,
       "testimony": null
     },
