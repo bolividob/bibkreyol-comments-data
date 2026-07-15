@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784142664764,
+  "updatedAt": 1784142923723,
   "version": 1,
   "comments": [
     {
@@ -456,16 +456,18 @@
       "verseName": "Sofonyas 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "b08b30763408f4bcd454da0eca288cf36834a225c6ab7f3ef7f3d93671b74b9c"
+      ],
       "createdAt": 1784074094248,
-      "updatedAt": 1784074094248,
+      "updatedAt": 1784142923723,
       "status": "active"
     }
   ],
   "likeCount": 73,
-  "shareCount": 191,
-  "viewCount": 13702,
+  "shareCount": 193,
+  "viewCount": 13750,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
