@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784085683455,
+  "updatedAt": 1784085979834,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784085810895",
+      "text": "Mési Bondieu vivant.",
+      "userDeviceId": "4d1c10b8e54706a4af351a5cc5a955811a0d72795e3ed39b4e23bec09981b443",
+      "userName": "Soeur Rose Thelusma",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784085979834,
+      "updatedAt": 1784085979834,
+      "status": "active"
+    },
     {
       "id": "local-1784085436368",
       "text": "merci mon doux Jésus",
@@ -92,8 +106,8 @@
     }
   ],
   "likeCount": 12,
-  "shareCount": 70,
-  "viewCount": 3197,
+  "shareCount": 72,
+  "viewCount": 3344,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
