@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784112875710,
+  "updatedAt": 1784113896194,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784113748293",
+      "text": "Gloire a Dieu, Beni soit L'eternel",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784113896194,
+      "updatedAt": 1784113896194,
+      "status": "active"
+    },
     {
       "id": "local-1784112661184",
       "text": "BnDye Beni Nou",
@@ -12,10 +26,12 @@
       "verseName": "Ezekyèl 4:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f0c0f31147ee6f5e62a9306091bff3497d2269d263940fb05c61c0f4ce778e64"
+      ],
       "createdAt": 1784112875710,
-      "updatedAt": 1784112875710,
+      "updatedAt": 1784113896194,
       "status": "active"
     },
     {
@@ -245,9 +261,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 39,
-  "shareCount": 129,
-  "viewCount": 7064,
+  "likeCount": 41,
+  "shareCount": 132,
+  "viewCount": 7206,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -287,7 +303,9 @@
     "b8bc2356d0afb97a7bcb8be36dbddf841541f59cf8b381b8c38564407849d5b8",
     "b1d1f43e450c5c6a49dfe345dfdd6ff7d0ec979ac4827f3bbc9b64e006031e43",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
-    "c013822bc56ca1cb4c082b9d9aade5e4a23ed86bd1fd22f868e88e17eba45cd9"
+    "c013822bc56ca1cb4c082b9d9aade5e4a23ed86bd1fd22f868e88e17eba45cd9",
+    "21ead6767aa80939d59b28f2759a7e618b0784ebf77e65f1f7f954394b2ecd3b",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
