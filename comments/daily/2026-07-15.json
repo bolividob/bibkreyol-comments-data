@@ -1,9 +1,23 @@
 {
   "date": "2026-07-15",
   "verseKey": "daily:2026-07-15",
-  "updatedAt": 1784107642200,
+  "updatedAt": 1784107749948,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784107674855",
+      "text": "amén 🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Ezekyèl 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784107749948,
+      "updatedAt": 1784107749948,
+      "status": "active"
+    },
     {
       "id": "local-1784095440075",
       "text": "mesi anpil wi papa pou gras ou fem",
@@ -189,9 +203,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
-  "shareCount": 102,
-  "viewCount": 5727,
+  "likeCount": 32,
+  "shareCount": 103,
+  "viewCount": 5747,
   "verseLikedBy": [
     "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -223,7 +237,8 @@
     "67b6de50a256e159c6200a11ab14a4a82078c2b6e2160bd48bfc1eb6e7063010",
     "e915339c2c9d01cd630865cda42ddbc3d9b610f9a000813eb4d35b6a0ca3ad0f",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
-    "6a78d9f589bd0714886b8b22daf0aac1d8646540dc9da49de55e2a6dc1e80199"
+    "6a78d9f589bd0714886b8b22daf0aac1d8646540dc9da49de55e2a6dc1e80199",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e"
   ],
   "verseViewBy": []
 }
