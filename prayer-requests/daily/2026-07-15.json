@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "updatedAt": 1784132763819,
+  "updatedAt": 1784133003554,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 43,
@@ -16,13 +16,18 @@
       "customExpectedSeason": null,
       "request": "prospérité,gerizon",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
         "c64eded9d675ee7ee6b05c18b5a86a3f63278621f3b286a7dd0538663e0576b1",
-        "295dc83e682ea8899b4541a9a0af26238dc9347a7776eda5b3ac2ffa1f769b76"
+        "295dc83e682ea8899b4541a9a0af26238dc9347a7776eda5b3ac2ffa1f769b76",
+        "696b41ad14c53b5fdcd4630dd4f8ad6a8115bc8b6a803878a071bcefade3d7e9"
       ],
       "prayingPreview": [
+        {
+          "userName": "Johanne",
+          "prayedAt": 1784132942647
+        },
         {
           "userName": "sosso simon",
           "prayedAt": 1784123887361
@@ -38,7 +43,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1783987755628,
-      "updatedAt": 1784124028193,
+      "updatedAt": 1784133003554,
       "answeredAt": null,
       "testimony": null
     },
@@ -1149,7 +1154,7 @@
       "customExpectedSeason": null,
       "request": "Mwen vle toujou rete Lakay Senyè e mande li pou li itilize mwen nan tan an pou glwa non li.",
       "status": "praying",
-      "prayerCount": 20,
+      "prayerCount": 21,
       "prayedBy": [
         "b3ed51ac322387e2f8382f747bfc90d963b78df405ac22d43e8dbf9a41b83fe0",
         "0935e47ec550f5aa064152e6354aa80a2429be41fe33d1011e283bced9188c90",
@@ -1170,9 +1175,14 @@
         "4d5f0cf57a4b418b51a48a5dd1d0e206ecb5c1bf094522bc77363c7fd5a947ed",
         "163eb4235dd268325a91cee2252614668f21ee71602b8b18ca885ff2ac82382d",
         "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
-        "d86b4aabf31db1b6203842b2962d60019858d80124746295f0d0d0a10d4b9217"
+        "d86b4aabf31db1b6203842b2962d60019858d80124746295f0d0d0a10d4b9217",
+        "2df6748bcf7bdb99d67ae77e04cb58e9d7488ec6eb38c2676215127d253e02e9"
       ],
       "prayingPreview": [
+        {
+          "userName": "jezi",
+          "prayedAt": 1784132990654
+        },
         {
           "userName": "David",
           "prayedAt": 1783351305268
@@ -1248,13 +1258,16 @@
         {
           "userName": "Flore",
           "prayedAt": 1783051920170
-        },
-        {
-          "userName": "bib",
-          "prayedAt": 1783048451090
         }
       ],
       "encouragements": [
+        {
+          "id": "2df6748bcf7bdb99d67ae77e04cb58e9d7488ec6eb38c2676215127d253e02e9-1784132990654-encouragement",
+          "userDeviceId": "2df6748bcf7bdb99d67ae77e04cb58e9d7488ec6eb38c2676215127d253e02e9",
+          "userName": "jezi",
+          "text": "amen",
+          "createdAt": 1784132990654
+        },
         {
           "id": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc-1783306893213-encouragement",
           "userDeviceId": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
@@ -1348,7 +1361,7 @@
         }
       ],
       "submittedAt": 1783037382988,
-      "updatedAt": 1783351333279,
+      "updatedAt": 1784133003554,
       "answeredAt": null,
       "testimony": null
     },
