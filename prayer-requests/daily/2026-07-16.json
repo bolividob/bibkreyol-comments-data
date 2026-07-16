@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": 1784225292366,
+  "updatedAt": 1784225409295,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 44,
@@ -235,6 +235,13 @@
       ],
       "encouragements": [
         {
+          "id": "1f1ac1b41efa82cad9fad61e4b91764247144748e34a5319e9fa17024418231a-1784225359821-encouragement",
+          "userDeviceId": "1f1ac1b41efa82cad9fad61e4b91764247144748e34a5319e9fa17024418231a",
+          "userName": "nayoo",
+          "text": "edem geri MW gen yon bagay nan Pye kipa Jam geri MW Konen o  non de jezi map geri",
+          "createdAt": 1784225359821
+        },
+        {
           "id": "1f1ac1b41efa82cad9fad61e4b91764247144748e34a5319e9fa17024418231a-1784225255904-encouragement",
           "userDeviceId": "1f1ac1b41efa82cad9fad61e4b91764247144748e34a5319e9fa17024418231a",
           "userName": "nayoo",
@@ -404,7 +411,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784225292366,
+      "updatedAt": 1784225409295,
       "answeredAt": null,
       "testimony": null
     },
