@@ -1,19 +1,65 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784165311082,
+  "updatedAt": 1784165601012,
   "version": 1,
-  "comments": [],
-  "likeCount": 6,
-  "shareCount": 10,
-  "viewCount": 1453,
+  "comments": [
+    {
+      "id": "local-1784165544110",
+      "text": "knmn",
+      "userDeviceId": "0603d61e1e84fc4fe9140232aabbeb5887581daf30fd6881555befe968903ab5",
+      "userName": "Baselais",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "0603d61e1e84fc4fe9140232aabbeb5887581daf30fd6881555befe968903ab5"
+      ],
+      "createdAt": 1784165601012,
+      "updatedAt": 1784165601012,
+      "status": "active"
+    },
+    {
+      "id": "local-1784165555637",
+      "text": "Mondestin",
+      "userDeviceId": "0603d61e1e84fc4fe9140232aabbeb5887581daf30fd6881555befe968903ab5",
+      "userName": "Baselais",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784165601012,
+      "updatedAt": 1784165601012,
+      "status": "active"
+    },
+    {
+      "id": "local-1784165579895",
+      "text": "Baselais",
+      "userDeviceId": "0603d61e1e84fc4fe9140232aabbeb5887581daf30fd6881555befe968903ab5",
+      "userName": "Baselais",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": "local-1784165544110",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784165601012,
+      "updatedAt": 1784165601012,
+      "status": "active"
+    }
+  ],
+  "likeCount": 7,
+  "shareCount": 11,
+  "viewCount": 1596,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
     "1b11677148c86bb5a65c8f1f2da0597ff4f667878c4c5959bd74b11d25ed50d7",
     "fb5cae569ed76a4215da4d060715c7711eb4b8b7097c27fc77f2f90449de3a0e",
     "5d4c504750009153d838aaf88bcab51f3d9654362ec8343f72fbd13250559537",
-    "041814f97b41bde484c9de177a2aeb371b6f0365e47c4c97ccdd605952190b12"
+    "041814f97b41bde484c9de177a2aeb371b6f0365e47c4c97ccdd605952190b12",
+    "0603d61e1e84fc4fe9140232aabbeb5887581daf30fd6881555befe968903ab5"
   ],
   "verseViewBy": []
 }
