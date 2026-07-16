@@ -1,9 +1,23 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784165787087,
+  "updatedAt": 1784168023803,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784167500436",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784168023803,
+      "updatedAt": 1784168023803,
+      "status": "active"
+    },
     {
       "id": "local-1784165544110",
       "text": "knmn",
@@ -49,9 +63,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
+  "likeCount": 10,
   "shareCount": 11,
-  "viewCount": 1697,
+  "viewCount": 1980,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
@@ -60,7 +74,9 @@
     "5d4c504750009153d838aaf88bcab51f3d9654362ec8343f72fbd13250559537",
     "041814f97b41bde484c9de177a2aeb371b6f0365e47c4c97ccdd605952190b12",
     "0603d61e1e84fc4fe9140232aabbeb5887581daf30fd6881555befe968903ab5",
-    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413"
+    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
+    "37b1369549a61e9f8aa31c8b9e7aa9e5ea6442ee9ec2d86e72351a58764e7303",
+    "c2aa51b391f4d6f46a2e6aa0e6f804331e2f0c397f79ef0371f17b54e8c975b2"
   ],
   "verseViewBy": []
 }
