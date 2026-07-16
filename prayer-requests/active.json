@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784215565510,
+  "updatedAt": 1784219524548,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -96,7 +96,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 48,
+      "prayerCount": 49,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -145,9 +145,14 @@
         "a5143ed7d531997d28cd236a5a94f28ec9aecb7e0ce60be8287a07fce0d78701",
         "c1e3dd6b10a4cb770edbf0a9dc7b743d1427c79b47fdeab2aad8f56fbca07c20",
         "3871ab6dc7c4aa1b3d91e1e136eb0e08f8014565dbebe09d12d1988873b50ac2",
-        "946e1bcdb845319f03215412257a0b181fa4bbcfb52fbdb6f7790f4a4957566f"
+        "946e1bcdb845319f03215412257a0b181fa4bbcfb52fbdb6f7790f4a4957566f",
+        "d9c0b6c443c23b41cb3fcebb5feeb2414f0f1c31ce42c0f7f87a0fe05dfc7951"
       ],
       "prayingPreview": [
+        {
+          "userName": "Dieu est Dieu",
+          "prayedAt": 1784219289220
+        },
         {
           "userName": "priye pou mande fos",
           "prayedAt": 1784209872657
@@ -223,13 +228,16 @@
         {
           "userName": "nayou",
           "prayedAt": 1784075213404
-        },
-        {
-          "userName": "Pierre Michel",
-          "prayedAt": 1784074103954
         }
       ],
       "encouragements": [
+        {
+          "id": "d9c0b6c443c23b41cb3fcebb5feeb2414f0f1c31ce42c0f7f87a0fe05dfc7951-1784219289220-encouragement",
+          "userDeviceId": "d9c0b6c443c23b41cb3fcebb5feeb2414f0f1c31ce42c0f7f87a0fe05dfc7951",
+          "userName": "Dieu est Dieu",
+          "text": "les choses anciennes sont passées toute chose sont devenus nouvelles",
+          "createdAt": 1784219289220
+        },
         {
           "id": "946e1bcdb845319f03215412257a0b181fa4bbcfb52fbdb6f7790f4a4957566f-1784209881456-encouragement",
           "userDeviceId": "946e1bcdb845319f03215412257a0b181fa4bbcfb52fbdb6f7790f4a4957566f",
@@ -386,7 +394,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784209940821,
+      "updatedAt": 1784219523515,
       "answeredAt": null,
       "testimony": null
     },
