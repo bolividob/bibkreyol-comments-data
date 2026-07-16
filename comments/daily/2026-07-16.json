@@ -1,9 +1,23 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784185758861,
+  "updatedAt": 1784185863237,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784185799461",
+      "text": "Amen Amen Amen 🙏 🙌 👏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784185863237,
+      "updatedAt": 1784185863237,
+      "status": "active"
+    },
     {
       "id": "local-1784183754328",
       "text": "mèsi bondye pou gras ou fèm",
@@ -135,9 +149,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
+  "likeCount": 28,
   "shareCount": 33,
-  "viewCount": 5074,
+  "viewCount": 5080,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
@@ -165,7 +179,8 @@
     "75149cacc1a2efa9d2be38917435cc2e08748ea7bb682bde8402723a532ebf1f",
     "1c614ef8c95fe9b11bf1257c845706c0ff43dc22ba747dc034fd54ff61d003ad",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
-    "177efd71c38bc032b93fdcbe11297ffb3a0631c33a348b7a489bc9eb5e37d173"
+    "177efd71c38bc032b93fdcbe11297ffb3a0631c33a348b7a489bc9eb5e37d173",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240"
   ],
   "verseViewBy": []
 }
