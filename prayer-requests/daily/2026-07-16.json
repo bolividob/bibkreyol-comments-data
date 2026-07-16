@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": 1784171301225,
+  "updatedAt": 1784198762694,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 44,
@@ -392,7 +392,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 51,
+      "prayerCount": 52,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -444,9 +444,14 @@
         "2310d823b0a299754c3027a631ded18ed77f52297b81bc3fd5c6b1013e19a662",
         "e7698f52d008af1a76a710041640f139615437f70381a3eca56bb6b397ecb8a8",
         "5b086db54f77559a2f22664c0235993d79435f008d5fc3709296e6b4bfa4ce53",
-        "02d539206c69b8fff5883c176aedeb727d16dfeb94bb286882f8a00e9ee0803d"
+        "02d539206c69b8fff5883c176aedeb727d16dfeb94bb286882f8a00e9ee0803d",
+        "549e2256d399316f4eb9795d40cf90a1abfc1d28222110674969144a200d9631"
       ],
       "prayingPreview": [
+        {
+          "userName": "wildès",
+          "prayedAt": 1784198680327
+        },
         {
           "userName": "Lorguens Pierre",
           "prayedAt": 1784115167693
@@ -522,10 +527,6 @@
         {
           "userName": "mont-fleury Hetechnoune",
           "prayedAt": 1783725046214
-        },
-        {
-          "userName": "Lucius Robenson",
-          "prayedAt": 1783724928630
         }
       ],
       "encouragements": [
@@ -734,7 +735,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1784115252398,
+      "updatedAt": 1784198762693,
       "answeredAt": null,
       "testimony": null
     },
