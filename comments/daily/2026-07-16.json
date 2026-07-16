@@ -1,9 +1,23 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784179083277,
+  "updatedAt": 1784179203199,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784179140849",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784179203199,
+      "updatedAt": 1784179203199,
+      "status": "active"
+    },
     {
       "id": "local-1784171771897",
       "text": "Merci Seigneur Jesus Merci",
@@ -109,7 +123,7 @@
   ],
   "likeCount": 22,
   "shareCount": 26,
-  "viewCount": 4464,
+  "viewCount": 4476,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
