@@ -1,9 +1,39 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784171786415,
+  "updatedAt": 1784172096237,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784171771897",
+      "text": "Merci Seigneur Jesus Merci",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784172096237,
+      "updatedAt": 1784172096237,
+      "status": "active"
+    },
+    {
+      "id": "local-1784171771405",
+      "text": "amen gloire à Dieu",
+      "userDeviceId": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
+      "userName": "béthel",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7"
+      ],
+      "createdAt": 1784172096237,
+      "updatedAt": 1784172096237,
+      "status": "active"
+    },
     {
       "id": "local-1784168248976",
       "text": "Amen 3 fwa 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -77,9 +107,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 14,
-  "viewCount": 2950,
+  "likeCount": 13,
+  "shareCount": 16,
+  "viewCount": 3100,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
@@ -92,7 +122,8 @@
     "37b1369549a61e9f8aa31c8b9e7aa9e5ea6442ee9ec2d86e72351a58764e7303",
     "c2aa51b391f4d6f46a2e6aa0e6f804331e2f0c397f79ef0371f17b54e8c975b2",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
-    "e1eb3328a0a663600f3f795caa4b157a4b60b9a2dbd2f499875d959aa86774d8"
+    "e1eb3328a0a663600f3f795caa4b157a4b60b9a2dbd2f499875d959aa86774d8",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
