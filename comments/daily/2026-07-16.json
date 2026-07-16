@@ -1,9 +1,23 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784239806247,
+  "updatedAt": 1784240272409,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784170289091",
+      "text": "dimansyon",
+      "userDeviceId": "5146af5e4acf8f1abaf133b5b682eea97b319e0a1834d562682769581cc04441",
+      "userName": "fè de dimansyon",
+      "verseName": "Rit 12:20",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784240272409,
+      "updatedAt": 1784240272409,
+      "status": "active"
+    },
     {
       "id": "local-1784214563617",
       "text": "Messi",
@@ -323,8 +337,8 @@
     }
   ],
   "likeCount": 76,
-  "shareCount": 166,
-  "viewCount": 17291,
+  "shareCount": 168,
+  "viewCount": 17729,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
