@@ -1,9 +1,23 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784199026294,
+  "updatedAt": 1784199322488,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784199093269",
+      "text": "mèsi senye paskew toujou ap pran swenm",
+      "userDeviceId": "30a5a0767ea8e0c3e4425bd5e6d22dbce233f875261d4f1b4c41966b57a8cf2d",
+      "userName": "mayda",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784199322488,
+      "updatedAt": 1784199322488,
+      "status": "active"
+    },
     {
       "id": "local-1784195279149",
       "text": "Amén 🙏❤️",
@@ -192,8 +206,8 @@
     }
   ],
   "likeCount": 37,
-  "shareCount": 70,
-  "viewCount": 7348,
+  "shareCount": 73,
+  "viewCount": 7442,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
