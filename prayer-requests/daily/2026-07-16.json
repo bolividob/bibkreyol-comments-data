@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": 1784201886201,
+  "updatedAt": 1784204763837,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 44,
@@ -98,7 +98,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 46,
+      "prayerCount": 47,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -145,9 +145,14 @@
         "861e2531b66f3fd65e96dc0837cf34154ed47bf83616676a564566b361ed2de0",
         "8b525c92271241bb4403d2a6254595d7c98e9682a5e4a93a38c34b814fcac69a",
         "a5143ed7d531997d28cd236a5a94f28ec9aecb7e0ce60be8287a07fce0d78701",
-        "c1e3dd6b10a4cb770edbf0a9dc7b743d1427c79b47fdeab2aad8f56fbca07c20"
+        "c1e3dd6b10a4cb770edbf0a9dc7b743d1427c79b47fdeab2aad8f56fbca07c20",
+        "3871ab6dc7c4aa1b3d91e1e136eb0e08f8014565dbebe09d12d1988873b50ac2"
       ],
       "prayingPreview": [
+        {
+          "userName": "Sr Augustin",
+          "prayedAt": 1784204659840
+        },
         {
           "userName": "Biblia kreyol",
           "prayedAt": 1784201821326
@@ -223,10 +228,6 @@
         {
           "userName": "Edou",
           "prayedAt": 1784045964483
-        },
-        {
-          "userName": "Nirva",
-          "prayedAt": 1784027727754
         }
       ],
       "encouragements": [
@@ -379,7 +380,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784201886201,
+      "updatedAt": 1784204763836,
       "answeredAt": null,
       "testimony": null
     },
