@@ -1,9 +1,23 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784207767379,
+  "updatedAt": 1784207888710,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784207854947",
+      "text": "Amen",
+      "userDeviceId": "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+      "userName": "Jehochoua",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784207888710,
+      "updatedAt": 1784207888710,
+      "status": "active"
+    },
     {
       "id": "local-1784173242571",
       "text": "merci jezi pu sa u fè nan lavi'm",
@@ -275,9 +289,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 103,
-  "viewCount": 9419,
+  "likeCount": 51,
+  "shareCount": 104,
+  "viewCount": 9459,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
@@ -327,7 +341,9 @@
     "3871ab6dc7c4aa1b3d91e1e136eb0e08f8014565dbebe09d12d1988873b50ac2",
     "ac821d8632a0c6670ea927b42c56deae69d3abe417939b8af25afaf8907531cc",
     "27e5142e2b7c475037bc2bb6d8069425486305871df7a859a5e05e8821fa90dc",
-    "df9d24c1a48188fea43f206f997e904c8a27f3c2f20d3664e0a3cd3f70411f78"
+    "df9d24c1a48188fea43f206f997e904c8a27f3c2f20d3664e0a3cd3f70411f78",
+    "22a54a2f0635e5965fb451ab2df3830d0a09644394f0873fe7dfe609f599fb41",
+    "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad"
   ],
   "verseViewBy": []
 }
