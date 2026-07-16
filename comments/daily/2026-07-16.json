@@ -1,9 +1,23 @@
 {
   "date": "2026-07-16",
   "verseKey": "daily:2026-07-16",
-  "updatedAt": 1784217494121,
+  "updatedAt": 1784218229767,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784217998496",
+      "text": "mèsi jezi pou pasyans ou",
+      "userDeviceId": "cc702fbe0d6249463293c20fa8e3364638d99f2631a7f21eb99ae616814c4b67",
+      "userName": "Dufagesse YVENEL",
+      "verseName": "1 Samyèl 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784218229767,
+      "updatedAt": 1784218229767,
+      "status": "active"
+    },
     {
       "id": "local-1784207854947",
       "text": "Amen",
@@ -293,7 +307,7 @@
   ],
   "likeCount": 59,
   "shareCount": 120,
-  "viewCount": 12104,
+  "viewCount": 12222,
   "verseLikedBy": [
     "ef6072f8e57cd13b7c6a2151d10a37d60be735a8b9f304174241f4c225c14e44",
     "dc7a0bea6b2f8a894668be68fae5f541c211d6cd4d19d29c510b307da3c8baca",
