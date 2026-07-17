@@ -1,9 +1,23 @@
 {
   "date": "2026-07-17",
   "verseKey": "daily:2026-07-17",
-  "updatedAt": 1784330536656,
+  "updatedAt": 1784330723425,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784330604627",
+      "text": "mwn bezwen lapriyé",
+      "userDeviceId": "ad475acae0d9ff604d28a54d474a0a78b50f2dfe18379ee0d85ef61991f4ba5e",
+      "userName": "Deronette Luxon",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784330723425,
+      "updatedAt": 1784330723425,
+      "status": "active"
+    },
     {
       "id": "local-1784325650402",
       "text": "Evre",
@@ -284,8 +298,8 @@
     }
   ],
   "likeCount": 93,
-  "shareCount": 186,
-  "viewCount": 18023,
+  "shareCount": 187,
+  "viewCount": 18087,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
