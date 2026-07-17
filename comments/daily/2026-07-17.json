@@ -1,9 +1,23 @@
 {
   "date": "2026-07-17",
   "verseKey": "daily:2026-07-17",
-  "updatedAt": 1784255195987,
+  "updatedAt": 1784257830949,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784255551650",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784257830949,
+      "updatedAt": 1784257830949,
+      "status": "active"
+    },
     {
       "id": "local-1784255162877",
       "text": "amén amén 🙏",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 8,
-  "shareCount": 16,
-  "viewCount": 3052,
+  "shareCount": 17,
+  "viewCount": 3251,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
