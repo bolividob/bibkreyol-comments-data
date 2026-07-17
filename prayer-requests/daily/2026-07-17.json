@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": 1784269154180,
+  "updatedAt": 1784287024098,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 45,
@@ -65,12 +65,19 @@
       "customExpectedSeason": "Lè Bondye vle depi li di yon mo sèlman",
       "request": "Priyè gerizon epi pou mete fòs nan feblès mw,pou mw pa dekouraje nan kois lavi kretyèn lan",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "040456230e0d506259bd2876224701daff81f4e9a3f19c91c77874b64173a612"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Nancy Fesource",
+          "prayedAt": 1784286978811
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1784161532612,
-      "updatedAt": 1784161684957,
+      "updatedAt": 1784287024098,
       "answeredAt": null,
       "testimony": null
     },
