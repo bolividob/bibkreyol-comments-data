@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784264945686,
+  "updatedAt": 1784269155206,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -145,7 +145,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 54,
+      "prayerCount": 55,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -200,9 +200,14 @@
         "3c887929d81ae16a2f5e7e6e60bbdcb14f610a31325cbe8ddda19e2967191ad0",
         "d79a8d954fcf5bd69a19c8486f36230a1e220a9494f37ff96751c295b16f115d",
         "5e2526a11204b00c0bb46f2619845a5a9dda1430e62a480159b09fecea240657",
-        "f03ff3d377a02bc1dd1c0fbcb334881865b5251685ec165cc9f065ca71a67e45"
+        "f03ff3d377a02bc1dd1c0fbcb334881865b5251685ec165cc9f065ca71a67e45",
+        "3980727e88bd3eaaecbd78610638bbb1c487701dbe4b90f09885a60cbc0c737c"
       ],
       "prayingPreview": [
+        {
+          "userName": "Rose",
+          "prayedAt": 1784269140760
+        },
         {
           "userName": "joseph",
           "prayedAt": 1784263887255
@@ -278,10 +283,6 @@
         {
           "userName": "Stefi",
           "prayedAt": 1784108372573
-        },
-        {
-          "userName": "Marie etoile",
-          "prayedAt": 1784103148943
         }
       ],
       "encouragements": [
@@ -476,7 +477,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784264944634,
+      "updatedAt": 1784269154178,
       "answeredAt": null,
       "testimony": null
     },
