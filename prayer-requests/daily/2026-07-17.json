@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": 1784247669632,
+  "updatedAt": 1784251262311,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 45,
@@ -16,12 +16,27 @@
       "customExpectedSeason": null,
       "request": "Pou fanmiy  me Louis fanmiy clerge epi poum travayjezi gerizon",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
-      "encouragements": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "florkentia",
+          "prayedAt": 1784251164040
+        }
+      ],
+      "encouragements": [
+        {
+          "id": "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb-1784251181738-encouragement",
+          "userDeviceId": "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb",
+          "userName": "florkentia",
+          "text": "mw ap priye",
+          "createdAt": 1784251181738
+        }
+      ],
       "submittedAt": 1784247095936,
-      "updatedAt": 1784247183438,
+      "updatedAt": 1784251262311,
       "answeredAt": null,
       "testimony": null
     },
