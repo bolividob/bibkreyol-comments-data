@@ -1,9 +1,23 @@
 {
   "date": "2026-07-17",
   "verseKey": "daily:2026-07-17",
-  "updatedAt": 1784302387925,
+  "updatedAt": 1784302510553,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784302494641",
+      "text": "edm priye paske mw mlad",
+      "userDeviceId": "da7e7cbad4f7d3221194d0c6e9f5ecf69f726c937ca2b564bfbd31d6e6b1692c",
+      "userName": "Rorode",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784302510553,
+      "updatedAt": 1784302510553,
+      "status": "active"
+    },
     {
       "id": "local-1784301433426",
       "text": "Amen",
@@ -231,7 +245,7 @@
   ],
   "likeCount": 72,
   "shareCount": 141,
-  "viewCount": 11447,
+  "viewCount": 11484,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
