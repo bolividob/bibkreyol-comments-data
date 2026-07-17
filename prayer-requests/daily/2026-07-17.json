@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": 1784292783580,
+  "updatedAt": 1784295542732,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 45,
@@ -65,19 +65,32 @@
       "customExpectedSeason": "Lè Bondye vle depi li di yon mo sèlman",
       "request": "Priyè gerizon epi pou mete fòs nan feblès mw,pou mw pa dekouraje nan kois lavi kretyèn lan",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "040456230e0d506259bd2876224701daff81f4e9a3f19c91c77874b64173a612"
+        "040456230e0d506259bd2876224701daff81f4e9a3f19c91c77874b64173a612",
+        "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7"
       ],
       "prayingPreview": [
+        {
+          "userName": "Romere Milien",
+          "prayedAt": 1784295531618
+        },
         {
           "userName": "Nancy Fesource",
           "prayedAt": 1784286978811
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7-1784295531618-encouragement",
+          "userDeviceId": "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7",
+          "userName": "Romere Milien",
+          "text": "Bondye beni nou.",
+          "createdAt": 1784295531618
+        }
+      ],
       "submittedAt": 1784161532612,
-      "updatedAt": 1784287024098,
+      "updatedAt": 1784295542732,
       "answeredAt": null,
       "testimony": null
     },
