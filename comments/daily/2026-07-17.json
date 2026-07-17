@@ -1,12 +1,27 @@
 {
   "date": "2026-07-17",
   "verseKey": "daily:2026-07-17",
-  "updatedAt": 1784255019984,
+  "updatedAt": 1784255195987,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1784255162877",
+      "text": "amén amén 🙏",
+      "userDeviceId": "daac6c11a39f8eaeb89270c8f9a6308bbdc94f6c37d5d4680492d88334c57fbb",
+      "userName": "samhta",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784255195987,
+      "updatedAt": 1784255195987,
+      "status": "active"
+    }
+  ],
   "likeCount": 8,
   "shareCount": 16,
-  "viewCount": 2889,
+  "viewCount": 3052,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
