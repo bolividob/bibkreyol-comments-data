@@ -1,9 +1,23 @@
 {
   "date": "2026-07-17",
   "verseKey": "daily:2026-07-17",
-  "updatedAt": 1784301436583,
+  "updatedAt": 1784301555780,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784301433426",
+      "text": "Amen",
+      "userDeviceId": "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+      "userName": "Jehochoua",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784301555780,
+      "updatedAt": 1784301555780,
+      "status": "active"
+    },
     {
       "id": "local-1784294700514",
       "text": "edem priye pou djab rasyal bo papa ni bo manman ak djab nan demanbre ki anpechem pase",
@@ -217,7 +231,7 @@
   ],
   "likeCount": 72,
   "shareCount": 139,
-  "viewCount": 11207,
+  "viewCount": 11235,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
