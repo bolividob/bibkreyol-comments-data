@@ -1,9 +1,23 @@
 {
   "date": "2026-07-17",
   "verseKey": "daily:2026-07-17",
-  "updatedAt": 1784290750204,
+  "updatedAt": 1784290992423,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784290725904",
+      "text": "Amen 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784290992423,
+      "updatedAt": 1784290992423,
+      "status": "active"
+    },
     {
       "id": "local-1784288004564",
       "text": "amén amén amén amén 🙏🙏🙏🙏🙏",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 108,
-  "viewCount": 8647,
+  "likeCount": 48,
+  "shareCount": 110,
+  "viewCount": 8721,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
@@ -180,7 +194,9 @@
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "1f3d7b61b6c7a5c33c923c9635f044e36c8b7daf2058298d9b8d8dccc391f9ed",
     "c12a2ffc9f72041d06f31c57f65a6b209bca027b075671be627293947f85a820",
-    "7879deb07e6d7d05fcf75563061e95751af951d5e30f96723eaf1991eeb06800"
+    "7879deb07e6d7d05fcf75563061e95751af951d5e30f96723eaf1991eeb06800",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+    "d34028660f0651f3ff953ad0e932a54f2538f417f106b20dc3f45f066f3fbb49"
   ],
   "verseViewBy": []
 }
