@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": 1784314382782,
+  "updatedAt": 1784324713587,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 45,
@@ -167,7 +167,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 62,
+      "prayerCount": 63,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -230,9 +230,14 @@
         "9150e1b3c8752067253db89a2b45c502c37d13ab4f7858a4b570c58c5a108c7b",
         "7bc3d85b0ec04b458276ef4cc862437b4546c5d234e6b74912ed7dfe5e836eb9",
         "46681cc45e53cc1ab595faaa7c142169fcae6fdd86d9f5efd2287061233686f3",
-        "6f81c097a44c4fa3bb26bbe7ef884a1314ba58f8be6236700aca3540c159c866"
+        "6f81c097a44c4fa3bb26bbe7ef884a1314ba58f8be6236700aca3540c159c866",
+        "346df313fe4c0c8224fed17ac028f5e2d08747be685d3a04fb0e8f0332bb1193"
       ],
       "prayingPreview": [
+        {
+          "userName": "Pacombe",
+          "prayedAt": 1784324606599
+        },
         {
           "userName": "Sr.galanda",
           "prayedAt": 1784314378003
@@ -308,10 +313,6 @@
         {
           "userName": "Patrick12",
           "prayedAt": 1784164347261
-        },
-        {
-          "userName": "vése pou jodia",
-          "prayedAt": 1784161862278
         }
       ],
       "encouragements": [
@@ -541,7 +542,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784314382779,
+      "updatedAt": 1784324713587,
       "answeredAt": null,
       "testimony": null
     },
