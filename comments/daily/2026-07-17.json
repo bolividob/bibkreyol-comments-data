@@ -1,9 +1,23 @@
 {
   "date": "2026-07-17",
   "verseKey": "daily:2026-07-17",
-  "updatedAt": 1784292605328,
+  "updatedAt": 1784292728499,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784292623165",
+      "text": "amén amén amén",
+      "userDeviceId": "d2132348dbaa21e92deb7d4bcded2a92fe30b1d11b7fdc71455c67c9433ecddd",
+      "userName": "edém priyé pum reprann plas mw nan lvanj",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784292728499,
+      "updatedAt": 1784292728499,
+      "status": "active"
+    },
     {
       "id": "local-1784290725904",
       "text": "Amen 🙏",
@@ -147,7 +161,7 @@
   ],
   "likeCount": 50,
   "shareCount": 110,
-  "viewCount": 9097,
+  "viewCount": 9128,
   "verseLikedBy": [
     "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
