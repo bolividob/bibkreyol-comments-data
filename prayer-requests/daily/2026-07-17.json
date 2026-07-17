@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": 1784305383344,
+  "updatedAt": 1784306345067,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 45,
@@ -167,7 +167,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 60,
+      "prayerCount": 61,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -228,9 +228,14 @@
         "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
         "ca85e33a751abb8180f5409a192d1407eb1902b669ab7bd83fba90952c0d38c6",
         "9150e1b3c8752067253db89a2b45c502c37d13ab4f7858a4b570c58c5a108c7b",
-        "7bc3d85b0ec04b458276ef4cc862437b4546c5d234e6b74912ed7dfe5e836eb9"
+        "7bc3d85b0ec04b458276ef4cc862437b4546c5d234e6b74912ed7dfe5e836eb9",
+        "46681cc45e53cc1ab595faaa7c142169fcae6fdd86d9f5efd2287061233686f3"
       ],
       "prayingPreview": [
+        {
+          "userName": "joanés saint jean",
+          "prayedAt": 1784306300697
+        },
         {
           "userName": "Richenond jocelyn",
           "prayedAt": 1784305155222
@@ -306,10 +311,6 @@
         {
           "userName": "béthel",
           "prayedAt": 1784135275484
-        },
-        {
-          "userName": "izeus Samantha",
-          "prayedAt": 1784132685859
         }
       ],
       "encouragements": [
@@ -532,7 +533,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784305383344,
+      "updatedAt": 1784306345066,
       "answeredAt": null,
       "testimony": null
     },
