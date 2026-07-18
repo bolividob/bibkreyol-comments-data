@@ -1,12 +1,41 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784334559748,
+  "updatedAt": 1784334736454,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1784334566418",
+      "text": "Bonsoir",
+      "userDeviceId": "65020ae35bdfc254ac290cc6a1369fd6cb983292c40bed2fd3bac0a11b3ba8c7",
+      "userName": "EBEN TATAILLE",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784334736454,
+      "updatedAt": 1784334736454,
+      "status": "active"
+    },
+    {
+      "id": "local-1784334602082",
+      "text": "mw kontan rejwenn nou sou radio sa.",
+      "userDeviceId": "65020ae35bdfc254ac290cc6a1369fd6cb983292c40bed2fd3bac0a11b3ba8c7",
+      "userName": "EBEN TATAILLE",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784334736454,
+      "updatedAt": 1784334736454,
+      "status": "active"
+    }
+  ],
   "likeCount": 3,
-  "shareCount": 6,
-  "viewCount": 537,
+  "shareCount": 9,
+  "viewCount": 616,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
