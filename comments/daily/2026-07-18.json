@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784378533741,
+  "updatedAt": 1784378652790,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784378220697",
+      "text": "ámen",
+      "userDeviceId": "a515595b542bbca3042842735c6f4504ab31f2d1edbb7a677f152e3e5d7f9bfa",
+      "userName": "Sr Bénéva",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784378652790,
+      "updatedAt": 1784378652790,
+      "status": "active"
+    },
     {
       "id": "local-1784377136348",
       "text": "Amen🙏",
@@ -443,7 +457,7 @@
   ],
   "likeCount": 68,
   "shareCount": 131,
-  "viewCount": 8686,
+  "viewCount": 8722,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
