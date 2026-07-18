@@ -1,9 +1,37 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784341043616,
+  "updatedAt": 1784341346327,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784341084641",
+      "text": "amén amén amén amén amén amén amén amén",
+      "userDeviceId": "1ff611ef29aab8e3687a3a6ca8707b8eaa7bc9eb6cce9e6dfae08ba03f7bec05",
+      "userName": "𝕁𝕖𝕗𝕗𝕖𝕣𝕤𝕠𝕟",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784341346327,
+      "updatedAt": 1784341346327,
+      "status": "active"
+    },
+    {
+      "id": "local-1784341107266",
+      "text": "Amen Amen Amen",
+      "userDeviceId": "28c48da158c442fe8bdfc247e88edb8731a27dde2258f611ce2eaee2c8805455",
+      "userName": "Katoo la courageuse",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784341346327,
+      "updatedAt": 1784341346327,
+      "status": "active"
+    },
     {
       "id": "local-1784338889544",
       "text": "am",
@@ -26,10 +54,12 @@
       "verseName": "Women 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c"
+      ],
       "createdAt": 1784339053819,
-      "updatedAt": 1784339053819,
+      "updatedAt": 1784341346327,
       "status": "active"
     },
     {
@@ -118,8 +148,8 @@
     }
   ],
   "likeCount": 11,
-  "shareCount": 20,
-  "viewCount": 2110,
+  "shareCount": 25,
+  "viewCount": 2272,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
