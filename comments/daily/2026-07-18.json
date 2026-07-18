@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784342175094,
+  "updatedAt": 1784344273772,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784342274911",
+      "text": "amén 🙏 gracias señor merci Jesús",
+      "userDeviceId": "daac6c11a39f8eaeb89270c8f9a6308bbdc94f6c37d5d4680492d88334c57fbb",
+      "userName": "samhta",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784344273772,
+      "updatedAt": 1784344273772,
+      "status": "active"
+    },
     {
       "id": "local-1784341444668",
       "text": "amén amén amén",
@@ -161,9 +175,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
+  "likeCount": 13,
   "shareCount": 35,
-  "viewCount": 2739,
+  "viewCount": 2845,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
@@ -176,7 +190,8 @@
     "a6099e65da4684e85c955886840cd8756f660c7d5ecf21dcf9354d76a2d6bc7c",
     "2c440a8b69c70cc1bb6cfeee6404de4278ce02ffd6317f73781928bc95da8fda",
     "ec24d598e73bbff197d7000e59adc7ac2f2f739f690b1e11c7cb5b2db56606e6",
-    "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab"
+    "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
+    "2cfba7d1e5de0145c9148e1ab821d20613dc716207728fe9e99a71a65b37a2e9"
   ],
   "verseViewBy": []
 }
