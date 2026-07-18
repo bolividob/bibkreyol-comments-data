@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784375169878,
+  "updatedAt": 1784375292259,
   "version": 1,
   "comments": [
     {
@@ -250,12 +250,10 @@
       "verseName": "Women 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
-      "likedBy": [
-        "2eb5266ba6b89781d1ed3b5771ba18f378a73bdfc87274d2199f1835065bdd3e"
-      ],
+      "likeCount": 0,
+      "likedBy": [],
       "createdAt": 1784353813490,
-      "updatedAt": 1784375169878,
+      "updatedAt": 1784375292258,
       "status": "active"
     },
     {
@@ -431,7 +429,7 @@
   ],
   "likeCount": 56,
   "shareCount": 115,
-  "viewCount": 7888,
+  "viewCount": 7914,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
