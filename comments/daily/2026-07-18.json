@@ -1,9 +1,37 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784338878751,
+  "updatedAt": 1784339053820,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784338889544",
+      "text": "am",
+      "userDeviceId": "43464ea398eff124780c7b9bbf7473b65250f19f97ff903fc57dd4233f299c09",
+      "userName": "fabie",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784339053819,
+      "updatedAt": 1784339053819,
+      "status": "active"
+    },
+    {
+      "id": "local-1784338968474",
+      "text": "amen",
+      "userDeviceId": "43464ea398eff124780c7b9bbf7473b65250f19f97ff903fc57dd4233f299c09",
+      "userName": "fabie",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784339053819,
+      "updatedAt": 1784339053819,
+      "status": "active"
+    },
     {
       "id": "local-1784312258834",
       "text": "amen 🙏",
@@ -89,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 18,
-  "viewCount": 1698,
+  "viewCount": 1771,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
@@ -99,7 +127,8 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "23ada935ed51383f0adc02e6d447495256b60417c26b7022893648fe0676bc15",
-    "03b2bd762b57500d4c8ab98e99da0562f50dd2db321854461e8429bb5f594b0f"
+    "03b2bd762b57500d4c8ab98e99da0562f50dd2db321854461e8429bb5f594b0f",
+    "27869ea3ca320a2a0e7491fc6f871737bd61dde7d47f0ab6dec8f31c29407eca"
   ],
   "verseViewBy": []
 }
