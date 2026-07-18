@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": 1784358921396,
+  "updatedAt": 1784375582010,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 45,
@@ -65,13 +65,18 @@
       "customExpectedSeason": "Lè Bondye vle depi li di yon mo sèlman",
       "request": "Priyè gerizon epi pou mete fòs nan feblès mw,pou mw pa dekouraje nan kois lavi kretyèn lan",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "040456230e0d506259bd2876224701daff81f4e9a3f19c91c77874b64173a612",
         "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7",
-        "775ee2105b5b6887dd502644eab177c5dd207749342ed0ce04b899ecf1483b09"
+        "775ee2105b5b6887dd502644eab177c5dd207749342ed0ce04b899ecf1483b09",
+        "c0f1eda0a5a2e0e9f264a578c1edd50096345ef3da3815168b85d0a3b838afe9"
       ],
       "prayingPreview": [
+        {
+          "userName": "Fr. Jacklin",
+          "prayedAt": 1784375464536
+        },
         {
           "userName": "mrs debo",
           "prayedAt": 1784337679779
@@ -95,7 +100,7 @@
         }
       ],
       "submittedAt": 1784161532612,
-      "updatedAt": 1784337785014,
+      "updatedAt": 1784375582010,
       "answeredAt": null,
       "testimony": null
     },
