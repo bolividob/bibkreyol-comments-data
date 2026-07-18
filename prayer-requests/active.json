@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784398745489,
+  "updatedAt": 1784417704023,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -175,7 +175,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 69,
+      "prayerCount": 71,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -245,9 +245,19 @@
         "b66e3fee37bf5925dd6947595020715749442e5d64c40908cbc19a0e53007697",
         "b4bb040c165ec8f306adc51cc43ccec5d8c3321d56f6662b2ddd8f63cbdc2dd2",
         "fba2ea6a298768fb4f076e89c4b3ececd996473336c6b82c38e0b72c808967b5",
-        "6998b64ca30a0c3438115ee3db3edbcf513aed5b6188dd1b3ab12dd8e3dd5eb9"
+        "6998b64ca30a0c3438115ee3db3edbcf513aed5b6188dd1b3ab12dd8e3dd5eb9",
+        "28f385d4208bd6d0aafb462b20e44e8138538e5d6442cb6cf1a7fbc03dc1b4c0",
+        "12232d9de362089069f3aceb2fd57e3649a4a7773287b6860070ed66d1a9bf62"
       ],
       "prayingPreview": [
+        {
+          "userName": "OKE CHEYI MOISE",
+          "prayedAt": 1784417666816
+        },
+        {
+          "userName": "sr Lorna valcena",
+          "prayedAt": 1784417597243
+        },
         {
           "userName": "Agenor Casimir",
           "prayedAt": 1784398638041
@@ -319,17 +329,23 @@
         {
           "userName": "Adorateur Moise",
           "prayedAt": 1784247467675
-        },
-        {
-          "userName": "nayoo",
-          "prayedAt": 1784225222133
-        },
-        {
-          "userName": "Dieu est Dieu",
-          "prayedAt": 1784219289220
         }
       ],
       "encouragements": [
+        {
+          "id": "12232d9de362089069f3aceb2fd57e3649a4a7773287b6860070ed66d1a9bf62-1784417666816-encouragement",
+          "userDeviceId": "12232d9de362089069f3aceb2fd57e3649a4a7773287b6860070ed66d1a9bf62",
+          "userName": "OKE CHEYI MOISE",
+          "text": "Dieu actera en ta faveur",
+          "createdAt": 1784417666816
+        },
+        {
+          "id": "28f385d4208bd6d0aafb462b20e44e8138538e5d6442cb6cf1a7fbc03dc1b4c0-1784417597243-encouragement",
+          "userDeviceId": "28f385d4208bd6d0aafb462b20e44e8138538e5d6442cb6cf1a7fbc03dc1b4c0",
+          "userName": "sr Lorna valcena",
+          "text": "mési jezi",
+          "createdAt": 1784417597243
+        },
         {
           "id": "6998b64ca30a0c3438115ee3db3edbcf513aed5b6188dd1b3ab12dd8e3dd5eb9-1784398671910-encouragement",
           "userDeviceId": "6998b64ca30a0c3438115ee3db3edbcf513aed5b6188dd1b3ab12dd8e3dd5eb9",
@@ -577,7 +593,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784398744528,
+      "updatedAt": 1784417703053,
       "answeredAt": null,
       "testimony": null
     },
