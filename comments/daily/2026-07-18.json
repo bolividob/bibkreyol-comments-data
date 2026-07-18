@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784355485090,
+  "updatedAt": 1784355614508,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784355509988",
+      "text": "bonjour",
+      "userDeviceId": "5dcf10c7d63cba0645ea1c9f7fdbdc2d5b90fbe7189db4632a72dc369a9a78db",
+      "userName": "berson",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784355614508,
+      "updatedAt": 1784355614508,
+      "status": "active"
+    },
     {
       "id": "local-1784354021805",
       "text": "Amen Amen Amen",
@@ -205,7 +219,7 @@
   ],
   "likeCount": 23,
   "shareCount": 64,
-  "viewCount": 4999,
+  "viewCount": 5009,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
