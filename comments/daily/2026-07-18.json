@@ -1,9 +1,37 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784381426918,
+  "updatedAt": 1784381537006,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784342413939",
+      "text": "Merci DIEU 🙏🙏🙏",
+      "userDeviceId": "9b05395c0cc2b7c48235ef19473806027ad7e90aa45cc7462310f6aaf401ee07",
+      "userName": "vavoo",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784381537006,
+      "updatedAt": 1784381537006,
+      "status": "active"
+    },
+    {
+      "id": "local-1784381530066",
+      "text": "amén amén 🙏🙏",
+      "userDeviceId": "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
+      "userName": "manitha",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784381537006,
+      "updatedAt": 1784381537006,
+      "status": "active"
+    },
     {
       "id": "local-1784378220697",
       "text": "ámen",
@@ -455,9 +483,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
+  "likeCount": 72,
   "shareCount": 142,
-  "viewCount": 9404,
+  "viewCount": 9424,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
@@ -529,7 +557,8 @@
     "32ae215af7093ed19344a49502492fd049a3239e7be25121507009f954ee1a0b",
     "a671c658be6e6818ec82163c7155f440f4b068261a1ef1fe7f2093df1e82aae5",
     "2d5630fab3aacf64e9514322faccc6b2cac953177726a09dd7c7c23309b76ef4",
-    "7efb51ffbbd602b0a4aa092399176794408c57faf2cc0a1576aa07d045733ecb"
+    "7efb51ffbbd602b0a4aa092399176794408c57faf2cc0a1576aa07d045733ecb",
+    "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a"
   ],
   "verseViewBy": []
 }
