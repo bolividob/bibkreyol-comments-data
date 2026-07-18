@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784417829325,
+  "updatedAt": 1784417944105,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,17 +14,29 @@
       "customExpectedSeason": null,
       "request": "Pou fanmiy  me Louis fanmiy clerge epi poum travayjezi gerizon",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb"
+        "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb",
+        "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bina charl",
+          "prayedAt": 1784417847524
+        },
         {
           "userName": "florkentia",
           "prayedAt": 1784251164040
         }
       ],
       "encouragements": [
+        {
+          "id": "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239-1784417847524-encouragement",
+          "userDeviceId": "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239",
+          "userName": "Bina charl",
+          "text": "mp mande nou edem priye poum toujou kinbe fem nan travay seyè a",
+          "createdAt": 1784417847524
+        },
         {
           "id": "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb-1784251433662-encouragement",
           "userDeviceId": "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb",
@@ -48,7 +60,7 @@
         }
       ],
       "submittedAt": 1784247095936,
-      "updatedAt": 1784251503515,
+      "updatedAt": 1784417943163,
       "answeredAt": null,
       "testimony": null
     },
