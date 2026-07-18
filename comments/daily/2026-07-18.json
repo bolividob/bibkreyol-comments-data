@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784368342685,
+  "updatedAt": 1784368444849,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784368412758",
+      "text": "Aménnnnnn",
+      "userDeviceId": "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+      "userName": "Yveline",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784368444849,
+      "updatedAt": 1784368444849,
+      "status": "active"
+    },
     {
       "id": "local-1784366816164",
       "text": "Amén 🙏❤️",
@@ -357,9 +371,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 38,
+  "likeCount": 39,
   "shareCount": 83,
-  "viewCount": 6160,
+  "viewCount": 6180,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
@@ -398,7 +412,8 @@
     "26abb75e72d106460f8041ec75f29c3ab49fd41774dbc263359b8439d318339f",
     "1dcddd42d54cb4c5e195c626c5e285f455ddce3e7b424e00c917c72527518778",
     "a30a706ab74d0c24f05b5f92dd5048ef0430ce7d69b81488dd800a87cf492059",
-    "52287858ec4c6f1a64b2c7b923deb88637488528a1a9950bcef10589684ffa41"
+    "52287858ec4c6f1a64b2c7b923deb88637488528a1a9950bcef10589684ffa41",
+    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
   ],
   "verseViewBy": []
 }
