@@ -1,9 +1,37 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784417531664,
+  "updatedAt": 1784417646385,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784417610341",
+      "text": "médi jezi",
+      "userDeviceId": "28f385d4208bd6d0aafb462b20e44e8138538e5d6442cb6cf1a7fbc03dc1b4c0",
+      "userName": "sr Lorna valcena",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784417646384,
+      "updatedAt": 1784417646384,
+      "status": "active"
+    },
+    {
+      "id": "local-1784417619754",
+      "text": "mèsi jezi",
+      "userDeviceId": "28f385d4208bd6d0aafb462b20e44e8138538e5d6442cb6cf1a7fbc03dc1b4c0",
+      "userName": "sr Lorna valcena",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784417646384,
+      "updatedAt": 1784417646384,
+      "status": "active"
+    },
     {
       "id": "local-1784415333369",
       "text": "Jezu se tout bagay pou mwen",
@@ -541,7 +569,7 @@
   ],
   "likeCount": 133,
   "shareCount": 221,
-  "viewCount": 17787,
+  "viewCount": 17823,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
