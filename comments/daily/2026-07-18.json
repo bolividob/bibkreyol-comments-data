@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784415251002,
+  "updatedAt": 1784415374886,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784415333369",
+      "text": "Jezu se tout bagay pou mwen",
+      "userDeviceId": "01c53bc8214334cf13eeb7c3555e4e0ddb003bceca399f694f3559c19474ab72",
+      "userName": "Sr bebe",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784415374886,
+      "updatedAt": 1784415374886,
+      "status": "active"
+    },
     {
       "id": "local-1784404423249",
       "text": "Amen 🙏",
@@ -527,7 +541,7 @@
   ],
   "likeCount": 128,
   "shareCount": 213,
-  "viewCount": 17145,
+  "viewCount": 17185,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
