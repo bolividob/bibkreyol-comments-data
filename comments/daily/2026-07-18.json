@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784337859843,
+  "updatedAt": 1784338031189,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784312258834",
+      "text": "amen 🙏",
+      "userDeviceId": "54e37701cb1d9ab399df78f7c52c5a45e8953abe788a3e9876fe77da403cad02",
+      "userName": "amen",
+      "verseName": "2 Jan 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784338031189,
+      "updatedAt": 1784338031189,
+      "status": "active"
+    },
     {
       "id": "local-1784325859861",
       "text": "edem price paske grann mw malade",
@@ -76,8 +90,8 @@
     }
   ],
   "likeCount": 7,
-  "shareCount": 15,
-  "viewCount": 1274,
+  "shareCount": 17,
+  "viewCount": 1343,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
