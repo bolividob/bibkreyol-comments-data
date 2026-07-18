@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784335274303,
+  "updatedAt": 1784337133087,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784335820890",
+      "text": "amen wi",
+      "userDeviceId": "5023c2ef4d392c4cbe12cc97c0f36bf7901ca8038b29509db91365a184d57df1",
+      "userName": "ketena dareus",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784337133087,
+      "updatedAt": 1784337133087,
+      "status": "active"
+    },
     {
       "id": "local-1784334936489",
       "text": "Amén",
@@ -47,15 +61,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 5,
-  "shareCount": 11,
-  "viewCount": 886,
+  "likeCount": 6,
+  "shareCount": 13,
+  "viewCount": 969,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
     "65020ae35bdfc254ac290cc6a1369fd6cb983292c40bed2fd3bac0a11b3ba8c7",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
-    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4"
+    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "23ada935ed51383f0adc02e6d447495256b60417c26b7022893648fe0676bc15"
   ],
   "verseViewBy": []
 }
