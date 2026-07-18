@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784417768994,
+  "updatedAt": 1784418013073,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784417953962",
+      "text": "helo",
+      "userDeviceId": "c7be699310277ca68f3d0ff27fbd3e07844973b9601742a8dafcb28fd1708dcb",
+      "userName": "Edcheldin",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784418013073,
+      "updatedAt": 1784418013073,
+      "status": "active"
+    },
     {
       "id": "local-1784417610341",
       "text": "médi jezi",
@@ -569,7 +583,7 @@
   ],
   "likeCount": 133,
   "shareCount": 221,
-  "viewCount": 17859,
+  "viewCount": 17923,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
