@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": 1784377266858,
+  "updatedAt": 1784392982982,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 45,
@@ -177,7 +177,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 67,
+      "prayerCount": 68,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -245,9 +245,14 @@
         "ef9f86f1587c5c22d9103c305169a59bca19a89083e92145b1f70be53c33a7f5",
         "4d722cbb9af69d808927de9c0cbb27e96d66127681847bb2101c64706a5282ba",
         "b66e3fee37bf5925dd6947595020715749442e5d64c40908cbc19a0e53007697",
-        "b4bb040c165ec8f306adc51cc43ccec5d8c3321d56f6662b2ddd8f63cbdc2dd2"
+        "b4bb040c165ec8f306adc51cc43ccec5d8c3321d56f6662b2ddd8f63cbdc2dd2",
+        "fba2ea6a298768fb4f076e89c4b3ececd996473336c6b82c38e0b72c808967b5"
       ],
       "prayingPreview": [
+        {
+          "userName": "priye",
+          "prayedAt": 1784392951923
+        },
         {
           "userName": "Alcide Veniel",
           "prayedAt": 1784358829600
@@ -323,10 +328,6 @@
         {
           "userName": "priye pou mande fos",
           "prayedAt": 1784209872657
-        },
-        {
-          "userName": "Sr Augustin",
-          "prayedAt": 1784204659840
         }
       ],
       "encouragements": [
@@ -563,7 +564,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784358921396,
+      "updatedAt": 1784392982982,
       "answeredAt": null,
       "testimony": null
     },
