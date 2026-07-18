@@ -1,9 +1,23 @@
 {
   "date": "2026-07-18",
   "verseKey": "daily:2026-07-18",
-  "updatedAt": 1784372827479,
+  "updatedAt": 1784373077980,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784373011576",
+      "text": "Amèn",
+      "userDeviceId": "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
+      "userName": "sr Alande Pierre -Louis",
+      "verseName": "Women 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784373077980,
+      "updatedAt": 1784373077980,
+      "status": "active"
+    },
     {
       "id": "local-1784371335921",
       "text": "Parole BonDieu Vivian",
@@ -413,9 +427,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
+  "likeCount": 51,
   "shareCount": 100,
-  "viewCount": 7239,
+  "viewCount": 7310,
   "verseLikedBy": [
     "1a126353f0ba586f1ec70afc5dc45d25983f0b4e7c5b7009970a9b66c3d8d39a",
     "31412c577aa5fdff58a60c3d86bd4417f7bc5f05a3ef09c007ce40667daf5859",
@@ -466,7 +480,8 @@
     "8d63ebc5db9da56da655d258f1ebf13e052a4d603400398835b5ea9989b3315a",
     "4d20d1b3ea687da75b07cb414235e0ffcf6d05cc68827b89c6ddbd9dbec97429",
     "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
-    "134aa0d5f73d21836fde40afb1d845746d323bac51433ab1fdec74f6ddcf1e7c"
+    "134aa0d5f73d21836fde40afb1d845746d323bac51433ab1fdec74f6ddcf1e7c",
+    "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625"
   ],
   "verseViewBy": []
 }
