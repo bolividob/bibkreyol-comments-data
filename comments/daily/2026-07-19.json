@@ -1,9 +1,23 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784460326327,
+  "updatedAt": 1784460506437,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784460482232",
+      "text": "yes🥰",
+      "userDeviceId": "df90a8274b6fb609dfb6ab0d4f928199efb37099500e4e30739ba8f556735547",
+      "userName": "Lovenah me",
+      "verseName": "Estè 8:1",
+      "parentId": "local-1784422092751",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784460506437,
+      "updatedAt": 1784460506437,
+      "status": "active"
+    },
     {
       "id": "local-1784459592338",
       "text": "BnD fidèl",
@@ -179,13 +193,13 @@
       "userName": "diverdieu polinis",
       "verseName": "Estè 8:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "e5f674513be151a8a0d6da35da8f676d8f2f4717679af1490fb263e2b871cafa"
       ],
       "createdAt": 1784422146918,
-      "updatedAt": 1784447893545,
+      "updatedAt": 1784460506437,
       "status": "active"
     },
     {
@@ -245,9 +259,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 66,
-  "viewCount": 7909,
+  "likeCount": 41,
+  "shareCount": 67,
+  "viewCount": 8041,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
@@ -288,7 +302,8 @@
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
     "d1de8d59490a4e86c8af1b0e0069ce521957ef9d6c324d5f2af7b616accc0489",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
-    "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a"
+    "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
+    "df90a8274b6fb609dfb6ab0d4f928199efb37099500e4e30739ba8f556735547"
   ],
   "verseViewBy": []
 }
