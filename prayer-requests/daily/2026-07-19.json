@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": 1784503862657,
+  "updatedAt": 1784503988442,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -246,7 +246,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 78,
+      "prayerCount": 79,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -325,9 +325,14 @@
         "7eda49ed2189c89dbecf33052b3cfd1fb1621d2c67271be3ec1378cdb08b897c",
         "43a3d961fd59f740853b6e558bd3f8f762757f6a9894e2dbe0c1cf4ace50a38c",
         "0900d01f2d28324966b5386ccce38849ddca05cce9b9664a82efcb9d8b5a62c9",
-        "ffce87ffe21d630f012e2cac943634e519abd4929e48f0c8a5abff96957fe7e4"
+        "ffce87ffe21d630f012e2cac943634e519abd4929e48f0c8a5abff96957fe7e4",
+        "5b46f79f200498d336b35275a5885dded79b85ecb30f695cf537a4455f4312ae"
       ],
       "prayingPreview": [
+        {
+          "userName": "444",
+          "prayedAt": 1784503930593
+        },
         {
           "userName": "lila  rebe",
           "prayedAt": 1784499748989
@@ -403,10 +408,6 @@
         {
           "userName": "Richenond jocelyn",
           "prayedAt": 1784305155222
-        },
-        {
-          "userName": "roykens",
-          "prayedAt": 1784299568851
         }
       ],
       "encouragements": [
@@ -685,7 +686,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784499903595,
+      "updatedAt": 1784503988442,
       "answeredAt": null,
       "testimony": null
     },
