@@ -1,9 +1,37 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784481983779,
+  "updatedAt": 1784485240144,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784484798947",
+      "text": "Bondye beni nou",
+      "userDeviceId": "605f0bae4fbb49b62febd76828b9ecf4a93ef64767a603043bd4d1afe36e1eb5",
+      "userName": "Alima Odiel",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784485240144,
+      "updatedAt": 1784485240144,
+      "status": "active"
+    },
+    {
+      "id": "local-1784484888446",
+      "text": "Berline Bondye beni'w",
+      "userDeviceId": "605f0bae4fbb49b62febd76828b9ecf4a93ef64767a603043bd4d1afe36e1eb5",
+      "userName": "Alima Odiel",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784485240144,
+      "updatedAt": 1784485240144,
+      "status": "active"
+    },
     {
       "id": "local-1784481058883",
       "text": "Bondieu beni nou",
@@ -40,10 +68,12 @@
       "verseName": "Estè 8:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d8509bc4b10b3a7ae3d9c6f381a4cb742e9e864b468643173d0564b14ecc5030"
+      ],
       "createdAt": 1784474260960,
-      "updatedAt": 1784474260960,
+      "updatedAt": 1784485240143,
       "status": "active"
     },
     {
@@ -59,7 +89,7 @@
         "9c2b0c16d5b5fbee36f52a94e33c95d0ead9997804d1cc76a8e399f591b576ac"
       ],
       "createdAt": 1784470576490,
-      "updatedAt": 1784481983779,
+      "updatedAt": 1784485240143,
       "status": "active"
     },
     {
@@ -345,9 +375,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 58,
-  "shareCount": 116,
-  "viewCount": 15189,
+  "likeCount": 59,
+  "shareCount": 122,
+  "viewCount": 16169,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
@@ -406,7 +436,8 @@
     "7d9c5de8cae54cb3fce38172d5da094870a1d294b63bf1e8c00988089ed00c9f",
     "2b0b276c607947cb60ab54c4b0b96b17832228c4bc93faf309bc80e0f2d227f8",
     "439cd0a3e61532d6042a19db81387debb19dfd1825bb81a795f1b48b269a2e7c",
-    "8c3c79fe8c888790db7864d421989e47b436bb1b1f663c29ba8e8e54f74730fe"
+    "8c3c79fe8c888790db7864d421989e47b436bb1b1f663c29ba8e8e54f74730fe",
+    "079498a5de28701198c3352356f0c0466ec4b182de7d896568a256740bbc962a"
   ],
   "verseViewBy": []
 }
