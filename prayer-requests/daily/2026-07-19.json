@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": 1784425984825,
+  "updatedAt": 1784436789394,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -159,15 +159,20 @@
       "customExpectedSeason": null,
       "request": "prospérité,gerizon",
       "status": "praying",
-      "prayerCount": 5,
+      "prayerCount": 6,
       "prayedBy": [
         "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
         "c64eded9d675ee7ee6b05c18b5a86a3f63278621f3b286a7dd0538663e0576b1",
         "295dc83e682ea8899b4541a9a0af26238dc9347a7776eda5b3ac2ffa1f769b76",
         "696b41ad14c53b5fdcd4630dd4f8ad6a8115bc8b6a803878a071bcefade3d7e9",
-        "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7"
+        "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
+        "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a"
       ],
       "prayingPreview": [
+        {
+          "userName": "Masoo",
+          "prayedAt": 1784436763454
+        },
         {
           "userName": "béthel",
           "prayedAt": 1784136198545
@@ -191,6 +196,13 @@
       ],
       "encouragements": [
         {
+          "id": "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a-1784436763454-encouragement",
+          "userDeviceId": "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a",
+          "userName": "Masoo",
+          "text": "mp mnde anpil lapriyè poum pa f bak men poum f pa anh avan poum f travay senyè ah",
+          "createdAt": 1784436763454
+        },
+        {
           "id": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7-1784136368379-encouragement",
           "userDeviceId": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
           "userName": "béthel",
@@ -206,7 +218,7 @@
         }
       ],
       "submittedAt": 1783987755628,
-      "updatedAt": 1784136374871,
+      "updatedAt": 1784436789394,
       "answeredAt": null,
       "testimony": null
     },
