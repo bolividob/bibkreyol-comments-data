@@ -1,9 +1,37 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784492170351,
+  "updatedAt": 1784495686383,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784492232568",
+      "text": "amén amén",
+      "userDeviceId": "edefaccc633c7251dfc9fa66eee76e6558312a8ef8abe81e9aac616f1470f0c3",
+      "userName": "fabie",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784495686383,
+      "updatedAt": 1784495686383,
+      "status": "active"
+    },
+    {
+      "id": "local-1784492214719",
+      "text": "mw se fabie",
+      "userDeviceId": "edefaccc633c7251dfc9fa66eee76e6558312a8ef8abe81e9aac616f1470f0c3",
+      "userName": "fabie",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784495686383,
+      "updatedAt": 1784495686383,
+      "status": "active"
+    },
     {
       "id": "local-1784468573197",
       "text": "amen",
@@ -404,8 +432,8 @@
     }
   ],
   "likeCount": 60,
-  "shareCount": 141,
-  "viewCount": 19691,
+  "shareCount": 147,
+  "viewCount": 20066,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
