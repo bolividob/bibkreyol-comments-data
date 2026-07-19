@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": 1784499903595,
+  "updatedAt": 1784503747898,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -16,19 +16,32 @@
       "customExpectedSeason": null,
       "request": "edem priye  pou familia priye  deblozaj",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "c03f7e20c2a3d30079767e89f8ac01e0e41c382bd67403ea27d0a1f46cdde445"
+        "c03f7e20c2a3d30079767e89f8ac01e0e41c382bd67403ea27d0a1f46cdde445",
+        "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a"
       ],
       "prayingPreview": [
+        {
+          "userName": "bib frances",
+          "prayedAt": 1784503545043
+        },
         {
           "userName": "celius",
           "prayedAt": 1784425975558
         }
       ],
-      "encouragements": [],
+      "encouragements": [
+        {
+          "id": "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a-1784503585822-encouragement",
+          "userDeviceId": "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a",
+          "userName": "bib frances",
+          "text": "apwNd joe piano",
+          "createdAt": 1784503585822
+        }
+      ],
       "submittedAt": 1784420913688,
-      "updatedAt": 1784425984825,
+      "updatedAt": 1784503747898,
       "answeredAt": null,
       "testimony": null
     },
