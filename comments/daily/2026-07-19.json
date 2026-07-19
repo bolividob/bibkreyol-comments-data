@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784481403428,
+  "updatedAt": 1784481983779,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Estè 8:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "9c2b0c16d5b5fbee36f52a94e33c95d0ead9997804d1cc76a8e399f591b576ac"
+      ],
       "createdAt": 1784470576490,
-      "updatedAt": 1784470576490,
+      "updatedAt": 1784481983779,
       "status": "active"
     },
     {
@@ -344,8 +346,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 112,
-  "viewCount": 14223,
+  "shareCount": 116,
+  "viewCount": 15189,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
