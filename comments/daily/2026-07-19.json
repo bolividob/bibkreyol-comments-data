@@ -1,9 +1,37 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784428039770,
+  "updatedAt": 1784428231672,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784428021281",
+      "text": "bonsoir",
+      "userDeviceId": "819cc179316b811a1e2c16007ef51fc0d6387c6c634be6f588ca28916cc4493b",
+      "userName": "frandy",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784428231672,
+      "updatedAt": 1784428231672,
+      "status": "active"
+    },
+    {
+      "id": "local-1784428143239",
+      "text": "amèn tout groire pou bon dieu",
+      "userDeviceId": "819cc179316b811a1e2c16007ef51fc0d6387c6c634be6f588ca28916cc4493b",
+      "userName": "frandy",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784428231672,
+      "updatedAt": 1784428231672,
+      "status": "active"
+    },
     {
       "id": "local-1784427764389",
       "text": "bonsoir",
@@ -155,7 +183,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1784421556942,
-      "updatedAt": 1784428039770,
+      "updatedAt": 1784428231672,
       "status": "active"
     },
     {
@@ -173,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
+  "likeCount": 15,
   "shareCount": 19,
-  "viewCount": 2424,
+  "viewCount": 2524,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
@@ -190,7 +218,8 @@
     "161dc886c1f0d3205596a7be73aff820411377ce4ba709c3fdf34abf7c82d2f5",
     "8ff15b27467f74eca213b90b9f2b300197c84a3bd293147b82456a8d23f126bd",
     "091111b997832a8340d181b2157b573f40aec5ef3af4b5131e79beb51fd35d64",
-    "16340bb3b987af2aba960d3e6aad3cf50267fe40101f3ebdc8bb9b24e7f8de4b"
+    "16340bb3b987af2aba960d3e6aad3cf50267fe40101f3ebdc8bb9b24e7f8de4b",
+    "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c"
   ],
   "verseViewBy": []
 }
