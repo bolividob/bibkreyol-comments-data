@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": 1784425262494,
+  "updatedAt": 1784425984825,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -16,12 +16,19 @@
       "customExpectedSeason": null,
       "request": "edem priye  pou familia priye  deblozaj",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "c03f7e20c2a3d30079767e89f8ac01e0e41c382bd67403ea27d0a1f46cdde445"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "celius",
+          "prayedAt": 1784425975558
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1784420913688,
-      "updatedAt": 1784420945744,
+      "updatedAt": 1784425984825,
       "answeredAt": null,
       "testimony": null
     },
