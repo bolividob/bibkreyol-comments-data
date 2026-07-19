@@ -1,9 +1,37 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784488620021,
+  "updatedAt": 1784492170351,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784468573197",
+      "text": "amen",
+      "userDeviceId": "ee03b1aea509d72069f3712cda8931d57fcb6e4aec996f0e40a2a833c92b0e02",
+      "userName": "My Esther love bendjina sacounetana bapt",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784492170350,
+      "updatedAt": 1784492170350,
+      "status": "active"
+    },
+    {
+      "id": "local-1784475889423",
+      "text": "amén 🙏",
+      "userDeviceId": "fbbb0ef0213ce08d6319fe7e45be6c1dfa15b4b54750d7784526f978f2773872",
+      "userName": "Daniela",
+      "verseName": "Estè 8:1",
+      "parentId": "local-1784469706574",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784492170350,
+      "updatedAt": 1784492170350,
+      "status": "active"
+    },
     {
       "id": "local-1784484798947",
       "text": "Bondye beni nou",
@@ -53,11 +81,11 @@
       "userName": "Bondye gran pou mwen",
       "verseName": "Estè 8:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1784474260960,
-      "updatedAt": 1784474260960,
+      "updatedAt": 1784492170350,
       "status": "active"
     },
     {
@@ -375,9 +403,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 136,
-  "viewCount": 18913,
+  "likeCount": 60,
+  "shareCount": 141,
+  "viewCount": 19691,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
@@ -437,7 +465,8 @@
     "2b0b276c607947cb60ab54c4b0b96b17832228c4bc93faf309bc80e0f2d227f8",
     "439cd0a3e61532d6042a19db81387debb19dfd1825bb81a795f1b48b269a2e7c",
     "8c3c79fe8c888790db7864d421989e47b436bb1b1f663c29ba8e8e54f74730fe",
-    "079498a5de28701198c3352356f0c0466ec4b182de7d896568a256740bbc962a"
+    "079498a5de28701198c3352356f0c0466ec4b182de7d896568a256740bbc962a",
+    "f87a515640abc039ad73ff5edaff8e3c33370370c13530625f09108cfc3002ba"
   ],
   "verseViewBy": []
 }
