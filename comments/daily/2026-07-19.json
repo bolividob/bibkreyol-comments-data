@@ -1,9 +1,23 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784463271229,
+  "updatedAt": 1784463833823,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784462752624",
+      "text": "Bon travay",
+      "userDeviceId": "5c083a947ac780e5fa1cf166e6b41165cea8c62dce720f3cfbb5911f45d07a7e",
+      "userName": "Dianie occius",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784463833823,
+      "updatedAt": 1784463833823,
+      "status": "active"
+    },
     {
       "id": "local-1784460509841",
       "text": "Amèn",
@@ -273,9 +287,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 71,
-  "viewCount": 8479,
+  "likeCount": 45,
+  "shareCount": 77,
+  "viewCount": 8917,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
@@ -319,7 +333,9 @@
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
     "df90a8274b6fb609dfb6ab0d4f928199efb37099500e4e30739ba8f556735547",
     "cf0cfc064b25dc0608c08cea1c299722a73bb9152aa601abe53da7b1cba33355",
-    "0768c70075b5bc13f26f2a1a3820fec38e7d7c309d28f4ff0e8ee6461a86ac2c"
+    "0768c70075b5bc13f26f2a1a3820fec38e7d7c309d28f4ff0e8ee6461a86ac2c",
+    "53bde516dbc46d19cc3fcd7a78709c2dd137540fbeaff1b0a3558ab3768f2f28",
+    "983a288b16184e9909004dfce9bcb2bb583cd8fa8e54ffad853d8b507fd39fed"
   ],
   "verseViewBy": []
 }
