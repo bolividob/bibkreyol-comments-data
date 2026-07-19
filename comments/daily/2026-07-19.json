@@ -1,9 +1,23 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784423899582,
+  "updatedAt": 1784424011938,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784423961521",
+      "text": "amén🙏",
+      "userDeviceId": "904fbe43458e9b2619e67db03908289db31d3a855091c72027501f22bbe0b194",
+      "userName": "Merancile Docteur",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784424011938,
+      "updatedAt": 1784424011938,
+      "status": "active"
+    },
     {
       "id": "local-1784422092751",
       "text": "Konfyew nan jezi wap jwenn tout sa w gen bezwen.?",
@@ -76,8 +90,8 @@
     }
   ],
   "likeCount": 9,
-  "shareCount": 8,
-  "viewCount": 1192,
+  "shareCount": 9,
+  "viewCount": 1234,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
