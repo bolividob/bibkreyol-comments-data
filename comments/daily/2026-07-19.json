@@ -1,9 +1,23 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784459584658,
+  "updatedAt": 1784459966310,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784459592338",
+      "text": "BnD fidèl",
+      "userDeviceId": "8cb317ace8fe99995aff5031594d0c650585df482e2f6b351a4c59101a7ecdf3",
+      "userName": "Denave james",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784459966310,
+      "updatedAt": 1784459966310,
+      "status": "active"
+    },
     {
       "id": "local-1784458796337",
       "text": "amén amén amén",
@@ -232,8 +246,8 @@
     }
   ],
   "likeCount": 40,
-  "shareCount": 60,
-  "viewCount": 7332,
+  "shareCount": 63,
+  "viewCount": 7548,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
