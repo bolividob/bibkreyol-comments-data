@@ -1,9 +1,23 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784425932936,
+  "updatedAt": 1784427253094,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784427193146",
+      "text": "amen",
+      "userDeviceId": "161dc886c1f0d3205596a7be73aff820411377ce4ba709c3fdf34abf7c82d2f5",
+      "userName": "CSL",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784427253094,
+      "updatedAt": 1784427253094,
+      "status": "active"
+    },
     {
       "id": "local-1784423961521",
       "text": "amén🙏",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
+  "likeCount": 13,
   "shareCount": 17,
-  "viewCount": 1967,
+  "viewCount": 2064,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
@@ -102,7 +116,10 @@
     "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
     "0df04550353b595cfe89f4bc6181a19eecdbbf27be70379d8924eddfc06b4e65",
     "904fbe43458e9b2619e67db03908289db31d3a855091c72027501f22bbe0b194",
-    "2ec85f8da34fccbdc6c845f134b07196194021408496506b8d8e42e1cb57787d"
+    "2ec85f8da34fccbdc6c845f134b07196194021408496506b8d8e42e1cb57787d",
+    "161dc886c1f0d3205596a7be73aff820411377ce4ba709c3fdf34abf7c82d2f5",
+    "8ff15b27467f74eca213b90b9f2b300197c84a3bd293147b82456a8d23f126bd",
+    "091111b997832a8340d181b2157b573f40aec5ef3af4b5131e79beb51fd35d64"
   ],
   "verseViewBy": []
 }
