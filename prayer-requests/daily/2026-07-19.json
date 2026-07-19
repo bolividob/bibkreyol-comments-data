@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": 1784463784683,
+  "updatedAt": 1784466901994,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -233,7 +233,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 74,
+      "prayerCount": 75,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -308,9 +308,14 @@
         "12232d9de362089069f3aceb2fd57e3649a4a7773287b6860070ed66d1a9bf62",
         "f78bb3808696ed6b5627992f1bcd617644d88332ed4a1516bb89390aab23e65d",
         "71f1a5dc13147923e59dbb7af4fd1457dd2b1a1e205d19d569deb9f877d5e14c",
-        "886c7d75d73ad20895d4014ab113d19afd2b40422d81b1b128330d8b5858d902"
+        "886c7d75d73ad20895d4014ab113d19afd2b40422d81b1b128330d8b5858d902",
+        "7eda49ed2189c89dbecf33052b3cfd1fb1621d2c67271be3ec1378cdb08b897c"
       ],
       "prayingPreview": [
+        {
+          "userName": "ezekyél",
+          "prayedAt": 1784463926324
+        },
         {
           "userName": "fre eliny",
           "prayedAt": 1784457750496
@@ -386,10 +391,6 @@
         {
           "userName": "nageline",
           "prayedAt": 1784289433070
-        },
-        {
-          "userName": "Rose",
-          "prayedAt": 1784269140760
         }
       ],
       "encouragements": [
@@ -668,7 +669,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784457903241,
+      "updatedAt": 1784466901994,
       "answeredAt": null,
       "testimony": null
     },
