@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": 1784467142729,
+  "updatedAt": 1784470621983,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -233,7 +233,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 75,
+      "prayerCount": 76,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -309,9 +309,14 @@
         "f78bb3808696ed6b5627992f1bcd617644d88332ed4a1516bb89390aab23e65d",
         "71f1a5dc13147923e59dbb7af4fd1457dd2b1a1e205d19d569deb9f877d5e14c",
         "886c7d75d73ad20895d4014ab113d19afd2b40422d81b1b128330d8b5858d902",
-        "7eda49ed2189c89dbecf33052b3cfd1fb1621d2c67271be3ec1378cdb08b897c"
+        "7eda49ed2189c89dbecf33052b3cfd1fb1621d2c67271be3ec1378cdb08b897c",
+        "43a3d961fd59f740853b6e558bd3f8f762757f6a9894e2dbe0c1cf4ace50a38c"
       ],
       "prayingPreview": [
+        {
+          "userName": "Bondye gran pou mwen",
+          "prayedAt": 1784470536768
+        },
         {
           "userName": "ezekyél",
           "prayedAt": 1784463926324
@@ -387,10 +392,6 @@
         {
           "userName": "judit",
           "prayedAt": 1784292750969
-        },
-        {
-          "userName": "nageline",
-          "prayedAt": 1784289433070
         }
       ],
       "encouragements": [
@@ -669,7 +670,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784466901994,
+      "updatedAt": 1784470621983,
       "answeredAt": null,
       "testimony": null
     },
