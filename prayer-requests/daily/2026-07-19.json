@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": 1784420945744,
+  "updatedAt": 1784421542709,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -36,12 +36,17 @@
       "customExpectedSeason": null,
       "request": "Pou fanmiy  me Louis fanmiy clerge epi poum travayjezi gerizon",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb",
-        "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239"
+        "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239",
+        "955ccc8505c6bc773c52eee09a700798b3aa8cc3755fbc7cf56bc7d876cc2733"
       ],
       "prayingPreview": [
+        {
+          "userName": "Thamar",
+          "prayedAt": 1784421538338
+        },
         {
           "userName": "Bina charl",
           "prayedAt": 1784417847524
@@ -82,7 +87,7 @@
         }
       ],
       "submittedAt": 1784247095936,
-      "updatedAt": 1784417943163,
+      "updatedAt": 1784421542709,
       "answeredAt": null,
       "testimony": null
     },
