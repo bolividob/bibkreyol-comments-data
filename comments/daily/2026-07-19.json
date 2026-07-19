@@ -1,9 +1,37 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784470576490,
+  "updatedAt": 1784474260961,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784469706574",
+      "text": "bondye beni nou nan jezi",
+      "userDeviceId": "43a3d961fd59f740853b6e558bd3f8f762757f6a9894e2dbe0c1cf4ace50a38c",
+      "userName": "Bondye gran pou mwen",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784474260960,
+      "updatedAt": 1784474260960,
+      "status": "active"
+    },
+    {
+      "id": "local-1784469725367",
+      "text": "eske tout moun ka fe priyé entése",
+      "userDeviceId": "43a3d961fd59f740853b6e558bd3f8f762757f6a9894e2dbe0c1cf4ace50a38c",
+      "userName": "Bondye gran pou mwen",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784474260960,
+      "updatedAt": 1784474260960,
+      "status": "active"
+    },
     {
       "id": "local-1784469722302",
       "text": "som18",
@@ -301,9 +329,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
-  "shareCount": 89,
-  "viewCount": 10291,
+  "likeCount": 53,
+  "shareCount": 93,
+  "viewCount": 11278,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
@@ -354,7 +382,10 @@
     "58f3b57c9e49c880e2568475bb695a95ec5a9e031345037ba203bd0061f4588a",
     "6ebe8c816083d669681e916eab9a8656254a424613e04805dea786f9a3e6c441",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
-    "3170d9d9747b6883a548704f6ef16ccbe638edf60b86eded5a476fb8316d7e18"
+    "3170d9d9747b6883a548704f6ef16ccbe638edf60b86eded5a476fb8316d7e18",
+    "43a3d961fd59f740853b6e558bd3f8f762757f6a9894e2dbe0c1cf4ace50a38c",
+    "cc2a7e1d96dc94b52e9852b85490636cb7d5c69e7ccce5e6a2abcc58f0e0f8fa",
+    "c2fdddbe3fa6a662058c63d7bebd85ed8197d9c30d740038e99a3d06777087d6"
   ],
   "verseViewBy": []
 }
