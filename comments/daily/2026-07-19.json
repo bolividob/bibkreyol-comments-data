@@ -1,12 +1,27 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784420245194,
+  "updatedAt": 1784420419811,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1784420268802",
+      "text": "Amèn Amèn Amèn, Alleluia Gloire",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784420419810,
+      "updatedAt": 1784420419810,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
   "shareCount": 1,
-  "viewCount": 228,
+  "viewCount": 300,
   "verseLikedBy": [],
   "verseViewBy": []
 }
