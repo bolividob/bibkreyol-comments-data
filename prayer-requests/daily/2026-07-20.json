@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": 1784547664285,
+  "updatedAt": 1784550554096,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -2149,7 +2149,7 @@
       "customExpectedSeason": null,
       "request": "demand lapriye svpl",
       "status": "praying",
-      "prayerCount": 80,
+      "prayerCount": 81,
       "prayedBy": [
         "a0bbcd878ab9d390ce4c4995298b8292e40699da89d0dd17a8f9e5d6dc2ab0df",
         "04b4fb5f1df342538a5b7e723a0afe70dec2e30eeb2324cd84e8d1b7d9700f69",
@@ -2230,9 +2230,14 @@
         "6c486e4c9739149d3aa85d4cfa24314b27462b2219744776369d71417307ef9c",
         "d9cae4ada3f85520d92018458b38a79291488120c663088ee05a8b6a863fb5d8",
         "afacc0a323cc512bf2743fa43011abb66501633ba173f11c80e3cda5128b207f",
-        "64d7b1945b0b5c34f617e6248e98ef9be484bc9f095af4f5f2d550004a88f1db"
+        "64d7b1945b0b5c34f617e6248e98ef9be484bc9f095af4f5f2d550004a88f1db",
+        "b9e8da24f57e9bc3b60f61e314539593d86e968c5d16e0bcaa8d9b68b981fc8b"
       ],
       "prayingPreview": [
+        {
+          "userName": "só.",
+          "prayedAt": 1784550444621
+        },
         {
           "userName": "Lapaix Bikendy",
           "prayedAt": 1783563566423
@@ -2308,10 +2313,6 @@
         {
           "userName": "bib kreyol",
           "prayedAt": 1782642416335
-        },
-        {
-          "userName": "exime",
-          "prayedAt": 1782609890708
         }
       ],
       "encouragements": [
@@ -2716,7 +2717,7 @@
         }
       ],
       "submittedAt": 1782349034128,
-      "updatedAt": 1783563662622,
+      "updatedAt": 1784550554096,
       "answeredAt": null,
       "testimony": null
     },
