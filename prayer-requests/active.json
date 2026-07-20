@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784503990857,
+  "updatedAt": 1784506869470,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -244,7 +244,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 79,
+      "prayerCount": 80,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -324,9 +324,14 @@
         "43a3d961fd59f740853b6e558bd3f8f762757f6a9894e2dbe0c1cf4ace50a38c",
         "0900d01f2d28324966b5386ccce38849ddca05cce9b9664a82efcb9d8b5a62c9",
         "ffce87ffe21d630f012e2cac943634e519abd4929e48f0c8a5abff96957fe7e4",
-        "5b46f79f200498d336b35275a5885dded79b85ecb30f695cf537a4455f4312ae"
+        "5b46f79f200498d336b35275a5885dded79b85ecb30f695cf537a4455f4312ae",
+        "60679855b07af822c14dd09619ecaedf9496cc54ed4a0e8d4d79298c7856bac0"
       ],
       "prayingPreview": [
+        {
+          "userName": "love",
+          "prayedAt": 1784506761173
+        },
         {
           "userName": "444",
           "prayedAt": 1784503930593
@@ -402,13 +407,23 @@
         {
           "userName": "joanés saint jean",
           "prayedAt": 1784306300697
-        },
-        {
-          "userName": "Richenond jocelyn",
-          "prayedAt": 1784305155222
         }
       ],
       "encouragements": [
+        {
+          "id": "60679855b07af822c14dd09619ecaedf9496cc54ed4a0e8d4d79298c7856bac0-1784506781628-encouragement",
+          "userDeviceId": "60679855b07af822c14dd09619ecaedf9496cc54ed4a0e8d4d79298c7856bac0",
+          "userName": "love",
+          "text": "fè bondye konfyans tande frém sém li ka fè tout bagay 🙏🏻🙏🏻🙏🏻",
+          "createdAt": 1784506781628
+        },
+        {
+          "id": "60679855b07af822c14dd09619ecaedf9496cc54ed4a0e8d4d79298c7856bac0-1784506761173-encouragement",
+          "userDeviceId": "60679855b07af822c14dd09619ecaedf9496cc54ed4a0e8d4d79298c7856bac0",
+          "userName": "love",
+          "text": "fè bondye konfyans tande frém sém li ka fè tout bagay 🙏🏻🙏🏻🙏🏻",
+          "createdAt": 1784506761173
+        },
         {
           "id": "886c7d75d73ad20895d4014ab113d19afd2b40422d81b1b128330d8b5858d902-1784457750496-encouragement",
           "userDeviceId": "886c7d75d73ad20895d4014ab113d19afd2b40422d81b1b128330d8b5858d902",
@@ -684,7 +699,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784503988442,
+      "updatedAt": 1784506863381,
       "answeredAt": null,
       "testimony": null
     },
