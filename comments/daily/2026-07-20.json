@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "verseKey": "daily:2026-07-20",
-  "updatedAt": 1784557511314,
+  "updatedAt": 1784557757813,
   "version": 1,
   "comments": [
     {
@@ -12,12 +12,13 @@
       "verseName": "Nawoum 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "4e3637ece7085230f80470be92dabb12b406d15cb5605865e7f43d74d2a0e76f"
+        "4e3637ece7085230f80470be92dabb12b406d15cb5605865e7f43d74d2a0e76f",
+        "fc32fceeb6e7d3b6dd976d99ed0af554bb3f1cbf3e754dc8c03a47a425fd28f5"
       ],
       "createdAt": 1784551452250,
-      "updatedAt": 1784554627835,
+      "updatedAt": 1784557757813,
       "status": "active"
     },
     {
@@ -28,10 +29,12 @@
       "verseName": "Nawoum 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fc32fceeb6e7d3b6dd976d99ed0af554bb3f1cbf3e754dc8c03a47a425fd28f5"
+      ],
       "createdAt": 1784542866465,
-      "updatedAt": 1784542866465,
+      "updatedAt": 1784557757813,
       "status": "active"
     },
     {
@@ -86,10 +89,12 @@
       "verseName": "Nawoum 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fc32fceeb6e7d3b6dd976d99ed0af554bb3f1cbf3e754dc8c03a47a425fd28f5"
+      ],
       "createdAt": 1784537295799,
-      "updatedAt": 1784537295799,
+      "updatedAt": 1784557757813,
       "status": "active"
     },
     {
@@ -103,7 +108,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1784525046881,
-      "updatedAt": 1784525046881,
+      "updatedAt": 1784557757813,
       "status": "active"
     },
     {
@@ -114,10 +119,12 @@
       "verseName": "Nawoum 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fc32fceeb6e7d3b6dd976d99ed0af554bb3f1cbf3e754dc8c03a47a425fd28f5"
+      ],
       "createdAt": 1784524564496,
-      "updatedAt": 1784524564496,
+      "updatedAt": 1784557757813,
       "status": "active"
     },
     {
@@ -151,7 +158,7 @@
   ],
   "likeCount": 40,
   "shareCount": 137,
-  "viewCount": 11157,
+  "viewCount": 11195,
   "verseLikedBy": [
     "d7ea42152efdfb6be69fecd7bab34d789d976e4fa37a31ce746a1e7373d96316",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
