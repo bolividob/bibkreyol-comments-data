@@ -1,9 +1,23 @@
 {
   "date": "2026-07-20",
   "verseKey": "daily:2026-07-20",
-  "updatedAt": 1784562311238,
+  "updatedAt": 1784562814054,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784511542876",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Nawoum 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784562814053,
+      "updatedAt": 1784562814053,
+      "status": "active"
+    },
     {
       "id": "local-1784561357155",
       "text": "Amen",
@@ -185,8 +199,8 @@
     }
   ],
   "likeCount": 49,
-  "shareCount": 155,
-  "viewCount": 12205,
+  "shareCount": 160,
+  "viewCount": 12337,
   "verseLikedBy": [
     "d7ea42152efdfb6be69fecd7bab34d789d976e4fa37a31ce746a1e7373d96316",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
