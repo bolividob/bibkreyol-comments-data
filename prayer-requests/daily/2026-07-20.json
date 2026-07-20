@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": 1784506863381,
+  "updatedAt": 1784513826086,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 46,
@@ -246,7 +246,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 80,
+      "prayerCount": 81,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -327,9 +327,14 @@
         "0900d01f2d28324966b5386ccce38849ddca05cce9b9664a82efcb9d8b5a62c9",
         "ffce87ffe21d630f012e2cac943634e519abd4929e48f0c8a5abff96957fe7e4",
         "5b46f79f200498d336b35275a5885dded79b85ecb30f695cf537a4455f4312ae",
-        "60679855b07af822c14dd09619ecaedf9496cc54ed4a0e8d4d79298c7856bac0"
+        "60679855b07af822c14dd09619ecaedf9496cc54ed4a0e8d4d79298c7856bac0",
+        "474e1c80873a44d09c6db70cf561a016ac74fa81d91861449d09fdedb5e426d0"
       ],
       "prayingPreview": [
+        {
+          "userName": "prusond",
+          "prayedAt": 1784513759159
+        },
         {
           "userName": "love",
           "prayedAt": 1784506761173
@@ -405,10 +410,6 @@
         {
           "userName": "Sr.galanda",
           "prayedAt": 1784314378003
-        },
-        {
-          "userName": "joanés saint jean",
-          "prayedAt": 1784306300697
         }
       ],
       "encouragements": [
@@ -701,7 +702,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784506863381,
+      "updatedAt": 1784513826085,
       "answeredAt": null,
       "testimony": null
     },
