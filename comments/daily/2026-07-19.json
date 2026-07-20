@@ -1,9 +1,23 @@
 {
   "date": "2026-07-19",
   "verseKey": "daily:2026-07-19",
-  "updatedAt": 1784504072167,
+  "updatedAt": 1784524587523,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784504214716",
+      "text": "jezi m vle sanble al ou,lan langage lan comportement",
+      "userDeviceId": "238603bf6aab56601d6343c6819cc7b1a40b9ae899d14d00d0c4d68ea6026aa5",
+      "userName": "Elíseo el hijo de Dios",
+      "verseName": "Estè 8:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784524587523,
+      "updatedAt": 1784524587523,
+      "status": "active"
+    },
     {
       "id": "local-1784501214718",
       "text": "sanble jezi cedezi lemwn sel",
@@ -466,8 +480,8 @@
     }
   ],
   "likeCount": 69,
-  "shareCount": 159,
-  "viewCount": 22563,
+  "shareCount": 160,
+  "viewCount": 22832,
   "verseLikedBy": [
     "346bae8dfe968ecc88a916c25a7a3f37a9878f5cdd0b3a659837760218baf7c9",
     "1893fce4cfad8ae72b8a3138fb61241924a289592a283895bd812acd9d3b17ca",
