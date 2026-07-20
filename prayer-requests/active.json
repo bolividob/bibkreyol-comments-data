@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784550555410,
+  "updatedAt": 1784556063319,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,12 +14,17 @@
       "customExpectedSeason": null,
       "request": "edem priye  pou familia priye  deblozaj",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "c03f7e20c2a3d30079767e89f8ac01e0e41c382bd67403ea27d0a1f46cdde445",
-        "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a"
+        "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a",
+        "26f14b9308b53adff398f0afb49f2e017608b36d96e2105ce7658b8f0883e2a2"
       ],
       "prayingPreview": [
+        {
+          "userName": "Cassandra",
+          "prayedAt": 1784556027523
+        },
         {
           "userName": "bib frances",
           "prayedAt": 1784503545043
@@ -39,7 +44,7 @@
         }
       ],
       "submittedAt": 1784420913688,
-      "updatedAt": 1784503862657,
+      "updatedAt": 1784556062203,
       "answeredAt": null,
       "testimony": null
     },
