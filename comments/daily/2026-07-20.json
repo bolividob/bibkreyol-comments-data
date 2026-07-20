@@ -1,9 +1,23 @@
 {
   "date": "2026-07-20",
   "verseKey": "daily:2026-07-20",
-  "updatedAt": 1784537163407,
+  "updatedAt": 1784537295799,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784537083507",
+      "text": "Amen Amen Amen 🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Nawoum 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784537295799,
+      "updatedAt": 1784537295799,
+      "status": "active"
+    },
     {
       "id": "local-1784524927146",
       "text": "Amen amen amen mèsi Bondye lavia 💓💓💓💓💓💓",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 15,
+  "likeCount": 16,
   "shareCount": 57,
-  "viewCount": 6564,
+  "viewCount": 6577,
   "verseLikedBy": [
     "d7ea42152efdfb6be69fecd7bab34d789d976e4fa37a31ce746a1e7373d96316",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
@@ -79,7 +93,8 @@
     "a4bc8bebfed2deb366739633b0a4f297f30b39dcc4db6f4249c8ea60d73c6360",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
-    "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be"
+    "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56"
   ],
   "verseViewBy": []
 }
