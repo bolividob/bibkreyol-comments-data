@@ -1,9 +1,23 @@
 {
   "date": "2026-07-20",
   "verseKey": "daily:2026-07-20",
-  "updatedAt": 1784582405978,
+  "updatedAt": 1784582534291,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784542850314",
+      "text": "mèsi  pou bel pawol Bondye a nou tradwi an kreyòl",
+      "userDeviceId": "63367b045e6a9abf2af4f0a2883b3be14cc9c365fdd56ffeaeb8a857004f4390",
+      "userName": "james",
+      "verseName": "Nawoum 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784582534291,
+      "updatedAt": 1784582534291,
+      "status": "active"
+    },
     {
       "id": "local-1784572322254",
       "text": "mèsi pou bib sa",
@@ -214,7 +228,7 @@
   ],
   "likeCount": 71,
   "shareCount": 193,
-  "viewCount": 16151,
+  "viewCount": 16180,
   "verseLikedBy": [
     "d7ea42152efdfb6be69fecd7bab34d789d976e4fa37a31ce746a1e7373d96316",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
