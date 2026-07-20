@@ -1,9 +1,23 @@
 {
   "date": "2026-07-20",
   "verseKey": "daily:2026-07-20",
-  "updatedAt": 1784524392965,
+  "updatedAt": 1784524564496,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784524476724",
+      "text": "amén 🔥",
+      "userDeviceId": "a4bc8bebfed2deb366739633b0a4f297f30b39dcc4db6f4249c8ea60d73c6360",
+      "userName": "amén",
+      "verseName": "Nawoum 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784524564496,
+      "updatedAt": 1784524564496,
+      "status": "active"
+    },
     {
       "id": "local-1784513434632",
       "text": "Benie soit L'eternel mon Rocher",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
+  "likeCount": 12,
   "shareCount": 39,
-  "viewCount": 5559,
+  "viewCount": 5580,
   "verseLikedBy": [
     "d7ea42152efdfb6be69fecd7bab34d789d976e4fa37a31ce746a1e7373d96316",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
@@ -47,7 +61,8 @@
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
     "1acc9c707e0a900aecb3b16addb959064ca131d44927cb9e00d70468a7ab357d",
     "fbe22f2d89c38e8ae71c9efddae0f1aa8facce165aa14982786eff0087681f82",
-    "83b6127db95313da007f252c1f0ecfe5da606b2f3422ca1e6516bc6298353590"
+    "83b6127db95313da007f252c1f0ecfe5da606b2f3422ca1e6516bc6298353590",
+    "a4bc8bebfed2deb366739633b0a4f297f30b39dcc4db6f4249c8ea60d73c6360"
   ],
   "verseViewBy": []
 }
