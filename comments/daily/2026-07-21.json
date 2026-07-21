@@ -1,9 +1,37 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784662990800,
+  "updatedAt": 1784663106144,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784663047128",
+      "text": "saludos",
+      "userDeviceId": "4173c146fc004a5364ff0e082cd0b40eb531c563a9d384071037b39534293bf2",
+      "userName": "bible creol",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784663106144,
+      "updatedAt": 1784663106144,
+      "status": "active"
+    },
+    {
+      "id": "local-1784663060335",
+      "text": "Bonswa a",
+      "userDeviceId": "4173c146fc004a5364ff0e082cd0b40eb531c563a9d384071037b39534293bf2",
+      "userName": "bible creol",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784663106144,
+      "updatedAt": 1784663106144,
+      "status": "active"
+    },
     {
       "id": "local-1784655403175",
       "text": "bondye béni w",
@@ -419,7 +447,7 @@
   ],
   "likeCount": 105,
   "shareCount": 165,
-  "viewCount": 14417,
+  "viewCount": 14438,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
