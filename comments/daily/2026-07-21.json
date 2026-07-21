@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784626639865,
+  "updatedAt": 1784626758511,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784626679592",
+      "text": "amén mèsi jezi pou lavi ou ban mwen",
+      "userDeviceId": "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
+      "userName": "joazardrosetania",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784626758511,
+      "updatedAt": 1784626758511,
+      "status": "active"
+    },
     {
       "id": "local-1784623180497",
       "text": "amen",
@@ -189,9 +203,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 48,
+  "likeCount": 49,
   "shareCount": 56,
-  "viewCount": 5930,
+  "viewCount": 5955,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -240,7 +254,8 @@
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
     "dd899614c8bff151505520b799bd5fc785bd99c85a9b12cfc370035d90f81c9e",
     "6a78d9f589bd0714886b8b22daf0aac1d8646540dc9da49de55e2a6dc1e80199",
-    "73ec2a1b0ecb707d96fb1e12c9b7cbd505b9e9697883a5beb27df1189835a8a5"
+    "73ec2a1b0ecb707d96fb1e12c9b7cbd505b9e9697883a5beb27df1189835a8a5",
+    "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405"
   ],
   "verseViewBy": []
 }
