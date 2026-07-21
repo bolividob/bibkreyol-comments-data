@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784655375004,
+  "updatedAt": 1784655486168,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784655403175",
+      "text": "bondye béni w",
+      "userDeviceId": "cdb7e695452eccee8f4bd6b3f6ac99f920ab1c1e9998f320296443f44c11646f",
+      "userName": "christ.roi augusti",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784655486168,
+      "updatedAt": 1784655486168,
+      "status": "active"
+    },
     {
       "id": "local-1784650901232",
       "text": "Dexter max",
@@ -401,8 +415,8 @@
     }
   ],
   "likeCount": 98,
-  "shareCount": 149,
-  "viewCount": 13099,
+  "shareCount": 150,
+  "viewCount": 13121,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
