@@ -1,9 +1,25 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784632271749,
+  "updatedAt": 1784632450241,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784632314770",
+      "text": "amèn amèn",
+      "userDeviceId": "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f",
+      "userName": "lovely",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
+      "createdAt": 1784632450241,
+      "updatedAt": 1784632450241,
+      "status": "active"
+    },
     {
       "id": "local-1784631780587",
       "text": "Amen",
@@ -12,10 +28,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784631799207,
-      "updatedAt": 1784631799207,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -26,10 +44,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784627105466,
-      "updatedAt": 1784627105466,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -40,10 +60,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784626758511,
-      "updatedAt": 1784626758511,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -54,10 +76,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784623263095,
-      "updatedAt": 1784623263095,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -68,10 +92,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784613544653,
-      "updatedAt": 1784613544653,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -82,10 +108,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784609710485,
-      "updatedAt": 1784609710485,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -96,10 +124,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784608869216,
-      "updatedAt": 1784608869216,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -138,12 +168,13 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "1dd4328a30e87494a546ed1f44b031911a8fc612e24b722653764b97c9447ef1"
+        "1dd4328a30e87494a546ed1f44b031911a8fc612e24b722653764b97c9447ef1",
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
       ],
       "createdAt": 1784608146429,
-      "updatedAt": 1784610552846,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -154,10 +185,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784603908634,
-      "updatedAt": 1784608146429,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -168,10 +201,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784601502320,
-      "updatedAt": 1784601502320,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -196,10 +231,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784600470637,
-      "updatedAt": 1784600470637,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -210,10 +247,12 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784598372935,
-      "updatedAt": 1784598372935,
+      "updatedAt": 1784632450241,
       "status": "active"
     },
     {
@@ -224,16 +263,18 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+      ],
       "createdAt": 1784593532229,
-      "updatedAt": 1784593532229,
+      "updatedAt": 1784632450241,
       "status": "active"
     }
   ],
   "likeCount": 59,
   "shareCount": 84,
-  "viewCount": 7395,
+  "viewCount": 7437,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
