@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": 1784660830495,
+  "updatedAt": 1784661183355,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -324,7 +324,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 89,
+      "prayerCount": 90,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -414,9 +414,14 @@
         "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4",
         "9cca3bba2503e46160fc0a281be479d315797de5d072d4bb74e8a1967c029189",
         "43e0e7aa30cc3ab247eebd529f98a66778ca0ae1496e9d42f68a54ffa9ba0125",
-        "9119642d756d72c7ca1825e8ab66d826d6cd69c91c90fc32fd72129fe868e6e2"
+        "9119642d756d72c7ca1825e8ab66d826d6cd69c91c90fc32fd72129fe868e6e2",
+        "962c37ab395c6c016ae194d11db76a02b4c77c9ad3c4a7a2eb11e985f89666a3"
       ],
       "prayingPreview": [
+        {
+          "userName": "robenson",
+          "prayedAt": 1784661160205
+        },
         {
           "userName": "beaubrun billy",
           "prayedAt": 1784660777746
@@ -492,10 +497,6 @@
         {
           "userName": "OKE CHEYI MOISE",
           "prayedAt": 1784417666816
-        },
-        {
-          "userName": "sr Lorna valcena",
-          "prayedAt": 1784417597243
         }
       ],
       "encouragements": [
@@ -851,7 +852,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784660830494,
+      "updatedAt": 1784661183355,
       "answeredAt": null,
       "testimony": null
     },
