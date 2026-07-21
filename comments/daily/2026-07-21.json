@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784660948698,
+  "updatedAt": 1784661064671,
   "version": 1,
   "comments": [
     {
@@ -407,18 +407,19 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f"
+        "13ec7cf6e7badbfcaf8c431c09a911119bce1987f3e8154f362b7984f174a65f",
+        "1a38c4898d7f21bd53ee25d44221120069a5bbd62f0ce18cc429e5bc0d1a3fb4"
       ],
       "createdAt": 1784593532229,
-      "updatedAt": 1784632450241,
+      "updatedAt": 1784661064671,
       "status": "active"
     }
   ],
   "likeCount": 103,
-  "shareCount": 161,
-  "viewCount": 14074,
+  "shareCount": 162,
+  "viewCount": 14095,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
