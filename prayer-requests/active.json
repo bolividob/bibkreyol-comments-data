@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784634903662,
+  "updatedAt": 1784635393062,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -303,7 +303,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 85,
+      "prayerCount": 86,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -389,9 +389,14 @@
         "f9d4af3d9c2008265139b80d7e89c4fb021ffce67a34259fdb52d496d50982c2",
         "c7788b1a1637842bd386b4e3a9701f034984675ccbbf7f9b23a38fc035cdd627",
         "4fe53974f90943546da04b459faed147c7ffc3a3084c2c75ebea96bfadaa8cd5",
-        "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025"
+        "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
+        "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4"
       ],
       "prayingPreview": [
+        {
+          "userName": "Youdeline",
+          "prayedAt": 1784635261433
+        },
         {
           "userName": "Andler",
           "prayedAt": 1784622581219
@@ -467,13 +472,23 @@
         {
           "userName": "Alcide Veniel",
           "prayedAt": 1784358829600
-        },
-        {
-          "userName": "Sadeline",
-          "prayedAt": 1784345825772
         }
       ],
       "encouragements": [
+        {
+          "id": "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4-1784635322293-encouragement",
+          "userDeviceId": "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4",
+          "userName": "Youdeline",
+          "text": "edew mwn jezi",
+          "createdAt": 1784635322293
+        },
+        {
+          "id": "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4-1784635261433-encouragement",
+          "userDeviceId": "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4",
+          "userName": "Youdeline",
+          "text": "jezi mwn renmn anpil",
+          "createdAt": 1784635261433
+        },
         {
           "id": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025-1784622774459-encouragement",
           "userDeviceId": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
@@ -791,7 +806,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784622792888,
+      "updatedAt": 1784635390510,
       "answeredAt": null,
       "testimony": null
     },
