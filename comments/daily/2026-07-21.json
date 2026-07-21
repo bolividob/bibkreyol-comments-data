@@ -1,9 +1,37 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784608034488,
+  "updatedAt": 1784608146429,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784608069035",
+      "text": "amèn Roseline BonDieu beniw aussi",
+      "userDeviceId": "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
+      "userName": "Raymondeline Riché🙏",
+      "verseName": "Jeremi 6:1",
+      "parentId": "local-1784602994981",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784608146429,
+      "updatedAt": 1784608146429,
+      "status": "active"
+    },
+    {
+      "id": "local-1784608131265",
+      "text": "BonDieu Map sèvi ah béniw mw se sr Raymondeline BonDieu avèw 🙏",
+      "userDeviceId": "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
+      "userName": "Raymondeline Riché🙏",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784608146429,
+      "updatedAt": 1784608146429,
+      "status": "active"
+    },
     {
       "id": "local-1784602994981",
       "text": "BonDye beni nou amén",
@@ -11,11 +39,11 @@
       "userName": "Roseline",
       "verseName": "Jeremi 6:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1784603908634,
-      "updatedAt": 1784603908634,
+      "updatedAt": 1784608146429,
       "status": "active"
     },
     {
@@ -89,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 25,
+  "likeCount": 27,
   "shareCount": 24,
-  "viewCount": 3762,
+  "viewCount": 3795,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -117,7 +145,9 @@
     "23ada935ed51383f0adc02e6d447495256b60417c26b7022893648fe0676bc15",
     "1f5983d8c427be49543f7d735670d14ae261d0289280613fcb72baead3320500",
     "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591",
-    "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2"
+    "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
+    "4bcf559a3fccfa4f7f0e6bf296f2305133b1ebead93f42690efa868794b7620a",
+    "e7d35daf307f922828842123356bca7a1d1a73c3ee618f52ce1a00be495ca9d6"
   ],
   "verseViewBy": []
 }
