@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784649676345,
+  "updatedAt": 1784649984787,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784649912588",
+      "text": "mesi frèm mw kontan PAMI nou🙏🙏🙏🙏",
+      "userDeviceId": "d20468aaa8b97dcdc2a555a72ac6c963648d1cd2d62811aad05790d595606e9c",
+      "userName": "chouna Taylor",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784649984787,
+      "updatedAt": 1784649984787,
+      "status": "active"
+    },
     {
       "id": "local-1784642913365",
       "text": "amen 🙏🙏🙏",
@@ -370,9 +384,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
-  "shareCount": 140,
-  "viewCount": 11826,
+  "likeCount": 95,
+  "shareCount": 142,
+  "viewCount": 11937,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -466,7 +480,9 @@
     "c295f091f3e91338f6456e4cd704fa8406099b9f5265d95a7d97e0e00e03a9a6",
     "cb5b4575372746c78beebe761a9a29194b3c573dafc05d92d7eb28a4fc00cc0b",
     "d635e5a72a40b516d27b17f5bfe06998944b4ba25f0809d6e7f53dda155029c0",
-    "96865c8d9574a5ae93c2b525ad7f5943144540d2d2f655b64c7c3fa70e333923"
+    "96865c8d9574a5ae93c2b525ad7f5943144540d2d2f655b64c7c3fa70e333923",
+    "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
+    "d20468aaa8b97dcdc2a555a72ac6c963648d1cd2d62811aad05790d595606e9c"
   ],
   "verseViewBy": []
 }
