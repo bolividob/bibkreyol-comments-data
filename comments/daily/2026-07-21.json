@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784598196405,
+  "updatedAt": 1784598372935,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784598324839",
+      "text": "amen",
+      "userDeviceId": "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
+      "userName": "Célian clemene",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784598372935,
+      "updatedAt": 1784598372935,
+      "status": "active"
+    },
     {
       "id": "local-1784593359464",
       "text": "amém",
@@ -19,9 +33,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 12,
-  "viewCount": 1612,
+  "viewCount": 1691,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -29,7 +43,8 @@
     "fd76509345741c9d3ca6d2850a7e00fa343b2a9718ede3335020537f44cbc8ff",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "51773db87486598fa2c2f41251f76921d4b0c10fe24debe09a985a6a7afa8f21",
-    "dd2d2eeeb6cc372ec3aa0cf84b4ad5b95e39321c6f566bb1dc68e4764ff59d3f"
+    "dd2d2eeeb6cc372ec3aa0cf84b4ad5b95e39321c6f566bb1dc68e4764ff59d3f",
+    "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a"
   ],
   "verseViewBy": []
 }
