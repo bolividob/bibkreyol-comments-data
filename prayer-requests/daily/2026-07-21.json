@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": 1784608623369,
+  "updatedAt": 1784622662267,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -293,7 +293,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 84,
+      "prayerCount": 85,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -378,9 +378,14 @@
         "474e1c80873a44d09c6db70cf561a016ac74fa81d91861449d09fdedb5e426d0",
         "f9d4af3d9c2008265139b80d7e89c4fb021ffce67a34259fdb52d496d50982c2",
         "c7788b1a1637842bd386b4e3a9701f034984675ccbbf7f9b23a38fc035cdd627",
-        "4fe53974f90943546da04b459faed147c7ffc3a3084c2c75ebea96bfadaa8cd5"
+        "4fe53974f90943546da04b459faed147c7ffc3a3084c2c75ebea96bfadaa8cd5",
+        "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025"
       ],
       "prayingPreview": [
+        {
+          "userName": "Andler",
+          "prayedAt": 1784622581219
+        },
         {
           "userName": "edem priye",
           "prayedAt": 1784588800924
@@ -456,13 +461,23 @@
         {
           "userName": "Sadeline",
           "prayedAt": 1784345825772
-        },
-        {
-          "userName": "sr Yesica",
-          "prayedAt": 1784344720470
         }
       ],
       "encouragements": [
+        {
+          "id": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025-1784622633608-encouragement",
+          "userDeviceId": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
+          "userName": "Andler",
+          "text": "edem priye pou fanmi m",
+          "createdAt": 1784622633608
+        },
+        {
+          "id": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025-1784622581219-encouragement",
+          "userDeviceId": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
+          "userName": "Andler",
+          "text": "priyè deblokaj",
+          "createdAt": 1784622581219
+        },
         {
           "id": "c7788b1a1637842bd386b4e3a9701f034984675ccbbf7f9b23a38fc035cdd627-1784547564913-encouragement",
           "userDeviceId": "c7788b1a1637842bd386b4e3a9701f034984675ccbbf7f9b23a38fc035cdd627",
@@ -759,7 +774,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784588832204,
+      "updatedAt": 1784622662267,
       "answeredAt": null,
       "testimony": null
     },
