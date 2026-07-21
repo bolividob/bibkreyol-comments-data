@@ -1,9 +1,25 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784650820959,
+  "updatedAt": 1784650988056,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784650901232",
+      "text": "Dexter max",
+      "userDeviceId": "16f0f1c71812fb7589fde5c76874691199e2dc8725a3b3e72544a44c1733801a",
+      "userName": "Dexter max",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "16f0f1c71812fb7589fde5c76874691199e2dc8725a3b3e72544a44c1733801a"
+      ],
+      "createdAt": 1784650988056,
+      "updatedAt": 1784650988056,
+      "status": "active"
+    },
     {
       "id": "local-1784649912588",
       "text": "mesi frèm mw kontan PAMI nou🙏🙏🙏🙏",
@@ -386,7 +402,7 @@
   ],
   "likeCount": 96,
   "shareCount": 144,
-  "viewCount": 12100,
+  "viewCount": 12148,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
