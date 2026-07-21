@@ -1,14 +1,30 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784593101466,
+  "updatedAt": 1784593532229,
   "version": 1,
-  "comments": [],
-  "likeCount": 1,
-  "shareCount": 0,
-  "viewCount": 144,
+  "comments": [
+    {
+      "id": "local-1784593359464",
+      "text": "amém",
+      "userDeviceId": "d60ae3a76de7ee7645261efd6004a8481a789e42cd58d3aa67b3b08011a1fb01",
+      "userName": "Sr meyou",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784593532229,
+      "updatedAt": 1784593532229,
+      "status": "active"
+    }
+  ],
+  "likeCount": 2,
+  "shareCount": 3,
+  "viewCount": 318,
   "verseLikedBy": [
-    "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572"
+    "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
+    "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b"
   ],
   "verseViewBy": []
 }
