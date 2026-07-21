@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784600291769,
+  "updatedAt": 1784600470637,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784600448315",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "19f2074989a96f5a04418fc3a8258cd77d55800e643cb310cf1a241ab2c30b66",
+      "userName": "sè Ravix",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784600470637,
+      "updatedAt": 1784600470637,
+      "status": "active"
+    },
     {
       "id": "local-1784598324839",
       "text": "amen",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 13,
-  "viewCount": 1882,
+  "likeCount": 10,
+  "shareCount": 14,
+  "viewCount": 1958,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -45,7 +59,8 @@
     "51773db87486598fa2c2f41251f76921d4b0c10fe24debe09a985a6a7afa8f21",
     "dd2d2eeeb6cc372ec3aa0cf84b4ad5b95e39321c6f566bb1dc68e4764ff59d3f",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
-    "3cdac8e6a1ef2acf132dd7a47e85e77f5e3971d427adfac23d1ab4daf3b893a1"
+    "3cdac8e6a1ef2acf132dd7a47e85e77f5e3971d427adfac23d1ab4daf3b893a1",
+    "c63a1dfde38d432338165f23f4634938a70ff334d5e31e85d931d7fe5fe7cdb1"
   ],
   "verseViewBy": []
 }
