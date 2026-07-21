@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784677280698,
+  "updatedAt": 1784677706713,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784677668869",
+      "text": "👌🙌🤝🫵",
+      "userDeviceId": "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
+      "userName": "Jocelyn Lindor",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784677706713,
+      "updatedAt": 1784677706713,
+      "status": "active"
+    },
     {
       "id": "local-1784677052461",
       "text": "mwen dakò e ou",
@@ -592,9 +606,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 128,
-  "shareCount": 192,
-  "viewCount": 18072,
+  "likeCount": 129,
+  "shareCount": 193,
+  "viewCount": 18277,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -723,7 +737,8 @@
     "dbd5c106bacac5b0ccb3cfcebda8184a94acce28d11309c2dd9758ec36b9e027",
     "5ec500182b9245e5167ae9cb5e0c33e13b3d583c2b9e96bb283e5d5c2e92e11d",
     "e6bb1a991e2878c25fbff597ab36b20927df421ae5595392bd554da37262fc68",
-    "10eb18c79b9fccad60f8abb9e00b41d09a04ccb733b43aa42e23a6c748651391"
+    "10eb18c79b9fccad60f8abb9e00b41d09a04ccb733b43aa42e23a6c748651391",
+    "dfdda789efc1b379b25f6208454be92ed5aeb0fc1ee3ae58578f0bf6336dbcf0"
   ],
   "verseViewBy": []
 }
