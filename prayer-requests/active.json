@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784635393062,
+  "updatedAt": 1784643553389,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -303,7 +303,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 86,
+      "prayerCount": 87,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -390,9 +390,14 @@
         "c7788b1a1637842bd386b4e3a9701f034984675ccbbf7f9b23a38fc035cdd627",
         "4fe53974f90943546da04b459faed147c7ffc3a3084c2c75ebea96bfadaa8cd5",
         "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
-        "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4"
+        "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4",
+        "9cca3bba2503e46160fc0a281be479d315797de5d072d4bb74e8a1967c029189"
       ],
       "prayingPreview": [
+        {
+          "userName": "Sheeka",
+          "prayedAt": 1784643496548
+        },
         {
           "userName": "Youdeline",
           "prayedAt": 1784635261433
@@ -468,13 +473,16 @@
         {
           "userName": "priye",
           "prayedAt": 1784392951923
-        },
-        {
-          "userName": "Alcide Veniel",
-          "prayedAt": 1784358829600
         }
       ],
       "encouragements": [
+        {
+          "id": "9cca3bba2503e46160fc0a281be479d315797de5d072d4bb74e8a1967c029189-1784643496548-encouragement",
+          "userDeviceId": "9cca3bba2503e46160fc0a281be479d315797de5d072d4bb74e8a1967c029189",
+          "userName": "Sheeka",
+          "text": "Bonjour !\nmwen se sr DENOIT SHEENIKA,svp edem priye pou Bondye kase kod la pou fanmi mwen,e poul fem toujou rete nan pyel,ke Bondye béni Nou.",
+          "createdAt": 1784643496548
+        },
         {
           "id": "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4-1784635322293-encouragement",
           "userDeviceId": "d0c68ab85454d6bc1d74a20de0e0365dda28de34f870adafd4f5d0ea4b55d1e4",
@@ -806,7 +814,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784635390510,
+      "updatedAt": 1784643550795,
       "answeredAt": null,
       "testimony": null
     },
