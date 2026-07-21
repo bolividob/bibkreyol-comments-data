@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": 1784601182066,
+  "updatedAt": 1784608623369,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -36,14 +36,19 @@
       "customExpectedSeason": null,
       "request": "edem priye  pou familia priye  deblozaj",
       "status": "praying",
-      "prayerCount": 4,
+      "prayerCount": 5,
       "prayedBy": [
         "c03f7e20c2a3d30079767e89f8ac01e0e41c382bd67403ea27d0a1f46cdde445",
         "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a",
         "26f14b9308b53adff398f0afb49f2e017608b36d96e2105ce7658b8f0883e2a2",
-        "5a32df05967d960c79e9f0d98c86e8fb019a2d11d261e21a93f54fb5cd287c7d"
+        "5a32df05967d960c79e9f0d98c86e8fb019a2d11d261e21a93f54fb5cd287c7d",
+        "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0"
       ],
       "prayingPreview": [
+        {
+          "userName": "merilus anthiana",
+          "prayedAt": 1784608573270
+        },
         {
           "userName": "Fr Lubin Jn Baptiste",
           "prayedAt": 1784572964953
@@ -63,6 +68,13 @@
       ],
       "encouragements": [
         {
+          "id": "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0-1784608573270-encouragement",
+          "userDeviceId": "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0",
+          "userName": "merilus anthiana",
+          "text": "edem poum gon vi de priyè estan",
+          "createdAt": 1784608573270
+        },
+        {
           "id": "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a-1784503585822-encouragement",
           "userDeviceId": "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a",
           "userName": "bib frances",
@@ -71,7 +83,7 @@
         }
       ],
       "submittedAt": 1784420913688,
-      "updatedAt": 1784573224887,
+      "updatedAt": 1784608623369,
       "answeredAt": null,
       "testimony": null
     },
