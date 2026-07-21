@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": 1784596503179,
+  "updatedAt": 1784600942549,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -202,16 +202,21 @@
       "customExpectedSeason": null,
       "request": "prospérité,gerizon",
       "status": "praying",
-      "prayerCount": 6,
+      "prayerCount": 7,
       "prayedBy": [
         "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
         "c64eded9d675ee7ee6b05c18b5a86a3f63278621f3b286a7dd0538663e0576b1",
         "295dc83e682ea8899b4541a9a0af26238dc9347a7776eda5b3ac2ffa1f769b76",
         "696b41ad14c53b5fdcd4630dd4f8ad6a8115bc8b6a803878a071bcefade3d7e9",
         "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
-        "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a"
+        "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a",
+        "5462b5db7f6ef7a676602875004b0df9b3b4a3626c70ec75193218138f0d1b0d"
       ],
       "prayingPreview": [
+        {
+          "userName": "resal",
+          "prayedAt": 1784600871271
+        },
         {
           "userName": "Masoo",
           "prayedAt": 1784436763454
@@ -261,7 +266,7 @@
         }
       ],
       "submittedAt": 1783987755628,
-      "updatedAt": 1784436789394,
+      "updatedAt": 1784600942549,
       "answeredAt": null,
       "testimony": null
     },
