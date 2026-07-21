@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784608627228,
+  "updatedAt": 1784608869216,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784608631982",
+      "text": "Bondye beni nou",
+      "userDeviceId": "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0",
+      "userName": "merilus anthiana",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784608869216,
+      "updatedAt": 1784608869216,
+      "status": "active"
+    },
     {
       "id": "local-1784608158567",
       "text": "God is good",
@@ -133,7 +147,7 @@
   ],
   "likeCount": 28,
   "shareCount": 28,
-  "viewCount": 3913,
+  "viewCount": 3970,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
