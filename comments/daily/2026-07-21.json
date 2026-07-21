@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784623144306,
+  "updatedAt": 1784623263095,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784623180497",
+      "text": "amen",
+      "userDeviceId": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
+      "userName": "Andler",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784623263095,
+      "updatedAt": 1784623263095,
+      "status": "active"
+    },
     {
       "id": "local-1784613494290",
       "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -177,7 +191,7 @@
   ],
   "likeCount": 44,
   "shareCount": 47,
-  "viewCount": 5414,
+  "viewCount": 5426,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
