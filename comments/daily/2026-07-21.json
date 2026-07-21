@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784670788336,
+  "updatedAt": 1784670909308,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784670849090",
+      "text": "Amém 🙏🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784670909308,
+      "updatedAt": 1784670909308,
+      "status": "active"
+    },
     {
       "id": "local-1784670597982",
       "text": "kreyòl",
@@ -473,9 +487,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 115,
+  "likeCount": 116,
   "shareCount": 182,
-  "viewCount": 16038,
+  "viewCount": 16078,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -591,7 +605,8 @@
     "6fc6b9819d7127845ff37a53f508ace8e38073d57860837ba67f1f4c1be25712",
     "7c18122e78571207eb25b87309e69be7e6b650f747565eff2b7665baa4f12e94",
     "fc2ed30f42b7613686f803a2fc5fc3af5225bf1ea2c480485b750d558f6c5221",
-    "82883d40dbbf37ab9884f27a2d8d9be458f1f8a493f66847d812323b07e3f413"
+    "82883d40dbbf37ab9884f27a2d8d9be458f1f8a493f66847d812323b07e3f413",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
   ],
   "verseViewBy": []
 }
