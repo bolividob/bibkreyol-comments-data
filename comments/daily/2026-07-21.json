@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784601203084,
+  "updatedAt": 1784601502321,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784601293045",
+      "text": "Gloire a Dieu",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784601502320,
+      "updatedAt": 1784601502320,
+      "status": "active"
+    },
     {
       "id": "local-1784600927131",
       "text": "BonDye beni nou mwen se frè Alan",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
+  "likeCount": 13,
   "shareCount": 18,
-  "viewCount": 2336,
+  "viewCount": 2490,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -76,7 +90,8 @@
     "3cdac8e6a1ef2acf132dd7a47e85e77f5e3971d427adfac23d1ab4daf3b893a1",
     "c63a1dfde38d432338165f23f4634938a70ff334d5e31e85d931d7fe5fe7cdb1",
     "20ca4bb3518ba7a1395334f13c27088cfe111fe93f8b1bf8aec484081a4add9c",
-    "9a522c7cca240aed5dc7a51606276fec2bc6c1a9991deae361cd42947d0e819e"
+    "9a522c7cca240aed5dc7a51606276fec2bc6c1a9991deae361cd42947d0e819e",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
