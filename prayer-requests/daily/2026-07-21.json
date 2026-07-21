@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": 1784651462040,
+  "updatedAt": 1784652544476,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -183,14 +183,19 @@
       "customExpectedSeason": "Lè Bondye vle depi li di yon mo sèlman",
       "request": "Priyè gerizon epi pou mete fòs nan feblès mw,pou mw pa dekouraje nan kois lavi kretyèn lan",
       "status": "praying",
-      "prayerCount": 4,
+      "prayerCount": 5,
       "prayedBy": [
         "040456230e0d506259bd2876224701daff81f4e9a3f19c91c77874b64173a612",
         "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7",
         "775ee2105b5b6887dd502644eab177c5dd207749342ed0ce04b899ecf1483b09",
-        "c0f1eda0a5a2e0e9f264a578c1edd50096345ef3da3815168b85d0a3b838afe9"
+        "c0f1eda0a5a2e0e9f264a578c1edd50096345ef3da3815168b85d0a3b838afe9",
+        "da3d5683ebae9d97bc266771599b7f20719a6cab3a12abe94e86f225d6216ffd"
       ],
       "prayingPreview": [
+        {
+          "userName": "Fradeline Cius priyè pou  gerizon",
+          "prayedAt": 1784652442510
+        },
         {
           "userName": "Fr. Jacklin",
           "prayedAt": 1784375464536
@@ -210,6 +215,13 @@
       ],
       "encouragements": [
         {
+          "id": "da3d5683ebae9d97bc266771599b7f20719a6cab3a12abe94e86f225d6216ffd-1784652476747-encouragement",
+          "userDeviceId": "da3d5683ebae9d97bc266771599b7f20719a6cab3a12abe94e86f225d6216ffd",
+          "userName": "Fradeline Cius priyè pou  gerizon",
+          "text": "som 91",
+          "createdAt": 1784652476747
+        },
+        {
           "id": "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7-1784295531618-encouragement",
           "userDeviceId": "8bed85ebb0cd34a1805d84c5787ba1f15d13f1b22f552cf9a44ebfd460f1c6a7",
           "userName": "Romere Milien",
@@ -218,7 +230,7 @@
         }
       ],
       "submittedAt": 1784161532612,
-      "updatedAt": 1784375582010,
+      "updatedAt": 1784652544476,
       "answeredAt": null,
       "testimony": null
     },
