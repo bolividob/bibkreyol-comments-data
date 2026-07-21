@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784609344305,
+  "updatedAt": 1784609710485,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784606510383",
+      "text": "Amén Amén Bndye beni nou mw sr Andrés GOERGES",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784609710485,
+      "updatedAt": 1784609710485,
+      "status": "active"
+    },
     {
       "id": "local-1784608631982",
       "text": "Bondye beni nou",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
+  "likeCount": 31,
   "shareCount": 28,
-  "viewCount": 4061,
+  "viewCount": 4125,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -178,7 +192,8 @@
     "e7d35daf307f922828842123356bca7a1d1a73c3ee618f52ce1a00be495ca9d6",
     "b255414741fb5d0949112f1075878350dd991e4695a6b5964faef5836bfcb157",
     "90d27316a8332cfd60bbd50b32f47407d301c607a0f4623384ba1291d2ee5a00",
-    "56c7f753f56602755ade390f756492fadda12eaa8714dfcb7f25f2801c64da5c"
+    "56c7f753f56602755ade390f756492fadda12eaa8714dfcb7f25f2801c64da5c",
+    "8472c9c9315d56529268f9b30f5605a7bde5016860f59280a9c002ce527cd848"
   ],
   "verseViewBy": []
 }
