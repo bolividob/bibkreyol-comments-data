@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784622663400,
+  "updatedAt": 1784622793940,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -463,6 +463,13 @@
       ],
       "encouragements": [
         {
+          "id": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025-1784622774459-encouragement",
+          "userDeviceId": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
+          "userName": "Andler",
+          "text": "edem priye pou m geri",
+          "createdAt": 1784622774459
+        },
+        {
           "id": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025-1784622633608-encouragement",
           "userDeviceId": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
           "userName": "Andler",
@@ -772,7 +779,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784622662267,
+      "updatedAt": 1784622792888,
       "answeredAt": null,
       "testimony": null
     },
