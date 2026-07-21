@@ -1,9 +1,23 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784670370392,
+  "updatedAt": 1784670550190,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784670362929",
+      "text": "bondye beniw",
+      "userDeviceId": "934f5b6994bcd17dc378fb52ff879e8158fb24d9ece27d8b1150e4f7889a0d9c",
+      "userName": "destin jumerline",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784670550190,
+      "updatedAt": 1784670550190,
+      "status": "active"
+    },
     {
       "id": "local-1784663047128",
       "text": "saludos",
@@ -447,7 +461,7 @@
   ],
   "likeCount": 114,
   "shareCount": 179,
-  "viewCount": 15928,
+  "viewCount": 15968,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
