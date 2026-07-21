@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": 1784633709541,
+  "updatedAt": 1784634797431,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -36,15 +36,20 @@
       "customExpectedSeason": null,
       "request": "edem priye  pou familia priye  deblozaj",
       "status": "praying",
-      "prayerCount": 5,
+      "prayerCount": 6,
       "prayedBy": [
         "c03f7e20c2a3d30079767e89f8ac01e0e41c382bd67403ea27d0a1f46cdde445",
         "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a",
         "26f14b9308b53adff398f0afb49f2e017608b36d96e2105ce7658b8f0883e2a2",
         "5a32df05967d960c79e9f0d98c86e8fb019a2d11d261e21a93f54fb5cd287c7d",
-        "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0"
+        "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0",
+        "912cd873e9b42692674893df7418dbe2e0bdb79ebe4fdc01a8ae0d23bfc4c210"
       ],
       "prayingPreview": [
+        {
+          "userName": "femme de Dieu",
+          "prayedAt": 1784634702544
+        },
         {
           "userName": "merilus anthiana",
           "prayedAt": 1784608573270
@@ -68,6 +73,13 @@
       ],
       "encouragements": [
         {
+          "id": "912cd873e9b42692674893df7418dbe2e0bdb79ebe4fdc01a8ae0d23bfc4c210-1784634702544-encouragement",
+          "userDeviceId": "912cd873e9b42692674893df7418dbe2e0bdb79ebe4fdc01a8ae0d23bfc4c210",
+          "userName": "femme de Dieu",
+          "text": "Pa gen priye Bondye papa nou pa tande \npaske zòrèy li pa trò di poul tande pitit li menm jan li te kanpe avèk pèp Izrayèl la se konsa li pral kanpe pou fanmiw avèk Fòs ponyèt li \nmwen ankouraje wi tou priye plus mnm si yap edew priye men fèl tou \nBondye ki gen tout pouvwa beniw",
+          "createdAt": 1784634702544
+        },
+        {
           "id": "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0-1784608573270-encouragement",
           "userDeviceId": "4ab2c87eea945c1ac2ee9b26e146a976ec8ee859f51c7a5a9ce052c939c27ab0",
           "userName": "merilus anthiana",
@@ -83,7 +95,7 @@
         }
       ],
       "submittedAt": 1784420913688,
-      "updatedAt": 1784608623369,
+      "updatedAt": 1784634797430,
       "answeredAt": null,
       "testimony": null
     },
