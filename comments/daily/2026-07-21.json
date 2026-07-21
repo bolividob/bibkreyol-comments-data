@@ -1,9 +1,69 @@
 {
   "date": "2026-07-21",
   "verseKey": "daily:2026-07-21",
-  "updatedAt": 1784676974846,
+  "updatedAt": 1784677280698,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784677052461",
+      "text": "mwen dakò e ou",
+      "userDeviceId": "e1a2266a891fed6f81799d9a07f8010d92fcf02a83e3a07598bb97df81cbe53d",
+      "userName": "Marie Mica  valtrain",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784677280698,
+      "updatedAt": 1784677280698,
+      "status": "active"
+    },
+    {
+      "id": "local-1784677085905",
+      "text": "mwen dakò se o",
+      "userDeviceId": "e1a2266a891fed6f81799d9a07f8010d92fcf02a83e3a07598bb97df81cbe53d",
+      "userName": "Marie Mica  valtrain",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "e1a2266a891fed6f81799d9a07f8010d92fcf02a83e3a07598bb97df81cbe53d"
+      ],
+      "createdAt": 1784677280698,
+      "updatedAt": 1784677280698,
+      "status": "active"
+    },
+    {
+      "id": "local-1784677138019",
+      "text": "mwen dakò e ou  Mose belle",
+      "userDeviceId": "e1a2266a891fed6f81799d9a07f8010d92fcf02a83e3a07598bb97df81cbe53d",
+      "userName": "Marie Mica  valtrain",
+      "verseName": "Jeremi 6:1",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "e1a2266a891fed6f81799d9a07f8010d92fcf02a83e3a07598bb97df81cbe53d"
+      ],
+      "createdAt": 1784677280698,
+      "updatedAt": 1784677280698,
+      "status": "active"
+    },
+    {
+      "id": "local-1784677206177",
+      "text": "pou mwen mwen dakò",
+      "userDeviceId": "e1a2266a891fed6f81799d9a07f8010d92fcf02a83e3a07598bb97df81cbe53d",
+      "userName": "Marie Mica  valtrain",
+      "verseName": "Jeremi 6:1",
+      "parentId": "local-1784677138019",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784677280698,
+      "updatedAt": 1784677280698,
+      "status": "active"
+    },
     {
       "id": "local-1784676130763",
       "text": "Bondye beniw",
@@ -170,12 +230,13 @@
       "verseName": "Jeremi 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "137e3046ed809797d344970d4eaad0b7ee0e6c30fc86d547f71a1f84f97647e1"
+        "137e3046ed809797d344970d4eaad0b7ee0e6c30fc86d547f71a1f84f97647e1",
+        "d60ae3a76de7ee7645261efd6004a8481a789e42cd58d3aa67b3b08011a1fb01"
       ],
       "createdAt": 1784645950192,
-      "updatedAt": 1784659159375,
+      "updatedAt": 1784677280698,
       "status": "active"
     },
     {
@@ -531,9 +592,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
-  "shareCount": 191,
-  "viewCount": 17925,
+  "likeCount": 128,
+  "shareCount": 192,
+  "viewCount": 18072,
   "verseLikedBy": [
     "d83ef644f8774ed52a495f9242626eb8590fd2bbe8b3148f1f99b9df2fa4a572",
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
@@ -661,7 +722,8 @@
     "c7cedfbbd0ebc0b684ed77cb92151fe07e4ebf6680616c71f86dfcbb160e4688",
     "dbd5c106bacac5b0ccb3cfcebda8184a94acce28d11309c2dd9758ec36b9e027",
     "5ec500182b9245e5167ae9cb5e0c33e13b3d583c2b9e96bb283e5d5c2e92e11d",
-    "e6bb1a991e2878c25fbff597ab36b20927df421ae5595392bd554da37262fc68"
+    "e6bb1a991e2878c25fbff597ab36b20927df421ae5595392bd554da37262fc68",
+    "10eb18c79b9fccad60f8abb9e00b41d09a04ccb733b43aa42e23a6c748651391"
   ],
   "verseViewBy": []
 }
