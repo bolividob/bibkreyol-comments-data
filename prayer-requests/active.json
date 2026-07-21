@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784661789525,
+  "updatedAt": 1784674512272,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -322,7 +322,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 91,
+      "prayerCount": 92,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -414,9 +414,14 @@
         "43e0e7aa30cc3ab247eebd529f98a66778ca0ae1496e9d42f68a54ffa9ba0125",
         "9119642d756d72c7ca1825e8ab66d826d6cd69c91c90fc32fd72129fe868e6e2",
         "962c37ab395c6c016ae194d11db76a02b4c77c9ad3c4a7a2eb11e985f89666a3",
-        "3cc0a5455e347750838c07442b12dea98f361ccceb487fd4c36913ed78cf5e20"
+        "3cc0a5455e347750838c07442b12dea98f361ccceb487fd4c36913ed78cf5e20",
+        "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc"
       ],
       "prayingPreview": [
+        {
+          "userName": "christella",
+          "prayedAt": 1784674448267
+        },
         {
           "userName": "eell.llu'lllvlll",
           "prayedAt": 1784661722080
@@ -492,13 +497,23 @@
         {
           "userName": "Roselor",
           "prayedAt": 1784425139732
-        },
-        {
-          "userName": "jac 3vs5",
-          "prayedAt": 1784424791598
         }
       ],
       "encouragements": [
+        {
+          "id": "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc-1784674486020-encouragement",
+          "userDeviceId": "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc",
+          "userName": "christella",
+          "text": "senye bnm yon pitit ak yon travay",
+          "createdAt": 1784674486020
+        },
+        {
+          "id": "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc-1784674448267-encouragement",
+          "userDeviceId": "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc",
+          "userName": "christella",
+          "text": "se senyé bnm yon pitit ak yon travay",
+          "createdAt": 1784674448267
+        },
         {
           "id": "9119642d756d72c7ca1825e8ab66d826d6cd69c91c90fc32fd72129fe868e6e2-1784660777746-encouragement",
           "userDeviceId": "9119642d756d72c7ca1825e8ab66d826d6cd69c91c90fc32fd72129fe868e6e2",
@@ -851,7 +866,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784661787095,
+      "updatedAt": 1784674511274,
       "answeredAt": null,
       "testimony": null
     },
