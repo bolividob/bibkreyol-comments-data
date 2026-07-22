@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": 1784723586993,
+  "updatedAt": 1784728386480,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -346,7 +346,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 95,
+      "prayerCount": 96,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -442,9 +442,14 @@
         "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc",
         "1583f708f0d60bfa704907f7ad4e95533a4ec343c9e9e535ae00d2b6daca7b28",
         "b75274ba94a8594c71f8842591242116c3d798a54f345e9e91ba509a543372e1",
-        "94b96728b96229a889bb89104fab0f0a140c2afbcfe0351dfbf257c8b74aa0d8"
+        "94b96728b96229a889bb89104fab0f0a140c2afbcfe0351dfbf257c8b74aa0d8",
+        "9595357726525020b0616816a485705d08d4843b4e4d44851da598eda93bb20a"
       ],
       "prayingPreview": [
+        {
+          "userName": "weslyneAvrilien",
+          "prayedAt": 1784728329205
+        },
         {
           "userName": "Fr Avril Frantzlaire",
           "prayedAt": 1784722944330
@@ -520,13 +525,16 @@
         {
           "userName": "bib",
           "prayedAt": 1784492778503
-        },
-        {
-          "userName": "Bondye gran pou mwen",
-          "prayedAt": 1784470536768
         }
       ],
       "encouragements": [
+        {
+          "id": "9595357726525020b0616816a485705d08d4843b4e4d44851da598eda93bb20a-1784728329205-encouragement",
+          "userDeviceId": "9595357726525020b0616816a485705d08d4843b4e4d44851da598eda93bb20a",
+          "userName": "weslyneAvrilien",
+          "text": "weslÿe Avrilien :edem prye  pou marim  ki nan sendomég ki  ta renmen retounen nan pryil.",
+          "createdAt": 1784728329205
+        },
         {
           "id": "94b96728b96229a889bb89104fab0f0a140c2afbcfe0351dfbf257c8b74aa0d8-1784722944330-encouragement",
           "userDeviceId": "94b96728b96229a889bb89104fab0f0a140c2afbcfe0351dfbf257c8b74aa0d8",
@@ -914,7 +922,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784722984184,
+      "updatedAt": 1784728386480,
       "answeredAt": null,
       "testimony": null
     },
