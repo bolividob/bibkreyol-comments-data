@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784734146014,
+  "updatedAt": 1784737147263,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -1318,7 +1318,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 31,
+      "prayerCount": 32,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -1350,9 +1350,14 @@
         "c81b5c813c554bd414b5a5d1ee8f353ca18779f45052a488e0e857d428137763",
         "98958de3a3f04a6b7af933c9e73145ef4908f188d46ccdb1e61e73f3af862ab1",
         "825d1faa27e9d91328e8639dfe3b373ab44d85c6177113306f26c5fb7e29d981",
-        "40cc007919b80991a071f5b830683eb207b6b5df8754cc061b2a17542b8e6713"
+        "40cc007919b80991a071f5b830683eb207b6b5df8754cc061b2a17542b8e6713",
+        "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9"
       ],
       "prayingPreview": [
+        {
+          "userName": "Lens",
+          "prayedAt": 1784737084265
+        },
         {
           "userName": "Dada",
           "prayedAt": 1784633674990
@@ -1428,10 +1433,6 @@
         {
           "userName": "Josué",
           "prayedAt": 1783399105919
-        },
-        {
-          "userName": "Bensley SAINSURIN",
-          "prayedAt": 1783398758329
         }
       ],
       "encouragements": [
@@ -1563,7 +1564,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1784633709541,
+      "updatedAt": 1784737146037,
       "answeredAt": null,
       "testimony": null
     },
@@ -4593,12 +4594,19 @@
       "customExpectedSeason": null,
       "request": "map mande pou bondye banm plus dimension lakay li  mwen bezwen travay tou",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Lens",
+          "prayedAt": 1784737136825
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1781747738133,
-      "updatedAt": 1781749686821,
+      "updatedAt": 1784737146037,
       "answeredAt": null,
       "testimony": null
     },
