@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784712363046,
+  "updatedAt": 1784712610109,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784712464661",
+      "text": "Merci pour la grâce que tu m’accorde mon Dieu d’amour 🥰🧎🏾‍♀️🙏🏾",
+      "userDeviceId": "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
+      "userName": "Yveline",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784712610109,
+      "updatedAt": 1784712610109,
+      "status": "active"
+    },
     {
       "id": "local-1784694113009",
       "text": "amèn mwen santim beni nan vèsè sa mèsi Bondye pou vèsè sa 🙏",
@@ -287,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 39,
-  "shareCount": 53,
-  "viewCount": 5527,
+  "likeCount": 40,
+  "shareCount": 54,
+  "viewCount": 5568,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -329,7 +343,8 @@
     "f47c290d813e3f2a25aaab08da7f109b933e84f340e52057af4d8facfe580bf5",
     "7a68c1dfb49c355033db822173dab1d938e953eb1542b59c9c8704c40bfd6231",
     "e76ff764e414a8f64b021474919d6a327291635105ba74b91ee9507568e55197",
-    "407da673f49c1ade707a8a9f4d259bb3a06b64e30ca3151e5b718c2ccf5f24ea"
+    "407da673f49c1ade707a8a9f4d259bb3a06b64e30ca3151e5b718c2ccf5f24ea",
+    "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501"
   ],
   "verseViewBy": []
 }
