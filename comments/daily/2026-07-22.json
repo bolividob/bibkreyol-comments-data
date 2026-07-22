@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784699764043,
+  "updatedAt": 1784699883640,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784699819579",
+      "text": "amen 🙏",
+      "userDeviceId": "011b1f73ba9121fab7506d07ba8618a30ce579c94d40fe1fd712e01b4ad80246",
+      "userName": "Exon Telfort",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784699883640,
+      "updatedAt": 1784699883640,
+      "status": "active"
+    },
     {
       "id": "local-1784699349923",
       "text": "wilson",
@@ -231,9 +245,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 23,
+  "likeCount": 25,
   "shareCount": 33,
-  "viewCount": 4381,
+  "viewCount": 4390,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -257,7 +271,9 @@
     "7e5aae84bfe8a497ae62ebad37d66fc2a19ecd6b00159a354f9f431d5ce6d460",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
-    "42fdaa34b0f9c3010873dfbb7aa389c96fe8e4417fa6a8dcd79ab2e27fd8b04a"
+    "42fdaa34b0f9c3010873dfbb7aa389c96fe8e4417fa6a8dcd79ab2e27fd8b04a",
+    "011b1f73ba9121fab7506d07ba8618a30ce579c94d40fe1fd712e01b4ad80246",
+    "eb98ffff0cf01d7fa195aa8df3d521e114162fe36dc8031968dd4bdedefabd31"
   ],
   "verseViewBy": []
 }
