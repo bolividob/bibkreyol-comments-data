@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": 1784680024331,
+  "updatedAt": 1784680144529,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -509,6 +509,13 @@
       ],
       "encouragements": [
         {
+          "id": "1583f708f0d60bfa704907f7ad4e95533a4ec343c9e9e535ae00d2b6daca7b28-1784680104702-encouragement",
+          "userDeviceId": "1583f708f0d60bfa704907f7ad4e95533a4ec343c9e9e535ae00d2b6daca7b28",
+          "userName": "oril Jean luckenson",
+          "text": "an nou priye pou bondye nou",
+          "createdAt": 1784680104702
+        },
+        {
           "id": "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc-1784674486020-encouragement",
           "userDeviceId": "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc",
           "userName": "christella",
@@ -874,7 +881,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784680024331,
+      "updatedAt": 1784680144529,
       "answeredAt": null,
       "testimony": null
     },
