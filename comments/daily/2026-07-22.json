@@ -1,9 +1,37 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784713568899,
+  "updatedAt": 1784713692738,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784713589209",
+      "text": "Amén 🙏🙏🙏❤️",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784713692738,
+      "updatedAt": 1784713692738,
+      "status": "active"
+    },
+    {
+      "id": "local-1784713654304",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784713692738,
+      "updatedAt": 1784713692738,
+      "status": "active"
+    },
     {
       "id": "local-1784712464661",
       "text": "Merci pour la grâce que tu m’accorde mon Dieu d’amour 🥰🧎🏾‍♀️🙏🏾",
@@ -301,9 +329,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 42,
-  "shareCount": 57,
-  "viewCount": 5725,
+  "likeCount": 44,
+  "shareCount": 59,
+  "viewCount": 5748,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -346,7 +374,9 @@
     "407da673f49c1ade707a8a9f4d259bb3a06b64e30ca3151e5b718c2ccf5f24ea",
     "d9b68f1d9bccd91d80ad151b6c733b08510597f514712bc99ca6db832d8b5501",
     "a08a67d8e6c7ca32f9ed0e318d3f73b98257cf785fcf25daff27e38b51efdb8e",
-    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37"
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
   ],
   "verseViewBy": []
 }
