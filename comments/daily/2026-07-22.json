@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784762425741,
+  "updatedAt": 1784762591493,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784762528050",
+      "text": "amèn amèn",
+      "userDeviceId": "19db4d3710eb1ad008d3b5f538c2356ce83c3436a68473a3420f85bcff90cec1",
+      "userName": "pitit fi Bondye",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784762591493,
+      "updatedAt": 1784762591493,
+      "status": "active"
+    },
     {
       "id": "local-1784754662551",
       "text": "amèn",
@@ -531,7 +545,7 @@
   ],
   "likeCount": 139,
   "shareCount": 196,
-  "viewCount": 16868,
+  "viewCount": 16935,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
