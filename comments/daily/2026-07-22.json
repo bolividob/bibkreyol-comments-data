@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784697126115,
+  "updatedAt": 1784697244422,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784697224721",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784697244422,
+      "updatedAt": 1784697244422,
+      "status": "active"
+    },
     {
       "id": "local-1784694846420",
       "text": "amén amén y amén Papa, beni relasyon mwen an",
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 20,
-  "shareCount": 30,
-  "viewCount": 4116,
+  "likeCount": 21,
+  "shareCount": 31,
+  "viewCount": 4128,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -196,7 +210,8 @@
     "a98a5bdfc9d767d683064279716955fd13a79fc92dab9b4f539b4969034b99d6",
     "a8fe9d2b571ad66082248d94169ef0a4aab33bc6a5784cf6dec6b058ea42ecdd",
     "21a9d4a6f5c6eeeda7b79d123586ebf7e1206a37dc100a70cad3cd40b011a5aa",
-    "7e5aae84bfe8a497ae62ebad37d66fc2a19ecd6b00159a354f9f431d5ce6d460"
+    "7e5aae84bfe8a497ae62ebad37d66fc2a19ecd6b00159a354f9f431d5ce6d460",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2"
   ],
   "verseViewBy": []
 }
