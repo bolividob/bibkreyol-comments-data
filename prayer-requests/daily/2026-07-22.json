@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": 1784680144529,
+  "updatedAt": 1784691781989,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 47,
@@ -329,7 +329,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 93,
+      "prayerCount": 94,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -423,9 +423,14 @@
         "962c37ab395c6c016ae194d11db76a02b4c77c9ad3c4a7a2eb11e985f89666a3",
         "3cc0a5455e347750838c07442b12dea98f361ccceb487fd4c36913ed78cf5e20",
         "034e5ee2354d64265fbec4926cdf7fb72b4827bc9a1f53e8c1bbe7b220b87ccc",
-        "1583f708f0d60bfa704907f7ad4e95533a4ec343c9e9e535ae00d2b6daca7b28"
+        "1583f708f0d60bfa704907f7ad4e95533a4ec343c9e9e535ae00d2b6daca7b28",
+        "b75274ba94a8594c71f8842591242116c3d798a54f345e9e91ba509a543372e1"
       ],
       "prayingPreview": [
+        {
+          "userName": "PDG JP",
+          "prayedAt": 1784691738125
+        },
         {
           "userName": "oril Jean luckenson",
           "prayedAt": 1784680020264
@@ -501,13 +506,16 @@
         {
           "userName": "ezekyél",
           "prayedAt": 1784463926324
-        },
-        {
-          "userName": "fre eliny",
-          "prayedAt": 1784457750496
         }
       ],
       "encouragements": [
+        {
+          "id": "b75274ba94a8594c71f8842591242116c3d798a54f345e9e91ba509a543372e1-1784691738125-encouragement",
+          "userDeviceId": "b75274ba94a8594c71f8842591242116c3d798a54f345e9e91ba509a543372e1",
+          "userName": "PDG JP",
+          "text": "Papa ki nan syèl la, mwen vin devan ou nan non Jezi Kris. Mwen remèt chak grenn moun ki ap chache gerizon  nan men ou. Ou se Bondye ki gen tout pouvwa, e pa gen anyen ki enposib pou ou. Mwen mande ou manyen kò yo, retire tout maladi, tout doulè, epi ba yo fòs ak gerizon selon vol",
+          "createdAt": 1784691738125
+        },
         {
           "id": "1583f708f0d60bfa704907f7ad4e95533a4ec343c9e9e535ae00d2b6daca7b28-1784680104702-encouragement",
           "userDeviceId": "1583f708f0d60bfa704907f7ad4e95533a4ec343c9e9e535ae00d2b6daca7b28",
@@ -881,7 +889,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784680144529,
+      "updatedAt": 1784691781988,
       "answeredAt": null,
       "testimony": null
     },
