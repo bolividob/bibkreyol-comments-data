@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784737576607,
+  "updatedAt": 1784737872101,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784732824597",
+      "text": "amen",
+      "userDeviceId": "d119b8b577c2f6b03171809e7e5e867b781586b36eddfd3995452ee461641c60",
+      "userName": "Marie fane",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784737872101,
+      "updatedAt": 1784737872101,
+      "status": "active"
+    },
     {
       "id": "local-1784737016554",
       "text": "amén amén 🙏🙏",
@@ -456,8 +470,8 @@
     }
   ],
   "likeCount": 96,
-  "shareCount": 149,
-  "viewCount": 11732,
+  "shareCount": 151,
+  "viewCount": 11808,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
