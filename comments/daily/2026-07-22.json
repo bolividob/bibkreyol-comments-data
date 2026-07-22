@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784727317336,
+  "updatedAt": 1784727502292,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784727370313",
+      "text": "Non pam se fadelène paul svp m priye nou an gras edem priye",
+      "userDeviceId": "d08eb5ae449265701190aec269e8845bc0429a52edf24685e930c67cbe2d87b7",
+      "userName": "Paul fadoo",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784727502292,
+      "updatedAt": 1784727502292,
+      "status": "active"
+    },
     {
       "id": "local-1784722867311",
       "text": "mesi Bondye pou chak jou amén 🙌",
@@ -387,7 +401,7 @@
   ],
   "likeCount": 76,
   "shareCount": 121,
-  "viewCount": 9150,
+  "viewCount": 9197,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
