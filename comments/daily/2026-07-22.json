@@ -1,9 +1,51 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784699283918,
+  "updatedAt": 1784699414803,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784699349923",
+      "text": "wilson",
+      "userDeviceId": "42fdaa34b0f9c3010873dfbb7aa389c96fe8e4417fa6a8dcd79ab2e27fd8b04a",
+      "userName": "wilson",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784699414803,
+      "updatedAt": 1784699414803,
+      "status": "active"
+    },
+    {
+      "id": "local-1784699374629",
+      "text": "wilson",
+      "userDeviceId": "42fdaa34b0f9c3010873dfbb7aa389c96fe8e4417fa6a8dcd79ab2e27fd8b04a",
+      "userName": "wilson",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784699414803,
+      "updatedAt": 1784699414803,
+      "status": "active"
+    },
+    {
+      "id": "local-1784699400971",
+      "text": "wilson",
+      "userDeviceId": "42fdaa34b0f9c3010873dfbb7aa389c96fe8e4417fa6a8dcd79ab2e27fd8b04a",
+      "userName": "wilson",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": "local-1784694846420",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784699414803,
+      "updatedAt": 1784699414803,
+      "status": "active"
+    },
     {
       "id": "local-1784697224721",
       "text": "Amén y amén",
@@ -25,11 +67,13 @@
       "userName": "Roseline",
       "verseName": "1 Tesalonisyen 4:4",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "42fdaa34b0f9c3010873dfbb7aa389c96fe8e4417fa6a8dcd79ab2e27fd8b04a"
+      ],
       "createdAt": 1784695158023,
-      "updatedAt": 1784695158023,
+      "updatedAt": 1784699414803,
       "status": "active"
     },
     {
@@ -187,9 +231,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
+  "likeCount": 23,
   "shareCount": 33,
-  "viewCount": 4341,
+  "viewCount": 4352,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -212,7 +256,8 @@
     "21a9d4a6f5c6eeeda7b79d123586ebf7e1206a37dc100a70cad3cd40b011a5aa",
     "7e5aae84bfe8a497ae62ebad37d66fc2a19ecd6b00159a354f9f431d5ce6d460",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
-    "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade"
+    "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "42fdaa34b0f9c3010873dfbb7aa389c96fe8e4417fa6a8dcd79ab2e27fd8b04a"
   ],
   "verseViewBy": []
 }
