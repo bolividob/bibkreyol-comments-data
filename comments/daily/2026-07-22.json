@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784690179000,
+  "updatedAt": 1784690358594,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784689596412",
+      "text": "SLT👋👋👋",
+      "userDeviceId": "37754b1a642a17bdc49db6b2dd93b764a80dd76fa444e0ec1b8f2af39274b499",
+      "userName": "Beli amèn",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784690358592,
+      "updatedAt": 1784690358592,
+      "status": "active"
+    },
     {
       "id": "local-1784688458064",
       "text": "Ke Jesus voye madanm mwen an pou mwen",
@@ -104,8 +118,8 @@
     }
   ],
   "likeCount": 13,
-  "shareCount": 17,
-  "viewCount": 2567,
+  "shareCount": 19,
+  "viewCount": 2666,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
