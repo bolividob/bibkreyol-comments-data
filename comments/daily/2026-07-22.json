@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784687611755,
+  "updatedAt": 1784687796974,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784687661264",
+      "text": "matye 4 vese8",
+      "userDeviceId": "68c037e685fc8f6b4881bb7e2363c29c14cb56d951ee023da3d0a5a8f6c577c8",
+      "userName": "nitchie",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784687796974,
+      "updatedAt": 1784687796974,
+      "status": "active"
+    },
     {
       "id": "local-1784686322276",
       "text": "Amen",
@@ -76,8 +90,8 @@
     }
   ],
   "likeCount": 11,
-  "shareCount": 13,
-  "viewCount": 2142,
+  "shareCount": 15,
+  "viewCount": 2296,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
