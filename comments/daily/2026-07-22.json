@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784688082914,
+  "updatedAt": 1784690179000,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784688458064",
+      "text": "Ke Jesus voye madanm mwen an pou mwen",
+      "userDeviceId": "03b7702070a5179a58f51c525607a482735cfa25f2382175594f042f6d2c6d6e",
+      "userName": "Casseuswesly",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784690179000,
+      "updatedAt": 1784690179000,
+      "status": "active"
+    },
     {
       "id": "local-1784687661264",
       "text": "matye 4 vese8",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
+  "likeCount": 13,
   "shareCount": 17,
-  "viewCount": 2442,
+  "viewCount": 2567,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -104,7 +118,8 @@
     "fa91528ff962c75de8c590ccbed18faf26cdcf6b3dc2fa5073d2a91e714070e8",
     "edc06634855345b667261b2f1b650d4caa22b1c3eada8b44d9c3a65c8a9e2ede",
     "9b41cf0cd8b888105d3cf97750d3fec52a0900d735e9b3ee09071ff8a1c0d318",
-    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b"
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "981dddaa1f9baa32033b16bc2918b7c91a128ac0912a2e8c4d27c155a0917139"
   ],
   "verseViewBy": []
 }
