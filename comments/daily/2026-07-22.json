@@ -1,9 +1,37 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784762947108,
+  "updatedAt": 1784763205601,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784763172047",
+      "text": "mèsi jezu",
+      "userDeviceId": "6fe101b479e2c70586772cf00d80be0319526c6f2202c35a854b749ff71e2db4",
+      "userName": "kati",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784763205601,
+      "updatedAt": 1784763205601,
+      "status": "active"
+    },
+    {
+      "id": "local-1784763184125",
+      "text": "amèn",
+      "userDeviceId": "6fe101b479e2c70586772cf00d80be0319526c6f2202c35a854b749ff71e2db4",
+      "userName": "kati",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784763205601,
+      "updatedAt": 1784763205601,
+      "status": "active"
+    },
     {
       "id": "local-1784762528050",
       "text": "amèn amèn",
@@ -543,9 +571,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 139,
-  "shareCount": 196,
-  "viewCount": 17066,
+  "likeCount": 140,
+  "shareCount": 197,
+  "viewCount": 17176,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -685,7 +713,8 @@
     "1c614ef8c95fe9b11bf1257c845706c0ff43dc22ba747dc034fd54ff61d003ad",
     "8068e8b4d2036dc43b98e58f3a817c4c4cb58fde8c6c6aec16a7c9161d8cc017",
     "7e0758a0541081baf028bf23d14e45a6ca996db191348c9d436ca9f17a32c7c8",
-    "33b5552c9d9a8f6d6d92735e042858dcc6df7fe735a737c4920baa8f33e72a0c"
+    "33b5552c9d9a8f6d6d92735e042858dcc6df7fe735a737c4920baa8f33e72a0c",
+    "6fe101b479e2c70586772cf00d80be0319526c6f2202c35a854b749ff71e2db4"
   ],
   "verseViewBy": []
 }
