@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784691021137,
+  "updatedAt": 1784691318465,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784691286798",
+      "text": "Bondye beni chak grenn moun ✨️🙏",
+      "userDeviceId": "b75274ba94a8594c71f8842591242116c3d798a54f345e9e91ba509a543372e1",
+      "userName": "PDG JP",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784691318465,
+      "updatedAt": 1784691318465,
+      "status": "active"
+    },
     {
       "id": "local-1784690497170",
       "text": "Amèn Amèn Amèn, Merci Seigneur",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 15,
-  "shareCount": 19,
-  "viewCount": 2967,
+  "likeCount": 16,
+  "shareCount": 20,
+  "viewCount": 3107,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -149,7 +163,8 @@
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "981dddaa1f9baa32033b16bc2918b7c91a128ac0912a2e8c4d27c155a0917139",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
-    "771d2ed5efbb944be157cbe828ac117ac72c0378a03801362f781624c62f377f"
+    "771d2ed5efbb944be157cbe828ac117ac72c0378a03801362f781624c62f377f",
+    "3354406344601ee029c219a2baab4a5f299f5abefa909285f16ebf093db43642"
   ],
   "verseViewBy": []
 }
