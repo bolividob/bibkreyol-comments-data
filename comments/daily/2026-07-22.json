@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784713692738,
+  "updatedAt": 1784713929043,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784713800177",
+      "text": "yon déblokaj Pou Mwen AK tout fanmim yo jezi",
+      "userDeviceId": "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
+      "userName": "joazardrosetania",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784713929043,
+      "updatedAt": 1784713929043,
+      "status": "active"
+    },
     {
       "id": "local-1784713589209",
       "text": "Amén 🙏🙏🙏❤️",
@@ -329,9 +343,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
-  "shareCount": 59,
-  "viewCount": 5748,
+  "likeCount": 45,
+  "shareCount": 61,
+  "viewCount": 5794,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -376,7 +390,8 @@
     "a08a67d8e6c7ca32f9ed0e318d3f73b98257cf785fcf25daff27e38b51efdb8e",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
-    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f"
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405"
   ],
   "verseViewBy": []
 }
