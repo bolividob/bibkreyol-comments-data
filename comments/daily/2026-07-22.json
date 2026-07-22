@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784754554219,
+  "updatedAt": 1784754665077,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784754646748",
+      "text": "amèn",
+      "userDeviceId": "ad68cb53e46ee1e16afc5e3373f7f7ef125440ceb568ce8db9fcfa8e2e7d5aa2",
+      "userName": "Sabrina",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784754665076,
+      "updatedAt": 1784754665076,
+      "status": "active"
+    },
     {
       "id": "local-1784748969476",
       "text": "mèsi Senyė pu lavi ou ban mw",
@@ -501,7 +515,7 @@
   ],
   "likeCount": 115,
   "shareCount": 178,
-  "viewCount": 14765,
+  "viewCount": 14786,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
