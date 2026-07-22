@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784690358594,
+  "updatedAt": 1784690532857,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784690497170",
+      "text": "Amèn Amèn Amèn, Merci Seigneur",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784690532857,
+      "updatedAt": 1784690532857,
+      "status": "active"
+    },
     {
       "id": "local-1784689596412",
       "text": "SLT👋👋👋",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
+  "likeCount": 14,
   "shareCount": 19,
-  "viewCount": 2666,
+  "viewCount": 2735,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -133,7 +147,8 @@
     "edc06634855345b667261b2f1b650d4caa22b1c3eada8b44d9c3a65c8a9e2ede",
     "9b41cf0cd8b888105d3cf97750d3fec52a0900d735e9b3ee09071ff8a1c0d318",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
-    "981dddaa1f9baa32033b16bc2918b7c91a128ac0912a2e8c4d27c155a0917139"
+    "981dddaa1f9baa32033b16bc2918b7c91a128ac0912a2e8c4d27c155a0917139",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
   ],
   "verseViewBy": []
 }
