@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784737147263,
+  "updatedAt": 1784737263714,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -4242,12 +4242,19 @@
       "customExpectedSeason": null,
       "request": "ayiti liberé",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "Lens",
+          "prayedAt": 1784737209090
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1781887300444,
-      "updatedAt": 1781887397341,
+      "updatedAt": 1784737262542,
       "answeredAt": null,
       "testimony": null
     },
@@ -4409,11 +4416,16 @@
       "customExpectedSeason": null,
       "request": "Bonjour,Bonsoir,Mwen Fèk gen Papam ki antere,Tout sa nou te genyen pase nan antèman épi Mwen pap travay,tanpri priye pou Bondye Fèm jwenn Yon Travay",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "add77bdd8aa529479149b58b030eb05c36cecb4a28ddab3b541e2e7cc11f0a07"
+        "add77bdd8aa529479149b58b030eb05c36cecb4a28ddab3b541e2e7cc11f0a07",
+        "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9"
       ],
       "prayingPreview": [
+        {
+          "userName": "Lens",
+          "prayedAt": 1784737184231
+        },
         {
           "userName": "Sr YVENCIA Chery  CELESTIN",
           "prayedAt": 1781798564439
@@ -4429,7 +4441,7 @@
         }
       ],
       "submittedAt": 1781797361919,
-      "updatedAt": 1781798650975,
+      "updatedAt": 1784737262542,
       "answeredAt": null,
       "testimony": null
     },
@@ -4444,11 +4456,16 @@
       "customExpectedSeason": null,
       "request": "kwasans espirityèl",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "ac5ab05ef3f63c0cd9c591da0291f13a83537b66971ca0c4eebb54c9a6c5c42b"
+        "ac5ab05ef3f63c0cd9c591da0291f13a83537b66971ca0c4eebb54c9a6c5c42b",
+        "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9"
       ],
       "prayingPreview": [
+        {
+          "userName": "Lens",
+          "prayedAt": 1784737168334
+        },
         {
           "userName": "Maurice",
           "prayedAt": 1781797251907
@@ -4456,7 +4473,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1781791858650,
-      "updatedAt": 1781797325978,
+      "updatedAt": 1784737262542,
       "answeredAt": null,
       "testimony": null
     },
@@ -4528,13 +4545,18 @@
       "customExpectedSeason": null,
       "request": "Ede m' priye pou Bondye kenbe m' lakay li e fè m' rete nan volonte l' menm ke m'ap soufri pou tout rès vi m' nan non Jezi Kris!🙏🏼🙏🏼🙏🏼",
       "status": "praying",
-      "prayerCount": 3,
+      "prayerCount": 4,
       "prayedBy": [
         "9477bc02c90d2ef84786cad3434729aa2cb0de61775160cb3a186ca6367b3e4d",
         "d26c6f85e0ef8418c281a339703ac42520917f68a9bbddfce2a51c5043a9e9b4",
-        "399afe68a5e8c496d64c7012b6f40d6d0e0c45b7ece018639431107d8e837dcd"
+        "399afe68a5e8c496d64c7012b6f40d6d0e0c45b7ece018639431107d8e837dcd",
+        "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9"
       ],
       "prayingPreview": [
+        {
+          "userName": "Lens",
+          "prayedAt": 1784737160109
+        },
         {
           "userName": "bondye gand",
           "prayedAt": 1781783697054
@@ -4579,7 +4601,7 @@
         }
       ],
       "submittedAt": 1781762758453,
-      "updatedAt": 1781783762133,
+      "updatedAt": 1784737262542,
       "answeredAt": null,
       "testimony": null
     },
@@ -4606,7 +4628,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1781747738133,
-      "updatedAt": 1784737146037,
+      "updatedAt": 1784737262542,
       "answeredAt": null,
       "testimony": null
     },
