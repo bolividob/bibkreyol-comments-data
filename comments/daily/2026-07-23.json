@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784806566387,
+  "updatedAt": 1784806686193,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784806669724",
+      "text": "mèsi bondye",
+      "userDeviceId": "9f2e5d6a66db4d1baa2886f96df4425fe039fdd11caeb76f2ee09d2c5859faf1",
+      "userName": "michelinea644@gmail.com",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784806686193,
+      "updatedAt": 1784806686193,
+      "status": "active"
+    },
     {
       "id": "local-1784771187775",
       "text": "🥰🥰🥰",
@@ -328,8 +342,8 @@
     }
   ],
   "likeCount": 46,
-  "shareCount": 81,
-  "viewCount": 6961,
+  "shareCount": 82,
+  "viewCount": 6991,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
