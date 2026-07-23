@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784805491438,
+  "updatedAt": 1784805793619,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784771187775",
+      "text": "🥰🥰🥰",
+      "userDeviceId": "7c31198fcd4097e67772fcbb2a58f6cf10b64c2dd71df7b19f4008f8c603666d",
+      "userName": "cherlandine",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784805793619,
+      "updatedAt": 1784805793619,
+      "status": "active"
+    },
     {
       "id": "local-1784774805596",
       "text": "Mèsi bondye",
@@ -313,9 +327,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
-  "shareCount": 77,
-  "viewCount": 6662,
+  "likeCount": 46,
+  "shareCount": 80,
+  "viewCount": 6747,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -361,7 +375,8 @@
     "a5ac12dfd28bb962d2b068517893e8ca050b951bdbb40b2fef59b4b762443e92",
     "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
     "a5473581c97a7a2a065ff4bfe0b925f6bea8a627ffe949e3446e6fe43c9191b7",
-    "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a"
+    "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
+    "21a9d4a6f5c6eeeda7b79d123586ebf7e1206a37dc100a70cad3cd40b011a5aa"
   ],
   "verseViewBy": []
 }
