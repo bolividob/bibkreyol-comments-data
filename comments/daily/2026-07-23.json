@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784809226508,
+  "updatedAt": 1784809334458,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784809118642",
+      "text": "kiys ki ekri liv sa",
+      "userDeviceId": "5ef6022006812215cf66ffa70582127ccaee2bd4b3421fbbdc68054411618adc",
+      "userName": "fr Faustin",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784809334458,
+      "updatedAt": 1784809334458,
+      "status": "active"
+    },
     {
       "id": "local-1784806669724",
       "text": "mèsi bondye",
@@ -343,7 +357,7 @@
   ],
   "likeCount": 52,
   "shareCount": 91,
-  "viewCount": 7633,
+  "viewCount": 7658,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
