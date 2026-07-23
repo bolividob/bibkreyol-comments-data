@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784801703827,
+  "updatedAt": 1784802183807,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -1036,7 +1036,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 55,
+      "prayerCount": 56,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -1092,9 +1092,14 @@
         "549e2256d399316f4eb9795d40cf90a1abfc1d28222110674969144a200d9631",
         "3c887929d81ae16a2f5e7e6e60bbdcb14f610a31325cbe8ddda19e2967191ad0",
         "8347199b8cde00241dc97b06c5b166ec5253d3595b1ae1a487e4af235f95960c",
-        "fb2ff30106f89eea0ce806e753862eaff9263dc68305903e78e05896636d9b52"
+        "fb2ff30106f89eea0ce806e753862eaff9263dc68305903e78e05896636d9b52",
+        "988408dc184f033540fc2d7b9eb481a22da32f1c9fbb11f2dec9a2838235d3b0"
       ],
       "prayingPreview": [
+        {
+          "userName": "matye",
+          "prayedAt": 1784802167569
+        },
         {
           "userName": "kessy Jean Louis",
           "prayedAt": 1784466960837
@@ -1170,13 +1175,16 @@
         {
           "userName": "Yolande",
           "prayedAt": 1783772561089
-        },
-        {
-          "userName": "samie",
-          "prayedAt": 1783739317183
         }
       ],
       "encouragements": [
+        {
+          "id": "988408dc184f033540fc2d7b9eb481a22da32f1c9fbb11f2dec9a2838235d3b0-1784802167569-encouragement",
+          "userDeviceId": "988408dc184f033540fc2d7b9eb481a22da32f1c9fbb11f2dec9a2838235d3b0",
+          "userName": "matye",
+          "text": "Edem priye pou mw ka fini nan men Bondieu",
+          "createdAt": 1784802167569
+        },
         {
           "id": "fb2ff30106f89eea0ce806e753862eaff9263dc68305903e78e05896636d9b52-1784466960837-encouragement",
           "userDeviceId": "fb2ff30106f89eea0ce806e753862eaff9263dc68305903e78e05896636d9b52",
@@ -1396,7 +1404,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1784467142729,
+      "updatedAt": 1784802182572,
       "answeredAt": null,
       "testimony": null
     },
