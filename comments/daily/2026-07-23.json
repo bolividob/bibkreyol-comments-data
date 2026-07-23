@@ -1,9 +1,37 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784799964627,
+  "updatedAt": 1784800097238,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784800070972",
+      "text": "Mwen remet jounen an bay jezi",
+      "userDeviceId": "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
+      "userName": "joazardrosetania",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784800097238,
+      "updatedAt": 1784800097238,
+      "status": "active"
+    },
+    {
+      "id": "local-1784800079866",
+      "text": "Amén",
+      "userDeviceId": "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
+      "userName": "joazardrosetania",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784800097238,
+      "updatedAt": 1784800097238,
+      "status": "active"
+    },
     {
       "id": "local-1784795107943",
       "text": "bonjour",
@@ -215,9 +243,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 36,
+  "likeCount": 38,
   "shareCount": 58,
-  "viewCount": 5267,
+  "viewCount": 5296,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -254,7 +282,9 @@
     "558a95db54bd385dde0c96200cc598b8ae309c9719767e26f39cfd1b90cf3d54",
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
     "bca5115a4bcf0644f79df66bb14c932b4776146b39c2176ba1d52fe181595643",
-    "42b302f5b1bf48cf5e75d985f21d7bca919b0a4c4d343c868f6ca02f47253e59"
+    "42b302f5b1bf48cf5e75d985f21d7bca919b0a4c4d343c868f6ca02f47253e59",
+    "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
+    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3"
   ],
   "verseViewBy": []
 }
