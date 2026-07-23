@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784773036651,
+  "updatedAt": 1784773355506,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784772970644",
+      "text": "🙏🙏",
+      "userDeviceId": "4924269df9f77794037dc073f65bd2209cfd48200f0e8e6d5e55b3fb81689cf9",
+      "userName": "sr jenny flore",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784773355506,
+      "updatedAt": 1784773355506,
+      "status": "active"
+    },
     {
       "id": "local-1784768570584",
       "text": "amen🙏🙏🙏",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
+  "likeCount": 8,
   "shareCount": 14,
-  "viewCount": 1317,
+  "viewCount": 1468,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -71,7 +85,8 @@
     "d662fd6bbe47a69f0a6dac7f77450c8ee84dce59894198a3ce797aea14964691",
     "0818c5cccd32f7cb1af2e61b5227698f6b78c406c76e514fd23f13d34f5d7ab3",
     "40fec0859f74edf642a1726b3dccc7b8f99d5af8078b290db150750ef0327931",
-    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec"
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "237f1830e72963835f1313d61031c3bd28a7064d5d3e6b19217d146a93387d85"
   ],
   "verseViewBy": []
 }
