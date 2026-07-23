@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784802545498,
+  "updatedAt": 1784802790432,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784802628423",
+      "text": "amen 🙏 🙏 thank God 🙏",
+      "userDeviceId": "a5ac12dfd28bb962d2b068517893e8ca050b951bdbb40b2fef59b4b762443e92",
+      "userName": "🙏 amen 🙏 amen bondye beni w thank you",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784802790432,
+      "updatedAt": 1784802790432,
+      "status": "active"
+    },
     {
       "id": "local-1784801983536",
       "text": "yes",
@@ -285,9 +299,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 41,
+  "likeCount": 42,
   "shareCount": 67,
-  "viewCount": 5813,
+  "viewCount": 5875,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -329,7 +343,8 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "8bc9a9ae1157fdf495bc275181f08ed87362a440c643bbf1bb72e9ae4cf17cd5",
-    "0dadb05b9e400c086da6f2915bfb7c597d1d0d9ebd51bbb008bcea1a639154d7"
+    "0dadb05b9e400c086da6f2915bfb7c597d1d0d9ebd51bbb008bcea1a639154d7",
+    "a5ac12dfd28bb962d2b068517893e8ca050b951bdbb40b2fef59b4b762443e92"
   ],
   "verseViewBy": []
 }
