@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": 1784833502718,
+  "updatedAt": 1784837223938,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 48,
@@ -36,12 +36,17 @@
       "customExpectedSeason": null,
       "request": "Mwen vle rete nan pye Bondye",
       "status": "praying",
-      "prayerCount": 2,
+      "prayerCount": 3,
       "prayedBy": [
         "f33b3abcd5565b37beccbbb31f670b13a8f686d756f51a1c79136a661b781767",
-        "1e670fc3f0983df5f645ee83831f129101515274d58e81287f54b59b55e18fe5"
+        "1e670fc3f0983df5f645ee83831f129101515274d58e81287f54b59b55e18fe5",
+        "508d954aa2e5d1c94e2f03090077f1d24ff0bf7cc4d770ff022f0f625bc54bb1"
       ],
       "prayingPreview": [
+        {
+          "userName": "luse",
+          "prayedAt": 1784837130476
+        },
         {
           "userName": "Pierre Walner",
           "prayedAt": 1784723547397
@@ -53,7 +58,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1784594504854,
-      "updatedAt": 1784723586992,
+      "updatedAt": 1784837223938,
       "answeredAt": null,
       "testimony": null
     },
