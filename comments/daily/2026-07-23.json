@@ -1,9 +1,25 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784835844578,
+  "updatedAt": 1784836097259,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784835962113",
+      "text": "Ede m priye pou bonDye kontinye kenbe fè m nan levanjil",
+      "userDeviceId": "8d03a79a45c4c84edaec415d206576ef4a8d8d388c3a107118be17e1d435ce7a",
+      "userName": "Janaï",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "8d03a79a45c4c84edaec415d206576ef4a8d8d388c3a107118be17e1d435ce7a"
+      ],
+      "createdAt": 1784836097259,
+      "updatedAt": 1784836097259,
+      "status": "active"
+    },
     {
       "id": "local-1784818384587",
       "text": "edem priye poum Ka grandi plus nan la priye",
@@ -12,10 +28,12 @@
       "verseName": "Zakari 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8d03a79a45c4c84edaec415d206576ef4a8d8d388c3a107118be17e1d435ce7a"
+      ],
       "createdAt": 1784829364218,
-      "updatedAt": 1784829364218,
+      "updatedAt": 1784836097259,
       "status": "active"
     },
     {
@@ -54,10 +72,12 @@
       "verseName": "Zakari 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8d03a79a45c4c84edaec415d206576ef4a8d8d388c3a107118be17e1d435ce7a"
+      ],
       "createdAt": 1784820486389,
-      "updatedAt": 1784820486389,
+      "updatedAt": 1784836097259,
       "status": "active"
     },
     {
@@ -82,10 +102,12 @@
       "verseName": "Zakari 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8d03a79a45c4c84edaec415d206576ef4a8d8d388c3a107118be17e1d435ce7a"
+      ],
       "createdAt": 1784809334458,
-      "updatedAt": 1784809334458,
+      "updatedAt": 1784836097259,
       "status": "active"
     },
     {
@@ -96,10 +118,12 @@
       "verseName": "Zakari 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8d03a79a45c4c84edaec415d206576ef4a8d8d388c3a107118be17e1d435ce7a"
+      ],
       "createdAt": 1784806686193,
-      "updatedAt": 1784806686193,
+      "updatedAt": 1784836097259,
       "status": "active"
     },
     {
@@ -429,7 +453,7 @@
   ],
   "likeCount": 90,
   "shareCount": 157,
-  "viewCount": 13294,
+  "viewCount": 13333,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
