@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": 1784843702200,
+  "updatedAt": 1784846822769,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 48,
@@ -376,7 +376,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 118,
+      "prayerCount": 119,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -495,9 +495,14 @@
         "e8e8e05e451fcda3c11d50c2396841ca2c801826ba704a2a6c777961e7818180",
         "d564adf65f772f3e1f87cef2dbf410b1bd4cf045d60f78b0ca1cee064cdf028d",
         "82508238ecce58291dd2c358bfef32fe26f764778afc7426ed4c9d04086d71d5",
-        "eeda21d2401fa816e48cb3b3bb7f55b78a025b2309b7b8a239cad832f3c3189d"
+        "eeda21d2401fa816e48cb3b3bb7f55b78a025b2309b7b8a239cad832f3c3189d",
+        "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d"
       ],
       "prayingPreview": [
+        {
+          "userName": "BrebiBonDye😊🙏",
+          "prayedAt": 1784846717454
+        },
         {
           "userName": "jezi",
           "prayedAt": 1784843582775
@@ -573,13 +578,16 @@
         {
           "userName": "bib",
           "prayedAt": 1784750626011
-        },
-        {
-          "userName": "djives",
-          "prayedAt": 1784750354454
         }
       ],
       "encouragements": [
+        {
+          "id": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d-1784846717454-encouragement",
+          "userDeviceId": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
+          "userName": "BrebiBonDye😊🙏",
+          "text": "Tout glwa pou BonDye li kapab geri tout MALADIW yo paske anyen pa enposib pou BonDye. mdeklare sou laviw kounya gerizon sou tout fòm o non puissant de Jésus christ de Nazareth amen\n\nou mèt resevwal kounya😊🙏",
+          "createdAt": 1784846717454
+        },
         {
           "id": "eeda21d2401fa816e48cb3b3bb7f55b78a025b2309b7b8a239cad832f3c3189d-1784843582775-encouragement",
           "userDeviceId": "eeda21d2401fa816e48cb3b3bb7f55b78a025b2309b7b8a239cad832f3c3189d",
@@ -1065,7 +1073,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784843702200,
+      "updatedAt": 1784846822769,
       "answeredAt": null,
       "testimony": null
     },
