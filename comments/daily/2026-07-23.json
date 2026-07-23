@@ -1,9 +1,37 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784846408620,
+  "updatedAt": 1784846526782,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784845433068",
+      "text": "amen gloire à Dieu tout puissant 😊🙏",
+      "userDeviceId": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
+      "userName": "amen",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784846526782,
+      "updatedAt": 1784846526782,
+      "status": "active"
+    },
+    {
+      "id": "local-1784845673209",
+      "text": "BonDye beni w Soeur bien-aimé BonDye kapab li konn tout bagay pagen anyen ki enposib pou yaweh nap levew ban lapriyè pou kòb pèsekisyon sa kase pou chen n malédiction sa pete epi tout pòt deblokaj yo ouvri nan lavi w mdeklare sa sou laviw  o non de Jésus christ de Nazareth amen🙏🙏🙏",
+      "userDeviceId": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
+      "userName": "amen",
+      "verseName": "Zakari 6:1",
+      "parentId": "local-1784840460919",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784846526782,
+      "updatedAt": 1784846526782,
+      "status": "active"
+    },
     {
       "id": "local-1784846214258",
       "text": "BonDye beni w Soeur Maga! mwen salye w nan non jezi kris sovè nou an. pou ka paw BonDye kapab anyen pa enposib pou li. li te la yè, li la jodia e lap toujou la pou l aji pou ou nan dosyew yo Soeur bien-aimé just kwè nan God la epi madanl tout saw bezwen rakonte l tout problèm ou yo ak lafwa epi wap jwenn solisyon paske li fidel li gen konpasyon pou tout pitit li sèlman pa doute de kapasite BonDye. mwen deklare sou laviw kounya se pou tout esprit lanmò anatèm,sanzefè o non de Jésus christ amen🙏",
@@ -39,13 +67,13 @@
       "userName": "Adoratrice Perla pour Dieu",
       "verseName": "Zakari 6:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "5245ba4fbb5416e884f70f0fb46735c3ceb346c4ffb637e519f03dd7c2c2e845"
       ],
       "createdAt": 1784840645103,
-      "updatedAt": 1784840645104,
+      "updatedAt": 1784846526782,
       "status": "active"
     },
     {
@@ -499,9 +527,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 100,
+  "likeCount": 101,
   "shareCount": 188,
-  "viewCount": 15728,
+  "viewCount": 15764,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -602,7 +630,8 @@
     "ba1cbea0006c02c7ca315c3f54046086f8f9a58c1ba56f551f2c1fbaee6ebee4",
     "59373560cc6924abb56f62ec9847456c6c5746367d8f36b233b488a0322d66c0",
     "800693806024361ce6fdb368d9b1c588fc1cea801626c61cdef9ebd7c60d1277",
-    "4aea7292d32350eecc9a9da0907e06f9e59bb9c6aca15e1f59bb91ba05d4721e"
+    "4aea7292d32350eecc9a9da0907e06f9e59bb9c6aca15e1f59bb91ba05d4721e",
+    "52a1dbbbb9aaaa65e92836869c5cd1fe68aab9c557a5c463cf1809267f2dc806"
   ],
   "verseViewBy": []
 }
