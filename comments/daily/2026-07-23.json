@@ -1,9 +1,37 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784776773270,
+  "updatedAt": 1784777076915,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784776856322",
+      "text": "amén",
+      "userDeviceId": "bb1bfe3f46f2c41b82acf3ee507d419fef15d70f16ffdbe133ecc29d9f2c03bf",
+      "userName": "Medjine",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784777076914,
+      "updatedAt": 1784777076914,
+      "status": "active"
+    },
+    {
+      "id": "local-1784776868905",
+      "text": "Amen",
+      "userDeviceId": "bb1bfe3f46f2c41b82acf3ee507d419fef15d70f16ffdbe133ecc29d9f2c03bf",
+      "userName": "Medjine",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784777076914,
+      "updatedAt": 1784777076914,
+      "status": "active"
+    },
     {
       "id": "local-1784774498226",
       "text": "klknh",
@@ -89,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
-  "shareCount": 18,
-  "viewCount": 2221,
+  "likeCount": 12,
+  "shareCount": 23,
+  "viewCount": 2426,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -102,7 +130,9 @@
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "237f1830e72963835f1313d61031c3bd28a7064d5d3e6b19217d146a93387d85",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
-    "efe05963359f2afb0ee11b53b50fd5c662b66c29f7866f7af52a38a1c0378ef3"
+    "efe05963359f2afb0ee11b53b50fd5c662b66c29f7866f7af52a38a1c0378ef3",
+    "bb1bfe3f46f2c41b82acf3ee507d419fef15d70f16ffdbe133ecc29d9f2c03bf",
+    "d87e252fb6d60123de4fd8d3445f6a0181f3c589fde1d686b022daa185c1de31"
   ],
   "verseViewBy": []
 }
