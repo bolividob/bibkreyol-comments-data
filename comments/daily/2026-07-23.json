@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784800217110,
+  "updatedAt": 1784800571409,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784800540368",
+      "text": "resna",
+      "userDeviceId": "c727b98be2c8790ada3178157b3f31200b8fbbfa447fd065c5f097cc9b39e39a",
+      "userName": "resna",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784800571409,
+      "updatedAt": 1784800571409,
+      "status": "active"
+    },
     {
       "id": "local-1784800070972",
       "text": "Mwen remet jounen an bay jezi",
@@ -244,8 +258,8 @@
     }
   ],
   "likeCount": 38,
-  "shareCount": 58,
-  "viewCount": 5320,
+  "shareCount": 59,
+  "viewCount": 5393,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
