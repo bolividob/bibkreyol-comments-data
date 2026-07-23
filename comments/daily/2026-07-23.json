@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784774313607,
+  "updatedAt": 1784776773270,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784774498226",
+      "text": "klknh",
+      "userDeviceId": "27008038a6c55453bc172e9dad60138bb3814869234e3bd3c46606976433ea4f",
+      "userName": "som 90",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784776773270,
+      "updatedAt": 1784776773270,
+      "status": "active"
+    },
     {
       "id": "local-1784772970644",
       "text": "🙏🙏",
@@ -76,8 +90,8 @@
     }
   ],
   "likeCount": 10,
-  "shareCount": 16,
-  "viewCount": 1951,
+  "shareCount": 18,
+  "viewCount": 2221,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
