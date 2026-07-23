@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784836564197,
+  "updatedAt": 1784836685590,
   "version": 1,
   "comments": [
     {
@@ -58,10 +58,12 @@
       "verseName": "Zakari 6:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d65bb34fc86c9bf847b42101e014ca0fb15656d6b65c1beb08f87aaf400c39dc"
+      ],
       "createdAt": 1784824453226,
-      "updatedAt": 1784824453226,
+      "updatedAt": 1784836685590,
       "status": "active"
     },
     {
@@ -453,7 +455,7 @@
   ],
   "likeCount": 91,
   "shareCount": 157,
-  "viewCount": 13396,
+  "viewCount": 13419,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
