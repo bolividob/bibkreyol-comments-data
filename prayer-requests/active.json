@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784815024000,
+  "updatedAt": 1784815384207,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -369,7 +369,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 113,
+      "prayerCount": 114,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -483,9 +483,14 @@
         "060d2e3116963bcf633c3c34c77fccd7bd38e61281bfe4afc7eebd95a3c85c76",
         "933f2755560020a7d95a27de9968f8489840c9e79c396eda09a7ca2ee37d033f",
         "8796cf3742c52438387dc72570243fb5acb7913d30fae6dc3f53a51dc4d57e8f",
-        "12c48c1d2e07142c56b589f6ea975d2b11fbf73bac9e23c30713867ce38c6bb1"
+        "12c48c1d2e07142c56b589f6ea975d2b11fbf73bac9e23c30713867ce38c6bb1",
+        "8cc74716c22ed88fc3961c4126bdccbe168021f2a71f7b53f53a7273f2d473f5"
       ],
       "prayingPreview": [
+        {
+          "userName": "sxddggfd",
+          "prayedAt": 1784815286046
+        },
         {
           "userName": "Mayoo🥰🥰🤷‍♂️",
           "prayedAt": 1784810199993
@@ -561,13 +566,16 @@
         {
           "userName": "Fr Avril Frantzlaire",
           "prayedAt": 1784722944330
-        },
-        {
-          "userName": "PDG JP",
-          "prayedAt": 1784691738125
         }
       ],
       "encouragements": [
+        {
+          "id": "8cc74716c22ed88fc3961c4126bdccbe168021f2a71f7b53f53a7273f2d473f5-1784815303157-encouragement",
+          "userDeviceId": "8cc74716c22ed88fc3961c4126bdccbe168021f2a71f7b53f53a7273f2d473f5",
+          "userName": "sxddggfd",
+          "text": "vela",
+          "createdAt": 1784815303157
+        },
         {
           "id": "8796cf3742c52438387dc72570243fb5acb7913d30fae6dc3f53a51dc4d57e8f-1784809485534-encouragement",
           "userDeviceId": "8796cf3742c52438387dc72570243fb5acb7913d30fae6dc3f53a51dc4d57e8f",
@@ -1032,7 +1040,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784810222063,
+      "updatedAt": 1784815382765,
       "answeredAt": null,
       "testimony": null
     },
