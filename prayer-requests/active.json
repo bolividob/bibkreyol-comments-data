@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784780584287,
+  "updatedAt": 1784781424593,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -369,7 +369,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 106,
+      "prayerCount": 107,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -476,9 +476,14 @@
         "0ec9a2a5be8dbdec5a05dde6651c2c292ef2b81219066241c5dd16a77f269516",
         "8f4d67e5b4e0f5a67fddbc88e080542a011420defb1ce27c750c9704f300c072",
         "0c6631be558aa90592af286f00bd1a5a5381d9b9b57ae4b04275b71473be523a",
-        "0d136ded3fcb3aa52a09d4f8452f2d514db5e02d7938c43a014c11e32535926e"
+        "0d136ded3fcb3aa52a09d4f8452f2d514db5e02d7938c43a014c11e32535926e",
+        "4ea9566e786f32dfd6b312d61fe49e97fc36eee922bfece186c63221a2c55ca1"
       ],
       "prayingPreview": [
+        {
+          "userName": "poum reyisi",
+          "prayedAt": 1784781385170
+        },
         {
           "userName": "timote 3",
           "prayedAt": 1784780360427
@@ -554,13 +559,23 @@
         {
           "userName": "sainca",
           "prayedAt": 1784651354058
-        },
-        {
-          "userName": "Sheeka",
-          "prayedAt": 1784643496548
         }
       ],
       "encouragements": [
+        {
+          "id": "4ea9566e786f32dfd6b312d61fe49e97fc36eee922bfece186c63221a2c55ca1-1784781416127-encouragement",
+          "userDeviceId": "4ea9566e786f32dfd6b312d61fe49e97fc36eee922bfece186c63221a2c55ca1",
+          "userName": "poum reyisi",
+          "text": "wi",
+          "createdAt": 1784781416127
+        },
+        {
+          "id": "4ea9566e786f32dfd6b312d61fe49e97fc36eee922bfece186c63221a2c55ca1-1784781402480-encouragement",
+          "userDeviceId": "4ea9566e786f32dfd6b312d61fe49e97fc36eee922bfece186c63221a2c55ca1",
+          "userName": "poum reyisi",
+          "text": "reyisit",
+          "createdAt": 1784781402480
+        },
         {
           "id": "0c6631be558aa90592af286f00bd1a5a5381d9b9b57ae4b04275b71473be523a-1784777962832-encouragement",
           "userDeviceId": "0c6631be558aa90592af286f00bd1a5a5381d9b9b57ae4b04275b71473be523a",
@@ -997,7 +1012,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784780583260,
+      "updatedAt": 1784781423540,
       "answeredAt": null,
       "testimony": null
     },
