@@ -1,9 +1,23 @@
 {
   "date": "2026-07-22",
   "verseKey": "daily:2026-07-22",
-  "updatedAt": 1784764095606,
+  "updatedAt": 1784766246135,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784750973374",
+      "text": "amen amen amen amen amen",
+      "userDeviceId": "8ba5183c3419822ef785cca95b8421667d317a972b7445fadc33da1272fc850c",
+      "userName": "clotilde  louis",
+      "verseName": "1 Tesalonisyen 4:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784766246135,
+      "updatedAt": 1784766246135,
+      "status": "active"
+    },
     {
       "id": "local-1784763707326",
       "text": "amèn",
@@ -589,9 +603,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 141,
-  "shareCount": 198,
-  "viewCount": 17527,
+  "likeCount": 142,
+  "shareCount": 199,
+  "viewCount": 17699,
   "verseLikedBy": [
     "6762941232b88c5ef9c4583ab570982f8dc347be48367f22dc8708bd90874433",
     "75da808ff6fcb1a8509e44f40574d64f510ee9f1f12abbe83d92e70e49a59f98",
@@ -733,7 +747,8 @@
     "7e0758a0541081baf028bf23d14e45a6ca996db191348c9d436ca9f17a32c7c8",
     "33b5552c9d9a8f6d6d92735e042858dcc6df7fe735a737c4920baa8f33e72a0c",
     "6fe101b479e2c70586772cf00d80be0319526c6f2202c35a854b749ff71e2db4",
-    "450f4f1bdba6f1a2e79c6b9241a787b457ac3e87f76c096accc1ebdfd9b46c59"
+    "450f4f1bdba6f1a2e79c6b9241a787b457ac3e87f76c096accc1ebdfd9b46c59",
+    "2965ac096ef8eb0e35d2779a22e535a4bdce45420ecab32fab8e138de505a268"
   ],
   "verseViewBy": []
 }
