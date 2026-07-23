@@ -1,9 +1,23 @@
 {
   "date": "2026-07-23",
   "verseKey": "daily:2026-07-23",
-  "updatedAt": 1784784365123,
+  "updatedAt": 1784784483782,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784784458867",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Zakari 6:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784784483782,
+      "updatedAt": 1784784483782,
+      "status": "active"
+    },
     {
       "id": "local-1784783226306",
       "text": "Amén",
@@ -159,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 21,
-  "shareCount": 31,
-  "viewCount": 3747,
+  "likeCount": 23,
+  "shareCount": 32,
+  "viewCount": 3762,
   "verseLikedBy": [
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -183,7 +197,9 @@
     "b1b6483c95792e6b675d50498c63131df07ffd060ef658c11b2dc92c2cd93a94",
     "6001e763a9877fbc56f842fde02fb916033244752b7917b1fc0d49cd6c4a693d",
     "a16c86bf55b56c69b457a46dee78c10c5e939bc7c74e50509988b9dcdf07a766",
-    "8f6f612cca24d4ffa185b02e939954aeaeec12169b83a0364c756ecf18d537bd"
+    "8f6f612cca24d4ffa185b02e939954aeaeec12169b83a0364c756ecf18d537bd",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad"
   ],
   "verseViewBy": []
 }
