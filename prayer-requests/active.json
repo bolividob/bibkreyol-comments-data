@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784816824158,
+  "updatedAt": 1784826425302,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -369,7 +369,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 115,
+      "prayerCount": 116,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -485,9 +485,14 @@
         "8796cf3742c52438387dc72570243fb5acb7913d30fae6dc3f53a51dc4d57e8f",
         "12c48c1d2e07142c56b589f6ea975d2b11fbf73bac9e23c30713867ce38c6bb1",
         "8cc74716c22ed88fc3961c4126bdccbe168021f2a71f7b53f53a7273f2d473f5",
-        "e8e8e05e451fcda3c11d50c2396841ca2c801826ba704a2a6c777961e7818180"
+        "e8e8e05e451fcda3c11d50c2396841ca2c801826ba704a2a6c777961e7818180",
+        "d564adf65f772f3e1f87cef2dbf410b1bd4cf045d60f78b0ca1cee064cdf028d"
       ],
       "prayingPreview": [
+        {
+          "userName": "nedoo",
+          "prayedAt": 1784826359736
+        },
         {
           "userName": "lapa wol de dieu",
           "prayedAt": 1784816755942
@@ -563,13 +568,16 @@
         {
           "userName": "Aldeus Antz Hector",
           "prayedAt": 1784734124744
-        },
-        {
-          "userName": "weslyneAvrilien",
-          "prayedAt": 1784728329205
         }
       ],
       "encouragements": [
+        {
+          "id": "d564adf65f772f3e1f87cef2dbf410b1bd4cf045d60f78b0ca1cee064cdf028d-1784826359736-encouragement",
+          "userDeviceId": "d564adf65f772f3e1f87cef2dbf410b1bd4cf045d60f78b0ca1cee064cdf028d",
+          "userName": "nedoo",
+          "text": "mèsi bondye",
+          "createdAt": 1784826359736
+        },
         {
           "id": "8cc74716c22ed88fc3961c4126bdccbe168021f2a71f7b53f53a7273f2d473f5-1784815303157-encouragement",
           "userDeviceId": "8cc74716c22ed88fc3961c4126bdccbe168021f2a71f7b53f53a7273f2d473f5",
@@ -1041,7 +1049,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784816822981,
+      "updatedAt": 1784826422816,
       "answeredAt": null,
       "testimony": null
     },
