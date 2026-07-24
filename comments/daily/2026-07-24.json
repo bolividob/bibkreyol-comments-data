@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784894827153,
+  "updatedAt": 1784894947103,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784894841900",
+      "text": "Mwen se pitit Bondye",
+      "userDeviceId": "b203632828b7b67dab16d3b78738cff2e5895e8c947a6bba4010a5bcbc77b156",
+      "userName": "Robert Antoine",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784894947103,
+      "updatedAt": 1784894947103,
+      "status": "active"
+    },
     {
       "id": "local-1784893840820",
       "text": "amen amen amen",
@@ -362,8 +376,8 @@
     }
   ],
   "likeCount": 86,
-  "shareCount": 113,
-  "viewCount": 10342,
+  "shareCount": 114,
+  "viewCount": 10373,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
