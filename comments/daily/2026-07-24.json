@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784925365384,
+  "updatedAt": 1784925492622,
   "version": 1,
   "comments": [
     {
@@ -54,12 +54,13 @@
       "verseName": "Lik 5:3",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "72ddfe7481ba1976b3b68197c15043a7caf3ba97ff45220793c4fac3673d78c1"
+        "72ddfe7481ba1976b3b68197c15043a7caf3ba97ff45220793c4fac3673d78c1",
+        "ae06a428f557cc22863b58fbcece49708c70323e7a8b6df606f40aaac5839898"
       ],
       "createdAt": 1784898671981,
-      "updatedAt": 1784901364984,
+      "updatedAt": 1784925492622,
       "status": "active"
     },
     {
@@ -468,8 +469,8 @@
     }
   ],
   "likeCount": 126,
-  "shareCount": 183,
-  "viewCount": 16796,
+  "shareCount": 184,
+  "viewCount": 16820,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
