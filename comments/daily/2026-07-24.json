@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784890151214,
+  "updatedAt": 1784890265996,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784890197778",
+      "text": "amen 🙏🙏",
+      "userDeviceId": "a3571fb790bbe714780f828a47315fecf03c792fa87d449d9632e9852ef36e4e",
+      "userName": "ketlove Pierre",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784890265996,
+      "updatedAt": 1784890265996,
+      "status": "active"
+    },
     {
       "id": "local-1784889965155",
       "text": "amen 🙏🙏🙏",
@@ -263,9 +277,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
+  "likeCount": 73,
   "shareCount": 92,
-  "viewCount": 9113,
+  "viewCount": 9145,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
@@ -338,7 +352,8 @@
     "3a15ec9cd12adad12a75f130aa62a733b4ea58e9299426effafa0aa01d18450a",
     "4a90f1a7486b38612d41d5915b5e5fc237178aa06fb904a51a6efb13788108ea",
     "0d5121e2f34f0544f9b6e63716987498d10511952a2e7e543d07bbf456a636fe",
-    "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500"
+    "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
+    "a3571fb790bbe714780f828a47315fecf03c792fa87d449d9632e9852ef36e4e"
   ],
   "verseViewBy": []
 }
