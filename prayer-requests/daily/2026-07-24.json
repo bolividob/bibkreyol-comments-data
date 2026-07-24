@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "updatedAt": 1784903225798,
+  "updatedAt": 1784906103376,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -1170,7 +1170,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum tuju ret nn pye Bondye",
       "status": "praying",
-      "prayerCount": 57,
+      "prayerCount": 58,
       "prayedBy": [
         "0156db7513ac9d82e107f69be6ed2f41190ecbb0b0ba424af93aa82bc21f5f4b",
         "db3112ece86e4d067499f21f1071be74835f8009db2d00ac4144dd2b918b8778",
@@ -1228,9 +1228,14 @@
         "8347199b8cde00241dc97b06c5b166ec5253d3595b1ae1a487e4af235f95960c",
         "fb2ff30106f89eea0ce806e753862eaff9263dc68305903e78e05896636d9b52",
         "988408dc184f033540fc2d7b9eb481a22da32f1c9fbb11f2dec9a2838235d3b0",
-        "602d65b0ca88bde259fa35ae8beb4f33f35cb6e8fc0ebbcfaa66ab78ddefea9d"
+        "602d65b0ca88bde259fa35ae8beb4f33f35cb6e8fc0ebbcfaa66ab78ddefea9d",
+        "33a94556f601c87462cb36ddf5ad7a5fc0ecca4f08a1ed662a809c9f4ff510aa"
       ],
       "prayingPreview": [
+        {
+          "userName": "Sr veve",
+          "prayedAt": 1784906078109
+        },
         {
           "userName": "Trace Dar-Lee",
           "prayedAt": 1784814948369
@@ -1306,10 +1311,6 @@
         {
           "userName": "peterson",
           "prayedAt": 1783783026547
-        },
-        {
-          "userName": "Marie Michelle",
-          "prayedAt": 1783782183919
         }
       ],
       "encouragements": [
@@ -1546,7 +1547,7 @@
         }
       ],
       "submittedAt": 1783468728985,
-      "updatedAt": 1784815022784,
+      "updatedAt": 1784906103375,
       "answeredAt": null,
       "testimony": null
     },
