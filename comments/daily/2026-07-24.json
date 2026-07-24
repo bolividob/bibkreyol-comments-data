@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784934609093,
+  "updatedAt": 1784934978364,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784934942741",
+      "text": "Jezi wa de glwa",
+      "userDeviceId": "65f91804897b23330da4301b0906bfa99be4bd8ab0ef86eb9c447af582e8c982",
+      "userName": "François Joël",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784934978363,
+      "updatedAt": 1784934978363,
+      "status": "active"
+    },
     {
       "id": "local-1784906757284",
       "text": "Amen",
@@ -470,7 +484,7 @@
   ],
   "likeCount": 141,
   "shareCount": 195,
-  "viewCount": 19105,
+  "viewCount": 19230,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
