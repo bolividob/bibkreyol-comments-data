@@ -1,12 +1,27 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784853226879,
+  "updatedAt": 1784853654137,
   "version": 1,
-  "comments": [],
-  "likeCount": 7,
-  "shareCount": 2,
-  "viewCount": 826,
+  "comments": [
+    {
+      "id": "local-1784853240152",
+      "text": "lik5",
+      "userDeviceId": "41c2b9871f51156f1c9b11c24727cc89a7efd8f5c6aa866641712b24ae01325e",
+      "userName": "jelin",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784853654137,
+      "updatedAt": 1784853654137,
+      "status": "active"
+    }
+  ],
+  "likeCount": 9,
+  "shareCount": 5,
+  "viewCount": 1041,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
@@ -14,7 +29,9 @@
     "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
     "fd72abd89e77eeffe20ed072d5f96cd3070aa03f93d25c7229a1680d0e5240ed",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
-    "e18d7e3c9eb3839ad659398cb923b5b5f6a4c5adefaf4a82871fc57eb9624de6"
+    "e18d7e3c9eb3839ad659398cb923b5b5f6a4c5adefaf4a82871fc57eb9624de6",
+    "a1a96f225ced5b33e6f2f68a7d68bfa75c20e59bc35f224b3b4f38c04985f56a",
+    "203166bef3b3fce01681bbf4563974b2b526489c88dab7f639181cb565a6083d"
   ],
   "verseViewBy": []
 }
