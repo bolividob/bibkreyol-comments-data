@@ -1,9 +1,37 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784889065231,
+  "updatedAt": 1784889312807,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784889110834",
+      "text": "mwen mande BONDYE POUL banm fòs ak anpil kònesans de la pawòl",
+      "userDeviceId": "ba3158d991ba8b84e8a80982aa5992d9c6cbd5ae7f0dedceedd0c0f7d6cd2717",
+      "userName": "estilus Berthieu",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784889312807,
+      "updatedAt": 1784889312807,
+      "status": "active"
+    },
+    {
+      "id": "local-1784889136163",
+      "text": "mwen apresye travay la ak kè 💝",
+      "userDeviceId": "89c9d37d6942ad568361f060a46fcf9a2d1dc6068560f66ad5711e9ced90d8cf",
+      "userName": "Mezidor nelby",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784889312807,
+      "updatedAt": 1784889312807,
+      "status": "active"
+    },
     {
       "id": "local-1784887262948",
       "text": "amen",
@@ -207,9 +235,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 85,
-  "viewCount": 8810,
+  "likeCount": 69,
+  "shareCount": 88,
+  "viewCount": 8879,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
@@ -278,7 +306,8 @@
     "5b435d303c50f7104d56f8d663a3424190183df64eb91990fa53c4f8c8926b82",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
-    "ff35c8bbe78ba7ec12457cce3b4d8ee60f58412ffc9c0ecddeb46110e6512623"
+    "ff35c8bbe78ba7ec12457cce3b4d8ee60f58412ffc9c0ecddeb46110e6512623",
+    "3a15ec9cd12adad12a75f130aa62a733b4ea58e9299426effafa0aa01d18450a"
   ],
   "verseViewBy": []
 }
