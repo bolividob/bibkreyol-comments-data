@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784857749796,
+  "updatedAt": 1784857871590,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784856306007",
+      "text": "amen",
+      "userDeviceId": "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
+      "userName": "béthel",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784857871590,
+      "updatedAt": 1784857871590,
+      "status": "active"
+    },
     {
       "id": "local-1784857653584",
       "text": "mwen renmen jezi",
@@ -49,7 +63,7 @@
   ],
   "likeCount": 14,
   "shareCount": 16,
-  "viewCount": 2110,
+  "viewCount": 2169,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
