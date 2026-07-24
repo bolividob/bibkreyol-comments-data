@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784856743286,
+  "updatedAt": 1784856923028,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784856731898",
+      "text": "Mwen mande BonDye pou l kontinye ban nou plis entèlijans ak disèneman",
+      "userDeviceId": "086a200dd68666b0e7b205fd7842cf1b8557c82eedde3b64e5674438818d6aa3",
+      "userName": "Kenel",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784856923027,
+      "updatedAt": 1784856923027,
+      "status": "active"
+    },
     {
       "id": "local-1784853240152",
       "text": "lik5",
@@ -21,7 +35,7 @@
   ],
   "likeCount": 13,
   "shareCount": 10,
-  "viewCount": 1698,
+  "viewCount": 1772,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
