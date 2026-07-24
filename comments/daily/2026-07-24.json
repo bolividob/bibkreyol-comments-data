@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784881742418,
+  "updatedAt": 1784881986503,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784881846243",
+      "text": "amén amén amén 🙏🙏🙏🙏",
+      "userDeviceId": "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
+      "userName": "manitha",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784881986503,
+      "updatedAt": 1784881986503,
+      "status": "active"
+    },
     {
       "id": "local-1784870683266",
       "text": "Amén y amén",
@@ -151,9 +165,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 65,
-  "viewCount": 7510,
+  "likeCount": 60,
+  "shareCount": 66,
+  "viewCount": 7538,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
@@ -213,7 +227,8 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "52d932eaf2fc999769ae216fff3d07f1052745724b421dfdab73e2bf6b4661e7",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
-    "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab"
+    "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
+    "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a"
   ],
   "verseViewBy": []
 }
