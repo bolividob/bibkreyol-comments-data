@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784909473838,
+  "updatedAt": 1784914864032,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -411,7 +411,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 127,
+      "prayerCount": 128,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -539,9 +539,14 @@
         "44e564c27992356a40286a4e016793876e0d98cae9a9e4789404690c2f54e137",
         "1c5d7266954d0369a8a6de0ad95f0a97ed271a2952ef6272954a58dda2379f98",
         "76f11917c69aef2d80c5542f66517a3c357654894d1ab96c80aacbcc85a413a7",
-        "f32eb7d29afadb5a887ff1f3375784527fb5c6859999a1e0143398e568d4ceba"
+        "f32eb7d29afadb5a887ff1f3375784527fb5c6859999a1e0143398e568d4ceba",
+        "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f"
       ],
       "prayingPreview": [
+        {
+          "userName": "GÉNESIS",
+          "prayedAt": 1784914797393
+        },
         {
           "userName": "Marie carme",
           "prayedAt": 1784903003525
@@ -617,13 +622,16 @@
         {
           "userName": "Jona Belton",
           "prayedAt": 1784801679433
-        },
-        {
-          "userName": "Hermanie pierre louis",
-          "prayedAt": 1784783991801
         }
       ],
       "encouragements": [
+        {
+          "id": "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f-1784914797393-encouragement",
+          "userDeviceId": "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f",
+          "userName": "GÉNESIS",
+          "text": "kr bondye beniw",
+          "createdAt": 1784914797393
+        },
         {
           "id": "f32eb7d29afadb5a887ff1f3375784527fb5c6859999a1e0143398e568d4ceba-1784903003525-encouragement",
           "userDeviceId": "f32eb7d29afadb5a887ff1f3375784527fb5c6859999a1e0143398e568d4ceba",
@@ -1158,7 +1166,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784903225798,
+      "updatedAt": 1784914862866,
       "answeredAt": null,
       "testimony": null
     },
