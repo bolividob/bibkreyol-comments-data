@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784933118234,
+  "updatedAt": 1784934309173,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -411,7 +411,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 129,
+      "prayerCount": 130,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -541,9 +541,14 @@
         "76f11917c69aef2d80c5542f66517a3c357654894d1ab96c80aacbcc85a413a7",
         "f32eb7d29afadb5a887ff1f3375784527fb5c6859999a1e0143398e568d4ceba",
         "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f",
-        "0bc3cf19866507a40f38b34f38b6fba9034bbdd0112f76d9937d6cdd0ef20b1b"
+        "0bc3cf19866507a40f38b34f38b6fba9034bbdd0112f76d9937d6cdd0ef20b1b",
+        "5351af715e6fd415dd41cce1aef7b23a394a671f470bb39bc3ba007b0fe60e10"
       ],
       "prayingPreview": [
+        {
+          "userName": "maylove",
+          "prayedAt": 1784933930351
+        },
         {
           "userName": "la prière",
           "prayedAt": 1784932951105
@@ -619,13 +624,16 @@
         {
           "userName": "Sarah",
           "prayedAt": 1784808187914
-        },
-        {
-          "userName": "saint Louis lovelie",
-          "prayedAt": 1784805365022
         }
       ],
       "encouragements": [
+        {
+          "id": "5351af715e6fd415dd41cce1aef7b23a394a671f470bb39bc3ba007b0fe60e10-1784933984581-encouragement",
+          "userDeviceId": "5351af715e6fd415dd41cce1aef7b23a394a671f470bb39bc3ba007b0fe60e10",
+          "userName": "maylove",
+          "text": "edem priye pou poum pa dekouraje",
+          "createdAt": 1784933984581
+        },
         {
           "id": "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f-1784914797393-encouragement",
           "userDeviceId": "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f",
@@ -1167,7 +1175,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784933117101,
+      "updatedAt": 1784934307981,
       "answeredAt": null,
       "testimony": null
     },
