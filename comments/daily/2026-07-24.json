@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784858730584,
+  "updatedAt": 1784859037723,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784858971230",
+      "text": "Amen 🙏🙏🙏",
+      "userDeviceId": "5245ba4fbb5416e884f70f0fb46735c3ceb346c4ffb637e519f03dd7c2c2e845",
+      "userName": "Adoratrice Perla pour Dieu",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784859037723,
+      "updatedAt": 1784859037723,
+      "status": "active"
+    },
     {
       "id": "local-1784856306007",
       "text": "amen",
@@ -26,10 +40,12 @@
       "verseName": "Lik 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "5245ba4fbb5416e884f70f0fb46735c3ceb346c4ffb637e519f03dd7c2c2e845"
+      ],
       "createdAt": 1784857749795,
-      "updatedAt": 1784857749795,
+      "updatedAt": 1784859037723,
       "status": "active"
     },
     {
@@ -63,7 +79,7 @@
   ],
   "likeCount": 18,
   "shareCount": 21,
-  "viewCount": 2539,
+  "viewCount": 2678,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
