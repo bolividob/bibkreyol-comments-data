@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784893168974,
+  "updatedAt": 1784893264750,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784893177428",
+      "text": "amén 🙏🙏🙏",
+      "userDeviceId": "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
+      "userName": "Guirlene Gilles",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784893264750,
+      "updatedAt": 1784893264750,
+      "status": "active"
+    },
     {
       "id": "local-1784890949700",
       "text": "mwe swete yon lé tout kretyen ap ka priye enligne sou app bib kreyòl🥳",
@@ -335,7 +349,7 @@
   ],
   "likeCount": 81,
   "shareCount": 104,
-  "viewCount": 9906,
+  "viewCount": 9928,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
