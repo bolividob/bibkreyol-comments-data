@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784906227618,
+  "updatedAt": 1784909116618,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,11 +14,16 @@
       "customExpectedSeason": null,
       "request": "Edem priye pou Bondye ouvè pòt pou mwen",
       "status": "praying",
-      "prayerCount": 1,
+      "prayerCount": 2,
       "prayedBy": [
-        "dffc9f8a387e5864f7badad59b700b76fa217438eec58b54caafd3abc3dcd94c"
+        "dffc9f8a387e5864f7badad59b700b76fa217438eec58b54caafd3abc3dcd94c",
+        "0d60bed5876eaf68620019620647120a71d404331eeefb3264bd34b6837f5dbe"
       ],
       "prayingPreview": [
+        {
+          "userName": "Rocianie Bruce",
+          "prayedAt": 1784908919928
+        },
         {
           "userName": "Olga alrichi",
           "prayedAt": 1784865505396
@@ -26,7 +31,7 @@
       ],
       "encouragements": [],
       "submittedAt": 1784853294261,
-      "updatedAt": 1784865789130,
+      "updatedAt": 1784909112939,
       "answeredAt": null,
       "testimony": null
     },
