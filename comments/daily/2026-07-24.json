@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784863088471,
+  "updatedAt": 1784863339847,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784866472591",
+      "text": "mwn mande bondye poul banm fos ak kouraj",
+      "userDeviceId": "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
+      "userName": "fayoo",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784863339846,
+      "updatedAt": 1784863339846,
+      "status": "active"
+    },
     {
       "id": "local-1784861324765",
       "text": "Parole BonDieu Vivian, Merci Seigneur Jesus Merci",
@@ -93,9 +107,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
-  "shareCount": 29,
-  "viewCount": 4489,
+  "likeCount": 32,
+  "shareCount": 30,
+  "viewCount": 4608,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
@@ -127,7 +141,8 @@
     "7e5818f5703509940a823eb25370b4dde350a0eed558b360dba3e4fce5287b79",
     "21416fd73f1a675b3f052de088cbdb67800824f63631e08f7ffb97f0e1179fd4",
     "b51be5c570016ee4a83a28cd135a1d4bbf4353120f6f1bd8509e264bd916b5d3",
-    "44e564c27992356a40286a4e016793876e0d98cae9a9e4789404690c2f54e137"
+    "44e564c27992356a40286a4e016793876e0d98cae9a9e4789404690c2f54e137",
+    "cb90bc78116189310302dc6bcf5fe1d9b92d763a489ea9d2865215953c03533d"
   ],
   "verseViewBy": []
 }
