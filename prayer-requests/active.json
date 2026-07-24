@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784914864032,
+  "updatedAt": 1784918944959,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -1835,7 +1835,7 @@
       "customExpectedSeason": null,
       "request": "poum rete kay Dye,poum tuju gn puisns",
       "status": "praying",
-      "prayerCount": 24,
+      "prayerCount": 25,
       "prayedBy": [
         "9b81bd0b0ed45427cf746e9aca46655216ffc92ada04c9edd55f0a633464de8a",
         "0e320462eb99b30f841c344febcbe76c132f52518bc50f852eb487bed42fa456",
@@ -1860,9 +1860,14 @@
         "e3b80cc01a265c5e17b0f342d1b3c780470b9ebbc5fe47abcfeab45744f37c8a",
         "ad3a1bfdfde1de3fee4bcfe2b7292ae54fbee624dbe48e09c159a2939d5e0d9a",
         "63fba3c3da85f932f81702a72019030d3664959111b5cb5f2fe78ab177a9b9bc",
-        "ef0d454c40ff7ab16b859dc762452bda262faad543136b2e844cc4f8b140aa31"
+        "ef0d454c40ff7ab16b859dc762452bda262faad543136b2e844cc4f8b140aa31",
+        "6241e07fe49dca797bdddddee046ba09f1e67ed00702d552ea372170134c5097"
       ],
       "prayingPreview": [
+        {
+          "userName": "MARC O'NEAL",
+          "prayedAt": 1784918844301
+        },
         {
           "userName": "éeeeeeeeeeeeeeeeeeeeeeeeeenan odio a pav",
           "prayedAt": 1783988478366
@@ -1938,13 +1943,16 @@
         {
           "userName": "Sony Ledix",
           "prayedAt": 1783203686965
-        },
-        {
-          "userName": "JEAN JACQUES Mario",
-          "prayedAt": 1783194565137
         }
       ],
       "encouragements": [
+        {
+          "id": "6241e07fe49dca797bdddddee046ba09f1e67ed00702d552ea372170134c5097-1784918844301-encouragement",
+          "userDeviceId": "6241e07fe49dca797bdddddee046ba09f1e67ed00702d552ea372170134c5097",
+          "userName": "MARC O'NEAL",
+          "text": "amour Bon Dye a béni nou",
+          "createdAt": 1784918844301
+        },
         {
           "id": "e3b80cc01a265c5e17b0f342d1b3c780470b9ebbc5fe47abcfeab45744f37c8a-1783551659830-encouragement",
           "userDeviceId": "e3b80cc01a265c5e17b0f342d1b3c780470b9ebbc5fe47abcfeab45744f37c8a",
@@ -2024,7 +2032,7 @@
         }
       ],
       "submittedAt": 1783130256640,
-      "updatedAt": 1783988776963,
+      "updatedAt": 1784918943855,
       "answeredAt": null,
       "testimony": null
     },
