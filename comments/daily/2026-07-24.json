@@ -1,9 +1,23 @@
 {
   "date": "2026-07-24",
   "verseKey": "daily:2026-07-24",
-  "updatedAt": 1784898426408,
+  "updatedAt": 1784898671981,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784898641976",
+      "text": "bondye Beni nou",
+      "userDeviceId": "7c16b63ece6d4c8d406e355f45bb5dac107c269d7e386139413bdae21a304d96",
+      "userName": "shinaydaire",
+      "verseName": "Lik 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784898671981,
+      "updatedAt": 1784898671981,
+      "status": "active"
+    },
     {
       "id": "local-1784897890308",
       "text": "millien Monika ago amen amen",
@@ -403,9 +417,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 91,
-  "shareCount": 132,
-  "viewCount": 11225,
+  "likeCount": 93,
+  "shareCount": 133,
+  "viewCount": 11294,
   "verseLikedBy": [
     "aa792a5c291a5e42784573c6cdd52cf6e9b6234feed5fd80b61ced0fc40c5098",
     "1d42c1d08a213002584069c8eb231872934c4e5fe5e4d8ab5efde9002146555e",
@@ -497,7 +511,9 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "f5ab1ad7204882d06c56935217136f9c413513d70d1396392c473e78a68e0744",
     "6d3df6b39f391b555f628e0642042b9c944b204f0871da360138e8ffcd5434d0",
-    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413"
+    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
+    "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
+    "7c16b63ece6d4c8d406e355f45bb5dac107c269d7e386139413bdae21a304d96"
   ],
   "verseViewBy": []
 }
