@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": 1784944502178,
+  "updatedAt": 1784945942246,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -444,7 +444,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 130,
+      "prayerCount": 131,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -575,9 +575,14 @@
         "f32eb7d29afadb5a887ff1f3375784527fb5c6859999a1e0143398e568d4ceba",
         "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f",
         "0bc3cf19866507a40f38b34f38b6fba9034bbdd0112f76d9937d6cdd0ef20b1b",
-        "5351af715e6fd415dd41cce1aef7b23a394a671f470bb39bc3ba007b0fe60e10"
+        "5351af715e6fd415dd41cce1aef7b23a394a671f470bb39bc3ba007b0fe60e10",
+        "cbdf9a927eac0b5fdedc27480f6843fa6e03d65fb9dbfe6427c2c59e6095e8c0"
       ],
       "prayingPreview": [
+        {
+          "userName": "clairicai Desira",
+          "prayedAt": 1784945866988
+        },
         {
           "userName": "maylove",
           "prayedAt": 1784933930351
@@ -653,10 +658,6 @@
         {
           "userName": "ketoo",
           "prayedAt": 1784809485534
-        },
-        {
-          "userName": "Sarah",
-          "prayedAt": 1784808187914
         }
       ],
       "encouragements": [
@@ -1208,7 +1209,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784934307981,
+      "updatedAt": 1784945942245,
       "answeredAt": null,
       "testimony": null
     },
