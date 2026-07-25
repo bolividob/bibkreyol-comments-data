@@ -1,9 +1,37 @@
 {
   "date": "2026-07-25",
   "verseKey": "daily:2026-07-25",
-  "updatedAt": 1784998025500,
+  "updatedAt": 1784998146075,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784998036210",
+      "text": "amen 🙏",
+      "userDeviceId": "54e37701cb1d9ab399df78f7c52c5a45e8953abe788a3e9876fe77da403cad02",
+      "userName": "amen",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784998146075,
+      "updatedAt": 1784998146075,
+      "status": "active"
+    },
+    {
+      "id": "local-1784998139794",
+      "text": "good live 😊",
+      "userDeviceId": "54e37701cb1d9ab399df78f7c52c5a45e8953abe788a3e9876fe77da403cad02",
+      "userName": "Queeny 💗",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784998146075,
+      "updatedAt": 1784998146075,
+      "status": "active"
+    },
     {
       "id": "local-1784984212344",
       "text": "good live",
@@ -245,8 +273,8 @@
     }
   ],
   "likeCount": 92,
-  "shareCount": 161,
-  "viewCount": 14677,
+  "shareCount": 162,
+  "viewCount": 14705,
   "verseLikedBy": [
     "1b11677148c86bb5a65c8f1f2da0597ff4f667878c4c5959bd74b11d25ed50d7",
     "2062aae9096c7df0de865e06115d224c7123673dbb74d404a5e2759e6f8e0e56",
