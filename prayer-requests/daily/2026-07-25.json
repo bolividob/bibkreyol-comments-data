@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": 1785001142125,
+  "updatedAt": 1785011825387,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -16,16 +16,21 @@
       "customExpectedSeason": null,
       "request": "Edem priye pou Bondye ouvè pòt pou mwen",
       "status": "praying",
-      "prayerCount": 6,
+      "prayerCount": 7,
       "prayedBy": [
         "dffc9f8a387e5864f7badad59b700b76fa217438eec58b54caafd3abc3dcd94c",
         "0d60bed5876eaf68620019620647120a71d404331eeefb3264bd34b6837f5dbe",
         "6d6deb22f4e178468fae635692fb3d5563638f14107473042477c47989f29bf6",
         "aeaadaa547dd0223e9be500818dd4c1829af39e283487cea942fe9dfdfa02a60",
         "e0022a5bf41fadd8a4019cdd7d33d04ccf0d2bf59bf9ee801dde5e6942eaf747",
-        "502836a15bc1237ed9d52386e3d947241c43e4b5863d90225b1cd98f268207ab"
+        "502836a15bc1237ed9d52386e3d947241c43e4b5863d90225b1cd98f268207ab",
+        "1b52f6d79a8608963cd01238ea31eb64668dc4593de45971cca27155e6916add"
       ],
       "prayingPreview": [
+        {
+          "userName": "cheli",
+          "prayedAt": 1785011813963
+        },
         {
           "userName": "Abigaëlle Alferus",
           "prayedAt": 1784965044694
@@ -75,7 +80,7 @@
         }
       ],
       "submittedAt": 1784853294261,
-      "updatedAt": 1784965507324,
+      "updatedAt": 1785011825387,
       "answeredAt": null,
       "testimony": null
     },
