@@ -1,9 +1,23 @@
 {
   "date": "2026-07-25",
   "verseKey": "daily:2026-07-25",
-  "updatedAt": 1784980505024,
+  "updatedAt": 1784980626839,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784980620748",
+      "text": "amen siw kwé ou se pitit jezikris wap sove",
+      "userDeviceId": "2e322e9aaefd6665b5e5519e8e31a8d914ae813a3f634666a9db2137f650f63b",
+      "userName": "sévant Bondye",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784980626839,
+      "updatedAt": 1784980626839,
+      "status": "active"
+    },
     {
       "id": "local-1784976385946",
       "text": "🙏🏽",
@@ -192,9 +206,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 111,
-  "viewCount": 10240,
+  "likeCount": 66,
+  "shareCount": 112,
+  "viewCount": 10270,
   "verseLikedBy": [
     "1b11677148c86bb5a65c8f1f2da0597ff4f667878c4c5959bd74b11d25ed50d7",
     "2062aae9096c7df0de865e06115d224c7123673dbb74d404a5e2759e6f8e0e56",
@@ -260,7 +274,8 @@
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
-    "f5e439752cbd14b481ac13c160805aadbaa344cb78fbe1593d3db711e977070d"
+    "f5e439752cbd14b481ac13c160805aadbaa344cb78fbe1593d3db711e977070d",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
   ],
   "verseViewBy": []
 }
