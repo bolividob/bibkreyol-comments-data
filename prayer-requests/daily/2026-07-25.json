@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": 1784980143842,
+  "updatedAt": 1784983862222,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -165,7 +165,7 @@
       "customExpectedSeason": null,
       "request": "edem priye  pou familia priye  deblozaj",
       "status": "praying",
-      "prayerCount": 9,
+      "prayerCount": 10,
       "prayedBy": [
         "c03f7e20c2a3d30079767e89f8ac01e0e41c382bd67403ea27d0a1f46cdde445",
         "117a5773d6898da6f0e2760891b7a2434ac7d5e5a8037fe91b30613a685f2e1a",
@@ -175,9 +175,14 @@
         "912cd873e9b42692674893df7418dbe2e0bdb79ebe4fdc01a8ae0d23bfc4c210",
         "af5d80f53d4c788ce61eb44103b4b9638ff553c0ef83649855f3643b905215e7",
         "094db82a8a4fec045e5c54f1e96cfa2e7d899bf6ece0e0f63f00df7d24ce0b57",
-        "f8fe9ccd7ff0096f9f19df306256cd3106b2e82f5c588cb607c17e9f0999eb7b"
+        "f8fe9ccd7ff0096f9f19df306256cd3106b2e82f5c588cb607c17e9f0999eb7b",
+        "307e5014b26e9f58e97e01037947aa4512a6986179530da41f29b8b0025709d0"
       ],
       "prayingPreview": [
+        {
+          "userName": "Beline",
+          "prayedAt": 1784983824208
+        },
         {
           "userName": "soeur Yanelisa(Sasou)",
           "prayedAt": 1784967368890
@@ -217,6 +222,13 @@
       ],
       "encouragements": [
         {
+          "id": "307e5014b26e9f58e97e01037947aa4512a6986179530da41f29b8b0025709d0-1784983824208-encouragement",
+          "userDeviceId": "307e5014b26e9f58e97e01037947aa4512a6986179530da41f29b8b0025709d0",
+          "userName": "Beline",
+          "text": "priyè maten",
+          "createdAt": 1784983824208
+        },
+        {
           "id": "f8fe9ccd7ff0096f9f19df306256cd3106b2e82f5c588cb607c17e9f0999eb7b-1784967368890-encouragement",
           "userDeviceId": "f8fe9ccd7ff0096f9f19df306256cd3106b2e82f5c588cb607c17e9f0999eb7b",
           "userName": "soeur Yanelisa(Sasou)",
@@ -253,7 +265,7 @@
         }
       ],
       "submittedAt": 1784420913688,
-      "updatedAt": 1784967426653,
+      "updatedAt": 1784983862222,
       "answeredAt": null,
       "testimony": null
     },
