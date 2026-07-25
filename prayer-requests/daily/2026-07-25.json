@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": 1784983862222,
+  "updatedAt": 1784984103118,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -492,7 +492,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 135,
+      "prayerCount": 136,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -628,9 +628,14 @@
         "0da1f6372eb80138b3112868aea6ebed93a131fde1602691f2457f8a46114a7c",
         "89f87e3596d3b40f21b166303be346b938e98a8964d52964e56c9b621f757c7a",
         "9301071126727f1b21792cf7818f3b862be9a695cc99365934dffc7791752238",
-        "978bf4eec51d5540666819dd6dc636f7b44f9f81c72a4243b7bce3cacdc6622f"
+        "978bf4eec51d5540666819dd6dc636f7b44f9f81c72a4243b7bce3cacdc6622f",
+        "a03263a27be86e3ec9efc3943f00679e7c1e0b70e2237ec22a2667f460d2ac41"
       ],
       "prayingPreview": [
+        {
+          "userName": "manouch",
+          "prayedAt": 1784983891770
+        },
         {
           "userName": "premilus Mona e",
           "prayedAt": 1784979959035
@@ -706,10 +711,6 @@
         {
           "userName": "senel",
           "prayedAt": 1784839539422
-        },
-        {
-          "userName": "nedoo",
-          "prayedAt": 1784826359736
         }
       ],
       "encouragements": [
@@ -1275,7 +1276,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784980143841,
+      "updatedAt": 1784984103118,
       "answeredAt": null,
       "testimony": null
     },
