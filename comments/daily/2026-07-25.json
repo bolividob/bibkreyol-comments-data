@@ -1,9 +1,23 @@
 {
   "date": "2026-07-25",
   "verseKey": "daily:2026-07-25",
-  "updatedAt": 1784999948737,
+  "updatedAt": 1785000063367,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784999984424",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785000063367,
+      "updatedAt": 1785000063367,
+      "status": "active"
+    },
     {
       "id": "local-1784998185534",
       "text": "🙏🏽",
@@ -293,7 +307,7 @@
   ],
   "likeCount": 95,
   "shareCount": 168,
-  "viewCount": 15082,
+  "viewCount": 15094,
   "verseLikedBy": [
     "1b11677148c86bb5a65c8f1f2da0597ff4f667878c4c5959bd74b11d25ed50d7",
     "2062aae9096c7df0de865e06115d224c7123673dbb74d404a5e2759e6f8e0e56",
