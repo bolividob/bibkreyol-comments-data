@@ -1,9 +1,51 @@
 {
   "date": "2026-07-25",
   "verseKey": "daily:2026-07-25",
-  "updatedAt": 1784947764615,
+  "updatedAt": 1784947947766,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784947752711",
+      "text": "amen",
+      "userDeviceId": "b75bb88df3cddda73d95eae4129aa3af2abf8f8a0ea6b2a40e822e8610be2d69",
+      "userName": "Anite",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784947947766,
+      "updatedAt": 1784947947766,
+      "status": "active"
+    },
+    {
+      "id": "local-1784947775213",
+      "text": "amén",
+      "userDeviceId": "b75bb88df3cddda73d95eae4129aa3af2abf8f8a0ea6b2a40e822e8610be2d69",
+      "userName": "Anite",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784947947766,
+      "updatedAt": 1784947947766,
+      "status": "active"
+    },
+    {
+      "id": "local-1784946388610",
+      "text": "Bondye beni w",
+      "userDeviceId": "190d5759339d67d5bdd9cc2c7251502bdbab79ff785c010c81827345f8d198a5",
+      "userName": "Mimise",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784947947766,
+      "updatedAt": 1784947947766,
+      "status": "active"
+    },
     {
       "id": "local-1784947226733",
       "text": "🫶🫶🫶🫶",
@@ -66,9 +108,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 43,
-  "viewCount": 4276,
+  "likeCount": 23,
+  "shareCount": 44,
+  "viewCount": 4433,
   "verseLikedBy": [
     "1b11677148c86bb5a65c8f1f2da0597ff4f667878c4c5959bd74b11d25ed50d7",
     "2062aae9096c7df0de865e06115d224c7123673dbb74d404a5e2759e6f8e0e56",
@@ -91,7 +133,8 @@
     "68c037e685fc8f6b4881bb7e2363c29c14cb56d951ee023da3d0a5a8f6c577c8",
     "c45fbe184a937e2f9eb075b3ec9208adb6f30d7812a91efd347a8b44502e1c6d",
     "d03d12598d631b03824056bf4f3ac18b8442a29cd04df2ef87317200bfbd3c6b",
-    "fda2fff7d7db02be58284aebdf1f9f1f19556de834061d22a17fe02f939c4d4f"
+    "fda2fff7d7db02be58284aebdf1f9f1f19556de834061d22a17fe02f939c4d4f",
+    "fda3f33858e195c7ccd5a9bb8752d5378271c90360b79728be4d24f5a04514df"
   ],
   "verseViewBy": []
 }
