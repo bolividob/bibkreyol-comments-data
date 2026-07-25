@@ -1,9 +1,25 @@
 {
   "date": "2026-07-25",
   "verseKey": "daily:2026-07-25",
-  "updatedAt": 1784943250326,
+  "updatedAt": 1784943625939,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784943338757",
+      "text": "amen",
+      "userDeviceId": "4ea2854030a5da49d5fb5ddca38bd03ebe4971cfad75d120d44111734df52950",
+      "userName": "jinet",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "4ea2854030a5da49d5fb5ddca38bd03ebe4971cfad75d120d44111734df52950"
+      ],
+      "createdAt": 1784943625939,
+      "updatedAt": 1784943625939,
+      "status": "active"
+    },
     {
       "id": "local-1784940119853",
       "text": "Amen 🙏🏼🙏🏼🙏🏼🙏🏼🙇🙏🏼",
@@ -12,16 +28,18 @@
       "verseName": "1 Timote 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4ea2854030a5da49d5fb5ddca38bd03ebe4971cfad75d120d44111734df52950"
+      ],
       "createdAt": 1784940257287,
-      "updatedAt": 1784940257287,
+      "updatedAt": 1784943625939,
       "status": "active"
     }
   ],
-  "likeCount": 8,
-  "shareCount": 26,
-  "viewCount": 2317,
+  "likeCount": 10,
+  "shareCount": 27,
+  "viewCount": 2501,
   "verseLikedBy": [
     "1b11677148c86bb5a65c8f1f2da0597ff4f667878c4c5959bd74b11d25ed50d7",
     "2062aae9096c7df0de865e06115d224c7123673dbb74d404a5e2759e6f8e0e56",
@@ -30,7 +48,9 @@
     "cf2a3349d63dfb7a31838b3eb1c71551b8f69ed21b5e88bd9516f9ff12eb88a1",
     "9c233bb32b80c8ec674d478d5947e67ee546d23e69af8a829963f024732976e9",
     "ace0accf748f5105b5d98ee714c5b2cbe7a3cc2ffbcd8d2dcad646f05f8c9805",
-    "43200e1f36c13483489f234f9df2d33c08fa69d57a40808539b5d07a3b0eee6f"
+    "43200e1f36c13483489f234f9df2d33c08fa69d57a40808539b5d07a3b0eee6f",
+    "824bce72c17a9e782e2a01a1104c1cc4496991013736931c1111acb4b8154617",
+    "4ea2854030a5da49d5fb5ddca38bd03ebe4971cfad75d120d44111734df52950"
   ],
   "verseViewBy": []
 }
