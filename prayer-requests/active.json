@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784950623366,
+  "updatedAt": 1784950743976,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -46,6 +46,13 @@
       ],
       "encouragements": [
         {
+          "id": "e0022a5bf41fadd8a4019cdd7d33d04ccf0d2bf59bf9ee801dde5e6942eaf747-1784950675544-encouragement",
+          "userDeviceId": "e0022a5bf41fadd8a4019cdd7d33d04ccf0d2bf59bf9ee801dde5e6942eaf747",
+          "userName": "Sr Nao",
+          "text": "Je déclare la guérison et que toutes les portes fermées s'ouvrent au nom de Jésus.",
+          "createdAt": 1784950675544
+        },
+        {
           "id": "6d6deb22f4e178468fae635692fb3d5563638f14107473042477c47989f29bf6-1784935913833-encouragement",
           "userDeviceId": "6d6deb22f4e178468fae635692fb3d5563638f14107473042477c47989f29bf6",
           "userName": "Pitit fi Bondye vivan",
@@ -54,7 +61,7 @@
         }
       ],
       "submittedAt": 1784853294261,
-      "updatedAt": 1784950622173,
+      "updatedAt": 1784950742957,
       "answeredAt": null,
       "testimony": null
     },
@@ -447,7 +454,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 131,
+      "prayerCount": 132,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -579,9 +586,14 @@
         "da6c02a9349cf816ff7c8b8273e6d361b7beabeae85b25558870503dc773c45f",
         "0bc3cf19866507a40f38b34f38b6fba9034bbdd0112f76d9937d6cdd0ef20b1b",
         "5351af715e6fd415dd41cce1aef7b23a394a671f470bb39bc3ba007b0fe60e10",
-        "cbdf9a927eac0b5fdedc27480f6843fa6e03d65fb9dbfe6427c2c59e6095e8c0"
+        "cbdf9a927eac0b5fdedc27480f6843fa6e03d65fb9dbfe6427c2c59e6095e8c0",
+        "0da1f6372eb80138b3112868aea6ebed93a131fde1602691f2457f8a46114a7c"
       ],
       "prayingPreview": [
+        {
+          "userName": "testama",
+          "prayedAt": 1784950650399
+        },
         {
           "userName": "clairicai Desira",
           "prayedAt": 1784945866988
@@ -657,10 +669,6 @@
         {
           "userName": "Mayoo🥰🥰🤷‍♂️",
           "prayedAt": 1784810199993
-        },
-        {
-          "userName": "ketoo",
-          "prayedAt": 1784809485534
         }
       ],
       "encouragements": [
@@ -1212,7 +1220,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1784945942245,
+      "updatedAt": 1784950742956,
       "answeredAt": null,
       "testimony": null
     },
