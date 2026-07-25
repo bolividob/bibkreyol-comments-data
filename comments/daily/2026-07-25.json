@@ -1,9 +1,23 @@
 {
   "date": "2026-07-25",
   "verseKey": "daily:2026-07-25",
-  "updatedAt": 1784974264049,
+  "updatedAt": 1784974386033,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1784974297345",
+      "text": "amén amén amén amén",
+      "userDeviceId": "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
+      "userName": "joazardrosetania",
+      "verseName": "1 Timote 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1784974386033,
+      "updatedAt": 1784974386033,
+      "status": "active"
+    },
     {
       "id": "local-1784974048258",
       "text": "🍒🥑🍋🥑🍌🍓🍆🥔🥕🥝🥭",
@@ -164,9 +178,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 85,
-  "viewCount": 8710,
+  "likeCount": 55,
+  "shareCount": 86,
+  "viewCount": 8735,
   "verseLikedBy": [
     "1b11677148c86bb5a65c8f1f2da0597ff4f667878c4c5959bd74b11d25ed50d7",
     "2062aae9096c7df0de865e06115d224c7123673dbb74d404a5e2759e6f8e0e56",
@@ -221,7 +235,8 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
-    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0"
+    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405"
   ],
   "verseViewBy": []
 }
