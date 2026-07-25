@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785018543180,
+  "updatedAt": 1785022623225,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -416,7 +416,7 @@
       "customExpectedSeason": null,
       "request": "prospérité,gerizon",
       "status": "praying",
-      "prayerCount": 7,
+      "prayerCount": 8,
       "prayedBy": [
         "15c8f40fbf9d8cdacd8541643da7a24927818b9dfbb2ee941216fe94ce50a320",
         "c64eded9d675ee7ee6b05c18b5a86a3f63278621f3b286a7dd0538663e0576b1",
@@ -424,9 +424,14 @@
         "696b41ad14c53b5fdcd4630dd4f8ad6a8115bc8b6a803878a071bcefade3d7e9",
         "581a0f7f8e0d718cbe174e6126017b4f1a4634e438cf6b2b04ab1fdcf85bece7",
         "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a",
-        "5462b5db7f6ef7a676602875004b0df9b3b4a3626c70ec75193218138f0d1b0d"
+        "5462b5db7f6ef7a676602875004b0df9b3b4a3626c70ec75193218138f0d1b0d",
+        "02f9f393e276d0a7a39aa1eb2feebc759bb32f38f4d564624499e55911c83726"
       ],
       "prayingPreview": [
+        {
+          "userName": "sorm",
+          "prayedAt": 1785022569731
+        },
         {
           "userName": "resal",
           "prayedAt": 1784600871271
@@ -480,7 +485,7 @@
         }
       ],
       "submittedAt": 1783987755628,
-      "updatedAt": 1784601182066,
+      "updatedAt": 1785022622138,
       "answeredAt": null,
       "testimony": null
     },
