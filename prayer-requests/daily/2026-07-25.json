@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": 1785022622138,
+  "updatedAt": 1785022742728,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -465,6 +465,13 @@
       ],
       "encouragements": [
         {
+          "id": "02f9f393e276d0a7a39aa1eb2feebc759bb32f38f4d564624499e55911c83726-1785022639367-encouragement",
+          "userDeviceId": "02f9f393e276d0a7a39aa1eb2feebc759bb32f38f4d564624499e55911c83726",
+          "userName": "sorm",
+          "text": "sorme..david",
+          "createdAt": 1785022639367
+        },
+        {
           "id": "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a-1784436763454-encouragement",
           "userDeviceId": "164a442e98539e14f3e00e9780a61da8b6d5f181e93404962770f147ad550d8a",
           "userName": "Masoo",
@@ -487,7 +494,7 @@
         }
       ],
       "submittedAt": 1783987755628,
-      "updatedAt": 1785022622138,
+      "updatedAt": 1785022742728,
       "answeredAt": null,
       "testimony": null
     },
@@ -502,7 +509,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 140,
+      "prayerCount": 141,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -643,9 +650,14 @@
         "cf5013a9f69f2161a1592e8ee3670b7b60165e6ff3be40c9bcb68757234bf549",
         "552fad6ecaf959372a3161bf730d20d6749599452142507eff7acfc483e70a89",
         "afe16fad82d5f7eea4ba89ebc4f92a2cf67714df79b2cca862bcb90aff279776",
-        "8167f0347c7452e72497deef072f24024b76a26786c5192d952195d1c81d5d83"
+        "8167f0347c7452e72497deef072f24024b76a26786c5192d952195d1c81d5d83",
+        "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49"
       ],
       "prayingPreview": [
+        {
+          "userName": "Guerda",
+          "prayedAt": 1785022721359
+        },
         {
           "userName": "Landa",
           "prayedAt": 1785018417971
@@ -721,13 +733,16 @@
         {
           "userName": ",z,2,2,,2z,22,o",
           "prayedAt": 1784861568758
-        },
-        {
-          "userName": "mw se pitit bondye",
-          "prayedAt": 1784850075693
         }
       ],
       "encouragements": [
+        {
+          "id": "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49-1785022721359-encouragement",
+          "userDeviceId": "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49",
+          "userName": "Guerda",
+          "text": "gerizon",
+          "createdAt": 1785022721359
+        },
         {
           "id": "8167f0347c7452e72497deef072f24024b76a26786c5192d952195d1c81d5d83-1785018447456-encouragement",
           "userDeviceId": "8167f0347c7452e72497deef072f24024b76a26786c5192d952195d1c81d5d83",
@@ -1297,7 +1312,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1785018542116,
+      "updatedAt": 1785022742728,
       "answeredAt": null,
       "testimony": null
     },
