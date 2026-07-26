@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785030257978,
+  "updatedAt": 1785030494851,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785030253604",
+      "text": "Amen",
+      "userDeviceId": "0818c5cccd32f7cb1af2e61b5227698f6b78c406c76e514fd23f13d34f5d7ab3",
+      "userName": "Amen",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785030494851,
+      "updatedAt": 1785030494851,
+      "status": "active"
+    },
     {
       "id": "local-1785029434312",
       "text": "Amen amen amen amen",
@@ -219,9 +233,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 13,
-  "shareCount": 24,
-  "viewCount": 2330,
+  "likeCount": 14,
+  "shareCount": 25,
+  "viewCount": 2417,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -235,7 +249,8 @@
     "03d8f431187547034f394c1bf50bd3fe7580dfe0f7353cc61b402737c0150efe",
     "f57e0feabd972eb0ce7e0e2998d656b4688cdde8368c60de868e9c897e069440",
     "1020cb2d6d05dddc04bdd4219e138c9a0f42bb862abe77ee52213595705a5011",
-    "0818c5cccd32f7cb1af2e61b5227698f6b78c406c76e514fd23f13d34f5d7ab3"
+    "0818c5cccd32f7cb1af2e61b5227698f6b78c406c76e514fd23f13d34f5d7ab3",
+    "0df2a6b8cf2f8e9b0002cb0ccbdd8ccc4680a94318434a8efcc3c5b190bf3e1b"
   ],
   "verseViewBy": []
 }
