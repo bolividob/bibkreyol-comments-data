@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": 1785043623763,
+  "updatedAt": 1785043750946,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -778,6 +778,13 @@
       ],
       "encouragements": [
         {
+          "id": "20ebc260cef0a9fc6a23af5e14924e27fa04b7cf15f35815c06a9c2f6cffcbee-1785043686843-encouragement",
+          "userDeviceId": "20ebc260cef0a9fc6a23af5e14924e27fa04b7cf15f35815c06a9c2f6cffcbee",
+          "userName": "Charles",
+          "text": "mwen vle Pou Bon Dieu banm travay Pou fanmi map Jere an pa soufri , Pou mizem pase Pou pitit mwen pa pasel you",
+          "createdAt": 1785043686843
+        },
+        {
           "id": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025-1785039326460-encouragement",
           "userDeviceId": "ed514ee1c9be094115d09bc76d58ce09a0bda1937f92d64a91b50773e6809025",
           "userName": "fr Andler",
@@ -1374,7 +1381,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1785043623763,
+      "updatedAt": 1785043750946,
       "answeredAt": null,
       "testimony": null
     },
