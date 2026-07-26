@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785084676791,
+  "updatedAt": 1785084851566,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785078465391",
+      "text": "merci jezi",
+      "userDeviceId": "9f4fdc561ba09d0ccd46134baf36fd1f695ce32829d9e48d8a63c32cfe85f22e",
+      "userName": "estel kesaida",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785084851566,
+      "updatedAt": 1785084851566,
+      "status": "active"
+    },
     {
       "id": "local-1785081397503",
       "text": "Bondye biniw",
@@ -523,7 +537,7 @@
   ],
   "likeCount": 81,
   "shareCount": 146,
-  "viewCount": 18167,
+  "viewCount": 18231,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
