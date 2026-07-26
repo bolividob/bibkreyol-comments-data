@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": 1785039662613,
+  "updatedAt": 1785043623763,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -545,7 +545,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 145,
+      "prayerCount": 146,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -691,9 +691,14 @@
         "752638c831e7abe6169f557dc82a17c5776240b5e3e75b2743166b406abc2cba",
         "29c33c2c6b300f67441b2355a80bae31dda2fc958b31be07d4dfa867f6bd2a7e",
         "37b024d4fbfd61f82f26ebb9c03d1a392cc3ef3118a0e12f8cc9d06c326b160d",
-        "c1d30e020cf70ad6c1e1b4194567b9f9552d19eb82b44a753d50209d391292e2"
+        "c1d30e020cf70ad6c1e1b4194567b9f9552d19eb82b44a753d50209d391292e2",
+        "20ebc260cef0a9fc6a23af5e14924e27fa04b7cf15f35815c06a9c2f6cffcbee"
       ],
       "prayingPreview": [
+        {
+          "userName": "Charles",
+          "prayedAt": 1785043580458
+        },
         {
           "userName": "Wesly lw génie",
           "prayedAt": 1785037314843
@@ -769,10 +774,6 @@
         {
           "userName": "Marie carme",
           "prayedAt": 1784903003525
-        },
-        {
-          "userName": "labib",
-          "prayedAt": 1784895294954
         }
       ],
       "encouragements": [
@@ -1373,7 +1374,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1785039429217,
+      "updatedAt": 1785043623763,
       "answeredAt": null,
       "testimony": null
     },
