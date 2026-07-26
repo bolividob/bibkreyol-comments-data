@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785085623850,
+  "updatedAt": 1785087191794,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -543,7 +543,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 153,
+      "prayerCount": 154,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -697,9 +697,14 @@
         "23159833e5988969a772d7f3e6c06d7230671b9307a72a04c73c7b9c7b9bb538",
         "0b1fdf4f94137cd2f51d8d18e66d51e75ef1f605c0bbf211a18bc53cda9cd91d",
         "c6dbfb57eefbcfdab9adf9a7d889721a1a33841b533ec4b35fb1cc8b8645076a",
-        "f6ceee03c4f8d56302edee3e67250da1d8e1e5bd3f2eba970b07c3fd7d6f5be9"
+        "f6ceee03c4f8d56302edee3e67250da1d8e1e5bd3f2eba970b07c3fd7d6f5be9",
+        "6b7048d3a015c4da790b7e664e7dc114f73897ec3ca7d59593e425be7fab4737"
       ],
       "prayingPreview": [
+        {
+          "userName": "Medeline",
+          "prayedAt": 1785087086187
+        },
         {
           "userName": "La bib an Kréyòl",
           "prayedAt": 1785085466023
@@ -775,13 +780,16 @@
         {
           "userName": "premilus Mona e",
           "prayedAt": 1784979959035
-        },
-        {
-          "userName": "Bedji love jean",
-          "prayedAt": 1784979916486
         }
       ],
       "encouragements": [
+        {
+          "id": "6b7048d3a015c4da790b7e664e7dc114f73897ec3ca7d59593e425be7fab4737-1785087086187-encouragement",
+          "userDeviceId": "6b7048d3a015c4da790b7e664e7dc114f73897ec3ca7d59593e425be7fab4737",
+          "userName": "Medeline",
+          "text": "BonDye se dlo ki bay lavi confye nan li wa gen lavi ki pap janm fini an",
+          "createdAt": 1785087086187
+        },
         {
           "id": "23159833e5988969a772d7f3e6c06d7230671b9307a72a04c73c7b9c7b9bb538-1785063571700-encouragement",
           "userDeviceId": "23159833e5988969a772d7f3e6c06d7230671b9307a72a04c73c7b9c7b9bb538",
@@ -1393,7 +1401,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1785085622723,
+      "updatedAt": 1785087190800,
       "answeredAt": null,
       "testimony": null
     },
