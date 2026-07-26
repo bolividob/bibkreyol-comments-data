@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785081157650,
+  "updatedAt": 1785081570890,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785081397503",
+      "text": "Bondye biniw",
+      "userDeviceId": "da97ef825d61bdd464d18b8ac83daa5e72242455fb381c10dc5722d42068196a",
+      "userName": "manes",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785081570890,
+      "updatedAt": 1785081570890,
+      "status": "active"
+    },
     {
       "id": "local-1785077103091",
       "text": "🙏🏼🔥🔥🔥🔥",
@@ -503,9 +517,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 75,
+  "likeCount": 77,
   "shareCount": 145,
-  "viewCount": 17252,
+  "viewCount": 17449,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -581,7 +595,9 @@
     "62e52749fcdf7d0416fbb2e262110c802797c28cbb96f2e141ff96decb554799",
     "348dd9997a3755247c0c126f8fa751161492a785c3a1b9529fc622aa6e450a59",
     "0d4836be7179cf6b3d8598b6f31ec72386c44ac17feeaaf8b2c4d6fed2877dd5",
-    "08eeac2137702281f28e399b559349f64024aca3fd36fa633c57abfd55f18c2f"
+    "08eeac2137702281f28e399b559349f64024aca3fd36fa633c57abfd55f18c2f",
+    "da97ef825d61bdd464d18b8ac83daa5e72242455fb381c10dc5722d42068196a",
+    "10b50f7d497c56059edd06201dd7b7241fc115e88ba1360d371d6817662c5f56"
   ],
   "verseViewBy": []
 }
