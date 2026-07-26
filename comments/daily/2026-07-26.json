@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785076923974,
+  "updatedAt": 1785077372554,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785077103091",
+      "text": "🙏🏼🔥🔥🔥🔥",
+      "userDeviceId": "198c6eaf5f88b37a2454bbe7f6663451823f82f63e7a5d27bf60248afbd6153b",
+      "userName": "Dgenoulove",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785077371854,
+      "updatedAt": 1785077371854,
+      "status": "active"
+    },
     {
       "id": "local-1785073727751",
       "text": "1",
@@ -489,9 +503,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 138,
-  "viewCount": 15672,
+  "likeCount": 72,
+  "shareCount": 141,
+  "viewCount": 16087,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -559,7 +573,12 @@
     "baf9da74eeb39477b151fc3175a40ca7e71393a64736cd9361d72348af8d62cd",
     "c4c8d8b63f6f14026ada6857bdc1764dafe12632d3e386559d576f676cba5140",
     "1281a35c6a8273b4d980823896fe79e3a1911e8446e79e254297467882630618",
-    "b460892deb65d8d546ee67d297d6f78a22331659ba62b581ae66dcfd1be66f3a"
+    "b460892deb65d8d546ee67d297d6f78a22331659ba62b581ae66dcfd1be66f3a",
+    "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
+    "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
+    "198c6eaf5f88b37a2454bbe7f6663451823f82f63e7a5d27bf60248afbd6153b",
+    "1206e222259eb1a850b5cf601fab432191794ee9387f2cde03b7a29e4fded0ac",
+    "62e52749fcdf7d0416fbb2e262110c802797c28cbb96f2e141ff96decb554799"
   ],
   "verseViewBy": []
 }
