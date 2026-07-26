@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785070247154,
+  "updatedAt": 1785073112753,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785070972011",
+      "text": "geunsly",
+      "userDeviceId": "3c1da75474f7d07053ad43606ad7a3abeeac0f0789b3ef54aa10681a9c725022",
+      "userName": "charleuns geunsly",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785073112753,
+      "updatedAt": 1785073112753,
+      "status": "active"
+    },
     {
       "id": "local-1785069514793",
       "text": "bondyé beniw",
@@ -433,9 +447,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 63,
-  "shareCount": 115,
-  "viewCount": 12996,
+  "likeCount": 67,
+  "shareCount": 122,
+  "viewCount": 13503,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -499,7 +513,11 @@
     "192cd08ada560960a6a728ad57f73d62550510c0f75eccc956598c4f8c5412e4",
     "0a0c3e9714785831cb68afb254444f9fdfbc21a053d827e2992cb952f09c7845",
     "05feac1cbb21d2a146286beaaf0c52d8a82eb6904dd1fb9929f57675e58b28d6",
-    "aeaac0a6d7c30476b7a20252d0010d5ddc0cbf9635d02390f92caf1fa3ce26a2"
+    "aeaac0a6d7c30476b7a20252d0010d5ddc0cbf9635d02390f92caf1fa3ce26a2",
+    "baf9da74eeb39477b151fc3175a40ca7e71393a64736cd9361d72348af8d62cd",
+    "b460892deb65d8d546ee67d297d6f78a22331659ba62b581ae66dcfd1be66f3a",
+    "c4c8d8b63f6f14026ada6857bdc1764dafe12632d3e386559d576f676cba5140",
+    "1281a35c6a8273b4d980823896fe79e3a1911e8446e79e254297467882630618"
   ],
   "verseViewBy": []
 }
