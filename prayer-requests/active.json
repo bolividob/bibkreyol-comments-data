@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785036543343,
+  "updatedAt": 1785037394369,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -14,7 +14,7 @@
       "customExpectedSeason": null,
       "request": "Edem priye pou Bondye ouvè pòt pou mwen",
       "status": "praying",
-      "prayerCount": 7,
+      "prayerCount": 9,
       "prayedBy": [
         "dffc9f8a387e5864f7badad59b700b76fa217438eec58b54caafd3abc3dcd94c",
         "0d60bed5876eaf68620019620647120a71d404331eeefb3264bd34b6837f5dbe",
@@ -22,9 +22,19 @@
         "aeaadaa547dd0223e9be500818dd4c1829af39e283487cea942fe9dfdfa02a60",
         "e0022a5bf41fadd8a4019cdd7d33d04ccf0d2bf59bf9ee801dde5e6942eaf747",
         "502836a15bc1237ed9d52386e3d947241c43e4b5863d90225b1cd98f268207ab",
-        "1b52f6d79a8608963cd01238ea31eb64668dc4593de45971cca27155e6916add"
+        "1b52f6d79a8608963cd01238ea31eb64668dc4593de45971cca27155e6916add",
+        "d5a678cf33e89afca8b2e4dda9627814d885a15227f3f9378caa466beaa09ac9",
+        "689f58bed24b2b9abce0143c9d8d511646df5b24e08d7c03ccd454aa8504cfef"
       ],
       "prayingPreview": [
+        {
+          "userName": "jezi gran",
+          "prayedAt": 1785035049618
+        },
+        {
+          "userName": "hjlñ",
+          "prayedAt": 1785025658425
+        },
         {
           "userName": "cheli",
           "prayedAt": 1785011813963
@@ -56,6 +66,20 @@
       ],
       "encouragements": [
         {
+          "id": "689f58bed24b2b9abce0143c9d8d511646df5b24e08d7c03ccd454aa8504cfef-1785035111475-encouragement",
+          "userDeviceId": "689f58bed24b2b9abce0143c9d8d511646df5b24e08d7c03ccd454aa8504cfef",
+          "userName": "jezi gran",
+          "text": "ou ap peite",
+          "createdAt": 1785035111475
+        },
+        {
+          "id": "d5a678cf33e89afca8b2e4dda9627814d885a15227f3f9378caa466beaa09ac9-1785025658425-encouragement",
+          "userDeviceId": "d5a678cf33e89afca8b2e4dda9627814d885a15227f3f9378caa466beaa09ac9",
+          "userName": "hjlñ",
+          "text": "26 JULio 2026\n8:37 a.m.",
+          "createdAt": 1785025658425
+        },
+        {
           "id": "502836a15bc1237ed9d52386e3d947241c43e4b5863d90225b1cd98f268207ab-1784965044694-encouragement",
           "userDeviceId": "502836a15bc1237ed9d52386e3d947241c43e4b5863d90225b1cd98f268207ab",
           "userName": "Abigaëlle Alferus",
@@ -78,7 +102,7 @@
         }
       ],
       "submittedAt": 1784853294261,
-      "updatedAt": 1785011825387,
+      "updatedAt": 1785035345191,
       "answeredAt": null,
       "testimony": null
     },
@@ -93,12 +117,19 @@
       "customExpectedSeason": null,
       "request": "Mwen vle yon priye pou fwa kretyen mwen pou'm ka kenbe rout levanjil la",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "98df3828ae917ef390a3f2f644ffb6b3162e99abff48c87b42c43ab34c5026ea"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "chednetcino",
+          "prayedAt": 1785024783290
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1784767001597,
-      "updatedAt": 1784767142475,
+      "updatedAt": 1785024917335,
       "answeredAt": null,
       "testimony": null
     },
@@ -507,7 +538,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 142,
+      "prayerCount": 145,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -650,12 +681,27 @@
         "afe16fad82d5f7eea4ba89ebc4f92a2cf67714df79b2cca862bcb90aff279776",
         "8167f0347c7452e72497deef072f24024b76a26786c5192d952195d1c81d5d83",
         "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49",
-        "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6"
+        "752638c831e7abe6169f557dc82a17c5776240b5e3e75b2743166b406abc2cba",
+        "29c33c2c6b300f67441b2355a80bae31dda2fc958b31be07d4dfa867f6bd2a7e",
+        "37b024d4fbfd61f82f26ebb9c03d1a392cc3ef3118a0e12f8cc9d06c326b160d",
+        "c1d30e020cf70ad6c1e1b4194567b9f9552d19eb82b44a753d50209d391292e2"
       ],
       "prayingPreview": [
         {
-          "userName": "Rozelaine",
-          "prayedAt": 1785036377079
+          "userName": "Wesly lw génie",
+          "prayedAt": 1785037314843
+        },
+        {
+          "userName": "Erline",
+          "prayedAt": 1785035751915
+        },
+        {
+          "userName": "sòm",
+          "prayedAt": 1785034976162
+        },
+        {
+          "userName": "Yvensley valet",
+          "prayedAt": 1785028920129
         },
         {
           "userName": "Guerda",
@@ -720,35 +766,9 @@
         {
           "userName": "labib",
           "prayedAt": 1784895294954
-        },
-        {
-          "userName": "CADOSLET",
-          "prayedAt": 1784889993165
-        },
-        {
-          "userName": "fr en Christ",
-          "prayedAt": 1784863187951
-        },
-        {
-          "userName": "Sr Ruth",
-          "prayedAt": 1784862259075
         }
       ],
       "encouragements": [
-        {
-          "id": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6-1785036434294-encouragement",
-          "userDeviceId": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6",
-          "userName": "Rozelaine",
-          "text": "Rozelaine bon dye mwn renmenw",
-          "createdAt": 1785036434294
-        },
-        {
-          "id": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6-1785036377079-encouragement",
-          "userDeviceId": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6",
-          "userName": "Rozelaine",
-          "text": "bon ermor pour moi",
-          "createdAt": 1785036377079
-        },
         {
           "id": "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49-1785022850443-encouragement",
           "userDeviceId": "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49",
@@ -1339,7 +1359,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1785036542349,
+      "updatedAt": 1785037393337,
       "answeredAt": null,
       "testimony": null
     },
@@ -1746,7 +1766,7 @@
       "customExpectedSeason": null,
       "request": "edem lapriyè poum jwenn gerizon mwen e poum pa dekouraje",
       "status": "praying",
-      "prayerCount": 34,
+      "prayerCount": 35,
       "prayedBy": [
         "d531bd4d5cc688b16dc42d0b47fc3ba7e53265b8789e9b09d5ae90c0b870c414",
         "7ed6ef5745de9c0a50896b2485d43ba21aaa85ed240ec8fb05bbaf368719b68a",
@@ -1781,9 +1801,14 @@
         "40cc007919b80991a071f5b830683eb207b6b5df8754cc061b2a17542b8e6713",
         "6b16cf52ed5d98661134402f7a2e0e80dc86ac4e083a9f045b8e3820520664c9",
         "3ae0aa539b9b647ed02a46e93738e5c2ce852b18546d1c0570dc4753d83c3de8",
-        "10d057034189c2442b3cd9481be517dd35b67f3c85a6742506848a2213997ed6"
+        "10d057034189c2442b3cd9481be517dd35b67f3c85a6742506848a2213997ed6",
+        "29c33c2c6b300f67441b2355a80bae31dda2fc958b31be07d4dfa867f6bd2a7e"
       ],
       "prayingPreview": [
+        {
+          "userName": "sòm",
+          "prayedAt": 1785034655548
+        },
         {
           "userName": "Asansas",
           "prayedAt": 1784954764431
@@ -1859,10 +1884,6 @@
         {
           "userName": "benjie",
           "prayedAt": 1783407035109
-        },
-        {
-          "userName": "claire",
-          "prayedAt": 1783404419865
         }
       ],
       "encouragements": [
@@ -1994,7 +2015,7 @@
         }
       ],
       "submittedAt": 1783296020179,
-      "updatedAt": 1784955062182,
+      "updatedAt": 1785034879587,
       "answeredAt": null,
       "testimony": null
     },
