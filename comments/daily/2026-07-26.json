@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785083912461,
+  "updatedAt": 1785084093806,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Levitik 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0e7c6508ce811c7df1f4c4167affc29ca46212b3020e0fa0e8caee683f9abc13"
+      ],
       "createdAt": 1785077371854,
-      "updatedAt": 1785077371854,
+      "updatedAt": 1785084093806,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "Jenèz 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0e7c6508ce811c7df1f4c4167affc29ca46212b3020e0fa0e8caee683f9abc13"
+      ],
       "createdAt": 1785076610533,
-      "updatedAt": 1785076610533,
+      "updatedAt": 1785084093806,
       "status": "active"
     },
     {
@@ -517,9 +521,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
+  "likeCount": 80,
   "shareCount": 145,
-  "viewCount": 17689,
+  "viewCount": 17904,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -599,7 +603,8 @@
     "da97ef825d61bdd464d18b8ac83daa5e72242455fb381c10dc5722d42068196a",
     "10b50f7d497c56059edd06201dd7b7241fc115e88ba1360d371d6817662c5f56",
     "a461764181a6f0ebdbae7a044ae0f87f4d008d4cea29003ff3d7219d53ab5aff",
-    "c6dbfb57eefbcfdab9adf9a7d889721a1a33841b533ec4b35fb1cc8b8645076a"
+    "c6dbfb57eefbcfdab9adf9a7d889721a1a33841b533ec4b35fb1cc8b8645076a",
+    "0e7c6508ce811c7df1f4c4167affc29ca46212b3020e0fa0e8caee683f9abc13"
   ],
   "verseViewBy": []
 }
