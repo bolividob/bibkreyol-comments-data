@@ -1,9 +1,37 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785097387275,
+  "updatedAt": 1785097506974,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785097440236",
+      "text": "son6",
+      "userDeviceId": "6ea5a42525b7bd54957bd53d1baf18c90cdfeb473aaeb6400bb61a32edb3906e",
+      "userName": "lifet jeanfrançoi",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785097506974,
+      "updatedAt": 1785097506974,
+      "status": "active"
+    },
+    {
+      "id": "local-1785097452042",
+      "text": "son6",
+      "userDeviceId": "6ea5a42525b7bd54957bd53d1baf18c90cdfeb473aaeb6400bb61a32edb3906e",
+      "userName": "lifet jeanfrançoi",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785097506974,
+      "updatedAt": 1785097506974,
+      "status": "active"
+    },
     {
       "id": "local-1785090350174",
       "text": "Mési jezi pour gras ou nan lavim amèn",
@@ -561,7 +589,7 @@
   ],
   "likeCount": 94,
   "shareCount": 169,
-  "viewCount": 21190,
+  "viewCount": 21225,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
