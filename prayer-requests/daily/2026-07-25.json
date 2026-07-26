@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": 1785022862969,
+  "updatedAt": 1785036542349,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -509,7 +509,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 141,
+      "prayerCount": 142,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -651,9 +651,14 @@
         "552fad6ecaf959372a3161bf730d20d6749599452142507eff7acfc483e70a89",
         "afe16fad82d5f7eea4ba89ebc4f92a2cf67714df79b2cca862bcb90aff279776",
         "8167f0347c7452e72497deef072f24024b76a26786c5192d952195d1c81d5d83",
-        "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49"
+        "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49",
+        "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6"
       ],
       "prayingPreview": [
+        {
+          "userName": "Rozelaine",
+          "prayedAt": 1785036377079
+        },
         {
           "userName": "Guerda",
           "prayedAt": 1785022721359
@@ -729,13 +734,23 @@
         {
           "userName": "Sr Ruth",
           "prayedAt": 1784862259075
-        },
-        {
-          "userName": ",z,2,2,,2z,22,o",
-          "prayedAt": 1784861568758
         }
       ],
       "encouragements": [
+        {
+          "id": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6-1785036434294-encouragement",
+          "userDeviceId": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6",
+          "userName": "Rozelaine",
+          "text": "Rozelaine bon dye mwn renmenw",
+          "createdAt": 1785036434294
+        },
+        {
+          "id": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6-1785036377079-encouragement",
+          "userDeviceId": "603ac5a178c3b9b5f2ccaccdadac208680af7fd354f5d5fd26a434db7b79d0d6",
+          "userName": "Rozelaine",
+          "text": "bon ermor pour moi",
+          "createdAt": 1785036377079
+        },
         {
           "id": "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49-1785022850443-encouragement",
           "userDeviceId": "ef55966c9ded8476af9fe5d8db1ea3016453e5253fe8165703b180c02e534a49",
@@ -1326,7 +1341,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1785022862969,
+      "updatedAt": 1785036542349,
       "answeredAt": null,
       "testimony": null
     },
