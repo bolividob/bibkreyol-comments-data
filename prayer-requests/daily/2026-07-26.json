@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": 1785067982235,
+  "updatedAt": 1785083942751,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -545,7 +545,7 @@
       "customExpectedSeason": null,
       "request": "edem priye poum geri",
       "status": "praying",
-      "prayerCount": 151,
+      "prayerCount": 152,
       "prayedBy": [
         "d625c98fbb2b9b8c74be06e1d31c274afaa08c299818093678d66a4a13c635e1",
         "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
@@ -697,9 +697,14 @@
         "d7d424f4b6654f855c5c50753453af6cc4b6db464372c33b737fb700e67e8723",
         "1d5869067a4f9a105ab6c9d5950e714ba0c2d5a44e17f3d57160edda6e26a7ac",
         "23159833e5988969a772d7f3e6c06d7230671b9307a72a04c73c7b9c7b9bb538",
-        "0b1fdf4f94137cd2f51d8d18e66d51e75ef1f605c0bbf211a18bc53cda9cd91d"
+        "0b1fdf4f94137cd2f51d8d18e66d51e75ef1f605c0bbf211a18bc53cda9cd91d",
+        "c6dbfb57eefbcfdab9adf9a7d889721a1a33841b533ec4b35fb1cc8b8645076a"
       ],
       "prayingPreview": [
+        {
+          "userName": "Marc -sony Vilson",
+          "prayedAt": 1785083902307
+        },
         {
           "userName": "pierre yvoles",
           "prayedAt": 1785067776546
@@ -775,10 +780,6 @@
         {
           "userName": "Ynervela",
           "prayedAt": 1784951569478
-        },
-        {
-          "userName": "testama",
-          "prayedAt": 1784950650399
         }
       ],
       "encouragements": [
@@ -1393,7 +1394,7 @@
         }
       ],
       "submittedAt": 1783814719026,
-      "updatedAt": 1785067982235,
+      "updatedAt": 1785083942751,
       "answeredAt": null,
       "testimony": null
     },
