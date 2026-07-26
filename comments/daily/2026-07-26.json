@@ -1,9 +1,37 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785104477527,
+  "updatedAt": 1785105032370,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785104396694",
+      "text": "lik",
+      "userDeviceId": "c24b4429e02292ad80f8f145ce68045cbea937cbcae651119a1c7c0d048bea39",
+      "userName": "romain",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785105032370,
+      "updatedAt": 1785105032370,
+      "status": "active"
+    },
+    {
+      "id": "local-1785104946075",
+      "text": "amen",
+      "userDeviceId": "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+      "userName": "philandine",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785105032370,
+      "updatedAt": 1785105032370,
+      "status": "active"
+    },
     {
       "id": "local-1785097440236",
       "text": "son6",
@@ -589,9 +617,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 99,
-  "shareCount": 186,
-  "viewCount": 23507,
+  "likeCount": 103,
+  "shareCount": 190,
+  "viewCount": 23742,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -691,7 +719,11 @@
     "ef58e5e2cb188aae3a6b3d3c6c557386052ffe5bffa326612c4bc2a586927059",
     "72d47198ef0e8715b25e4c790fcba418f3db9237fc181b7f4fe6478b89ca4996",
     "b05ef10bf5a11667f6a34ee1f48470a407a4792930d7d5834351b6303b22f0be",
-    "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e"
+    "53d3714140dbb89a10a4ee610ca7a9d1627b9683fd842e00674dbacdd3537f3e",
+    "d9301050cd629a4c59119c1667ec76693bb0cf1548e90e7c22cb271f5cd56d64",
+    "e68d3caeaf1859f0c358c70d2517743b4c80585465a004697aa0aedf691e6dd2",
+    "695219a92304d6be7b45409a03c63badfea8164bced297705fab5cbadaa7754e",
+    "6d767ff6faacc79c5ba88cfcd59d4f87c59bf666f89dbd0921d8f5f977f12172"
   ],
   "verseViewBy": []
 }
