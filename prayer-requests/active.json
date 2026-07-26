@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785022865308,
+  "updatedAt": 1785024918590,
   "version": 1,
   "dailyLimit": 33,
   "requests": [
@@ -93,12 +93,19 @@
       "customExpectedSeason": null,
       "request": "Mwen vle yon priye pou fwa kretyen mwen pou'm ka kenbe rout levanjil la",
       "status": "praying",
-      "prayerCount": 0,
-      "prayedBy": [],
-      "prayingPreview": [],
+      "prayerCount": 1,
+      "prayedBy": [
+        "98df3828ae917ef390a3f2f644ffb6b3162e99abff48c87b42c43ab34c5026ea"
+      ],
+      "prayingPreview": [
+        {
+          "userName": "chednetcino",
+          "prayedAt": 1785024783290
+        }
+      ],
       "encouragements": [],
       "submittedAt": 1784767001597,
-      "updatedAt": 1784767142475,
+      "updatedAt": 1785024917335,
       "answeredAt": null,
       "testimony": null
     },
