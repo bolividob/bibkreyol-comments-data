@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": 1785107104147,
+  "updatedAt": 1785109622694,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -16,7 +16,7 @@
       "customExpectedSeason": null,
       "request": "Edem priye pou Bondye ouvè pòt pou mwen",
       "status": "praying",
-      "prayerCount": 9,
+      "prayerCount": 10,
       "prayedBy": [
         "dffc9f8a387e5864f7badad59b700b76fa217438eec58b54caafd3abc3dcd94c",
         "0d60bed5876eaf68620019620647120a71d404331eeefb3264bd34b6837f5dbe",
@@ -26,9 +26,14 @@
         "502836a15bc1237ed9d52386e3d947241c43e4b5863d90225b1cd98f268207ab",
         "1b52f6d79a8608963cd01238ea31eb64668dc4593de45971cca27155e6916add",
         "d5a678cf33e89afca8b2e4dda9627814d885a15227f3f9378caa466beaa09ac9",
-        "689f58bed24b2b9abce0143c9d8d511646df5b24e08d7c03ccd454aa8504cfef"
+        "689f58bed24b2b9abce0143c9d8d511646df5b24e08d7c03ccd454aa8504cfef",
+        "8430e13e1e3660ebc2716eaf820aed7c59de3ac0494306268213421aacd160e0"
       ],
       "prayingPreview": [
+        {
+          "userName": "aniaslouis",
+          "prayedAt": 1785109524963
+        },
         {
           "userName": "jezi gran",
           "prayedAt": 1785035049618
@@ -104,7 +109,7 @@
         }
       ],
       "submittedAt": 1784853294261,
-      "updatedAt": 1785035345191,
+      "updatedAt": 1785109622694,
       "answeredAt": null,
       "testimony": null
     },
