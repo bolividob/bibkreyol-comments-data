@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785054544063,
+  "updatedAt": 1785054663169,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785054564732",
+      "text": "msiii",
+      "userDeviceId": "b0e10987a17ce4180cf4464f5996b5bb0c6dc5046bbfe3a09b46270253dc42ec",
+      "userName": "créole",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785054663169,
+      "updatedAt": 1785054663169,
+      "status": "active"
+    },
     {
       "id": "local-1785046457911",
       "text": "Amen Amen Amen",
@@ -291,7 +305,7 @@
   ],
   "likeCount": 44,
   "shareCount": 70,
-  "viewCount": 7801,
+  "viewCount": 7807,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
