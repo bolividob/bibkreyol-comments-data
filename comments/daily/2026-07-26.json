@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785029347046,
+  "updatedAt": 1785029467636,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785029434312",
+      "text": "Amen amen amen amen",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785029467636,
+      "updatedAt": 1785029467636,
+      "status": "active"
+    },
     {
       "id": "local-1785028488135",
       "text": "Amen 🙏",
@@ -207,7 +221,7 @@
   ],
   "likeCount": 9,
   "shareCount": 23,
-  "viewCount": 1994,
+  "viewCount": 2038,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
