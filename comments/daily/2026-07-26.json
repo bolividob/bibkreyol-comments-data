@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785025337596,
+  "updatedAt": 1785025713681,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785025564120",
+      "text": "thank you God",
+      "userDeviceId": "f716d398af3197a44afbdd4366cc7c6ec60fdbccdfa7dd768e7bc8a783777ac0",
+      "userName": "Jesus Christ👑🙏",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785025713681,
+      "updatedAt": 1785025713681,
+      "status": "active"
+    },
     {
       "id": "local-1785024397106",
       "text": "Amèn Amèn Amèn",
@@ -19,13 +33,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 2,
-  "viewCount": 503,
+  "likeCount": 4,
+  "shareCount": 6,
+  "viewCount": 650,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
-    "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649"
+    "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
+    "3e78e58db35aeffa88ecca62c384a4aeabd4c1d3cb9651754465163a63930e09"
   ],
   "verseViewBy": []
 }
