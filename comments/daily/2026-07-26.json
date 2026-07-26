@@ -1,9 +1,23 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785067168423,
+  "updatedAt": 1785067349683,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785067242768",
+      "text": "Merci mon Dieu",
+      "userDeviceId": "4151fe3710a7620ceb1886fe484341329a54cfb69e8ab6397bca7acfc2157337",
+      "userName": "Beth-chaina",
+      "verseName": "Levitik 6:5",
+      "parentId": "local-1785024397106",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785067349683,
+      "updatedAt": 1785067349683,
+      "status": "active"
+    },
     {
       "id": "local-1785067092133",
       "text": "merci beaucoup papa pou nuit la",
@@ -397,17 +411,17 @@
       "userName": "Berline Pierre",
       "verseName": "Levitik 6:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1785024558591,
-      "updatedAt": 1785024558591,
+      "updatedAt": 1785067349683,
       "status": "active"
     }
   ],
-  "likeCount": 59,
+  "likeCount": 60,
   "shareCount": 107,
-  "viewCount": 11456,
+  "viewCount": 11595,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -467,7 +481,8 @@
     "b4b214378cb37b8d021263c94f293b3bbcab7fb65b1513bf25c93e45b8c3368c",
     "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
     "63b4390f28e1a0cc82201a805e961cfaf1ec3b5f354ee5516331b12d28b2e609",
-    "460861a344b4ab30ad3c831fa600dce2c89b809c39a954077816a5d696cbd8de"
+    "460861a344b4ab30ad3c831fa600dce2c89b809c39a954077816a5d696cbd8de",
+    "192cd08ada560960a6a728ad57f73d62550510c0f75eccc956598c4f8c5412e4"
   ],
   "verseViewBy": []
 }
