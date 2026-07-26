@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785028567111,
+  "updatedAt": 1785028692261,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Levitik 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "95b9f35e0e66674bd0821f5abdcfd91f1b0b4d8b90ff92e891271bd184579223"
+      ],
       "createdAt": 1785028567111,
-      "updatedAt": 1785028567111,
+      "updatedAt": 1785028692261,
       "status": "active"
     },
     {
@@ -204,8 +206,8 @@
     }
   ],
   "likeCount": 8,
-  "shareCount": 18,
-  "viewCount": 1715,
+  "shareCount": 19,
+  "viewCount": 1770,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
