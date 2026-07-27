@@ -1,9 +1,23 @@
 {
   "date": "2026-07-27",
   "verseKey": "daily:2026-07-27",
-  "updatedAt": 1785175341596,
+  "updatedAt": 1785175377740,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785148758837",
+      "text": "yés",
+      "userDeviceId": "2c2ca33da99a3ebcaa1c6d9328d93c5e90d5284c65f179cc080d0c90d4643db0",
+      "userName": "biblik",
+      "verseName": "Efezyen 3:1",
+      "parentId": "local-1785167802569",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785175377740,
+      "updatedAt": 1785175377740,
+      "status": "active"
+    },
     {
       "id": "local-1785167802569",
       "text": "Amen mèsi anpil Bondye ke nonw beni Jezi 🙏🏼🙇🙏🏼🙇🙏🏼🙏🏼🙇",
@@ -11,13 +25,13 @@
       "userName": "Myrlande usta",
       "verseName": "Efezyen 3:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "4e51fd36b5de31488c643b5353cc59c6bb43879ba1f8dba93f5e3f6320917a14"
       ],
       "createdAt": 1785167804113,
-      "updatedAt": 1785171880379,
+      "updatedAt": 1785175377740,
       "status": "active"
     },
     {
