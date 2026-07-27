@@ -1,9 +1,23 @@
 {
   "date": "2026-07-27",
   "verseKey": "daily:2026-07-27",
-  "updatedAt": 1785134891269,
+  "updatedAt": 1785134906555,
   "version": 1,
   "comments": [
+    {
+      "id": "brand-smoke-1785134905",
+      "text": "branded hostname smoke",
+      "userDeviceId": "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "userName": "BrandSmoke",
+      "verseName": "Genese 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785134906555,
+      "updatedAt": 1785134906555,
+      "status": "active"
+    },
     {
       "id": "prod-proxy-1785133443",
       "text": "production proxy smoke",
