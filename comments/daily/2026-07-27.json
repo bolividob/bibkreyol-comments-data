@@ -1,9 +1,23 @@
 {
   "date": "2026-07-27",
   "verseKey": "daily:2026-07-27",
-  "updatedAt": 1785145859764,
+  "updatedAt": 1785145864280,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785145860189",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Efezyen 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785145861211,
+      "updatedAt": 1785145861211,
+      "status": "active"
+    },
     {
       "id": "local-1785142585981",
       "text": "ke travay la kontinye",
@@ -90,7 +104,7 @@
     }
   ],
   "likeCount": 11,
-  "shareCount": 18,
+  "shareCount": 19,
   "viewCount": 107,
   "verseLikedBy": [
     "1d85fe0c24b4527fdf32a8707133e208f2f01675234b4f0be18ceb6b77686054",
