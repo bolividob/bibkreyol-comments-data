@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
   "verseKey": "daily:2026-07-27",
-  "updatedAt": 1785171847823,
+  "updatedAt": 1785171880379,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Efezyen 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4e51fd36b5de31488c643b5353cc59c6bb43879ba1f8dba93f5e3f6320917a14"
+      ],
       "createdAt": 1785167804113,
-      "updatedAt": 1785167804113,
+      "updatedAt": 1785171880379,
       "status": "active"
     },
     {
