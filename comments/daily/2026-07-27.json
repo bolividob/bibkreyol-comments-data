@@ -208,8 +208,10 @@
       "verseName": "Genese 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "835b473f37fb2fdabda6873aaf722fba9bd21c273270c4ff8842c395c1dd9009"
+      ],
       "createdAt": 1785133188478,
       "updatedAt": 1785133188478,
       "status": "active"
