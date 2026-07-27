@@ -1,9 +1,37 @@
 {
   "date": "2026-07-26",
   "verseKey": "daily:2026-07-26",
-  "updatedAt": 1785110011376,
+  "updatedAt": 1785110569453,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785110264549",
+      "text": "MS pu pawòl ou senyè mw",
+      "userDeviceId": "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+      "userName": "pa Kitem viv san prezans u nan vim BNDYE",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785110569453,
+      "updatedAt": 1785110569453,
+      "status": "active"
+    },
+    {
+      "id": "local-1785110374042",
+      "text": "MS pu pawòl ou senyè mw",
+      "userDeviceId": "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+      "userName": "pa Kitem viv san prezans u nan vim BNDYE",
+      "verseName": "Levitik 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785110569453,
+      "updatedAt": 1785110569453,
+      "status": "active"
+    },
     {
       "id": "local-1785074436033",
       "text": "amen",
@@ -645,9 +673,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 199,
-  "viewCount": 26069,
+  "likeCount": 111,
+  "shareCount": 201,
+  "viewCount": 26264,
   "verseLikedBy": [
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
@@ -758,7 +786,8 @@
     "85c4282b4e75d2b47b0c4dd79b4c1579140beb690b7785f97765f9e24457fc76",
     "1333dda17313ed3d2dd0350ce6efe4cc3253326f7fd926877b263a630db8023f",
     "e265553eedced2627fc5c8fdc3b0b30283ede6eb1139b7983687b9a46b6a3a8a",
-    "29ebe3483d26d6f9b327e9520ab699bcf75cd9ad9dd448724a2c3c702ffb2085"
+    "29ebe3483d26d6f9b327e9520ab699bcf75cd9ad9dd448724a2c3c702ffb2085",
+    "b1b6483c95792e6b675d50498c63131df07ffd060ef658c11b2dc92c2cd93a94"
   ],
   "verseViewBy": []
 }
