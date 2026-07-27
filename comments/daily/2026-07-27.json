@@ -1,9 +1,23 @@
 {
   "date": "2026-07-27",
   "verseKey": "daily:2026-07-27",
-  "updatedAt": 1785125585978,
+  "updatedAt": 1785125707121,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785125627883",
+      "text": "Amén Bondye beni nou 🙏🙏💌💌💌",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Efezyen 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785125707121,
+      "updatedAt": 1785125707121,
+      "status": "active"
+    },
     {
       "id": "local-1785128881843",
       "text": "amen",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 23,
+  "likeCount": 25,
   "shareCount": 37,
-  "viewCount": 5083,
+  "viewCount": 5118,
   "verseLikedBy": [
     "36cecb5177fc4c019b64fa36b6ec4a4ab789613cd7eb5ee1f104e363bb49debb",
     "eb52b0b6412f2fb6a23afa869781ab2313861b85f7f4bae0102928cce33f33cb",
@@ -73,7 +87,9 @@
     "7ca0fc352240af8ecf68e6419fa2ab737bb5d78f71e9d47adff288d29b0fb483",
     "d4eb7c84efc24d0513cfb7cf9a06ef727c6ff871605970cc663acc11ee07d82e",
     "66b18bc2f297152038d3538b2fcde91b7f78d672f40bcd64544273deee9d0a39",
-    "1449d7551e55825cc05e8a23d3e2c07b2add0d78b5139d073cf88e7c99de7595"
+    "1449d7551e55825cc05e8a23d3e2c07b2add0d78b5139d073cf88e7c99de7595",
+    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+    "89f1e4abf33ba7ea6069884ec70ea923db57a857a5de66de07831e7c81ba7705"
   ],
   "verseViewBy": []
 }
