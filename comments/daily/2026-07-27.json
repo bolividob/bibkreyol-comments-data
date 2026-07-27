@@ -1,9 +1,23 @@
 {
   "date": "2026-07-27",
   "verseKey": "daily:2026-07-27",
-  "updatedAt": 1785122300391,
+  "updatedAt": 1785122473718,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785122444465",
+      "text": "messi",
+      "userDeviceId": "05aea2910a6887e064598282f3b7b8a00b1ec20e205c624d319f94d336682c94",
+      "userName": "fanfan",
+      "verseName": "Efezyen 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785122473718,
+      "updatedAt": 1785122473718,
+      "status": "active"
+    },
     {
       "id": "local-1785121346470",
       "text": "Amén y amén amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -20,8 +34,8 @@
     }
   ],
   "likeCount": 18,
-  "shareCount": 21,
-  "viewCount": 4026,
+  "shareCount": 22,
+  "viewCount": 4091,
   "verseLikedBy": [
     "36cecb5177fc4c019b64fa36b6ec4a4ab789613cd7eb5ee1f104e363bb49debb",
     "eb52b0b6412f2fb6a23afa869781ab2313861b85f7f4bae0102928cce33f33cb",
