@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updatedAt": 1785117914458,
+  "updatedAt": 1785131102856,
   "version": 1,
   "dailyLimit": 33,
   "dailySubmissionCount": 49,
@@ -326,15 +326,20 @@
       "customExpectedSeason": null,
       "request": "Pou fanmiy  me Louis fanmiy clerge epi poum travayjezi gerizon",
       "status": "praying",
-      "prayerCount": 5,
+      "prayerCount": 6,
       "prayedBy": [
         "97d934aa4945a50900ea3b568fbd731358bb47c023e1e96fed8e877480070ddb",
         "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239",
         "955ccc8505c6bc773c52eee09a700798b3aa8cc3755fbc7cf56bc7d876cc2733",
         "a275866d4f6bb10887b316bd03f13192c6ab785c45e08275db79e40f48a1aca9",
-        "71f8ca2f0399ca8c2ff4d2de8c7402605245c67f6ca605815aded3e78f9b3664"
+        "71f8ca2f0399ca8c2ff4d2de8c7402605245c67f6ca605815aded3e78f9b3664",
+        "be63d9b19f9b5993e87a5ea8d2f3e5659911e4c686fddac8ed401886b40480b8"
       ],
       "prayingPreview": [
+        {
+          "userName": "Aristide",
+          "prayedAt": 1785131067492
+        },
         {
           "userName": "francineluck73@gmail.com",
           "prayedAt": 1785107074066
@@ -357,6 +362,13 @@
         }
       ],
       "encouragements": [
+        {
+          "id": "be63d9b19f9b5993e87a5ea8d2f3e5659911e4c686fddac8ed401886b40480b8-1785131067492-encouragement",
+          "userDeviceId": "be63d9b19f9b5993e87a5ea8d2f3e5659911e4c686fddac8ed401886b40480b8",
+          "userName": "Aristide",
+          "text": "que le seigneur t' affranchis 🤲",
+          "createdAt": 1785131067492
+        },
         {
           "id": "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239-1784417847524-encouragement",
           "userDeviceId": "ce159cb196746e263dc654407b9197349556d898f5d8c82b96e68a6351ac4239",
@@ -387,7 +399,7 @@
         }
       ],
       "submittedAt": 1784247095936,
-      "updatedAt": 1785107104147,
+      "updatedAt": 1785131102856,
       "answeredAt": null,
       "testimony": null
     },
