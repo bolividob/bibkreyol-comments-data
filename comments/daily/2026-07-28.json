@@ -1,9 +1,23 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785250804991,
+  "updatedAt": 1785251725089,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785251528011",
+      "text": "Jezi renmen nou tout.",
+      "userDeviceId": "26fe1182c35e0f0e3ce496f1952c1d32da3cdc9f069dd99b9cdcd9fd7f6bd765",
+      "userName": "Liya Élianie Cossogue",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785251529378,
+      "updatedAt": 1785251529378,
+      "status": "active"
+    },
     {
       "id": "local-1785248096011",
       "text": "amèn",
@@ -411,13 +425,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 115,
-  "shareCount": 237,
-  "viewCount": 574,
+  "likeCount": 118,
+  "shareCount": 243,
+  "viewCount": 582,
   "verseLikedBy": [
     "0028f859543a4158958d9f6a85277bb7140fe052e60e17cddb15f85207449191",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "0920c6f437e4677b37897d441e99f15652d6ea99abbd470e0d368aba953d8c78",
+    "0a5a67cf7db386e294e537d0ab2d5d94889d5aa49866889bcc4e3af0c7234f68",
     "0e8f381c58008a5c99eecec096db8acb3d1a0a8e37b97a4c4ad17faf510dcb19",
     "10cf5909bbd80b5180592121435069d32b85f8cc276567474783b5abcd8d5e3a",
     "13859cb246601a0a99fab932c796e91c99717edc03c6b34cf31ddb969c07cfcd",
@@ -436,6 +451,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "26fe1182c35e0f0e3ce496f1952c1d32da3cdc9f069dd99b9cdcd9fd7f6bd765",
     "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
     "297ace018565660aad7bdd97d180b4dd1214004ef2af70e28830dec7bd46b95c",
     "2a3c94e1b102e59971711271b4124447ea0a26555ed7848885221acad6e4d591",
@@ -462,6 +478,7 @@
     "5852964879489c6f5a1d43843e212c904373d9d323990ea6bf8778823ab8b44b",
     "5af25e00e3e32733bf3a5363d7078b219355f3e083d8e0e5c8c2b10774d5e81c",
     "5be71b201ce761e725a43d281ed1cc18869bbe96001245b5add9e2fea09f3df2",
+    "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
     "5f060ca5a323b9ec86d59ccca9aaa51e892eb2f88e4a68386d2e47fc92ad9666",
     "6258958c95b59822f64c3f1ffaae5799ba3d3335ba0c8141813ed469a6d12046",
     "63d1860e30677f8e672508013bef47d90c4fa84af6afde1e6cba8d60f03e86c9",
