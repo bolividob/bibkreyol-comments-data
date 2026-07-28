@@ -1,9 +1,23 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785207411470,
+  "updatedAt": 1785207423287,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785207416273",
+      "text": "sevena",
+      "userDeviceId": "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77",
+      "userName": "sevena",
+      "verseName": "Abdyas 1:2",
+      "parentId": "local-1785198322646",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785207423287,
+      "updatedAt": 1785207423287,
+      "status": "active"
+    },
     {
       "id": "local-1785207382296",
       "text": "salut",
@@ -159,14 +173,14 @@
       "userName": "🆓 Jerry",
       "verseName": "Abdyas 1:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 2,
       "likedBy": [
         "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23",
         "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77"
       ],
       "createdAt": 1785198324610,
-      "updatedAt": 1785207379577,
+      "updatedAt": 1785207423287,
       "status": "active"
     },
     {
