@@ -1,9 +1,23 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785262447765,
+  "updatedAt": 1785263405532,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785263020602",
+      "text": "mwen renmen Bondye.",
+      "userDeviceId": "978cbed222b99a1023697f9aa31063d0bd187db8b52ebbaee1ffe6c0f83800f7",
+      "userName": "Saint-verty clerizier",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785263021776,
+      "updatedAt": 1785263021776,
+      "status": "active"
+    },
     {
       "id": "local-1785251528011",
       "text": "Jezi renmen nou tout.",
@@ -425,9 +439,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 140,
-  "shareCount": 273,
-  "viewCount": 689,
+  "likeCount": 141,
+  "shareCount": 276,
+  "viewCount": 699,
   "verseLikedBy": [
     "0028f859543a4158958d9f6a85277bb7140fe052e60e17cddb15f85207449191",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -519,6 +533,7 @@
     "948fe0dc2ccde75cb884fba5e7796700d36eeba02420cf3032f4730e4345622b",
     "955e00ae1d86d120f403b1c8435949f953d5f65ae57fa4635d0f934e10be60d2",
     "958096d74c8df68b4e9c041675e331056e9cd2d2080bbed7486d708bf5f54896",
+    "978cbed222b99a1023697f9aa31063d0bd187db8b52ebbaee1ffe6c0f83800f7",
     "97fa8688a46ee98feee876e311437cd8f21b46dbb55c33db0ea6f47c10e81469",
     "9d693b796d0f426ed4180a3df4f1db4144ad1b4a8d5adb79056d18779cc039e6",
     "9df43f4317382856d51500f22b7192abd476847521d9ea134e1d072d9b21d414",
