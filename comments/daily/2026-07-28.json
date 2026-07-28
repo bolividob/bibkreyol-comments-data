@@ -1,9 +1,23 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785237331536,
+  "updatedAt": 1785238202573,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785237511792",
+      "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785237512928,
+      "updatedAt": 1785237512928,
+      "status": "active"
+    },
     {
       "id": "local-1785233492406",
       "text": "Hummm papa🙏🙏🙏🙏",
@@ -325,9 +339,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 84,
-  "shareCount": 142,
-  "viewCount": 441,
+  "likeCount": 87,
+  "shareCount": 157,
+  "viewCount": 451,
   "verseLikedBy": [
     "0028f859543a4158958d9f6a85277bb7140fe052e60e17cddb15f85207449191",
     "0920c6f437e4677b37897d441e99f15652d6ea99abbd470e0d368aba953d8c78",
@@ -367,6 +381,7 @@
     "5af25e00e3e32733bf3a5363d7078b219355f3e083d8e0e5c8c2b10774d5e81c",
     "5be71b201ce761e725a43d281ed1cc18869bbe96001245b5add9e2fea09f3df2",
     "5f060ca5a323b9ec86d59ccca9aaa51e892eb2f88e4a68386d2e47fc92ad9666",
+    "6258958c95b59822f64c3f1ffaae5799ba3d3335ba0c8141813ed469a6d12046",
     "63d1860e30677f8e672508013bef47d90c4fa84af6afde1e6cba8d60f03e86c9",
     "63e1583a333911abc02f6ab3df378fbcd165a406d4b385deffc582fd3c29944d",
     "647e5ada64458c2d142f9be081fe798d33e15616e03f56273d51cb643624186a",
@@ -395,11 +410,13 @@
     "ad3504a333b11bdff12bb65cdc87888ba8d95c933eacb5c7a5761681e1e435cc",
     "ad68cb53e46ee1e16afc5e3373f7f7ef125440ceb568ce8db9fcfa8e2e7d5aa2",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+    "bca49add6e53bd2ff6cb4db53026fd0994ed7a6b98d4c98c3c1b3560bb183b7c",
     "c3d2e8bab9da0fb3e77e85e482875a151e5b6fae48d5c7895783c6dacfb6dac1",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23",
     "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
     "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e0af0125835df543e695dc50671e5c42b76270ea21cc6fd9949d7f6983d4f734",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e4f7c93b2308c0af9d5bc09e60a2bc1b636dda37552635da31076bd453d9f9e4",
