@@ -1,9 +1,37 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785272406018,
+  "updatedAt": 1785273280589,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785273016895",
+      "text": "mwen renmen jezi",
+      "userDeviceId": "7fc21570e93d149e0385432e690469ae9bd421409bb0479575f448f498c4791a",
+      "userName": "Fleurimond Emmanuel",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785273018832,
+      "updatedAt": 1785273018832,
+      "status": "active"
+    },
+    {
+      "id": "local-1785272986273",
+      "text": "je suis le serviteur de Dieu",
+      "userDeviceId": "7fc21570e93d149e0385432e690469ae9bd421409bb0479575f448f498c4791a",
+      "userName": "Fleurimond Emmanuel",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785272988394,
+      "updatedAt": 1785272988394,
+      "status": "active"
+    },
     {
       "id": "local-1785266707268",
       "text": "♥️♥️",
@@ -467,9 +495,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 153,
-  "shareCount": 304,
-  "viewCount": 779,
+  "likeCount": 155,
+  "shareCount": 307,
+  "viewCount": 787,
   "verseLikedBy": [
     "0028f859543a4158958d9f6a85277bb7140fe052e60e17cddb15f85207449191",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -551,6 +579,7 @@
     "785bc0344ac14ff2659eb67e9978ebd9e248be61f2976da7be4e6041a3aa4a4c",
     "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
+    "7fc21570e93d149e0385432e690469ae9bd421409bb0479575f448f498c4791a",
     "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
     "83895b0835b370247da1e279caee4b1ccc48b9c56b9515fa93829f54b1cef622",
     "842befad2661bb94bdf51e4fdb7674251b5477f742737c73c92233511eca8937",
@@ -605,6 +634,7 @@
     "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e0af0125835df543e695dc50671e5c42b76270ea21cc6fd9949d7f6983d4f734",
+    "e1f6605ff1ccb4443a2f0f32dfdb83be05c7965ae93b592b7ea3f218e3b64aeb",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e4f7c93b2308c0af9d5bc09e60a2bc1b636dda37552635da31076bd453d9f9e4",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
