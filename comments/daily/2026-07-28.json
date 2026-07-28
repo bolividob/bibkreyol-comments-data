@@ -3,7 +3,22 @@
   "verseKey": "daily:2026-07-28",
   "updatedAt": 1785197462268,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1785197467902",
+      "text": "salute",
+      "userDeviceId": "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa",
+      "userName": "juno",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785197468954,
+      "updatedAt": 1785197468954,
+      "status": "active"
+    }
+  ],
   "likeCount": 3,
   "shareCount": 1,
   "viewCount": 54,
