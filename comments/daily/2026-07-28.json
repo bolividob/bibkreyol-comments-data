@@ -1,9 +1,39 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785239120743,
+  "updatedAt": 1785240019328,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785237452745",
+      "text": "Bib app sa bon. Tout moun kap li Komante sa an nou tout kite yon 5 etwal kounye a pou li. Patajel ak yon zanmi.",
+      "userDeviceId": "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa",
+      "userName": "juno",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785239389282,
+      "updatedAt": 1785239389282,
+      "status": "active"
+    },
+    {
+      "id": "local-1785239272681",
+      "text": "amèn 🤲🤲",
+      "userDeviceId": "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89",
+      "userName": "joszmira",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89"
+      ],
+      "createdAt": 1785239274701,
+      "updatedAt": 1785239304217,
+      "status": "active"
+    },
     {
       "id": "local-1785237511792",
       "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -339,11 +369,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 91,
-  "shareCount": 164,
-  "viewCount": 460,
+  "likeCount": 96,
+  "shareCount": 175,
+  "viewCount": 469,
   "verseLikedBy": [
     "0028f859543a4158958d9f6a85277bb7140fe052e60e17cddb15f85207449191",
+    "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "0920c6f437e4677b37897d441e99f15652d6ea99abbd470e0d368aba953d8c78",
     "0e8f381c58008a5c99eecec096db8acb3d1a0a8e37b97a4c4ad17faf510dcb19",
     "13859cb246601a0a99fab932c796e91c99717edc03c6b34cf31ddb969c07cfcd",
@@ -394,6 +425,7 @@
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "74864183c6f0a7934391a985203595642b063d029b8b129ff28711c662318ddc",
     "785bc0344ac14ff2659eb67e9978ebd9e248be61f2976da7be4e6041a3aa4a4c",
+    "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89",
     "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
     "83895b0835b370247da1e279caee4b1ccc48b9c56b9515fa93829f54b1cef622",
     "842befad2661bb94bdf51e4fdb7674251b5477f742737c73c92233511eca8937",
@@ -402,8 +434,10 @@
     "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
     "8b1bf08a5c138e44295fbca220f1fa089daad806e36b19e08796307aaef5e07b",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
+    "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
     "90e165da6a39b3819276b678ab97914c9199aad071e7da4d09b3387df7c205f6",
     "955e00ae1d86d120f403b1c8435949f953d5f65ae57fa4635d0f934e10be60d2",
+    "958096d74c8df68b4e9c041675e331056e9cd2d2080bbed7486d708bf5f54896",
     "97fa8688a46ee98feee876e311437cd8f21b46dbb55c33db0ea6f47c10e81469",
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "a2eb48419a311b3c9a78b2d29eef637d2b6177fbf1c0f88f340cbc9aed5450e4",
@@ -416,6 +450,7 @@
     "bc7c8adf67825b1c79477cf1b6ba0a38c631e1aea78c803d564023ebaad122c1",
     "bca49add6e53bd2ff6cb4db53026fd0994ed7a6b98d4c98c3c1b3560bb183b7c",
     "c3d2e8bab9da0fb3e77e85e482875a151e5b6fae48d5c7895783c6dacfb6dac1",
+    "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23",
     "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
