@@ -1,9 +1,37 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785210328533,
+  "updatedAt": 1785211234732,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785210655361",
+      "text": "salut mwn kontan pami nou",
+      "userDeviceId": "ee81bad9a40fe2a789616fe25dffb743da8fc9c0a70c7da5214a1f397caf4f26",
+      "userName": "youte jorilen",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785210657706,
+      "updatedAt": 1785210657706,
+      "status": "active"
+    },
+    {
+      "id": "local-1785210596782",
+      "text": "amén",
+      "userDeviceId": "ee81bad9a40fe2a789616fe25dffb743da8fc9c0a70c7da5214a1f397caf4f26",
+      "userName": "youte jorilen",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785210598083,
+      "updatedAt": 1785210598083,
+      "status": "active"
+    },
     {
       "id": "local-1785209021375",
       "text": "chant 66 kreyól chandesperans",
@@ -221,9 +249,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 58,
-  "viewCount": 196,
+  "likeCount": 48,
+  "shareCount": 65,
+  "viewCount": 206,
   "verseLikedBy": [
     "0920c6f437e4677b37897d441e99f15652d6ea99abbd470e0d368aba953d8c78",
     "0e8f381c58008a5c99eecec096db8acb3d1a0a8e37b97a4c4ad17faf510dcb19",
@@ -255,6 +283,7 @@
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "785bc0344ac14ff2659eb67e9978ebd9e248be61f2976da7be4e6041a3aa4a4c",
     "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
+    "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
     "8b1bf08a5c138e44295fbca220f1fa089daad806e36b19e08796307aaef5e07b",
     "90e165da6a39b3819276b678ab97914c9199aad071e7da4d09b3387df7c205f6",
     "955e00ae1d86d120f403b1c8435949f953d5f65ae57fa4635d0f934e10be60d2",
@@ -269,6 +298,7 @@
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "ee81bad9a40fe2a789616fe25dffb743da8fc9c0a70c7da5214a1f397caf4f26",
     "f26db839640788dee9eef5eddd3c817be29abb9a1ff1f48492d3de13f26d69c8",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385"
   ],
