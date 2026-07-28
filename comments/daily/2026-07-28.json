@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785207366962,
+  "updatedAt": 1785207379577,
   "version": 1,
   "comments": [
     {
@@ -70,10 +70,12 @@
       "verseName": "Abdyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77"
+      ],
       "createdAt": 1785206085929,
-      "updatedAt": 1785206085929,
+      "updatedAt": 1785207371999,
       "status": "active"
     },
     {
@@ -128,10 +130,12 @@
       "verseName": "Abdyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77"
+      ],
       "createdAt": 1785202939230,
-      "updatedAt": 1785202939230,
+      "updatedAt": 1785207379165,
       "status": "active"
     },
     {
@@ -142,12 +146,13 @@
       "verseName": "Abdyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23"
+        "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23",
+        "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77"
       ],
       "createdAt": 1785198324610,
-      "updatedAt": 1785201455008,
+      "updatedAt": 1785207379577,
       "status": "active"
     },
     {
@@ -158,12 +163,13 @@
       "verseName": "Abdyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23"
+        "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23",
+        "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77"
       ],
       "createdAt": 1785197468954,
-      "updatedAt": 1785201455844,
+      "updatedAt": 1785207379309,
       "status": "active"
     }
   ],
