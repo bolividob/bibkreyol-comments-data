@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785201443164,
+  "updatedAt": 1785201455008,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Abdyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23"
+      ],
       "createdAt": 1785198324610,
-      "updatedAt": 1785198324610,
+      "updatedAt": 1785201455008,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Abdyas 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23"
+      ],
       "createdAt": 1785197468954,
-      "updatedAt": 1785197468954,
+      "updatedAt": 1785201455844,
       "status": "active"
     }
   ],
