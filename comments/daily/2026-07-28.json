@@ -1,9 +1,23 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785240019328,
+  "updatedAt": 1785240845711,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785240393505",
+      "text": "amen",
+      "userDeviceId": "cd7754ad3fee9f311bbacbf272fd9355396b5cf42c8c593de730e958e4d71531",
+      "userName": "Gaëlle fille de Dieu",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785240395247,
+      "updatedAt": 1785240395247,
+      "status": "active"
+    },
     {
       "id": "local-1785237452745",
       "text": "Bib app sa bon. Tout moun kap li Komante sa an nou tout kite yon 5 etwal kounye a pou li. Patajel ak yon zanmi.",
@@ -369,9 +383,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 96,
-  "shareCount": 175,
-  "viewCount": 469,
+  "likeCount": 98,
+  "shareCount": 186,
+  "viewCount": 478,
   "verseLikedBy": [
     "0028f859543a4158958d9f6a85277bb7140fe052e60e17cddb15f85207449191",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -424,6 +438,7 @@
     "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "74864183c6f0a7934391a985203595642b063d029b8b129ff28711c662318ddc",
+    "77d0c6bed994e04ba0f8f0b5d71a1c8ef6bfac8afdb50457cbf19c8bdc9228fd",
     "785bc0344ac14ff2659eb67e9978ebd9e248be61f2976da7be4e6041a3aa4a4c",
     "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89",
     "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
@@ -447,12 +462,13 @@
     "ad3504a333b11bdff12bb65cdc87888ba8d95c933eacb5c7a5761681e1e435cc",
     "ad68cb53e46ee1e16afc5e3373f7f7ef125440ceb568ce8db9fcfa8e2e7d5aa2",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
-    "bc7c8adf67825b1c79477cf1b6ba0a38c631e1aea78c803d564023ebaad122c1",
+    "b2ccadf420d58a27e59cf7c7b4f27d0a7824b427f9d55ce79d73fbb693c9c74b",
     "bca49add6e53bd2ff6cb4db53026fd0994ed7a6b98d4c98c3c1b3560bb183b7c",
     "c3d2e8bab9da0fb3e77e85e482875a151e5b6fae48d5c7895783c6dacfb6dac1",
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cbffc684b70b67f66eb343240830351325eec22136d2bf0bc0d9ae7df3af2a23",
+    "cd7754ad3fee9f311bbacbf272fd9355396b5cf42c8c593de730e958e4d71531",
     "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
     "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
