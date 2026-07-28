@@ -1,9 +1,23 @@
 {
   "date": "2026-07-28",
   "verseKey": "daily:2026-07-28",
-  "updatedAt": 1785215652712,
+  "updatedAt": 1785216603087,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785215812371",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Abdyas 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785215815131,
+      "updatedAt": 1785215815131,
+      "status": "active"
+    },
     {
       "id": "local-1785211323804",
       "text": "Bib la Bon",
@@ -267,9 +281,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 81,
-  "viewCount": 244,
+  "likeCount": 56,
+  "shareCount": 83,
+  "viewCount": 253,
   "verseLikedBy": [
     "0028f859543a4158958d9f6a85277bb7140fe052e60e17cddb15f85207449191",
     "0920c6f437e4677b37897d441e99f15652d6ea99abbd470e0d368aba953d8c78",
@@ -304,6 +318,7 @@
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "785bc0344ac14ff2659eb67e9978ebd9e248be61f2976da7be4e6041a3aa4a4c",
     "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
+    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
     "8480f2b4d644b17804fef0ad0b79819da80ddbb197fb31723e4f585c549f9707",
     "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
     "8b1bf08a5c138e44295fbca220f1fa089daad806e36b19e08796307aaef5e07b",
