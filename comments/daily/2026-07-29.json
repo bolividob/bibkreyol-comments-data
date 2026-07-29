@@ -1,9 +1,37 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785301202536,
+  "updatedAt": 1785301847058,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785301826922",
+      "text": "live adoration feature a bon nan version 42",
+      "userDeviceId": "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
+      "userName": "Denisi",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785301847058,
+      "updatedAt": 1785301847058,
+      "status": "active"
+    },
+    {
+      "id": "local-1785301641200",
+      "text": "Amen Amen Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785301642138,
+      "updatedAt": 1785301642138,
+      "status": "active"
+    },
     {
       "id": "local-1785300593409",
       "text": "Amen 🙏🙏",
@@ -185,15 +213,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
+  "likeCount": 71,
   "shareCount": 76,
-  "viewCount": 236,
+  "viewCount": 241,
   "verseLikedBy": [
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "10cc5e52493f71b4f2a11c92671e79aa4924c8b11367c0b6ed895fc9873ed1a7",
     "10cf5909bbd80b5180592121435069d32b85f8cc276567474783b5abcd8d5e3a",
     "110500d96a548ddddd3d2c591196ed60fd38bda45022acb248c0b6dd48f4379c",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1dae7e22606d8ccabf15e5bdac2a4b96d12b198b2fd9fbc8d4b97c90100cb86f",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -247,6 +276,7 @@
     "b41f04b715f96fcdc2f4817044c5107612c65b304cd02481abfe7209ce7ff23b",
     "b75bb88df3cddda73d95eae4129aa3af2abf8f8a0ea6b2a40e822e8610be2d69",
     "b7927fa349d309416789cf0966ba6a3196d39958903fed74c03e54c83b635e12",
+    "b85031be9fd6972c242cdd010b103666a8073f79fd2c2ab90ec4b2ac930d94a5",
     "bb8e30cd59052cfd2267127e495750df2999de3586a12fdae484c9fc52002831",
     "bc3a615a49c53ca0288e6e271ac9fadaa4155ec56f1ceb6a3ba532905e97487e",
     "d09328350a4a9fb122b2965eb83026ec9d084a74e16bf88d63dc5d3a4172cfaa",
