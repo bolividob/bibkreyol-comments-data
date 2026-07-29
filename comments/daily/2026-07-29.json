@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785325008665,
+  "updatedAt": 1785325072376,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Malaki 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa"
+      ],
       "createdAt": 1785317584791,
-      "updatedAt": 1785317584791,
+      "updatedAt": 1785325072376,
       "status": "active"
     },
     {
