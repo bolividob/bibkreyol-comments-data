@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785366275947,
+  "updatedAt": 1785366301591,
   "version": 1,
   "comments": [
     {
@@ -40,13 +40,12 @@
       "verseName": "Malaki 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 1,
       "likedBy": [
-        "0210de73f9b114364ed6b8e2a3150a7e85fa87d72d33c874b939bc34776fff81",
-        "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa"
+        "0210de73f9b114364ed6b8e2a3150a7e85fa87d72d33c874b939bc34776fff81"
       ],
       "createdAt": 1785317584791,
-      "updatedAt": 1785366275947,
+      "updatedAt": 1785366277269,
       "status": "active"
     },
     {
@@ -286,7 +285,7 @@
       "status": "active"
     }
   ],
-  "likeCount": 168,
+  "likeCount": 169,
   "shareCount": 263,
   "viewCount": 845,
   "verseLikedBy": [
@@ -363,6 +362,7 @@
     "6ab5aa0dee0224774120f31439e519a1ca1b7754b102745b6fb035a3e21b17bd",
     "6be1ac04922dbe51cd83900a0a4f2720df4dafd72d145d5866592a07202d1b83",
     "6ec8e5fc5abc826d2711845919b77ae6ee8b3331a165384846ecb70fc1f61a95",
+    "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
     "751cc0be2db056465483c2a506a18d86bd3d5e854711843780a022d2128b8aeb",
