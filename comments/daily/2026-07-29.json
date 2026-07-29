@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785367803728,
+  "updatedAt": 1785368716446,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785368309111",
+      "text": "Malachi outap di pavre",
+      "userDeviceId": "3006066f455fbb3d7ca90d33c0618982d6371c9f278fbdc72267a0c548a57410",
+      "userName": "the best",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785368310286,
+      "updatedAt": 1785368310286,
+      "status": "active"
+    },
     {
       "id": "local-1785364745809",
       "text": "merci jesus",
@@ -12,10 +26,12 @@
       "verseName": "Malaki 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "5fd4082bb38f55c4b3e7b56f3539c23d7c15689fd77eed5e563d4495e454553f"
+      ],
       "createdAt": 1785364748498,
-      "updatedAt": 1785364748498,
+      "updatedAt": 1785368614031,
       "status": "active"
     },
     {
@@ -285,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 169,
-  "shareCount": 263,
-  "viewCount": 860,
+  "likeCount": 171,
+  "shareCount": 267,
+  "viewCount": 869,
   "verseLikedBy": [
     "01877ebc56ebe9169a62352d6ecc6a68c6938df8a5a813ddeff2b0ac240071fc",
     "01a83b89734980bd853a34818ed4d6676da9fe7bdada9121faf75206b741da47",
@@ -448,12 +464,14 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e8f90ecad777a51221fd4612de6334a17075bb071cecb6ff194d909aee598ad8",
     "e98b612d5f4b390a649b2055ba3505f7eeec0150048f27befa64877dd0dc7c96",
+    "ecb4fcec378e99cae6b268e85bf360ccaf4a93592067bf026732507b27435614",
     "ed59fc62fd5b9edf975c9449153a0266d15f753da8f423ec0a5572a9b09f34f0",
     "ed8ea2d909f0377de3566c52021d6908daadd35e1ccd5b9a443d0642542f24b9",
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "f4bbef7eda7831788aab796ac46e8eb431fdbe2dffb1cf2a133959eb356fbb87",
     "f52a40ac98e4c1fc778d72bce20dc4a9e62060367e084e2c43444a6c459f1bf2",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fb16a49939f0b27026065bce4f7381a909e0c9887dacd84b92c6fcd0160dfc6c",
     "fbf5d604ca5d06f6b0bfc4db415b63db2a574fdb8c2615bccc1f51041d139551",
     "fcde8289641bd91651364b304e083713daedbc7ac4817301b898fc8bd6f6d1bb",
