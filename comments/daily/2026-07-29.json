@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785293443446,
+  "updatedAt": 1785294003341,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785293678342",
+      "text": "Amèn Amèn Amèn",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785293679109,
+      "updatedAt": 1785293679109,
+      "status": "active"
+    },
     {
       "id": "local-1785293410294",
       "text": "amén",
@@ -114,10 +128,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 51,
-  "viewCount": 154,
+  "likeCount": 50,
+  "shareCount": 54,
+  "viewCount": 161,
   "verseLikedBy": [
+    "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "10cc5e52493f71b4f2a11c92671e79aa4924c8b11367c0b6ed895fc9873ed1a7",
     "10cf5909bbd80b5180592121435069d32b85f8cc276567474783b5abcd8d5e3a",
     "110500d96a548ddddd3d2c591196ed60fd38bda45022acb248c0b6dd48f4379c",
@@ -131,6 +146,7 @@
     "34b6ab433f4d7beaf3c799652e5dc4374504c96048809104b9851afb77385aef",
     "3b84053d52b56d658ea84812156a3b59aed5e7e089cff3637b267721b3d08c8d",
     "3b92d55e4dcfe7a4ca820bd17b3a075ce996d3be1288dca8259f07b77e3414f8",
+    "4b964d0fee5688948d6e7dc3c555159ecdf2a9b9be3470bae7f1208c45b96627",
     "4d9fa8e75abae119a0847a0bc4652f1af2c8516e8c036a95c0e7712e0d673dc4",
     "524649a5ec74e929dd354becd0641362427401e53e14306021ac76e1fcc31894",
     "5852964879489c6f5a1d43843e212c904373d9d323990ea6bf8778823ab8b44b",
@@ -156,6 +172,7 @@
     "abd8c9acd42948e8c6b8a2d42334664bb7fe8a65972ecd3193743bb4d400dfc9",
     "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
     "afa77b633b39ca8a561f0e9beba9cafd9e9b74dc87fbfe1beb1a1aca8d303862",
+    "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "b75bb88df3cddda73d95eae4129aa3af2abf8f8a0ea6b2a40e822e8610be2d69",
     "b7927fa349d309416789cf0966ba6a3196d39958903fed74c03e54c83b635e12",
     "bc3a615a49c53ca0288e6e271ac9fadaa4155ec56f1ceb6a3ba532905e97487e",
