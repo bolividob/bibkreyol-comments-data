@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785342600888,
+  "updatedAt": 1785343449352,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785343291618",
+      "text": "Merci bondye",
+      "userDeviceId": "0210de73f9b114364ed6b8e2a3150a7e85fa87d72d33c874b939bc34776fff81",
+      "userName": "Merci bondye",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785343294392,
+      "updatedAt": 1785343294392,
+      "status": "active"
+    },
     {
       "id": "local-1785317583676",
       "text": "legliz an direk, mesi; bel travay",
@@ -12,12 +26,13 @@
       "verseName": "Malaki 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "0210de73f9b114364ed6b8e2a3150a7e85fa87d72d33c874b939bc34776fff81",
         "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa"
       ],
       "createdAt": 1785317584791,
-      "updatedAt": 1785325072376,
+      "updatedAt": 1785343232285,
       "status": "active"
     },
     {
@@ -257,9 +272,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 129,
-  "shareCount": 212,
-  "viewCount": 622,
+  "likeCount": 130,
+  "shareCount": 214,
+  "viewCount": 630,
   "verseLikedBy": [
     "01877ebc56ebe9169a62352d6ecc6a68c6938df8a5a813ddeff2b0ac240071fc",
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
@@ -292,6 +307,7 @@
     "28326ac1c6907c7621c0e590e45f2ed5844dae9f05da22ea266fb3bb7ba1a068",
     "286fc32cbf9d5eb032ed1fabe08db7629e443d1660441282a375dfba940ba192",
     "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
+    "2d801f585b3729a3a83065b071084ab34f025626b2eef4059933582e4afe04d1",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "310bbee7046f5114ac007b0d727958b63333eab3d97ba2d0d7931e8eec76fce5",
     "3116aca5a3e0e88fc5870998faf2727f2e454147b6575243d7de35ba85a309a8",
