@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785293086434,
+  "updatedAt": 1785293443446,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785293410294",
+      "text": "amén",
+      "userDeviceId": "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
+      "userName": "rogeline senelon",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785293411807,
+      "updatedAt": 1785293411807,
+      "status": "active"
+    },
     {
       "id": "local-1785292731319",
       "text": "Bondye beni nou frèm e sèm yo",
@@ -100,9 +114,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
-  "shareCount": 48,
-  "viewCount": 149,
+  "likeCount": 47,
+  "shareCount": 51,
+  "viewCount": 154,
   "verseLikedBy": [
     "10cc5e52493f71b4f2a11c92671e79aa4924c8b11367c0b6ed895fc9873ed1a7",
     "10cf5909bbd80b5180592121435069d32b85f8cc276567474783b5abcd8d5e3a",
@@ -136,8 +150,11 @@
     "8dd93da17b7ce52c07c65c88c1b6c333690908f1c64543b59157c2571a3c7c71",
     "96e4674292454170ad3c9dd1c62e634082cf026e77553db368b96bd737eb7394",
     "970b87649fa76c99eae1cc5079b29c6d1fdbbc2b6318e304df7cf49179e66a4d",
+    "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
+    "a37b7b12bc48554039d6a5174bcf50558a04d97a42a8d1a9b33d2af018ea06b1",
     "a5bb8b44d84e059c2b853abc4b29e1c77388125e3c86ddc98fb76e34ca862879",
     "abd8c9acd42948e8c6b8a2d42334664bb7fe8a65972ecd3193743bb4d400dfc9",
+    "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
     "afa77b633b39ca8a561f0e9beba9cafd9e9b74dc87fbfe1beb1a1aca8d303862",
     "b75bb88df3cddda73d95eae4129aa3af2abf8f8a0ea6b2a40e822e8610be2d69",
     "b7927fa349d309416789cf0966ba6a3196d39958903fed74c03e54c83b635e12",
