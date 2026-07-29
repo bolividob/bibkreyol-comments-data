@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785317405062,
+  "updatedAt": 1785317641435,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785317583676",
+      "text": "legliz an direk, mesi; bel travay",
+      "userDeviceId": "219ceeadb252befb935db3081d1c73789f771a07d27f31442c6499cff8ee461b",
+      "userName": "jean b",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785317584791,
+      "updatedAt": 1785317584791,
+      "status": "active"
+    },
     {
       "id": "local-1785303616775",
       "text": "Amén y amén",
@@ -240,8 +254,8 @@
     }
   ],
   "likeCount": 84,
-  "shareCount": 100,
-  "viewCount": 373,
+  "shareCount": 101,
+  "viewCount": 376,
   "verseLikedBy": [
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
