@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785324602253,
+  "updatedAt": 1785325008665,
   "version": 1,
   "comments": [
     {
@@ -57,12 +57,13 @@
       "verseName": "Malaki 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "219ceeadb252befb935db3081d1c73789f771a07d27f31442c6499cff8ee461b"
+        "219ceeadb252befb935db3081d1c73789f771a07d27f31442c6499cff8ee461b",
+        "fcad3f2c9dfb8f34cb17bc30da00745f1c470d55d950680d1bcbb878f1ec264b"
       ],
       "createdAt": 1785301642138,
-      "updatedAt": 1785317149655,
+      "updatedAt": 1785324868294,
       "status": "active"
     },
     {
@@ -253,9 +254,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 98,
-  "shareCount": 135,
-  "viewCount": 444,
+  "likeCount": 101,
+  "shareCount": 136,
+  "viewCount": 448,
   "verseLikedBy": [
     "01877ebc56ebe9169a62352d6ecc6a68c6938df8a5a813ddeff2b0ac240071fc",
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
@@ -288,6 +289,8 @@
     "34b6ab433f4d7beaf3c799652e5dc4374504c96048809104b9851afb77385aef",
     "3b84053d52b56d658ea84812156a3b59aed5e7e089cff3637b267721b3d08c8d",
     "3b92d55e4dcfe7a4ca820bd17b3a075ce996d3be1288dca8259f07b77e3414f8",
+    "404fc153e4daa0fe743ec56dd5d1802330fb0a6b47cc8c2828626c10e56d8cb9",
+    "40d66f3ef314c1edb71658ee8dd38dc452b29dcaa3f2874144d2ecb8c32e9234",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
     "4732311f54de7fcac593625643cfc4ca1b57b6fda1be6d06fca15f2657a4bc40",
     "4b964d0fee5688948d6e7dc3c555159ecdf2a9b9be3470bae7f1208c45b96627",
@@ -324,6 +327,7 @@
     "96e4674292454170ad3c9dd1c62e634082cf026e77553db368b96bd737eb7394",
     "970b87649fa76c99eae1cc5079b29c6d1fdbbc2b6318e304df7cf49179e66a4d",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
+    "a26d46d228402f176a94a0a7e4966841664a3834a7ff1f9f7338587975a0badc",
     "a37b7b12bc48554039d6a5174bcf50558a04d97a42a8d1a9b33d2af018ea06b1",
     "a5bb8b44d84e059c2b853abc4b29e1c77388125e3c86ddc98fb76e34ca862879",
     "abc0e5de9e6cb8a28c777b565096fae5d6630603b761930bea0c549ceb2df430",
