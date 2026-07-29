@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785285856232,
+  "updatedAt": 1785286802654,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785286415702",
+      "text": "som 119",
+      "userDeviceId": "8b7652817b610a6940facd4dc31afdb7d5d90320424eb96b5249080f92422442",
+      "userName": "NANA love",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785286451653,
+      "updatedAt": 1785286488129,
+      "status": "active"
+    },
     {
       "id": "local-1785283800171",
       "text": "som 35",
@@ -19,21 +33,24 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 6,
-  "viewCount": 69,
+  "likeCount": 14,
+  "shareCount": 11,
+  "viewCount": 78,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "229221317a2465dbadc69df4ad03fee893315f6c1ff09460036bd6e5849869db",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
     "3b92d55e4dcfe7a4ca820bd17b3a075ce996d3be1288dca8259f07b77e3414f8",
     "524649a5ec74e929dd354becd0641362427401e53e14306021ac76e1fcc31894",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "799159da9b3cdd7be9749ce216746a4940836362a8b5ff34bb1acf0c2745f3bf",
     "7cd2df85ec81b7544059baf19c1838ab70aa4ad196b9f88c14de4c74dc096d74",
     "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
     "8dd93da17b7ce52c07c65c88c1b6c333690908f1c64543b59157c2571a3c7c71",
-    "d09328350a4a9fb122b2965eb83026ec9d084a74e16bf88d63dc5d3a4172cfaa"
+    "d09328350a4a9fb122b2965eb83026ec9d084a74e16bf88d63dc5d3a4172cfaa",
+    "d1bc71e1b1dc4e24dd61af50b4f875739e359f4be4a9b571c7c5f9cec48f8913"
   ],
   "verseViewBy": []
 }
