@@ -1,12 +1,34 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785283201679,
+  "updatedAt": 1785284042725,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 42,
-  "verseLikedBy": [],
+  "comments": [
+    {
+      "id": "local-1785283800171",
+      "text": "som 35",
+      "userDeviceId": "57175949592b0c39c3de5474d383f9db77f5c0749892781cae4a3c85f4a17cf7",
+      "userName": "juslene",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785283811261,
+      "updatedAt": 1785283811261,
+      "status": "active"
+    }
+  ],
+  "likeCount": 6,
+  "shareCount": 1,
+  "viewCount": 51,
+  "verseLikedBy": [
+    "229221317a2465dbadc69df4ad03fee893315f6c1ff09460036bd6e5849869db",
+    "3b92d55e4dcfe7a4ca820bd17b3a075ce996d3be1288dca8259f07b77e3414f8",
+    "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
+    "876d8b6993c07de04dad6cad13c773f5195bc0ae6f7c60527e2c67ca049cf013",
+    "a3a701ffe7fae60ef67bb6cd50817deb1ea17a99683148b40419918931f7c6c3",
+    "d09328350a4a9fb122b2965eb83026ec9d084a74e16bf88d63dc5d3a4172cfaa"
+  ],
   "verseViewBy": []
 }
