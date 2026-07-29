@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785364204302,
+  "updatedAt": 1785365046171,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785364745809",
+      "text": "merci jesus",
+      "userDeviceId": "c6191cbfaceeb64e8d63a116a861de97f137dadc31d4b95dbcc23f77510a0b93",
+      "userName": "laveuskens@gmail.com",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785364748498,
+      "updatedAt": 1785364748498,
+      "status": "active"
+    },
     {
       "id": "local-1785343291618",
       "text": "Merci bondye",
@@ -272,9 +286,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 163,
-  "shareCount": 256,
-  "viewCount": 825,
+  "likeCount": 166,
+  "shareCount": 260,
+  "viewCount": 832,
   "verseLikedBy": [
     "01877ebc56ebe9169a62352d6ecc6a68c6938df8a5a813ddeff2b0ac240071fc",
     "01a83b89734980bd853a34818ed4d6676da9fe7bdada9121faf75206b741da47",
@@ -377,6 +391,7 @@
     "926e491114e011c9865ec8c55d431564dff7162594268487d7e0adcbe854013d",
     "94e42e72b512af8c013cea9713ed6d4ae92de124d20549d6302848619fc3a0b3",
     "9556838cc66a2bcda2cb437a3421ae6800636423c5d024f1b4427a70350fbce0",
+    "95d4126d2f9ea174d0f065ca6b5bdb9d11ec9213c270ceb9caccb2caaacd4607",
     "96562737ce6a9ef2ab0c94474d4b093612e8295bff8dc00577f9b8f902f22aa0",
     "9692a04da7d54660261b6c75e4a22c56ef5ef5462ca0f394e5ac530faf7b7f57",
     "96e4674292454170ad3c9dd1c62e634082cf026e77553db368b96bd737eb7394",
@@ -407,11 +422,13 @@
     "b85031be9fd6972c242cdd010b103666a8073f79fd2c2ab90ec4b2ac930d94a5",
     "bb8e30cd59052cfd2267127e495750df2999de3586a12fdae484c9fc52002831",
     "bc3a615a49c53ca0288e6e271ac9fadaa4155ec56f1ceb6a3ba532905e97487e",
+    "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "bf787ddd61f6cc0229426cbd594ae158cfe6aeca61dd8af016841cdef8742a20",
     "c146308444135ddbe81853c781aca643e8cdcc5cebaec3f9c3cada84eb67fffa",
     "c1e84605b3ccf64d086c96bd20466edda4036cb6f7e678f2ca7850dae5179f9e",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
+    "c6191cbfaceeb64e8d63a116a861de97f137dadc31d4b95dbcc23f77510a0b93",
     "c62234865f7b63b2e88b547e1b11afc6f952f8c5308c79f28aca15c97b324137",
     "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
     "c88c9a5f3045756a56dbbfca9e5cd4f490fe5afb977070e7046dd1c01d76b672",
