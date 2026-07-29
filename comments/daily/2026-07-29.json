@@ -1,9 +1,23 @@
 {
   "date": "2026-07-29",
   "verseKey": "daily:2026-07-29",
-  "updatedAt": 1785303023456,
+  "updatedAt": 1785303922307,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785303616775",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Malaki 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785303617875,
+      "updatedAt": 1785303617875,
+      "status": "active"
+    },
     {
       "id": "local-1785301826922",
       "text": "live adoration feature a bon nan version 42",
@@ -213,9 +227,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
-  "shareCount": 80,
-  "viewCount": 251,
+  "likeCount": 75,
+  "shareCount": 84,
+  "viewCount": 258,
   "verseLikedBy": [
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
@@ -223,6 +237,7 @@
     "10cf5909bbd80b5180592121435069d32b85f8cc276567474783b5abcd8d5e3a",
     "110500d96a548ddddd3d2c591196ed60fd38bda45022acb248c0b6dd48f4379c",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1c032c6b1c589d8f98311a42e33a324e9ed83475e768f7e6cc4f49c339cf43e0",
     "1dae7e22606d8ccabf15e5bdac2a4b96d12b198b2fd9fbc8d4b97c90100cb86f",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -239,13 +254,13 @@
     "3b84053d52b56d658ea84812156a3b59aed5e7e089cff3637b267721b3d08c8d",
     "3b92d55e4dcfe7a4ca820bd17b3a075ce996d3be1288dca8259f07b77e3414f8",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
+    "4732311f54de7fcac593625643cfc4ca1b57b6fda1be6d06fca15f2657a4bc40",
     "4b964d0fee5688948d6e7dc3c555159ecdf2a9b9be3470bae7f1208c45b96627",
     "4d9fa8e75abae119a0847a0bc4652f1af2c8516e8c036a95c0e7712e0d673dc4",
     "524649a5ec74e929dd354becd0641362427401e53e14306021ac76e1fcc31894",
     "5852964879489c6f5a1d43843e212c904373d9d323990ea6bf8778823ab8b44b",
     "5c69ed42530658748e865614b1e0cbcd5af90177e7785b090436ec34c1fac59d",
     "5e425ec90962284abee904b4b2545997156188b95102fa9b32164aa9f1c18ed6",
-    "673e1b695959a4df95f59703481e0facbd0100e7dad4417d100a301af1c6f5f3",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
@@ -283,6 +298,7 @@
     "bc3a615a49c53ca0288e6e271ac9fadaa4155ec56f1ceb6a3ba532905e97487e",
     "d09328350a4a9fb122b2965eb83026ec9d084a74e16bf88d63dc5d3a4172cfaa",
     "d1bc71e1b1dc4e24dd61af50b4f875739e359f4be4a9b571c7c5f9cec48f8913",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "ddb65b42ed30232d751936f52771aa9c76aebefbcec12a4e31deff882e503cdf",
     "e05f34c872f9aaf985b72e188d227e02510e7ef86f82cf8c73f5c26195735f87",
     "e3851fb8106f467e911d12c7711aec38b5403a201e3703983ca5e51d65605d92",
