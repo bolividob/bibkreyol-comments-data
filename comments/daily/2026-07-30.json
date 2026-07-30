@@ -1,9 +1,23 @@
 {
   "date": "2026-07-30",
   "verseKey": "daily:2026-07-30",
-  "updatedAt": 1785425415677,
+  "updatedAt": 1785426298960,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785425900505",
+      "text": "Amén merci seignuer 🙏",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Ezayi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785425901855,
+      "updatedAt": 1785425901855,
+      "status": "active"
+    },
     {
       "id": "local-1785417523462",
       "text": "Amen amen 🙏🙏🙏",
@@ -363,9 +377,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 144,
-  "shareCount": 238,
-  "viewCount": 588,
+  "likeCount": 146,
+  "shareCount": 242,
+  "viewCount": 596,
   "verseLikedBy": [
     "00c4c0ab1fbaa1789c58a26820bb59973d100fca10fc725f2ddf5e4f544d82c5",
     "00ec48765505db7849d18783aaaf6e216b39b09d97cec4e4433900104c3379fc",
@@ -406,6 +420,7 @@
     "35bca4781db9ba4d5150bdd17046175f7d23d709ae2e02db58ffb38908c42a9b",
     "362cd10e117b60eba9046b449e71e8297d81ff1e696c5671e9912839f3e60ca6",
     "37f79801244307c866c570e97b7be8ed6f0dad3d152ceed060c2ae39b49b5c9c",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
     "404fc153e4daa0fe743ec56dd5d1802330fb0a6b47cc8c2828626c10e56d8cb9",
     "413a7fa199670ff1b0a8df3c3cad95bd94d975b81b8541646e8d2de6c887d6c0",
@@ -453,6 +468,7 @@
     "9411bdad39dcaec9a580e63abe0fd45170b3795e95e4e3c044135db06c34035b",
     "94ce67f4f03656133618f1fb0a43f0c30b6ea01106895d711d6596865d13f557",
     "95f07ece3e49543f6e4668e62daf18e6571956fea4d54b632b0ce303a3ec2290",
+    "9685309931df4ecb80baafd291dace52b3c6434f2efc87b2c4ef0018d38220e5",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "9b761f53a63c6ec61cad0ab408f3cc2d1227b18984b8b506c5687bc03f0c1661",
     "9bef4b197db03dcbf82e7366d49e17134f49509db97ef50c0581b0be43cf9816",
