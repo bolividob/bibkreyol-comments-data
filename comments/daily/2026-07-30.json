@@ -1,9 +1,23 @@
 {
   "date": "2026-07-30",
   "verseKey": "daily:2026-07-30",
-  "updatedAt": 1785410041983,
+  "updatedAt": 1785411004190,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785410841266",
+      "text": "amèn amèn 🙏🙏",
+      "userDeviceId": "23cd71c95634e73e55c11acdd4fdc9884b9d5596810cce8044fb9a2640fe1523",
+      "userName": "Charline Devilus",
+      "verseName": "Ezayi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785410844044,
+      "updatedAt": 1785410844044,
+      "status": "active"
+    },
     {
       "id": "local-1785408358190",
       "text": "amén amén",
@@ -321,9 +335,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 102,
-  "shareCount": 153,
-  "viewCount": 442,
+  "likeCount": 104,
+  "shareCount": 157,
+  "viewCount": 454,
   "verseLikedBy": [
     "00c4c0ab1fbaa1789c58a26820bb59973d100fca10fc725f2ddf5e4f544d82c5",
     "00ec48765505db7849d18783aaaf6e216b39b09d97cec4e4433900104c3379fc",
@@ -332,6 +346,7 @@
     "0b3d244bde3bc713dc3eb33ba04013352196060e7df4eeda7149ab234e627aea",
     "0bf9bfd079e7a0e6854599e8677a997966ceff0aa01de33e3e6c2bfee8859cd9",
     "110500d96a548ddddd3d2c591196ed60fd38bda45022acb248c0b6dd48f4379c",
+    "1202a7847f1a9f0ed1353d041534b3be28a5f5e21193ac4cfbd6ae10bf0e79bf",
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "15cf6ae8aae734e18fd257df41057a925e6bb9dda86b57441cf70a7e41f4247a",
@@ -404,6 +419,7 @@
     "c0d0ccc7e076219b267decd95ab5db8a04ad286238eece3f4cd915824251f037",
     "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
     "c8386b776bd007964632cf4770494df097ce2f4b7242e0c78bb42c38b931c405",
+    "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
     "ccbbe0cea06f510d9b7a3400be9f3ee3aa09ec0075ba1eee5e7d393e5d455818",
     "cd76514fcf9a1b971a9d853360bea352602618e887b5897d4710aefe679e8528",
     "ce830089dcc8a30f89567ad694de6bf33b26595eb74dfe906baa042083c5327d",
