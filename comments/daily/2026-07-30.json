@@ -1,9 +1,23 @@
 {
   "date": "2026-07-30",
   "verseKey": "daily:2026-07-30",
-  "updatedAt": 1785378472756,
+  "updatedAt": 1785378501174,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785378500525",
+      "text": "nou konpran mond sa?",
+      "userDeviceId": "7074e2e9ef462adb40157c6c58b5cd8a8aa23487c8ddfbaa5b6a216388268afa",
+      "userName": "juno",
+      "verseName": "Ezayi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785378501174,
+      "updatedAt": 1785378501174,
+      "status": "active"
+    },
     {
       "id": "local-1785378472259",
       "text": "fre yo, eske ni",
@@ -167,7 +181,7 @@
   ],
   "likeCount": 35,
   "shareCount": 49,
-  "viewCount": 150,
+  "viewCount": 151,
   "verseLikedBy": [
     "028fdf846fba89b6883290af99757a0828a388c5d47ec8c35ad62c7acc479471",
     "15cf6ae8aae734e18fd257df41057a925e6bb9dda86b57441cf70a7e41f4247a",
