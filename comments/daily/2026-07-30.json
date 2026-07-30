@@ -1,9 +1,23 @@
 {
   "date": "2026-07-30",
   "verseKey": "daily:2026-07-30",
-  "updatedAt": 1785387627001,
+  "updatedAt": 1785388441710,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785387657067",
+      "text": "Mérsi jezi",
+      "userDeviceId": "56f325bcc968fb2180cc6c3c27ffe353005c84fbc68a191a96535dc62449330d",
+      "userName": "Priye Gerizon",
+      "verseName": "Ezayi 7:4",
+      "parentId": "local-1785374754042",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785387658203,
+      "updatedAt": 1785387658203,
+      "status": "active"
+    },
     {
       "id": "local-1785386139697",
       "text": "Tout gloire ce pour bon Dieu 🧎🏾‍♀️🫶🏾✝️",
@@ -241,19 +255,19 @@
       "userName": "Myrlande usta",
       "verseName": "Ezayi 7:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "8cd67290ade5831a0d6394190b0e8202b84d9a3e6e39e043cac1f1cf613c24f9"
       ],
       "createdAt": 1785374765695,
-      "updatedAt": 1785376688868,
+      "updatedAt": 1785387658203,
       "status": "active"
     }
   ],
   "likeCount": 72,
-  "shareCount": 78,
-  "viewCount": 245,
+  "shareCount": 79,
+  "viewCount": 252,
   "verseLikedBy": [
     "00c4c0ab1fbaa1789c58a26820bb59973d100fca10fc725f2ddf5e4f544d82c5",
     "00ec48765505db7849d18783aaaf6e216b39b09d97cec4e4433900104c3379fc",
