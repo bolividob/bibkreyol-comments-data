@@ -1,9 +1,23 @@
 {
   "date": "2026-07-30",
   "verseKey": "daily:2026-07-30",
-  "updatedAt": 1785430803579,
+  "updatedAt": 1785431712404,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785431661384",
+      "text": "amèn",
+      "userDeviceId": "88a2e63ff3805e48c02471feaf1481f05a1b189a7cb197a121b1d321b1286564",
+      "userName": "Beky",
+      "verseName": "Ezayi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785431663205,
+      "updatedAt": 1785431663205,
+      "status": "active"
+    },
     {
       "id": "local-1785425900505",
       "text": "Amén merci seignuer 🙏",
@@ -377,9 +391,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 158,
-  "shareCount": 261,
-  "viewCount": 642,
+  "likeCount": 160,
+  "shareCount": 265,
+  "viewCount": 653,
   "verseLikedBy": [
     "00c4c0ab1fbaa1789c58a26820bb59973d100fca10fc725f2ddf5e4f544d82c5",
     "00ec48765505db7849d18783aaaf6e216b39b09d97cec4e4433900104c3379fc",
@@ -467,6 +481,7 @@
     "83806fa4727f9b62bd153758a7bf426a005427acac463d834e2d6e1824b2e917",
     "83b727e08d416f379473748ffee71cb5bd88a2b97dcb646a6574a649aa9dc9ba",
     "86aec03cb890d37c78431bd3f80b77708651f380f1b294bec84bfa53fad2cb4b",
+    "88a2e63ff3805e48c02471feaf1481f05a1b189a7cb197a121b1d321b1286564",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8c15ffcf01aa0bd6849d81f4ba8e40004d9bbe251d48498d51ddd14675908f9a",
     "8cd67290ade5831a0d6394190b0e8202b84d9a3e6e39e043cac1f1cf613c24f9",
@@ -538,7 +553,8 @@
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fac4cac6c131ba78cd55327b5eada141acece6612896f8196695e2866e96bf9a",
     "fb99bae3dfbd7867a6161423f441fb7e3bb8d559dadd5262a3011306986a003c",
-    "fba325b4a0946920b29a66db8cede102f5aed6cecaadc8d4c6fc30d4d16a0f48"
+    "fba325b4a0946920b29a66db8cede102f5aed6cecaadc8d4c6fc30d4d16a0f48",
+    "ff466562498fdb7dd6e307d1bb8aa145265b6ed1cf722dec041c8d3f40401428"
   ],
   "verseViewBy": []
 }
