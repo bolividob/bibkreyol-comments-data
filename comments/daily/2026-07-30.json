@@ -1,9 +1,23 @@
 {
   "date": "2026-07-30",
   "verseKey": "daily:2026-07-30",
-  "updatedAt": 1785388441710,
+  "updatedAt": 1785389404226,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785389068192",
+      "text": "🙏🙏",
+      "userDeviceId": "83b727e08d416f379473748ffee71cb5bd88a2b97dcb646a6574a649aa9dc9ba",
+      "userName": "Nerlineca",
+      "verseName": "Ezayi 7:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785389069667,
+      "updatedAt": 1785389069667,
+      "status": "active"
+    },
     {
       "id": "local-1785387657067",
       "text": "Mérsi jezi",
@@ -265,9 +279,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
-  "shareCount": 79,
-  "viewCount": 252,
+  "likeCount": 73,
+  "shareCount": 80,
+  "viewCount": 261,
   "verseLikedBy": [
     "00c4c0ab1fbaa1789c58a26820bb59973d100fca10fc725f2ddf5e4f544d82c5",
     "00ec48765505db7849d18783aaaf6e216b39b09d97cec4e4433900104c3379fc",
@@ -307,6 +321,7 @@
     "7ca0fc352240af8ecf68e6419fa2ab737bb5d78f71e9d47adff288d29b0fb483",
     "7f5ab83f41b6a5a0ef0a3b125e1a711fccc5998d8294fe2105c8ae5242487978",
     "8068e8b4d2036dc43b98e58f3a817c4c4cb58fde8c6c6aec16a7c9161d8cc017",
+    "83b727e08d416f379473748ffee71cb5bd88a2b97dcb646a6574a649aa9dc9ba",
     "86aec03cb890d37c78431bd3f80b77708651f380f1b294bec84bfa53fad2cb4b",
     "8c15ffcf01aa0bd6849d81f4ba8e40004d9bbe251d48498d51ddd14675908f9a",
     "8cd67290ade5831a0d6394190b0e8202b84d9a3e6e39e043cac1f1cf613c24f9",
