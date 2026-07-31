@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785498323038,
+  "updatedAt": 1785499225032,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "2 Kwonik 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "aa8446d9c8de1c80a79a913ffcd1082da636c32a1ec62095f969f5be08d2e9b6"
+      ],
       "createdAt": 1785492822319,
-      "updatedAt": 1785492822319,
+      "updatedAt": 1785498959191,
       "status": "active"
     },
     {
@@ -68,10 +70,12 @@
       "verseName": "2 Kwonik 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "aa8446d9c8de1c80a79a913ffcd1082da636c32a1ec62095f969f5be08d2e9b6"
+      ],
       "createdAt": 1785485778161,
-      "updatedAt": 1785485778161,
+      "updatedAt": 1785498870491,
       "status": "active"
     },
     {
@@ -362,9 +366,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 115,
-  "shareCount": 217,
-  "viewCount": 482,
+  "likeCount": 118,
+  "shareCount": 227,
+  "viewCount": 490,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "048019236ba499ae767cd0d4d2c6fc637f0661af73620a94c61c0b61c0da5d1a",
@@ -440,6 +444,7 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "9069cec5ca6e1b7b912e4c8e44e760e8a4fea14eb6030c0343f6977458244bc4",
     "90f60d1ef2ea12a51dfcf455edb2840467bcbc4330b090363b32b20e079ca42c",
+    "984dbf77d6f285188c07318c602aba90dfdd4f12f785ebbcc5f6a674cba213e3",
     "9a24ab928faaa4396b54517791e2d61f176e7bfaa9e8d9229ad43d24a51ec56a",
     "9a9fd7e86725077ebd36c1d9e095b0da72aafe6b239de52de5fbf55ec799c1a6",
     "9ae4f2e7e55dfe4845a797d1c8c9b66d48ff1dc9c516e215a43f5afd27467a1a",
@@ -458,7 +463,9 @@
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "bfb40114cfc02b83ec088bd73e82cf49be383f5201be9d20c357696e028918f7",
     "c18001b5916722be538696c0bcab581f09e5f9ced2c7c33b2466e007a6d1e10d",
+    "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "c79c9180d77e7905d0857a3ca1142968491ef1b2c817ddbcc01dd09cbbe7c11a",
+    "c808c135fc195251d25cd5f276ed66dfc05f6073f353244a75b899981eedc5f2",
     "c8830303ba0b8b5d64805d81815990e62143366725f2fb47e37c450c5795df9c",
     "c8a29b2ead04512dfee225c2ac3a50b31ab94a22ab4930cb63bfcf4348798f5f",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
