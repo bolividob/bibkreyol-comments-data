@@ -1,9 +1,23 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785526251037,
+  "updatedAt": 1785527046678,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785526606970",
+      "text": "Aleluia aleluia aleluia glória Deus",
+      "userDeviceId": "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04",
+      "userName": "mystafa",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785526608559,
+      "updatedAt": 1785526608559,
+      "status": "active"
+    },
     {
       "id": "local-1785525510245",
       "text": "sa vrèman resan",
@@ -511,9 +525,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 185,
+  "likeCount": 186,
   "shareCount": 337,
-  "viewCount": 745,
+  "viewCount": 754,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "03aa56e0958f89a2768f979d4c822c0a4af576186b68f87453044fe3c61ded89",
@@ -673,6 +687,7 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cbfe36c6a3959cb7dd0f4fe22720178aabebf712965b7f52cd7842999cb42091",
     "cc2ec5a65d1fe527ed87d5a556b42db7be3379732c715bc4acb547854d36e96b",
+    "cd8a703ae004ec8286597bfbf818923363dcca444401c078d350b96da67e4b04",
     "d00695f609a40a43b22a60f694f7591ad1983aa1d7642925e58deb9d901f8af7",
     "d180108b47725d3ca455f0fe2995a2d52d1eaea4c448deedd351679ad8cf041e",
     "d2132348dbaa21e92deb7d4bcded2a92fe30b1d11b7fdc71455c67c9433ecddd",
