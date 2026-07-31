@@ -1,9 +1,23 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785501053988,
+  "updatedAt": 1785501871243,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785501311740",
+      "text": "amèn",
+      "userDeviceId": "bf8633f83371fbb0646dffba851796268d0e7df4592e463b411313ee570f0d5c",
+      "userName": "mana",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785501324629,
+      "updatedAt": 1785501324629,
+      "status": "active"
+    },
     {
       "id": "local-1785500594534",
       "text": "Amén groire a Jesus 🙏",
@@ -380,9 +394,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 129,
-  "shareCount": 244,
-  "viewCount": 510,
+  "likeCount": 132,
+  "shareCount": 251,
+  "viewCount": 518,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "048019236ba499ae767cd0d4d2c6fc637f0661af73620a94c61c0b61c0da5d1a",
@@ -405,6 +419,7 @@
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "23ab36da65c4359680335b3e869dd0c71bf3208e219505dad7196aa218a93d39",
     "2404d7862f275221380cbd49e8b8886c7bf0ee392e9a19f1c0d94799ed0af1e2",
     "24e524f4ea48ac5800334827815ea9af8424775331173c88660a12448d21e5fc",
     "251e85342bd93d7120ed3a15f702621434b9431631a7fce370c73e95d1df23f8",
@@ -413,6 +428,7 @@
     "2a3f84a15f8f36723f8efababe7942697e3e630dd8d019a45ef38275cea25d45",
     "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
     "2c6b8b1776e9167c45051546a9bcfa9f1af9d1a262bc48884f6c48c7a35c228a",
+    "2cc20a98034312b517e5aa18195254e06960f9ae44cbaaaee936caf7da8ddcd4",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "2dc6d8c02ae9918bda66d2b25312a54b51c4cf5f1773778084cfea8ee4a0d51d",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
@@ -485,6 +501,7 @@
     "b63dfd49cfcaf28f1d54a93835daad0618a16c6e219a0595fef7221374bd437b",
     "b83ba98a1ed1cb3a43bbc487ff3033841cac4af7870cc12648c95f61d52249ce",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+    "bf8633f83371fbb0646dffba851796268d0e7df4592e463b411313ee570f0d5c",
     "bfb40114cfc02b83ec088bd73e82cf49be383f5201be9d20c357696e028918f7",
     "c18001b5916722be538696c0bcab581f09e5f9ced2c7c33b2466e007a6d1e10d",
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
