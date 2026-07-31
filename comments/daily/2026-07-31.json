@@ -1,9 +1,53 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785457803628,
+  "updatedAt": 1785458641033,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785458466318",
+      "text": "Merci jesus",
+      "userDeviceId": "444df0dc94485cd61149c6626449ee8233a9810b3c10a9149c9733e289c69df3",
+      "userName": "Merci jesus",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785458471072,
+      "updatedAt": 1785458471072,
+      "status": "active"
+    },
+    {
+      "id": "local-1785458445415",
+      "text": "Merci jesus",
+      "userDeviceId": "444df0dc94485cd61149c6626449ee8233a9810b3c10a9149c9733e289c69df3",
+      "userName": "Merci jesus",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "444df0dc94485cd61149c6626449ee8233a9810b3c10a9149c9733e289c69df3"
+      ],
+      "createdAt": 1785458449316,
+      "updatedAt": 1785458479110,
+      "status": "active"
+    },
+    {
+      "id": "local-1785458129062",
+      "text": "tut glwa se pu Bondye",
+      "userDeviceId": "26800c0f8c4a1ebe33c994cad090e48947c2e2fb7df7df79e6ccef3bd6c394df",
+      "userName": "peter",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785458131488,
+      "updatedAt": 1785458131488,
+      "status": "active"
+    },
     {
       "id": "local-1785457083688",
       "text": "ke volonté Bondye fèt sou lavi nou chak kap li  vèsè sa",
@@ -12,24 +56,31 @@
       "verseName": "2 Kwonik 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "444df0dc94485cd61149c6626449ee8233a9810b3c10a9149c9733e289c69df3"
+      ],
       "createdAt": 1785457154471,
-      "updatedAt": 1785457154471,
+      "updatedAt": 1785458483168,
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 13,
-  "viewCount": 68,
+  "likeCount": 14,
+  "shareCount": 18,
+  "viewCount": 80,
   "verseLikedBy": [
+    "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1e3c057d2867308258900deb70d70c398593c06a2187fb9877580cfff3a49da5",
+    "26800c0f8c4a1ebe33c994cad090e48947c2e2fb7df7df79e6ccef3bd6c394df",
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
     "57b15b8bd2c68fabee4bd09cf480f626ab06baf9b327549ea1edbee86ec99b43",
     "6faedbe7f30f06b802f45c9ff480fc61586b3f25bd88476811d20281a5e12efd",
     "70de8b500dde8d246637c678ae27528b2f8ebb8e48738ce5179f35e3c56cbfc6",
+    "7799330f391bb5ef3512e49ba9410315538240c5b0f79801cbf350d1174c0ffc",
     "7fc2ae3e391f751ccbde5ad3cf267a680e5e3b9b20c488747a5ceeca163c68ec",
+    "824e61daf3a9a3378d67b5cff227163ebdf1d7e91a8d17db4014027fa0981a04",
+    "9069cec5ca6e1b7b912e4c8e44e760e8a4fea14eb6030c0343f6977458244bc4",
     "d00695f609a40a43b22a60f694f7591ad1983aa1d7642925e58deb9d901f8af7",
     "d180108b47725d3ca455f0fe2995a2d52d1eaea4c448deedd351679ad8cf041e"
   ],
