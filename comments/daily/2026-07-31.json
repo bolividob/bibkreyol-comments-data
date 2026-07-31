@@ -1,9 +1,23 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785470401062,
+  "updatedAt": 1785471327843,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785470831093",
+      "text": "amen",
+      "userDeviceId": "2a3f84a15f8f36723f8efababe7942697e3e630dd8d019a45ef38275cea25d45",
+      "userName": "Adou",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785470832681,
+      "updatedAt": 1785470832681,
+      "status": "active"
+    },
     {
       "id": "local-1785469126591",
       "text": "amen",
@@ -195,11 +209,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 90,
-  "viewCount": 226,
+  "likeCount": 68,
+  "shareCount": 93,
+  "viewCount": 235,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
+    "0d5c5056f91d57f2adb2b1c182a4655fa79a32c6c7faa549d9f36be7a0c2557e",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1728602fecba8d71ee1401dbe38367a447347ca64cf72c9e3c5fca4c090b48eb",
@@ -212,6 +227,7 @@
     "2404d7862f275221380cbd49e8b8886c7bf0ee392e9a19f1c0d94799ed0af1e2",
     "24e524f4ea48ac5800334827815ea9af8424775331173c88660a12448d21e5fc",
     "26800c0f8c4a1ebe33c994cad090e48947c2e2fb7df7df79e6ccef3bd6c394df",
+    "2a3f84a15f8f36723f8efababe7942697e3e630dd8d019a45ef38275cea25d45",
     "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
@@ -250,6 +266,7 @@
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "ab1b1814a3ab21b171c9b01691e1d8129e31bd54d2361282f30f8225bd8f5d90",
     "ad9b6f371bc591accfb64a64746b16d9dd79364d11fce9d52a05aceb3d6e8e25",
+    "b63dfd49cfcaf28f1d54a93835daad0618a16c6e219a0595fef7221374bd437b",
     "bfb40114cfc02b83ec088bd73e82cf49be383f5201be9d20c357696e028918f7",
     "c18001b5916722be538696c0bcab581f09e5f9ced2c7c33b2466e007a6d1e10d",
     "c79c9180d77e7905d0857a3ca1142968491ef1b2c817ddbcc01dd09cbbe7c11a",
