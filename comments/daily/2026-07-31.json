@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785537908296,
+  "updatedAt": 1785538856155,
   "version": 1,
   "comments": [
     {
@@ -54,12 +54,13 @@
       "verseName": "2 Kwonik 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "968f6e3f39da1ff85ed7a8f7c473f2abf902386ca9d037f0fa13fc55618f5831",
         "96e2ca5ede1973bd4341eeaa3e3930a39d141b1a921ddce59513bffdad991878"
       ],
       "createdAt": 1785525511618,
-      "updatedAt": 1785534155586,
+      "updatedAt": 1785538388494,
       "status": "active"
     },
     {
@@ -556,9 +557,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 206,
-  "shareCount": 356,
-  "viewCount": 863,
+  "likeCount": 207,
+  "shareCount": 358,
+  "viewCount": 874,
   "verseLikedBy": [
     "01cb18ea4d5ebb3ea46fdd2b852a702a3d21076aa36f5ee37f9d90a4250d246f",
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
@@ -653,6 +654,7 @@
     "62165c4e79bc97435e8b06936b57d8485efaeeb528d42391f0982ce6f11506d2",
     "63229f0bdcbd85a5d57a468eb7b5e52c72640d086031b4098a62b78910fe8cde",
     "63f9d34ab65d4f806d6a4f2723c5147979bc25a902262df54e323ae6dcccc4ac",
+    "64f3ab50852794edebb6e72d7d2d4a998c77335bc8ad5d62ecaebd59e36c691e",
     "68937194a9923c6f44b00fbfedd99f7ae7ae57c62e1b9819e20978907768603e",
     "6b5babecd2624719b1c32f1ae9da123724351672826c3471d81e4f1a538bd5c2",
     "6eb4c6b8ffdb8a220649db7865621320d857eceb2aa59bd6541a4137f1bc8041",
