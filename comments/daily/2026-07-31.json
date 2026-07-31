@@ -1,9 +1,23 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785496453203,
+  "updatedAt": 1785497433986,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785497432074",
+      "text": "amén",
+      "userDeviceId": "322960171edfcca9600a1f13f9ca893ca624f99631cbe42ea544c63d44cc400f",
+      "userName": "Carmen la hija del rey",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785497433986,
+      "updatedAt": 1785497433986,
+      "status": "active"
+    },
     {
       "id": "local-1785494588784",
       "text": "Femi",
@@ -348,13 +362,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 108,
-  "shareCount": 194,
-  "viewCount": 461,
+  "likeCount": 112,
+  "shareCount": 206,
+  "viewCount": 473,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "048019236ba499ae767cd0d4d2c6fc637f0661af73620a94c61c0b61c0da5d1a",
     "08c0addaf5ef967d5c0d20e5e305f18b45b0f48ccb23a0bac5ffc763767136a6",
+    "0b6c2f7401b0e2ef24f529fbc8cd1ffc68d7b4c627fc42b1e621bda34a1ff8e0",
     "0b98f7be5d819749d40b505a4f4c006bbdb8f8f69139d7b72069047b78ff146f",
     "0d5c5056f91d57f2adb2b1c182a4655fa79a32c6c7faa549d9f36be7a0c2557e",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
@@ -362,10 +377,12 @@
     "126422e3af03926b9bb80e70430acede9bda7372234620ead62dccfe20e067ec",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1728602fecba8d71ee1401dbe38367a447347ca64cf72c9e3c5fca4c090b48eb",
+    "1918ff6c61f7d20450e6fc2ac1f5f404b517ede20bb4a51b6119529ad473bcca",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1c29ab97b482c0c375ff187f2c9ab484d29088c3fc97211c28c2bdd85e318766",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1e3c057d2867308258900deb70d70c398593c06a2187fb9877580cfff3a49da5",
+    "20496d78507f6c2ced1843c35400eaaf6c76fb4339692bf73070c4742892f7d5",
     "20cef54fc36258cbdbe1702e0ce9761977a31227d589e2040bdfd9d4d2346fdd",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
@@ -382,6 +399,7 @@
     "2dc6d8c02ae9918bda66d2b25312a54b51c4cf5f1773778084cfea8ee4a0d51d",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "33ddec4ae9604c6dd3ee6621c6a8c8f1336f2113222a149ebf48e60331b209a1",
     "3c681b44c97ec6c60a7dfb482af6be2e370db2c98ad48cde1371c372d9b2d756",
     "40fe2a48cedc772afd934f610249c3227662ff9721c340e88dc40adde67ce067",
