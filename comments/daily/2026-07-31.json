@@ -1,9 +1,37 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785465001291,
+  "updatedAt": 1785465841846,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785465798732",
+      "text": "amén🙏",
+      "userDeviceId": "53c5b846e4c475d34598853371141e873db1175c06067e9f6b2fccd50f053956",
+      "userName": "Eva",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785465802198,
+      "updatedAt": 1785465802198,
+      "status": "active"
+    },
+    {
+      "id": "local-1785465172423",
+      "text": "amen",
+      "userDeviceId": "80b169b9739eeb539c225b979b583edfce526fc780fe74b8cc130224446531c9",
+      "userName": "miclaine",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785465174432,
+      "updatedAt": 1785465174432,
+      "status": "active"
+    },
     {
       "id": "local-1785464803208",
       "text": "amén amén 🙏🙏",
@@ -139,9 +167,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
-  "shareCount": 57,
-  "viewCount": 169,
+  "likeCount": 46,
+  "shareCount": 62,
+  "viewCount": 178,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
@@ -160,7 +188,9 @@
     "3c681b44c97ec6c60a7dfb482af6be2e370db2c98ad48cde1371c372d9b2d756",
     "444df0dc94485cd61149c6626449ee8233a9810b3c10a9149c9733e289c69df3",
     "5347f1d6cea64350ec51b408d421e7fdaee0c7e1592cc291d19d3d41b0246259",
+    "53c5b846e4c475d34598853371141e873db1175c06067e9f6b2fccd50f053956",
     "57b15b8bd2c68fabee4bd09cf480f626ab06baf9b327549ea1edbee86ec99b43",
+    "5d543b323c66d643275b659704eab22a939a94b7da3fdc669cccddc32d7d89c9",
     "68937194a9923c6f44b00fbfedd99f7ae7ae57c62e1b9819e20978907768603e",
     "6faedbe7f30f06b802f45c9ff480fc61586b3f25bd88476811d20281a5e12efd",
     "70de8b500dde8d246637c678ae27528b2f8ebb8e48738ce5179f35e3c56cbfc6",
