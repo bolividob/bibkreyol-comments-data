@@ -1,16 +1,37 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785457625643,
+  "updatedAt": 1785457803628,
   "version": 1,
-  "comments": [],
-  "likeCount": 3,
-  "shareCount": 8,
-  "viewCount": 58,
+  "comments": [
+    {
+      "id": "local-1785457083688",
+      "text": "ke volonté Bondye fèt sou lavi nou chak kap li  vèsè sa",
+      "userDeviceId": "6faedbe7f30f06b802f45c9ff480fc61586b3f25bd88476811d20281a5e12efd",
+      "userName": "vicknise Alcianas",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785457154471,
+      "updatedAt": 1785457154471,
+      "status": "active"
+    }
+  ],
+  "likeCount": 9,
+  "shareCount": 13,
+  "viewCount": 68,
   "verseLikedBy": [
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1e3c057d2867308258900deb70d70c398593c06a2187fb9877580cfff3a49da5",
-    "7fc2ae3e391f751ccbde5ad3cf267a680e5e3b9b20c488747a5ceeca163c68ec"
+    "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+    "57b15b8bd2c68fabee4bd09cf480f626ab06baf9b327549ea1edbee86ec99b43",
+    "6faedbe7f30f06b802f45c9ff480fc61586b3f25bd88476811d20281a5e12efd",
+    "70de8b500dde8d246637c678ae27528b2f8ebb8e48738ce5179f35e3c56cbfc6",
+    "7fc2ae3e391f751ccbde5ad3cf267a680e5e3b9b20c488747a5ceeca163c68ec",
+    "d00695f609a40a43b22a60f694f7591ad1983aa1d7642925e58deb9d901f8af7",
+    "d180108b47725d3ca455f0fe2995a2d52d1eaea4c448deedd351679ad8cf041e"
   ],
   "verseViewBy": []
 }
