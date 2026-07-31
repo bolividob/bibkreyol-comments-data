@@ -1,9 +1,23 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785529807292,
+  "updatedAt": 1785530704155,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785467450034",
+      "text": "som",
+      "userDeviceId": "0f63b72e5d211da387c386e4736e2793544ba2f523247581e379c6df89edc67d",
+      "userName": "som",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785530533408,
+      "updatedAt": 1785530533408,
+      "status": "active"
+    },
     {
       "id": "local-1785526606970",
       "text": "Aleluia aleluia aleluia glória Deus",
@@ -526,8 +540,8 @@
     }
   ],
   "likeCount": 193,
-  "shareCount": 339,
-  "viewCount": 779,
+  "shareCount": 341,
+  "viewCount": 789,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "03aa56e0958f89a2768f979d4c822c0a4af576186b68f87453044fe3c61ded89",
