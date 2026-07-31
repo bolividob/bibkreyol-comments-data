@@ -1,9 +1,25 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785501871243,
+  "updatedAt": 1785502807524,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785502244641",
+      "text": "tout glwa se pou ou senyè mw beni nonw 🙏🙏",
+      "userDeviceId": "3a824f3e004d420c045d086e0ae365204ad030eaa4b36e007de2f6478b4e3d43",
+      "userName": "sr Ermione Desir",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "3a824f3e004d420c045d086e0ae365204ad030eaa4b36e007de2f6478b4e3d43"
+      ],
+      "createdAt": 1785502258878,
+      "updatedAt": 1785502277746,
+      "status": "active"
+    },
     {
       "id": "local-1785501311740",
       "text": "amèn",
@@ -394,9 +410,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 132,
-  "shareCount": 251,
-  "viewCount": 518,
+  "likeCount": 134,
+  "shareCount": 253,
+  "viewCount": 529,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "048019236ba499ae767cd0d4d2c6fc637f0661af73620a94c61c0b61c0da5d1a",
@@ -405,6 +421,7 @@
     "0b98f7be5d819749d40b505a4f4c006bbdb8f8f69139d7b72069047b78ff146f",
     "0d5c5056f91d57f2adb2b1c182a4655fa79a32c6c7faa549d9f36be7a0c2557e",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
+    "113e17f4b4eb17b4bf7d3ae5239020222e6926a28f9df917d851f485308217de",
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
     "126422e3af03926b9bb80e70430acede9bda7372234620ead62dccfe20e067ec",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -414,6 +431,7 @@
     "1c29ab97b482c0c375ff187f2c9ab484d29088c3fc97211c28c2bdd85e318766",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1e3c057d2867308258900deb70d70c398593c06a2187fb9877580cfff3a49da5",
+    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "20496d78507f6c2ced1843c35400eaaf6c76fb4339692bf73070c4742892f7d5",
     "20cef54fc36258cbdbe1702e0ce9761977a31227d589e2040bdfd9d4d2346fdd",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
