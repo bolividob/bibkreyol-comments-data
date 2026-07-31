@@ -1,9 +1,39 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785461431632,
+  "updatedAt": 1785462320592,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785461904276",
+      "text": "merci  Jesús 💗",
+      "userDeviceId": "c79c9180d77e7905d0857a3ca1142968491ef1b2c817ddbcc01dd09cbbe7c11a",
+      "userName": "youde",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "c79c9180d77e7905d0857a3ca1142968491ef1b2c817ddbcc01dd09cbbe7c11a"
+      ],
+      "createdAt": 1785461906440,
+      "updatedAt": 1785461939279,
+      "status": "active"
+    },
+    {
+      "id": "local-1785465395487",
+      "text": "Amen Amen",
+      "userDeviceId": "a8613afa47861a52c91433c63bc03468065f7eeef8207ff9d2d1c312c605a398",
+      "userName": "Djane",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785461790183,
+      "updatedAt": 1785461790183,
+      "status": "active"
+    },
     {
       "id": "local-1785458466318",
       "text": "Merci jesus",
@@ -12,10 +42,12 @@
       "verseName": "2 Kwonik 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c79c9180d77e7905d0857a3ca1142968491ef1b2c817ddbcc01dd09cbbe7c11a"
+      ],
       "createdAt": 1785458471072,
-      "updatedAt": 1785458471072,
+      "updatedAt": 1785461941309,
       "status": "active"
     },
     {
@@ -65,9 +97,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
-  "shareCount": 37,
-  "viewCount": 116,
+  "likeCount": 34,
+  "shareCount": 44,
+  "viewCount": 129,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
@@ -80,6 +112,7 @@
     "26800c0f8c4a1ebe33c994cad090e48947c2e2fb7df7df79e6ccef3bd6c394df",
     "2b4678081d4aebb7154cdf7c6184bc5b3be58978f5270dad79ee0f7790611610",
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+    "3c681b44c97ec6c60a7dfb482af6be2e370db2c98ad48cde1371c372d9b2d756",
     "444df0dc94485cd61149c6626449ee8233a9810b3c10a9149c9733e289c69df3",
     "57b15b8bd2c68fabee4bd09cf480f626ab06baf9b327549ea1edbee86ec99b43",
     "68937194a9923c6f44b00fbfedd99f7ae7ae57c62e1b9819e20978907768603e",
@@ -87,10 +120,15 @@
     "70de8b500dde8d246637c678ae27528b2f8ebb8e48738ce5179f35e3c56cbfc6",
     "7799330f391bb5ef3512e49ba9410315538240c5b0f79801cbf350d1174c0ffc",
     "7fc2ae3e391f751ccbde5ad3cf267a680e5e3b9b20c488747a5ceeca163c68ec",
+    "81813134bd235fe12e4e4f369c89223d607987d8e8faf3717aed0c7c8d5095e4",
     "824e61daf3a9a3378d67b5cff227163ebdf1d7e91a8d17db4014027fa0981a04",
+    "84f9981d361d498d292b3b3192af59c9626af718597dc46c46b1ec39594a0664",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "9069cec5ca6e1b7b912e4c8e44e760e8a4fea14eb6030c0343f6977458244bc4",
+    "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
+    "a8613afa47861a52c91433c63bc03468065f7eeef8207ff9d2d1c312c605a398",
     "c18001b5916722be538696c0bcab581f09e5f9ced2c7c33b2466e007a6d1e10d",
+    "c79c9180d77e7905d0857a3ca1142968491ef1b2c817ddbcc01dd09cbbe7c11a",
     "c8830303ba0b8b5d64805d81815990e62143366725f2fb47e37c450c5795df9c",
     "d00695f609a40a43b22a60f694f7591ad1983aa1d7642925e58deb9d901f8af7",
     "d180108b47725d3ca455f0fe2995a2d52d1eaea4c448deedd351679ad8cf041e",
