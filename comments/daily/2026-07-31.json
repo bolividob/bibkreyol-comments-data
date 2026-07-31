@@ -1,9 +1,23 @@
 {
   "date": "2026-07-31",
   "verseKey": "daily:2026-07-31",
-  "updatedAt": 1785503649529,
+  "updatedAt": 1785504612321,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785504525937",
+      "text": "amèn",
+      "userDeviceId": "e75906ec96f647c7de743a68a334511587d277e59fe5897658f19db06120e613",
+      "userName": "Pitit bondy pa konn pedi bay amén",
+      "verseName": "2 Kwonik 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785504538483,
+      "updatedAt": 1785504538483,
+      "status": "active"
+    },
     {
       "id": "local-1785502244641",
       "text": "tout glwa se pou ou senyè mw beni nonw 🙏🙏",
@@ -410,9 +424,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 137,
-  "shareCount": 261,
-  "viewCount": 536,
+  "likeCount": 140,
+  "shareCount": 265,
+  "viewCount": 544,
   "verseLikedBy": [
     "03611e4c229ef4a369d6a89b8a4ba6d8d22b9bc5d7d73d4a911348515780417e",
     "048019236ba499ae767cd0d4d2c6fc637f0661af73620a94c61c0b61c0da5d1a",
@@ -482,6 +496,7 @@
     "6f843da09a08143cdc60335584d72401372a461275c023a9ff84fd79e024e847",
     "6faedbe7f30f06b802f45c9ff480fc61586b3f25bd88476811d20281a5e12efd",
     "70de8b500dde8d246637c678ae27528b2f8ebb8e48738ce5179f35e3c56cbfc6",
+    "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "76913b8fbeeca62c1076eec656fd535ad1825a5190a08b20586abef1b2fb4b42",
     "7799330f391bb5ef3512e49ba9410315538240c5b0f79801cbf350d1174c0ffc",
     "7a294f4e1bcab615c23e1123ff2f66d225c1aabd24d591b8240a5a62050778bb",
@@ -503,6 +518,7 @@
     "90f60d1ef2ea12a51dfcf455edb2840467bcbc4330b090363b32b20e079ca42c",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "984dbf77d6f285188c07318c602aba90dfdd4f12f785ebbcc5f6a674cba213e3",
+    "98b867ab30c6ddce5ff38ce91af4a673f260fc7daeed4c6a3c905c3277afecda",
     "9a24ab928faaa4396b54517791e2d61f176e7bfaa9e8d9229ad43d24a51ec56a",
     "9a9fd7e86725077ebd36c1d9e095b0da72aafe6b239de52de5fbf55ec799c1a6",
     "9ae4f2e7e55dfe4845a797d1c8c9b66d48ff1dc9c516e215a43f5afd27467a1a",
@@ -541,6 +557,7 @@
     "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e6bd5943be638b1e5bd1da2b8b7a876f07f8ab52f963b55435396ad2421109b3",
+    "e75906ec96f647c7de743a68a334511587d277e59fe5897658f19db06120e613",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "ebdd6e80ca867d1ec8ef0fedcf9c45b5f11fd4bb42a24b92e21ff6123d832776",
     "efc2410fe9508b9512a6021346b4118ba481b7bd1fb1722c7d0b0264ad68b003",
