@@ -1,9 +1,23 @@
 {
   "date": "2026-08-01",
   "verseKey": "daily:2026-08-01",
-  "updatedAt": 1785626063052,
+  "updatedAt": 1785627017277,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785626890067",
+      "text": "mw byen kontan",
+      "userDeviceId": "366681e73a2a0132d9a5db13fec7718df7a1320e49738ee2fbb5737a5d00594c",
+      "userName": "pity",
+      "verseName": "Jòb 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785626922996,
+      "updatedAt": 1785626922996,
+      "status": "active"
+    },
     {
       "id": "local-1785617129229",
       "text": "mwen salye staf la nan non jezi",
@@ -354,9 +368,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 188,
-  "shareCount": 288,
-  "viewCount": 863,
+  "likeCount": 190,
+  "shareCount": 292,
+  "viewCount": 873,
   "verseLikedBy": [
     "014a5a832fb9181710c61c848906f831a38b56ea916e06a3388e5560997d5bd1",
     "034003b2ddbbbeb644cddccb0eec7b4713e68e50220a4f8593945e605fb93c1e",
@@ -409,6 +423,7 @@
     "3343ded796f6f044dc825bbd8046ebddffa84fd46817bcb2ef0ceaa7c5f7a6cb",
     "353425e7f03b0cad3d5ee7f551fce5f10ecf471883391523dd6c13eb7179066d",
     "3540ba3b28c32b6c069430af10b079ea396579a5d379dbd3061947f270207c30",
+    "366681e73a2a0132d9a5db13fec7718df7a1320e49738ee2fbb5737a5d00594c",
     "36b8a535f9501b8ec08119113623953b502c63bed6dce7ac48e923f704c696ac",
     "37ecb25821a931cb3010c86544b63c6399afb3c758f612b4f2b7a5abce216a72",
     "395e9ea183ca644e44247075d216396bd70e019b129e8e67d94eca1c6efd8445",
@@ -538,6 +553,7 @@
     "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
     "e528d47fc725d1287aca889ff41bb19bfbc298cfee216ca5e336d6c85b76a69b",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e6b4df23dc06c0d53a4143ddf0387282a6b6406b87afd4101af8ff70f428a9f6",
     "e93c919e9877fce7e52e4c46e0213a311d8c82abf5a8cc9a5dc2ec334406b79e",
     "eb19111d1b32cd339eff3f5dfaa66eb8145d211ef527eedf0d51267129bca41a",
