@@ -1,9 +1,23 @@
 {
   "date": "2026-08-01",
   "verseKey": "daily:2026-08-01",
-  "updatedAt": 1785546892098,
+  "updatedAt": 1785547828358,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785547081942",
+      "text": "Amén 🙏🏿",
+      "userDeviceId": "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
+      "userName": "sœur Ruth",
+      "verseName": "Jòb 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785547144525,
+      "updatedAt": 1785547144525,
+      "status": "active"
+    },
     {
       "id": "local-1785545770104",
       "text": "soyez abondamment benis 🙏🏼",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 23,
-  "shareCount": 29,
-  "viewCount": 98,
+  "likeCount": 27,
+  "shareCount": 34,
+  "viewCount": 111,
   "verseLikedBy": [
     "034003b2ddbbbeb644cddccb0eec7b4713e68e50220a4f8593945e605fb93c1e",
     "0b8a9e8efb0615f5e50c171731192b38721aee3f26cb7ff6a42ef83ec402131a",
@@ -73,8 +87,10 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
+    "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
     "36b8a535f9501b8ec08119113623953b502c63bed6dce7ac48e923f704c696ac",
     "37ecb25821a931cb3010c86544b63c6399afb3c758f612b4f2b7a5abce216a72",
+    "3ff184b48c0d9d40abccccc23ffad269ac6754ad147a20885c4b00d0139679ac",
     "4e5ea5347dfc86d7d31bfa382d7a5fcd4ef6c11bf6b3b1a39107833cf774eac0",
     "561a0b85d5383af4ca12666e1307fd64b13050076b174d36d6412c911ff686fc",
     "64519799ad7428902d298d8d45f4568731600d6b9436fa9d8960396969090470",
@@ -82,12 +98,14 @@
     "6ce4a27928c6194a1c3cdf1bbf6235297e595619ed24987e7bd925d1b8241c45",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "8cebad3b9adb7e323bebcbdc910220d3961e3b352e83b3dc39b37e69ccd672bb",
     "aac373a81a6952b23e736366f61be8d832eb53a0ed1335c5aac7cd8aaa3c36dc",
     "b297ce2f399c77ab029b270ebc0070beab7242f05c84180305e858f980958a22",
     "bf71368c1145f8d779ec5721a547333aa56cfb994168e002d7ecb23d38531dcc",
     "cf7ee0bec5185e0d74163aacf89830a34ae93db6fe0a03cbc2fcd48d1a5124a9",
     "dcf915c158aaa0522204d6115c97c9a0fd79c6f1a59ca5c3630d79ef99816b96",
-    "e6b4df23dc06c0d53a4143ddf0387282a6b6406b87afd4101af8ff70f428a9f6"
+    "e6b4df23dc06c0d53a4143ddf0387282a6b6406b87afd4101af8ff70f428a9f6",
+    "f887b6598aa241d6e5554d77fbe0ea30e9e8c0919bbb623ad9eff4e6ae886bfd"
   ],
   "verseViewBy": []
 }
