@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
   "verseKey": "daily:2026-08-01",
-  "updatedAt": 1785625207359,
+  "updatedAt": 1785626063052,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jòb 5:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "353425e7f03b0cad3d5ee7f551fce5f10ecf471883391523dd6c13eb7179066d"
+      ],
       "createdAt": 1785617130232,
-      "updatedAt": 1785617130232,
+      "updatedAt": 1785626061341,
       "status": "active"
     },
     {
@@ -352,9 +354,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 186,
-  "shareCount": 283,
-  "viewCount": 853,
+  "likeCount": 188,
+  "shareCount": 288,
+  "viewCount": 863,
   "verseLikedBy": [
     "014a5a832fb9181710c61c848906f831a38b56ea916e06a3388e5560997d5bd1",
     "034003b2ddbbbeb644cddccb0eec7b4713e68e50220a4f8593945e605fb93c1e",
@@ -374,6 +376,7 @@
     "16d1d5906dbc93c7f32d44e41d61f6af4b9d6dd1b8aa83a5d0e4bf6d29315346",
     "1774a2b80bdc040de0f2adaadc4b41e7616942faa9cdf02dd2be222b31a0adca",
     "1918ff6c61f7d20450e6fc2ac1f5f404b517ede20bb4a51b6119529ad473bcca",
+    "19b36b1e516fe9c438673f6522f7cc7fb7192b96d54af26fc6e7647bd42aed46",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1bcbe639de18da6ccc44b99712248939a72a898e677b6b279762fd5ff1aa6308",
     "1d238405bdda57891078544646c0b64e83bec25c308d2db9d4a44e6b68eca41f",
@@ -404,6 +407,7 @@
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "3343ded796f6f044dc825bbd8046ebddffa84fd46817bcb2ef0ceaa7c5f7a6cb",
+    "353425e7f03b0cad3d5ee7f551fce5f10ecf471883391523dd6c13eb7179066d",
     "3540ba3b28c32b6c069430af10b079ea396579a5d379dbd3061947f270207c30",
     "36b8a535f9501b8ec08119113623953b502c63bed6dce7ac48e923f704c696ac",
     "37ecb25821a931cb3010c86544b63c6399afb3c758f612b4f2b7a5abce216a72",
