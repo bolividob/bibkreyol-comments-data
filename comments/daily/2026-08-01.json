@@ -1,9 +1,23 @@
 {
   "date": "2026-08-01",
   "verseKey": "daily:2026-08-01",
-  "updatedAt": 1785627017277,
+  "updatedAt": 1785627935590,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785627527747",
+      "text": "🥰🥰🥰",
+      "userDeviceId": "05fc849c6a44e1416cf292225c51e36ac21d778c771d861d6b7b6f7a47f16408",
+      "userName": "sylvana",
+      "verseName": "Jòb 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785627528966,
+      "updatedAt": 1785627528966,
+      "status": "active"
+    },
     {
       "id": "local-1785626890067",
       "text": "mw byen kontan",
@@ -368,14 +382,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 190,
-  "shareCount": 292,
-  "viewCount": 873,
+  "likeCount": 192,
+  "shareCount": 293,
+  "viewCount": 883,
   "verseLikedBy": [
     "014a5a832fb9181710c61c848906f831a38b56ea916e06a3388e5560997d5bd1",
     "034003b2ddbbbeb644cddccb0eec7b4713e68e50220a4f8593945e605fb93c1e",
     "050810f6c4df6af7ed44d6c506b5617dc4ec0ab1e5957f4a8438b3912aa4edcd",
     "053c0bf8efed9c47427f0f736dd1223916f155089db4d2ba517b20818ecf1b20",
+    "05fc849c6a44e1416cf292225c51e36ac21d778c771d861d6b7b6f7a47f16408",
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "07cc0c6f2036fccc04823a94744aa065aff2bad092267f8ed9f86dac5df9f9c6",
     "08b5b5a6167eee25688dea6c9e7a81d9b34e23c9265444535e14d9dd4d30474b",
@@ -410,6 +425,7 @@
     "264853aac831d7e73dec01246c0f5c0050d24dab5cf09670c9717b61ec217003",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "28326ac1c6907c7621c0e590e45f2ed5844dae9f05da22ea266fb3bb7ba1a068",
+    "28d41d2e9913b585185978d93191f18c8ab50b895c0ddde9cf4729b506aa5390",
     "2a5356307a3880bbb930b790522096a20e39cbc941708cab50f93814de900408",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2e07adce314d52513e47805b18866094c1b7b1a7758f569552f82e66983452b0",
