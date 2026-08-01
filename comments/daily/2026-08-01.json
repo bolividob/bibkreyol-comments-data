@@ -1,9 +1,23 @@
 {
   "date": "2026-08-01",
   "verseKey": "daily:2026-08-01",
-  "updatedAt": 1785616201549,
+  "updatedAt": 1785617130232,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785617129229",
+      "text": "mwen salye staf la nan non jezi",
+      "userDeviceId": "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
+      "userName": "Marieevachery agmail. com",
+      "verseName": "Jòb 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785617130232,
+      "updatedAt": 1785617130232,
+      "status": "active"
+    },
     {
       "id": "local-1785611694520",
       "text": "💔💔💔💔💔💔💔",
@@ -338,9 +352,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 174,
-  "shareCount": 260,
-  "viewCount": 756,
+  "likeCount": 177,
+  "shareCount": 266,
+  "viewCount": 764,
   "verseLikedBy": [
     "034003b2ddbbbeb644cddccb0eec7b4713e68e50220a4f8593945e605fb93c1e",
     "050810f6c4df6af7ed44d6c506b5617dc4ec0ab1e5957f4a8438b3912aa4edcd",
@@ -447,6 +461,7 @@
     "82907fd70d7d0ddad4575188db6490d98417ed3964f657fd4d105337835d346a",
     "839ea7210c4690f57fc9640b6790e49fc3156a2bb52362fc244158d431f8e00f",
     "85f8b33eae06b570abd80d950b78c9160351af84800e308ab0a5f07a41156479",
+    "878f5eb09f858e3d9e7b592d62825d39864c8ee3fc098c078a3d37a91ae5e905",
     "895507af82f730f62cc2b45a7a4dfd21ae9012cbd20dda213de4cc0bbe1ea9ac",
     "897eeabe774094c98f17b1eb6287fd9fc94403310248fc004f3ceb5c35d11a68",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
@@ -455,6 +470,7 @@
     "8cebad3b9adb7e323bebcbdc910220d3961e3b352e83b3dc39b37e69ccd672bb",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
     "8d82547990eb0c6a44bb643681e39e8e3e917cd959b71140bd6d484bc4710a09",
+    "927adf7d463ccb32260d0327687e951a1a5211240519f4f0aa636aeaecc9f4fc",
     "92fbc88f34846b9c41a38b50f1da4878a8e4b72a70c815339f7ec35fc28cfcd6",
     "9475ab919344f267f707d8f608c7fc40fc844be24a190905553e9cd758bdef7e",
     "95cb710953206edd65d18c1c5e67a3d9ccb91c9edd46481c276465233f73eb78",
@@ -507,6 +523,7 @@
     "dcf915c158aaa0522204d6115c97c9a0fd79c6f1a59ca5c3630d79ef99816b96",
     "e0c8a717c1a23d62725b8b39732c3edb4d460debb8159b9ffde62cf0c497c496",
     "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
+    "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
     "e528d47fc725d1287aca889ff41bb19bfbc298cfee216ca5e336d6c85b76a69b",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
     "e6b4df23dc06c0d53a4143ddf0387282a6b6406b87afd4101af8ff70f428a9f6",
