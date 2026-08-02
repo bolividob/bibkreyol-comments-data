@@ -1,9 +1,23 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785674737613,
+  "updatedAt": 1785675642872,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785674758645",
+      "text": "merci jésus pour ce nouveau jour",
+      "userDeviceId": "241bdd69bb520c58e2fe7ec29e62e7cdca477482b48eeae5dc35232831632e29",
+      "userName": "sophonie morival",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785674759783,
+      "updatedAt": 1785674759783,
+      "status": "active"
+    },
     {
       "id": "local-1785674462218",
       "text": "Merci papa",
@@ -15,7 +29,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1785674465133,
-      "updatedAt": 1785674503869,
+      "updatedAt": 1785675552402,
       "status": "active"
     },
     {
@@ -186,9 +200,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 94,
-  "shareCount": 120,
-  "viewCount": 512,
+  "likeCount": 99,
+  "shareCount": 128,
+  "viewCount": 524,
   "verseLikedBy": [
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
     "110d072948db6b047ad4580a86448042b6080001e68b85b493da87ff04aa7f92",
@@ -218,10 +232,12 @@
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "353607ce1f40b21731bbadbabdeb54d282687bbce30a9a4f81c7ed07e8fa9f8f",
     "353b11af62b04b9f27c0677a0584479bb41724df757e85ab39cf2c51674009a6",
+    "38afae31aaa4f1b437ed1c03e9071db74a55709e9d11ca7941c39474ad361e02",
     "3913f9e639bb8b1acc2816b46a18569fa8f0e8c213b77bb43553ee4490388953",
     "3ac43c4d19bd6e9d153c4bd105d81d89bd801fa17e8562e7473c22f33a2eb4a1",
     "3bebb2f21f520dc0c576d2febb5ef36debaed48703e3416410f99d5210a1e2eb",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
+    "427b45b2f0b8a885311bcf968112c506f1aab446f2b56feeeaab9c7d8c5f7dee",
     "45eed12cde6702b0d576b8731e450e06ffc624ac96daed410192dd81d96ccef6",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d20d1b3ea687da75b07cb414235e0ffcf6d05cc68827b89c6ddbd9dbec97429",
@@ -249,6 +265,7 @@
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "95966b4cfc5d567657b93b8af2cc79b240296501cabffb6d6364ec1a9ed76c9c",
     "97f30b9b745f508d75fd5bc8e53633913232dd106ecb4782cc2a92b4690a2088",
+    "9ee108e9bcec659bde6c9de8040b3192bd5f3ed9fa803e4e7de8e5f5fd931a70",
     "a1d7f4f0d54521693f3713edcf9f248a3a1d26ebc0807f6b041507f3f9a8064c",
     "a81b80a3c9e5a0aa540a1458f4993b358a5a9f0648e874c79870a83350f7bb81",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
@@ -274,10 +291,12 @@
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e36c0d7f03a0024a063f2f4592279d8c62f550255cb52b2fe3d26044e004596b",
     "e38a2d81e5ac8d90dd3fd09d428266004d9015237e4926e9e44c041924eb23c8",
+    "e4c146a6bd8264792f688cdba4e84e81a97bf34b50d1ea8aefa68c31f7ade7d1",
     "e61434858af136ae6c0569506207f65baaffd7c5d1e6aad806c15622199dadb3",
     "e89e1936d95df028eb4e224d4d80cd97595a3b4927cbf17e7522f76bd82a6047",
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "f2f1814b4bdc0ad1e5878028d60b9e82756e89730e32e82a0deff9d391223a3d",
+    "f3a90595fe4aca4ab31b883c25de32d3d473713fb5aa00af0daeedc2cace85e9",
     "f4d4283703342b039b994f90743bd8ea87511edc1e62793bdad04f7e4c658662",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "f84720677013961629baef789d77059a752b60ced14e44c32c476104b807ba7f",
