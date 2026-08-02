@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785704425638,
+  "updatedAt": 1785705267896,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d741dbbbdfa5d59e50f937420aa77d9c9ad10f6ecc57c5efe7329d08056c9ba5"
+      ],
       "createdAt": 1785692944367,
-      "updatedAt": 1785692944367,
+      "updatedAt": 1785704512579,
       "status": "active"
     },
     {
@@ -523,8 +525,8 @@
     }
   ],
   "likeCount": 195,
-  "shareCount": 242,
-  "viewCount": 861,
+  "shareCount": 243,
+  "viewCount": 870,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
