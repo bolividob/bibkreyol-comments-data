@@ -1,9 +1,23 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785711601082,
+  "updatedAt": 1785712516319,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785712350687",
+      "text": "mèsi senyè jezi",
+      "userDeviceId": "258fcd8fcfa4d928166e24149b6152fd2ed6c44f84f77e8373575b852d5d6bc9",
+      "userName": "sòm",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785712352397,
+      "updatedAt": 1785712352397,
+      "status": "active"
+    },
     {
       "id": "local-1785710791713",
       "text": "Jonathan simeon",
@@ -580,9 +594,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 202,
+  "likeCount": 203,
   "shareCount": 256,
-  "viewCount": 942,
+  "viewCount": 952,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
@@ -656,6 +670,7 @@
     "5097f67d18875dc300df177066c7e64f9af69e2237981031232bad1167a20270",
     "516663d5154041f6b8701c087cc4dc67c0ea46e7bba5c81b1b272725d11f5c3a",
     "51e38ce196681457496356014b51175ebc0eb23cc1c07764237106d4ffa3026c",
+    "52c45f58d28b05e02107f500f3968029690ce36f27f04d6ac94733a1aa0bbdf1",
     "531580ebd52ab702aff768657c085528e5be3dc3126d1a6c5df54c30a6d9361a",
     "545153ed406cd3829ff4bc3dd834d1c478815dbaed9f679f4ed55cb8e515af55",
     "564820e91861417d1aa070849e38b665b4557f76564ba94a0d2094d66e6d7703",
