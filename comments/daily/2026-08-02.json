@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785641402640,
+  "updatedAt": 1785642291875,
   "version": 1,
   "comments": [
     {
@@ -47,11 +47,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
-  "shareCount": 39,
-  "viewCount": 190,
+  "likeCount": 36,
+  "shareCount": 42,
+  "viewCount": 198,
   "verseLikedBy": [
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
+    "1839aabf944f2d1f4c61beb005bb2ed753f3a89f691ee6bc25c1169ef48c9f9f",
+    "1c1f81a776b76199eed82878cbc2edc3eb7e9788ffae3c3811c06c91d092b54f",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "29b1abf14d9b84c0259464ae5cd0f779d331a53500b9d7f85a397b1475f122a6",
     "2a5c7fcb13cb617de6a2258b68b9f85c3f023e767ea44b7b0f70a499c313c571",
@@ -74,6 +76,7 @@
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "b3a83985e5afbfbb30b9db838ad4d63ea14628661fdc807e81b97ec479f4e3fa",
     "b4f900e65818cc90464ec093140d5d5ec41f5d5ca2b5a1e889f833aec43d05e1",
+    "c67e4b5ced49c25b132d09fa674971a1dcc15d3246b54351dd53bc0aaa08275b",
     "cbab9c8acc6afd3107720c8676cc5c8a6424e34f7579b0600f7f55724e98f9d9",
     "cf7ee0bec5185e0d74163aacf89830a34ae93db6fe0a03cbc2fcd48d1a5124a9",
     "d214c2069902e8bd73e4dbf290b5895ced2958634aa738b2b4706c19dad8103d",
