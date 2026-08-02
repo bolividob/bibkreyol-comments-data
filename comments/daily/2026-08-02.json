@@ -1,9 +1,23 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785670229041,
+  "updatedAt": 1785671108577,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785670739291",
+      "text": "Merci seigneur pour ta grande fidélité",
+      "userDeviceId": "45eed12cde6702b0d576b8731e450e06ffc624ac96daed410192dd81d96ccef6",
+      "userName": "Isblande",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785670741642,
+      "updatedAt": 1785670741642,
+      "status": "active"
+    },
     {
       "id": "local-1785669713546",
       "text": "Merci jésus",
@@ -12,10 +26,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "545153ed406cd3829ff4bc3dd834d1c478815dbaed9f679f4ed55cb8e515af55"
+      ],
       "createdAt": 1785669715494,
-      "updatedAt": 1785669715494,
+      "updatedAt": 1785670775570,
       "status": "active"
     },
     {
@@ -42,10 +58,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "545153ed406cd3829ff4bc3dd834d1c478815dbaed9f679f4ed55cb8e515af55"
+      ],
       "createdAt": 1785642419295,
-      "updatedAt": 1785642419295,
+      "updatedAt": 1785670767314,
       "status": "active"
     },
     {
@@ -93,9 +111,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 77,
-  "shareCount": 92,
-  "viewCount": 450,
+  "likeCount": 80,
+  "shareCount": 93,
+  "viewCount": 461,
   "verseLikedBy": [
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
@@ -109,7 +127,6 @@
     "21ef6373b81c4ab0cce83794745b9cd136da144fd01ffc8820b646a638bcec7c",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "252d50a89e9478c6e6ef366a9571e691ab248a623eb00e424145282acab59198",
-    "296202f58c2dc5a3265634c318f86807254e18a14a7c0273714672b66464be23",
     "298b02a8f6781e9f5bdedd2831804c6026db93ffce9faa7cc06aca0748db750b",
     "29b1abf14d9b84c0259464ae5cd0f779d331a53500b9d7f85a397b1475f122a6",
     "29ebe3483d26d6f9b327e9520ab699bcf75cd9ad9dd448724a2c3c702ffb2085",
@@ -123,11 +140,13 @@
     "353b11af62b04b9f27c0677a0584479bb41724df757e85ab39cf2c51674009a6",
     "3ac43c4d19bd6e9d153c4bd105d81d89bd801fa17e8562e7473c22f33a2eb4a1",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
+    "45eed12cde6702b0d576b8731e450e06ffc624ac96daed410192dd81d96ccef6",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d20d1b3ea687da75b07cb414235e0ffcf6d05cc68827b89c6ddbd9dbec97429",
     "4e038be0f642c0ca5423d59a4b3d2350b1406eaf02278ff5adc998dfe8fde96b",
     "5097f67d18875dc300df177066c7e64f9af69e2237981031232bad1167a20270",
     "51e38ce196681457496356014b51175ebc0eb23cc1c07764237106d4ffa3026c",
+    "545153ed406cd3829ff4bc3dd834d1c478815dbaed9f679f4ed55cb8e515af55",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
     "617015a7f677c6f964a957e2ee455a34728a328b237122360d523c5fc6ffb490",
     "62b73dd8db786c4e65a48ffeec0a0cffdf6187986ffd8a4c13bea215ca174930",
@@ -135,8 +154,10 @@
     "69d08820d41da1b04f40678992d69f46d5e589b86450cc28f071172a80a5657b",
     "69fd53a52f26c8a9222f3e6026b3f533d98c8c9f54aeec90848d4745fc454028",
     "71513c0782dd4758549876e5d5654bd0021658ff7c21bc2d0a72b14385858e0e",
+    "73d5da95a8946f3bffe5a16e419dc139467e944151a9609be0ff77e9adfe198d",
     "75aea318c1a6159f115999953c6806f5cf7665e7a5ebf2a35a03eef536e602bd",
     "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89",
+    "7e440af4409e3f126ab4407142e528b52b536c5f2afc91a1bfbada9b0eab1b34",
     "8453f4648574b272c5c70a58804c9b6536e9bf7a402503299359c503b92c8ba3",
     "85ce591c9a317c6d29afa0454cc5a30dacddf574ae3113ba71a89dab9bd1f9dd",
     "8965c5fb314af7b35e0332ff339ef085b1b2ce12aad9b8381719c1386f466a03",
