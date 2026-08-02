@@ -1,9 +1,37 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785694443855,
+  "updatedAt": 1785695401867,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785695274160",
+      "text": "🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "935531481a9d8e75039fdbc40208679b8e9b8605c8e29b0b383b3246f55b8949",
+      "userName": "Florence Cera",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785695275516,
+      "updatedAt": 1785695275516,
+      "status": "active"
+    },
+    {
+      "id": "local-1785695257307",
+      "text": "merci jesus",
+      "userDeviceId": "935531481a9d8e75039fdbc40208679b8e9b8605c8e29b0b383b3246f55b8949",
+      "userName": "Florence Cera",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785695258529,
+      "updatedAt": 1785695258529,
+      "status": "active"
+    },
     {
       "id": "local-1785692941719",
       "text": "mw vle konnen Pou kisa pol te mouri",
@@ -494,9 +522,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 184,
+  "likeCount": 185,
   "shareCount": 229,
-  "viewCount": 759,
+  "viewCount": 770,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
@@ -604,6 +632,7 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "90d2d83eebb94074f423c6d71ac04c219541ded601d10a58cc3ebaf21def2210",
     "92fbc88f34846b9c41a38b50f1da4878a8e4b72a70c815339f7ec35fc28cfcd6",
+    "935531481a9d8e75039fdbc40208679b8e9b8605c8e29b0b383b3246f55b8949",
     "938453e55dcd6b02a4a12bfbd8034b3e7219558903933efe5a19dd3f3df805ff",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "95966b4cfc5d567657b93b8af2cc79b240296501cabffb6d6364ec1a9ed76c9c",
