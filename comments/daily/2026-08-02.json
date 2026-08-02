@@ -1,9 +1,39 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785672033752,
+  "updatedAt": 1785672947485,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785672939861",
+      "text": "Merci seigneur 🙏",
+      "userDeviceId": "3913f9e639bb8b1acc2816b46a18569fa8f0e8c213b77bb43553ee4490388953",
+      "userName": "Merci seigneur 🙏",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785672942380,
+      "updatedAt": 1785672942380,
+      "status": "active"
+    },
+    {
+      "id": "local-1785672040739",
+      "text": "tu Est grand Seigneur",
+      "userDeviceId": "523b6719f891b4778ab4387307a4eaf0e17f13433cbae1ae630dbb4fb169b165",
+      "userName": "sr Cebien Alcide",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "523b6719f891b4778ab4387307a4eaf0e17f13433cbae1ae630dbb4fb169b165"
+      ],
+      "createdAt": 1785672116757,
+      "updatedAt": 1785672134534,
+      "status": "active"
+    },
     {
       "id": "local-1785671720371",
       "text": "tanpri papa",
@@ -12,10 +42,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "110d072948db6b047ad4580a86448042b6080001e68b85b493da87ff04aa7f92"
+      ],
       "createdAt": 1785671721350,
-      "updatedAt": 1785671721350,
+      "updatedAt": 1785672192355,
       "status": "active"
     },
     {
@@ -26,10 +58,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "110d072948db6b047ad4580a86448042b6080001e68b85b493da87ff04aa7f92"
+      ],
       "createdAt": 1785670741642,
-      "updatedAt": 1785670741642,
+      "updatedAt": 1785672193567,
       "status": "active"
     },
     {
@@ -40,12 +74,13 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "110d072948db6b047ad4580a86448042b6080001e68b85b493da87ff04aa7f92",
         "545153ed406cd3829ff4bc3dd834d1c478815dbaed9f679f4ed55cb8e515af55"
       ],
       "createdAt": 1785669715494,
-      "updatedAt": 1785670775570,
+      "updatedAt": 1785672194492,
       "status": "active"
     },
     {
@@ -72,12 +107,13 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "110d072948db6b047ad4580a86448042b6080001e68b85b493da87ff04aa7f92",
         "545153ed406cd3829ff4bc3dd834d1c478815dbaed9f679f4ed55cb8e515af55"
       ],
       "createdAt": 1785642419295,
-      "updatedAt": 1785670767314,
+      "updatedAt": 1785672201981,
       "status": "active"
     },
     {
@@ -125,11 +161,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 84,
-  "shareCount": 99,
-  "viewCount": 474,
+  "likeCount": 88,
+  "shareCount": 103,
+  "viewCount": 484,
   "verseLikedBy": [
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
+    "110d072948db6b047ad4580a86448042b6080001e68b85b493da87ff04aa7f92",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "12092542ef48408168a9f7aa2fe50a0d427c2731d15286a89194a92c0c3c0733",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -192,6 +229,8 @@
     "b3a83985e5afbfbb30b9db838ad4d63ea14628661fdc807e81b97ec479f4e3fa",
     "b4f900e65818cc90464ec093140d5d5ec41f5d5ca2b5a1e889f833aec43d05e1",
     "c67e4b5ced49c25b132d09fa674971a1dcc15d3246b54351dd53bc0aaa08275b",
+    "c7428f67c47a8259af8391a59d23c08fbb3a9e39328d805d30dd2cbeac98da38",
+    "c8d2497e2a58af3db07953eead843db1fb242fa95f0485337c77efb980d2bfef",
     "c90e69705ad7349a01f160e4354672d5fab6de590ad16ad3e46596656137596f",
     "cb077646025c6ee251066d53a50ad0e135a6e5811d59c49568766c120402b44d",
     "cbab9c8acc6afd3107720c8676cc5c8a6424e34f7579b0600f7f55724e98f9d9",
@@ -204,6 +243,7 @@
     "db0a75055f462e995d95b8fe6cdaf64f3f9ef4f8abf3f36e0c4b51d8d1962041",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e36c0d7f03a0024a063f2f4592279d8c62f550255cb52b2fe3d26044e004596b",
+    "e38a2d81e5ac8d90dd3fd09d428266004d9015237e4926e9e44c041924eb23c8",
     "e61434858af136ae6c0569506207f65baaffd7c5d1e6aad806c15622199dadb3",
     "e89e1936d95df028eb4e224d4d80cd97595a3b4927cbf17e7522f76bd82a6047",
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
