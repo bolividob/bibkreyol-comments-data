@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785688201515,
+  "updatedAt": 1785689054192,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "344cbc05da31fb39620279ef0a566b078b276126d89f1ce613ac98e1dfe8ec2c"
+      ],
       "createdAt": 1785686919036,
-      "updatedAt": 1785686919036,
+      "updatedAt": 1785688598284,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6"
+      ],
       "createdAt": 1785684551429,
-      "updatedAt": 1785684551429,
+      "updatedAt": 1785688281841,
       "status": "active"
     },
     {
@@ -54,10 +58,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6"
+      ],
       "createdAt": 1785682111265,
-      "updatedAt": 1785682146525,
+      "updatedAt": 1785688600778,
       "status": "active"
     },
     {
@@ -68,12 +74,13 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6",
         "2ddf74607757ab67ca36e36c8d08eb066c299e8af60e7aafc4dd955d9b70e697"
       ],
       "createdAt": 1785682080672,
-      "updatedAt": 1785683318500,
+      "updatedAt": 1785688287712,
       "status": "active"
     },
     {
@@ -84,10 +91,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6"
+      ],
       "createdAt": 1785681853304,
-      "updatedAt": 1785681853304,
+      "updatedAt": 1785688290389,
       "status": "active"
     },
     {
@@ -98,12 +107,13 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6",
         "eb6669537d9a0ef6e8c4d2c1b9900a23fb2bf344f10503c51bac0189f609178d"
       ],
       "createdAt": 1785680004151,
-      "updatedAt": 1785681804317,
+      "updatedAt": 1785688290922,
       "status": "active"
     },
     {
@@ -114,12 +124,13 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6",
         "eb6669537d9a0ef6e8c4d2c1b9900a23fb2bf344f10503c51bac0189f609178d"
       ],
       "createdAt": 1785679730168,
-      "updatedAt": 1785681804259,
+      "updatedAt": 1785688292551,
       "status": "active"
     },
     {
@@ -130,12 +141,13 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6",
         "eb6669537d9a0ef6e8c4d2c1b9900a23fb2bf344f10503c51bac0189f609178d"
       ],
       "createdAt": 1785679640798,
-      "updatedAt": 1785681805552,
+      "updatedAt": 1785688294700,
       "status": "active"
     },
     {
@@ -146,12 +158,13 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6",
         "eb6669537d9a0ef6e8c4d2c1b9900a23fb2bf344f10503c51bac0189f609178d"
       ],
       "createdAt": 1785679611734,
-      "updatedAt": 1785681808962,
+      "updatedAt": 1785688297037,
       "status": "active"
     },
     {
@@ -395,9 +408,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 175,
-  "shareCount": 210,
-  "viewCount": 691,
+  "likeCount": 178,
+  "shareCount": 217,
+  "viewCount": 701,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
@@ -444,6 +457,7 @@
     "2f5a7b43e44d97236592851c79f8ae6be0c1b2ff31a11f2676291a3af09817a5",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "344cbc05da31fb39620279ef0a566b078b276126d89f1ce613ac98e1dfe8ec2c",
     "353607ce1f40b21731bbadbabdeb54d282687bbce30a9a4f81c7ed07e8fa9f8f",
     "353b11af62b04b9f27c0677a0584479bb41724df757e85ab39cf2c51674009a6",
     "3588a1f0e85db4a1589d77670c638dcf37b88c6162915f37565c16e041965c46",
@@ -505,7 +519,9 @@
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "95966b4cfc5d567657b93b8af2cc79b240296501cabffb6d6364ec1a9ed76c9c",
     "97f30b9b745f508d75fd5bc8e53633913232dd106ecb4782cc2a92b4690a2088",
+    "98e0cebc8f5f46c4e0dd4e3e792cae68a2b1ad307640c6cfe3ac57b10ce35c10",
     "9e0c776efcfb31409c0e6bc941e6771830042a3a4733b94aed9c2f4bcbef6248",
+    "9e62f7bd576f4efa82ac145ff480fdaa5082ff1e59b7c9e5c0503f4f207b7f40",
     "9ee108e9bcec659bde6c9de8040b3192bd5f3ed9fa803e4e7de8e5f5fd931a70",
     "a1d7f4f0d54521693f3713edcf9f248a3a1d26ebc0807f6b041507f3f9a8064c",
     "a81b80a3c9e5a0aa540a1458f4993b358a5a9f0648e874c79870a83350f7bb81",
