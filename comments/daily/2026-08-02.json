@@ -1,9 +1,23 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785713403025,
+  "updatedAt": 1785714270975,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785714114004",
+      "text": "Mèsi anpil wi Bondye",
+      "userDeviceId": "6adb3cbb7fd06aaaa607cf892be3c04595418a7e218fbab074c1fc08089a9880",
+      "userName": "Mèsi anpil wi Bondye",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785714119383,
+      "updatedAt": 1785714125271,
+      "status": "active"
+    },
     {
       "id": "local-1785712350687",
       "text": "mèsi senyè jezi",
@@ -595,8 +609,8 @@
     }
   ],
   "likeCount": 204,
-  "shareCount": 259,
-  "viewCount": 963,
+  "shareCount": 266,
+  "viewCount": 971,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
