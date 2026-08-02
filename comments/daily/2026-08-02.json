@@ -1,9 +1,23 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785669319105,
+  "updatedAt": 1785670229041,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785669713546",
+      "text": "Merci jésus",
+      "userDeviceId": "e61434858af136ae6c0569506207f65baaffd7c5d1e6aad806c15622199dadb3",
+      "userName": "saint Homas Miliana",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785669715494,
+      "updatedAt": 1785669715494,
+      "status": "active"
+    },
     {
       "id": "local-1785652567704",
       "text": "merci pour ta grande fidélité seigneur",
@@ -79,9 +93,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 75,
-  "shareCount": 89,
-  "viewCount": 440,
+  "likeCount": 77,
+  "shareCount": 92,
+  "viewCount": 450,
   "verseLikedBy": [
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
@@ -95,6 +109,7 @@
     "21ef6373b81c4ab0cce83794745b9cd136da144fd01ffc8820b646a638bcec7c",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "252d50a89e9478c6e6ef366a9571e691ab248a623eb00e424145282acab59198",
+    "296202f58c2dc5a3265634c318f86807254e18a14a7c0273714672b66464be23",
     "298b02a8f6781e9f5bdedd2831804c6026db93ffce9faa7cc06aca0748db750b",
     "29b1abf14d9b84c0259464ae5cd0f779d331a53500b9d7f85a397b1475f122a6",
     "29ebe3483d26d6f9b327e9520ab699bcf75cd9ad9dd448724a2c3c702ffb2085",
@@ -150,6 +165,7 @@
     "d8fe539eb9fef2e0cbe6157e242ca80088399014fe1aeeeecad367273af20ab6",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e36c0d7f03a0024a063f2f4592279d8c62f550255cb52b2fe3d26044e004596b",
+    "e61434858af136ae6c0569506207f65baaffd7c5d1e6aad806c15622199dadb3",
     "e89e1936d95df028eb4e224d4d80cd97595a3b4927cbf17e7522f76bd82a6047",
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "f2f1814b4bdc0ad1e5878028d60b9e82756e89730e32e82a0deff9d391223a3d",
