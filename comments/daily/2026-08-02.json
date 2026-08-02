@@ -1,9 +1,37 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785708040540,
+  "updatedAt": 1785708899627,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785641569618",
+      "text": "pa kriye bondye ak fél Pou ou",
+      "userDeviceId": "54e47342801d09bed799e3acf8b5c1622900492f8be02fe96a238bda6e0870a5",
+      "userName": "sevite de Dieu",
+      "verseName": "Aje 1:3",
+      "parentId": "local-1785637404186",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785708642724,
+      "updatedAt": 1785708642724,
+      "status": "active"
+    },
+    {
+      "id": "local-1785641364392",
+      "text": "amen",
+      "userDeviceId": "54e47342801d09bed799e3acf8b5c1622900492f8be02fe96a238bda6e0870a5",
+      "userName": "sevite de Dieu",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785708640759,
+      "updatedAt": 1785708640759,
+      "status": "active"
+    },
     {
       "id": "local-1785664196760",
       "text": "merci",
@@ -497,14 +525,14 @@
       "userName": "sr lovelie",
       "verseName": "Aje 1:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 2,
       "likedBy": [
         "130833d20a3b2284fbb41e5d1fe16bd741f233da6c63e22d37928f7d866c1b1f",
         "26abb75e72d106460f8041ec75f29c3ab49fd41774dbc263359b8439d318339f"
       ],
       "createdAt": 1785637407276,
-      "updatedAt": 1785674445659,
+      "updatedAt": 1785708642724,
       "status": "active"
     },
     {
@@ -538,9 +566,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 198,
-  "shareCount": 251,
-  "viewCount": 900,
+  "likeCount": 200,
+  "shareCount": 252,
+  "viewCount": 911,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
@@ -576,6 +604,7 @@
     "241bdd69bb520c58e2fe7ec29e62e7cdca477482b48eeae5dc35232831632e29",
     "243987ef18d6ac7d9d1f2d1208e97d54bb10608fbc63109f11392448dc78c2b9",
     "252d50a89e9478c6e6ef366a9571e691ab248a623eb00e424145282acab59198",
+    "264853aac831d7e73dec01246c0f5c0050d24dab5cf09670c9717b61ec217003",
     "266d6e32199c80cdc48d7b51dd0e31fbb5ae18df6eff6304c94f3564fc872a16",
     "26abb75e72d106460f8041ec75f29c3ab49fd41774dbc263359b8439d318339f",
     "298b02a8f6781e9f5bdedd2831804c6026db93ffce9faa7cc06aca0748db750b",
@@ -596,6 +625,7 @@
     "3588a1f0e85db4a1589d77670c638dcf37b88c6162915f37565c16e041965c46",
     "35d74efa23cd55722227873974126213c168a176af087edaf82b30a00054d8b3",
     "3666682858df95f6c34ea867d85fa1aef07d6d5f841e298dab0631b3876fcbdc",
+    "379415d662cb2ce9c4562777589066c7ef15d84295dfcb2eda48e9e0faa9229e",
     "38afae31aaa4f1b437ed1c03e9071db74a55709e9d11ca7941c39474ad361e02",
     "3913f9e639bb8b1acc2816b46a18569fa8f0e8c213b77bb43553ee4490388953",
     "3ac43c4d19bd6e9d153c4bd105d81d89bd801fa17e8562e7473c22f33a2eb4a1",
