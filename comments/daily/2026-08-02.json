@@ -1,9 +1,79 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785690932621,
+  "updatedAt": 1785691807156,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785691729866",
+      "text": "amen amen",
+      "userDeviceId": "1d34f98fa368373abdd22731dbe4d5e8fdf4e0b98bb0cbfd6451be10335d509f",
+      "userName": "frè jeff",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785691769151,
+      "updatedAt": 1785691769151,
+      "status": "active"
+    },
+    {
+      "id": "local-1785691306866",
+      "text": "paske Sète Jésus ki te bal misyon sa direkteman",
+      "userDeviceId": "9df52d2aa683cd516e61592545228b8ed52781883feb39914ab3f688c7fe1f74",
+      "userName": "Yves cezile",
+      "verseName": "Aje 1:3",
+      "parentId": "local-1785691148361",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785691368007,
+      "updatedAt": 1785691368007,
+      "status": "active"
+    },
+    {
+      "id": "local-1785691148361",
+      "text": "2 korentyen 6:14 la mo konfyans la eske pol te itilizel pou inkonveti yo selman",
+      "userDeviceId": "9df52d2aa683cd516e61592545228b8ed52781883feb39914ab3f688c7fe1f74",
+      "userName": "Yves cezile",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785691365833,
+      "updatedAt": 1785691368007,
+      "status": "active"
+    },
+    {
+      "id": "local-1785690541314",
+      "text": "pou kisa pol te pran rekonsabilitel poul prêche levanjil la",
+      "userDeviceId": "9df52d2aa683cd516e61592545228b8ed52781883feb39914ab3f688c7fe1f74",
+      "userName": "Yves cezile",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785691363483,
+      "updatedAt": 1785691363483,
+      "status": "active"
+    },
+    {
+      "id": "local-1785690957430",
+      "text": ".",
+      "userDeviceId": "4dfa0aa73f99f47b999169c29c32b12da64e71304e9d9c9184ebd3dd56b498b2",
+      "userName": "7⁷bill i",
+      "verseName": "Aje 1:3",
+      "parentId": "local-1785681999029",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785690961139,
+      "updatedAt": 1785690961139,
+      "status": "active"
+    },
     {
       "id": "local-1785686917600",
       "text": "Amèn 🙏🏽🙏🏽🙏🏽",
@@ -57,13 +127,13 @@
       "userName": "Lorima Adeline",
       "verseName": "Aje 1:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "008c3035e55588aac5a54dfbdb1141522cc97070a91994bd95ffd089ed464da6"
       ],
       "createdAt": 1785682111265,
-      "updatedAt": 1785690932621,
+      "updatedAt": 1785690961139,
       "status": "active"
     },
     {
@@ -408,9 +478,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 180,
-  "shareCount": 219,
-  "viewCount": 721,
+  "likeCount": 182,
+  "shareCount": 220,
+  "viewCount": 729,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
@@ -431,6 +501,7 @@
     "1918ff6c61f7d20450e6fc2ac1f5f404b517ede20bb4a51b6119529ad473bcca",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1c1f81a776b76199eed82878cbc2edc3eb7e9788ffae3c3811c06c91d092b54f",
+    "1d34f98fa368373abdd22731dbe4d5e8fdf4e0b98bb0cbfd6451be10335d509f",
     "1e2711c8129cf1ef5bfa2184727d4ecee6144c17fc30a7da8b72f950f9590c22",
     "1f8eaf96563cba264079ed48af98b0ebfb01b5fa7a5722437840d4f9076f5cb1",
     "1fdd4f808e9076e7e46021499ca8261700b09ce15edee2ee13c2b305674148f7",
@@ -519,6 +590,7 @@
     "938453e55dcd6b02a4a12bfbd8034b3e7219558903933efe5a19dd3f3df805ff",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "95966b4cfc5d567657b93b8af2cc79b240296501cabffb6d6364ec1a9ed76c9c",
+    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "97f30b9b745f508d75fd5bc8e53633913232dd106ecb4782cc2a92b4690a2088",
     "98e0cebc8f5f46c4e0dd4e3e792cae68a2b1ad307640c6cfe3ac57b10ce35c10",
     "9e0c776efcfb31409c0e6bc941e6771830042a3a4733b94aed9c2f4bcbef6248",
