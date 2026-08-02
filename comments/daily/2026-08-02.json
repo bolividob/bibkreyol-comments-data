@@ -1,9 +1,23 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785707041011,
+  "updatedAt": 1785708040540,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785664196760",
+      "text": "merci",
+      "userDeviceId": "ee592ae9719ef4a5e5625af2e2681f4d8d53a0b9ca56422b95673fad7a067f22",
+      "userName": "Anonim",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785707438538,
+      "updatedAt": 1785707438538,
+      "status": "active"
+    },
     {
       "id": "local-1785695274160",
       "text": "🙏🙏🙏🙏🙏🙏🙏",
@@ -524,9 +538,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 196,
-  "shareCount": 247,
-  "viewCount": 891,
+  "likeCount": 198,
+  "shareCount": 251,
+  "viewCount": 900,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
@@ -682,6 +696,7 @@
     "d5fe4c30bcee08fdb8792e8d22d4a8d451f85f1bbe1f450e53bc56c0eee430a0",
     "d6afd51f4846d01c240c07fa96943f49258faaef0179451c3ec49a6be74f3a33",
     "d79ff90d6537c88d4dd62719fa677392610730451ee144ec1e431f59989e4a1d",
+    "d7e39df3fa2dc58b29776033bf72f860374f9f710171cd0dac9c0eef3760f39c",
     "d8d1216b09c4c47b2f9a49558474bb63abd3dcb9d7aafb97788f0863d4da457d",
     "d8fe539eb9fef2e0cbe6157e242ca80088399014fe1aeeeecad367273af20ab6",
     "da7f184772e8bf4897ecfc73bd7ca9702aead8fab803a71357cecf39262910a9",
@@ -707,6 +722,7 @@
     "ec6f4d816776c30c8d970ab0ae262316184ff3a058a27f01905ece516a0918a6",
     "eccde5a18326727016c8dd3a2be651dfd957c2e9e5564f901f30f5de1899be79",
     "ee45fb5d6b7e687fbfedf3a46e62172c1fce62cbc5c9642efb8ceb3b55bdd7d5",
+    "ee592ae9719ef4a5e5625af2e2681f4d8d53a0b9ca56422b95673fad7a067f22",
     "eee7b14592d5ac72121ca861451c247c004e7a49e63bf2e4b146457e034a791a",
     "f0a607a80380b95f901613c48416ca6b18bcdf9aad5e8a15f8e2252c1ed338f3",
     "f1971c9594dc9aa689d34cad2a0022e9193e56737aad12914dfc1a32cd46fd35",
