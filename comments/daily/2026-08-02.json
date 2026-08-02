@@ -1,9 +1,23 @@
 {
   "date": "2026-08-02",
   "verseKey": "daily:2026-08-02",
-  "updatedAt": 1785692665778,
+  "updatedAt": 1785693611565,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785692941719",
+      "text": "mw vle konnen Pou kisa pol te mouri",
+      "userDeviceId": "6bd4537de55eae80992d249879d7cfccf7f1c327339c9a171b81eeb3525157d7",
+      "userName": "kreyol",
+      "verseName": "Aje 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785692944367,
+      "updatedAt": 1785692944367,
+      "status": "active"
+    },
     {
       "id": "local-1785691729866",
       "text": "amen amen",
@@ -40,10 +54,12 @@
       "verseName": "Aje 1:3",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6bd4537de55eae80992d249879d7cfccf7f1c327339c9a171b81eeb3525157d7"
+      ],
       "createdAt": 1785691365833,
-      "updatedAt": 1785691368007,
+      "updatedAt": 1785692901794,
       "status": "active"
     },
     {
@@ -478,9 +494,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 182,
-  "shareCount": 228,
-  "viewCount": 739,
+  "likeCount": 184,
+  "shareCount": 229,
+  "viewCount": 750,
   "verseLikedBy": [
     "023a1b6de56095512446c133aa10e46fb68aa3053db04a7d6491957ab15dc75d",
     "03c96b6cefaee79c0e0217f28d5188c793c5371c89b074a8ede172ae9e5aedbc",
@@ -576,6 +592,7 @@
     "76d816105c231865b78f41e8ef07030d969c46585f85184377c03c55c3be7ba6",
     "77277b859b9f8672b7eff47d502c2c63c130df84e85a87b49f66f5c1b31942f2",
     "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89",
+    "7e31c0fcb97e74405d82ede4c9e901561700ee61854d2eff03a9d2e6c30d347f",
     "7e440af4409e3f126ab4407142e528b52b536c5f2afc91a1bfbada9b0eab1b34",
     "835f19b5d4953791864fb345df4a9706713bd038ce8072228ffc1fa728b27ec6",
     "8453f4648574b272c5c70a58804c9b6536e9bf7a402503299359c503b92c8ba3",
@@ -610,6 +627,7 @@
     "b3a83985e5afbfbb30b9db838ad4d63ea14628661fdc807e81b97ec479f4e3fa",
     "b4c6176924e53732e996f1d4541cbb8a89997e88ccdfc7d495829dd417cfa674",
     "b4f900e65818cc90464ec093140d5d5ec41f5d5ca2b5a1e889f833aec43d05e1",
+    "b766f66d8eaf2bdb0aba49eb0fd52de98d73c4a27c3c8eabbcf5962247597ac1",
     "bd81d3ddbd37c6f788bb3e6a07ce38c1aa91c1ee4e5109938b2bcd76ac390a5f",
     "c1bfd4d1fe90e9d4392a4292ed63e505b366e48e3831cb822f31aabc98be1ed2",
     "c67e4b5ced49c25b132d09fa674971a1dcc15d3246b54351dd53bc0aaa08275b",
