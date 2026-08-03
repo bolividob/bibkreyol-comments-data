@@ -1,9 +1,23 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785789005951,
+  "updatedAt": 1785789853457,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785789402493",
+      "text": "merci pou bagay sa Nou creé a kébondye beniw",
+      "userDeviceId": "896dcc427a1b4f0cc2ff729418cacc44dc224359843abc815a5968af86f2f3b1",
+      "userName": "pasteur junior",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785789403057,
+      "updatedAt": 1785789403057,
+      "status": "active"
+    },
     {
       "id": "local-1785782081919",
       "text": "BnDye",
@@ -365,9 +379,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 168,
-  "shareCount": 266,
-  "viewCount": 779,
+  "likeCount": 171,
+  "shareCount": 267,
+  "viewCount": 786,
   "verseLikedBy": [
     "012d8efc1c2d8feac0390245f544026e1d2e841f657682e3d9a2d188236de571",
     "020ecc887efa80bbe97fc74c90a0effb9b7c4cae1ba262627ff7a4d4b23ab8f8",
@@ -449,6 +463,7 @@
     "86663479baabb4edd883ef6c5e6d589d16632c06857ca96ad0bf299881050d60",
     "86da3bd7e142857495fc871d6c6246dffae5c5e841fa3c9dff2595464fe9460e",
     "891b102150a944a6da629cdbb6cf02b004e7d01242d8ba4a0aee5e1f73d5d57d",
+    "896dcc427a1b4f0cc2ff729418cacc44dc224359843abc815a5968af86f2f3b1",
     "89b5e317808cb17834b7247dd53a31bd29086af82ccb72ba545b4564b1a3f5b1",
     "8b70aa4810d1801ad61b447f87891c3e4eb9d38f84a19e344fa7913aad87f34e",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
@@ -473,6 +488,7 @@
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "aad945d1b68259940c73ac927d70717a23770374dded1261bcea20d36fcc5a3f",
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
+    "abd9a84ef3414fea623013b7acb8fa949d495aaf7759766883e8dd8db5541c1e",
     "ac02e76dbcdfd85bc9be1934caa207f77d59503e8ee218ecb7c36922fc45ca19",
     "ae60856fbdf01aba76fb2fa9b949a9de7ad2795986ef24dfe4f0b26e00590c8b",
     "af03ded5ec7f63a7195d217dc118892c4e7ce28d343a5c14628608178f875e45",
@@ -503,6 +519,7 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c97437cd8cd3385069aef9e835952b4af08de564afa8e03aee026d93b5b70a0c",
     "ce6de33333c84ae0702e73d0c2e53e269c530803922b34c6eccb018a69ea6d25",
+    "cfdd84f8810b4adf41f3ed2a39b64a0fddf633057a4d922e6bd59357315ff57d",
     "d2132348dbaa21e92deb7d4bcded2a92fe30b1d11b7fdc71455c67c9433ecddd",
     "d2cae6d1c7d9eec1921d0d9f2246954672acb83354116cf6d30d35d14b0f087b",
     "d46c9d82360fc5d23db87e4219323e86a1818f21bcda3029a4d0f5e9b68f976e",
