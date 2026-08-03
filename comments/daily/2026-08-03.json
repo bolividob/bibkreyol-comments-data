@@ -1,9 +1,23 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785734041559,
+  "updatedAt": 1785735007158,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785734634933",
+      "text": "amén 🙏",
+      "userDeviceId": "3325ba5f38bb9def91d209f7a23a4ea7a3b972a7311cc115d3c1ca0186a6ed0d",
+      "userName": "mireille miu",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785734637518,
+      "updatedAt": 1785734637518,
+      "status": "active"
+    },
     {
       "id": "local-1785732914194",
       "text": "💗🙏amen",
@@ -181,9 +195,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 97,
-  "viewCount": 273,
+  "likeCount": 69,
+  "shareCount": 98,
+  "viewCount": 281,
   "verseLikedBy": [
     "0fbe1aaccb6424799c5ed109e6c4f1b0d691b84d22a7c7053c5458fa4830889a",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
@@ -202,6 +216,7 @@
     "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "32a264236e041299de1a37353271ac5cfed6d9db5b4e624ed479089ab605f21f",
+    "3325ba5f38bb9def91d209f7a23a4ea7a3b972a7311cc115d3c1ca0186a6ed0d",
     "371d3ff7a0fd0ca2f19018525deca6cd272cac21926dd5fbc41c90b3c464d5b0",
     "3e8d7dbc7cfe547e74676109a9e734e9cf526fefd72350bd6681aef4db12debd",
     "50ee2335c79cc86cd5c8a06db0e0039926e206fa7a990720778990cc5cdd2faa",
