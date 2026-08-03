@@ -1,9 +1,25 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785732244568,
+  "updatedAt": 1785733229286,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785732914194",
+      "text": "💗🙏amen",
+      "userDeviceId": "af03ded5ec7f63a7195d217dc118892c4e7ce28d343a5c14628608178f875e45",
+      "userName": "slande",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "af03ded5ec7f63a7195d217dc118892c4e7ce28d343a5c14628608178f875e45"
+      ],
+      "createdAt": 1785732915930,
+      "updatedAt": 1785732935412,
+      "status": "active"
+    },
     {
       "id": "local-1785730779792",
       "text": "Ki moun ki ka fe yon video de tout sa app sa fe;",
@@ -165,9 +181,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 66,
+  "likeCount": 67,
   "shareCount": 97,
-  "viewCount": 258,
+  "viewCount": 266,
   "verseLikedBy": [
     "0fbe1aaccb6424799c5ed109e6c4f1b0d691b84d22a7c7053c5458fa4830889a",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
@@ -208,6 +224,7 @@
     "a3c9bd50aa75778c33401a8f5ddde279afe598f4ca850c92633e286c07fa520d",
     "a7016e4e334806c440ba9374084a492e597c09e055abbadcdea4e13a147ca4e2",
     "ac02e76dbcdfd85bc9be1934caa207f77d59503e8ee218ecb7c36922fc45ca19",
+    "af03ded5ec7f63a7195d217dc118892c4e7ce28d343a5c14628608178f875e45",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
     "b9719ee58627c26991138f3ba8f237bcf2c185085fe1001ea206d67e9df27b7b",
