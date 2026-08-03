@@ -1,9 +1,23 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785750340213,
+  "updatedAt": 1785751203563,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785750738618",
+      "text": "💥💥💥💯💯💯",
+      "userDeviceId": "66b18bc2f297152038d3538b2fcde91b7f78d672f40bcd64544273deee9d0a39",
+      "userName": "BERNARD Rodrick",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785750739903,
+      "updatedAt": 1785750739903,
+      "status": "active"
+    },
     {
       "id": "local-1785750268936",
       "text": "Amén wi",
@@ -237,9 +251,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 80,
-  "shareCount": 114,
-  "viewCount": 410,
+  "likeCount": 82,
+  "shareCount": 116,
+  "viewCount": 418,
   "verseLikedBy": [
     "0fbe1aaccb6424799c5ed109e6c4f1b0d691b84d22a7c7053c5458fa4830889a",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
@@ -271,10 +285,12 @@
     "50ee2335c79cc86cd5c8a06db0e0039926e206fa7a990720778990cc5cdd2faa",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
     "6467a0998f541952987508901c004e3b6fff74a42940a3458d60ee8bc529ce0e",
+    "66b18bc2f297152038d3538b2fcde91b7f78d672f40bcd64544273deee9d0a39",
     "68f582d72c84b2292ef32d08b3e46b4f6103592a48bbd910d1cf525ff557b174",
     "6b93ea9aa219c525797b7ec43cd96d6aa65c50575dd50f6060ec497dd9d493c6",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6f08da661bca40e28005ab8d53ed72d7b041c6c79060916c2e52c83b4f2b12aa",
+    "707541112194e1b9de42ff425b4f0356d0f0415b005c47f87ec9dc93ed1a2d5f",
     "7c776d8b7ff26bd2c1892c11537f9cce94df5c3cf1300054d61b332d46b6c893",
     "7ca0fc352240af8ecf68e6419fa2ab737bb5d78f71e9d47adff288d29b0fb483",
     "8525325d095a32551fd91e41a8522294c9b6324cebac13da3ea0a2e7423d6027",
