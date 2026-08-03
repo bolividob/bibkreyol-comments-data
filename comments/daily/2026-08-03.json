@@ -1,9 +1,23 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785726045494,
+  "updatedAt": 1785726927864,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785726277008",
+      "text": "senye tanpri fèm gras papa",
+      "userDeviceId": "da51c2e9eadb77cd0c1efbeba114708062b9f411f2da4cdbceebf3f2917a396f",
+      "userName": "viv jezu",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785726278447,
+      "updatedAt": 1785726278447,
+      "status": "active"
+    },
     {
       "id": "local-1785722210345",
       "text": "💕💕💕💕💕💕💕",
@@ -134,17 +148,20 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
-  "shareCount": 68,
-  "viewCount": 195,
+  "likeCount": 56,
+  "shareCount": 75,
+  "viewCount": 204,
   "verseLikedBy": [
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
     "112cee447e912e49feddd13b0e3f94ee2f7f775cda4694b55e8f7138f44e930b",
+    "1956e73e862358bd4420e70996b3c1a49ac2146d570cf838db90544f4290727e",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "1e3c057d2867308258900deb70d70c398593c06a2187fb9877580cfff3a49da5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "22f88a260b77d5dd553691079e8c80915e5a2844c96bdf9869169883dfd4a8ca",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "28c48da158c442fe8bdfc247e88edb8731a27dde2258f611ce2eaee2c8805455",
+    "2a18d8e094fc5194cae7ca47cd969d963dbbe54d4bb1626bd3e8faceb4bf7860",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
@@ -156,6 +173,7 @@
     "6f08da661bca40e28005ab8d53ed72d7b041c6c79060916c2e52c83b4f2b12aa",
     "7c776d8b7ff26bd2c1892c11537f9cce94df5c3cf1300054d61b332d46b6c893",
     "8525325d095a32551fd91e41a8522294c9b6324cebac13da3ea0a2e7423d6027",
+    "89b5e317808cb17834b7247dd53a31bd29086af82ccb72ba545b4564b1a3f5b1",
     "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f",
     "906378711b95ec7f31cac9d45bde0ea7a27060b4da4e851a9e11eeebcf69cf7a",
     "91c2c513a5b31ac963d21476c37a8b451953112c83bb0bb9d7075d9826335563",
@@ -183,11 +201,13 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "d576dce882e6da93aa52635ea53e82c930a5e27c629ae24b12ac7b595502acf1",
     "da449414bffcf4dd46369339d7c474eaea2844686f133e791468edd1b4c0b64a",
+    "da51c2e9eadb77cd0c1efbeba114708062b9f411f2da4cdbceebf3f2917a396f",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e37608f7e0ef9b46fce76a1bfe693a43acc2558b70deedd3f6a0a895268e0564",
     "e5fa2ece8733ed42201180298107d3e2acb54e61c78cd2741e3355c4b2f5172a",
     "eac096f636e53fd5a5d87290655b1ada95fd222237b5b654f907447784298013",
-    "f32c714e582555f50d9b21728f49bc2de55abcba1a7b3a0a905d7dfa43cd91c9"
+    "f32c714e582555f50d9b21728f49bc2de55abcba1a7b3a0a905d7dfa43cd91c9",
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b"
   ],
   "verseViewBy": []
 }
