@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785729645174,
+  "updatedAt": 1785730507613,
   "version": 1,
   "comments": [
     {
@@ -101,14 +101,15 @@
       "verseName": "Lamantasyon 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "likedBy": [
         "112cee447e912e49feddd13b0e3f94ee2f7f775cda4694b55e8f7138f44e930b",
         "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
+        "6aaf3fc593a5c86a7fa8654c9f5ffafa708cbd50e5b82571860da0a0df77a2f6",
         "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f"
       ],
       "createdAt": 1785717164973,
-      "updatedAt": 1785721248877,
+      "updatedAt": 1785730507613,
       "status": "active"
     },
     {
@@ -119,15 +120,16 @@
       "verseName": "Lamantasyon 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 4,
+      "likeCount": 5,
       "likedBy": [
         "112cee447e912e49feddd13b0e3f94ee2f7f775cda4694b55e8f7138f44e930b",
         "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
+        "6aaf3fc593a5c86a7fa8654c9f5ffafa708cbd50e5b82571860da0a0df77a2f6",
         "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f",
         "97fa8688a46ee98feee876e311437cd8f21b46dbb55c33db0ea6f47c10e81469"
       ],
       "createdAt": 1785716293471,
-      "updatedAt": 1785721252533,
+      "updatedAt": 1785730506103,
       "status": "active"
     },
     {
@@ -138,20 +140,22 @@
       "verseName": "Lamantasyon 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "112cee447e912e49feddd13b0e3f94ee2f7f775cda4694b55e8f7138f44e930b",
+        "6aaf3fc593a5c86a7fa8654c9f5ffafa708cbd50e5b82571860da0a0df77a2f6",
         "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f"
       ],
       "createdAt": 1785716285963,
-      "updatedAt": 1785721250813,
+      "updatedAt": 1785730503978,
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 90,
-  "viewCount": 234,
+  "likeCount": 64,
+  "shareCount": 92,
+  "viewCount": 241,
   "verseLikedBy": [
+    "0fbe1aaccb6424799c5ed109e6c4f1b0d691b84d22a7c7053c5458fa4830889a",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
     "112cee447e912e49feddd13b0e3f94ee2f7f775cda4694b55e8f7138f44e930b",
     "1956e73e862358bd4420e70996b3c1a49ac2146d570cf838db90544f4290727e",
@@ -166,6 +170,7 @@
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
+    "32a264236e041299de1a37353271ac5cfed6d9db5b4e624ed479089ab605f21f",
     "371d3ff7a0fd0ca2f19018525deca6cd272cac21926dd5fbc41c90b3c464d5b0",
     "3e8d7dbc7cfe547e74676109a9e734e9cf526fefd72350bd6681aef4db12debd",
     "50ee2335c79cc86cd5c8a06db0e0039926e206fa7a990720778990cc5cdd2faa",
