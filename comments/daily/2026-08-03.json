@@ -1,9 +1,23 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785768345691,
+  "updatedAt": 1785769209834,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785739417734",
+      "text": "Amen Amen Amen 🙏 🙌",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785769209834,
+      "updatedAt": 1785769209834,
+      "status": "active"
+    },
     {
       "id": "local-1785729333319",
       "text": "r",
@@ -337,9 +351,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 128,
-  "shareCount": 211,
-  "viewCount": 582,
+  "likeCount": 130,
+  "shareCount": 213,
+  "viewCount": 592,
   "verseLikedBy": [
     "012d8efc1c2d8feac0390245f544026e1d2e841f657682e3d9a2d188236de571",
     "0d7a2c1ad0c0de6d4c93173ab236c2a4f1f386b06ba35355f03dcb3debea9303",
@@ -365,6 +379,7 @@
     "29ebe3483d26d6f9b327e9520ab699bcf75cd9ad9dd448724a2c3c702ffb2085",
     "2a18d8e094fc5194cae7ca47cd969d963dbbe54d4bb1626bd3e8faceb4bf7860",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
+    "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
@@ -460,6 +475,7 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e5fa2ece8733ed42201180298107d3e2acb54e61c78cd2741e3355c4b2f5172a",
     "e62aae072d56c6e7191ecd62c9a9569393164e8e0403a10fa3124c154d64c1d0",
+    "e915339c2c9d01cd630865cda42ddbc3d9b610f9a000813eb4d35b6a0ca3ad0f",
     "eac096f636e53fd5a5d87290655b1ada95fd222237b5b654f907447784298013",
     "f08f17a7c96f0c533833abae0e1f3ee983610148cf853f43c43c6384fd2fc3bf",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
