@@ -1,9 +1,23 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785730507613,
+  "updatedAt": 1785731402875,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785730779792",
+      "text": "Ki moun ki ka fe yon video de tout sa app sa fe;",
+      "userDeviceId": "6aaf3fc593a5c86a7fa8654c9f5ffafa708cbd50e5b82571860da0a0df77a2f6",
+      "userName": "Jakas Badie",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785730781918,
+      "updatedAt": 1785730781918,
+      "status": "active"
+    },
     {
       "id": "local-1785726277008",
       "text": "senye tanpri fèm gras papa",
@@ -151,9 +165,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 64,
-  "shareCount": 92,
-  "viewCount": 241,
+  "likeCount": 66,
+  "shareCount": 94,
+  "viewCount": 250,
   "verseLikedBy": [
     "0fbe1aaccb6424799c5ed109e6c4f1b0d691b84d22a7c7053c5458fa4830889a",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
@@ -209,10 +223,12 @@
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "c97437cd8cd3385069aef9e835952b4af08de564afa8e03aee026d93b5b70a0c",
     "d576dce882e6da93aa52635ea53e82c930a5e27c629ae24b12ac7b595502acf1",
     "da449414bffcf4dd46369339d7c474eaea2844686f133e791468edd1b4c0b64a",
     "da51c2e9eadb77cd0c1efbeba114708062b9f411f2da4cdbceebf3f2917a396f",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e37608f7e0ef9b46fce76a1bfe693a43acc2558b70deedd3f6a0a895268e0564",
     "e5fa2ece8733ed42201180298107d3e2acb54e61c78cd2741e3355c4b2f5172a",
     "eac096f636e53fd5a5d87290655b1ada95fd222237b5b654f907447784298013",
