@@ -1,9 +1,23 @@
 {
   "date": "2026-08-03",
   "verseKey": "daily:2026-08-03",
-  "updatedAt": 1785719661851,
+  "updatedAt": 1785720633580,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785719910156",
+      "text": "amén amén amén",
+      "userDeviceId": "906378711b95ec7f31cac9d45bde0ea7a27060b4da4e851a9e11eeebcf69cf7a",
+      "userName": "fr nalson Joseph",
+      "verseName": "Lamantasyon 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785719913008,
+      "updatedAt": 1785719913008,
+      "status": "active"
+    },
     {
       "id": "local-1785718730677",
       "text": "amen 🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️🙏❤️ Amen 🙏❤️🙏❤️🙏❤️🙏 amen",
@@ -31,7 +45,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1785718458870,
-      "updatedAt": 1785718458870,
+      "updatedAt": 1785720304625,
       "status": "active"
     },
     {
@@ -42,12 +56,13 @@
       "verseName": "Lamantasyon 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
         "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f"
       ],
       "createdAt": 1785717164973,
-      "updatedAt": 1785718654444,
+      "updatedAt": 1785720305560,
       "status": "active"
     },
     {
@@ -58,12 +73,14 @@
       "verseName": "Lamantasyon 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 3,
       "likedBy": [
-        "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f"
+        "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
+        "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f",
+        "97fa8688a46ee98feee876e311437cd8f21b46dbb55c33db0ea6f47c10e81469"
       ],
       "createdAt": 1785716293471,
-      "updatedAt": 1785718654380,
+      "updatedAt": 1785720530949,
       "status": "active"
     },
     {
@@ -83,18 +100,21 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 25,
-  "viewCount": 120,
+  "likeCount": 26,
+  "shareCount": 36,
+  "viewCount": 129,
   "verseLikedBy": [
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "28c48da158c442fe8bdfc247e88edb8731a27dde2258f611ce2eaee2c8805455",
+    "313c28be43da793965d243e9141134c63777323ea0b2685991c53713fec1ab39",
     "50ee2335c79cc86cd5c8a06db0e0039926e206fa7a990720778990cc5cdd2faa",
     "68f582d72c84b2292ef32d08b3e46b4f6103592a48bbd910d1cf525ff557b174",
     "6f08da661bca40e28005ab8d53ed72d7b041c6c79060916c2e52c83b4f2b12aa",
     "7c776d8b7ff26bd2c1892c11537f9cce94df5c3cf1300054d61b332d46b6c893",
     "8e20a5aad65408f01034efd09d40fea340faaa0fb603f832584c02f3cc0dca3f",
+    "906378711b95ec7f31cac9d45bde0ea7a27060b4da4e851a9e11eeebcf69cf7a",
     "962de2d332e4ec94c66eb4dc9e0eb4f84a438edfd67eb528eb7d44db82d0b215",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "ac02e76dbcdfd85bc9be1934caa207f77d59503e8ee218ecb7c36922fc45ca19",
@@ -108,6 +128,7 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "da449414bffcf4dd46369339d7c474eaea2844686f133e791468edd1b4c0b64a",
     "e37608f7e0ef9b46fce76a1bfe693a43acc2558b70deedd3f6a0a895268e0564",
+    "e5fa2ece8733ed42201180298107d3e2acb54e61c78cd2741e3355c4b2f5172a",
     "eac096f636e53fd5a5d87290655b1ada95fd222237b5b654f907447784298013"
   ],
   "verseViewBy": []
