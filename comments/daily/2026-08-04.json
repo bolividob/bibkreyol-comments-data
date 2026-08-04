@@ -1,9 +1,25 @@
 {
   "date": "2026-08-04",
   "verseKey": "daily:2026-08-04",
-  "updatedAt": 1785881643230,
+  "updatedAt": 1785882615850,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785882046423",
+      "text": "Mèsi senyè pou la pawol ou 🙏",
+      "userDeviceId": "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
+      "userName": "Raymondeline Riché🙏",
+      "verseName": "Travay 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2"
+      ],
+      "createdAt": 1785882047436,
+      "updatedAt": 1785882060495,
+      "status": "active"
+    },
     {
       "id": "local-1785880538522",
       "text": "Alleluia Gloire  ,",
@@ -26,10 +42,12 @@
       "verseName": "Travay 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2"
+      ],
       "createdAt": 1785870401785,
-      "updatedAt": 1785870401785,
+      "updatedAt": 1785881981450,
       "status": "active"
     },
     {
@@ -347,9 +365,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 147,
+  "likeCount": 151,
   "shareCount": 209,
-  "viewCount": 826,
+  "viewCount": 835,
   "verseLikedBy": [
     "0002dc3171a227b508a31c38add2f09ed132690585127451427215dd10e57803",
     "01388f2371b6ee3149036c0b3ca2cdcffee9a167fa240d7ba8fdbbbbf53d02a9",
@@ -465,18 +483,22 @@
     "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c9ce887f098c6f797cf55e5f3f90ae86947d993c8648d11c79d0aab3db4fc263",
+    "c9de6e515b2505a4fcfbbb4b475f027af098d753eb6b3acfb4f2ce6c669b5aee",
     "cc1e47ce9f78d34bf435ec660f6a6300e494fe6f02fbea3deeb905b2fd7a9c0c",
     "cd7cfcd4188bad3245ba1d8268cccde57356b42e5c69fff2aaa62c48dd8bb6e7",
     "cea61ef3c38cf0dcab6be8dee1ef769e2cbe5b879c805e8798395e290bff35f6",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
     "d2db98f4dbe31b6afef7f3936a61445bce6f23c4f788b80bf0ba604666cd7152",
     "d43b21597f2ef218c10174468d0f3b7a793553040e5d332a56de7f467a6f028e",
+    "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
     "d99c538e1e992708fe6eebcf6ee1673ca5685984bdea6a40a5a885e7c3d5c032",
     "d9c4b2b07980b4d333d3b10feae0ed870cc51850271ac4095dd374d5f847779a",
     "d9d202f36fc94bd7e063d1a9783d20ac9832541eb5a829aca8886051a93a115c",
     "db6f8324db3e2b69640cc9a23d6ceb92222f03840f7dcfec75a4ac9c99505b69",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "df81836bcd94cd08bfb59c5ccb10dea23d61783c85e81cf53de1966e33b9982d",
+    "e10527acc81a9bb564350d3fd4ff8292551831a326fff4c267e93f8c706dbaf6",
+    "e10a2a4471a9719c17ec30faf0b489b103481b7e91d8b2d9f8aa2b5b7f1950b4",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e46e8483ec37285f46241e85071267030c2bd68a8f1c3a3230bbcb54f2b2b279",
     "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
