@@ -1,9 +1,23 @@
 {
   "date": "2026-08-04",
   "verseKey": "daily:2026-08-04",
-  "updatedAt": 1785809707207,
+  "updatedAt": 1785810632866,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785810586259",
+      "text": "jesus sera venir",
+      "userDeviceId": "58a04e9a5331de249033516f5cad6d01c8902e9d7a21c4232ce2d40a9f4b4ad7",
+      "userName": "Mangara Siburian",
+      "verseName": "Travay 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785810587524,
+      "updatedAt": 1785810587524,
+      "status": "active"
+    },
     {
       "id": "local-1785805712438",
       "text": "Bondye papa ou grasw ak favè di yon mo a svp",
@@ -21,9 +35,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 31,
-  "viewCount": 156,
+  "likeCount": 26,
+  "shareCount": 32,
+  "viewCount": 166,
   "verseLikedBy": [
     "0002dc3171a227b508a31c38add2f09ed132690585127451427215dd10e57803",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
@@ -35,16 +49,20 @@
     "369b01dbf637f06cc56cd661fe9d0e6112a36d5bd32d45187bedec5e309e0abd",
     "37f7b41bc294d936ccda071eea64d504ff92930d996d250316df9b1962993cbe",
     "5d17de7529ff4ce9fb8e2c7e9d5b8ff3a1945298c618cbcbe06ce4069085a8a9",
+    "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "759357cbae20e87cef6997513ad77885635acae07151ce73b64d98f0fbf34626",
     "87cdcce5961cde39b8075d4ee07cbe9027e2f8311732b3d6b8ba31543675a353",
     "9569a5b93e46793bef6caa50745aa119aea4b747477d055a5743e0b4164b25e8",
     "9a89c398562d9bcf9d0f8c498263184c7725f26968834ff292986b706a068200",
     "a10c507a0eecea68bf0df32c1646ff4771a34a92f9891e21dc7fc3dd83b6e653",
+    "a2847562d334d78973937a2b52b3ea5ea557f3cbe3108dc00549ddbd3fa04bb4",
     "b9c3ad42e8ac77015b2210c67a42b4bd775837034d426f737a1f8b9afe3d82e2",
     "c0eccdb99eba5a7e6c161053f5838f36702833918f021d667971118d27098e46",
     "c1be0e9428f488956157519f432fe6990a0bdccf4fc1d26f215471e8ae83bf7c",
     "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
     "c9ce887f098c6f797cf55e5f3f90ae86947d993c8648d11c79d0aab3db4fc263",
+    "cc1e47ce9f78d34bf435ec660f6a6300e494fe6f02fbea3deeb905b2fd7a9c0c",
+    "e46e8483ec37285f46241e85071267030c2bd68a8f1c3a3230bbcb54f2b2b279",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66"
   ],
