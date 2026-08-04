@@ -1,9 +1,25 @@
 {
   "date": "2026-08-04",
   "verseKey": "daily:2026-08-04",
-  "updatedAt": 1785857449463,
+  "updatedAt": 1785858247546,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785857560054",
+      "text": "mezanmi frèm AK sème yo like kòmantè frè AK sè Nou yo non",
+      "userDeviceId": "792f202a6dbdc8066107105746348de1f0a8569b802b325101c45ec27203526c",
+      "userName": "sr merlanda",
+      "verseName": "Travay 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "792f202a6dbdc8066107105746348de1f0a8569b802b325101c45ec27203526c"
+      ],
+      "createdAt": 1785857561871,
+      "updatedAt": 1785857573103,
+      "status": "active"
+    },
     {
       "id": "local-1785857429323",
       "text": "amen",
@@ -177,7 +193,7 @@
         "8b4a16678ff6fe61d7226f07f84bbed97f45c40cfdf7bd46c8c055c3ece00072"
       ],
       "createdAt": 1785813583513,
-      "updatedAt": 1785813595226,
+      "updatedAt": 1785857451448,
       "status": "active"
     },
     {
@@ -193,7 +209,7 @@
         "792f202a6dbdc8066107105746348de1f0a8569b802b325101c45ec27203526c"
       ],
       "createdAt": 1785811449754,
-      "updatedAt": 1785811449754,
+      "updatedAt": 1785857452624,
       "status": "active"
     },
     {
@@ -239,7 +255,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1785810821979,
-      "updatedAt": 1785810821979,
+      "updatedAt": 1785857464483,
       "status": "active"
     },
     {
@@ -250,10 +266,12 @@
       "verseName": "Travay 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "792f202a6dbdc8066107105746348de1f0a8569b802b325101c45ec27203526c"
+      ],
       "createdAt": 1785810703217,
-      "updatedAt": 1785810703217,
+      "updatedAt": 1785857463187,
       "status": "active"
     },
     {
@@ -287,15 +305,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
-  "shareCount": 158,
-  "viewCount": 594,
+  "likeCount": 118,
+  "shareCount": 164,
+  "viewCount": 601,
   "verseLikedBy": [
     "0002dc3171a227b508a31c38add2f09ed132690585127451427215dd10e57803",
     "01388f2371b6ee3149036c0b3ca2cdcffee9a167fa240d7ba8fdbbbbf53d02a9",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "02ca1c2cce842b95d3fc05fd6845ff71a3fe9952f43b280d5f626c482664fa55",
     "046aecd2597faf8dc9316cbad8591414220df822ca507cbfc95bbff2aa836a89",
+    "05f12d717ba36697e24dcdeeb041a65b0fd0acfd713b921d2dafae7d53240b15",
     "0b37acc399be339194f3baf0699e9b7c3dde9ff9419b20ce8b35554a656baff2",
     "0b6cc093322723bfecdec9efc1e03351598858dae5354348818bcb4e116cf6e2",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
