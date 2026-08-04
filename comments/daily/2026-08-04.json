@@ -1,9 +1,23 @@
 {
   "date": "2026-08-04",
   "verseKey": "daily:2026-08-04",
-  "updatedAt": 1785834002652,
+  "updatedAt": 1785834862178,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785834247082",
+      "text": "Amen 🙏",
+      "userDeviceId": "707541112194e1b9de42ff425b4f0356d0f0415b005c47f87ec9dc93ed1a2d5f",
+      "userName": "chrétienanonyme",
+      "verseName": "Travay 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785834250400,
+      "updatedAt": 1785834250400,
+      "status": "active"
+    },
     {
       "id": "local-1785826209531",
       "text": "Amen 🙏 🙏 🙏",
@@ -197,9 +211,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
-  "shareCount": 77,
-  "viewCount": 381,
+  "likeCount": 74,
+  "shareCount": 81,
+  "viewCount": 389,
   "verseLikedBy": [
     "0002dc3171a227b508a31c38add2f09ed132690585127451427215dd10e57803",
     "01388f2371b6ee3149036c0b3ca2cdcffee9a167fa240d7ba8fdbbbbf53d02a9",
@@ -207,6 +221,7 @@
     "02ca1c2cce842b95d3fc05fd6845ff71a3fe9952f43b280d5f626c482664fa55",
     "0b6cc093322723bfecdec9efc1e03351598858dae5354348818bcb4e116cf6e2",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1bef07ae32c648bde1bf184266b9182247f5810e8a36c76ae0c9a3d32a4de905",
     "1f1bb6fa8e2e5fd89bb96cb3c363daef5370f28204712552018151f271c5ff03",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
