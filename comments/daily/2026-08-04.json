@@ -1,9 +1,23 @@
 {
   "date": "2026-08-04",
   "verseKey": "daily:2026-08-04",
-  "updatedAt": 1785879841740,
+  "updatedAt": 1785880800959,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785880538522",
+      "text": "Alleluia Gloire  ,",
+      "userDeviceId": "b28b6250b6d6bb22da577ae2008c5868ee02b514099942976815656024de2fec",
+      "userName": "Berline Pierre",
+      "verseName": "Travay 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785880539018,
+      "updatedAt": 1785880539018,
+      "status": "active"
+    },
     {
       "id": "local-1785870399182",
       "text": "Vrè batèm nan se nan non SENYÈ JEZIKRIS",
@@ -335,7 +349,7 @@
   ],
   "likeCount": 145,
   "shareCount": 209,
-  "viewCount": 809,
+  "viewCount": 818,
   "verseLikedBy": [
     "0002dc3171a227b508a31c38add2f09ed132690585127451427215dd10e57803",
     "01388f2371b6ee3149036c0b3ca2cdcffee9a167fa240d7ba8fdbbbbf53d02a9",
