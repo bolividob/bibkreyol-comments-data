@@ -1,9 +1,23 @@
 {
   "date": "2026-08-04",
   "verseKey": "daily:2026-08-04",
-  "updatedAt": 1785825881144,
+  "updatedAt": 1785826814722,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785826209531",
+      "text": "Amen 🙏 🙏 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Travay 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785826210821,
+      "updatedAt": 1785826210821,
+      "status": "active"
+    },
     {
       "id": "local-1785823288027",
       "text": "Amén y amén",
@@ -183,15 +197,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
+  "likeCount": 64,
   "shareCount": 68,
-  "viewCount": 308,
+  "viewCount": 316,
   "verseLikedBy": [
     "0002dc3171a227b508a31c38add2f09ed132690585127451427215dd10e57803",
     "01388f2371b6ee3149036c0b3ca2cdcffee9a167fa240d7ba8fdbbbbf53d02a9",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "02ca1c2cce842b95d3fc05fd6845ff71a3fe9952f43b280d5f626c482664fa55",
     "0b6cc093322723bfecdec9efc1e03351598858dae5354348818bcb4e116cf6e2",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1f1bb6fa8e2e5fd89bb96cb3c363daef5370f28204712552018151f271c5ff03",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -213,6 +228,7 @@
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "759357cbae20e87cef6997513ad77885635acae07151ce73b64d98f0fbf34626",
     "7ab0344e5e1073e2b89d231320b23bb3b39b2fa9f671884a9dccceaebaaf2fbb",
+    "7d28c9c84a833affac9bf54df8c23fc8a3c355038c78b927ad587e46161c7f93",
     "82faa6595e008e1b3f0481020d7669ff6d2a7d15e3de79ab7b2db670c60e4026",
     "87cdcce5961cde39b8075d4ee07cbe9027e2f8311732b3d6b8ba31543675a353",
     "8b4a16678ff6fe61d7226f07f84bbed97f45c40cfdf7bd46c8c055c3ece00072",
