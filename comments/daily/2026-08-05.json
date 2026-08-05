@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785932098264,
+  "updatedAt": 1785933029756,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785933028075",
+      "text": "bele",
+      "userDeviceId": "10cc5e52493f71b4f2a11c92671e79aa4924c8b11367c0b6ed895fc9873ed1a7",
+      "userName": "cherlanda",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785933029756,
+      "updatedAt": 1785933029756,
+      "status": "active"
+    },
     {
       "id": "local-1785931205390",
       "text": "Amen 🙏🙏🙏",
@@ -254,9 +268,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 100,
-  "shareCount": 189,
-  "viewCount": 487,
+  "likeCount": 102,
+  "shareCount": 196,
+  "viewCount": 499,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -267,6 +281,7 @@
     "0a480a01a7e65dfbfbfe9cb2392be3d56ef6be09f8d3157c2be2eb21cb647585",
     "0b76bb3aed095867d3c6a2531952eeca1790d32e5fcda6d185fbff22ddf5c04f",
     "0de2c2493e644e46f3a656585dcf3210b13a93694fb520c1ed685123a575925c",
+    "10cc5e52493f71b4f2a11c92671e79aa4924c8b11367c0b6ed895fc9873ed1a7",
     "10dbaa4708661480a3e78fc160d469b7e17487e4ed39e66cc32a2e0b535d79fa",
     "1206e222259eb1a850b5cf601fab432191794ee9387f2cde03b7a29e4fded0ac",
     "167387de7c57d89073ff6a78d91ed37ec120f7036f134638f2ae442b4c14590a",
@@ -315,6 +330,7 @@
     "7d28c9c84a833affac9bf54df8c23fc8a3c355038c78b927ad587e46161c7f93",
     "7f132f9063fb617870b741b748ff0b0263272754048293f1efff8285ae2786c4",
     "81dc28107fb8ad7f03fad9f1d05da1d13507a2286cff062b3b3fa15d96af3f7a",
+    "870ff44b4c9d2c4771d1e6bb229b8763f8086fd967b9d69fdf752b155b9fa629",
     "88d9f536b69c86d26fd32dc4dfe81c06e70439cdcc4442eefb00ccb03b1efdd2",
     "8abd30090cc723b4aab2363f5be4ac5ab740dff4af60fe612db892275f08416d",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
