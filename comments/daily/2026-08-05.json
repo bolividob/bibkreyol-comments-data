@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785901504229,
+  "updatedAt": 1785902430199,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "2 Jan 1:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2ea7aca0d1b2b0e383b82bee92f888f09481628f5dd60e28a20c31dea3748214"
+      ],
       "createdAt": 1785896807410,
-      "updatedAt": 1785896807410,
+      "updatedAt": 1785902082352,
       "status": "active"
     },
     {
@@ -163,9 +165,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
-  "shareCount": 70,
-  "viewCount": 210,
+  "likeCount": 49,
+  "shareCount": 76,
+  "viewCount": 219,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "0a480a01a7e65dfbfbfe9cb2392be3d56ef6be09f8d3157c2be2eb21cb647585",
@@ -173,8 +175,12 @@
     "0de2c2493e644e46f3a656585dcf3210b13a93694fb520c1ed685123a575925c",
     "10dbaa4708661480a3e78fc160d469b7e17487e4ed39e66cc32a2e0b535d79fa",
     "167387de7c57d89073ff6a78d91ed37ec120f7036f134638f2ae442b4c14590a",
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "1dda5b1caaeeb5a6ed125906a71cfb7707ceb1d18bde8dd0135bc22db6485696",
+    "1ed3a9b04a497f4c74033751c657b00767a6b9703902afb67e13e9c19f0e087d",
     "223affe150a0794b84ae09513656f915045584b32b95ef28271561e961f15c20",
     "229221317a2465dbadc69df4ad03fee893315f6c1ff09460036bd6e5849869db",
+    "2c65a9918ddf252c1e905f89e3189b2cec9334c744946477a1abdcf1d5e3e8b9",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "3242f2acf2dc9e85345965f350c2e4690c59d7e414ad8ff6244579e50721824d",
     "33824ef9d5f621b8f2e6418b5ef60bbaa0185b6217a18afaa0ef55174a6795a2",
@@ -183,6 +189,7 @@
     "4133c381a49af55cce2cbb9204ccd6dd1dc7816aeaf04b70fc20165059ecbd12",
     "4d3ba0d2a27bcf721838d1b36bd4c0f4788fcdf88fb4c2d1da0d98f83ba42e64",
     "530cc9e241735ac5bb3de42441325be51ea7d5e73945866a26f2b304d9ede351",
+    "58190ff425ca27099234b6d185597f174ec40bbf1d8411f8766ebe9dd8c5679d",
     "5852964879489c6f5a1d43843e212c904373d9d323990ea6bf8778823ab8b44b",
     "65599f8f49bbea70a9bf9b5af040d66dffa1856e11f3080572637f25f17b6014",
     "77038f72b8e73b6d2f8fcf69e0e1b914112ac1725a39c5256f92f6834bd84d04",
