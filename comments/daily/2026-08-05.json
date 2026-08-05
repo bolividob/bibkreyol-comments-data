@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785907832214,
+  "updatedAt": 1785908649150,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785908125392",
+      "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785908126574,
+      "updatedAt": 1785908126574,
+      "status": "active"
+    },
     {
       "id": "local-1785907428827",
       "text": "Segnè fèm gras 🙏🙏🙏",
@@ -198,9 +212,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 85,
-  "viewCount": 267,
+  "likeCount": 60,
+  "shareCount": 86,
+  "viewCount": 274,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -231,6 +245,7 @@
     "65599f8f49bbea70a9bf9b5af040d66dffa1856e11f3080572637f25f17b6014",
     "77038f72b8e73b6d2f8fcf69e0e1b914112ac1725a39c5256f92f6834bd84d04",
     "7827d3f3849f984ad9aee73091e0fb9ce0c93f68590f3c067f96f69222299b48",
+    "7b88913949ecbc964803a767f50e5374d1fdc9bfd9f57cf6b0da7c561acb8912",
     "7f132f9063fb617870b741b748ff0b0263272754048293f1efff8285ae2786c4",
     "81dc28107fb8ad7f03fad9f1d05da1d13507a2286cff062b3b3fa15d96af3f7a",
     "88d9f536b69c86d26fd32dc4dfe81c06e70439cdcc4442eefb00ccb03b1efdd2",
@@ -257,7 +272,9 @@
     "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7",
     "dce6990c71203be2e157420932696ca948d0c0a6fdb98ee96e0af6d2fcc1fb5f",
+    "e24c91922994e3eefc9b86c4af2aff872edfe456aa535f79e61cd5b3a4cbb3bb",
     "f104e5cafd3bd074822b7529ddf16023fb46272c3c031d9c7ac5a4559068ad9f",
+    "fc83c0817ef2d23f099e3ad1f31a0a43cfe6f2d1ae838babaae26da1147b969e",
     "ff466562498fdb7dd6e307d1bb8aa145265b6ed1cf722dec041c8d3f40401428"
   ],
   "verseViewBy": []
