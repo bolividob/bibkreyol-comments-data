@@ -1,9 +1,39 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785942005468,
+  "updatedAt": 1785942871113,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785942230848",
+      "text": "À Dieu soit la gloire",
+      "userDeviceId": "3a809da755cb64d559ae796c915eceffc061742881dc2a492708354c983af14f",
+      "userName": "Madame Sergo",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785942236206,
+      "updatedAt": 1785942236206,
+      "status": "active"
+    },
+    {
+      "id": "local-1785942198425",
+      "text": "Mwen beni non Bondye",
+      "userDeviceId": "fdc470249eb7fa2f3b3fffdb99b330498cc578e7ee9aeb0205c6b42e647033e4",
+      "userName": "Mirlène Marcelin",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "fdc470249eb7fa2f3b3fffdb99b330498cc578e7ee9aeb0205c6b42e647033e4"
+      ],
+      "createdAt": 1785942199716,
+      "updatedAt": 1785942220962,
+      "status": "active"
+    },
     {
       "id": "local-1785941955664",
       "text": "seyè pale pou mw",
@@ -324,9 +354,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
-  "shareCount": 238,
-  "viewCount": 592,
+  "likeCount": 129,
+  "shareCount": 241,
+  "viewCount": 602,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -360,6 +390,7 @@
     "3166b0d82c8fbf45ee539480e422b065299e52ba7c26d137dfc1b94c502cbd60",
     "3242f2acf2dc9e85345965f350c2e4690c59d7e414ad8ff6244579e50721824d",
     "33824ef9d5f621b8f2e6418b5ef60bbaa0185b6217a18afaa0ef55174a6795a2",
+    "3a809da755cb64d559ae796c915eceffc061742881dc2a492708354c983af14f",
     "3abc3620c2b9b2a1c362256394d4a17a2db7f28e6799f47f7dd400c309be7a74",
     "3acdd7d3ff3477babd90ffb9a6bba8a68923946ca1da1422c5a2422487a12de4",
     "3b7a01cf590abbef935d13ecc3c3092d97c171cb66a0dac2d4ed70154a317e17",
@@ -454,6 +485,7 @@
     "f14fb7b11f3f381c69e1ede46dff8efc26c2bb16d8888842a08e1582a9d230d9",
     "f3b8e7254496c8af7b0ed3ce9aa41719d193a88fdc0e1a8d0c5a731942380231",
     "fc83c0817ef2d23f099e3ad1f31a0a43cfe6f2d1ae838babaae26da1147b969e",
+    "fdc470249eb7fa2f3b3fffdb99b330498cc578e7ee9aeb0205c6b42e647033e4",
     "ff466562498fdb7dd6e307d1bb8aa145265b6ed1cf722dec041c8d3f40401428"
   ],
   "verseViewBy": []
