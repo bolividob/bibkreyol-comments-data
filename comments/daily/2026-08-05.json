@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785930273775,
+  "updatedAt": 1785931210017,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785931205390",
+      "text": "Amen 🙏🙏🙏",
+      "userDeviceId": "a2906a8c4cf27cfaa3ca651f83a6bc6f12e083e88df560e4c2cb48b735e2f6d3",
+      "userName": "Ricardo",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785931210017,
+      "updatedAt": 1785931210017,
+      "status": "active"
+    },
     {
       "id": "local-1785923909287",
       "text": "no c letenel nonw pa janm chanj amén",
@@ -240,18 +254,20 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 171,
-  "viewCount": 469,
+  "likeCount": 95,
+  "shareCount": 179,
+  "viewCount": 477,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
     "04e1a12a5288cc0720b990a117a6bf21a71ed6324ff40fb5761871654eaff1bb",
     "08f0487ad966ca3aa594d68c34e1b22af793e42cec82b91a476c74b013fd123e",
+    "09417cd10bab24f6a00fbdfde212dc9492c57a52c154ff10ecbd01884475aa5e",
     "0a480a01a7e65dfbfbfe9cb2392be3d56ef6be09f8d3157c2be2eb21cb647585",
     "0b76bb3aed095867d3c6a2531952eeca1790d32e5fcda6d185fbff22ddf5c04f",
     "0de2c2493e644e46f3a656585dcf3210b13a93694fb520c1ed685123a575925c",
     "10dbaa4708661480a3e78fc160d469b7e17487e4ed39e66cc32a2e0b535d79fa",
+    "1206e222259eb1a850b5cf601fab432191794ee9387f2cde03b7a29e4fded0ac",
     "167387de7c57d89073ff6a78d91ed37ec120f7036f134638f2ae442b4c14590a",
     "1918ff6c61f7d20450e6fc2ac1f5f404b517ede20bb4a51b6119529ad473bcca",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
@@ -315,6 +331,7 @@
     "bc5e21175fb592bcb1dddbde93cd151dd265d66b573d16d3304c0504c44df4c4",
     "bc988bb3ca6446caec1af6f0e07461dd134c890c16a7fbe9fbf1be358b498a41",
     "bca168b8c970014367732787e69ce32bb529af84a9f4ff918305c574ee9f5ba3",
+    "c0a72b09ee526f851d9608b3a038ef4c7188cc4189308aa17200d6e93e827d04",
     "c10a2c63ef6a12908e29babbffc11ab41e783faacb4eca9040d7fdb5981f77b5",
     "c1edec0b0e2e7daf080f4e1419cb10ac8b8a56656ee1ed4a7015348be629ca5d",
     "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
