@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785895231505,
+  "updatedAt": 1785896106147,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785895987399",
+      "text": "amén",
+      "userDeviceId": "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
+      "userName": "🆓 Jerry",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785895989632,
+      "updatedAt": 1785895989632,
+      "status": "active"
+    },
     {
       "id": "local-1785894999471",
       "text": "Tout glwa pou bondye",
@@ -93,16 +107,18 @@
       "status": "active"
     }
   ],
-  "likeCount": 17,
-  "shareCount": 34,
-  "viewCount": 142,
+  "likeCount": 20,
+  "shareCount": 42,
+  "viewCount": 151,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
+    "0a480a01a7e65dfbfbfe9cb2392be3d56ef6be09f8d3157c2be2eb21cb647585",
     "167387de7c57d89073ff6a78d91ed37ec120f7036f134638f2ae442b4c14590a",
     "223affe150a0794b84ae09513656f915045584b32b95ef28271561e961f15c20",
     "33824ef9d5f621b8f2e6418b5ef60bbaa0185b6217a18afaa0ef55174a6795a2",
     "4133c381a49af55cce2cbb9204ccd6dd1dc7816aeaf04b70fc20165059ecbd12",
     "530cc9e241735ac5bb3de42441325be51ea7d5e73945866a26f2b304d9ede351",
+    "5852964879489c6f5a1d43843e212c904373d9d323990ea6bf8778823ab8b44b",
     "81dc28107fb8ad7f03fad9f1d05da1d13507a2286cff062b3b3fa15d96af3f7a",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
     "931be5cf6d11daf5ea0dc57c563e0ca8c429e59c720dc0b0589a04488471d579",
@@ -113,6 +129,7 @@
     "bca168b8c970014367732787e69ce32bb529af84a9f4ff918305c574ee9f5ba3",
     "c825587e89495b813d6ea3215fc052265b2180a3b33634f35ea9a705a4e1d939",
     "d335eb82f1ced1bb42a679176cba35df681c7b5bd4b295c0795bf078f2aaa31d",
+    "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7"
   ],
   "verseViewBy": []
