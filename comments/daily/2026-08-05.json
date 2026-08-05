@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785892485917,
+  "updatedAt": 1785893401042,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785892720875",
+      "text": "amen",
+      "userDeviceId": "960714f86341b2e028880f5e9f155c0207f0c28769e69221e1fc3abcaa12f0b9",
+      "userName": "Mardochée",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785892722688,
+      "updatedAt": 1785892722688,
+      "status": "active"
+    },
     {
       "id": "local-1785890692111",
       "text": "Gen yon Sel vrè batèm k'ap sove mou'n",
@@ -61,21 +75,24 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 27,
-  "viewCount": 106,
+  "likeCount": 14,
+  "shareCount": 29,
+  "viewCount": 116,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "167387de7c57d89073ff6a78d91ed37ec120f7036f134638f2ae442b4c14590a",
     "33824ef9d5f621b8f2e6418b5ef60bbaa0185b6217a18afaa0ef55174a6795a2",
+    "4133c381a49af55cce2cbb9204ccd6dd1dc7816aeaf04b70fc20165059ecbd12",
     "530cc9e241735ac5bb3de42441325be51ea7d5e73945866a26f2b304d9ede351",
     "81dc28107fb8ad7f03fad9f1d05da1d13507a2286cff062b3b3fa15d96af3f7a",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
     "931be5cf6d11daf5ea0dc57c563e0ca8c429e59c720dc0b0589a04488471d579",
+    "960714f86341b2e028880f5e9f155c0207f0c28769e69221e1fc3abcaa12f0b9",
     "bc5e21175fb592bcb1dddbde93cd151dd265d66b573d16d3304c0504c44df4c4",
     "bca168b8c970014367732787e69ce32bb529af84a9f4ff918305c574ee9f5ba3",
     "c825587e89495b813d6ea3215fc052265b2180a3b33634f35ea9a705a4e1d939",
-    "d335eb82f1ced1bb42a679176cba35df681c7b5bd4b295c0795bf078f2aaa31d"
+    "d335eb82f1ced1bb42a679176cba35df681c7b5bd4b295c0795bf078f2aaa31d",
+    "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7"
   ],
   "verseViewBy": []
 }
