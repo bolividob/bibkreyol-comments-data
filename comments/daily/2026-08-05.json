@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785948245032,
+  "updatedAt": 1785949203038,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785948927809",
+      "text": "Amen amen 🙏🙏🙏🙏",
+      "userDeviceId": "a8cda443b3c1aaa97226dfe7e8241cff48584529e3781940dfec106acbc4cddd",
+      "userName": "Daphnée saint fleur",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785948930016,
+      "updatedAt": 1785948930016,
+      "status": "active"
+    },
     {
       "id": "local-1785942230848",
       "text": "À Dieu soit la gloire",
@@ -354,9 +368,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 145,
-  "shareCount": 272,
-  "viewCount": 662,
+  "likeCount": 148,
+  "shareCount": 276,
+  "viewCount": 672,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -383,6 +397,7 @@
     "229221317a2465dbadc69df4ad03fee893315f6c1ff09460036bd6e5849869db",
     "292cef0cab8c3a7a9088e9b5acf253831db72ed08ecb4a3fbde8e2002f0da9bd",
     "295a7faa9fcec1238832ecedb3c4591ccde690207358d298d95a5428b8996b0b",
+    "29aa446118125ed7b096fc7eb719eb580aae901d6159a4af4a61cff7a04c2eb3",
     "2c65a9918ddf252c1e905f89e3189b2cec9334c744946477a1abdcf1d5e3e8b9",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "2e6ee18409af32213cebd05b3420422cbce8e80135aa0f1b3807822ae3d84018",
@@ -450,12 +465,14 @@
     "931be5cf6d11daf5ea0dc57c563e0ca8c429e59c720dc0b0589a04488471d579",
     "95fdcff3f14c9bc226b1280163967aff358f69e1aab498e863d6b6808fba4b2f",
     "960714f86341b2e028880f5e9f155c0207f0c28769e69221e1fc3abcaa12f0b9",
+    "9843910c26b258273069b4385393e7ae6a29c17cff2bfa54560d2e6dd066756a",
     "9a97956797672a8a700e6d970eeedce3c03409cf4d1f1ddb55d79c03ac01c56e",
     "9e1634be7ee48e829dab3d0af25777f7e10dfaad2bd32f271e8731ad901ba632",
     "9e848102add52dabae3aa5f446fac7fc6215e827a685fb67120af5741d74e13d",
     "a206fa91484b2ae9c3c9289985fa77742a4f42e93e0e5924d02fbcf73d6e18fb",
     "a471e0093f4e0f75e53e193200b50eb7a8ed7628a50b9d45befc7f2ab61d53cb",
     "a8256d127954a7f8d9c61632b70447d942f2303255d767d26c7fa79d5dc8cf0d",
+    "a8cda443b3c1aaa97226dfe7e8241cff48584529e3781940dfec106acbc4cddd",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "a97628b58c3586dbc5f2dcbdaa26ad88071324ce9fbe21e2ac92ee6fa079daf1",
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
