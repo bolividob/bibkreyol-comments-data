@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785940230955,
+  "updatedAt": 1785941047471,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785941027029",
+      "text": "Bon travay frè",
+      "userDeviceId": "3166b0d82c8fbf45ee539480e422b065299e52ba7c26d137dfc1b94c502cbd60",
+      "userName": "Madette Jerome Sainvil",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785941028999,
+      "updatedAt": 1785941028999,
+      "status": "active"
+    },
     {
       "id": "local-1785933987718",
       "text": "amèn 🙏 🙏 🙏",
@@ -282,9 +296,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 121,
-  "shareCount": 231,
-  "viewCount": 576,
+  "likeCount": 123,
+  "shareCount": 232,
+  "viewCount": 584,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -314,6 +328,7 @@
     "2e6ee18409af32213cebd05b3420422cbce8e80135aa0f1b3807822ae3d84018",
     "2f61c81e51cee33fa0cb64d16243b77069a0632fb28324a8a0975442e18d16ba",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
+    "3166b0d82c8fbf45ee539480e422b065299e52ba7c26d137dfc1b94c502cbd60",
     "3242f2acf2dc9e85345965f350c2e4690c59d7e414ad8ff6244579e50721824d",
     "33824ef9d5f621b8f2e6418b5ef60bbaa0185b6217a18afaa0ef55174a6795a2",
     "3abc3620c2b9b2a1c362256394d4a17a2db7f28e6799f47f7dd400c309be7a74",
@@ -401,6 +416,7 @@
     "e24c91922994e3eefc9b86c4af2aff872edfe456aa535f79e61cd5b3a4cbb3bb",
     "e53e9fce11c597d47db2082100db1109617e28243d5fcfa8dfa47dfdcb204354",
     "eb19111d1b32cd339eff3f5dfaa66eb8145d211ef527eedf0d51267129bca41a",
+    "ed11c8d270fc40f016d6bb85a458fea0bd98a41b1925350dcd11cd9a59c0d24e",
     "f104e5cafd3bd074822b7529ddf16023fb46272c3c031d9c7ac5a4559068ad9f",
     "f1451f057af78bee99443e75ae4e8afbc94f212ba1134c0d40c29980578f4e7c",
     "f14fb7b11f3f381c69e1ede46dff8efc26c2bb16d8888842a08e1582a9d230d9",
