@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785961801207,
+  "updatedAt": 1785962717974,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785962730248",
+      "text": "amén",
+      "userDeviceId": "91525fdcf0df5f63f5f5110114d92f433c27609d6852ecf5a4f3055f3daf7021",
+      "userName": "amén",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785962732463,
+      "updatedAt": 1785962732463,
+      "status": "active"
+    },
     {
       "id": "local-1785956447187",
       "text": "Amen",
@@ -414,9 +428,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 169,
-  "shareCount": 387,
-  "viewCount": 789,
+  "likeCount": 171,
+  "shareCount": 390,
+  "viewCount": 796,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -517,6 +531,7 @@
     "8abd30090cc723b4aab2363f5be4ac5ab740dff4af60fe612db892275f08416d",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
     "8e4be631b3f8b1db891b4f66b7878866fe24c009f35d64a93969d25a8492b512",
+    "91525fdcf0df5f63f5f5110114d92f433c27609d6852ecf5a4f3055f3daf7021",
     "926105e0fd6bd66171b21d4b34ee71fccefac395d9c10884354db6515e4618e5",
     "92df754d4bff383e9ad87e81585fbea61f3715ed6902712985713670e2386673",
     "931be5cf6d11daf5ea0dc57c563e0ca8c429e59c720dc0b0589a04488471d579",
@@ -556,6 +571,7 @@
     "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
     "c825587e89495b813d6ea3215fc052265b2180a3b33634f35ea9a705a4e1d939",
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
+    "cbe19a7567c0f480ee29a6730aecdfe312e626d7beab0c4bbe1baaf192d8f656",
     "cdd0cb0088c85ccd6d8e2a41d0a1993612440ab7b06d896c1357511632d16723",
     "ce3782782bc9b909d3189d411b93049ae9fce40e70a0f61a2bf63e33f5474bc3",
     "cf78d3c68609fa29a7b79760741f124efb5311019c54c29de285c49dd3c8a44c",
