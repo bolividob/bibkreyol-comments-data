@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785969001018,
+  "updatedAt": 1785969841552,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785964182903",
+      "text": "klk",
+      "userDeviceId": "bb5903d9e4bcb08c70c3681292cd02066d7ed569f5169c6050970fa83e3cfeb7",
+      "userName": "djou del ka",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785969633524,
+      "updatedAt": 1785969633524,
+      "status": "active"
+    },
     {
       "id": "local-1785962730248",
       "text": "amén",
@@ -430,9 +444,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 190,
-  "shareCount": 427,
-  "viewCount": 857,
+  "likeCount": 191,
+  "shareCount": 431,
+  "viewCount": 866,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -586,6 +600,7 @@
     "c4e478152d4d7c06345c40a26ae391a0291ee33bc484f0af4e6df0578421c438",
     "c60eb6f701e287283c2242e29697948be1674db109fee2cf6eddf75daac2e485",
     "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
+    "c6a4682210c3717b487cfe73e198f00447c6c271d61d0391f7f09a5d4e705fdc",
     "c6c9548b7b5a8816d442fd70b49594031844ef31f33fc71ec024403ffdf0be45",
     "c825587e89495b813d6ea3215fc052265b2180a3b33634f35ea9a705a4e1d939",
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
