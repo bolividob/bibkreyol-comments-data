@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785956402333,
+  "updatedAt": 1785957243643,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785956447187",
+      "text": "Amen",
+      "userDeviceId": "2f4be367ebce5319e46d4f5faaed139e53ed4b4e3e495226876de5ef155b6666",
+      "userName": "FRÈRE ENNRY PELICIER",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785956452422,
+      "updatedAt": 1785956452422,
+      "status": "active"
+    },
     {
       "id": "local-1785954599784",
       "text": "amen 🙏",
@@ -401,8 +415,8 @@
     }
   ],
   "likeCount": 161,
-  "shareCount": 301,
-  "viewCount": 735,
+  "shareCount": 383,
+  "viewCount": 742,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
