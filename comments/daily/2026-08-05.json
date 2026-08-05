@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785897875930,
+  "updatedAt": 1785898801314,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785898793044",
+      "text": "tout glwa pou Bondye",
+      "userDeviceId": "dce6990c71203be2e157420932696ca948d0c0a6fdb98ee96e0af6d2fcc1fb5f",
+      "userName": "Sr Michel",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785898794823,
+      "updatedAt": 1785898794823,
+      "status": "active"
+    },
     {
       "id": "local-1785897715465",
       "text": "mèsi senyè",
@@ -135,9 +149,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
-  "shareCount": 54,
-  "viewCount": 173,
+  "likeCount": 28,
+  "shareCount": 60,
+  "viewCount": 183,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "0a480a01a7e65dfbfbfe9cb2392be3d56ef6be09f8d3157c2be2eb21cb647585",
@@ -165,6 +179,7 @@
     "d335eb82f1ced1bb42a679176cba35df681c7b5bd4b295c0795bf078f2aaa31d",
     "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7",
+    "dce6990c71203be2e157420932696ca948d0c0a6fdb98ee96e0af6d2fcc1fb5f",
     "ff466562498fdb7dd6e307d1bb8aa145265b6ed1cf722dec041c8d3f40401428"
   ],
   "verseViewBy": []
