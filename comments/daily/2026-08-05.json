@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785933910894,
+  "updatedAt": 1785934817652,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785933987718",
+      "text": "amèn 🙏 🙏 🙏",
+      "userDeviceId": "97f5572f77dd5b94da8ace0885c878b6cb420d7256bbf2449d5948637217fda7",
+      "userName": "janette",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785933989880,
+      "updatedAt": 1785933989880,
+      "status": "active"
+    },
     {
       "id": "local-1785933028075",
       "text": "bele",
@@ -268,9 +282,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 103,
-  "shareCount": 203,
-  "viewCount": 506,
+  "likeCount": 105,
+  "shareCount": 207,
+  "viewCount": 515,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -317,6 +331,7 @@
     "58d1f610d1f90c2cadaf42c3e40022eb0e975c3cb9f9f23d316fb70a890a737d",
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
+    "5fd2542109e1a60d73a9affc972cfaca5afe15e8ee0da138034c12fe53af7eba",
     "63b4390f28e1a0cc82201a805e961cfaf1ec3b5f354ee5516331b12d28b2e609",
     "644d9aeb01e04cc3e32be8870b5fa003e82616d4dc549944b88db77a2808f48d",
     "65599f8f49bbea70a9bf9b5af040d66dffa1856e11f3080572637f25f17b6014",
@@ -325,6 +340,7 @@
     "707541112194e1b9de42ff425b4f0356d0f0415b005c47f87ec9dc93ed1a2d5f",
     "71d24d144fbceda0e04f54c7450d809f48d17e19d134b52130bed7e194bcecf5",
     "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
+    "7522edcaf8410b3ef96363f341fed9ec18328acb33aeaeb856cd0e9f2a83b175",
     "77038f72b8e73b6d2f8fcf69e0e1b914112ac1725a39c5256f92f6834bd84d04",
     "7827d3f3849f984ad9aee73091e0fb9ce0c93f68590f3c067f96f69222299b48",
     "7b88913949ecbc964803a767f50e5374d1fdc9bfd9f57cf6b0da7c561acb8912",
