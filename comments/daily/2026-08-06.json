@@ -1,9 +1,37 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786022040797,
+  "updatedAt": 1786023000797,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786022309112",
+      "text": "map mandé pou nou edem priye pou yon sèm ki malade nan zèy svp mesi",
+      "userDeviceId": "fb074b4908d5bdd1302449aad7d26b34833885ab1f3da0ed0cdb2ff039a6d177",
+      "userName": "Amén amén 🙏🙏🙏",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786022334616,
+      "updatedAt": 1786022334616,
+      "status": "active"
+    },
+    {
+      "id": "local-1786022215617",
+      "text": "mesi jezu pou gras ou papa",
+      "userDeviceId": "fb074b4908d5bdd1302449aad7d26b34833885ab1f3da0ed0cdb2ff039a6d177",
+      "userName": "Amén amén 🙏🙏🙏",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786022219254,
+      "updatedAt": 1786022219254,
+      "status": "active"
+    },
     {
       "id": "local-1786008456596",
       "text": "Amen 🙏 🙏 🙏",
@@ -263,13 +291,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 104,
+  "likeCount": 107,
   "shareCount": 168,
-  "viewCount": 532,
+  "viewCount": 540,
   "verseLikedBy": [
     "043abfe29213c023244cc5f56e9f98a195ede5f1466af9af9c9592d9cf9fcf62",
     "0990ce80a9b9721db4cdc6392a2c710a6520f8988ae8eafdabe743f70dcceec2",
     "110d5ebf7a464649cb67c87b5ebd1aaca8041819fdcf1e2a432638f1fe44d7a4",
+    "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
     "118f20f8e33fd26f24bb73cab7721cb3a25bbd01c4f953ccc33b577f0c59710a",
     "147c04563382de99f6b9218b05600629e508f0286178a215b3035730975fb266",
@@ -315,6 +344,7 @@
     "82fc23c6f201cd97adcd3903d7cc6c1f267465d117009fd1c7d8fdd53c9ef8d5",
     "8337611424057b6666462cc59fd31a9ad7a507699931b6f30af3c81299b68593",
     "85ce591c9a317c6d29afa0454cc5a30dacddf574ae3113ba71a89dab9bd1f9dd",
+    "85f18d77ad3037f5d6e403b5370d44eefa832d443cfd9e3d14e327194e3aef81",
     "8b63bc3497e4e37c2c618a321165bdbc2e732340a883d444493a3a22e0212a0f",
     "8d86c13bbec0e9d57631f15e8418845ffc4ca2210f919540863c33f738571164",
     "919ec4c38a1fbc0c5c686891f83b05dfc15b889590d845fe0413b199784e6087",
@@ -370,6 +400,7 @@
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
     "f49effd189da3a83cddc0f64b8bff569a4a3622b832702068d6e03a3a8d3afc6",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "fb074b4908d5bdd1302449aad7d26b34833885ab1f3da0ed0cdb2ff039a6d177",
     "ff1a7cb7089483e6f30b0a5ea447299fd2c46058f4c6d7bd4e154306df4c08e5"
   ],
   "verseViewBy": []
