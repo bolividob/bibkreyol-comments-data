@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786045442797,
+  "updatedAt": 1786046404070,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786045928829",
+      "text": "mw renmen jezi",
+      "userDeviceId": "705b6884623d3db1e9e4c46ed114bdea3c1395881ff47cda00fd907f73c9d8fb",
+      "userName": "solanise andre",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786045929747,
+      "updatedAt": 1786045929747,
+      "status": "active"
+    },
     {
       "id": "local-1786039318068",
       "text": "🫶",
@@ -363,9 +377,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 151,
+  "likeCount": 152,
   "shareCount": 208,
-  "viewCount": 760,
+  "viewCount": 771,
   "verseLikedBy": [
     "0077a0328f9a54dc20f6cf71821a33b28c454e1ea5baf0c84a0e7587adc59ca8",
     "02ca1c2cce842b95d3fc05fd6845ff71a3fe9952f43b280d5f626c482664fa55",
@@ -397,6 +411,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "268f4e68285abdea3f94d7848b7ee6632fed422b54c7d18e9ac7cb4c87d34481",
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "2a5356307a3880bbb930b790522096a20e39cbc941708cab50f93814de900408",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
