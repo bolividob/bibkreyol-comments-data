@@ -1,9 +1,23 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1786025889093,
+  "updatedAt": 1786030517746,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785944036289",
+      "text": "amen",
+      "userDeviceId": "8a05d913999fe59ff5658727fc406ecd453643c3743994b2e2cc2e3f43f23987",
+      "userName": "Manoucka ozamar",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786030517746,
+      "updatedAt": 1786030517746,
+      "status": "active"
+    },
     {
       "id": "local-1785973956663",
       "text": "🛐",
@@ -486,9 +500,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 201,
+  "likeCount": 202,
   "shareCount": 440,
-  "viewCount": 1011,
+  "viewCount": 1012,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
@@ -600,6 +614,7 @@
     "870ff44b4c9d2c4771d1e6bb229b8763f8086fd967b9d69fdf752b155b9fa629",
     "87cf344eda139c1da7c6394486cfcf5e6a84a3290d33932802f0a7c5dcd9db99",
     "88d9f536b69c86d26fd32dc4dfe81c06e70439cdcc4442eefb00ccb03b1efdd2",
+    "8a05d913999fe59ff5658727fc406ecd453643c3743994b2e2cc2e3f43f23987",
     "8abd30090cc723b4aab2363f5be4ac5ab740dff4af60fe612db892275f08416d",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
     "8e4be631b3f8b1db891b4f66b7878866fe24c009f35d64a93969d25a8492b512",
