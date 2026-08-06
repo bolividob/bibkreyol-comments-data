@@ -1,9 +1,37 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786034683478,
+  "updatedAt": 1786035601315,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786035057540",
+      "text": "bethour",
+      "userDeviceId": "9a13511dbbac10aaa8984ff85d337c829600c50b02de009760444f4555a0ceba",
+      "userName": "bethour",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786035060593,
+      "updatedAt": 1786035060593,
+      "status": "active"
+    },
+    {
+      "id": "local-1786035046480",
+      "text": "bethour",
+      "userDeviceId": "9a13511dbbac10aaa8984ff85d337c829600c50b02de009760444f4555a0ceba",
+      "userName": "bethour",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786035049637,
+      "updatedAt": 1786035049637,
+      "status": "active"
+    },
     {
       "id": "local-1786033127129",
       "text": "map mande nou Edem priye",
@@ -12,10 +40,12 @@
       "verseName": "Deteronòm 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "9a13511dbbac10aaa8984ff85d337c829600c50b02de009760444f4555a0ceba"
+      ],
       "createdAt": 1786033128844,
-      "updatedAt": 1786033128844,
+      "updatedAt": 1786035032818,
       "status": "active"
     },
     {
@@ -305,9 +335,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 136,
+  "likeCount": 139,
   "shareCount": 194,
-  "viewCount": 652,
+  "viewCount": 664,
   "verseLikedBy": [
     "0077a0328f9a54dc20f6cf71821a33b28c454e1ea5baf0c84a0e7587adc59ca8",
     "0397c3c7023f634c060069d9b64bd7d3a5e97450e7f0bb1a95da3ec928da994d",
@@ -379,6 +409,7 @@
     "8bfd2b5ef9c64975404cb22f67ed54110d377085460d0b1c145c1898438c3469",
     "8d86c13bbec0e9d57631f15e8418845ffc4ca2210f919540863c33f738571164",
     "919ec4c38a1fbc0c5c686891f83b05dfc15b889590d845fe0413b199784e6087",
+    "9a13511dbbac10aaa8984ff85d337c829600c50b02de009760444f4555a0ceba",
     "9a44188552eeb5a6c9a2d5d6c84a97a462711d5a37560c8df296be2e7399884b",
     "9be184de013bdfcb1d355e70f3038d2ef534d3315b8608686a5e9d6d1a8a60cf",
     "9bf97f11db6f820a466c423bd6a66bcd7c0e6a036a281468dfe44b5f370cd25f",
@@ -424,10 +455,12 @@
     "d69039f3555e7e5ca0915581ac831a8f4e4e1d0f181c828cbdd545cc44be5251",
     "d9948270c66332d663cd10b091f35dc04e6b3589a01ccba0b5de802d44a4eb65",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "df6637ecde5c5a2a7db4ebaaa611b7a1edcb9ac29cc08587a96ad5e8840a29ad",
     "e173afa4cc587356db7f51af18d70c6000b88c33338f0fb88c9290436527375a",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e2be9b73a64d9be4cfb0e48fd76ac83da1ff8fa6d507121d98cd60c46bdac26c",
     "e2e7de44f3a828e1741875d1f26f25a20844941faad558372cac822ac6883963",
+    "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "e47f6984107dce966c6484d1eba7d680e45b6049af6c1400c9a9c53f35669cd1",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e8d9731c0e6ef711ce9f55a36ff5054c209d7f215c9ef78896d6926b266f8c0d",
