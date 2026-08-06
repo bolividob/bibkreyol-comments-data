@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786032843474,
+  "updatedAt": 1786033803825,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786033127129",
+      "text": "map mande nou Edem priye",
+      "userDeviceId": "f2f7131f639c16e239c4c0f5d5395cc4947c47b10cc472b6dc4c21838ca87117",
+      "userName": "Marin",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786033128844,
+      "updatedAt": 1786033128844,
+      "status": "active"
+    },
     {
       "id": "local-1786022309112",
       "text": "map mandé pou nou edem priye pou yon sèm ki malade nan zèy svp mesi",
@@ -291,9 +305,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 131,
-  "shareCount": 188,
-  "viewCount": 634,
+  "likeCount": 133,
+  "shareCount": 189,
+  "viewCount": 643,
   "verseLikedBy": [
     "0077a0328f9a54dc20f6cf71821a33b28c454e1ea5baf0c84a0e7587adc59ca8",
     "0397c3c7023f634c060069d9b64bd7d3a5e97450e7f0bb1a95da3ec928da994d",
@@ -389,6 +403,7 @@
     "ba8bd9ddbebf8eea68465d58f610a599b59d0d73fceca4992f298865ea1c49df",
     "bd67ae0773eaa2ccdd7bd05020f06e0f6b6519bf9b75b82da81ae4b9fbfe2839",
     "be1cf2b4be7be0e62a6f83741081a4a51f5d65cc8b342fc8a85799fe86cc3f1d",
+    "c00097eb4fe31d7b7588096575dde2ea98c1e381a58355aeac556028b7737423",
     "c10a2c63ef6a12908e29babbffc11ab41e783faacb4eca9040d7fdb5981f77b5",
     "c1bfd4d1fe90e9d4392a4292ed63e505b366e48e3831cb822f31aabc98be1ed2",
     "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
@@ -419,6 +434,7 @@
     "ec7bcd42a299af00f2fa37be567d5381961364a6b864e04d35f97363280355ea",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d",
     "f2954a970874af1b41d9ebaacb9a2946171b218adf226655530aa9ded7977f66",
+    "f2f7131f639c16e239c4c0f5d5395cc4947c47b10cc472b6dc4c21838ca87117",
     "f49effd189da3a83cddc0f64b8bff569a4a3622b832702068d6e03a3a8d3afc6",
     "f554d6be8236826372020850e329b57b0ee449f9307dac4f76b03b667c2d58ff",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
