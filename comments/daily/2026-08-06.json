@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1785981603402,
+  "updatedAt": 1785982441433,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785982129681",
+      "text": "dghk",
+      "userDeviceId": "29eee09f97f1ef5885f3acdfda053e3ff6c1640e8dba55c8d694ae8f7225f0e6",
+      "userName": "Noël dieunise",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785982131045,
+      "updatedAt": 1785982131045,
+      "status": "active"
+    },
     {
       "id": "local-1785980478495",
       "text": "de",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
-  "shareCount": 33,
-  "viewCount": 133,
+  "likeCount": 21,
+  "shareCount": 38,
+  "viewCount": 143,
   "verseLikedBy": [
     "118f20f8e33fd26f24bb73cab7721cb3a25bbd01c4f953ccc33b577f0c59710a",
     "17784306f905cfc11dfbbc9ef436015e515a11f1dbd887de8c4e69dfd47f7d3c",
@@ -150,8 +164,11 @@
     "ac517ecd693538de5d9dd33bd3c8b30a36c108f9c396d9970a54a58085e5f1ad",
     "b533ed43433ec957910038881dbd8ca9e8fbae2fa4c4212c4dd96e2ea926f30d",
     "bd67ae0773eaa2ccdd7bd05020f06e0f6b6519bf9b75b82da81ae4b9fbfe2839",
+    "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
+    "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "cfdd84f8810b4adf41f3ed2a39b64a0fddf633057a4d922e6bd59357315ff57d",
     "d2ab267e5bc97a231ba425b5714b3b5709e288cb46828d20ca01763f578cd455",
+    "d69039f3555e7e5ca0915581ac831a8f4e4e1d0f181c828cbdd545cc44be5251",
     "e8d9731c0e6ef711ce9f55a36ff5054c209d7f215c9ef78896d6926b266f8c0d",
     "ec7bcd42a299af00f2fa37be567d5381961364a6b864e04d35f97363280355ea",
     "f49effd189da3a83cddc0f64b8bff569a4a3622b832702068d6e03a3a8d3afc6"
