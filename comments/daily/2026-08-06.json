@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786037404519,
+  "updatedAt": 1786038246166,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786037572948",
+      "text": "❤️❤️❤️",
+      "userDeviceId": "1a9608ba4bc3d9e457338e960aebfd9f9f6f5d0c5ae60ec6a48669fc6648b386",
+      "userName": "sandoo",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786037573970,
+      "updatedAt": 1786037573970,
+      "status": "active"
+    },
     {
       "id": "local-1786035057540",
       "text": "bethour",
@@ -335,9 +349,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 142,
-  "shareCount": 195,
-  "viewCount": 681,
+  "likeCount": 143,
+  "shareCount": 196,
+  "viewCount": 689,
   "verseLikedBy": [
     "0077a0328f9a54dc20f6cf71821a33b28c454e1ea5baf0c84a0e7587adc59ca8",
     "02ca1c2cce842b95d3fc05fd6845ff71a3fe9952f43b280d5f626c482664fa55",
@@ -355,6 +369,7 @@
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "17784306f905cfc11dfbbc9ef436015e515a11f1dbd887de8c4e69dfd47f7d3c",
     "1918ff6c61f7d20450e6fc2ac1f5f404b517ede20bb4a51b6119529ad473bcca",
+    "1a9608ba4bc3d9e457338e960aebfd9f9f6f5d0c5ae60ec6a48669fc6648b386",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f2431de285ce79a2a6c986c11cbfea3e084a7785820dac3e54cc6da292bb6ff",
