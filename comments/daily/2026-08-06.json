@@ -1,9 +1,51 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1785979802494,
+  "updatedAt": 1785980681844,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785980478495",
+      "text": "de",
+      "userDeviceId": "d2ab267e5bc97a231ba425b5714b3b5709e288cb46828d20ca01763f578cd455",
+      "userName": "zfzddff",
+      "verseName": "Deteronòm 3:1",
+      "parentId": "local-1785977306488",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785980480206,
+      "updatedAt": 1785980480206,
+      "status": "active"
+    },
+    {
+      "id": "local-1785980478491",
+      "text": "fzzjfzz",
+      "userDeviceId": "d2ab267e5bc97a231ba425b5714b3b5709e288cb46828d20ca01763f578cd455",
+      "userName": "zfzddff",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785980480051,
+      "updatedAt": 1785980480051,
+      "status": "active"
+    },
+    {
+      "id": "local-1785980472003",
+      "text": "fk",
+      "userDeviceId": "d2ab267e5bc97a231ba425b5714b3b5709e288cb46828d20ca01763f578cd455",
+      "userName": "zfzddff",
+      "verseName": "Deteronòm 3:1",
+      "parentId": "local-1785979238909",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785980472895,
+      "updatedAt": 1785980472895,
+      "status": "active"
+    },
     {
       "id": "local-1785979238909",
       "text": "map mande nou demand priye svpl paske mw gen yon prediksyon chak mwa map mande pou nou ede n priye pou bondye beniw zantray mwen 🙏🙏🙏🧎🧎",
@@ -11,11 +53,11 @@
       "userName": "Lucienne",
       "verseName": "Deteronòm 3:1",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1785979252778,
-      "updatedAt": 1785979252778,
+      "updatedAt": 1785980472895,
       "status": "active"
     },
     {
@@ -25,11 +67,13 @@
       "userName": "hfhggkr et moi 5 de la fin du la II il y",
       "verseName": "Deteronòm 3:1",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "d2ab267e5bc97a231ba425b5714b3b5709e288cb46828d20ca01763f578cd455"
+      ],
       "createdAt": 1785977316754,
-      "updatedAt": 1785977316754,
+      "updatedAt": 1785980480206,
       "status": "active"
     },
     {
@@ -89,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
-  "shareCount": 21,
-  "viewCount": 110,
+  "likeCount": 15,
+  "shareCount": 27,
+  "viewCount": 121,
   "verseLikedBy": [
     "118f20f8e33fd26f24bb73cab7721cb3a25bbd01c4f953ccc33b577f0c59710a",
     "17784306f905cfc11dfbbc9ef436015e515a11f1dbd887de8c4e69dfd47f7d3c",
@@ -105,6 +149,7 @@
     "ac517ecd693538de5d9dd33bd3c8b30a36c108f9c396d9970a54a58085e5f1ad",
     "bd67ae0773eaa2ccdd7bd05020f06e0f6b6519bf9b75b82da81ae4b9fbfe2839",
     "cfdd84f8810b4adf41f3ed2a39b64a0fddf633057a4d922e6bd59357315ff57d",
+    "d2ab267e5bc97a231ba425b5714b3b5709e288cb46828d20ca01763f578cd455",
     "e8d9731c0e6ef711ce9f55a36ff5054c209d7f215c9ef78896d6926b266f8c0d",
     "f49effd189da3a83cddc0f64b8bff569a4a3622b832702068d6e03a3a8d3afc6"
   ],
