@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786039201093,
+  "updatedAt": 1786040049458,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786039318068",
+      "text": "🫶",
+      "userDeviceId": "15cb4d6abf7d3302db4900863af25683bfbdf5d00b449b59245c3fd9b8bd77dc",
+      "userName": "Maly jeanbatistemaly@gmail.com",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786039319901,
+      "updatedAt": 1786039319901,
+      "status": "active"
+    },
     {
       "id": "local-1786037572948",
       "text": "❤️❤️❤️",
@@ -349,9 +363,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 143,
-  "shareCount": 202,
-  "viewCount": 699,
+  "likeCount": 146,
+  "shareCount": 203,
+  "viewCount": 707,
   "verseLikedBy": [
     "0077a0328f9a54dc20f6cf71821a33b28c454e1ea5baf0c84a0e7587adc59ca8",
     "02ca1c2cce842b95d3fc05fd6845ff71a3fe9952f43b280d5f626c482664fa55",
@@ -365,8 +379,10 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
     "118f20f8e33fd26f24bb73cab7721cb3a25bbd01c4f953ccc33b577f0c59710a",
+    "13314414e0b585e6558c5a85f90a8d12f2ad1350672d21d2740f732c356b8d46",
     "147c04563382de99f6b9218b05600629e508f0286178a215b3035730975fb266",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
+    "15cb4d6abf7d3302db4900863af25683bfbdf5d00b449b59245c3fd9b8bd77dc",
     "17784306f905cfc11dfbbc9ef436015e515a11f1dbd887de8c4e69dfd47f7d3c",
     "1918ff6c61f7d20450e6fc2ac1f5f404b517ede20bb4a51b6119529ad473bcca",
     "1a9608ba4bc3d9e457338e960aebfd9f9f6f5d0c5ae60ec6a48669fc6648b386",
@@ -475,6 +491,7 @@
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "df6637ecde5c5a2a7db4ebaaa611b7a1edcb9ac29cc08587a96ad5e8840a29ad",
     "e173afa4cc587356db7f51af18d70c6000b88c33338f0fb88c9290436527375a",
+    "e258efe88e0325b92d30ad7fa48925ba488f4e9f3f9030cde39118771be4d142",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e2be9b73a64d9be4cfb0e48fd76ac83da1ff8fa6d507121d98cd60c46bdac26c",
     "e2e7de44f3a828e1741875d1f26f25a20844941faad558372cac822ac6883963",
