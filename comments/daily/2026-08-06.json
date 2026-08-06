@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1785995058583,
+  "updatedAt": 1785996012493,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785995264621",
+      "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785995265934,
+      "updatedAt": 1785995265934,
+      "status": "active"
+    },
     {
       "id": "local-1785991933493",
       "text": "Amen Amen Amen Amen Amen 🙏",
@@ -231,9 +245,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
+  "likeCount": 67,
   "shareCount": 74,
-  "viewCount": 283,
+  "viewCount": 291,
   "verseLikedBy": [
     "043abfe29213c023244cc5f56e9f98a195ede5f1466af9af9c9592d9cf9fcf62",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
@@ -290,12 +304,14 @@
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
     "d69039f3555e7e5ca0915581ac831a8f4e4e1d0f181c828cbdd545cc44be5251",
     "d9948270c66332d663cd10b091f35dc04e6b3589a01ccba0b5de802d44a4eb65",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e173afa4cc587356db7f51af18d70c6000b88c33338f0fb88c9290436527375a",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e2be9b73a64d9be4cfb0e48fd76ac83da1ff8fa6d507121d98cd60c46bdac26c",
     "e47f6984107dce966c6484d1eba7d680e45b6049af6c1400c9a9c53f35669cd1",
     "e8d9731c0e6ef711ce9f55a36ff5054c209d7f215c9ef78896d6926b266f8c0d",
     "e914941becc7b4c4c045b4b351f852e883837c50c74622b3f62cefc396c834d7",
+    "eb235f8ccf07f8556ba5335d8849e94bc178f38e95951a7f9150ddb9a6fd4da0",
     "ec7bcd42a299af00f2fa37be567d5381961364a6b864e04d35f97363280355ea",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d",
     "f49effd189da3a83cddc0f64b8bff569a4a3622b832702068d6e03a3a8d3afc6",
