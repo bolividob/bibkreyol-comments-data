@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786049044780,
+  "updatedAt": 1786050006220,
   "version": 1,
   "comments": [
     {
@@ -128,10 +128,12 @@
       "verseName": "Deteronòm 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "346609ab80c7778f0cb538072dc6696998d4872bf56ee8ea21a5f4fd8f86da4c"
+      ],
       "createdAt": 1786008457270,
-      "updatedAt": 1786008457270,
+      "updatedAt": 1786049275257,
       "status": "active"
     },
     {
@@ -156,12 +158,13 @@
       "verseName": "Deteronòm 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "346609ab80c7778f0cb538072dc6696998d4872bf56ee8ea21a5f4fd8f86da4c",
         "774a08a55b9323624484eeb0bf22f2371a87e56fcbfe0b70e571420f1e16ce59"
       ],
       "createdAt": 1785991935136,
-      "updatedAt": 1786020643888,
+      "updatedAt": 1786049275690,
       "status": "active"
     },
     {
@@ -382,8 +385,8 @@
     }
   ],
   "likeCount": 158,
-  "shareCount": 213,
-  "viewCount": 796,
+  "shareCount": 215,
+  "viewCount": 804,
   "verseLikedBy": [
     "0077a0328f9a54dc20f6cf71821a33b28c454e1ea5baf0c84a0e7587adc59ca8",
     "02ca1c2cce842b95d3fc05fd6845ff71a3fe9952f43b280d5f626c482664fa55",
