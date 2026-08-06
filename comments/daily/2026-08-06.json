@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1786007641545,
+  "updatedAt": 1786008605958,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786008456596",
+      "text": "Amen 🙏 🙏 🙏",
+      "userDeviceId": "9bf97f11db6f820a466c423bd6a66bcd7c0e6a036a281468dfe44b5f370cd25f",
+      "userName": "Sherlande",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786008457270,
+      "updatedAt": 1786008457270,
+      "status": "active"
+    },
     {
       "id": "local-1785995264621",
       "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -245,13 +259,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
-  "shareCount": 88,
-  "viewCount": 391,
+  "likeCount": 74,
+  "shareCount": 91,
+  "viewCount": 399,
   "verseLikedBy": [
     "043abfe29213c023244cc5f56e9f98a195ede5f1466af9af9c9592d9cf9fcf62",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
     "118f20f8e33fd26f24bb73cab7721cb3a25bbd01c4f953ccc33b577f0c59710a",
+    "147c04563382de99f6b9218b05600629e508f0286178a215b3035730975fb266",
     "17784306f905cfc11dfbbc9ef436015e515a11f1dbd887de8c4e69dfd47f7d3c",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -281,6 +296,7 @@
     "919ec4c38a1fbc0c5c686891f83b05dfc15b889590d845fe0413b199784e6087",
     "9a44188552eeb5a6c9a2d5d6c84a97a462711d5a37560c8df296be2e7399884b",
     "9be184de013bdfcb1d355e70f3038d2ef534d3315b8608686a5e9d6d1a8a60cf",
+    "9bf97f11db6f820a466c423bd6a66bcd7c0e6a036a281468dfe44b5f370cd25f",
     "9da48f48d8003f15bdbc5aa45a3d93ca2b59a72e61d0cfa89b3720c4f3ece03f",
     "9e241720e30315e581d8ea104dac4e6f8711b6520637ae6d189f73589332fb1b",
     "a38a0f649a1386858b13d1aec4982b5394abf613540386395153d6df2f092fe5",
