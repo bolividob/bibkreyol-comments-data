@@ -1,9 +1,37 @@
 {
   "date": "2026-08-05",
   "verseKey": "daily:2026-08-05",
-  "updatedAt": 1785973442200,
+  "updatedAt": 1785974401493,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785973956663",
+      "text": "🛐",
+      "userDeviceId": "69fd53a52f26c8a9222f3e6026b3f533d98c8c9f54aeec90848d4745fc454028",
+      "userName": "Jhon simeus",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785973958420,
+      "updatedAt": 1785973958420,
+      "status": "active"
+    },
+    {
+      "id": "local-1785961079292",
+      "text": "jeZi beniw",
+      "userDeviceId": "1d81dc6cc835de0294f5105ddb8d47a638acb460985fbb87d6d0c6f7425e6256",
+      "userName": "wilbert",
+      "verseName": "2 Jan 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785973901157,
+      "updatedAt": 1785973901157,
+      "status": "active"
+    },
     {
       "id": "local-1785973181737",
       "text": "amen",
@@ -459,8 +487,8 @@
     }
   ],
   "likeCount": 200,
-  "shareCount": 437,
-  "viewCount": 903,
+  "shareCount": 440,
+  "viewCount": 913,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "00f4cb9b0d628806fc0b25220ca627336001f4007cbb7c0a7b34c66d3de78eb2",
