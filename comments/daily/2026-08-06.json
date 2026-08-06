@@ -1,9 +1,23 @@
 {
   "date": "2026-08-06",
   "verseKey": "daily:2026-08-06",
-  "updatedAt": 1785989642610,
+  "updatedAt": 1785990602718,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1785990120166",
+      "text": "Ma'p mande nou edem priye pou yon doulè m genyen ka'p banm pwoblèm mèsi",
+      "userDeviceId": "c9706a911779ee0c64ed0ddf163fe60a5ad2cafcd59d63621bf17541050f41a4",
+      "userName": "ketia Dubuisson",
+      "verseName": "Deteronòm 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1785990139859,
+      "updatedAt": 1785990139859,
+      "status": "active"
+    },
     {
       "id": "local-1785989268375",
       "text": "Amèn Amèn Amèn",
@@ -203,9 +217,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 56,
-  "shareCount": 69,
-  "viewCount": 231,
+  "likeCount": 59,
+  "shareCount": 70,
+  "viewCount": 241,
   "verseLikedBy": [
     "043abfe29213c023244cc5f56e9f98a195ede5f1466af9af9c9592d9cf9fcf62",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
@@ -221,6 +235,7 @@
     "5893a703e60c36cac5a73d305450f813abdf141ff59e3979750d03190a43c102",
     "5ffe210fffd31d892047c6aeba2c6e01014374f6899941b1cac32e10dd7ac2fd",
     "66e177207f814626df4053c214838777639cc74d2a6294d12e39ffef0cd0cff7",
+    "69d08820d41da1b04f40678992d69f46d5e589b86450cc28f071172a80a5657b",
     "7835cfdd61a9514ab4a880109ccdb2df320c189a75f2bd52933822c70f662196",
     "78dc00efbaf213ca34551f2d569cff29000d209da17785ac357ad7e9a069cbfd",
     "8337611424057b6666462cc59fd31a9ad7a507699931b6f30af3c81299b68593",
@@ -232,6 +247,7 @@
     "9be184de013bdfcb1d355e70f3038d2ef534d3315b8608686a5e9d6d1a8a60cf",
     "9da48f48d8003f15bdbc5aa45a3d93ca2b59a72e61d0cfa89b3720c4f3ece03f",
     "9e241720e30315e581d8ea104dac4e6f8711b6520637ae6d189f73589332fb1b",
+    "a38a0f649a1386858b13d1aec4982b5394abf613540386395153d6df2f092fe5",
     "a6ed3f1d83218ab5141efa6803bb93d2dfaeb793829c29c36fc3ec2723d40ae8",
     "a83d3fd3210ed0d2ac486c9eba5f4daba4e90c02da37ef8fda08a082e27624f8",
     "ac517ecd693538de5d9dd33bd3c8b30a36c108f9c396d9970a54a58085e5f1ad",
@@ -245,6 +261,7 @@
     "ba0418ce48fb62e95cb7f6f861bc0975d1a019220242e0aee31c9c27e4caaeb1",
     "ba8bd9ddbebf8eea68465d58f610a599b59d0d73fceca4992f298865ea1c49df",
     "bd67ae0773eaa2ccdd7bd05020f06e0f6b6519bf9b75b82da81ae4b9fbfe2839",
+    "c67dfe77b11aaa29acb146139d99a29f205ff311a565e03d90dd4fcb1658ca68",
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c958a2273cc8054d147f240ea4b04952698a7a3023c1560f88b1755769dfe135",
