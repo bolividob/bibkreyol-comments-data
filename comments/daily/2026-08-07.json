@@ -1,9 +1,37 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786142642600,
+  "updatedAt": 1786143601079,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786142863509",
+      "text": "Amen",
+      "userDeviceId": "50b931d7869dce3c68c82ac80acb7f96aae956312cd92c3c11e0486019770c44",
+      "userName": "djessie",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786142865266,
+      "updatedAt": 1786142865266,
+      "status": "active"
+    },
+    {
+      "id": "local-1786142854854",
+      "text": "Merci Jesus",
+      "userDeviceId": "50b931d7869dce3c68c82ac80acb7f96aae956312cd92c3c11e0486019770c44",
+      "userName": "djessie",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786142857433,
+      "updatedAt": 1786142857433,
+      "status": "active"
+    },
     {
       "id": "local-1786133420905",
       "text": "amèn jezi",
@@ -308,9 +336,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 153,
-  "shareCount": 287,
-  "viewCount": 875,
+  "likeCount": 154,
+  "shareCount": 288,
+  "viewCount": 886,
   "verseLikedBy": [
     "0052b6f4df8aad54f95471df0db24073704c2a8c1b5bc6e0649598661c8528e3",
     "03df3e02a661820c0cd4a5029eef118a1867e13cc07a091bf9e9b6e970102a67",
@@ -449,6 +477,7 @@
     "e608d9d66a6bd50fecc2064f4b813a731a048ee1c50cd62f48b760344cca5b59",
     "e64342378de49ca0cb585f0a841916701a8dc1d741be1212bc31d4e77abbbed5",
     "e64ed924a4c49b7481888d98da6691f1e4efc6a8d67f19fcb82d67f563d6c0df",
+    "e663859ab8d0e8f59253bfccf84a15e62b9c989f575642ca8d62ff2bc69259aa",
     "e79476579ee54328a4332ddf4f3074e27ee8fcc626eafaa2321c44cb946e1cef",
     "e8eaf770774bf4436361a5ef63d12b7e9c0f73ebe2085bc08783f4b5d7d6d41e",
     "ebb8d95cdaf5049e600524dd5d4a49b1a101f08e67c253e29971b9f05ed92a1b",
