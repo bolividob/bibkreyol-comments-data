@@ -1,9 +1,23 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786075205725,
+  "updatedAt": 1786076073980,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786076072916",
+      "text": "moun kap vêtements nan se Bondye l rele.",
+      "userDeviceId": "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
+      "userName": "sr Mama",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786076073980,
+      "updatedAt": 1786076073980,
+      "status": "active"
+    },
     {
       "id": "local-1786065958180",
       "text": "tout glwa pou bondye",
@@ -91,10 +105,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 52,
-  "shareCount": 59,
-  "viewCount": 239,
+  "likeCount": 56,
+  "shareCount": 61,
+  "viewCount": 247,
   "verseLikedBy": [
+    "03df3e02a661820c0cd4a5029eef118a1867e13cc07a091bf9e9b6e970102a67",
     "05f1987aacc9b54954b6bc9aa05544674a89166092d0a884494fdd11a770556a",
     "09d62efc710e2dc38aa2ab41e60c9039a097a2fea9655d66c806c0321984aa62",
     "0ab39f8817a4940ec31c1200d25e85092312115c222f7c149a37aa6a3bee259d",
@@ -126,6 +141,7 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "92f7d8aa81e81b06f092363984d240544efa23a503179103bb4de94894509b6c",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+    "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
     "aa5135caf1f0ec857124f0d8688e40228f1ef1146d95c95a3123afd89dc66c81",
     "ac517ecd693538de5d9dd33bd3c8b30a36c108f9c396d9970a54a58085e5f1ad",
     "b17d3ef13c691d7484b410c3d8a3b9809d93375d75f835882fa9eaa583c16019",
@@ -133,6 +149,7 @@
     "bc2dc5e8053666e6c12eb303c2f4b2c4b072a88db05623138bb651b53fac7a0e",
     "c0942238f67df70a0628980249ee21d74e38d31dd9c9c51d6b4b5e47930a620e",
     "c0e1b5ba3eeb4b2edebd2a6d8236e9a0e738854a82747fcf0f379c9f68bb1495",
+    "c1dac17cabff7f6d33622f09ba1cc2067e88a6ff15c7a87a491c7d9def8d7980",
     "c2e07d24fb5b0cbd153c048483ca946b5634fdbce0b7ef2095060fdfd31ff9ef",
     "c82c2a7acd08a782c657187a2bc072e3bc8f881cb536d93967c8dff89d35d0cf",
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
@@ -144,6 +161,7 @@
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "ebb8d95cdaf5049e600524dd5d4a49b1a101f08e67c253e29971b9f05ed92a1b",
     "ed464e2a671d9ce8c9facc04690b5b1e7fc0d99edf8dd4c1531eb6b82eadc93c",
+    "ee4c47bf18f13af3b93c37a3f73b70803f63d195fccbf17afee1d51054c4c6e2",
     "ef3b2b3924e6b9ec3ad863ecc2dd85813056a809d8fdd7b57991f9c34a45e815",
     "f33c42a87d1e949d5de713ab205011dbe2d01bd80cbef854fa934ac22ef5a4ac",
     "fc4d45892851c651c542b3dd38bd588360b7e0d0b8ac90fb89383e84a2ea49ce"
