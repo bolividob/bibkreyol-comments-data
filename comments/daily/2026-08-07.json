@@ -1,12 +1,32 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786060811835,
+  "updatedAt": 1786061642143,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 54,
-  "verseLikedBy": [],
+  "comments": [
+    {
+      "id": "local-1786061451838",
+      "text": "ms pu pawòl ou senyè fè nou  kenbe pawòl yo Fon nan kè Nou BONDYE mw",
+      "userDeviceId": "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+      "userName": "pa Kitem viv san prezans u nan vim BNDYE",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece"
+      ],
+      "createdAt": 1786061453937,
+      "updatedAt": 1786061463470,
+      "status": "active"
+    }
+  ],
+  "likeCount": 2,
+  "shareCount": 2,
+  "viewCount": 67,
+  "verseLikedBy": [
+    "6d2a3565a1e3f940d9af5e5a2a8fcd3e430388adf153688e7ed8f8d093deaf09",
+    "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece"
+  ],
   "verseViewBy": []
 }
