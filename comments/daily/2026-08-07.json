@@ -1,9 +1,37 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786064403158,
+  "updatedAt": 1786065242755,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786065114151",
+      "text": "amen 🙏",
+      "userDeviceId": "4580e17f14bb51d3cc17595796f16b1243e702549c1097b80be09bec1aec5c88",
+      "userName": "Sr Nico",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786065146454,
+      "updatedAt": 1786065146454,
+      "status": "active"
+    },
+    {
+      "id": "local-1786064869519",
+      "text": "Segnè knbem nn bn chimen",
+      "userDeviceId": "1968669417ad87730600f217f4f1d75dd86168c3874d387b1027023b84136382",
+      "userName": "Pierre Ketciana",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786064871419,
+      "updatedAt": 1786064871419,
+      "status": "active"
+    },
     {
       "id": "local-1786063402071",
       "text": "Bondye papam nan tanpri tanpri mèt lavia fè nou gras svp papi Cheri 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -35,15 +63,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
-  "shareCount": 11,
-  "viewCount": 103,
+  "likeCount": 16,
+  "shareCount": 14,
+  "viewCount": 113,
   "verseLikedBy": [
     "09d62efc710e2dc38aa2ab41e60c9039a097a2fea9655d66c806c0321984aa62",
+    "1968669417ad87730600f217f4f1d75dd86168c3874d387b1027023b84136382",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "397757405eb8a695e1cea6d9f06cd1c6ce4e911e36cb7030aea6020683d176db",
     "461d8baae93545e131ca7f5800aa8da682f6a07e317daa88d0fa8b6848d94b88",
     "6d2a3565a1e3f940d9af5e5a2a8fcd3e430388adf153688e7ed8f8d093deaf09",
+    "6f9029c2a3f24aef46b89fa30a717dcf6a42abd90cd0a9efc897f0490311e4a1",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
     "ac517ecd693538de5d9dd33bd3c8b30a36c108f9c396d9970a54a58085e5f1ad",
