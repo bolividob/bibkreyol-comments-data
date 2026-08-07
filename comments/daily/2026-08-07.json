@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786120209006,
+  "updatedAt": 1786121047066,
   "version": 1,
   "comments": [
     {
@@ -15,7 +15,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1786113921030,
-      "updatedAt": 1786113921030,
+      "updatedAt": 1786120535871,
       "status": "active"
     },
     {
@@ -26,10 +26,12 @@
       "verseName": "Esdras 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f5ec61e2845d6610c3a7c3a296a1a51248a08cbd605907d4fa433c7e7771af3a"
+      ],
       "createdAt": 1786106449131,
-      "updatedAt": 1786106449131,
+      "updatedAt": 1786120551199,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "Esdras 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f5ec61e2845d6610c3a7c3a296a1a51248a08cbd605907d4fa433c7e7771af3a"
+      ],
       "createdAt": 1786105872629,
-      "updatedAt": 1786105872629,
+      "updatedAt": 1786120513646,
       "status": "active"
     },
     {
@@ -54,10 +58,12 @@
       "verseName": "Esdras 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f5ec61e2845d6610c3a7c3a296a1a51248a08cbd605907d4fa433c7e7771af3a"
+      ],
       "createdAt": 1786105667191,
-      "updatedAt": 1786105667191,
+      "updatedAt": 1786120390551,
       "status": "active"
     },
     {
@@ -82,10 +88,12 @@
       "verseName": "Esdras 5:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f5ec61e2845d6610c3a7c3a296a1a51248a08cbd605907d4fa433c7e7771af3a"
+      ],
       "createdAt": 1786088459993,
-      "updatedAt": 1786088459993,
+      "updatedAt": 1786120531428,
       "status": "active"
     },
     {
@@ -204,8 +212,8 @@
     }
   ],
   "likeCount": 127,
-  "shareCount": 232,
-  "viewCount": 651,
+  "shareCount": 233,
+  "viewCount": 660,
   "verseLikedBy": [
     "0052b6f4df8aad54f95471df0db24073704c2a8c1b5bc6e0649598661c8528e3",
     "03df3e02a661820c0cd4a5029eef118a1867e13cc07a091bf9e9b6e970102a67",
