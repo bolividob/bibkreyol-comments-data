@@ -1,9 +1,23 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786144510445,
+  "updatedAt": 1786145402044,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786114419439",
+      "text": "amén",
+      "userDeviceId": "d81cb03e077f8ac17b0026f2dfc7348920cf846954804bdc848dbe1a4f140f99",
+      "userName": "🆓 Jerry",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786145084549,
+      "updatedAt": 1786145084549,
+      "status": "active"
+    },
     {
       "id": "local-1786142863509",
       "text": "Amen",
@@ -336,11 +350,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 155,
-  "shareCount": 290,
-  "viewCount": 893,
+  "likeCount": 156,
+  "shareCount": 294,
+  "viewCount": 905,
   "verseLikedBy": [
     "0052b6f4df8aad54f95471df0db24073704c2a8c1b5bc6e0649598661c8528e3",
+    "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
     "03df3e02a661820c0cd4a5029eef118a1867e13cc07a091bf9e9b6e970102a67",
     "042ebb130b7d7663f64a4690afb551a05f9adcf9d58d51a91a813d454c20e6b8",
     "05f1987aacc9b54954b6bc9aa05544674a89166092d0a884494fdd11a770556a",
