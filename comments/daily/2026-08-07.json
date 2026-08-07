@@ -1,9 +1,23 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786131004520,
+  "updatedAt": 1786131847056,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786131268497",
+      "text": "Alelouya",
+      "userDeviceId": "da02a78686e0017803810c406e7b3b867ec192c18417979e3f5c630c63a1e7ce",
+      "userName": "Amen",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786131273876,
+      "updatedAt": 1786131273876,
+      "status": "active"
+    },
     {
       "id": "local-1786128933260",
       "text": "amèn 🙏🙏🙏",
@@ -239,9 +253,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 137,
-  "shareCount": 264,
-  "viewCount": 762,
+  "likeCount": 138,
+  "shareCount": 267,
+  "viewCount": 770,
   "verseLikedBy": [
     "0052b6f4df8aad54f95471df0db24073704c2a8c1b5bc6e0649598661c8528e3",
     "03df3e02a661820c0cd4a5029eef118a1867e13cc07a091bf9e9b6e970102a67",
@@ -360,6 +374,7 @@
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "d91b8a5e204d1bcf09753c23fbed9c92db0daa232395a4e0b69063ebf84fe224",
     "d9948270c66332d663cd10b091f35dc04e6b3589a01ccba0b5de802d44a4eb65",
+    "da02a78686e0017803810c406e7b3b867ec192c18417979e3f5c630c63a1e7ce",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
