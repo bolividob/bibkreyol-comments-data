@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786157148172,
+  "updatedAt": 1786158026067,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786157895774",
+      "text": "amen",
+      "userDeviceId": "a881e1b9c0fe2d9c1e98bf4d1822cd699e5f5eddb90a5aad0fd33599e0ce66cb",
+      "userName": "Line de Dieu",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786157899091,
+      "updatedAt": 1786157899091,
+      "status": "active"
+    },
     {
       "id": "local-1786156493998",
       "text": "j'aime beaucoup c'est vercer",
@@ -119,10 +133,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 40,
-  "viewCount": 167,
+  "likeCount": 45,
+  "shareCount": 42,
+  "viewCount": 178,
   "verseLikedBy": [
+    "11fee11ebd2704ef6e6b73bfa0352ab8cad90c022add3589a60298e409a79f7f",
     "19f92b3d9ae703ae4310d4e715672eedc98ebba1f6309c49d2ce4f0b3fd43a80",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -135,8 +150,10 @@
     "403a8e121f91367e3258a300d4b9a8a1f1b0567f0a99ea18714bf769950cd822",
     "418f8fe135edf0f65d36e7957d24252918e74c1dade25cb1fbaba51d8f0d63b0",
     "41f8f52c4a7a29801fa7fbbffd4c4f543873a9c62f9e29ca4526dd491a65d998",
+    "57ca48b29dcb184a0c8f6c393b506451adc0a71551b8aaf9e10344cbf32f55a2",
     "59885134e1c3cd261154f4af3393425ad1f81e975f6df399480f5938456eecde",
     "5e6478a5bb1aeb5aeb43c565ac3d2b02d29052440820311d646b1621c315151e",
+    "71daa58296eba8a4889d1628b69a01f719509444c2ff0ff4631043921c743dee",
     "744b8d75079ec3b83c92576fc4ecdbb368ea74dc1fe84d4b217137f5e835b253",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "88624b7a969438d712279dc893f6b6f42f4568c7bdce50202c4b5d960b10c9d2",
@@ -147,10 +164,12 @@
     "a59fa490f1ce2cacfe63c6a569c6820a264a35c058a02c164d15062dadb80036",
     "a5da966af99372f13714e7dd2f4131c15b85aaeefafe910b58bd0e9e01f511b2",
     "a695a568fad6e325ea154c690b8f58bae209e1d156807368358261871ce7e8f3",
+    "a881e1b9c0fe2d9c1e98bf4d1822cd699e5f5eddb90a5aad0fd33599e0ce66cb",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "b1d810a578de6cd298185260b6c67e5d70b4fdf7640e90e2db5af905369c272d",
     "b21b7582f65e3bb2e58304fd42ae72f74ab054229581665ce02740a5616f457c",
     "b3e3661d0987e84f9a40eb7df9277e5e151b1e6cde041ce90b5c663fcb79b4d0",
+    "b955433e05769bb8e65c56c19907197f15502a43be849d8bbb0762ea95cdcbda",
     "bd47fcc4198c3853b2f1f01fa657c9fe758541cbc277d931ebc0190ffa78c3e4",
     "c0a065e0bf1cb858bd459b049c193e5c0b5f6c00e7d47ff2f1e4c0b4192c96f6",
     "c2b318665b84c6dfc19dd629a4956bf39f81289705f862905e03405ee6e3855c",
