@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786154445731,
+  "updatedAt": 1786155240791,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786155001590",
+      "text": "tout glwa pou bondye",
+      "userDeviceId": "d07f350bb910e8736f50374734f863652ab93e9fd9b977ebe97c7cbaf2d2023e",
+      "userName": "sandra",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786155003468,
+      "updatedAt": 1786155003468,
+      "status": "active"
+    },
     {
       "id": "local-1786153857446",
       "text": "Ala ou gran jezi",
@@ -53,9 +67,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
-  "shareCount": 29,
-  "viewCount": 137,
+  "likeCount": 34,
+  "shareCount": 31,
+  "viewCount": 147,
   "verseLikedBy": [
     "19f92b3d9ae703ae4310d4e715672eedc98ebba1f6309c49d2ce4f0b3fd43a80",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -66,6 +80,7 @@
     "39da20956a233c4024419da019f101bcd342506a3fd63e9928c35922aba7c2d3",
     "3b52692d2fed04f22597a5d97aa3f5f5a8f7d737af69cc871270e0bdeaadcbb4",
     "3ca6d52429d4a409d1e02cee18be7e9af6c2a2cb1c5ed9bab421e54df34cc9dd",
+    "403a8e121f91367e3258a300d4b9a8a1f1b0567f0a99ea18714bf769950cd822",
     "418f8fe135edf0f65d36e7957d24252918e74c1dade25cb1fbaba51d8f0d63b0",
     "41f8f52c4a7a29801fa7fbbffd4c4f543873a9c62f9e29ca4526dd491a65d998",
     "59885134e1c3cd261154f4af3393425ad1f81e975f6df399480f5938456eecde",
@@ -75,15 +90,21 @@
     "88624b7a969438d712279dc893f6b6f42f4568c7bdce50202c4b5d960b10c9d2",
     "8c9e1b2708c18b448db9152a785d7b1952a850748823bca4b6e70be654e7da8e",
     "8d9cdf4e62604d12ab684ccfaf1548da77ed19eb6186d50054a2e8f6f34750f4",
+    "9988e59d4219c33da2f37428af6aae5d8ea628356b25de30f24b4a33e2408011",
+    "a22f8f8da244f1c35fe1a6713b41021840668cb883c349287dcdbbfc1cac51d9",
     "a59fa490f1ce2cacfe63c6a569c6820a264a35c058a02c164d15062dadb80036",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "b1d810a578de6cd298185260b6c67e5d70b4fdf7640e90e2db5af905369c272d",
     "b3e3661d0987e84f9a40eb7df9277e5e151b1e6cde041ce90b5c663fcb79b4d0",
     "bd47fcc4198c3853b2f1f01fa657c9fe758541cbc277d931ebc0190ffa78c3e4",
     "c0a065e0bf1cb858bd459b049c193e5c0b5f6c00e7d47ff2f1e4c0b4192c96f6",
     "c2b318665b84c6dfc19dd629a4956bf39f81289705f862905e03405ee6e3855c",
+    "d07f350bb910e8736f50374734f863652ab93e9fd9b977ebe97c7cbaf2d2023e",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
+    "e0bba4de8fc2041c6f0bae0c5fb3270483195efa8407d338cdc3958a1d89b42b",
     "ec86848798429a43d2d5a92c746e3085aceb697a6b57e2b52489ec6a1667f091",
-    "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6"
+    "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
+    "fd9a13ee0868346ec2598e0732a766c7c5408c8913e529809f30d14f3d401eee"
   ],
   "verseViewBy": []
 }
