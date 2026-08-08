@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786186848396,
+  "updatedAt": 1786187750041,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786161502818",
+      "text": "Jezu uh fidèl",
+      "userDeviceId": "ab6d2af399ef35206efdc984a9818f1347039382c0d989255df2a2e5cb7bfe64",
+      "userName": "Sr Didine",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786186862476,
+      "updatedAt": 1786186862476,
+      "status": "active"
+    },
     {
       "id": "local-1786181998418",
       "text": "Amén merci seignuer",
@@ -176,8 +190,8 @@
     }
   ],
   "likeCount": 88,
-  "shareCount": 100,
-  "viewCount": 432,
+  "shareCount": 109,
+  "viewCount": 439,
   "verseLikedBy": [
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "11fee11ebd2704ef6e6b73bfa0352ab8cad90c022add3589a60298e409a79f7f",
