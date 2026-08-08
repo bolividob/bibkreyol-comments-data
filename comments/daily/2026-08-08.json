@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786203004790,
+  "updatedAt": 1786203943695,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786203653825",
+      "text": "🥰🥰🎉",
+      "userDeviceId": "3e8a0958cc9fa891e93aed13a6bfedd3e0ff1416bda6ee10754ee83065c20ec0",
+      "userName": "délivrans mwen besoin jezi fé sa pou mwe",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786203655030,
+      "updatedAt": 1786203655030,
+      "status": "active"
+    },
     {
       "id": "local-1786199781141",
       "text": "JEZI AP RETOUNEN! KONVÈTI, REPANTI.",
@@ -245,9 +259,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 123,
-  "shareCount": 215,
-  "viewCount": 586,
+  "likeCount": 125,
+  "shareCount": 216,
+  "viewCount": 596,
   "verseLikedBy": [
     "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
     "06364ba370d3e787925497acc72751fc31c690b78d63c9408c05262430fa3540",
@@ -297,6 +311,7 @@
     "5e6478a5bb1aeb5aeb43c565ac3d2b02d29052440820311d646b1621c315151e",
     "647016cf5187d4832c87fcfc50c214e6a71ff77910da2f905eceeda865d021fe",
     "68e4904f67ce62bca77e6dab77a2e5117ec8dedea2286fe60b286a4a04fc3820",
+    "6945a80e2071561d50e857206215f2c4b1527167956625e08fd5d3eb7f52bb5f",
     "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6d358ac8a85782bdf592baf97e93cbaf174ee345c4db03ae194cba6c16abb4ec",
@@ -344,6 +359,7 @@
     "bd47fcc4198c3853b2f1f01fa657c9fe758541cbc277d931ebc0190ffa78c3e4",
     "c0a065e0bf1cb858bd459b049c193e5c0b5f6c00e7d47ff2f1e4c0b4192c96f6",
     "c10a2c63ef6a12908e29babbffc11ab41e783faacb4eca9040d7fdb5981f77b5",
+    "c1bfd4d1fe90e9d4392a4292ed63e505b366e48e3831cb822f31aabc98be1ed2",
     "c2b318665b84c6dfc19dd629a4956bf39f81289705f862905e03405ee6e3855c",
     "c3a05129d2d5e94af642049f88e0c968bffad569e95631636bfa084f4a7e89cf",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
