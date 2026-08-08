@@ -1,9 +1,23 @@
 {
   "date": "2026-08-07",
   "verseKey": "daily:2026-08-07",
-  "updatedAt": 1786146243972,
+  "updatedAt": 1786147201366,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786061364338",
+      "text": "mw VL knne sa",
+      "userDeviceId": "1b71faead0483b1e9af0809a96dd1bf058cec452040ad75cdb59558d13c95783",
+      "userName": "fridliene morilein",
+      "verseName": "Esdras 5:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786146967372,
+      "updatedAt": 1786146967372,
+      "status": "active"
+    },
     {
       "id": "local-1786114419439",
       "text": "amén",
@@ -350,9 +364,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 156,
-  "shareCount": 295,
-  "viewCount": 913,
+  "likeCount": 158,
+  "shareCount": 296,
+  "viewCount": 921,
   "verseLikedBy": [
     "0052b6f4df8aad54f95471df0db24073704c2a8c1b5bc6e0649598661c8528e3",
     "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
@@ -405,9 +419,11 @@
     "537045628aca0d36c5136547f2df04792091591605903f6750cbd9d197b2f62b",
     "547f906dad3d9db61d8e0d48e3c808c986a9753cf92e0a22321fac0ab0e475a2",
     "57fc8d6f26a24a202f27396e213e802ea52e8dcdf833d921719008f8b52fda6b",
+    "59644ce7b2de12d78fedd7e8d276e295b6f20b7bef86b6c8facafb7544e7bba8",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
     "5c531911ffdff9e9f6d5cf4535090127188ecd623e1073905960284364802798",
     "5d04b0bed72b1ecd1b78b980b8b3a2fc8db0ad038ff230e08c71767338e074fb",
+    "5d6076218724d38f064a061cae896060b617671b7c34ecf58e31ac832b177297",
     "5f6c61baa40481793987687cd3e8057b43da5024168c43609b87549b16a06a98",
     "61a7993159413fec2b19ad181d5804f4af6da8a9f30f6e827e71f4428dcb8b14",
     "63311e76ea7e16e82f75b985b4f81c745fcf1f191883a7877d403b28bcce82c9",
