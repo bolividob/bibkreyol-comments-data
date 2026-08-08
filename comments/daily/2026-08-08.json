@@ -1,9 +1,41 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786156200894,
+  "updatedAt": 1786157148172,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786156493998",
+      "text": "j'aime beaucoup c'est vercer",
+      "userDeviceId": "a695a568fad6e325ea154c690b8f58bae209e1d156807368358261871ce7e8f3",
+      "userName": "j'aime beaucoup c'est vercer",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "a695a568fad6e325ea154c690b8f58bae209e1d156807368358261871ce7e8f3"
+      ],
+      "createdAt": 1786156496208,
+      "updatedAt": 1786156510922,
+      "status": "active"
+    },
+    {
+      "id": "local-1786156423023",
+      "text": "mon roi",
+      "userDeviceId": "a695a568fad6e325ea154c690b8f58bae209e1d156807368358261871ce7e8f3",
+      "userName": "j'aime beaucoup c'est vercer",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "a695a568fad6e325ea154c690b8f58bae209e1d156807368358261871ce7e8f3"
+      ],
+      "createdAt": 1786156425171,
+      "updatedAt": 1786156509587,
+      "status": "active"
+    },
     {
       "id": "local-1786155946951",
       "text": "Merci seigneur pour ta grace infinit",
@@ -12,10 +44,12 @@
       "verseName": "Estè 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "11fee11ebd2704ef6e6b73bfa0352ab8cad90c022add3589a60298e409a79f7f"
+      ],
       "createdAt": 1786155949516,
-      "updatedAt": 1786155949516,
+      "updatedAt": 1786157136491,
       "status": "active"
     },
     {
@@ -26,10 +60,12 @@
       "verseName": "Estè 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "11fee11ebd2704ef6e6b73bfa0352ab8cad90c022add3589a60298e409a79f7f"
+      ],
       "createdAt": 1786155003468,
-      "updatedAt": 1786155003468,
+      "updatedAt": 1786157135818,
       "status": "active"
     },
     {
@@ -40,12 +76,13 @@
       "verseName": "Estè 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "11fee11ebd2704ef6e6b73bfa0352ab8cad90c022add3589a60298e409a79f7f",
         "19f92b3d9ae703ae4310d4e715672eedc98ebba1f6309c49d2ce4f0b3fd43a80"
       ],
       "createdAt": 1786153859778,
-      "updatedAt": 1786153873550,
+      "updatedAt": 1786157133052,
       "status": "active"
     },
     {
@@ -56,12 +93,13 @@
       "verseName": "Estè 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "11fee11ebd2704ef6e6b73bfa0352ab8cad90c022add3589a60298e409a79f7f",
         "19f92b3d9ae703ae4310d4e715672eedc98ebba1f6309c49d2ce4f0b3fd43a80"
       ],
       "createdAt": 1786152953634,
-      "updatedAt": 1786153871822,
+      "updatedAt": 1786157129317,
       "status": "active"
     },
     {
@@ -77,13 +115,13 @@
         "19f92b3d9ae703ae4310d4e715672eedc98ebba1f6309c49d2ce4f0b3fd43a80"
       ],
       "createdAt": 1786150033815,
-      "updatedAt": 1786153873265,
+      "updatedAt": 1786157144269,
       "status": "active"
     }
   ],
-  "likeCount": 37,
-  "shareCount": 37,
-  "viewCount": 157,
+  "likeCount": 40,
+  "shareCount": 40,
+  "viewCount": 167,
   "verseLikedBy": [
     "19f92b3d9ae703ae4310d4e715672eedc98ebba1f6309c49d2ce4f0b3fd43a80",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -107,6 +145,8 @@
     "9988e59d4219c33da2f37428af6aae5d8ea628356b25de30f24b4a33e2408011",
     "a22f8f8da244f1c35fe1a6713b41021840668cb883c349287dcdbbfc1cac51d9",
     "a59fa490f1ce2cacfe63c6a569c6820a264a35c058a02c164d15062dadb80036",
+    "a5da966af99372f13714e7dd2f4131c15b85aaeefafe910b58bd0e9e01f511b2",
+    "a695a568fad6e325ea154c690b8f58bae209e1d156807368358261871ce7e8f3",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "b1d810a578de6cd298185260b6c67e5d70b4fdf7640e90e2db5af905369c272d",
     "b21b7582f65e3bb2e58304fd42ae72f74ab054229581665ce02740a5616f457c",
@@ -120,6 +160,7 @@
     "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "ec86848798429a43d2d5a92c746e3085aceb697a6b57e2b52489ec6a1667f091",
     "eee025162893af52d4247b2e50378794f9cb724bf0b729d5dae66ef7c6356f15",
+    "ef45bf03f1c0889e9b5754b86811250d012895bcc4e1bab23a1008bbb5f061c9",
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
     "fd9a13ee0868346ec2598e0732a766c7c5408c8913e529809f30d14f3d401eee"
   ],
