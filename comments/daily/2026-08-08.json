@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786194002444,
+  "updatedAt": 1786194843349,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786194088390",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786194089266,
+      "updatedAt": 1786194089266,
+      "status": "active"
+    },
     {
       "id": "local-1786161502818",
       "text": "Jezu uh fidèl",
@@ -189,10 +203,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 105,
-  "shareCount": 184,
-  "viewCount": 499,
+  "likeCount": 107,
+  "shareCount": 189,
+  "viewCount": 509,
   "verseLikedBy": [
+    "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
     "10c897806ba4aad019933a30821e34c8e0c7fd9336db924275e3554f7638f796",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "11fee11ebd2704ef6e6b73bfa0352ab8cad90c022add3589a60298e409a79f7f",
@@ -234,6 +249,7 @@
     "5e6478a5bb1aeb5aeb43c565ac3d2b02d29052440820311d646b1621c315151e",
     "68e4904f67ce62bca77e6dab77a2e5117ec8dedea2286fe60b286a4a04fc3820",
     "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6d358ac8a85782bdf592baf97e93cbaf174ee345c4db03ae194cba6c16abb4ec",
     "707541112194e1b9de42ff425b4f0356d0f0415b005c47f87ec9dc93ed1a2d5f",
     "71daa58296eba8a4889d1628b69a01f719509444c2ff0ff4631043921c743dee",
