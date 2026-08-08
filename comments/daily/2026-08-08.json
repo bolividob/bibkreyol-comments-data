@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786155240791,
+  "updatedAt": 1786156200894,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786155946951",
+      "text": "Merci seigneur pour ta grace infinit",
+      "userDeviceId": "b21b7582f65e3bb2e58304fd42ae72f74ab054229581665ce02740a5616f457c",
+      "userName": "KSl",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786155949516,
+      "updatedAt": 1786155949516,
+      "status": "active"
+    },
     {
       "id": "local-1786155001590",
       "text": "tout glwa pou bondye",
@@ -67,9 +81,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
-  "shareCount": 31,
-  "viewCount": 147,
+  "likeCount": 37,
+  "shareCount": 37,
+  "viewCount": 157,
   "verseLikedBy": [
     "19f92b3d9ae703ae4310d4e715672eedc98ebba1f6309c49d2ce4f0b3fd43a80",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -95,6 +109,7 @@
     "a59fa490f1ce2cacfe63c6a569c6820a264a35c058a02c164d15062dadb80036",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "b1d810a578de6cd298185260b6c67e5d70b4fdf7640e90e2db5af905369c272d",
+    "b21b7582f65e3bb2e58304fd42ae72f74ab054229581665ce02740a5616f457c",
     "b3e3661d0987e84f9a40eb7df9277e5e151b1e6cde041ce90b5c663fcb79b4d0",
     "bd47fcc4198c3853b2f1f01fa657c9fe758541cbc277d931ebc0190ffa78c3e4",
     "c0a065e0bf1cb858bd459b049c193e5c0b5f6c00e7d47ff2f1e4c0b4192c96f6",
@@ -102,7 +117,9 @@
     "d07f350bb910e8736f50374734f863652ab93e9fd9b977ebe97c7cbaf2d2023e",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
     "e0bba4de8fc2041c6f0bae0c5fb3270483195efa8407d338cdc3958a1d89b42b",
+    "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "ec86848798429a43d2d5a92c746e3085aceb697a6b57e2b52489ec6a1667f091",
+    "eee025162893af52d4247b2e50378794f9cb724bf0b729d5dae66ef7c6356f15",
     "f7b957c78ff458b72f4467cc679c1700eabd3e1ae32d1be4d78f907a6bf3c9f6",
     "fd9a13ee0868346ec2598e0732a766c7c5408c8913e529809f30d14f3d401eee"
   ],
