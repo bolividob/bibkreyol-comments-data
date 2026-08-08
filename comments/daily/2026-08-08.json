@@ -1,9 +1,37 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786194843349,
+  "updatedAt": 1786195803949,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786195522516",
+      "text": "Jésus-Christ est vivant.",
+      "userDeviceId": "647016cf5187d4832c87fcfc50c214e6a71ff77910da2f905eceeda865d021fe",
+      "userName": "éducateur spécialisé 😎",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786195524941,
+      "updatedAt": 1786195524941,
+      "status": "active"
+    },
+    {
+      "id": "local-1786195475176",
+      "text": "Dieu est vivant.",
+      "userDeviceId": "647016cf5187d4832c87fcfc50c214e6a71ff77910da2f905eceeda865d021fe",
+      "userName": "éducateur spécialisé 😎",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786195477637,
+      "updatedAt": 1786195477637,
+      "status": "active"
+    },
     {
       "id": "local-1786194088390",
       "text": "Amén 🙏🙏🙏",
@@ -203,9 +231,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 107,
-  "shareCount": 189,
-  "viewCount": 509,
+  "likeCount": 109,
+  "shareCount": 190,
+  "viewCount": 517,
   "verseLikedBy": [
     "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
     "10c897806ba4aad019933a30821e34c8e0c7fd9336db924275e3554f7638f796",
@@ -247,6 +275,7 @@
     "59885134e1c3cd261154f4af3393425ad1f81e975f6df399480f5938456eecde",
     "5c25dae3d20b9a85f995abab09b5d8e466854bb5f187b843a0ece9a0219c078d",
     "5e6478a5bb1aeb5aeb43c565ac3d2b02d29052440820311d646b1621c315151e",
+    "647016cf5187d4832c87fcfc50c214e6a71ff77910da2f905eceeda865d021fe",
     "68e4904f67ce62bca77e6dab77a2e5117ec8dedea2286fe60b286a4a04fc3820",
     "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
@@ -300,6 +329,7 @@
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
     "d3bc63ea35f7be120ba748d1b724b4f57f54f6b30e630860d8dd62457b365ec8",
     "d576dce882e6da93aa52635ea53e82c930a5e27c629ae24b12ac7b595502acf1",
+    "d7a435bd0a22de980176fb542e92464ac8f01510609c9db5451067c530d8453b",
     "d9593a3a0603468b6eadb9af4aa0c70e0dd176a07f9db858ee59e7a558c68ff5",
     "da862e583680320e2dfb23349857f861a558c875260cf53b6f97335f232a993f",
     "dd7e453d217008f7b75a73c1fc22c5bdf24f874c1ad0fa252e5cc9db4fea7ee8",
