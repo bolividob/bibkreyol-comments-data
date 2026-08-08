@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786206603283,
+  "updatedAt": 1786207441854,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786207260563",
+      "text": "ke bondye fém yon esté",
+      "userDeviceId": "6bb75f2dec561abed7788efffc1d756edd7078208258852a77f767926c0cda0b",
+      "userName": "periana",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786207397940,
+      "updatedAt": 1786207397940,
+      "status": "active"
+    },
     {
       "id": "local-1786203653825",
       "text": "🥰🥰🎉",
@@ -259,9 +273,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 129,
+  "likeCount": 131,
   "shareCount": 223,
-  "viewCount": 620,
+  "viewCount": 627,
   "verseLikedBy": [
     "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
     "06364ba370d3e787925497acc72751fc31c690b78d63c9408c05262430fa3540",
@@ -302,6 +316,7 @@
     "4268a91af2142d0e0590df3a070ef98262fa31025a937b39eae1dcc0fec0d23e",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "44db34f1fa317d7d0039f5625f0e7dbecae25ae7581bdc95766c8ee742138d1b",
+    "486b1b487fea0850e1a2abaaa8f99b95921a7bf16f34ad45763fef4271d5036e",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4ff755aa3ed202d5d7bfbc723357d893e5f0962830fcd47ee5cb869303be502a",
     "53c5b846e4c475d34598853371141e873db1175c06067e9f6b2fccd50f053956",
@@ -315,6 +330,7 @@
     "68e4904f67ce62bca77e6dab77a2e5117ec8dedea2286fe60b286a4a04fc3820",
     "6945a80e2071561d50e857206215f2c4b1527167956625e08fd5d3eb7f52bb5f",
     "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
+    "6bb75f2dec561abed7788efffc1d756edd7078208258852a77f767926c0cda0b",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6d358ac8a85782bdf592baf97e93cbaf174ee345c4db03ae194cba6c16abb4ec",
     "707541112194e1b9de42ff425b4f0356d0f0415b005c47f87ec9dc93ed1a2d5f",
