@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786221006883,
+  "updatedAt": 1786221941306,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786221582804",
+      "text": "Bondye papa merci Oui",
+      "userDeviceId": "425d643ea6b1f12236286242e1e386163f4b37a90c7f51b1e769ad1ca78c1aa9",
+      "userName": "sisi",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786221585735,
+      "updatedAt": 1786221585735,
+      "status": "active"
+    },
     {
       "id": "local-1786207260563",
       "text": "ke bondye fém yon esté",
@@ -275,9 +289,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 140,
-  "shareCount": 239,
-  "viewCount": 749,
+  "likeCount": 141,
+  "shareCount": 242,
+  "viewCount": 756,
   "verseLikedBy": [
     "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
     "06364ba370d3e787925497acc72751fc31c690b78d63c9408c05262430fa3540",
@@ -317,6 +331,7 @@
     "404fc153e4daa0fe743ec56dd5d1802330fb0a6b47cc8c2828626c10e56d8cb9",
     "418f8fe135edf0f65d36e7957d24252918e74c1dade25cb1fbaba51d8f0d63b0",
     "41f8f52c4a7a29801fa7fbbffd4c4f543873a9c62f9e29ca4526dd491a65d998",
+    "425d643ea6b1f12236286242e1e386163f4b37a90c7f51b1e769ad1ca78c1aa9",
     "4268a91af2142d0e0590df3a070ef98262fa31025a937b39eae1dcc0fec0d23e",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "44db34f1fa317d7d0039f5625f0e7dbecae25ae7581bdc95766c8ee742138d1b",
