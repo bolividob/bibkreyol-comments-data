@@ -1,16 +1,35 @@
 {
   "date": "2026-08-09",
   "verseKey": "daily:2026-08-09",
-  "updatedAt": 1786236243376,
+  "updatedAt": 1786237202040,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
-  "shareCount": 11,
-  "viewCount": 64,
+  "comments": [
+    {
+      "id": "local-1786237187941",
+      "text": "🙏🏼🙏🏼🙏🏼🙏🏼💓💓🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Nòm 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786237189219,
+      "updatedAt": 1786237189219,
+      "status": "active"
+    }
+  ],
+  "likeCount": 8,
+  "shareCount": 14,
+  "viewCount": 74,
   "verseLikedBy": [
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
+    "7064f004780a78e079e99b266529862418bf04cd5968ce7093b933c192a6f179",
+    "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
+    "c2e07d24fb5b0cbd153c048483ca946b5634fdbce0b7ef2095060fdfd31ff9ef",
     "dacdd3ef120df4ddabd2583197d2f7297c4ccc93246700acc410763dd9dc5c01"
   ],
   "verseViewBy": []
