@@ -1,9 +1,23 @@
 {
   "date": "2026-08-09",
   "verseKey": "daily:2026-08-09",
-  "updatedAt": 1786277640971,
+  "updatedAt": 1786278618808,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786274428779",
+      "text": "🙏🙏",
+      "userDeviceId": "e17570f2071572ad22f85361fd6728e7ac1835252f7ae0b3791e51dafd2e4c69",
+      "userName": "Sœur Dieunie",
+      "verseName": "Nòm 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786278373573,
+      "updatedAt": 1786278373573,
+      "status": "active"
+    },
     {
       "id": "local-1786277188387",
       "text": "🙏🙏🙏🙏🙏🙏🙏",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 83,
-  "shareCount": 111,
-  "viewCount": 454,
+  "likeCount": 85,
+  "shareCount": 124,
+  "viewCount": 464,
   "verseLikedBy": [
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
     "09b1531638d93df7787bb3ab342fbecd1b822b4a083feaccb4ec52273d760ea3",
@@ -185,6 +199,7 @@
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "7f69dcd754eeda6a4aee65f10493d9ce00a594dec6a6713630f64a596c3ce4c5",
     "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+    "84aab292d399ea30b3880a599bd5c3005debdacc202f86be8920b7aea91ad8f2",
     "86aefbe8ad141713eccb579c37aec277e4d776b826cad238e484233a9bb0f8d5",
     "879fdd70b8e47a5cc5fccdbc0438e85f462ee578071f77a331cb27b24d04a640",
     "893e0fe88db79b4aae627cd841fb4827f1ec300de606521010705f3bb9a7a470",
@@ -215,6 +230,7 @@
     "d11fc96be92bd5c282d75d2b76d610a263c43bc9f5f143ffc683ff882ba751fe",
     "d1c2d3977aebe22d6514dd0b72450338e9a85cf25b3ab56ee882f7bfeeb6ac18",
     "d289c870f842b77068f5e5c39bd23e6d0496ee3ff97a62d70e45c97695ed30f4",
+    "d2e9dc77ef139cdb97a3bd0c2abdee3bcd6d5eee1dcec704a2387bb474514500",
     "d5c6c460b09668370797c4c602b22771edef177b2178f7463fae5b93e20c8cc0",
     "d98efa3fd0d16c809d1bf8130937ccb36529f5aab4f1858f74abc3464ffe90ff",
     "dacdd3ef120df4ddabd2583197d2f7297c4ccc93246700acc410763dd9dc5c01",
