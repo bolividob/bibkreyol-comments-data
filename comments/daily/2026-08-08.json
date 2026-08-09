@@ -1,9 +1,23 @@
 {
   "date": "2026-08-08",
   "verseKey": "daily:2026-08-08",
-  "updatedAt": 1786232648887,
+  "updatedAt": 1786233601483,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786233250851",
+      "text": "amén amén amén 🙏🙏🙏",
+      "userDeviceId": "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
+      "userName": "amén amén amén 🙏🙏🙏",
+      "verseName": "Estè 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786233251464,
+      "updatedAt": 1786233251464,
+      "status": "active"
+    },
     {
       "id": "local-1786221582804",
       "text": "Bondye papa merci Oui",
@@ -292,12 +306,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 147,
-  "shareCount": 260,
-  "viewCount": 855,
+  "likeCount": 149,
+  "shareCount": 261,
+  "viewCount": 865,
   "verseLikedBy": [
     "02c659781f57cf146df9c2c704a68b1befd9df8d84e5727df59dbab1fa091d73",
     "06364ba370d3e787925497acc72751fc31c690b78d63c9408c05262430fa3540",
+    "067d9f8ab5a6f307ab8b19f6e62c41d5fb4eb8e436333cdfc7f2a06bdce2929b",
     "107d21a07b84f6bb1ed36827a3633c4837fc1f2c0f2d2e0898397498197297b3",
     "10885ed76b6f5a5068c23def5297e9500a6c3c760559703ff0ce5980a1dd9cbf",
     "10c897806ba4aad019933a30821e34c8e0c7fd9336db924275e3554f7638f796",
@@ -339,6 +354,7 @@
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "44db34f1fa317d7d0039f5625f0e7dbecae25ae7581bdc95766c8ee742138d1b",
     "486b1b487fea0850e1a2abaaa8f99b95921a7bf16f34ad45763fef4271d5036e",
+    "4c2b87b31bd51bad4722d69feb6d3444821f97dfb249f8041985dc19d06c663e",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4ff755aa3ed202d5d7bfbc723357d893e5f0962830fcd47ee5cb869303be502a",
     "53c5b846e4c475d34598853371141e873db1175c06067e9f6b2fccd50f053956",
