@@ -1,9 +1,23 @@
 {
   "date": "2026-08-09",
   "verseKey": "daily:2026-08-09",
-  "updatedAt": 1786246202503,
+  "updatedAt": 1786247080244,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786246516901",
+      "text": "Amén Amén 🙏🙏🙏🤝🤝🤝",
+      "userDeviceId": "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
+      "userName": "Amén Amén",
+      "verseName": "Nòm 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786246519079,
+      "updatedAt": 1786246519079,
+      "status": "active"
+    },
     {
       "id": "local-1786240198983",
       "text": "Konami vi sove a ye yo di a",
@@ -33,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
-  "shareCount": 31,
-  "viewCount": 167,
+  "likeCount": 33,
+  "shareCount": 33,
+  "viewCount": 176,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -51,6 +65,7 @@
     "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
     "7518d74bf77ea00cb94e03240c76009c161aeeb11c8f01e2dccd1e247e645921",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "847f7b7c0c3f9ba14583608b0fb73842e1c6fecbacc66284c230f938527fd3fe",
     "910e389d6c99f9ab49c290a4adcfbff7e9ffb461a73e2cc9df85a74875b8271d",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a3e9794521d11093ffdfcbc0735ea01d4324c3fb54cb300b9bde75dce2605d01",
@@ -62,11 +77,13 @@
     "d1c2d3977aebe22d6514dd0b72450338e9a85cf25b3ab56ee882f7bfeeb6ac18",
     "d98efa3fd0d16c809d1bf8130937ccb36529f5aab4f1858f74abc3464ffe90ff",
     "dacdd3ef120df4ddabd2583197d2f7297c4ccc93246700acc410763dd9dc5c01",
+    "dce6990c71203be2e157420932696ca948d0c0a6fdb98ee96e0af6d2fcc1fb5f",
     "ddfe742e505b081b5cd720592028f647eb130ab9a6061c262ba258179c129ef6",
     "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "f0c0f31147ee6f5e62a9306091bff3497d2269d263940fb05c61c0f4ce778e64",
-    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b"
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "fe10d377dc17f594501470adbb64e846633467bc89f7d0cc22ab6903272c4c91"
   ],
   "verseViewBy": []
 }
