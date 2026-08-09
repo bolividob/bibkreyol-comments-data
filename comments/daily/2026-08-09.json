@@ -1,9 +1,23 @@
 {
   "date": "2026-08-09",
   "verseKey": "daily:2026-08-09",
-  "updatedAt": 1786292049739,
+  "updatedAt": 1786293001478,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786278343262",
+      "text": "amén amén",
+      "userDeviceId": "29aa446118125ed7b096fc7eb719eb580aae901d6159a4af4a61cff7a04c2eb3",
+      "userName": "Genèse Senat",
+      "verseName": "Egzòd 4:8",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786292608628,
+      "updatedAt": 1786292608628,
+      "status": "active"
+    },
     {
       "id": "local-1786286122764",
       "text": "je suis Serviteur de l'Éternel notre dieu et sa vie en sa main",
@@ -287,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 137,
+  "likeCount": 138,
   "shareCount": 199,
-  "viewCount": 626,
+  "viewCount": 635,
   "verseLikedBy": [
     "02a2343f28aa92f093ba1799fbf5fb344c5c7627b93ca00d9a3b85b8d86d48f0",
     "09417cd10bab24f6a00fbdfde212dc9492c57a52c154ff10ecbd01884475aa5e",
@@ -350,6 +364,7 @@
     "7518d74bf77ea00cb94e03240c76009c161aeeb11c8f01e2dccd1e247e645921",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
+    "7d92956f372948a1e550df171991e9c607ee488f8e2878bf4776751bca71e8b1",
     "7f69dcd754eeda6a4aee65f10493d9ce00a594dec6a6713630f64a596c3ce4c5",
     "81b55fd6064244b581159c97e85ab41c73fe67f682f49481c227d4178a67d82f",
     "836d1d1b6fbea7da891df2c7e696bb6780f05bbebfb9109fc0eab879b2de7877",
