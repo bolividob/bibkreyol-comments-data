@@ -1,9 +1,23 @@
 {
   "date": "2026-08-09",
   "verseKey": "daily:2026-08-09",
-  "updatedAt": 1786239841445,
+  "updatedAt": 1786240804898,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786240198983",
+      "text": "Konami vi sove a ye yo di a",
+      "userDeviceId": "cbdf295f4aa68593947c3abec4e27e200441e987675b8615a0337b0119bbcdc7",
+      "userName": "vbib krèol",
+      "verseName": "Nòm 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786240246789,
+      "updatedAt": 1786240246789,
+      "status": "active"
+    },
     {
       "id": "local-1786237187941",
       "text": "🙏🏼🙏🏼🙏🏼🙏🏼💓💓🙏🏼",
@@ -19,13 +33,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 16,
-  "viewCount": 100,
+  "likeCount": 15,
+  "shareCount": 17,
+  "viewCount": 110,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
+    "34bb9b1d4f5b1012324ce13e32b6545f467398e53441134a3d0307d983293734",
     "404b2f0eddd279d7803cfa6dc3c444136cf850efb7f7a5893e23728dbf4608d8",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
     "7064f004780a78e079e99b266529862418bf04cd5968ce7093b933c192a6f179",
@@ -34,7 +49,9 @@
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "c2e07d24fb5b0cbd153c048483ca946b5634fdbce0b7ef2095060fdfd31ff9ef",
     "d98efa3fd0d16c809d1bf8130937ccb36529f5aab4f1858f74abc3464ffe90ff",
-    "dacdd3ef120df4ddabd2583197d2f7297c4ccc93246700acc410763dd9dc5c01"
+    "dacdd3ef120df4ddabd2583197d2f7297c4ccc93246700acc410763dd9dc5c01",
+    "ddfe742e505b081b5cd720592028f647eb130ab9a6061c262ba258179c129ef6",
+    "f0c0f31147ee6f5e62a9306091bff3497d2269d263940fb05c61c0f4ce778e64"
   ],
   "verseViewBy": []
 }
