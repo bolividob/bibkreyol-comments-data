@@ -1,9 +1,23 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786404602709,
+  "updatedAt": 1786405447642,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786404755161",
+      "text": "jenèz",
+      "userDeviceId": "497758239d3cd297170fb23d08347df8ff4182c11b6c67359cc2f7d7ee814573",
+      "userName": "sesy",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786404756458,
+      "updatedAt": 1786404756458,
+      "status": "active"
+    },
     {
       "id": "local-1786397115542",
       "text": "GLWA POU JEZI, LI MENM SEL KI WA!",
@@ -310,8 +324,8 @@
     }
   ],
   "likeCount": 157,
-  "shareCount": 535,
-  "viewCount": 840,
+  "shareCount": 536,
+  "viewCount": 848,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "081fe162b99ffa7ce77fa19c68d18695808609a220eb948aeedb5419ad47beac",
