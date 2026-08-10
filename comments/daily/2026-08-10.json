@@ -1,9 +1,23 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786323623606,
+  "updatedAt": 1786324442183,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786324104222",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786324105445,
+      "updatedAt": 1786324105445,
+      "status": "active"
+    },
     {
       "id": "local-1786323570330",
       "text": "Bondye papam nan tanpri tanpri mèt lavia fè nou gras svp bb",
@@ -40,10 +54,12 @@
       "verseName": "Nòm 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "92b21a96e1fcd79a58c861d18e94f4663d1f27eaa1df91039d47d59e22d60eb6"
+      ],
       "createdAt": 1786320168667,
-      "updatedAt": 1786320168667,
+      "updatedAt": 1786324050675,
       "status": "active"
     },
     {
@@ -75,13 +91,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 8,
-  "shareCount": 13,
-  "viewCount": 98,
+  "likeCount": 12,
+  "shareCount": 17,
+  "viewCount": 107,
   "verseLikedBy": [
     "19c44af63e216a855998202253219f35ffcddad6431ef02aa6d2d72d3f409d64",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
+    "92b21a96e1fcd79a58c861d18e94f4663d1f27eaa1df91039d47d59e22d60eb6",
+    "9ad1c8bbd90d57e1f9b27d05e7d2141a8e7e5a9ab8f85957e9f78ed9f2dd5562",
+    "a2fa5abcc3826f8cbc3cf952f70743bc29e6c2c00c36abd7faf0ae584801b184",
     "ac1140f67c8a9a39dd2097ce595917c4212b079990e5d29f2ead3c2fb9842c80",
     "ae28717012a4727794c03c9b0f4ad22a75881444bdfaf27109e93d0c6780ffa1",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
