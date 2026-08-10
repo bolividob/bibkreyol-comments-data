@@ -1,9 +1,23 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786364043340,
+  "updatedAt": 1786365004977,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786364584392",
+      "text": "amen",
+      "userDeviceId": "0f45ed78d0f24c65c331eef52d1d5b10b9280bac842db3d96435ce8bc35dd454",
+      "userName": "Amen",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786364586941,
+      "updatedAt": 1786364586941,
+      "status": "active"
+    },
     {
       "id": "local-1786354723980",
       "text": "Amén",
@@ -177,9 +191,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 91,
-  "shareCount": 169,
-  "viewCount": 463,
+  "likeCount": 94,
+  "shareCount": 175,
+  "viewCount": 473,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "081fe162b99ffa7ce77fa19c68d18695808609a220eb948aeedb5419ad47beac",
@@ -187,6 +201,7 @@
     "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
     "0e110535110ea26c218382da454c5050032fc0f7bef77351f9d3f73aaef10e57",
     "0f3ed3de5be611604c2ea8fd45d8497ad682dbc1249e0160739e77eb74de94b4",
+    "0f45ed78d0f24c65c331eef52d1d5b10b9280bac842db3d96435ce8bc35dd454",
     "163e724cdf7b35f14b323cb8481e9962018a3de4e66e9fa5b83330be4ded4614",
     "19c44af63e216a855998202253219f35ffcddad6431ef02aa6d2d72d3f409d64",
     "19f2074989a96f5a04418fc3a8258cd77d55800e643cb310cf1a241ab2c30b66",
@@ -261,8 +276,10 @@
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e2d3448438472ed65a183c0d1b3ce0a72913aa529db5cdf48c7c810d56786344",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "ea03d1b16e95447c799a193a845445d388a241d6ab67ee5499f084f036420447",
     "edb8187e6aa3c46554f8696e8897c52afdc65ed050f71922b65bb6aacc8efbb1",
     "ee41749bd198bd99fadb94589a4f0623772ecf492c9b677177a280b605e6c8cb",
+    "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
     "f09d10fddb980b6da9f811f0390f22383b3fcc7163e3cef2d9499105f2b9a425",
     "f3563e871aa4bd885c2eef3c5451771f0cb57afb49c942ad2bb80fffbe7a808c",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
