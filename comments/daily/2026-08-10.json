@@ -1,9 +1,25 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786338008530,
+  "updatedAt": 1786338845117,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786338467810",
+      "text": "senye se nan ou menm mw kwer wi se ou map rele",
+      "userDeviceId": "92e5240617daeaae01e472e68a1351ea99708b39cf8832365dff7c06f9045203",
+      "userName": "saintilus Tilor",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "92e5240617daeaae01e472e68a1351ea99708b39cf8832365dff7c06f9045203"
+      ],
+      "createdAt": 1786338468773,
+      "updatedAt": 1786338502310,
+      "status": "active"
+    },
     {
       "id": "local-1786338007416",
       "text": "Amen",
@@ -133,9 +149,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 61,
-  "shareCount": 64,
-  "viewCount": 234,
+  "likeCount": 63,
+  "shareCount": 65,
+  "viewCount": 241,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
@@ -170,6 +186,7 @@
     "89a275a707a78131a35517fdfe1dd774b04a33e1eae0d4c4543624b173fe03dd",
     "8c9e1b2708c18b448db9152a785d7b1952a850748823bca4b6e70be654e7da8e",
     "92b21a96e1fcd79a58c861d18e94f4663d1f27eaa1df91039d47d59e22d60eb6",
+    "92e5240617daeaae01e472e68a1351ea99708b39cf8832365dff7c06f9045203",
     "9ad1c8bbd90d57e1f9b27d05e7d2141a8e7e5a9ab8f85957e9f78ed9f2dd5562",
     "a2fa5abcc3826f8cbc3cf952f70743bc29e6c2c00c36abd7faf0ae584801b184",
     "a3c33d4ada8978ef2f07f47153ec388c56c4ffe89575bafb25a9db3534d6e5f1",
@@ -190,6 +207,7 @@
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e2d3448438472ed65a183c0d1b3ce0a72913aa529db5cdf48c7c810d56786344",
     "edb8187e6aa3c46554f8696e8897c52afdc65ed050f71922b65bb6aacc8efbb1",
+    "ee41749bd198bd99fadb94589a4f0623772ecf492c9b677177a280b605e6c8cb",
     "f09d10fddb980b6da9f811f0390f22383b3fcc7163e3cef2d9499105f2b9a425",
     "f3563e871aa4bd885c2eef3c5451771f0cb57afb49c942ad2bb80fffbe7a808c",
     "f50ae6385df9688aa574cc2965e0c130d6bf31db986573f2e497d05f54930ee1",
