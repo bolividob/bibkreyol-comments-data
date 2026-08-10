@@ -1,9 +1,25 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786393816129,
+  "updatedAt": 1786394654526,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786393883268",
+      "text": "jezi hooooo hmm edem nan bagay sa",
+      "userDeviceId": "e64342378de49ca0cb585f0a841916701a8dc1d741be1212bc31d4e77abbbed5",
+      "userName": "dialineda",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "e64342378de49ca0cb585f0a841916701a8dc1d741be1212bc31d4e77abbbed5"
+      ],
+      "createdAt": 1786393885271,
+      "updatedAt": 1786393893455,
+      "status": "active"
+    },
     {
       "id": "local-1786378776440",
       "text": "jezu se sous lavi mwen",
@@ -42,10 +58,12 @@
       "verseName": "Tit 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a91af3018c839bc2f74b791c3a139927452e874138c2438ee04cf58612c7264a"
+      ],
       "createdAt": 1786368224738,
-      "updatedAt": 1786368224738,
+      "updatedAt": 1786394583949,
       "status": "active"
     },
     {
@@ -278,8 +296,8 @@
     }
   ],
   "likeCount": 146,
-  "shareCount": 513,
-  "viewCount": 735,
+  "shareCount": 523,
+  "viewCount": 742,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "081fe162b99ffa7ce77fa19c68d18695808609a220eb948aeedb5419ad47beac",
