@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786392850782,
+  "updatedAt": 1786393816129,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Tit 3:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6d67ddcd2cff71e9b6230e038100be2c6c5996756ce30f39f6e0ebfcda0537ba"
+      ],
       "createdAt": 1786378782072,
-      "updatedAt": 1786378782072,
+      "updatedAt": 1786393367487,
       "status": "active"
     },
     {
@@ -275,9 +277,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 144,
-  "shareCount": 511,
-  "viewCount": 727,
+  "likeCount": 146,
+  "shareCount": 513,
+  "viewCount": 735,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "081fe162b99ffa7ce77fa19c68d18695808609a220eb948aeedb5419ad47beac",
@@ -336,6 +338,7 @@
     "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6d2a3565a1e3f940d9af5e5a2a8fcd3e430388adf153688e7ed8f8d093deaf09",
+    "6d67ddcd2cff71e9b6230e038100be2c6c5996756ce30f39f6e0ebfcda0537ba",
     "6f94d893362714a9f5c979d7cb411085a7b8ef51cf03c1356c980a7dc2f37231",
     "73bc6f790da62ddf78d3c5395371acc6860f3e963f924300c0af5e414cfb5c5e",
     "7905013ec77d3e39b8d2cbb7f3ee6ee6fadb6954a7cf47e73e5bd73d3bd08d86",
@@ -407,6 +410,7 @@
     "de076773bdbaf2d0d9c9043ad2e9fe1af00cbfae7ffac47a60ebaa736600276d",
     "e2d3448438472ed65a183c0d1b3ce0a72913aa529db5cdf48c7c810d56786344",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "e64342378de49ca0cb585f0a841916701a8dc1d741be1212bc31d4e77abbbed5",
     "ea03d1b16e95447c799a193a845445d388a241d6ab67ee5499f084f036420447",
     "edb8187e6aa3c46554f8696e8897c52afdc65ed050f71922b65bb6aacc8efbb1",
     "ee41749bd198bd99fadb94589a4f0623772ecf492c9b677177a280b605e6c8cb",
