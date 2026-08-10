@@ -1,9 +1,23 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786324442183,
+  "updatedAt": 1786325402224,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786325190486",
+      "text": "senyé jezi kris mwn mete tout konfiyans mwn nan ou paskéw pap kitem ront🙏🙏",
+      "userDeviceId": "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
+      "userName": "amen amen amen mèsi senyé jezi 🙏🙏🙌🙌",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786325192613,
+      "updatedAt": 1786325192613,
+      "status": "active"
+    },
     {
       "id": "local-1786324104222",
       "text": "Amén",
@@ -91,20 +105,27 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 17,
-  "viewCount": 107,
+  "likeCount": 19,
+  "shareCount": 23,
+  "viewCount": 119,
   "verseLikedBy": [
     "19c44af63e216a855998202253219f35ffcddad6431ef02aa6d2d72d3f409d64",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "23846e622cbd67ab017bb8cb819b97f6d3c34e2467495bda3a0d0d817081fbee",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "588445230a2ec45bbd9ddfc99e2b5d561c1cd59ace53a65e267a0a26ae85f226",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
+    "5f78120834f52dce1a7d2b8bf0380d064c7928109d1f3239c7cd7c1b35ef5663",
+    "6d2a3565a1e3f940d9af5e5a2a8fcd3e430388adf153688e7ed8f8d093deaf09",
     "92b21a96e1fcd79a58c861d18e94f4663d1f27eaa1df91039d47d59e22d60eb6",
     "9ad1c8bbd90d57e1f9b27d05e7d2141a8e7e5a9ab8f85957e9f78ed9f2dd5562",
     "a2fa5abcc3826f8cbc3cf952f70743bc29e6c2c00c36abd7faf0ae584801b184",
     "ac1140f67c8a9a39dd2097ce595917c4212b079990e5d29f2ead3c2fb9842c80",
+    "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "ae28717012a4727794c03c9b0f4ad22a75881444bdfaf27109e93d0c6780ffa1",
+    "caddcad325a205de7aeea7044ab278a2a58cde0ea3afe514048ecab100f42d70",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "f50ae6385df9688aa574cc2965e0c130d6bf31db986573f2e497d05f54930ee1",
     "ff90db57b5f3517796250966f2b3c74d119472f2ab02e00873970fb041f0442a",
     "ffee740a4cc1e03de16ac07050986c2deecf47fa435b53213b703128655e03fc"
   ],
