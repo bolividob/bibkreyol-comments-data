@@ -1,9 +1,23 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786374866085,
+  "updatedAt": 1786375802862,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786375376637",
+      "text": "ke la pè e la gras de dye rete avek vou tous , dan le non de jezikris amén. ke bondye beni nou❤️",
+      "userDeviceId": "96bd1ab243d36198f4636585ce2fe147b38c59d032bd5e994b17b517540a4821",
+      "userName": "Guemchon Altime",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786375380234,
+      "updatedAt": 1786375380234,
+      "status": "active"
+    },
     {
       "id": "local-1786368223658",
       "text": "som  23 .1",
@@ -247,14 +261,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 119,
-  "shareCount": 219,
-  "viewCount": 566,
+  "likeCount": 122,
+  "shareCount": 223,
+  "viewCount": 574,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "081fe162b99ffa7ce77fa19c68d18695808609a220eb948aeedb5419ad47beac",
     "08cfed03c08cd8bb94eab97e419f9df3d0af730184328bc0d0a371c9fd5181a5",
     "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
+    "0c687b25cca5361f76b5fbf28496f7cf5593f8de2b7f1912d09ddaba7751995d",
     "0e110535110ea26c218382da454c5050032fc0f7bef77351f9d3f73aaef10e57",
     "0f3ed3de5be611604c2ea8fd45d8497ad682dbc1249e0160739e77eb74de94b4",
     "0f45ed78d0f24c65c331eef52d1d5b10b9280bac842db3d96435ce8bc35dd454",
@@ -303,6 +318,7 @@
     "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6d2a3565a1e3f940d9af5e5a2a8fcd3e430388adf153688e7ed8f8d093deaf09",
+    "6f94d893362714a9f5c979d7cb411085a7b8ef51cf03c1356c980a7dc2f37231",
     "73bc6f790da62ddf78d3c5395371acc6860f3e963f924300c0af5e414cfb5c5e",
     "7905013ec77d3e39b8d2cbb7f3ee6ee6fadb6954a7cf47e73e5bd73d3bd08d86",
     "7c5f9bcc38b717c5d4af9c04fe33de81a91e787ddf13ef7a42ed0552ca48e2a2",
@@ -332,6 +348,7 @@
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
     "ac1140f67c8a9a39dd2097ce595917c4212b079990e5d29f2ead3c2fb9842c80",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
+    "ace27586365d4de25d9ffe99289ac956bb962eab586d3c4c40630add5471029a",
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "ae28717012a4727794c03c9b0f4ad22a75881444bdfaf27109e93d0c6780ffa1",
     "b09ef7590cce9883499194d8c706e6b2f2e7d90937370593fbd42420f4140b0e",
