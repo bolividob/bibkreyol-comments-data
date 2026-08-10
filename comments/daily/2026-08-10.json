@@ -1,9 +1,37 @@
 {
   "date": "2026-08-10",
   "verseKey": "daily:2026-08-10",
-  "updatedAt": 1786320019975,
+  "updatedAt": 1786320841410,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786320166964",
+      "text": "Mande priye",
+      "userDeviceId": "34277f05e4dd86dfc4b465cc05c6a53ad4e99b9322b4f33131a955c79ae80bd0",
+      "userName": "Yenny Francois",
+      "verseName": "Nòm 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786320168667,
+      "updatedAt": 1786320168667,
+      "status": "active"
+    },
+    {
+      "id": "local-1786320056026",
+      "text": "Bondye beniw fré ak sém",
+      "userDeviceId": "34277f05e4dd86dfc4b465cc05c6a53ad4e99b9322b4f33131a955c79ae80bd0",
+      "userName": "Yenny Francois",
+      "verseName": "Nòm 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786320057910,
+      "updatedAt": 1786320057910,
+      "status": "active"
+    },
     {
       "id": "local-1786320017266",
       "text": "Yenny pierreyenni69@gmail.com",
@@ -20,8 +48,8 @@
     }
   ],
   "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 55,
+  "shareCount": 2,
+  "viewCount": 63,
   "verseLikedBy": [],
   "verseViewBy": []
 }
