@@ -1,12 +1,27 @@
 {
   "date": "2026-08-11",
   "verseKey": "daily:2026-08-11",
-  "updatedAt": 1786406406264,
+  "updatedAt": 1786407279284,
   "version": 1,
-  "comments": [],
+  "comments": [
+    {
+      "id": "local-1786385297659",
+      "text": "💙💙💙💙💙",
+      "userDeviceId": "af8ea440b473214b13bac0eadb8e06167b3f0789b842c3dbaf3d461fddc06ae2",
+      "userName": "ti zozo",
+      "verseName": "Tit 3:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786407196664,
+      "updatedAt": 1786407196664,
+      "status": "active"
+    }
+  ],
   "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 39,
+  "shareCount": 5,
+  "viewCount": 48,
   "verseLikedBy": [],
   "verseViewBy": []
 }
