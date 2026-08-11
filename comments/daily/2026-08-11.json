@@ -1,9 +1,23 @@
 {
   "date": "2026-08-11",
   "verseKey": "daily:2026-08-11",
-  "updatedAt": 1786473918373,
+  "updatedAt": 1786474802730,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786474029864",
+      "text": "amen",
+      "userDeviceId": "e51da3143f7f5c51aee2fb31809b7bbf6c83d6f070423d447b94e6b4f8e82ef0",
+      "userName": "Anisejonas",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786474120698,
+      "updatedAt": 1786474120698,
+      "status": "active"
+    },
     {
       "id": "local-1786467992523",
       "text": "Bondye nou, mwn remèsye nou pou bon travay sa ke Gras Bondye kouvri nou nn jezi.",
@@ -40,12 +54,13 @@
       "verseName": "Som 11:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "2a0bbe3453e73f5ae06da84029f271139a8d68ea6db537a26b3874f318c91fc9",
         "d3bc1594b593611011bdc0e12b074b9f2f6bbd83be7fd2445fb4e20dc3753ae1"
       ],
       "createdAt": 1786461572574,
-      "updatedAt": 1786465626917,
+      "updatedAt": 1786474181842,
       "status": "active"
     },
     {
@@ -316,9 +331,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 119,
+  "likeCount": 120,
   "shareCount": 210,
-  "viewCount": 647,
+  "viewCount": 655,
   "verseLikedBy": [
     "010e7c00097762e42a4a8f6bcf6a97f9c30195c426e4d98c9c58e7996ac87dba",
     "05527059362649ced58b5d506924ae638bc7c271deb941b9d2e7df38d1cecd55",
@@ -364,6 +379,7 @@
     "463977f32a2f9d5f67ecf2c2487b9e9a4bcc8619c4eb772bc783994444244765",
     "4704dba7aaca28b32b320d084c7ae9852be6bde9922f690fc27bb229489cea37",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
+    "504ed7fa340fee5cd0db2c42673f11088c1a4a8b103b3f4b7e467b47a6750a43",
     "50df0292b85862cfeb43428eff7677f2df7250e45ffd3e909e869829931e2eb2",
     "548db4569910aef6eb14148bd58dad41997690e015af35ed498081ba6d2c28f2",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
