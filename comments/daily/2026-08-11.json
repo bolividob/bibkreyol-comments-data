@@ -1,9 +1,37 @@
 {
   "date": "2026-08-11",
   "verseKey": "daily:2026-08-11",
-  "updatedAt": 1786491012709,
+  "updatedAt": 1786491841458,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786491587620",
+      "text": "Bon travay",
+      "userDeviceId": "526fe63562e53f0b653dc9bdfbf556e29c6e753638860a5fd758e395cf46aecc",
+      "userName": "bosojeanty",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786491663146,
+      "updatedAt": 1786491665320,
+      "status": "active"
+    },
+    {
+      "id": "local-1786491260301",
+      "text": "amèn",
+      "userDeviceId": "be84a810954deb084196ccb9589c0a5eab21374691cac85ef6e45029af484269",
+      "userName": "Fabienne Baptiste",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786491271306,
+      "updatedAt": 1786491271306,
+      "status": "active"
+    },
     {
       "id": "local-1786486611472",
       "text": "amén amén 🙏😇",
@@ -365,9 +393,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 143,
-  "shareCount": 247,
-  "viewCount": 798,
+  "likeCount": 146,
+  "shareCount": 251,
+  "viewCount": 806,
   "verseLikedBy": [
     "0104dbcaa6cf6297a033d9fd07b24a5213b3ef1dcf015371e41d0d388a7266b6",
     "010e7c00097762e42a4a8f6bcf6a97f9c30195c426e4d98c9c58e7996ac87dba",
@@ -423,6 +451,7 @@
     "504ed7fa340fee5cd0db2c42673f11088c1a4a8b103b3f4b7e467b47a6750a43",
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "50df0292b85862cfeb43428eff7677f2df7250e45ffd3e909e869829931e2eb2",
+    "526fe63562e53f0b653dc9bdfbf556e29c6e753638860a5fd758e395cf46aecc",
     "548db4569910aef6eb14148bd58dad41997690e015af35ed498081ba6d2c28f2",
     "5acf8af16d800f10cefd963862022493b0ef7670e29b9bbc3a540ac20006c500",
     "5b0922a976333d97c5ffeaafeced21d012771f45cd079b99c4bde8e0c447364a",
@@ -476,6 +505,7 @@
     "bb2321ddd31d8391c06272fd525c890cd0cdf389f3d59c0dbe62ff0673e19a64",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "bd809cd6bec88c360cdc171f799f3992e509f25df8ac3efdcd3e0070088f2422",
+    "be84a810954deb084196ccb9589c0a5eab21374691cac85ef6e45029af484269",
     "c1bfd4d1fe90e9d4392a4292ed63e505b366e48e3831cb822f31aabc98be1ed2",
     "c27422af4f441c8d671b7696b0683bebab563fab43759345cfc5691492cf5db0",
     "c2edb0aa58deb0dd39f07deb122ea7f61dfc943be4a930a9993bebceeb778139",
@@ -511,7 +541,8 @@
     "faffb5dde71e0746ddfe76433588c974174ce1812bd03605e3718a26388d0afc",
     "fb5e54cfa38861a5ec28e760d384b9c83a3f7257433151a1816faf50a3bdd866",
     "fe10d377dc17f594501470adbb64e846633467bc89f7d0cc22ab6903272c4c91",
-    "fee80d1062ce09a338c365c88ce8bd9302c6145b7f429027133706358d23d90a"
+    "fee80d1062ce09a338c365c88ce8bd9302c6145b7f429027133706358d23d90a",
+    "ff2620cfa9a389c36d2f0fd4581c493366f58501d327168cc6f396ac85164166"
   ],
   "verseViewBy": []
 }
