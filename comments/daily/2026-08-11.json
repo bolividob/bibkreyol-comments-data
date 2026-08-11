@@ -1,9 +1,37 @@
 {
   "date": "2026-08-11",
   "verseKey": "daily:2026-08-11",
-  "updatedAt": 1786436043865,
+  "updatedAt": 1786437008692,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786436238441",
+      "text": "leonelfeli763@gmail.com",
+      "userDeviceId": "ce9e8dcf30fd50d3f45df65ce4acd70fdfd087615bec146e4c97618186e6b658",
+      "userName": "leonelfeli763@gmail.com",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786436239728,
+      "updatedAt": 1786436280469,
+      "status": "active"
+    },
+    {
+      "id": "local-1786436198758",
+      "text": "Leonel feli som 91",
+      "userDeviceId": "ce9e8dcf30fd50d3f45df65ce4acd70fdfd087615bec146e4c97618186e6b658",
+      "userName": "leonelfeli763@gmail.com",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786436200145,
+      "updatedAt": 1786436280469,
+      "status": "active"
+    },
     {
       "id": "local-1786433540629",
       "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -216,9 +244,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 53,
-  "shareCount": 81,
-  "viewCount": 314,
+  "likeCount": 54,
+  "shareCount": 83,
+  "viewCount": 322,
   "verseLikedBy": [
     "010e7c00097762e42a4a8f6bcf6a97f9c30195c426e4d98c9c58e7996ac87dba",
     "07085b5ab582a863b7b88ba58d38d29d3a6d9387ae19f1d67bac8a2b89e002d2",
@@ -256,6 +284,7 @@
     "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
     "b18176e720c3c7f1ef4a09f37d20dfa23d092431ba2536686a9a2cd103d5e146",
     "b329498ca1f10d3176e53ddc3cfc4824122dfe87eb04cb94a70f80d9d286008d",
+    "ce9e8dcf30fd50d3f45df65ce4acd70fdfd087615bec146e4c97618186e6b658",
     "cfbcbab2e9e3f00ac3bb17775845ae11ab289034f1bd39a2e01b737fff48c743",
     "d448877618b0ab38c07f4f82c1a2ee3d55c220b58bf17228915adee9ed1d590e",
     "d56a1ce380d5eb147010364a546ff41b20c2f30ae6cf3ce57b42679721f00ace",
