@@ -1,9 +1,23 @@
 {
   "date": "2026-08-11",
   "verseKey": "daily:2026-08-11",
-  "updatedAt": 1786482856546,
+  "updatedAt": 1786483800867,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786417804648",
+      "text": "mèsi",
+      "userDeviceId": "9b05395c0cc2b7c48235ef19473806027ad7e90aa45cc7462310f6aaf401ee07",
+      "userName": "Carter",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786482982639,
+      "updatedAt": 1786482982639,
+      "status": "active"
+    },
     {
       "id": "local-1786474029864",
       "text": "amen",
@@ -331,9 +345,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 132,
-  "shareCount": 227,
-  "viewCount": 724,
+  "likeCount": 133,
+  "shareCount": 228,
+  "viewCount": 732,
   "verseLikedBy": [
     "010e7c00097762e42a4a8f6bcf6a97f9c30195c426e4d98c9c58e7996ac87dba",
     "05527059362649ced58b5d506924ae638bc7c271deb941b9d2e7df38d1cecd55",
@@ -374,6 +388,7 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3ed6ef11dbae5052b152c9973eda548383982e4fa47f28d9a34d00197042d606",
     "3efc8570f070f5028ef8615800c9658019b49ce7bb20d869523c5b22e34dcee3",
+    "421cca9029eeca78f91bd3a8aa518c5174cc85a78e1948e101a74731aea07a9d",
     "42cdb55e885edee05540e6605959ef19a2334c9a43f5cd734bed64e14b554c91",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "4629e96279e6b81c40cd12fe8330c3729707ffdd7ff81c8e74905f25296687c0",
