@@ -1,9 +1,23 @@
 {
   "date": "2026-08-11",
   "verseKey": "daily:2026-08-11",
-  "updatedAt": 1786407279284,
+  "updatedAt": 1786408200951,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786407621985",
+      "text": "🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "677b3b316ddbbc9bbbeafbffb052df7dd47ae9214b8c7ca13cff4281c9b059f0",
+      "userName": "Dorcin Junia",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786407623217,
+      "updatedAt": 1786407623217,
+      "status": "active"
+    },
     {
       "id": "local-1786385297659",
       "text": "💙💙💙💙💙",
@@ -19,9 +33,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 0,
-  "shareCount": 5,
-  "viewCount": 48,
-  "verseLikedBy": [],
+  "likeCount": 3,
+  "shareCount": 6,
+  "viewCount": 56,
+  "verseLikedBy": [
+    "20a49a8be467ae70cf85e0240341290effa301657434bb60f982349e8fbe4974",
+    "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
+    "ecd356fc22d79b81f825bda7a1540340997eb6fa4a307c089243e2556e20d6ed"
+  ],
   "verseViewBy": []
 }
