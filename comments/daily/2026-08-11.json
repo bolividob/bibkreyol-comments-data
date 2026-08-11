@@ -1,9 +1,23 @@
 {
   "date": "2026-08-11",
   "verseKey": "daily:2026-08-11",
-  "updatedAt": 1786467602927,
+  "updatedAt": 1786468445363,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786467992523",
+      "text": "Bondye nou, mwn remèsye nou pou bon travay sa ke Gras Bondye kouvri nou nn jezi.",
+      "userDeviceId": "867243c734ec09a3aeb2adfc81d2df20d2302640ac77293473ec054f7dda0846",
+      "userName": "GernevilMakenson",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786467993959,
+      "updatedAt": 1786467993959,
+      "status": "active"
+    },
     {
       "id": "local-1786461598383",
       "text": "mw renmen travay la",
@@ -302,9 +316,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 111,
-  "shareCount": 204,
-  "viewCount": 591,
+  "likeCount": 114,
+  "shareCount": 205,
+  "viewCount": 598,
   "verseLikedBy": [
     "010e7c00097762e42a4a8f6bcf6a97f9c30195c426e4d98c9c58e7996ac87dba",
     "05527059362649ced58b5d506924ae638bc7c271deb941b9d2e7df38d1cecd55",
@@ -375,13 +389,16 @@
     "942eb0de8a0e9def67e795ec19a63a49477891900b2ae31214373d6bdc42b668",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+    "9e3b507cf22ee993942d3e00d743f3a1f577b30e401fc423e751cc42366069c5",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "9f44684c0ab66b48c7f54cd332a0c9cfcf42e9c8a1e78432e94d64618e1dfe1d",
+    "a17228993fe89053ba267a6e430a61c14a492072801d7ac1671449d508fe928a",
     "aaa512090242562bf1520bffd1c185c7c9fc67e92aee455f55bbad05e09f9ed8",
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
     "ae59fa97e9a0acd172d08f112eba399a98079b548d06f361a100d1dcf494815e",
+    "b0c8cd6c65a1645f657a39a8787d82c3aed48c8a21c677981df3de015d920e2c",
     "b18176e720c3c7f1ef4a09f37d20dfa23d092431ba2536686a9a2cd103d5e146",
     "b329498ca1f10d3176e53ddc3cfc4824122dfe87eb04cb94a70f80d9d286008d",
     "b750df826b51a987758a9163ac711c7d61117034a4c1dcbe7a8177a288a45eb0",
