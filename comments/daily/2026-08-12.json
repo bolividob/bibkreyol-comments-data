@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786536011255,
+  "updatedAt": 1786536840854,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786536269695",
+      "text": "merci bondye pou fason ou ppotejem",
+      "userDeviceId": "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
+      "userName": "chales antoidline",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786536270831,
+      "updatedAt": 1786536270831,
+      "status": "active"
+    },
     {
       "id": "local-1786533967936",
       "text": "amèn",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 96,
-  "viewCount": 448,
+  "likeCount": 67,
+  "shareCount": 99,
+  "viewCount": 455,
   "verseLikedBy": [
     "02d91881b722ae2a06fa90b2b810d95d278ebe1756334ea6711b01c0ed605474",
     "085ff189bb4f53700b5de0b8925301c216ef98eedef48640acda4fa2b65e1d96",
@@ -156,6 +170,7 @@
     "67db261a551b3ee340f501e22d612d9565aad19d9282469704628770d9cac655",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
+    "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
     "8233b10310d4b0474b9af9c224f2a72fa54ca6699f87dd65a3b12f7ab1579dda",
     "88934864679715ab4b2c65f2830acc25bb851354f67948fd0ad490111c43bc52",
     "8b5bafcb8bd5b77ab3b534f97702e028afbc246c68ef791b0f0be5e4786f3149",
@@ -172,6 +187,7 @@
     "ace0c2092d796aaf343efa845a80596d8a8385b5d54c54317151fdddef326958",
     "b018b36f2b4663b9222fa3096f1901c4c327c9f53cadc2d4f0f961edaa2ed72e",
     "be296eb5f157dc0162b497703387c23318b2c4df1a63abdd03ad57e0c13314c0",
+    "c1bfd4d1fe90e9d4392a4292ed63e505b366e48e3831cb822f31aabc98be1ed2",
     "c5ad347b911304128d1dfbf10f0a7a3f16cb56f3f5fd38f29550580535ed2e3d",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c91f30aa1db36fc4f019c2134bd56414748ccab5279bc90f82b4150d4f193141",
