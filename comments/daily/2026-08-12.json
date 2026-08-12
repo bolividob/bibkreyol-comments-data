@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786536840854,
+  "updatedAt": 1786537809624,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786536992826",
+      "text": "Amen",
+      "userDeviceId": "3b9a0ce09294b377b9b3ffa345f8ae000dd658460e409bdb5baa9725ddda325b",
+      "userName": "Sr Murielle",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786537306893,
+      "updatedAt": 1786537306893,
+      "status": "active"
+    },
     {
       "id": "local-1786536269695",
       "text": "merci bondye pou fason ou ppotejem",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 99,
-  "viewCount": 455,
+  "likeCount": 68,
+  "shareCount": 103,
+  "viewCount": 463,
   "verseLikedBy": [
     "02d91881b722ae2a06fa90b2b810d95d278ebe1756334ea6711b01c0ed605474",
     "085ff189bb4f53700b5de0b8925301c216ef98eedef48640acda4fa2b65e1d96",
@@ -154,6 +168,7 @@
     "386a82fffd5774fb6a5ea09f5375adb52799afee27c0cec8ff83341c64e4fb7b",
     "38e4559c2d8ce5ff95f5a8089b9da4a29680ff731280929daa00ee20b6225b8b",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
+    "3b9a0ce09294b377b9b3ffa345f8ae000dd658460e409bdb5baa9725ddda325b",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "46c9c561ea4be331b59239aef9a3430b82c139df382ff6b2960a6d15fefd28ba",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
