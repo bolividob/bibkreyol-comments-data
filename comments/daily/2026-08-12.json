@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786522462868,
+  "updatedAt": 1786523283602,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786522713392",
+      "text": "merci  bondye",
+      "userDeviceId": "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
+      "userName": "Lucien gin",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786522715124,
+      "updatedAt": 1786522715124,
+      "status": "active"
+    },
     {
       "id": "local-1786517872867",
       "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 55,
-  "viewCount": 327,
+  "likeCount": 48,
+  "shareCount": 57,
+  "viewCount": 334,
   "verseLikedBy": [
     "085ff189bb4f53700b5de0b8925301c216ef98eedef48640acda4fa2b65e1d96",
     "09b425537684f5313fa4f0e28f74e94d63402b64683e6c70e77a54b7f81b08a6",
@@ -90,6 +104,7 @@
     "602533245bdf20b245c8438457dfa5fa2f475e15d43cc77cc6e7c22bf07845a9",
     "645999695e18225b8b85f57fc9bf3765c808347a9a9e8c62bc3f5571c38bc5a6",
     "67db261a551b3ee340f501e22d612d9565aad19d9282469704628770d9cac655",
+    "73163cbbadb8c73090e93244b5ba994625e0b22b644a2dc8b14b00040df4f6c3",
     "8233b10310d4b0474b9af9c224f2a72fa54ca6699f87dd65a3b12f7ab1579dda",
     "8b5bafcb8bd5b77ab3b534f97702e028afbc246c68ef791b0f0be5e4786f3149",
     "8ecc1bb3920be4d7356f5239724c65eb547dd71e0134fefd80ccb152de16910e",
