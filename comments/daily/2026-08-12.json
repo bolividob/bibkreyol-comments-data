@@ -1,9 +1,25 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786552205261,
+  "updatedAt": 1786553047079,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786552527719",
+      "text": "amen amen",
+      "userDeviceId": "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
+      "userName": "Kerlyne",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841"
+      ],
+      "createdAt": 1786552529303,
+      "updatedAt": 1786552537424,
+      "status": "active"
+    },
     {
       "id": "local-1786550983033",
       "text": "Amén 🙌",
@@ -174,8 +190,8 @@
     }
   ],
   "likeCount": 88,
-  "shareCount": 131,
-  "viewCount": 604,
+  "shareCount": 132,
+  "viewCount": 613,
   "verseLikedBy": [
     "02d91881b722ae2a06fa90b2b810d95d278ebe1756334ea6711b01c0ed605474",
     "085ff189bb4f53700b5de0b8925301c216ef98eedef48640acda4fa2b65e1d96",
