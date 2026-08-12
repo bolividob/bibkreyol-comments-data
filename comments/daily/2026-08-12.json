@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786565663374,
+  "updatedAt": 1786566601800,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786566351650",
+      "text": "1 koretyen",
+      "userDeviceId": "d8c80338bf63ec7fd4bd2d661619217e5f2c6d39ae0f79e50a2ebfd0902a6231",
+      "userName": "1koteyen",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786566360620,
+      "updatedAt": 1786566390234,
+      "status": "active"
+    },
     {
       "id": "local-1786563721962",
       "text": "Amén Amèn 💞💞💯",
@@ -203,9 +217,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 95,
-  "shareCount": 143,
-  "viewCount": 724,
+  "likeCount": 96,
+  "shareCount": 145,
+  "viewCount": 732,
   "verseLikedBy": [
     "01a0ca4c97597a8cc750efab459a95c6ab5082a05c42760368df883cf0762433",
     "02d91881b722ae2a06fa90b2b810d95d278ebe1756334ea6711b01c0ed605474",
@@ -275,6 +289,7 @@
     "ab1b1814a3ab21b171c9b01691e1d8129e31bd54d2361282f30f8225bd8f5d90",
     "ace0c2092d796aaf343efa845a80596d8a8385b5d54c54317151fdddef326958",
     "b018b36f2b4663b9222fa3096f1901c4c327c9f53cadc2d4f0f961edaa2ed72e",
+    "b2a86a78e4b7f5aca523f567f8a5ab724f3ab3c5a332c1b4f9fac2e735f728dc",
     "ba94c0e7cef3ee7ac3f95736de5b01caf0d4126dc6a67f1f87d6fd8d0e444c7e",
     "bc09dcb4a431aaa3a820bfca5f7ea6292acdf67c81aee03e5ed7d3e78cfc4b45",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
