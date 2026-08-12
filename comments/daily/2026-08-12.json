@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786550402040,
+  "updatedAt": 1786551362331,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786550983033",
+      "text": "Amén 🙌",
+      "userDeviceId": "9e3b507cf22ee993942d3e00d743f3a1f577b30e401fc423e751cc42366069c5",
+      "userName": "Marie Denise Cloma",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786550984453,
+      "updatedAt": 1786550984453,
+      "status": "active"
+    },
     {
       "id": "local-1786552221474",
       "text": "Bondy pou gras ou béni mwen ak tout fanmim",
@@ -159,9 +173,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 81,
+  "likeCount": 85,
   "shareCount": 129,
-  "viewCount": 586,
+  "viewCount": 597,
   "verseLikedBy": [
     "02d91881b722ae2a06fa90b2b810d95d278ebe1756334ea6711b01c0ed605474",
     "085ff189bb4f53700b5de0b8925301c216ef98eedef48640acda4fa2b65e1d96",
@@ -206,6 +220,7 @@
     "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "8233b10310d4b0474b9af9c224f2a72fa54ca6699f87dd65a3b12f7ab1579dda",
+    "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "88934864679715ab4b2c65f2830acc25bb851354f67948fd0ad490111c43bc52",
     "8b5bafcb8bd5b77ab3b534f97702e028afbc246c68ef791b0f0be5e4786f3149",
     "8ecc1bb3920be4d7356f5239724c65eb547dd71e0134fefd80ccb152de16910e",
@@ -214,9 +229,12 @@
     "927f509f78d9c5f58f65479462b8fe8e503dd74a2bdd90e48327f58c6d1f87b7",
     "96f752b89a3daf9c52f83c37cfb2ab4e4610847d9967b6252a6f56241721a66f",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
+    "9bf97f11db6f820a466c423bd6a66bcd7c0e6a036a281468dfe44b5f370cd25f",
     "9cfaed640b3f1642c49cd5f50cbdec15dc9a3b20a195918f9a12fa13311cc646",
     "9def2da42cf712c98945b969a5f81998e67064a6c19a8d34861337f1b35a13b9",
+    "9e3b507cf22ee993942d3e00d743f3a1f577b30e401fc423e751cc42366069c5",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
+    "a0131d6a3c5916bccc57d93805be2611c3983fc96f55d61b80a8c25f3f104a20",
     "a3423d03e137729beca53b87dfbdfb990d42b752ed8e8d8fbf2c0259b21390dd",
     "a87d9f2722f38f94fb0fbd4f248bf36908c5e46d46c4c038453cf14039753a78",
     "ab1b1814a3ab21b171c9b01691e1d8129e31bd54d2361282f30f8225bd8f5d90",
