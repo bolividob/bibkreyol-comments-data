@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786517064665,
+  "updatedAt": 1786518006726,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786517872867",
+      "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786517874047,
+      "updatedAt": 1786517874047,
+      "status": "active"
+    },
     {
       "id": "local-1786507589988",
       "text": "Amen amen amen mèsi anpil Bondye papa Pou grasw ak favè ou senyè 🙏🏼🙇🙇🙏🏼",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 42,
-  "shareCount": 50,
-  "viewCount": 282,
+  "likeCount": 43,
+  "shareCount": 51,
+  "viewCount": 290,
   "verseLikedBy": [
     "085ff189bb4f53700b5de0b8925301c216ef98eedef48640acda4fa2b65e1d96",
     "09b425537684f5313fa4f0e28f74e94d63402b64683e6c70e77a54b7f81b08a6",
@@ -88,6 +102,7 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c91f30aa1db36fc4f019c2134bd56414748ccab5279bc90f82b4150d4f193141",
     "d1bffd50c29f7e1888197e134ce64a96e7ebeea245b4c727c8415f405816ea66",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
     "e7810d138968c3a0763cebf8b22dcecf16aa1865d27c32a47eab992d1f993eff",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
