@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786499043596,
+  "updatedAt": 1786500006651,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786499472290",
+      "text": "gloire a Dieu",
+      "userDeviceId": "b75bb88df3cddda73d95eae4129aa3af2abf8f8a0ea6b2a40e822e8610be2d69",
+      "userName": "Anite",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786499475794,
+      "updatedAt": 1786499475794,
+      "status": "active"
+    },
     {
       "id": "local-1786416108040",
       "text": "Amen",
@@ -19,18 +33,23 @@
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 11,
-  "viewCount": 111,
+  "likeCount": 17,
+  "shareCount": 14,
+  "viewCount": 120,
   "verseLikedBy": [
+    "09b425537684f5313fa4f0e28f74e94d63402b64683e6c70e77a54b7f81b08a6",
     "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
+    "0db1ba33365488431fa214a056eb5c3a173546c9c842b6f6dc8fde13b7d8d076",
+    "0f3ed3de5be611604c2ea8fd45d8497ad682dbc1249e0160739e77eb74de94b4",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1bcef2f59cfd9aeb161b30a9330693da2aed8729e6752cb27fe705a15770f211",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "46c9c561ea4be331b59239aef9a3430b82c139df382ff6b2960a6d15fefd28ba",
     "5a97f8cd25c0290f54d6bbd641e60dc209391e56e606ee91418677e89df59c76",
     "602533245bdf20b245c8438457dfa5fa2f475e15d43cc77cc6e7c22bf07845a9",
+    "67db261a551b3ee340f501e22d612d9565aad19d9282469704628770d9cac655",
     "8ecc1bb3920be4d7356f5239724c65eb547dd71e0134fefd80ccb152de16910e",
+    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a87d9f2722f38f94fb0fbd4f248bf36908c5e46d46c4c038453cf14039753a78",
     "ace0c2092d796aaf343efa845a80596d8a8385b5d54c54317151fdddef326958",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
