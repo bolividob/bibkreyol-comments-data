@@ -1,9 +1,23 @@
 {
   "date": "2026-08-12",
   "verseKey": "daily:2026-08-12",
-  "updatedAt": 1786563005604,
+  "updatedAt": 1786563858024,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786563721962",
+      "text": "Amén Amèn 💞💞💯",
+      "userDeviceId": "cbc647e7f680b716dd25ebc1d9f6ef5a909e98fb51f24273fb1198eb91100378",
+      "userName": "Vraiment mon truc 💞💞",
+      "verseName": "1 Wa 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786563745705,
+      "updatedAt": 1786563745705,
+      "status": "active"
+    },
     {
       "id": "local-1786552527719",
       "text": "amen amen",
@@ -189,9 +203,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
-  "shareCount": 141,
-  "viewCount": 701,
+  "likeCount": 95,
+  "shareCount": 142,
+  "viewCount": 708,
   "verseLikedBy": [
     "01a0ca4c97597a8cc750efab459a95c6ab5082a05c42760368df883cf0762433",
     "02d91881b722ae2a06fa90b2b810d95d278ebe1756334ea6711b01c0ed605474",
@@ -205,6 +219,7 @@
     "17e99c06fc2b7791ed0e15a1c377f7c508851343049fa1a85e461b313659401a",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1bcef2f59cfd9aeb161b30a9330693da2aed8729e6752cb27fe705a15770f211",
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1dcc8253ef5a16e6717a7e221eeb7dce7929feff5aeeb97e038f6057f4e98e92",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -269,6 +284,7 @@
     "c5ad347b911304128d1dfbf10f0a7a3f16cb56f3f5fd38f29550580535ed2e3d",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c91f30aa1db36fc4f019c2134bd56414748ccab5279bc90f82b4150d4f193141",
+    "cbc647e7f680b716dd25ebc1d9f6ef5a909e98fb51f24273fb1198eb91100378",
     "cefd19b318b1e1121c92b7747acb4e02ea547128bc330314c7baf9f2bf9bdb57",
     "d1bffd50c29f7e1888197e134ce64a96e7ebeea245b4c727c8415f405816ea66",
     "d43b21597f2ef218c10174468d0f3b7a793553040e5d332a56de7f467a6f028e",
