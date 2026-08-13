@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786635016513,
+  "updatedAt": 1786635841673,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786635784373",
+      "text": "glwa pou BonDye",
+      "userDeviceId": "d9593a3a0603468b6eadb9af4aa0c70e0dd176a07f9db858ee59e7a558c68ff5",
+      "userName": "Fr Charles",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786635786922,
+      "updatedAt": 1786635786922,
+      "status": "active"
+    },
     {
       "id": "local-1786634549579",
       "text": "amen",
@@ -26,10 +40,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d9593a3a0603468b6eadb9af4aa0c70e0dd176a07f9db858ee59e7a558c68ff5"
+      ],
       "createdAt": 1786631591132,
-      "updatedAt": 1786631591132,
+      "updatedAt": 1786635053686,
       "status": "active"
     },
     {
@@ -54,10 +70,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e1571ad71a5998641a55a1fcd6adb289f49d32c69055214dcc3b23a7beeef273"
+      ],
       "createdAt": 1786619400346,
-      "updatedAt": 1786619400346,
+      "updatedAt": 1786635350496,
       "status": "active"
     },
     {
@@ -229,9 +247,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
+  "likeCount": 80,
   "shareCount": 129,
-  "viewCount": 569,
+  "viewCount": 578,
   "verseLikedBy": [
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -283,6 +301,7 @@
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "b018b36f2b4663b9222fa3096f1901c4c327c9f53cadc2d4f0f961edaa2ed72e",
+    "b05ef03910c5ad20d731b22472c5f1bdd386912e4fe76897f93025738d1a35ca",
     "b45dc1427580652e25a62a61848e19138b369e5a89c41c8dc1e73f9fdfc200a7",
     "b51c96320191ac797de9d5366aa1d8fc5a9073a1ad654ece663c16d83488adef",
     "b5b34e1975fdb3adcc45b053fd4580fb6581605cece93663edcf861043df16a3",
