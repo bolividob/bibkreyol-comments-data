@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786638601835,
+  "updatedAt": 1786639462791,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786635190182",
+      "text": "Merci Bondye pou tout glwaw papa bon kè",
+      "userDeviceId": "fcad01a2ac8750bd1cc8ffd7edaf77655aaf1d8585073428d58612e05ef1487f",
+      "userName": "Stacy",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786639393867,
+      "updatedAt": 1786639393867,
+      "status": "active"
+    },
     {
       "id": "local-1786636682680",
       "text": "Amén 🙏",
@@ -261,9 +275,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 84,
-  "shareCount": 136,
-  "viewCount": 603,
+  "likeCount": 86,
+  "shareCount": 137,
+  "viewCount": 611,
   "verseLikedBy": [
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -320,6 +334,7 @@
     "b05ef03910c5ad20d731b22472c5f1bdd386912e4fe76897f93025738d1a35ca",
     "b45dc1427580652e25a62a61848e19138b369e5a89c41c8dc1e73f9fdfc200a7",
     "b51c96320191ac797de9d5366aa1d8fc5a9073a1ad654ece663c16d83488adef",
+    "b58a809cdca232bf9ae660cbd83c3733aed260a50c7ab35b775553c3fd7069b8",
     "b5b34e1975fdb3adcc45b053fd4580fb6581605cece93663edcf861043df16a3",
     "b5e80890692bdd328f4f4e5b5d51d5fecdc6080718deb38b566b49cd4bb317cf",
     "b8fd105de0c3489e56b0709ff3fe0aa7c5dc05259314ce5905c7a1ece1500bd2",
@@ -343,6 +358,7 @@
     "e76f5a2c8ee75d156db34add2f03cff206a4e10f9fbe7a15014bf4a38ebbefbf",
     "e8a9545d1e0449fdc30ff76788ac93089bc50065e03d3871722771d7494459a6",
     "eeb55b00995ef9ab3f12dbe589722715451eb94c3b89d7edc75f698b9b2efe78",
+    "ef09e141b433c16a9cfe9a4008a66ab530a78937860100d780e506573ea10736",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
