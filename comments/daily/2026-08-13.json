@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786606089004,
+  "updatedAt": 1786607044368,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786606235677",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786606236938,
+      "updatedAt": 1786606236938,
+      "status": "active"
+    },
     {
       "id": "local-1786590053653",
       "text": "bondye Beni nou",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 47,
-  "viewCount": 303,
+  "likeCount": 41,
+  "shareCount": 48,
+  "viewCount": 311,
   "verseLikedBy": [
     "17f62ea40ecaf5d393b51b48d5a3004ece646cc313a7b4b2bdb01c961f28fe76",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
@@ -156,6 +170,7 @@
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "d6535ff92743afba6bf88b578ad41a4d5223e6fb2dfecb574e2ea45526ed6a18",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e09634379f098445c5fc344ac4fb6d776006e845dc675007357fafd2d0322688",
     "e76f5a2c8ee75d156db34add2f03cff206a4e10f9fbe7a15014bf4a38ebbefbf",
     "eeb55b00995ef9ab3f12dbe589722715451eb94c3b89d7edc75f698b9b2efe78",
