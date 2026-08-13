@@ -1,9 +1,37 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786652042888,
+  "updatedAt": 1786653002288,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786652508073",
+      "text": "mwen pa gen mo pou diw mèsi, Papa!!!",
+      "userDeviceId": "f4a04197d14f22bf0da75e24075f272445949fab2983c522d3b4c4f9d9ef5f59",
+      "userName": "Michaud",
+      "verseName": "Abakòk 3:5",
+      "parentId": "local-1786652441729",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786652509190,
+      "updatedAt": 1786652509190,
+      "status": "active"
+    },
+    {
+      "id": "local-1786652441729",
+      "text": "papa mwen pa fenbmo pou diw mèsi....",
+      "userDeviceId": "f4a04197d14f22bf0da75e24075f272445949fab2983c522d3b4c4f9d9ef5f59",
+      "userName": "Michaud",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786652445831,
+      "updatedAt": 1786652509190,
+      "status": "active"
+    },
     {
       "id": "local-1786635190182",
       "text": "Merci Bondye pou tout glwaw papa bon kè",
@@ -277,9 +305,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 96,
+  "likeCount": 97,
   "shareCount": 160,
-  "viewCount": 723,
+  "viewCount": 732,
   "verseLikedBy": [
     "025418403cf61fb3cee25e25db59586945c69a4f46009877b9dbcb8f60f92a42",
     "0684a858036473dae6c6d9ddda156b7ed77a19abb49658487da3f631ef1977dd",
@@ -372,6 +400,7 @@
     "ef09e141b433c16a9cfe9a4008a66ab530a78937860100d780e506573ea10736",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d",
+    "f4a04197d14f22bf0da75e24075f272445949fab2983c522d3b4c4f9d9ef5f59",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f6c8ecf58037d8f108a7594561f35c2757ee055ddf6bcf75e95e8bcb7a59e8d7",
     "f7d4f631732995b033966c63b1c8fcd3b48414604b69f2749a4c809fbd6b1c34",
