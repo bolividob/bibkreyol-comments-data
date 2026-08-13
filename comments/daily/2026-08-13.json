@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786591802225,
+  "updatedAt": 1786592642318,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "20dce93b09fc0dda02800f5e427916585bb843c6a5ab182a6a9c2541e1830d25"
+      ],
       "createdAt": 1786590090098,
-      "updatedAt": 1786590090098,
+      "updatedAt": 1786592207243,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "20dce93b09fc0dda02800f5e427916585bb843c6a5ab182a6a9c2541e1830d25"
+      ],
       "createdAt": 1786590012740,
-      "updatedAt": 1786590012740,
+      "updatedAt": 1786592202876,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "20dce93b09fc0dda02800f5e427916585bb843c6a5ab182a6a9c2541e1830d25"
+      ],
       "createdAt": 1786588970882,
-      "updatedAt": 1786588970882,
+      "updatedAt": 1786592201269,
       "status": "active"
     },
     {
@@ -54,10 +60,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "20dce93b09fc0dda02800f5e427916585bb843c6a5ab182a6a9c2541e1830d25"
+      ],
       "createdAt": 1786585674220,
-      "updatedAt": 1786585674220,
+      "updatedAt": 1786592205814,
       "status": "active"
     },
     {
@@ -68,10 +76,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "20dce93b09fc0dda02800f5e427916585bb843c6a5ab182a6a9c2541e1830d25"
+      ],
       "createdAt": 1786582888836,
-      "updatedAt": 1786582888836,
+      "updatedAt": 1786592208476,
       "status": "active"
     },
     {
@@ -82,10 +92,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "20dce93b09fc0dda02800f5e427916585bb843c6a5ab182a6a9c2541e1830d25"
+      ],
       "createdAt": 1786582734570,
-      "updatedAt": 1786582734570,
+      "updatedAt": 1786592211358,
       "status": "active"
     },
     {
@@ -105,12 +117,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 25,
-  "shareCount": 36,
-  "viewCount": 183,
+  "likeCount": 27,
+  "shareCount": 38,
+  "viewCount": 190,
   "verseLikedBy": [
     "17f62ea40ecaf5d393b51b48d5a3004ece646cc313a7b4b2bdb01c961f28fe76",
     "1de8dcb9553cea17cb3cb25d70f5b0f78bca9f8a349b3f5ece5fd919d26cc3b6",
+    "20dce93b09fc0dda02800f5e427916585bb843c6a5ab182a6a9c2541e1830d25",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "35b7ac1e4e6332677c1516a35cb7371e47beb8e73dac9092ca274e9a1bb7d112",
     "3be167e76afa22d26a650e1548fa948224e602d47949cefc28ed4c0b12c1ce8d",
@@ -132,6 +145,7 @@
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
     "d6535ff92743afba6bf88b578ad41a4d5223e6fb2dfecb574e2ea45526ed6a18",
     "e09634379f098445c5fc344ac4fb6d776006e845dc675007357fafd2d0322688",
+    "e76f5a2c8ee75d156db34add2f03cff206a4e10f9fbe7a15014bf4a38ebbefbf",
     "eeb55b00995ef9ab3f12dbe589722715451eb94c3b89d7edc75f698b9b2efe78",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d"
   ],
