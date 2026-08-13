@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786608914372,
+  "updatedAt": 1786609803365,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786609183802",
+      "text": "mesi senyè paske ou protejem diran tout nwit lan papa",
+      "userDeviceId": "989c7c3e497b6b75e1ea3ebb2ecd191bb5c98395496c42f4a0f33f1e111d35eb",
+      "userName": "emma",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786609184891,
+      "updatedAt": 1786609184891,
+      "status": "active"
+    },
     {
       "id": "local-1786606235677",
       "text": "Amén y amén",
@@ -132,8 +146,8 @@
     }
   ],
   "likeCount": 43,
-  "shareCount": 51,
-  "viewCount": 326,
+  "shareCount": 52,
+  "viewCount": 334,
   "verseLikedBy": [
     "17f62ea40ecaf5d393b51b48d5a3004ece646cc313a7b4b2bdb01c961f28fe76",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
