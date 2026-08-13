@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786582814767,
+  "updatedAt": 1786583678144,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786582887744",
+      "text": "Senyè mèsi pou pawòl ou🙏🙏",
+      "userDeviceId": "3c43af756225d5993a98fb7f01c07d22a08ca622909a536e6c7b765a341913ed",
+      "userName": "peronise",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786582888836,
+      "updatedAt": 1786582888836,
+      "status": "active"
+    },
     {
       "id": "local-1786582731655",
       "text": "Tanpri Senyè",
@@ -31,18 +45,20 @@
         "927f509f78d9c5f58f65479462b8fe8e503dd74a2bdd90e48327f58c6d1f87b7"
       ],
       "createdAt": 1786579795037,
-      "updatedAt": 1786582692012,
+      "updatedAt": 1786582826454,
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 10,
-  "viewCount": 85,
+  "likeCount": 11,
+  "shareCount": 12,
+  "viewCount": 95,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "3be167e76afa22d26a650e1548fa948224e602d47949cefc28ed4c0b12c1ce8d",
     "3c43af756225d5993a98fb7f01c07d22a08ca622909a536e6c7b765a341913ed",
     "5b73d2d191fa0764cf0b8ae01b5632c163bd08f52c9a213a75c0e44757e3e138",
+    "8fd6f8dabefc704d159650daf9fb07ce84ad45ad7b277916dc357edbfe8175ae",
+    "927050bb5b672b57fe444737cca9c456018d6ba62f90cc3a0df0efef60ba287c",
     "927f509f78d9c5f58f65479462b8fe8e503dd74a2bdd90e48327f58c6d1f87b7",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "b45dc1427580652e25a62a61848e19138b369e5a89c41c8dc1e73f9fdfc200a7",
