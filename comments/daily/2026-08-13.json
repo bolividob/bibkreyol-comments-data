@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786590014333,
+  "updatedAt": 1786590916344,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786590053653",
+      "text": "bondye Beni nou",
+      "userDeviceId": "e09634379f098445c5fc344ac4fb6d776006e845dc675007357fafd2d0322688",
+      "userName": "pitit jezi",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786590090098,
+      "updatedAt": 1786590090098,
+      "status": "active"
+    },
     {
       "id": "local-1786590010468",
       "text": "bondye prakon tról lavim ak tout fanmim yo papa🙏🙏🥰🥰",
@@ -91,10 +105,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 30,
-  "viewCount": 167,
+  "likeCount": 25,
+  "shareCount": 34,
+  "viewCount": 175,
   "verseLikedBy": [
+    "17f62ea40ecaf5d393b51b48d5a3004ece646cc313a7b4b2bdb01c961f28fe76",
     "1de8dcb9553cea17cb3cb25d70f5b0f78bca9f8a349b3f5ece5fd919d26cc3b6",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "35b7ac1e4e6332677c1516a35cb7371e47beb8e73dac9092ca274e9a1bb7d112",
@@ -112,9 +127,11 @@
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "b45dc1427580652e25a62a61848e19138b369e5a89c41c8dc1e73f9fdfc200a7",
+    "bdf4ec7975243284d9139d5c3ae8354ba186486460b0c9d5f0f85c88f361fe93",
     "c7b1fa656ef392c8cbf97fd8beb6de1eb40fcb52988c45660aef46cff20e9a93",
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
     "d6535ff92743afba6bf88b578ad41a4d5223e6fb2dfecb574e2ea45526ed6a18",
+    "e09634379f098445c5fc344ac4fb6d776006e845dc675007357fafd2d0322688",
     "eeb55b00995ef9ab3f12dbe589722715451eb94c3b89d7edc75f698b9b2efe78",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d"
   ],
