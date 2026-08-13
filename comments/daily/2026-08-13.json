@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786617011860,
+  "updatedAt": 1786617845918,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786617094944",
+      "text": "mersi senye Jesu chri",
+      "userDeviceId": "b51c96320191ac797de9d5366aa1d8fc5a9073a1ad654ece663c16d83488adef",
+      "userName": "Marcellus Clerimene",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786617098419,
+      "updatedAt": 1786617098419,
+      "status": "active"
+    },
     {
       "id": "local-1786609183802",
       "text": "mesi senyè paske ou protejem diran tout nwit lan papa",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 69,
-  "viewCount": 396,
+  "likeCount": 48,
+  "shareCount": 83,
+  "viewCount": 403,
   "verseLikedBy": [
     "17f62ea40ecaf5d393b51b48d5a3004ece646cc313a7b4b2bdb01c961f28fe76",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
@@ -175,6 +189,7 @@
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "9cf78ab2df11d19bd46fb0071af4be05133e692abb94f1c0e6f1fed314b13066",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
+    "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "a01418eb92fab0278c6a6ea03cab4aed7b8a6bdb942a109e551cdf5ee156ad9d",
     "a225c0245ad2d9eaff09fe4355f5b05700144b91410895f7636af95395e1f0e5",
     "a8975d4e640384c817e888d4425099189284fb3eb7d4bdebe4415724daaaf765",
@@ -193,6 +208,7 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e76f5a2c8ee75d156db34add2f03cff206a4e10f9fbe7a15014bf4a38ebbefbf",
     "eeb55b00995ef9ab3f12dbe589722715451eb94c3b89d7edc75f698b9b2efe78",
+    "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d",
     "f7d4f631732995b033966c63b1c8fcd3b48414604b69f2749a4c809fbd6b1c34"
   ],
