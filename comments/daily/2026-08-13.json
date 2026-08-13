@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786635841673,
+  "updatedAt": 1786636804083,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786636682680",
+      "text": "Amén 🙏",
+      "userDeviceId": "ca15530369a77950da636b663e5ceb46255465dd28046fffe9ec4fe1a9e98be1",
+      "userName": "Amén",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786636692456,
+      "updatedAt": 1786636692456,
+      "status": "active"
+    },
     {
       "id": "local-1786635784373",
       "text": "glwa pou BonDye",
@@ -247,9 +261,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 80,
+  "likeCount": 81,
   "shareCount": 129,
-  "viewCount": 578,
+  "viewCount": 588,
   "verseLikedBy": [
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -309,14 +323,15 @@
     "b8fd105de0c3489e56b0709ff3fe0aa7c5dc05259314ce5905c7a1ece1500bd2",
     "bdf4ec7975243284d9139d5c3ae8354ba186486460b0c9d5f0f85c88f361fe93",
     "bec247d545458b03ecfd771fded7420abb468c5954eb517f58e727af9fbdf54c",
+    "c255650a5b08290b23f9d3f20a54551b4bd6d5b47edfc8eb41efb6ff059f6e48",
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "c6e022a84f01323b5ce4929d7908030c357361b4907e7d87440f5a06cf35de12",
     "c7b1fa656ef392c8cbf97fd8beb6de1eb40fcb52988c45660aef46cff20e9a93",
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
+    "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c93ad8be37a5fa9d774f5d31db31ef4b2a90636a009b12aebbfd3bda679d1b06",
     "d6535ff92743afba6bf88b578ad41a4d5223e6fb2dfecb574e2ea45526ed6a18",
-    "d9593a3a0603468b6eadb9af4aa0c70e0dd176a07f9db858ee59e7a558c68ff5",
     "da99a46fa73ac9cafdc1b986d03c9fa6a864a0495086045061df8ef4ee1905e2",
     "dbb5b713b7f2b467edbb9a33baa544a37ba31984a5b2ee04e659b2d66aeaebc4",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
