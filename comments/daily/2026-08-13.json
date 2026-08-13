@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786624203404,
+  "updatedAt": 1786625047738,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786624733685",
+      "text": "Amén merci seignuer",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786624734717,
+      "updatedAt": 1786624734717,
+      "status": "active"
+    },
     {
       "id": "local-1786619398074",
       "text": "amén 🙏",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
-  "shareCount": 99,
-  "viewCount": 460,
+  "likeCount": 61,
+  "shareCount": 102,
+  "viewCount": 468,
   "verseLikedBy": [
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "17f62ea40ecaf5d393b51b48d5a3004ece646cc313a7b4b2bdb01c961f28fe76",
@@ -203,6 +217,7 @@
     "35b7ac1e4e6332677c1516a35cb7371e47beb8e73dac9092ca274e9a1bb7d112",
     "3be167e76afa22d26a650e1548fa948224e602d47949cefc28ed4c0b12c1ce8d",
     "3c43af756225d5993a98fb7f01c07d22a08ca622909a536e6c7b765a341913ed",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "49d62e8bf20f71ec2ce36828c238506a6d3fad460205c2196a6dec7ae645a7e1",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4db9364e90918944efced82fe55aebe992b09b4e2e63577d017c7a7f653981a6",
