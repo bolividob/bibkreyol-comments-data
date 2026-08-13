@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786581900302,
+  "updatedAt": 1786582814767,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786582731655",
+      "text": "Tanpri Senyè",
+      "userDeviceId": "927f509f78d9c5f58f65479462b8fe8e503dd74a2bdd90e48327f58c6d1f87b7",
+      "userName": "Enorck",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786582734570,
+      "updatedAt": 1786582734570,
+      "status": "active"
+    },
     {
       "id": "local-1786579793164",
       "text": "Bondye silvouplè fè nous gras tanpri tanpri mèt lavia fè",
@@ -12,19 +26,25 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "927f509f78d9c5f58f65479462b8fe8e503dd74a2bdd90e48327f58c6d1f87b7"
+      ],
       "createdAt": 1786579795037,
-      "updatedAt": 1786579795037,
+      "updatedAt": 1786582692012,
       "status": "active"
     }
   ],
-  "likeCount": 5,
-  "shareCount": 8,
-  "viewCount": 76,
+  "likeCount": 9,
+  "shareCount": 10,
+  "viewCount": 85,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "3be167e76afa22d26a650e1548fa948224e602d47949cefc28ed4c0b12c1ce8d",
+    "3c43af756225d5993a98fb7f01c07d22a08ca622909a536e6c7b765a341913ed",
     "5b73d2d191fa0764cf0b8ae01b5632c163bd08f52c9a213a75c0e44757e3e138",
+    "927f509f78d9c5f58f65479462b8fe8e503dd74a2bdd90e48327f58c6d1f87b7",
+    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "b45dc1427580652e25a62a61848e19138b369e5a89c41c8dc1e73f9fdfc200a7",
     "d6535ff92743afba6bf88b578ad41a4d5223e6fb2dfecb574e2ea45526ed6a18",
     "f1593a96f25a93e0fa8918d69c5b36e111162cfe945abb7ed2ae9d3a15337f3d"
