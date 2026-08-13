@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786655703534,
+  "updatedAt": 1786656604019,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a2660cb054eb967f821bb1eefb7bea5dc273817e7479ee4d432bd3ddf41f3a6f"
+      ],
       "createdAt": 1786639393867,
-      "updatedAt": 1786639393867,
+      "updatedAt": 1786655882386,
       "status": "active"
     },
     {
@@ -305,9 +307,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 99,
+  "likeCount": 102,
   "shareCount": 164,
-  "viewCount": 754,
+  "viewCount": 765,
   "verseLikedBy": [
     "025418403cf61fb3cee25e25db59586945c69a4f46009877b9dbcb8f60f92a42",
     "0684a858036473dae6c6d9ddda156b7ed77a19abb49658487da3f631ef1977dd",
@@ -328,6 +330,7 @@
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "35948f7f416864174dcf1829c62a513d9342a4bca361fdc3eb01f6a175a1b232",
     "35b7ac1e4e6332677c1516a35cb7371e47beb8e73dac9092ca274e9a1bb7d112",
+    "38a7203a5dff4a39e00cb62cd9510356bce13c1782cfba8e43b88e3a81f8770b",
     "3be167e76afa22d26a650e1548fa948224e602d47949cefc28ed4c0b12c1ce8d",
     "3c43af756225d5993a98fb7f01c07d22a08ca622909a536e6c7b765a341913ed",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
@@ -385,6 +388,7 @@
     "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c93ad8be37a5fa9d774f5d31db31ef4b2a90636a009b12aebbfd3bda679d1b06",
+    "cde5a5421d09aec3659eb8973bca123af15e58587c4c10cec72ef4e7ddeb2fce",
     "d0ca4d1cf689aae07c4232ad96c6bea00cea01f5555707c5b5a6f24257e70e85",
     "d6535ff92743afba6bf88b578ad41a4d5223e6fb2dfecb574e2ea45526ed6a18",
     "d93e9a16f351436eb9b14980699c4223e277aa93cf400e93dd503a2474163b20",
@@ -393,6 +397,7 @@
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e09634379f098445c5fc344ac4fb6d776006e845dc675007357fafd2d0322688",
     "e2a8e5de97459ed9b1fa3f964063f0b06bfffc71e64824fd488f930467508667",
+    "e496c914976371163c69adf6654f1122cc2f278c8d7ead17e0552430ae176430",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e76f5a2c8ee75d156db34add2f03cff206a4e10f9fbe7a15014bf4a38ebbefbf",
