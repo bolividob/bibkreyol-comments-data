@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786662005892,
+  "updatedAt": 1786662889475,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786662282032",
+      "text": "toupeche",
+      "userDeviceId": "959b5384d95eec9575b980980afd18d75f42c06da60bb49b6f5405c7b53babec",
+      "userName": "jezi",
+      "verseName": "Abakòk 3:5",
+      "parentId": "local-1786659159090",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786662283487,
+      "updatedAt": 1786662283487,
+      "status": "active"
+    },
     {
       "id": "local-1786659159090",
       "text": "mèsi jezi papa 🙏🙏",
@@ -11,11 +25,11 @@
       "userName": "philandine",
       "verseName": "Abakòk 3:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1786659160956,
-      "updatedAt": 1786659160956,
+      "updatedAt": 1786662283487,
       "status": "active"
     },
     {
@@ -188,10 +202,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3ed6ef11dbae5052b152c9973eda548383982e4fa47f28d9a34d00197042d606"
+      ],
       "createdAt": 1786617098419,
-      "updatedAt": 1786617098419,
+      "updatedAt": 1786662479965,
       "status": "active"
     },
     {
@@ -326,18 +342,19 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "3ed6ef11dbae5052b152c9973eda548383982e4fa47f28d9a34d00197042d606",
         "927f509f78d9c5f58f65479462b8fe8e503dd74a2bdd90e48327f58c6d1f87b7"
       ],
       "createdAt": 1786579795037,
-      "updatedAt": 1786582826454,
+      "updatedAt": 1786662413668,
       "status": "active"
     }
   ],
   "likeCount": 108,
-  "shareCount": 174,
-  "viewCount": 815,
+  "shareCount": 177,
+  "viewCount": 822,
   "verseLikedBy": [
     "025418403cf61fb3cee25e25db59586945c69a4f46009877b9dbcb8f60f92a42",
     "0684a858036473dae6c6d9ddda156b7ed77a19abb49658487da3f631ef1977dd",
