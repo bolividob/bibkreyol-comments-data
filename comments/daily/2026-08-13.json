@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786646642634,
+  "updatedAt": 1786647606466,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Abakòk 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "35537de96c0f20c2374d7239ee2e2e8082f9429ec9261ff837608c32c0a572b6"
+      ],
       "createdAt": 1786636692456,
-      "updatedAt": 1786636692456,
+      "updatedAt": 1786647053660,
       "status": "active"
     },
     {
@@ -276,8 +278,8 @@
     }
   ],
   "likeCount": 93,
-  "shareCount": 155,
-  "viewCount": 677,
+  "shareCount": 156,
+  "viewCount": 685,
   "verseLikedBy": [
     "025418403cf61fb3cee25e25db59586945c69a4f46009877b9dbcb8f60f92a42",
     "0684a858036473dae6c6d9ddda156b7ed77a19abb49658487da3f631ef1977dd",
