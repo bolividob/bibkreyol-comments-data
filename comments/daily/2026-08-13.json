@@ -1,9 +1,23 @@
 {
   "date": "2026-08-13",
   "verseKey": "daily:2026-08-13",
-  "updatedAt": 1786631403035,
+  "updatedAt": 1786632244187,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786635133409",
+      "text": "amén amén",
+      "userDeviceId": "26c10c4ccb5dc384c2b893aa06a9076d5733048549968196b74ebbd9f5496a65",
+      "userName": "borno",
+      "verseName": "Abakòk 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786631591132,
+      "updatedAt": 1786631591132,
+      "status": "active"
+    },
     {
       "id": "local-1786624733685",
       "text": "Amén merci seignuer",
@@ -203,7 +217,7 @@
   ],
   "likeCount": 72,
   "shareCount": 119,
-  "viewCount": 533,
+  "viewCount": 540,
   "verseLikedBy": [
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
