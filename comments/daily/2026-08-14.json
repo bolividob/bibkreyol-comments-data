@@ -1,9 +1,23 @@
 {
   "date": "2026-08-14",
   "verseKey": "daily:2026-08-14",
-  "updatedAt": 1786723202674,
+  "updatedAt": 1786724042307,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786723832987",
+      "text": "ou se tut Pou mwen seyé san ou lavim patap gen okenn sans",
+      "userDeviceId": "dd839bda531041ee256339aecf3831537ea8805d8a4db80589de1446271f905c",
+      "userName": "Saint Juste",
+      "verseName": "Rit 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786723834783,
+      "updatedAt": 1786723834783,
+      "status": "active"
+    },
     {
       "id": "local-1786722288412",
       "text": "ki sa kiwayóm nan",
@@ -179,9 +193,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 99,
-  "shareCount": 139,
-  "viewCount": 564,
+  "likeCount": 100,
+  "shareCount": 141,
+  "viewCount": 573,
   "verseLikedBy": [
     "0131d24328ef1ced0b7c47a183c967ed0a9cb924285253334297e058e43d8ad1",
     "01cb8be8daaebc7a52b2aa36f39cd9da07b89c79d2d2e1587ce64e268e975779",
@@ -273,6 +287,7 @@
     "d08760ab5c42961e0c5a686d01b986931ca325e5da38a668c69e3f981ebd1ddf",
     "d43b21597f2ef218c10174468d0f3b7a793553040e5d332a56de7f467a6f028e",
     "d7a037e9ef140fb3fb9a6957c868465031a4b16041960ccf16ebc36f73856f01",
+    "dd839bda531041ee256339aecf3831537ea8805d8a4db80589de1446271f905c",
     "de9ad1d1fb0f3415bba88db8700052de8cd5663aae963986ae8c76c7ca17aefb",
     "ee38b32f0b9b0d575b21aa8252493a2080be626f1693acac7a75218f69c6d36b",
     "f0b95a2bd8579a77683b77ecf658b8829cdbaaa22bfbbcd0432c58612883c3de",
