@@ -1,9 +1,23 @@
 {
   "date": "2026-08-14",
   "verseKey": "daily:2026-08-14",
-  "updatedAt": 1786715041107,
+  "updatedAt": 1786716008004,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786718998516",
+      "text": "Mwen renmen mèt la anpil paske sa li fe pou Mwen yo mwen paka di anyen hmmmmmmm",
+      "userDeviceId": "26c10c4ccb5dc384c2b893aa06a9076d5733048549968196b74ebbd9f5496a65",
+      "userName": "borno",
+      "verseName": "Rit 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786715457333,
+      "updatedAt": 1786715457333,
+      "status": "active"
+    },
     {
       "id": "local-1786712711584",
       "text": "Amen",
@@ -133,11 +147,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 88,
-  "shareCount": 123,
-  "viewCount": 494,
+  "likeCount": 91,
+  "shareCount": 128,
+  "viewCount": 502,
   "verseLikedBy": [
     "0131d24328ef1ced0b7c47a183c967ed0a9cb924285253334297e058e43d8ad1",
+    "01cb8be8daaebc7a52b2aa36f39cd9da07b89c79d2d2e1587ce64e268e975779",
     "052eb534c79591e7da3896e40d0206633b934b312e7e7db0a27f08338b7e1258",
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "08d6266d0347cc8c035867f8ffda18a27bfc939935dacf7689ec0b146e89f9fc",
@@ -154,6 +169,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "23280581a1a7aaa5e1ec2befa4521e1c4142a936a92a61aa325482052e0c5af5",
     "268cb02b8d97761310c15551b1ae11af7a93fcb435052bcc1fb725dbbd67af45",
+    "26c10c4ccb5dc384c2b893aa06a9076d5733048549968196b74ebbd9f5496a65",
     "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
     "2957fb526a5aac347386c16432ca705ca0466d32801d59de21acf0a66787bc46",
     "2c72dbff22da16c9739809d4d39533c4ede541b19dce20527ae6755b03b25558",
@@ -191,6 +207,7 @@
     "96254b3de60fd143aa3ea01fd6c57aa4c71b0c8d7d1b813bd8c9bb356573e3ff",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "99ba0c672f166f76a3b07fc9ff2cf55fc1320b13bf122c4fe17f4f1986e771c8",
+    "9b1851dbb669a4c7b4241420ff927edfe7026a233da01f229998fe01f2e813f5",
     "9b630f06810d8fd03e458dbe0311021998ef97cd97a97db18d81d25fd81c8446",
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "a061c2cc9f62605d4c90133b7cf2c00eee7a145b5060e7c4a796f31fc352fb2b",
