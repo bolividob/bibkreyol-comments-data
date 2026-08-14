@@ -1,9 +1,23 @@
 {
   "date": "2026-08-14",
   "verseKey": "daily:2026-08-14",
-  "updatedAt": 1786716854581,
+  "updatedAt": 1786717808049,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786717800129",
+      "text": "Bonjour komanw ye cheri",
+      "userDeviceId": "96adc765e5f0261e50182b6af6fbeea5446b8b071218b7c9cd40fbf6d46f3135",
+      "userName": "Eriuis Joseph",
+      "verseName": "Rit 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786717801632,
+      "updatedAt": 1786717801632,
+      "status": "active"
+    },
     {
       "id": "local-1786718998516",
       "text": "Mwen renmen mèt la anpil paske sa li fe pou Mwen yo mwen paka di anyen hmmmmmmm",
@@ -148,8 +162,8 @@
     }
   ],
   "likeCount": 91,
-  "shareCount": 129,
-  "viewCount": 509,
+  "shareCount": 133,
+  "viewCount": 517,
   "verseLikedBy": [
     "0131d24328ef1ced0b7c47a183c967ed0a9cb924285253334297e058e43d8ad1",
     "01cb8be8daaebc7a52b2aa36f39cd9da07b89c79d2d2e1587ce64e268e975779",
