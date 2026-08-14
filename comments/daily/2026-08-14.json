@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "verseKey": "daily:2026-08-14",
-  "updatedAt": 1786748403146,
+  "updatedAt": 1786749242703,
   "version": 1,
   "comments": [
     {
@@ -56,12 +56,13 @@
       "verseName": "Rit 2:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "10f53eecbc7a154007575a8464fc0a3d965cf5dfc5dcc1da93b5519205738848"
+        "10f53eecbc7a154007575a8464fc0a3d965cf5dfc5dcc1da93b5519205738848",
+        "8bb98e9a6ccd959f60f3980d30b4911e6b06c5c459dd404569e10068ef20791c"
       ],
       "createdAt": 1786715457333,
-      "updatedAt": 1786722533652,
+      "updatedAt": 1786748647589,
       "status": "active"
     },
     {
@@ -193,9 +194,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 130,
-  "shareCount": 177,
-  "viewCount": 791,
+  "likeCount": 132,
+  "shareCount": 179,
+  "viewCount": 799,
   "verseLikedBy": [
     "0131d24328ef1ced0b7c47a183c967ed0a9cb924285253334297e058e43d8ad1",
     "01cb8be8daaebc7a52b2aa36f39cd9da07b89c79d2d2e1587ce64e268e975779",
@@ -267,6 +268,7 @@
     "7ed448f207325508f6bee6ab5ead479e126441742c6703ece39b1c77938be1b6",
     "810263d166726be795b9f10bb68274507e02e035eba6de4e7dd9c22efb077048",
     "8267e555afbeb9bb176207691e9ca68a0e1ff624fc6c25096b94ce6c37f2075c",
+    "83ab7b483b7a1763de0494245f524cf764696ea925875acab7dc3c49d14a2a8a",
     "83b4535c7278d4236a0bcd346b55a5b82e699705733a7f20735f7f2a2c59ac39",
     "89ac6f1c0d6771cdb558b744c3e5c67855851c5501e847e0ed6919c461e83d46",
     "8bc4f8eeac49e113dac1383caacbb097b69b129567c2bdb74a79d0607734979e",
@@ -296,6 +298,7 @@
     "b6bec5d90ad86bfdbb94506f184a0b3f7b2bb397c02e6d57d045875518b30235",
     "b74a21ad765baa4606594dd4ff6c4cdd2394252216db629fec56855d46e155e2",
     "ba6cd7d9c7c7cf1e8270cdd341220d7b60da053088640aac947bfa705ff7a1f5",
+    "bc8d5a18124b29f62c6da267c3ca75d277d19f456061562b7ad130804659a0e5",
     "bcf7b7a6c0b18dfac51caad045ac420ad5338a937da5cb2b5ae235ba1da77f7d",
     "be63a68eb8ca4d2edf8b571f65c3f104a31bcfdd39c4d325864f067d2a407302",
     "c1921927062e25003848e81c7e24ca30b1200bb1013799e907331227cce44ba1",
