@@ -1,9 +1,23 @@
 {
   "date": "2026-08-15",
   "verseKey": "daily:2026-08-15",
-  "updatedAt": 1786789802994,
+  "updatedAt": 1786790697834,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786790626418",
+      "text": "Bondye Fidèle",
+      "userDeviceId": "915b44f8620a8318152dfbca42830b817e62cbd3281a453c9f2fef51f9ce1731",
+      "userName": "Pasteur Sofa",
+      "verseName": "Oze 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786790628821,
+      "updatedAt": 1786790628821,
+      "status": "active"
+    },
     {
       "id": "local-1786787167034",
       "text": "Amén",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
-  "shareCount": 87,
-  "viewCount": 407,
+  "likeCount": 61,
+  "shareCount": 93,
+  "viewCount": 415,
   "verseLikedBy": [
     "008b1cfe7439820065dad79890c4a28d6c8540fe8c1ddf33879cd09206779ae2",
     "01877ebc56ebe9169a62352d6ecc6a68c6938df8a5a813ddeff2b0ac240071fc",
@@ -157,6 +171,7 @@
     "81441933181b84c86a22b64b1145ac1920f5d1601e49e916347a97651955cb37",
     "814a04855f6ba8d104a4b274408c1b7c4628633821df85d5982adf13cb714b16",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
+    "915b44f8620a8318152dfbca42830b817e62cbd3281a453c9f2fef51f9ce1731",
     "950c5ad56070656f85a4522447b7b5ac2fec14e50dd8e63f885fdfacf40c33ef",
     "97a356bcdfc5dafc1b83c50c4c78d72c399ba0f08bea43ab6911fa562e0504ab",
     "9c4931d070a069d856f0b115d462dd68d033a7e5bbfd76adb9a17192c8720b8c",
