@@ -1,9 +1,23 @@
 {
   "date": "2026-08-15",
   "verseKey": "daily:2026-08-15",
-  "updatedAt": 1786787099450,
+  "updatedAt": 1786788022474,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786787167034",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Oze 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786787168042,
+      "updatedAt": 1786787168042,
+      "status": "active"
+    },
     {
       "id": "local-1786776876186",
       "text": "Amén y amén mési pou pawol ou Senyé jezi",
@@ -105,9 +119,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 79,
-  "viewCount": 383,
+  "likeCount": 59,
+  "shareCount": 80,
+  "viewCount": 391,
   "verseLikedBy": [
     "008b1cfe7439820065dad79890c4a28d6c8540fe8c1ddf33879cd09206779ae2",
     "01877ebc56ebe9169a62352d6ecc6a68c6938df8a5a813ddeff2b0ac240071fc",
@@ -124,11 +138,13 @@
     "2e1f22ae3acfaca84e7e9c6315018a163e915e50e3816e2ba7e002ad61b34dd1",
     "332e81fbdc56ab66c523df913c25e5c56222de27d0297e1c9cebbc6849b8f5e0",
     "37e143f21c166c641d45b5bc365364764fb3fc5787e4207a4dac648a08e0890a",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4f0b3c21ee8dd8c0e67b46b9299d0e6554ea170712e6ab484afc5a1db9db3b11",
     "4f9b798743e4d754f18f307b307a5fa6b68dc15cca3001cfeed2510602b654d8",
     "4fb92dced97bcde2feb85ed99d75eb8afbc84477188f985ef6c947bff3fcd59f",
+    "56de23452ab2be6d1a109e9eb25a162f15011c9c6fef33b35ec7b2e137dc04e2",
     "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
     "597efd90c14beacb4adc24afa1b29fc1e419c84e3cff6f4487895ba51535171c",
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
