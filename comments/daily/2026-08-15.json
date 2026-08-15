@@ -1,9 +1,23 @@
 {
   "date": "2026-08-15",
   "verseKey": "daily:2026-08-15",
-  "updatedAt": 1786791603523,
+  "updatedAt": 1786792503145,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786791804334",
+      "text": "amen amen amen 🙏🙏🙏",
+      "userDeviceId": "e35d2a2c0571610db77b7af278648040ec906233a353d7e22cd33db151df90aa",
+      "userName": "fr augustin Jonacky",
+      "verseName": "Oze 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786791805805,
+      "updatedAt": 1786791805805,
+      "status": "active"
+    },
     {
       "id": "local-1786790626418",
       "text": "Bondye Fidèle",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 63,
-  "shareCount": 99,
-  "viewCount": 424,
+  "likeCount": 65,
+  "shareCount": 102,
+  "viewCount": 432,
   "verseLikedBy": [
     "008b1cfe7439820065dad79890c4a28d6c8540fe8c1ddf33879cd09206779ae2",
     "01877ebc56ebe9169a62352d6ecc6a68c6938df8a5a813ddeff2b0ac240071fc",
@@ -184,6 +198,7 @@
     "b5e580a80e5d08e7532b485e8f5c7849829e1a4f9f8b5f67df89af184641a5cc",
     "c10a2c63ef6a12908e29babbffc11ab41e783faacb4eca9040d7fdb5981f77b5",
     "c1ac78e087294f49d926a594a052a82b9a299ef2d7abf681c3d08c6df7991765",
+    "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "c8d6860b0356e54b95a7c6ba1d0c0d58afda0a0f8cb57c012178d399ed3870b7",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "ca3474ec48ae363c45890f4be565c9268456a3a475643b6d8f2acab9d35156b4",
@@ -199,7 +214,8 @@
     "f3720a964e9a7326962adcbc9b02906d6a57f6c4448488fc99e546f83903c92f",
     "f56773fdb5c9bbfc4b53369d3af5a4859f6f422455c294ddaeb8e1ceead6f01f",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
-    "f7be62c5256f957e979a4f45af783449d90625533e0b200343f3c2aa9a9abd97"
+    "f7be62c5256f957e979a4f45af783449d90625533e0b200343f3c2aa9a9abd97",
+    "fedb313d5752fc28bf982c52ed8e8d337440f7bb8626294591235ac75c9083cd"
   ],
   "verseViewBy": []
 }
