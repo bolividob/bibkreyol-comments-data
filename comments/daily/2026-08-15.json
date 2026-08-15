@@ -1,9 +1,37 @@
 {
   "date": "2026-08-15",
   "verseKey": "daily:2026-08-15",
-  "updatedAt": 1786758242901,
+  "updatedAt": 1786759201362,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786759001267",
+      "text": "bondye banm fòs papa ki gen tout pouvwa a",
+      "userDeviceId": "6323d34a491bbd20f57da7ab7b8650cc7b4851d7dcfaeea07b7de085aad81977",
+      "userName": "julio",
+      "verseName": "Oze 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786759018201,
+      "updatedAt": 1786759018201,
+      "status": "active"
+    },
+    {
+      "id": "local-1786758943147",
+      "text": "bondye banm fòs papa gen tou pouvwa a",
+      "userDeviceId": "6323d34a491bbd20f57da7ab7b8650cc7b4851d7dcfaeea07b7de085aad81977",
+      "userName": "julio",
+      "verseName": "Oze 5:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786758956544,
+      "updatedAt": 1786759017382,
+      "status": "active"
+    },
     {
       "id": "local-1786755597797",
       "text": "amén amén",
@@ -12,10 +40,12 @@
       "verseName": "Oze 5:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d144d493c478f193dfcfa4528bfaf042ff913b114a135bc33f1a58729ab64a26"
+      ],
       "createdAt": 1786755599834,
-      "updatedAt": 1786755599834,
+      "updatedAt": 1786758944334,
       "status": "active"
     },
     {
@@ -47,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
-  "shareCount": 22,
-  "viewCount": 112,
+  "likeCount": 22,
+  "shareCount": 26,
+  "viewCount": 125,
   "verseLikedBy": [
     "008b1cfe7439820065dad79890c4a28d6c8540fe8c1ddf33879cd09206779ae2",
     "08c423a6a0e45c8744f1228b5626cd10801baf546ca92b3f6d612fe448f61edb",
@@ -60,7 +90,9 @@
     "37e143f21c166c641d45b5bc365364764fb3fc5787e4207a4dac648a08e0890a",
     "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
     "597efd90c14beacb4adc24afa1b29fc1e419c84e3cff6f4487895ba51535171c",
+    "76ec1297f0a9c2290a96f0d281f217507a4206cb984334eed6e18dbcbdcff825",
     "81441933181b84c86a22b64b1145ac1920f5d1601e49e916347a97651955cb37",
+    "814a04855f6ba8d104a4b274408c1b7c4628633821df85d5982adf13cb714b16",
     "97a356bcdfc5dafc1b83c50c4c78d72c399ba0f08bea43ab6911fa562e0504ab",
     "9c4931d070a069d856f0b115d462dd68d033a7e5bbfd76adb9a17192c8720b8c",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
@@ -68,7 +100,9 @@
     "b42ea26986b8586e5925f5d678f8860e7476b79fb7df0544625c578737317287",
     "b5e580a80e5d08e7532b485e8f5c7849829e1a4f9f8b5f67df89af184641a5cc",
     "c1ac78e087294f49d926a594a052a82b9a299ef2d7abf681c3d08c6df7991765",
-    "dffdd8f7bb88a05b398647ddf05fef03029dcec151a9832ac4ff253c95f052f0"
+    "dffdd8f7bb88a05b398647ddf05fef03029dcec151a9832ac4ff253c95f052f0",
+    "e98452138aefe4887c84fcea9509346ddef1c144014fd369c11229af025b4dd2",
+    "f7be62c5256f957e979a4f45af783449d90625533e0b200343f3c2aa9a9abd97"
   ],
   "verseViewBy": []
 }
