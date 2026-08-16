@@ -1,9 +1,23 @@
 {
   "date": "2026-08-16",
   "verseKey": "daily:2026-08-16",
-  "updatedAt": 1786918442268,
+  "updatedAt": 1786919403351,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786919331953",
+      "text": "gloire à toi seul seigneur Jésus.",
+      "userDeviceId": "815b71a6a912e5c04a806f106021f79bc747706be33c1a57bcc713b9cd2ec5af",
+      "userName": "sr Augustin",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786919334083,
+      "updatedAt": 1786919334083,
+      "status": "active"
+    },
     {
       "id": "local-1786909468469",
       "text": "mwen ta renmenkonprann paroles la byen",
@@ -585,9 +599,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 214,
-  "shareCount": 325,
-  "viewCount": 842,
+  "likeCount": 217,
+  "shareCount": 328,
+  "viewCount": 851,
   "verseLikedBy": [
     "005f4acb7295916d9402bdfae23b8a433d72b12616511b4a2a25a107f74dca1e",
     "00d1a46973e22d3742324e1dfa8692204ed23326b4ac3271683f8b4fc96c82a1",
@@ -665,6 +679,7 @@
     "4a37672f9678a5f74ddc95b632982c71ce42c7d657e3c9f304c4b6251b49ff3f",
     "4b7c098c8b2a5fe18b94c0f3f76a2f598192207fd9970b12d90590929e557079",
     "4c952bcd949cfd7dac6069bcd81b6fb35fb7c62c8d0eaacb4cb68bc9f246399c",
+    "4cb6e1c70315b54b94dadea9cedcc436637f7e59068b4690656317e53cfb4f93",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4ed1e7b65ae8f0702488b9a442fa732b136cc7ffb8422f2252c683c2690ff2cb",
     "4f0b3c21ee8dd8c0e67b46b9299d0e6554ea170712e6ab484afc5a1db9db3b11",
@@ -693,6 +708,7 @@
     "6c62ce7da5c434b2a231a3493ef9eb4618ea74c5aa0e93904002e2b800b019b6",
     "6de1df8779f8f19de42f6a1085b44ba66f895085948ab5b4c19e8eb452cd7cec",
     "6e760031f0875406fc75eb657f98f981d03b805dc7135b3c9a75a347acd2e713",
+    "6f7975dfa17f734a79cca25845da96bb4db797ae245248cde14f7dd6039c9440",
     "704acfff3fd1815db7c0669fe85099576d352954432a58958e8acd4b56fd7ae4",
     "706732bb6ae3e122a2b049959e938f2ac222b324123a4860f2874773998fe1e3",
     "71f11d1a6e67fc63270ae6335478ce99c71624b5273966e05dd803a02dda1040",
@@ -714,6 +730,7 @@
     "7f7644f504127620007823f619936067acc9fb3318fc5698f65d25f94b7c5ddb",
     "7fd7f438d5e26791aa62a17f74064d47039d1c65ac7e118b38b70a70a121f0c0",
     "81095fe8c6367121443300f3f9464ecdec35531303647c15dd57a36567c6d40c",
+    "815b71a6a912e5c04a806f106021f79bc747706be33c1a57bcc713b9cd2ec5af",
     "83bf79bb2e5b2ec1d5b35a577baa5ea8f311ba49a62c5b86cd01f761ce28b964",
     "83e0878519fc173fe29a6ea82a90e295da0da7b7cb067f587a3afe060bef6aca",
     "857bad3cd63410c988c36757bb5c0b0c8adaaca55a03ddc64ccaffcf58ec9532",
