@@ -1,9 +1,23 @@
 {
   "date": "2026-08-16",
   "verseKey": "daily:2026-08-16",
-  "updatedAt": 1786846525579,
+  "updatedAt": 1786847416953,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786847100693",
+      "text": "Amen 🙏🙏💯",
+      "userDeviceId": "79e7aedb6eb428bebfd31320bf2f00a3c2db8965d0b5d2ca7c9998d0614e01b2",
+      "userName": "BATTLECRY",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786847103256,
+      "updatedAt": 1786847103256,
+      "status": "active"
+    },
     {
       "id": "local-1786846216289",
       "text": "amen amen amen 🙏",
@@ -91,17 +105,19 @@
       "status": "active"
     }
   ],
-  "likeCount": 25,
-  "shareCount": 32,
-  "viewCount": 118,
+  "likeCount": 29,
+  "shareCount": 35,
+  "viewCount": 128,
   "verseLikedBy": [
     "0c38d7b593cd573dba42cb99096ee6784b057dcb6191bd663560f49e363100fb",
+    "0f01f5aac184a6d14496947979d22f0fa4c3d20d234806063be3fb0b2699e045",
     "10dbaa4708661480a3e78fc160d469b7e17487e4ed39e66cc32a2e0b535d79fa",
     "10e628c24076900ecc622e7f9b5fe3c801bbaeb834e7a4ba72492ad20a8cd427",
     "1d465bb088ae3a17fd406519fb2c4d21189d3e1d6db1409fcfb5759ae83292dd",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2239283e0372fd957d54b1a95250c692dbe277e47948c9ea756e920fc077986f",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "2724c35c75cf2182369744f48a2a23644122e443c90279983ce7e2b0c7833480",
     "2ee8fad8efb5f26039ec4597cb85ba51df94a07540198157ef32277ae927506a",
     "389fb5a7f52cc73c32239285e0801c1b150b021d38c8dccf155384bd69b699e3",
     "4a37672f9678a5f74ddc95b632982c71ce42c7d657e3c9f304c4b6251b49ff3f",
@@ -109,7 +125,9 @@
     "686b5d378b20ba23d7ba00526aa193e2d25023e52263d97df410b3c82b40bb5d",
     "71f11d1a6e67fc63270ae6335478ce99c71624b5273966e05dd803a02dda1040",
     "7288f5be6a3d236a6ef68d5c04eb88b006aaf065f94403e5df13ddc0ba999fe0",
+    "7519a3caf136cbe39fe0da505a33370f16c48da0654b1c50c081ef77f46f9853",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "79e7aedb6eb428bebfd31320bf2f00a3c2db8965d0b5d2ca7c9998d0614e01b2",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
     "857bad3cd63410c988c36757bb5c0b0c8adaaca55a03ddc64ccaffcf58ec9532",
     "a8275122555578a6ee10d5acd9f0cd66b2bb3af68703eea4cd5f47cd23642575",
