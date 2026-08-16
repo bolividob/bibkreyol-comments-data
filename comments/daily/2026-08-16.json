@@ -1,9 +1,23 @@
 {
   "date": "2026-08-16",
   "verseKey": "daily:2026-08-16",
-  "updatedAt": 1786897803985,
+  "updatedAt": 1786898666219,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786897949158",
+      "text": "mesi anpil pou travay sa !",
+      "userDeviceId": "4214d2f7626be509134c47806ab46dc839230db1386a9b42cd72f944f2f9235d",
+      "userName": "frère Riché Edson",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786897951330,
+      "updatedAt": 1786897951330,
+      "status": "active"
+    },
     {
       "id": "local-1786897094216",
       "text": "Amen🙏🏽🧎🏽‍♀",
@@ -537,9 +551,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 178,
-  "shareCount": 275,
-  "viewCount": 644,
+  "likeCount": 181,
+  "shareCount": 278,
+  "viewCount": 654,
   "verseLikedBy": [
     "02349c88880042609aeb5c233f6e5e646c2ddb4b742f7f039ce1df2232a91739",
     "04032cd0709a3792906384be64e8159a4fb8201e994028ce6f6888a1da128b1c",
@@ -592,6 +606,7 @@
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
     "3f908a0f007ddb75b2a3606fbd0d0c04de3a6e28353932eba5319174c9b68a19",
     "40948e84b81fe1806d7d787a5330776d6b2e93064cfe8b66d9e13df8433a9546",
+    "4214d2f7626be509134c47806ab46dc839230db1386a9b42cd72f944f2f9235d",
     "42cd3828c80395ab3aafe12f2bb282f528836dd91ae16b60da2857ba931dbba3",
     "42dfe5c3e5fd5886eff90ffed8084f92de30823cb65628c5549886c71692b217",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
@@ -602,6 +617,7 @@
     "46e464752051d972c3a6884b41ce1416b2419a5c7002a9cc6c66e2739ac08450",
     "497eba33c62d2584f081a62067705e4ec149a1a18249f6495e34c619eb71b4b5",
     "4a37672f9678a5f74ddc95b632982c71ce42c7d657e3c9f304c4b6251b49ff3f",
+    "4c952bcd949cfd7dac6069bcd81b6fb35fb7c62c8d0eaacb4cb68bc9f246399c",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4f0b3c21ee8dd8c0e67b46b9299d0e6554ea170712e6ab484afc5a1db9db3b11",
     "50c7bd009f438334b22b6b6851fad5adc8d341da653738059e589e4542a481a0",
@@ -623,6 +639,7 @@
     "686b5d378b20ba23d7ba00526aa193e2d25023e52263d97df410b3c82b40bb5d",
     "691a83612dd8b11e980b7e1aae38dd063cf1037f5456afa01855a0d552b76215",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+    "6c62ce7da5c434b2a231a3493ef9eb4618ea74c5aa0e93904002e2b800b019b6",
     "6de1df8779f8f19de42f6a1085b44ba66f895085948ab5b4c19e8eb452cd7cec",
     "6e760031f0875406fc75eb657f98f981d03b805dc7135b3c9a75a347acd2e713",
     "704acfff3fd1815db7c0669fe85099576d352954432a58958e8acd4b56fd7ae4",
