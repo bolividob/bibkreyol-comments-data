@@ -1,9 +1,23 @@
 {
   "date": "2026-08-16",
   "verseKey": "daily:2026-08-16",
-  "updatedAt": 1786898666219,
+  "updatedAt": 1786899606707,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786899027864",
+      "text": "𝕗𝕘𝕛 guidon",
+      "userDeviceId": "c0182a0609919c8cbb03ccd742121431e9dd8f45e837064987ed6edfd2092552",
+      "userName": "ghll",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786899030474,
+      "updatedAt": 1786899030474,
+      "status": "active"
+    },
     {
       "id": "local-1786897949158",
       "text": "mesi anpil pou travay sa !",
@@ -551,9 +565,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 181,
-  "shareCount": 278,
-  "viewCount": 654,
+  "likeCount": 183,
+  "shareCount": 280,
+  "viewCount": 664,
   "verseLikedBy": [
     "02349c88880042609aeb5c233f6e5e646c2ddb4b742f7f039ce1df2232a91739",
     "04032cd0709a3792906384be64e8159a4fb8201e994028ce6f6888a1da128b1c",
@@ -700,6 +714,7 @@
     "bbc215622438ef65a82f06bab2c394ac9f75500f308425832805e7fa0423df48",
     "bbdfc1839b09907ebb296cb509ccefd55b767b20fb098ffd486e7aaf15e9b947",
     "be0f0f932440718a9f79f9dbed9acc2689e54e1dbd0aae90cf9cd3f0e652ebed",
+    "c0182a0609919c8cbb03ccd742121431e9dd8f45e837064987ed6edfd2092552",
     "c04672fc1448f7e60785f75f03d2c97bd8b2fd409bd9a54f2f081ff0d7550ddb",
     "c3250ab70f6535c9cd8a2be322c3a9a790410d76e9f8111d6e8cb7111f802b0d",
     "c35776824f877d2713a791f3ea163ed6836e4cefbc2e90db50c53181e2198e3d",
@@ -728,6 +743,7 @@
     "efe79b8e65a81dbd592fb7216137204ca3a176e9460a1915e9d4250a3df946a8",
     "f1670d3986c26409553cda2d69aec56590ad0ffbdf4babc54fb87a169434e19e",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
+    "f569ba48761018253eb4e00fee949c0d555f19c894cac71093eaf944ad406ec5",
     "f5f3d0ebb60c33261c66178097883e9517e3e547e812bf687ed129b5837cae3d",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
