@@ -1,9 +1,23 @@
 {
   "date": "2026-08-16",
   "verseKey": "daily:2026-08-16",
-  "updatedAt": 1786905007994,
+  "updatedAt": 1786905841613,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786909468469",
+      "text": "mwen ta renmenkonprann paroles la byen",
+      "userDeviceId": "b61b72400d2a62a568032283698e72bcdd20378e6132f32fe4e0934b4ee2a60a",
+      "userName": "wilna",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786905803774,
+      "updatedAt": 1786905803774,
+      "status": "active"
+    },
     {
       "id": "local-1786899027864",
       "text": "𝕗𝕘𝕛 guidon",
@@ -569,9 +583,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 190,
-  "shareCount": 291,
-  "viewCount": 714,
+  "likeCount": 192,
+  "shareCount": 292,
+  "viewCount": 722,
   "verseLikedBy": [
     "02349c88880042609aeb5c233f6e5e646c2ddb4b742f7f039ce1df2232a91739",
     "04032cd0709a3792906384be64e8159a4fb8201e994028ce6f6888a1da128b1c",
@@ -685,6 +699,7 @@
     "7f7644f504127620007823f619936067acc9fb3318fc5698f65d25f94b7c5ddb",
     "7fd7f438d5e26791aa62a17f74064d47039d1c65ac7e118b38b70a70a121f0c0",
     "81095fe8c6367121443300f3f9464ecdec35531303647c15dd57a36567c6d40c",
+    "83bf79bb2e5b2ec1d5b35a577baa5ea8f311ba49a62c5b86cd01f761ce28b964",
     "83e0878519fc173fe29a6ea82a90e295da0da7b7cb067f587a3afe060bef6aca",
     "857bad3cd63410c988c36757bb5c0b0c8adaaca55a03ddc64ccaffcf58ec9532",
     "8680900a947cc601da4b305f55f5d4dc2c9c3349f272f505955f5cfcd7874b2f",
@@ -752,6 +767,7 @@
     "edd9b3558319aa3bdbfedf4e95520bef7fd4f832842a33e702677ca064ab5f9d",
     "efb1d13b818da0fbee877ae5be79776c3fb2d66b2fd18cecfed347193de1e294",
     "efe79b8e65a81dbd592fb7216137204ca3a176e9460a1915e9d4250a3df946a8",
+    "eff5326562d0024cf46fa81bf23c0c34660f96870a559844042c127d682f891f",
     "f1670d3986c26409553cda2d69aec56590ad0ffbdf4babc54fb87a169434e19e",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f569ba48761018253eb4e00fee949c0d555f19c894cac71093eaf944ad406ec5",
