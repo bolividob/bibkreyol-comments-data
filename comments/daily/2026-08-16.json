@@ -1,9 +1,23 @@
 {
   "date": "2026-08-16",
   "verseKey": "daily:2026-08-16",
-  "updatedAt": 1786857248694,
+  "updatedAt": 1786858205054,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786858017565",
+      "text": "Amen",
+      "userDeviceId": "76e04e634d15b0e64836fe61ae3964c9b122b62b5e4e05cb7b5f532eddc29d93",
+      "userName": "Pitit Bondye",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786858018806,
+      "updatedAt": 1786858018806,
+      "status": "active"
+    },
     {
       "id": "local-1786853280258",
       "text": "Amen 🙏",
@@ -156,9 +170,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
+  "likeCount": 60,
   "shareCount": 70,
-  "viewCount": 232,
+  "viewCount": 240,
   "verseLikedBy": [
     "07ddb5553bf29bcde80f3084bb781da2fbff9b7d32e6211125f1bd7ca2795145",
     "0c38d7b593cd573dba42cb99096ee6784b057dcb6191bd663560f49e363100fb",
@@ -192,6 +206,7 @@
     "7288f5be6a3d236a6ef68d5c04eb88b006aaf065f94403e5df13ddc0ba999fe0",
     "7519a3caf136cbe39fe0da505a33370f16c48da0654b1c50c081ef77f46f9853",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "76e04e634d15b0e64836fe61ae3964c9b122b62b5e4e05cb7b5f532eddc29d93",
     "7736db01291d84024969d0867c5ea2d9e7bdaabaa766897af6e72adcbcb15c4c",
     "79e7aedb6eb428bebfd31320bf2f00a3c2db8965d0b5d2ca7c9998d0614e01b2",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
