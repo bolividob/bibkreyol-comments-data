@@ -1,9 +1,53 @@
 {
   "date": "2026-08-16",
   "verseKey": "daily:2026-08-16",
-  "updatedAt": 1786920243333,
+  "updatedAt": 1786921202745,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786921191800",
+      "text": "ALELOUYA",
+      "userDeviceId": "823b4900dd1f08d9e99fe9b9c2acf5253795c035ce1e3eee15dd20a9f17362d3",
+      "userName": "Chantoo",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786921199804,
+      "updatedAt": 1786921199804,
+      "status": "active"
+    },
+    {
+      "id": "local-1786920897251",
+      "text": "amen",
+      "userDeviceId": "6eb90f10a1dfdf1d5ea45439fc48265dc799f4181b189773c9954945764046ef",
+      "userName": "felix",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786920898550,
+      "updatedAt": 1786920898550,
+      "status": "active"
+    },
+    {
+      "id": "local-1786920624493",
+      "text": "Gloire à Dieu",
+      "userDeviceId": "6fb4a79449d4762116f82cfa785be4bede5a431b14fccf18da5e8ca2194f7dc5",
+      "userName": "Samson",
+      "verseName": "1 Jan 4:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "6fb4a79449d4762116f82cfa785be4bede5a431b14fccf18da5e8ca2194f7dc5"
+      ],
+      "createdAt": 1786920626706,
+      "updatedAt": 1786920656559,
+      "status": "active"
+    },
     {
       "id": "local-1786919331953",
       "text": "gloire à toi seul seigneur Jésus.",
@@ -599,9 +643,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 217,
-  "shareCount": 330,
-  "viewCount": 861,
+  "likeCount": 221,
+  "shareCount": 333,
+  "viewCount": 871,
   "verseLikedBy": [
     "005f4acb7295916d9402bdfae23b8a433d72b12616511b4a2a25a107f74dca1e",
     "00d1a46973e22d3742324e1dfa8692204ed23326b4ac3271683f8b4fc96c82a1",
@@ -709,6 +753,7 @@
     "6de1df8779f8f19de42f6a1085b44ba66f895085948ab5b4c19e8eb452cd7cec",
     "6e760031f0875406fc75eb657f98f981d03b805dc7135b3c9a75a347acd2e713",
     "6f7975dfa17f734a79cca25845da96bb4db797ae245248cde14f7dd6039c9440",
+    "6fb4a79449d4762116f82cfa785be4bede5a431b14fccf18da5e8ca2194f7dc5",
     "704acfff3fd1815db7c0669fe85099576d352954432a58958e8acd4b56fd7ae4",
     "706732bb6ae3e122a2b049959e938f2ac222b324123a4860f2874773998fe1e3",
     "71f11d1a6e67fc63270ae6335478ce99c71624b5273966e05dd803a02dda1040",
@@ -723,6 +768,7 @@
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "76e04e634d15b0e64836fe61ae3964c9b122b62b5e4e05cb7b5f532eddc29d93",
     "7736db01291d84024969d0867c5ea2d9e7bdaabaa766897af6e72adcbcb15c4c",
+    "79af909588104a2d91bc9429ff786de229c778cd6ea70ce20efdd9b294a4b4d5",
     "79e7aedb6eb428bebfd31320bf2f00a3c2db8965d0b5d2ca7c9998d0614e01b2",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
     "7be516f7820782131ec1e7854419c4bd4795b027e1b4d473f92f34749bc52601",
@@ -731,12 +777,14 @@
     "7fd7f438d5e26791aa62a17f74064d47039d1c65ac7e118b38b70a70a121f0c0",
     "81095fe8c6367121443300f3f9464ecdec35531303647c15dd57a36567c6d40c",
     "815b71a6a912e5c04a806f106021f79bc747706be33c1a57bcc713b9cd2ec5af",
+    "823b4900dd1f08d9e99fe9b9c2acf5253795c035ce1e3eee15dd20a9f17362d3",
     "83bf79bb2e5b2ec1d5b35a577baa5ea8f311ba49a62c5b86cd01f761ce28b964",
     "83e0878519fc173fe29a6ea82a90e295da0da7b7cb067f587a3afe060bef6aca",
     "857bad3cd63410c988c36757bb5c0b0c8adaaca55a03ddc64ccaffcf58ec9532",
     "858dc916849443b62b07707a7be39dd34e64bfcd02fd3dd45a755cd9c909f4dd",
     "8680900a947cc601da4b305f55f5d4dc2c9c3349f272f505955f5cfcd7874b2f",
     "86d7bce47b801c163ee3ec8c266ef74198a6c16d78aba33b2fc44476018fef65",
+    "87a211ec58d1dd7efb556edd1c761562ea970e73946ba9997624eca43ca5a4ca",
     "880623caea021f0f6e64e59a26dc7470ce139d0113a5d427965f59a0dc60393c",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
