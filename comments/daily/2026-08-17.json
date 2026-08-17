@@ -1,9 +1,23 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786991284582,
+  "updatedAt": 1786992246079,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786990750901",
+      "text": "kmn nou ye?",
+      "userDeviceId": "4b35327327806b2b468051520fe0f84455a136359a09091466c3a47658412e33",
+      "userName": "dada",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786991527986,
+      "updatedAt": 1786991530008,
+      "status": "active"
+    },
     {
       "id": "local-1786989565217",
       "text": "kòman amèn",
@@ -380,8 +394,8 @@
     }
   ],
   "likeCount": 149,
-  "shareCount": 258,
-  "viewCount": 730,
+  "shareCount": 259,
+  "viewCount": 740,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "009890c2ecbdd2ca8a2020fc1f4f8363d9d4ca775e28d5f34d4b0470881b5a84",
