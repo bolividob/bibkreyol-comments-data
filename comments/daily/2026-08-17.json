@@ -1,9 +1,37 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786964414056,
+  "updatedAt": 1786965318089,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786965068999",
+      "text": "amen",
+      "userDeviceId": "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
+      "userName": "hija de Dios",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786965070407,
+      "updatedAt": 1786965070407,
+      "status": "active"
+    },
+    {
+      "id": "local-1786964696629",
+      "text": "yes Amen Amen Amen,🙏",
+      "userDeviceId": "81116176f692a713460c402611fe9400ae558734a4b33985d2ed5e4992b407fc",
+      "userName": "Roose-verline",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786964744386,
+      "updatedAt": 1786964744386,
+      "status": "active"
+    },
     {
       "id": "local-1786963611345",
       "text": "Amèn",
@@ -159,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 95,
-  "shareCount": 142,
-  "viewCount": 420,
+  "likeCount": 99,
+  "shareCount": 149,
+  "viewCount": 428,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -210,6 +238,7 @@
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "7cc85964e1525adac9580441de4fbe98dd5fd31eb7284524f8520149a67b6a54",
+    "81116176f692a713460c402611fe9400ae558734a4b33985d2ed5e4992b407fc",
     "8227dfc4e281248bd078f48b899aaec82270079ab131c22b362270ca40bd2a00",
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "85862d5fb5f866bd9dbebddf6fad1920e14ff28ba1090bca4a88155268297e13",
@@ -225,6 +254,7 @@
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a67a7d2832d95876f5fdf4da601213502b7ef28e89a6527a92f4f79955be08a8",
     "a6b27f144513780dd6c4c301d9b0b641d4083869d5f265b9cf92e1e7201d4554",
+    "a73ac36f3a8c9fc0929f7a4e345cba5d9efd126d6aacb2a77f752f2361f667ad",
     "a8079d988aeda3af2620a63b9d7441d09604ca92aa15e276c4b47b833ed5d77b",
     "a898a5715008bd9bd8edf2b195e9fe7fa356e3c901943e4bb7c2577bebb813a2",
     "a9eb9b318c5cc959abb291df8a3a924e3239ab1e45e09f1e8eff12489726fa2f",
@@ -238,6 +268,7 @@
     "bc050cf193f96707b28f063510970224de33f4bd7b05326a04444b22f7f87512",
     "bc3aac1e71a10108a0fee5a398eb75fcb5a1996c43b80eb9bb21f5285314c7fd",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
+    "c1bfd4d1fe90e9d4392a4292ed63e505b366e48e3831cb822f31aabc98be1ed2",
     "c2559cacadce6538d2807e7bdd9c91b05ba7a5ac4e90dd7a6a974d8f52a521b2",
     "c4b3e87eef6cad3bdc8aeff038dfbb82e1da3ce8913cc278198cfbefc1f0af0b",
     "c4b6c19d38708f22d73c296677c8c6acca62ca23dc214a3bc323b7f45181fad4",
@@ -253,6 +284,7 @@
     "e9ce32e66ca7be22cacc7a12be7089607a465706aedf829eb3246aedb0a6ec76",
     "f09d10fddb980b6da9f811f0390f22383b3fcc7163e3cef2d9499105f2b9a425",
     "f34d80b17e36079c90696e339ebe43240839015b9d548615fa0c752a6380cfbb",
+    "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "f75ec2e5f9b6494a1d05a2607855f08d32c57e5aefd37899a5a84fb00455bb1e",
     "f85bf982a0d257ff7c95219da4946a4d8e98e51499f354bdf2dc88b3110ae671",
