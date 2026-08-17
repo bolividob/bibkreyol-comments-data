@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1787006646154,
+  "updatedAt": 1787007592767,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Piè 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3ed6ef11dbae5052b152c9973eda548383982e4fa47f28d9a34d00197042d606"
+      ],
       "createdAt": 1786991527986,
-      "updatedAt": 1786991530008,
+      "updatedAt": 1787006942705,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "2 Piè 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d256013729d253d6e8713aad4fe8209e8b6dacf4ec92a82430f287dc851d744e"
+      ],
       "createdAt": 1786988570395,
-      "updatedAt": 1786988570395,
+      "updatedAt": 1787007345694,
       "status": "active"
     },
     {
@@ -393,13 +397,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 168,
-  "shareCount": 281,
-  "viewCount": 873,
+  "likeCount": 170,
+  "shareCount": 286,
+  "viewCount": 882,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "009890c2ecbdd2ca8a2020fc1f4f8363d9d4ca775e28d5f34d4b0470881b5a84",
     "0136139efeb0466280e9b507771fb0c0d9d498324da8bae8ae36ed013fef76c7",
+    "06d9251c317115e83c44afff6f569b6d18dbc01fd831012f274829f7d0655cf1",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "07cd94a0b916b0c342e350227255b0c2f00986709f4b04c29697fb20f8a38ad4",
     "0b2bca1dac80fc5a0f410721c2380b7a493bfea04561eedd54a9b7635d1cff79",
@@ -523,6 +528,7 @@
     "ae886ce6a351dd562e9fb0900a0c05848cee0e313b229f6224277aa471ac087e",
     "aeb5687ae61a2c1aa4f0ce1bea28dbf28dbf93ec767d5f81fadbd486d9c648c4",
     "b5806dd0b72b89037c71fe9e46806e2685cecd4f513aa18838c86ef327c1ebd9",
+    "b795f3ed51ca7e223ce62d1bb4e0ed80076c3e75bd6ea0d421d032428ef6ce92",
     "bb86aa2ce2be91f6668446ec06f45e94a906e706c7dec1e2b97a654ba3651955",
     "bbc215622438ef65a82f06bab2c394ac9f75500f308425832805e7fa0423df48",
     "bc050cf193f96707b28f063510970224de33f4bd7b05326a04444b22f7f87512",
