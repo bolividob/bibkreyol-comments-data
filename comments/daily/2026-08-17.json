@@ -1,9 +1,23 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786931124003,
+  "updatedAt": 1786932001307,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786930822404",
+      "text": "amen",
+      "userDeviceId": "4580e17f14bb51d3cc17595796f16b1243e702549c1097b80be09bec1aec5c88",
+      "userName": "Sr Nico",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786931382516,
+      "updatedAt": 1786931382516,
+      "status": "active"
+    },
     {
       "id": "local-1786928287714",
       "text": "Amén 3fois 🙏",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 31,
-  "shareCount": 34,
-  "viewCount": 116,
+  "likeCount": 33,
+  "shareCount": 39,
+  "viewCount": 124,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "0fd670bbadee873df04bb575d7f5a557ce8bba83cfc972ea129b634d186c3837",
@@ -65,6 +79,7 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3fd9f8a78d2b9e7ffbd5e91a9f12c487c736465239e86285fad023239de2fa0f",
     "4570c6bb7ed614e6c9eacc53488e9cb77ab97c66d71379582da03b55d0c14463",
+    "5426c5d14804328b4a673470f6821471c6f903d30a0619c20792d23d74439093",
     "66ad534fa0c00ad956c238fcde4b0e1ab2ab77ec354190616c4b5a92fcd9bc70",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
@@ -81,6 +96,7 @@
     "c4b6c19d38708f22d73c296677c8c6acca62ca23dc214a3bc323b7f45181fad4",
     "c8e12df91b2611d68966b1299a6ac67531c0c3299c20b1195e8abf41f1b11237",
     "dc7a8ebd1f40280e868d0cfea935696aed3c37b6aa2a3421660c7ba8bee1dd65",
+    "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
     "f85bf982a0d257ff7c95219da4946a4d8e98e51499f354bdf2dc88b3110ae671"
   ],
   "verseViewBy": []
