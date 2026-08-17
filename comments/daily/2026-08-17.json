@@ -1,9 +1,23 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786990450740,
+  "updatedAt": 1786991284582,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786989565217",
+      "text": "kòman amèn",
+      "userDeviceId": "714c3fc9c42d5200ecc2f8495f1e9a7373fb3fb5c23e2711b10eb83047c257ed",
+      "userName": "Le Grand Chama",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786990506778,
+      "updatedAt": 1786990506778,
+      "status": "active"
+    },
     {
       "id": "local-1786966588429",
       "text": "amèn",
@@ -300,10 +314,12 @@
       "verseName": "2 Piè 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4b35327327806b2b468051520fe0f84455a136359a09091466c3a47658412e33"
+      ],
       "createdAt": 1786932670400,
-      "updatedAt": 1786932670400,
+      "updatedAt": 1786990787711,
       "status": "active"
     },
     {
@@ -363,9 +379,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 148,
-  "shareCount": 257,
-  "viewCount": 723,
+  "likeCount": 149,
+  "shareCount": 258,
+  "viewCount": 730,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "009890c2ecbdd2ca8a2020fc1f4f8363d9d4ca775e28d5f34d4b0470881b5a84",
@@ -501,6 +517,7 @@
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e5276624ff3c1acc7ab57d70bef1550dba7b278cb7118772b5bbf6d878546138",
     "e53e49b5224d85d8bc953f3bf1aa763f0037a003b1f41f844816684343f36c12",
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e69913180b30cdc7fc26db0a9f3d7bebd4bbf08793792b83f0fb231bc818bec0",
     "e9ce32e66ca7be22cacc7a12be7089607a465706aedf829eb3246aedb0a6ec76",
     "ec7fb4d64d9d740b86b16b3f740893a5e413ea08acb07dc7dbcc705eb79b58f6",
