@@ -1,9 +1,23 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786987254448,
+  "updatedAt": 1786988645219,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786966588429",
+      "text": "amèn",
+      "userDeviceId": "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
+      "userName": "sr Alande Pierre -Louis",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786988570395,
+      "updatedAt": 1786988570395,
+      "status": "active"
+    },
     {
       "id": "local-1786984751695",
       "text": "amène",
@@ -349,9 +363,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 145,
-  "shareCount": 253,
-  "viewCount": 697,
+  "likeCount": 147,
+  "shareCount": 254,
+  "viewCount": 708,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "009890c2ecbdd2ca8a2020fc1f4f8363d9d4ca775e28d5f34d4b0470881b5a84",
@@ -410,11 +424,13 @@
     "4fdea74c8f3b5927522b98b4c34e3b7c71b3fe8b0f7bd68dfc2b63887a129dc1",
     "51c98f4353afc4be11d244949ecf19d4fe4fc75e877e04fc892a0d96db504c3e",
     "5426c5d14804328b4a673470f6821471c6f903d30a0619c20792d23d74439093",
+    "5a21b6a8178b2158e15939aedb654b651b7ee6c8e580e5f50288e90feb5bece7",
     "5db00740e99a434ba0e8853f28b9550fb1953d490d1e98f19b0389ba880b699c",
     "61423994508de2897c12644c983f7e7b91d84c8c9df10401ccc37f72b10e16ec",
     "61c3b08c1c502834e3d2bc9771d8152b154247f99ba404970cadccf3f6725967",
     "6467a0998f541952987508901c004e3b6fff74a42940a3458d60ee8bc529ce0e",
     "6576f2b52630b31fbc7f1238c043d1aaadc4b08047cc43a6ebae5b9b2e3c9c64",
+    "660e98324d373b89b16e6853fd7005cfa0e48b1bb8456d6f5657482bb2918114",
     "66887fe68b766beca0067dc89da0ef007019b8257f3b797657d71125b42efb2c",
     "66ad534fa0c00ad956c238fcde4b0e1ab2ab77ec354190616c4b5a92fcd9bc70",
     "6a67ffa99f4118872a5402884b1d4293b476e8f93d665f01b55451ee50925e9b",
