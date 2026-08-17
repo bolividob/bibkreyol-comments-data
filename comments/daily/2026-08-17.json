@@ -1,17 +1,36 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786925699520,
+  "updatedAt": 1786926600875,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
-  "shareCount": 1,
-  "viewCount": 55,
+  "comments": [
+    {
+      "id": "local-1786926342370",
+      "text": "Amen 3 fwa 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786926344273,
+      "updatedAt": 1786926344273,
+      "status": "active"
+    }
+  ],
+  "likeCount": 8,
+  "shareCount": 6,
+  "viewCount": 64,
   "verseLikedBy": [
     "1b71faead0483b1e9af0809a96dd1bf058cec452040ad75cdb59558d13c95783",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2c65a9918ddf252c1e905f89e3189b2cec9334c744946477a1abdcf1d5e3e8b9",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
-    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589"
+    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
+    "bbc215622438ef65a82f06bab2c394ac9f75500f308425832805e7fa0423df48",
+    "c4b6c19d38708f22d73c296677c8c6acca62ca23dc214a3bc323b7f45181fad4",
+    "c8e12df91b2611d68966b1299a6ac67531c0c3299c20b1195e8abf41f1b11237"
   ],
   "verseViewBy": []
 }
