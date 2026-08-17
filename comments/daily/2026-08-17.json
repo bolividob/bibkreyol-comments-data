@@ -1,9 +1,23 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786941844971,
+  "updatedAt": 1786942819362,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786942624980",
+      "text": "abi",
+      "userDeviceId": "46ca21a14e5d7a65a75c5a4b06806b253f363b33048d3e26b2c861eb70a5252f",
+      "userName": "abigaëlle lovenscia beauvil ............",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786942626125,
+      "updatedAt": 1786942626125,
+      "status": "active"
+    },
     {
       "id": "local-1786939304263",
       "text": "Amén amén eh amén",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
+  "likeCount": 69,
   "shareCount": 85,
-  "viewCount": 224,
+  "viewCount": 231,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -142,6 +156,7 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3fd9f8a78d2b9e7ffbd5e91a9f12c487c736465239e86285fad023239de2fa0f",
     "4570c6bb7ed614e6c9eacc53488e9cb77ab97c66d71379582da03b55d0c14463",
+    "46ca21a14e5d7a65a75c5a4b06806b253f363b33048d3e26b2c861eb70a5252f",
     "4f0b3c21ee8dd8c0e67b46b9299d0e6554ea170712e6ab484afc5a1db9db3b11",
     "4fdea74c8f3b5927522b98b4c34e3b7c71b3fe8b0f7bd68dfc2b63887a129dc1",
     "5426c5d14804328b4a673470f6821471c6f903d30a0619c20792d23d74439093",
@@ -174,6 +189,7 @@
     "bbc215622438ef65a82f06bab2c394ac9f75500f308425832805e7fa0423df48",
     "bc3aac1e71a10108a0fee5a398eb75fcb5a1996c43b80eb9bb21f5285314c7fd",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
+    "c2559cacadce6538d2807e7bdd9c91b05ba7a5ac4e90dd7a6a974d8f52a521b2",
     "c4b3e87eef6cad3bdc8aeff038dfbb82e1da3ce8913cc278198cfbefc1f0af0b",
     "c4b6c19d38708f22d73c296677c8c6acca62ca23dc214a3bc323b7f45181fad4",
     "c8e12df91b2611d68966b1299a6ac67531c0c3299c20b1195e8abf41f1b11237",
