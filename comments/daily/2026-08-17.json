@@ -1,9 +1,37 @@
 {
   "date": "2026-08-17",
   "verseKey": "daily:2026-08-17",
-  "updatedAt": 1786981443049,
+  "updatedAt": 1786982401422,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1786982379036",
+      "text": "amènn",
+      "userDeviceId": "4dcee08c10922ae5033ee3289e7a907b806ac0811508ab5ae0159428af0d7424",
+      "userName": "Jean etlande",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786982385966,
+      "updatedAt": 1786982385966,
+      "status": "active"
+    },
+    {
+      "id": "local-1786982359350",
+      "text": "jesus Christ est seigneur",
+      "userDeviceId": "4dcee08c10922ae5033ee3289e7a907b806ac0811508ab5ae0159428af0d7424",
+      "userName": "Jean etlande",
+      "verseName": "2 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1786982360984,
+      "updatedAt": 1786982360984,
+      "status": "active"
+    },
     {
       "id": "local-1786979661060",
       "text": "amen",
@@ -294,8 +322,8 @@
     }
   ],
   "likeCount": 134,
-  "shareCount": 240,
-  "viewCount": 626,
+  "shareCount": 242,
+  "viewCount": 641,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "009890c2ecbdd2ca8a2020fc1f4f8363d9d4ca775e28d5f34d4b0470881b5a84",
