@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787088541752,
+  "updatedAt": 1787089448472,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787089324921",
+      "text": "uthknkuckk",
+      "userDeviceId": "4805b86a16e3423a8d9b8a8a3f2bc6b7371a2a7865434397c247698afb93de8b",
+      "userName": "Rika",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787089354376,
+      "updatedAt": 1787089354376,
+      "status": "active"
+    },
     {
       "id": "local-1787071093111",
       "text": "Amén amén ke bondye beni nou tout li sóm yo",
@@ -261,9 +275,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 133,
-  "shareCount": 226,
-  "viewCount": 764,
+  "likeCount": 134,
+  "shareCount": 228,
+  "viewCount": 773,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "06054d6eea4e3302ba23de3bf70a221dd5dd3d4631dc1d369040759fa4ef6e9a",
@@ -275,6 +289,7 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "12deb4a04bdaa3f2cb07411e208e1dd86a55cad2349a9d2241fdf0f43aceff65",
     "13673bb8a86ea6671a5c319545a32a7fdbfc927cdbeb90ffaea0f667cb89c1af",
+    "13e9fb4716e44526d00fbb4d47d8ec735d8fba34f0f30427e42e210225b86bd1",
     "156b380eff2a57a32dbdd928f5f675cbe8f0e00b39fedc1fe7e8ba876b1f4c57",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "190eccbd22de459c140d9ac23fd2691a9cf1ca966f5a80e0f7841b8e751d1a3a",
