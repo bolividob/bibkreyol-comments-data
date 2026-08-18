@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787062461867,
+  "updatedAt": 1787063382158,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Sofonyas 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "734c40b591d125e360cb76c96bd477ce6aed18a7622d4accfaf62afbb25b9736"
+      ],
       "createdAt": 1787051668091,
-      "updatedAt": 1787051668916,
+      "updatedAt": 1787063382158,
       "status": "active"
     },
     {
@@ -211,9 +213,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 94,
-  "shareCount": 179,
-  "viewCount": 529,
+  "likeCount": 96,
+  "shareCount": 182,
+  "viewCount": 536,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "06054d6eea4e3302ba23de3bf70a221dd5dd3d4631dc1d369040759fa4ef6e9a",
@@ -273,6 +275,7 @@
     "7a842c1550e4b28320a82033a2656bda4f91f8d9ba7b8bc06e9204216937b6e6",
     "7b715a5add159a73496c0ec57af5d091e479b25a0de1cb4381cd30f9cfb1f217",
     "7d28c9c84a833affac9bf54df8c23fc8a3c355038c78b927ad587e46161c7f93",
+    "81841c4a517343f88fb88e7269b26601bc0568e75a3ceb24f8df450ce1b17fc5",
     "81af18a806998269b542b298e1ac3dbf706c536a360d951b8c49f8c3eb3f85dc",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "9a24ab928faaa4396b54517791e2d61f176e7bfaa9e8d9229ad43d24a51ec56a",
@@ -297,6 +300,7 @@
     "d43b21597f2ef218c10174468d0f3b7a793553040e5d332a56de7f467a6f028e",
     "d47bda50102f4426d26d1a74251f8e772ebf16ead17f362b1b7f2279bf80379a",
     "d63b55730ef17a62dc1cc6c7854b0d5a74c23ea1fe7fcae90099e2f673faa76c",
+    "d9314e9b7ce3379cf4d2f665aec1c6c93c659493e958ec411b36b5003d9979e2",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e02fedd7d1bf31a529d479bab9807b40c78d5566f5474cdce31693e7bc687c01",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
