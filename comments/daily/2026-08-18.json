@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787031860567,
+  "updatedAt": 1787032693672,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787032452063",
+      "text": "merci mon seigneur",
+      "userDeviceId": "0a2e714489c0b666986cc66ccc5aa68545405abff7f529c9150bb8ce104afd6a",
+      "userName": "SUPRÊME WATSON",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787032453313,
+      "updatedAt": 1787032453313,
+      "status": "active"
+    },
     {
       "id": "local-1787024366242",
       "text": "Amen",
@@ -77,9 +91,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 63,
-  "viewCount": 255,
+  "likeCount": 48,
+  "shareCount": 66,
+  "viewCount": 262,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "0698fce11ad57e5a8901f5fe2d4d34e4bd5985a40497dfae4d1e45ef2836725f",
@@ -91,6 +105,7 @@
     "285aee73082f8b901ec08ee5eeb87e563983196c3b6fe28bcd3d0bcf046a1226",
     "2ba7069b455328abfed75c135c18c05442f277b601a959f5ccb56889946af328",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
+    "2dd921a49d43cac1c39f1f5c9f22b3f65a989942a798b783bf1876fc190d031d",
     "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
     "36644002014ee6136b37883b77d8774e14bc4ee65794b483e3b22eb2814fbce1",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
