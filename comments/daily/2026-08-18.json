@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787018400794,
+  "updatedAt": 1787019266738,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787019252670",
+      "text": "Merci Jésus pour d'aujourd'hui",
+      "userDeviceId": "ff4ddb5638e05933fe7d35499dc4e507d2df70abc08bfa0436805d81a8497590",
+      "userName": "ERZILIa DUMAS",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787019266738,
+      "updatedAt": 1787019266738,
+      "status": "active"
+    },
     {
       "id": "local-1787014943388",
       "text": "Amén🙏🙏🙏🙏",
@@ -35,9 +49,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 19,
-  "shareCount": 22,
-  "viewCount": 118,
+  "likeCount": 21,
+  "shareCount": 31,
+  "viewCount": 131,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -50,9 +64,11 @@
     "74af62797ed894e301326a25e47ab2092388251de65129d5287ef0d82963ea1a",
     "7a842c1550e4b28320a82033a2656bda4f91f8d9ba7b8bc06e9204216937b6e6",
     "9d6bbc536e15786010b4c05124714fda57dfaa03f102002ef06941d529732567",
+    "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "abac5c31c2aa5fe8243634be84badba966ecbbd57b527a87079d0f7fc0390f01",
     "bd26be8f1d3227aa32e7a098eae9ea808a434806c98ad46f1dae4cc9c0a6d41f",
     "bf1bc98e3e5820f221ac4d29599c494e35627b22a431747562fc5c624568d903",
+    "d47bda50102f4426d26d1a74251f8e772ebf16ead17f362b1b7f2279bf80379a",
     "d63b55730ef17a62dc1cc6c7854b0d5a74c23ea1fe7fcae90099e2f673faa76c",
     "e5ed330d9a4a37d6bde5dbaca50b6d4f9908ae5d984c034c35bb6106548e64e7",
     "f3563e871aa4bd885c2eef3c5451771f0cb57afb49c942ad2bb80fffbe7a808c",
