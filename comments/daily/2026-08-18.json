@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787047085059,
+  "updatedAt": 1787048070316,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787047464770",
+      "text": "Amén BonDye beni",
+      "userDeviceId": "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
+      "userName": "bonjour fr koman ou ye merci",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787047466223,
+      "updatedAt": 1787047466223,
+      "status": "active"
+    },
     {
       "id": "local-1787046970985",
       "text": "amèn",
@@ -147,9 +161,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 96,
-  "viewCount": 385,
+  "likeCount": 63,
+  "shareCount": 100,
+  "viewCount": 394,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "0698fce11ad57e5a8901f5fe2d4d34e4bd5985a40497dfae4d1e45ef2836725f",
@@ -165,6 +179,7 @@
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2dd921a49d43cac1c39f1f5c9f22b3f65a989942a798b783bf1876fc190d031d",
     "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
+    "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
     "36644002014ee6136b37883b77d8774e14bc4ee65794b483e3b22eb2814fbce1",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
