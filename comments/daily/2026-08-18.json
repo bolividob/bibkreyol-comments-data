@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787045389896,
+  "updatedAt": 1787046243428,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787045816542",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787045816954,
+      "updatedAt": 1787045816954,
+      "status": "active"
+    },
     {
       "id": "local-1787035342064",
       "text": "Amén y amén",
@@ -105,9 +119,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 58,
-  "shareCount": 85,
-  "viewCount": 370,
+  "likeCount": 60,
+  "shareCount": 88,
+  "viewCount": 378,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "0698fce11ad57e5a8901f5fe2d4d34e4bd5985a40497dfae4d1e45ef2836725f",
@@ -137,6 +151,7 @@
     "591941536fa28ed4427e01d527f8e2540e64eae947f9163eb27652f3011f3553",
     "5b28fdbb403c0b88c11c4c5e0cf2c7da744551379c031d3ae8c9fac702c0f915",
     "5c0a37aa0ea586b77d23e042b86302098d9fa5b5b40ac555d7a2d67044022917",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "74af62797ed894e301326a25e47ab2092388251de65129d5287ef0d82963ea1a",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "7a842c1550e4b28320a82033a2656bda4f91f8d9ba7b8bc06e9204216937b6e6",
@@ -160,6 +175,7 @@
     "d63b55730ef17a62dc1cc6c7854b0d5a74c23ea1fe7fcae90099e2f673faa76c",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e5ed330d9a4a37d6bde5dbaca50b6d4f9908ae5d984c034c35bb6106548e64e7",
     "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
     "f3563e871aa4bd885c2eef3c5451771f0cb57afb49c942ad2bb80fffbe7a808c",
