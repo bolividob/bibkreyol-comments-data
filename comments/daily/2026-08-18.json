@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787091243273,
+  "updatedAt": 1787092115304,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787091871104",
+      "text": "amen Jésus",
+      "userDeviceId": "29c54fae202612d52b28a1df362d62b8cb8a42c8583dbccf7e1219463f02b22b",
+      "userName": "miss Dol",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787091874681,
+      "updatedAt": 1787091874681,
+      "status": "active"
+    },
     {
       "id": "local-1787089324921",
       "text": "uthknkuckk",
@@ -275,9 +289,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 139,
-  "shareCount": 230,
-  "viewCount": 792,
+  "likeCount": 141,
+  "shareCount": 234,
+  "viewCount": 800,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "06054d6eea4e3302ba23de3bf70a221dd5dd3d4631dc1d369040759fa4ef6e9a",
@@ -307,6 +321,7 @@
     "24d7a4f9cf4f623ff3f71358a3e571ef157436714e1dca8cc4837abf45c9b9ad",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "285aee73082f8b901ec08ee5eeb87e563983196c3b6fe28bcd3d0bcf046a1226",
+    "29c54fae202612d52b28a1df362d62b8cb8a42c8583dbccf7e1219463f02b22b",
     "2ba7069b455328abfed75c135c18c05442f277b601a959f5ccb56889946af328",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2dd921a49d43cac1c39f1f5c9f22b3f65a989942a798b783bf1876fc190d031d",
@@ -353,6 +368,7 @@
     "70ae8547c475ce21ad3d5bb504a2a78908ae294dd53885458b4d06c9d6d8843e",
     "71521232d0d2e9a440953a172281152bc4df31e215931931c4c1447f21f46117",
     "726cb446eae63b4a61d9d344aade1f9b640f27eb22865a2e60cd2552c14dbe47",
+    "72d06237cfeec4fa0eaf31d5419eaec5a9d7789ab8f097c0a2b238ee0bd7d9ba",
     "738fc9f1b0ffc110f7f861fc9fd77bb7d7bf5cbbf8b71f64d9063d72e9982ba6",
     "74af62797ed894e301326a25e47ab2092388251de65129d5287ef0d82963ea1a",
     "74ff475b590c4b895b01cce76ef16c949530804aca3c9dc35435aabb26d94a9a",
