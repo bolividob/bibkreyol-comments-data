@@ -1,9 +1,25 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787064241380,
+  "updatedAt": 1787065142669,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787064589653",
+      "text": "bondye ou fidèle",
+      "userDeviceId": "13673bb8a86ea6671a5c319545a32a7fdbfc927cdbeb90ffaea0f667cb89c1af",
+      "userName": "VERGILUS EDJHONSON",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "13673bb8a86ea6671a5c319545a32a7fdbfc927cdbeb90ffaea0f667cb89c1af"
+      ],
+      "createdAt": 1787064706010,
+      "updatedAt": 1787064779909,
+      "status": "active"
+    },
     {
       "id": "local-1787051623335",
       "text": "Bondye beni nou",
@@ -213,9 +229,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 98,
+  "likeCount": 100,
   "shareCount": 182,
-  "viewCount": 545,
+  "viewCount": 556,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "06054d6eea4e3302ba23de3bf70a221dd5dd3d4631dc1d369040759fa4ef6e9a",
@@ -224,6 +240,7 @@
     "0b42d9eb8127439bc2f65cbb3a951ed1061352e898195f331eda5fd1ef382890",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "12deb4a04bdaa3f2cb07411e208e1dd86a55cad2349a9d2241fdf0f43aceff65",
+    "13673bb8a86ea6671a5c319545a32a7fdbfc927cdbeb90ffaea0f667cb89c1af",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
@@ -267,6 +284,7 @@
     "5bf280d43e7fdf9b655de4a23c313650e82d996a0487a7742a588703cb21360a",
     "5c0a37aa0ea586b77d23e042b86302098d9fa5b5b40ac555d7a2d67044022917",
     "6249d2d89734c2d15d47d4ab221a7782acea6807c72caadd9ea392589a2d379d",
+    "69cf20d0c224adc1b50ed90e3542bce574b7729b130ee340fe4d9824ded36b0e",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "71521232d0d2e9a440953a172281152bc4df31e215931931c4c1447f21f46117",
     "726cb446eae63b4a61d9d344aade1f9b640f27eb22865a2e60cd2552c14dbe47",
