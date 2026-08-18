@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787023680875,
+  "updatedAt": 1787024657924,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787024366242",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Senyè gran kreyatè a",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787024367324,
+      "updatedAt": 1787024367324,
+      "status": "active"
+    },
     {
       "id": "local-1787020302071",
       "text": "mèsi senyé jezi pou bél jounén sa oubanm ak tout fanmim yo pran kontról hiut lan pou Mwn papa 🙏🙌",
@@ -63,12 +77,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
-  "shareCount": 47,
-  "viewCount": 180,
+  "likeCount": 38,
+  "shareCount": 49,
+  "viewCount": 189,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "0698fce11ad57e5a8901f5fe2d4d34e4bd5985a40497dfae4d1e45ef2836725f",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "1f5d48c476a1f6fe4d1e016a4ece4afa37b9537e4f81f46fafb24dc8f74a2e63",
     "20597742efbdd169640da786038710d7eddd5a73839187d93e69fdb6245021c3",
@@ -84,7 +99,9 @@
     "4faf0aa2e6962e393578a9c3ec874cb68cd4bc18880aa56a7251d979f486a2fe",
     "5b28fdbb403c0b88c11c4c5e0cf2c7da744551379c031d3ae8c9fac702c0f915",
     "74af62797ed894e301326a25e47ab2092388251de65129d5287ef0d82963ea1a",
+    "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "7a842c1550e4b28320a82033a2656bda4f91f8d9ba7b8bc06e9204216937b6e6",
+    "9a24ab928faaa4396b54517791e2d61f176e7bfaa9e8d9229ad43d24a51ec56a",
     "9d6bbc536e15786010b4c05124714fda57dfaa03f102002ef06941d529732567",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
@@ -98,6 +115,7 @@
     "e5ed330d9a4a37d6bde5dbaca50b6d4f9908ae5d984c034c35bb6106548e64e7",
     "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
     "f3563e871aa4bd885c2eef3c5451771f0cb57afb49c942ad2bb80fffbe7a808c",
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "f77f3b3911f63673f6871e0ea2bef8d53fe6ca8423f44d6a54f895321f31120f",
     "fcf7f5f1ada0b0df4840bbf563a50a6090fe09604f9dfe8607004237d54e0622",
     "fd6063d4d95c84c41ec532e624124a37c21fd4a4259087fcb126b85afad8d3c5"
