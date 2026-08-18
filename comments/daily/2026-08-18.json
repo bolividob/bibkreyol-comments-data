@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787014772572,
+  "updatedAt": 1787015669949,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787014943388",
+      "text": "Amén🙏🙏🙏🙏",
+      "userDeviceId": "bd26be8f1d3227aa32e7a098eae9ea808a434806c98ad46f1dae4cc9c0a6d41f",
+      "userName": "Maylie",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787014964389,
+      "updatedAt": 1787014964389,
+      "status": "active"
+    },
     {
       "id": "local-1787011632931",
       "text": "Amen 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -21,14 +35,18 @@
       "status": "active"
     }
   ],
-  "likeCount": 6,
-  "shareCount": 7,
-  "viewCount": 75,
+  "likeCount": 10,
+  "shareCount": 12,
+  "viewCount": 85,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2ba7069b455328abfed75c135c18c05442f277b601a959f5ccb56889946af328",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
+    "74af62797ed894e301326a25e47ab2092388251de65129d5287ef0d82963ea1a",
     "abac5c31c2aa5fe8243634be84badba966ecbbd57b527a87079d0f7fc0390f01",
+    "bd26be8f1d3227aa32e7a098eae9ea808a434806c98ad46f1dae4cc9c0a6d41f",
+    "bf1bc98e3e5820f221ac4d29599c494e35627b22a431747562fc5c624568d903",
+    "d63b55730ef17a62dc1cc6c7854b0d5a74c23ea1fe7fcae90099e2f673faa76c",
     "fcf7f5f1ada0b0df4840bbf563a50a6090fe09604f9dfe8607004237d54e0622",
     "fd6063d4d95c84c41ec532e624124a37c21fd4a4259087fcb126b85afad8d3c5"
   ],
