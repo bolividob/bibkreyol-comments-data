@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787050754158,
+  "updatedAt": 1787051668916,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787051623335",
+      "text": "Bondye beni nou",
+      "userDeviceId": "b8370ff147b7d7e463ac1d50a8111cbe6594e6b43cb6e95a41bf520f7ad23525",
+      "userName": "Cherisier",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787051668091,
+      "updatedAt": 1787051668916,
+      "status": "active"
+    },
     {
       "id": "local-1787049522494",
       "text": "renette abela bondye",
@@ -198,8 +212,8 @@
     }
   ],
   "likeCount": 69,
-  "shareCount": 127,
-  "viewCount": 420,
+  "shareCount": 131,
+  "viewCount": 429,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "06054d6eea4e3302ba23de3bf70a221dd5dd3d4631dc1d369040759fa4ef6e9a",
