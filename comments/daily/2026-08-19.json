@@ -1,9 +1,23 @@
 {
   "date": "2026-08-19",
   "verseKey": "daily:2026-08-19",
-  "updatedAt": 1787151600312,
+  "updatedAt": 1787152445763,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787151815207",
+      "text": "pa fé anyen  san nou pa invite  Bondye  ladanm se li ki konnen  tout ti detay yo amen wi",
+      "userDeviceId": "aa444f4965f9ffefa6abeea34e1de78dcf6ae982483dcf9fe13e99e0b7a476a0",
+      "userName": "rose carla bien Aimè",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787151817827,
+      "updatedAt": 1787151817827,
+      "status": "active"
+    },
     {
       "id": "local-1787151254871",
       "text": "jezi reviews bientôt",
@@ -331,9 +345,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 122,
-  "shareCount": 254,
-  "viewCount": 553,
+  "likeCount": 124,
+  "shareCount": 255,
+  "viewCount": 561,
   "verseLikedBy": [
     "05adb25c9c7b360a8bd18360fa4e93227c443d0f2abcff58f3f345fe5fd57129",
     "0a5938ab2926ca9a4043f326cd8cc9e4575727fc7b1b08ed65c7617c28cbe806",
@@ -439,6 +453,7 @@
     "d89293a036ac8fd89f8173a6b2a06327c1c464724b15ed18d536c163165d2bf1",
     "da2ff04f625eb46a191ba129bbe714bcda5d610c43a8578958c3d97a756f0822",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "dc95258bca6e41cc9958cbcb5680b07850cc406fe4fb700a3bf461bf37d84b4b",
     "decf4934c3308d86bc8e1621acc2cb78d800a981ea438602adc80457ff8eaaa1",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e38c39a6b6baa427db21b17433cc869255263c7648a1e05061459e6a98404fa4",
@@ -446,6 +461,7 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e7fb3cfe1b8c9ff16d4d7a2ce40676a068a2ed995a3ad553d5e2e935f660aee6",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
+    "ecc48e7f803dfe8719c6226e0d69edaa747bc852d5faa308735ad2fe9b660ff3",
     "f016edbfb49f2dd54fb7c54541b25702d184ecae09dfdfe4c4e7f38710be6f0f",
     "f1470f349f38b86a8b230a420af6ab35471a81702a2e8f28e1bda806b2953dd9",
     "f3720a964e9a7326962adcbc9b02906d6a57f6c4448488fc99e546f83903c92f",
