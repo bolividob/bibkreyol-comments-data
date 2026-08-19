@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787139614878,
+  "updatedAt": 1787140383454,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787057414650",
+      "text": "o",
+      "userDeviceId": "d939add2bdb23fe8008fe251dbb71049e590489a9afe6e78cf95686d1afadd58",
+      "userName": "e to",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787140383454,
+      "updatedAt": 1787140383454,
+      "status": "active"
+    },
     {
       "id": "local-1787097449890",
       "text": "amén 🙏",
@@ -305,7 +319,7 @@
   ],
   "likeCount": 148,
   "shareCount": 269,
-  "viewCount": 927,
+  "viewCount": 928,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "06054d6eea4e3302ba23de3bf70a221dd5dd3d4631dc1d369040759fa4ef6e9a",
