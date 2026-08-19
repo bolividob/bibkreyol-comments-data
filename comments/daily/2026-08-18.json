@@ -1,9 +1,23 @@
 {
   "date": "2026-08-18",
   "verseKey": "daily:2026-08-18",
-  "updatedAt": 1787096640998,
+  "updatedAt": 1787097483790,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787097449890",
+      "text": "amén 🙏",
+      "userDeviceId": "2272588c1d60d7a2eba298262e667394b7418c87cac35091815ca090bac01eef",
+      "userName": "sr Natacha",
+      "verseName": "Sofonyas 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787097451648,
+      "updatedAt": 1787097451648,
+      "status": "active"
+    },
     {
       "id": "local-1787091871104",
       "text": "amen Jésus",
@@ -289,9 +303,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 147,
-  "shareCount": 266,
-  "viewCount": 844,
+  "likeCount": 148,
+  "shareCount": 267,
+  "viewCount": 854,
   "verseLikedBy": [
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
     "06054d6eea4e3302ba23de3bf70a221dd5dd3d4631dc1d369040759fa4ef6e9a",
@@ -319,6 +333,7 @@
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "21a916bdb462e6d3e798351350e645b5248bf2a8a3a8e22f9cec008ea0534093",
     "2202c1b5776c4934c80f80ac32a5241709d199433cb33921c268d1f4f7d4c2ec",
+    "2272588c1d60d7a2eba298262e667394b7418c87cac35091815ca090bac01eef",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "24d7a4f9cf4f623ff3f71358a3e571ef157436714e1dca8cc4837abf45c9b9ad",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
