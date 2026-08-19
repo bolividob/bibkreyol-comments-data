@@ -1,9 +1,23 @@
 {
   "date": "2026-08-19",
   "verseKey": "daily:2026-08-19",
-  "updatedAt": 1787099393694,
+  "updatedAt": 1787100240861,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787099441421",
+      "text": "Amen🙏🙏🙏",
+      "userDeviceId": "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+      "userName": "Widoo",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787099443616,
+      "updatedAt": 1787099443616,
+      "status": "active"
+    },
     {
       "id": "local-1787098342234",
       "text": "Amen amen amen amen",
@@ -12,24 +26,29 @@
       "verseName": "Mike 3:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "3175318c91d24f2c087ba846ff30ec821d592ec4aa4806cd8886c89150b722d6"
+      ],
       "createdAt": 1787098344073,
-      "updatedAt": 1787098344073,
+      "updatedAt": 1787099429917,
       "status": "active"
     }
   ],
-  "likeCount": 8,
-  "shareCount": 5,
-  "viewCount": 58,
+  "likeCount": 11,
+  "shareCount": 9,
+  "viewCount": 69,
   "verseLikedBy": [
     "0b94051b6c079d074686eb535146b61949e7ce7fe4a2c2e7a21c08c27bc49aa0",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "24da81eb63eaaceff9677da8b62d0a0ffa083081dfcb4fd1851177c1e4e0dbb0",
     "554a54ae926953c704226b4592d5eb6a5c908e030af14c7597af2c0878c9dbf5",
     "90e7decbaeb5a6ca2f12d48ba92e91a82ee6c1258d0761211e597a86b26ec456",
+    "a17c52b4ef52e307b3d0b1267a67889bfb06fcbd425f49f6b3f26b142134649f",
     "a515595b542bbca3042842735c6f4504ab31f2d1edbb7a677f152e3e5d7f9bfa",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "c0d446fd90c729685607f2451154fd32d8b665bf33a99212dc77060804c0007e",
+    "c7b58251f3fb6947deabf8ec3d5fc9c4b4cd76f9bd52634b090b20485dab27eb",
     "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f"
   ],
   "verseViewBy": []
