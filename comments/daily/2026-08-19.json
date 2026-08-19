@@ -1,9 +1,23 @@
 {
   "date": "2026-08-19",
   "verseKey": "daily:2026-08-19",
-  "updatedAt": 1787129892896,
+  "updatedAt": 1787130842297,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787130473606",
+      "text": "🙏🙏🙏🙏",
+      "userDeviceId": "1d9efc9912f914deeb8dc37110b9df7086a29d6e9c0622004e115d674de18396",
+      "userName": "Sophonie",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787130474574,
+      "updatedAt": 1787130474574,
+      "status": "active"
+    },
     {
       "id": "local-1787125718603",
       "text": "Amén y amén amén amén amén",
@@ -190,9 +204,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 70,
-  "shareCount": 106,
-  "viewCount": 353,
+  "likeCount": 71,
+  "shareCount": 111,
+  "viewCount": 361,
   "verseLikedBy": [
     "05adb25c9c7b360a8bd18360fa4e93227c443d0f2abcff58f3f345fe5fd57129",
     "0b94051b6c079d074686eb535146b61949e7ce7fe4a2c2e7a21c08c27bc49aa0",
@@ -200,6 +214,7 @@
     "1590162d4e2f223c2cf2a5fd492a7fb67b8a8094566f00dd6930b9b19fb97045",
     "187304f3e0f2779846d18bad3a00326a0669220ffd94f5aa39b0556d9c30ff27",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1d9efc9912f914deeb8dc37110b9df7086a29d6e9c0622004e115d674de18396",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "24da81eb63eaaceff9677da8b62d0a0ffa083081dfcb4fd1851177c1e4e0dbb0",
     "264ee9e170a0f59d64679b1a6b0e3e143475205cc05068cda98ad72f7f7b2026",
