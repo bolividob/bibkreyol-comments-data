@@ -1,9 +1,23 @@
 {
   "date": "2026-08-19",
   "verseKey": "daily:2026-08-19",
-  "updatedAt": 1787103883960,
+  "updatedAt": 1787104771900,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787104460123",
+      "text": "amen amen 🙏",
+      "userDeviceId": "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
+      "userName": "milame",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787104463438,
+      "updatedAt": 1787104463438,
+      "status": "active"
+    },
     {
       "id": "local-1787100827486",
       "text": "demandlapriye",
@@ -49,9 +63,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 36,
-  "viewCount": 111,
+  "likeCount": 26,
+  "shareCount": 38,
+  "viewCount": 122,
   "verseLikedBy": [
     "0b94051b6c079d074686eb535146b61949e7ce7fe4a2c2e7a21c08c27bc49aa0",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -64,13 +78,17 @@
     "90e7decbaeb5a6ca2f12d48ba92e91a82ee6c1258d0761211e597a86b26ec456",
     "92208d15a92055c7a378b54e6c9bccdcd73cbb8d34a54ebe95103bd40bde727c",
     "a17c52b4ef52e307b3d0b1267a67889bfb06fcbd425f49f6b3f26b142134649f",
+    "a2655b4c05174787c5ce2950f9ef26f40048d973174958947b2e6d105d8b54cf",
     "a515595b542bbca3042842735c6f4504ab31f2d1edbb7a677f152e3e5d7f9bfa",
     "a73092e25aaa6cc8e082b30a8b8fed6868713f8aa81a7964318a971a4c9a1baa",
+    "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bbc215622438ef65a82f06bab2c394ac9f75500f308425832805e7fa0423df48",
     "c0d446fd90c729685607f2451154fd32d8b665bf33a99212dc77060804c0007e",
     "c7b58251f3fb6947deabf8ec3d5fc9c4b4cd76f9bd52634b090b20485dab27eb",
     "d89293a036ac8fd89f8173a6b2a06327c1c464724b15ed18d536c163165d2bf1",
+    "decf4934c3308d86bc8e1621acc2cb78d800a981ea438602adc80457ff8eaaa1",
     "e528d47fc725d1287aca889ff41bb19bfbc298cfee216ca5e336d6c85b76a69b",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "f016edbfb49f2dd54fb7c54541b25702d184ecae09dfdfe4c4e7f38710be6f0f",
