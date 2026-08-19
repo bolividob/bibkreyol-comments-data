@@ -1,9 +1,37 @@
 {
   "date": "2026-08-19",
   "verseKey": "daily:2026-08-19",
-  "updatedAt": 1787150644988,
+  "updatedAt": 1787151600312,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787151254871",
+      "text": "jezi reviews bientôt",
+      "userDeviceId": "aa444f4965f9ffefa6abeea34e1de78dcf6ae982483dcf9fe13e99e0b7a476a0",
+      "userName": "rose carla bien Aimè",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787151257969,
+      "updatedAt": 1787151257969,
+      "status": "active"
+    },
+    {
+      "id": "local-1787151050688",
+      "text": "amen",
+      "userDeviceId": "2fb0573f4a6a4a2dbc14eb7fc221e00cb4f9897f3aeaf108215b0d3a3546c525",
+      "userName": "Sr Esthere Jean Gilles",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787151051750,
+      "updatedAt": 1787151051750,
+      "status": "active"
+    },
     {
       "id": "local-1787149691123",
       "text": "te gen yon liv ki rele mike ?",
@@ -303,9 +331,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 118,
-  "shareCount": 252,
-  "viewCount": 546,
+  "likeCount": 122,
+  "shareCount": 254,
+  "viewCount": 553,
   "verseLikedBy": [
     "05adb25c9c7b360a8bd18360fa4e93227c443d0f2abcff58f3f345fe5fd57129",
     "0a5938ab2926ca9a4043f326cd8cc9e4575727fc7b1b08ed65c7617c28cbe806",
@@ -330,6 +358,7 @@
     "2669f103167ec89096080d80b888af828d3c22610cf9cde2328c772c6a492086",
     "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
     "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
+    "2fb0573f4a6a4a2dbc14eb7fc221e00cb4f9897f3aeaf108215b0d3a3546c525",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "30ba216e9881c42e44a36294d09ac1e6efafc892b6ab13e854be1e9ee207c22b",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
@@ -388,6 +417,7 @@
     "a73092e25aaa6cc8e082b30a8b8fed6868713f8aa81a7964318a971a4c9a1baa",
     "a87d9f2722f38f94fb0fbd4f248bf36908c5e46d46c4c038453cf14039753a78",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "aa444f4965f9ffefa6abeea34e1de78dcf6ae982483dcf9fe13e99e0b7a476a0",
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "b7903869bd5df54cd371c2bea4822d1180b585fd73c4caf5263a651ce25d6c04",
     "b8715014f2bf4c644dfda71b56074d46bbf45353ecdc91b084147aaf11884fa4",
@@ -419,7 +449,9 @@
     "f016edbfb49f2dd54fb7c54541b25702d184ecae09dfdfe4c4e7f38710be6f0f",
     "f1470f349f38b86a8b230a420af6ab35471a81702a2e8f28e1bda806b2953dd9",
     "f3720a964e9a7326962adcbc9b02906d6a57f6c4448488fc99e546f83903c92f",
+    "f5818030c67e97028f20047856333268bde6243a88831e48cd0321dc8c4ab99e",
     "f62c25877e60e52d95becf37ce08271bebb4132ffab8f3e9107c200beeb68a9a",
+    "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f8c1e4bd0e49473b45012a026d56e201db57767e5bb43d25117a0562ddfd2385",
     "f9c5301c0cd4ee79da9a9fb0c189cf3d37efe5a57b4fb77d277035be63dd5ec0",
     "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f",
