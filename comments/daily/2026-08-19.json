@@ -1,9 +1,23 @@
 {
   "date": "2026-08-19",
   "verseKey": "daily:2026-08-19",
-  "updatedAt": 1787161445204,
+  "updatedAt": 1787162284740,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787162053460",
+      "text": "bonswa mw kontan pou'm Avk nou",
+      "userDeviceId": "cb8e05a96dcdedcae6eed4f15f6ae5f032a03a456b19dec1dd9525fd0c346814",
+      "userName": "ADAM LECOEUR",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787162056263,
+      "updatedAt": 1787162056263,
+      "status": "active"
+    },
     {
       "id": "local-1787151815207",
       "text": "pa fé anyen  san nou pa invite  Bondye  ladanm se li ki konnen  tout ti detay yo amen wi",
@@ -345,9 +359,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 140,
-  "shareCount": 273,
-  "viewCount": 645,
+  "likeCount": 141,
+  "shareCount": 276,
+  "viewCount": 653,
   "verseLikedBy": [
     "05adb25c9c7b360a8bd18360fa4e93227c443d0f2abcff58f3f345fe5fd57129",
     "0a5938ab2926ca9a4043f326cd8cc9e4575727fc7b1b08ed65c7617c28cbe806",
@@ -459,6 +473,7 @@
     "c7b58251f3fb6947deabf8ec3d5fc9c4b4cd76f9bd52634b090b20485dab27eb",
     "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "cb8e05a96dcdedcae6eed4f15f6ae5f032a03a456b19dec1dd9525fd0c346814",
     "cbbb4db439afaf244fee48c4b794c425b5d1f6e1b10119855bbadbb6561ee742",
     "d1d2a90e857ac95f34f0ecedd2b829ecd33fa3335fb7d22e498d76bf93a58c59",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
