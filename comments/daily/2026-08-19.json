@@ -1,9 +1,23 @@
 {
   "date": "2026-08-19",
   "verseKey": "daily:2026-08-19",
-  "updatedAt": 1787134445445,
+  "updatedAt": 1787135285889,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787134687918",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Mike 3:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787134688064,
+      "updatedAt": 1787134688064,
+      "status": "active"
+    },
     {
       "id": "local-1787133534713",
       "text": "Michée 3:5",
@@ -246,9 +260,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 76,
-  "shareCount": 117,
-  "viewCount": 391,
+  "likeCount": 77,
+  "shareCount": 124,
+  "viewCount": 398,
   "verseLikedBy": [
     "05adb25c9c7b360a8bd18360fa4e93227c443d0f2abcff58f3f345fe5fd57129",
     "0b94051b6c079d074686eb535146b61949e7ce7fe4a2c2e7a21c08c27bc49aa0",
@@ -279,6 +293,7 @@
     "5558c3f781549cf12acb607e853c09a7fed7535b8ce2055dffa536b701ef314f",
     "5d6e815ced0365f782e67e45347aa0d83dc83b5d10d36b01f43d04da294f52cd",
     "5d7f8efea72c1dda5c32265d6b4124124bffe69b3440f998f9b9bb5e653c362b",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "7ca0fc352240af8ecf68e6419fa2ab737bb5d78f71e9d47adff288d29b0fb483",
     "7cc7e108873d8fe307db67b3fa443cc1a8750c08b7e7c7727a7e80fd8bb0862e",
