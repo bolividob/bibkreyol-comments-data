@@ -1,9 +1,23 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787186691265,
+  "updatedAt": 1787187517740,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787187099246",
+      "text": "Amén",
+      "userDeviceId": "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
+      "userName": "sr wandline",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787187102397,
+      "updatedAt": 1787187102397,
+      "status": "active"
+    },
     {
       "id": "local-1787185916341",
       "text": "h",
@@ -77,13 +91,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 6,
-  "shareCount": 4,
-  "viewCount": 72,
+  "likeCount": 10,
+  "shareCount": 8,
+  "viewCount": 81,
   "verseLikedBy": [
+    "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
+    "1a040a05c19a4c67e7d8f08e1e2d4ead818719f2988b606a635627bd8eb9eb6d",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "40ca766f8f7f265f34b38f352c606a03bfdc5675c959a4e9f1187a4bc896d880",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
+    "657acda1b7ea0b903fea48ef25574b85628b2bf2ebfa124c9ceb65e32a75a8e5",
     "76c9c1762b913134621453d4506380043373eff7dbe8729c43aaf972401aba87",
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
     "de4ef48d97de07967ac538e7f0bf6d400f4b0a3abd7d4f9ccd59757b94e15ee1"
