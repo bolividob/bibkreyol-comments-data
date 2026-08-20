@@ -1,9 +1,23 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787236176394,
+  "updatedAt": 1787237068824,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787202549091",
+      "text": "good live",
+      "userDeviceId": "6dc36ca822ac093b979d44f9c8be89a00eed7846d9d1625ae9a788797a49f4c6",
+      "userName": "jacque",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787236600899,
+      "updatedAt": 1787236600899,
+      "status": "active"
+    },
     {
       "id": "local-1787228093361",
       "text": "amen amen amen",
@@ -323,8 +337,8 @@
     }
   ],
   "likeCount": 112,
-  "shareCount": 203,
-  "viewCount": 519,
+  "shareCount": 204,
+  "viewCount": 528,
   "verseLikedBy": [
     "023364fcc0eb7c68150db859d9a516ab8906f5fbe02132fac27e02699dc8511f",
     "0c4f9eed874521abd328a902d7bc6bca58f7b93c8e6202713d51e37b31f28f9e",
