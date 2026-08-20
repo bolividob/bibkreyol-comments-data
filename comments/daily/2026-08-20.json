@@ -1,9 +1,23 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787266770348,
+  "updatedAt": 1787267642491,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787256656929",
+      "text": "la bible est belle",
+      "userDeviceId": "9ba8d77dcf40db005e17ce9e41d8e557ee7cd9712f4a01c58a2f12ed8bd63633",
+      "userName": "꧁༒☬MINATO☬༒꧂",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787266871101,
+      "updatedAt": 1787266871101,
+      "status": "active"
+    },
     {
       "id": "local-1787265490090",
       "text": "aleluya aleluya aleluya 😭",
@@ -455,9 +469,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 161,
-  "shareCount": 316,
-  "viewCount": 808,
+  "likeCount": 163,
+  "shareCount": 318,
+  "viewCount": 819,
   "verseLikedBy": [
     "023364fcc0eb7c68150db859d9a516ab8906f5fbe02132fac27e02699dc8511f",
     "0c4f9eed874521abd328a902d7bc6bca58f7b93c8e6202713d51e37b31f28f9e",
@@ -483,6 +497,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "25dc419881a0dea6ce67a4f7500f32163ee1ec2de17b477e096c110ea20d01c7",
+    "2d1ad2b7c00b976d9d4c4e3baaddf2fc1f4da2aa08567048fc4f6a4538b5c153",
     "2d8a843a2909063486c696835f7d6683bd95bb8b5a23e2ca08fbb30909d45924",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
@@ -525,6 +540,7 @@
     "5bead86056d4059ab343e7acacd533a2fc89ff3987e281feedaeb7744787d75e",
     "5d307c97eda039345cf4f9b01b495a0bcb1ff837c1fcfbd5c265ba1a322838cb",
     "5f8c68eb7391e94b47b2dbaf994d311677ed8ec97e97e3d7776e76edb5e5f2db",
+    "6520986c68acea88a2f535082330733b68e97b51e9b8a5ede1f6a78fe1f077a5",
     "657acda1b7ea0b903fea48ef25574b85628b2bf2ebfa124c9ceb65e32a75a8e5",
     "65923280d34fddb2312c0fc5c6ce08f00bca959e2e7e9db0fb762b235d3b24a7",
     "692f62a310acdc9c823bf1fb2cb2b70577e04b3e47e320b2a87c05a9328af5b9",
