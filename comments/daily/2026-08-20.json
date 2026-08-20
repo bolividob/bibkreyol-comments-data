@@ -1,9 +1,67 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787185688248,
+  "updatedAt": 1787186691265,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787185916341",
+      "text": "h",
+      "userDeviceId": "622be1148cdf9be4f3a24a551ae33a944c545b6ef92c15edf5cdaa809c41ae3e",
+      "userName": "udj",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787185920049,
+      "updatedAt": 1787185920049,
+      "status": "active"
+    },
+    {
+      "id": "local-1787185898954",
+      "text": "amén",
+      "userDeviceId": "622be1148cdf9be4f3a24a551ae33a944c545b6ef92c15edf5cdaa809c41ae3e",
+      "userName": "udj",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787185911929,
+      "updatedAt": 1787185911929,
+      "status": "active"
+    },
+    {
+      "id": "local-1787185881932",
+      "text": "amén",
+      "userDeviceId": "622be1148cdf9be4f3a24a551ae33a944c545b6ef92c15edf5cdaa809c41ae3e",
+      "userName": "udj",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787185891766,
+      "updatedAt": 1787185891766,
+      "status": "active"
+    },
+    {
+      "id": "local-1787185869768",
+      "text": "amén",
+      "userDeviceId": "622be1148cdf9be4f3a24a551ae33a944c545b6ef92c15edf5cdaa809c41ae3e",
+      "userName": "udj",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "622be1148cdf9be4f3a24a551ae33a944c545b6ef92c15edf5cdaa809c41ae3e"
+      ],
+      "createdAt": 1787185887858,
+      "updatedAt": 1787185911778,
+      "status": "active"
+    },
     {
       "id": "local-1787184598531",
       "text": "Gras Bondye papa nou🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼😭😭",
@@ -19,14 +77,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 4,
+  "likeCount": 6,
   "shareCount": 4,
-  "viewCount": 60,
+  "viewCount": 72,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "40ca766f8f7f265f34b38f352c606a03bfdc5675c959a4e9f1187a4bc896d880",
     "76c9c1762b913134621453d4506380043373eff7dbe8729c43aaf972401aba87",
-    "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75"
+    "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
+    "de4ef48d97de07967ac538e7f0bf6d400f4b0a3abd7d4f9ccd59757b94e15ee1"
   ],
   "verseViewBy": []
 }
