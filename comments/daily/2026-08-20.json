@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787188494438,
+  "updatedAt": 1787189292461,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "1 Piè 4:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1332360c7eaa78d302ba388b193628cfa8edb41d493363b887376961cb61b2a3"
+      ],
       "createdAt": 1787187792548,
-      "updatedAt": 1787187792548,
+      "updatedAt": 1787189033412,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "1 Piè 4:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1332360c7eaa78d302ba388b193628cfa8edb41d493363b887376961cb61b2a3"
+      ],
       "createdAt": 1787185920049,
-      "updatedAt": 1787185920049,
+      "updatedAt": 1787189045490,
       "status": "active"
     },
     {
@@ -96,12 +100,13 @@
       "verseName": "1 Piè 4:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "1332360c7eaa78d302ba388b193628cfa8edb41d493363b887376961cb61b2a3",
         "622be1148cdf9be4f3a24a551ae33a944c545b6ef92c15edf5cdaa809c41ae3e"
       ],
       "createdAt": 1787185887858,
-      "updatedAt": 1787185911778,
+      "updatedAt": 1787189051920,
       "status": "active"
     },
     {
@@ -119,21 +124,28 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 14,
-  "viewCount": 91,
+  "likeCount": 18,
+  "shareCount": 17,
+  "viewCount": 98,
   "verseLikedBy": [
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
     "1a040a05c19a4c67e7d8f08e1e2d4ead818719f2988b606a635627bd8eb9eb6d",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "406d5de19eaa198a39446e13b0b4e7e211fa8b7f5d5646b58c4149c075be403b",
     "40ca766f8f7f265f34b38f352c606a03bfdc5675c959a4e9f1187a4bc896d880",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
+    "4862d0ad605e5cd605d675b0ab6c270e24205373185da09d2411125eff124efa",
     "657acda1b7ea0b903fea48ef25574b85628b2bf2ebfa124c9ceb65e32a75a8e5",
+    "65923280d34fddb2312c0fc5c6ce08f00bca959e2e7e9db0fb762b235d3b24a7",
+    "727f19e86cfd453d825ed1d2a4fdfff9bb3fad16070fd4f546c9b730e49655b0",
+    "74c57ccd6ebf25006197ecf1fec1a7ae7e32a61fd8c68924214b852fb158cc19",
     "76c9c1762b913134621453d4506380043373eff7dbe8729c43aaf972401aba87",
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
-    "de4ef48d97de07967ac538e7f0bf6d400f4b0a3abd7d4f9ccd59757b94e15ee1"
+    "de4ef48d97de07967ac538e7f0bf6d400f4b0a3abd7d4f9ccd59757b94e15ee1",
+    "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
+    "ff4ddb5638e05933fe7d35499dc4e507d2df70abc08bfa0436805d81a8497590"
   ],
   "verseViewBy": []
 }
