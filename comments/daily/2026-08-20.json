@@ -1,9 +1,23 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787209102647,
+  "updatedAt": 1787210057891,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787209310915",
+      "text": "amén y amén amén amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787209318328,
+      "updatedAt": 1787209318328,
+      "status": "active"
+    },
     {
       "id": "local-1787199747867",
       "text": "😭😭😭😭",
@@ -264,9 +278,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 63,
-  "shareCount": 70,
-  "viewCount": 284,
+  "likeCount": 65,
+  "shareCount": 71,
+  "viewCount": 292,
   "verseLikedBy": [
     "0daa04bc6f13c725b3de5ba9a9ba64e2e491bafbea7a39577eb6be7b7ecc01e7",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
@@ -295,6 +309,7 @@
     "657acda1b7ea0b903fea48ef25574b85628b2bf2ebfa124c9ceb65e32a75a8e5",
     "65923280d34fddb2312c0fc5c6ce08f00bca959e2e7e9db0fb762b235d3b24a7",
     "692f62a310acdc9c823bf1fb2cb2b70577e04b3e47e320b2a87c05a9328af5b9",
+    "6b569ecec7f142c1c9b0c6806e5b1776e0e4a62c878c44059cb704e890dc5227",
     "70e8cba0407de2670f031b38a5717663d14e7e8dd5fb8f196cefc8d4b324a3c1",
     "7126671abcd7b2fb81b304db17109e3242934552d3368d288520d6e5200d1f38",
     "727f19e86cfd453d825ed1d2a4fdfff9bb3fad16070fd4f546c9b730e49655b0",
@@ -321,6 +336,7 @@
     "d1c2a694439a3fb233e2afc7507feae53b5caf1d519ad4990b8e821083c0c644",
     "d314d78b9bf17b368b511ba3c4d5abb426c64ca932587a7dd0ff068b90a51bf5",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "de4ef48d97de07967ac538e7f0bf6d400f4b0a3abd7d4f9ccd59757b94e15ee1",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e4f76a83283a4c72c1373541625ad97a4c7a95ab3f2b07b20a0e7f39d8be0ee3",
