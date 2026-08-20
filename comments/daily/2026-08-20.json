@@ -1,9 +1,23 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787247852308,
+  "updatedAt": 1787248717559,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787248359045",
+      "text": "amèn",
+      "userDeviceId": "c842684e98cfaefaa72cca894e4dea8c4d7528bf8667b1fdb9d3267e9978dfab",
+      "userName": "Louimar",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787248362965,
+      "updatedAt": 1787248362965,
+      "status": "active"
+    },
     {
       "id": "local-1787242156953",
       "text": "amèn",
@@ -393,9 +407,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 134,
-  "shareCount": 258,
-  "viewCount": 634,
+  "likeCount": 136,
+  "shareCount": 259,
+  "viewCount": 643,
   "verseLikedBy": [
     "023364fcc0eb7c68150db859d9a516ab8906f5fbe02132fac27e02699dc8511f",
     "0c4f9eed874521abd328a902d7bc6bca58f7b93c8e6202713d51e37b31f28f9e",
@@ -502,6 +516,7 @@
     "c227077e0664c7a051a7190febd13d225776f74de65c0f7b08177cb825248906",
     "c6f555f62a2fceae3eb5b95e48c3505ffe1dafdf9155d4036d14efd07abe45ad",
     "c7615c2c06620e28666f4fb87dda3b50c8c7b9b943ce1b949573fb7bd213a1b5",
+    "c842684e98cfaefaa72cca894e4dea8c4d7528bf8667b1fdb9d3267e9978dfab",
     "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c90a903be6879e166a33636d80c62f4747ce8d01607ff6b9a0e2677a103c0a3b",
@@ -521,6 +536,7 @@
     "e5de97bb85c37c96d51274b0d30cbce4d36497c214b57e0bd7326519f0057d18",
     "e7abc50825f1884da7e65f28a3b8dcfcf2926738995e360a66c2969bad4f2bf6",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
+    "f5f471559809720d98e6effc76962635def9bbb3585dbb092806f83ea64ffbf0",
     "f62c25877e60e52d95becf37ce08271bebb4132ffab8f3e9107c200beeb68a9a",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f7667ce711176630be200c9a37938467ee7bc97c302e88cf9fb89ceb1db4bc20",
