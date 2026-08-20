@@ -1,9 +1,37 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787197455254,
+  "updatedAt": 1787198382283,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787197804593",
+      "text": "3520",
+      "userDeviceId": "8f8424ba4a2291e418693856bed68caac5b3b20e8a7048c3feb14a7eb8b2594b",
+      "userName": "luck",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787197812918,
+      "updatedAt": 1787197812918,
+      "status": "active"
+    },
+    {
+      "id": "local-1787197793849",
+      "text": "3520",
+      "userDeviceId": "8f8424ba4a2291e418693856bed68caac5b3b20e8a7048c3feb14a7eb8b2594b",
+      "userName": "luck",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787197807734,
+      "updatedAt": 1787197807734,
+      "status": "active"
+    },
     {
       "id": "local-1787196980721",
       "text": "orinel wipheterlande",
@@ -222,12 +250,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 49,
-  "viewCount": 186,
+  "likeCount": 50,
+  "shareCount": 50,
+  "viewCount": 193,
   "verseLikedBy": [
     "0daa04bc6f13c725b3de5ba9a9ba64e2e491bafbea7a39577eb6be7b7ecc01e7",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
+    "141a22c4fae25af69590e9ca4a1f7b8b5b6a84bef1b6332f6fa5ac721acb53df",
     "1a040a05c19a4c67e7d8f08e1e2d4ead818719f2988b606a635627bd8eb9eb6d",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -244,6 +273,7 @@
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "4862d0ad605e5cd605d675b0ab6c270e24205373185da09d2411125eff124efa",
     "531ba55cde1f45bf35651cd371d81a2bcd907100bd56cbe612821cccf93f589f",
+    "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "657acda1b7ea0b903fea48ef25574b85628b2bf2ebfa124c9ceb65e32a75a8e5",
     "65923280d34fddb2312c0fc5c6ce08f00bca959e2e7e9db0fb762b235d3b24a7",
@@ -258,6 +288,7 @@
     "91f4eeba8ebf9756e627ecd868195103738ff0ae00e643cad5c5d79dc993391b",
     "955795b877cafd9ac55a05f9565353e1e32527ee731bdf652f7fb2355d9b1c7d",
     "955a7c67a210c939e9a35266b9d2493bb543a9641869bfe3ed3f729e2afc0741",
+    "983cc311a7131648d02af0e74757f594f0db1f98b5e94e804076ed7eb35662a3",
     "9bf329a10bb1f1e252e5efd606067f34adff3a67a3917588cd656483698b50bf",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a0319a44ce88835a7486b7f03e283fce80d5d20c901b5df1643aa82a5519e94f",
