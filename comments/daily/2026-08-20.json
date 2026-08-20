@@ -1,9 +1,37 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787196537137,
+  "updatedAt": 1787197455254,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787196980721",
+      "text": "orinel wipheterlande",
+      "userDeviceId": "927c7e64cb72e9b3aa9fc9c6c43403ded4d6b22475ee95c40754417c6d7513ba",
+      "userName": "orinel wipheterlande",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787196985506,
+      "updatedAt": 1787196985506,
+      "status": "active"
+    },
+    {
+      "id": "local-1787196940724",
+      "text": "orinel wipheterlande",
+      "userDeviceId": "927c7e64cb72e9b3aa9fc9c6c43403ded4d6b22475ee95c40754417c6d7513ba",
+      "userName": "orinel wipheterlande",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787196948506,
+      "updatedAt": 1787196948506,
+      "status": "active"
+    },
     {
       "id": "local-1787195048731",
       "text": "amén",
@@ -195,8 +223,8 @@
     }
   ],
   "likeCount": 46,
-  "shareCount": 47,
-  "viewCount": 177,
+  "shareCount": 49,
+  "viewCount": 186,
   "verseLikedBy": [
     "0daa04bc6f13c725b3de5ba9a9ba64e2e491bafbea7a39577eb6be7b7ecc01e7",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
