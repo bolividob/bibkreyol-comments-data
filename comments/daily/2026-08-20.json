@@ -1,9 +1,23 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787199247714,
+  "updatedAt": 1787200086609,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787199747867",
+      "text": "😭😭😭😭",
+      "userDeviceId": "c7615c2c06620e28666f4fb87dda3b50c8c7b9b943ce1b949573fb7bd213a1b5",
+      "userName": "Linda Michel",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787199764730,
+      "updatedAt": 1787199764730,
+      "status": "active"
+    },
     {
       "id": "local-1787197804593",
       "text": "3520",
@@ -250,9 +264,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 53,
-  "shareCount": 54,
-  "viewCount": 203,
+  "likeCount": 56,
+  "shareCount": 56,
+  "viewCount": 211,
   "verseLikedBy": [
     "0daa04bc6f13c725b3de5ba9a9ba64e2e491bafbea7a39577eb6be7b7ecc01e7",
     "10308cad518edc172db96488cc1b52a7000770d07bc1e2e0d3c0794dc2ca173c",
@@ -262,6 +276,7 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
+    "30ba216e9881c42e44a36294d09ac1e6efafc892b6ab13e854be1e9ee207c22b",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "31c18fae3a9cf44fa448b7de648d7336882b7b0ccfef2f131d85be889494cdfc",
     "32911334d1d0fc0dc71ba200d642e8703d53e97396f45bbb92e5ebace37b2aee",
@@ -295,8 +310,10 @@
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
     "acec63c5f0150e4e1a2f0cfe2ba4667949c52ce7119e624e7e8ccc4ac1d3fe65",
     "c227077e0664c7a051a7190febd13d225776f74de65c0f7b08177cb825248906",
+    "c7615c2c06620e28666f4fb87dda3b50c8c7b9b943ce1b949573fb7bd213a1b5",
     "cab7997c0bfa9500095a7d672478fe093b26ee66ac41ba4b75769e9ab38ee242",
     "d1c2a694439a3fb233e2afc7507feae53b5caf1d519ad4990b8e821083c0c644",
+    "d314d78b9bf17b368b511ba3c4d5abb426c64ca932587a7dd0ff068b90a51bf5",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "de4ef48d97de07967ac538e7f0bf6d400f4b0a3abd7d4f9ccd59757b94e15ee1",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
