@@ -1,9 +1,37 @@
 {
   "date": "2026-08-21",
   "verseKey": "daily:2026-08-21",
-  "updatedAt": 1787290083723,
+  "updatedAt": 1787291054963,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787291051649",
+      "text": "❤❤❤❤🙏🙏",
+      "userDeviceId": "0cfd8acf299feeddc16bcdf1a5a84ae183d275f14d9b7dc555878ee89434aa5d",
+      "userName": "Barso Austem",
+      "verseName": "Jonas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787291052905,
+      "updatedAt": 1787291052905,
+      "status": "active"
+    },
+    {
+      "id": "local-1787291005670",
+      "text": "amèn 🙏🙏🙏🙏🤲",
+      "userDeviceId": "0cfd8acf299feeddc16bcdf1a5a84ae183d275f14d9b7dc555878ee89434aa5d",
+      "userName": "Barso Austem",
+      "verseName": "Jonas 1:4",
+      "parentId": "local-1787281760632",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787291006923,
+      "updatedAt": 1787291006923,
+      "status": "active"
+    },
     {
       "id": "local-1787281760632",
       "text": "amen",
@@ -11,11 +39,11 @@
       "userName": "a menos dios es grande",
       "verseName": "Jonas 1:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787281761339,
-      "updatedAt": 1787281761339,
+      "updatedAt": 1787291006923,
       "status": "active"
     },
     {
@@ -35,14 +63,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
+  "likeCount": 60,
   "shareCount": 61,
-  "viewCount": 255,
+  "viewCount": 263,
   "verseLikedBy": [
     "044667e30a760a74e2bc92bc3a57c0fc002fdaab1aabeed11802ef62dfd60d26",
     "08b124467357910ce23c550571680a317194ef110f56f83e4be3ffc947af2548",
     "0becaa652c5ee7cacee7af1bfb6bb7bf6f732b3e6ddc8da07dad44bff9e7169c",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
+    "0cfd8acf299feeddc16bcdf1a5a84ae183d275f14d9b7dc555878ee89434aa5d",
     "0ec226459b6a5f88ae668fc3a25e438204fee8852108426a9f9a41eb41a96ab0",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "180787796d3c3f30e9edd2afe543356bbd0a70071f953b0c75bfd34b8689a0e1",
