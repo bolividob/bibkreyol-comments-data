@@ -1,9 +1,23 @@
 {
   "date": "2026-08-21",
   "verseKey": "daily:2026-08-21",
-  "updatedAt": 1787314444404,
+  "updatedAt": 1787315404746,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787314550874",
+      "text": "Amén merci seignuer",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Jonas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787314551959,
+      "updatedAt": 1787314551959,
+      "status": "active"
+    },
     {
       "id": "local-1787310992397",
       "text": "Amen",
@@ -175,9 +189,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 142,
-  "viewCount": 468,
+  "likeCount": 94,
+  "shareCount": 145,
+  "viewCount": 477,
   "verseLikedBy": [
     "044667e30a760a74e2bc92bc3a57c0fc002fdaab1aabeed11802ef62dfd60d26",
     "08b124467357910ce23c550571680a317194ef110f56f83e4be3ffc947af2548",
@@ -206,6 +220,7 @@
     "395984bd342bb924bd7b1835c5e8e8104503bd165ce4484d9703e01ffbcfeeb9",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "40dd0525e9fc560dcf0f782b3eee5d8c79b5e6173a2edf564b55569ba66e8e49",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
@@ -247,6 +262,7 @@
     "aba2a3b7abb012ea8f162036ea9932eb8b9685153f2c144c08a2840d26527990",
     "ad04925d3bd4ea059d3db8913535eec89e251b374c9da615813a2d345e28f22f",
     "b2ccadf420d58a27e59cf7c7b4f27d0a7824b427f9d55ce79d73fbb693c9c74b",
+    "b42916ab60174605f0cc39ae16aa463a485d9ba46a321e1207b8c3cd742aa33d",
     "b6af75a86f33f8958a9af4f1f1ec0a89d50bf86968c3c941e9fc9128457a4054",
     "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
     "c2e07d24fb5b0cbd153c048483ca946b5634fdbce0b7ef2095060fdfd31ff9ef",
