@@ -1,9 +1,37 @@
 {
   "date": "2026-08-21",
   "verseKey": "daily:2026-08-21",
-  "updatedAt": 1787291054963,
+  "updatedAt": 1787291915750,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787291172823",
+      "text": "mw vle la bib la klè",
+      "userDeviceId": "0cfd8acf299feeddc16bcdf1a5a84ae183d275f14d9b7dc555878ee89434aa5d",
+      "userName": "Barso Austem",
+      "verseName": "Jonas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787291174156,
+      "updatedAt": 1787291174156,
+      "status": "active"
+    },
+    {
+      "id": "local-1787291129228",
+      "text": "lik 3vèsè3",
+      "userDeviceId": "0cfd8acf299feeddc16bcdf1a5a84ae183d275f14d9b7dc555878ee89434aa5d",
+      "userName": "Barso Austem",
+      "verseName": "Jonas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787291131587,
+      "updatedAt": 1787291131587,
+      "status": "active"
+    },
     {
       "id": "local-1787291051649",
       "text": "❤❤❤❤🙏🙏",
@@ -63,9 +91,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
-  "shareCount": 61,
-  "viewCount": 263,
+  "likeCount": 61,
+  "shareCount": 62,
+  "viewCount": 269,
   "verseLikedBy": [
     "044667e30a760a74e2bc92bc3a57c0fc002fdaab1aabeed11802ef62dfd60d26",
     "08b124467357910ce23c550571680a317194ef110f56f83e4be3ffc947af2548",
@@ -88,6 +116,7 @@
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "40dd0525e9fc560dcf0f782b3eee5d8c79b5e6173a2edf564b55569ba66e8e49",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
+    "458293b3fb5d9b23a06c2b4dc74f65a735b5b477f0c7c68b89eca54b761d673f",
     "4ab4f82dee1dd4fb9e94e801fbe1483c103898be89b7b673f4cff5918a91c4fb",
     "4f0b3c21ee8dd8c0e67b46b9299d0e6554ea170712e6ab484afc5a1db9db3b11",
     "5c838e692b7fc4beffa49e4765dd01ef79834d3c149025654d4661002c8800f6",
