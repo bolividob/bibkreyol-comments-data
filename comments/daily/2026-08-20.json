@@ -1,9 +1,23 @@
 {
   "date": "2026-08-20",
   "verseKey": "daily:2026-08-20",
-  "updatedAt": 1787269441368,
+  "updatedAt": 1787270301679,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787270047161",
+      "text": "amèn amèn",
+      "userDeviceId": "e1d0fdb422a3e8039b42f789c94cb7b4d4b66b648022ef1eb85c21868f689672",
+      "userName": "amèn 🙏❤️",
+      "verseName": "1 Piè 4:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787270048157,
+      "updatedAt": 1787270048157,
+      "status": "active"
+    },
     {
       "id": "local-1787256656929",
       "text": "la bible est belle",
@@ -469,9 +483,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 167,
-  "shareCount": 321,
-  "viewCount": 839,
+  "likeCount": 171,
+  "shareCount": 325,
+  "viewCount": 848,
   "verseLikedBy": [
     "023364fcc0eb7c68150db859d9a516ab8906f5fbe02132fac27e02699dc8511f",
     "0a7783a4f218f5a7ec7c370d46333f35fc96045c54b29c8c84b79ad8596d8d17",
@@ -530,6 +544,7 @@
     "4862d0ad605e5cd605d675b0ab6c270e24205373185da09d2411125eff124efa",
     "49fc5adf1bbb301fe0dbec5b2c0a62d185df89130b81a6d25edb7f0bbd51d4d7",
     "4b408a28be1011629d2bd0558d9e2950bd27c805620429a9ee135af86b10e569",
+    "4c2fe7803567958212767fedb323f1eebc6e43ed26a074effce86b164896b61e",
     "4c967d8cb13fd19ba46a61a7db9f1f0ea93adbecf53b58794c5b5a9d446f4d32",
     "4cbdf1834377c39b778ac83e22e3f0c0aad8780f53749ea61893f2654ed85537",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
@@ -614,9 +629,11 @@
     "d314d78b9bf17b368b511ba3c4d5abb426c64ca932587a7dd0ff068b90a51bf5",
     "d32d580fdc9d7e6302390e55b75de57dfb103d10294ec1af8a0bc7b514251ca8",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
+    "d5770289c830d69f9c473d99527d5ae89638e74d6598e9fe65a7375e199d8a90",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dd51c2cd802e0c7e9041b13e838c0c5e92d0e55d1376f5ac7a24e70ff764fb06",
     "de4ef48d97de07967ac538e7f0bf6d400f4b0a3abd7d4f9ccd59757b94e15ee1",
+    "e1d0fdb422a3e8039b42f789c94cb7b4d4b66b648022ef1eb85c21868f689672",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
     "e4f76a83283a4c72c1373541625ad97a4c7a95ab3f2b07b20a0e7f39d8be0ee3",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
@@ -632,6 +649,7 @@
     "f62c25877e60e52d95becf37ce08271bebb4132ffab8f3e9107c200beeb68a9a",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f7667ce711176630be200c9a37938467ee7bc97c302e88cf9fb89ceb1db4bc20",
+    "f7816594106dfc84fab43e8fcad9aea1b2470c92e58fc7b22af80ef38281e3c7",
     "f7d3110b2f11477754e0e2a41d81bf8fbed7b7533ccb08dd5be672aee0295e21",
     "f8dac56e2670b908af3bd900299cfa7ecfaa9cc51ac79acf584df9d67af505a8",
     "f929cea38520c576c770dae86b8be9144e4be8aaa6380b0230a6f0820cae1163",
