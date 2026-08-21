@@ -1,9 +1,23 @@
 {
   "date": "2026-08-21",
   "verseKey": "daily:2026-08-21",
-  "updatedAt": 1787295603660,
+  "updatedAt": 1787296479439,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787296464303",
+      "text": "amén amén amén amén amén 🙏🙏",
+      "userDeviceId": "f09b1caa73b15686a180f18e04e90ec9c7275023462072f364dc79d64075f5df",
+      "userName": "chinaylove",
+      "verseName": "Jonas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787296466790,
+      "updatedAt": 1787296466790,
+      "status": "active"
+    },
     {
       "id": "local-1787291172823",
       "text": "mw vle la bib la klè",
@@ -91,9 +105,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 68,
-  "viewCount": 301,
+  "likeCount": 63,
+  "shareCount": 69,
+  "viewCount": 309,
   "verseLikedBy": [
     "044667e30a760a74e2bc92bc3a57c0fc002fdaab1aabeed11802ef62dfd60d26",
     "08b124467357910ce23c550571680a317194ef110f56f83e4be3ffc947af2548",
@@ -153,6 +167,7 @@
     "e8ff3ffc8e8f9d320a7e730a273f999ace03d3fc3f3c1310402d1cdf6b504adf",
     "ebcd24c5b82b45e7321338194967d1795e79eb16ea17e856dc2ceaa7805c712a",
     "eddd4660768ad25ddc2334f46f0bd048480fba634828abbf89d4585c8e3bb77f",
+    "f09b1caa73b15686a180f18e04e90ec9c7275023462072f364dc79d64075f5df",
     "f749094fd2d3222288ee2a77413475c0c759dd0a80955faa0a76167ffe17b1a8",
     "f7cf6aef31f70570f58f113d9ff5bcdae4a8536ee5f280197a3befd0bfd4d2df",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
