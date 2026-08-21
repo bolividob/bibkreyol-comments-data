@@ -1,9 +1,23 @@
 {
   "date": "2026-08-21",
   "verseKey": "daily:2026-08-21",
-  "updatedAt": 1787333401914,
+  "updatedAt": 1787334246685,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787333865044",
+      "text": "mwen gn 2 moi mw pa fòmé mwen fé tés Li mou te onba",
+      "userDeviceId": "f09b1caa73b15686a180f18e04e90ec9c7275023462072f364dc79d64075f5df",
+      "userName": "chinaylove",
+      "verseName": "Jonas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787333868358,
+      "updatedAt": 1787333868358,
+      "status": "active"
+    },
     {
       "id": "local-1787319286988",
       "text": "jezi kapab",
@@ -204,8 +218,8 @@
     }
   ],
   "likeCount": 136,
-  "shareCount": 200,
-  "viewCount": 650,
+  "shareCount": 202,
+  "viewCount": 659,
   "verseLikedBy": [
     "02442704c89000f3bbff1ec6f494744e13c79b1fb476208b369aeaa30791d0ef",
     "044667e30a760a74e2bc92bc3a57c0fc002fdaab1aabeed11802ef62dfd60d26",
