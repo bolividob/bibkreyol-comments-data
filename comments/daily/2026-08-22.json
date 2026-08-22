@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787365802625,
+  "updatedAt": 1787366688019,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787366394830",
+      "text": "Amen",
+      "userDeviceId": "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
+      "userName": "sr Mama",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787366396114,
+      "updatedAt": 1787366396114,
+      "status": "active"
+    },
     {
       "id": "local-1787364207964",
       "text": "Amen",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
-  "shareCount": 37,
-  "viewCount": 140,
+  "likeCount": 31,
+  "shareCount": 41,
+  "viewCount": 151,
   "verseLikedBy": [
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
     "085135d0d8110b7454e06515b0316b08023489b2a63aaf6bd7fb026f03adca09",
@@ -85,13 +99,16 @@
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "86ce62b4e07ee868e4f9620a191990d93e96190d1665ee97bfdf4b79afcc3b7b",
     "882b2652436b79ff2c0dbf93a44e261f257dea624b1247f6e22287e5d3661af1",
+    "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "adbf018e03795c94f8998f044bd35ef855ad5f53342162a68c97d62878c43819",
     "ba2f42f83b6bf48db24c70acc3c9ce8df01c71a1d5e3c0847b717d3d551287b8",
     "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
     "bcb25e3b7ec294e28bbffcd97bdb399353d48d421b77a45ee5e1eb2a591254b1",
     "d05cf7ae2c0b9b3c7ba67eef41110fdfd217b1e426d8de977e2853b8f4539f19",
+    "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
     "d5c09c9fc804346d3385599a0f7a8d8fce33a8205037e245016ce4dddd5ce2d0",
+    "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
   ],
   "verseViewBy": []
