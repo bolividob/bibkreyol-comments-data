@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787364000394,
+  "updatedAt": 1787364840878,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787364207964",
+      "text": "Amen",
+      "userDeviceId": "86ce62b4e07ee868e4f9620a191990d93e96190d1665ee97bfdf4b79afcc3b7b",
+      "userName": "women of God",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787364214764,
+      "updatedAt": 1787364214764,
+      "status": "active"
+    },
     {
       "id": "local-1787363407105",
       "text": "Ariana",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
-  "shareCount": 28,
-  "viewCount": 118,
+  "likeCount": 23,
+  "shareCount": 34,
+  "viewCount": 130,
   "verseLikedBy": [
     "085135d0d8110b7454e06515b0316b08023489b2a63aaf6bd7fb026f03adca09",
     "0cfd866aa4da51abb5b5188ad7f983500805dfc405d85c7512afcdf6d130c8d8",
@@ -59,13 +73,18 @@
     "29daf1ad8a44900dbfbb541f6a90455c68cc47b5bb4d1857950887a66798c113",
     "2b4225b0211cc71e2fd700a52f56db430a361f8822ed38aa8f9e910ccb5f2ab2",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
+    "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3f73a3b7007da11e2601786de999905477408094875264711420ec89944fb5dc",
+    "47f7dd5072a14440e092a3d54f5bae1389e25fd8c24897c7b613aebe4c356f7c",
     "57b670a5fda31088c3c14358356f5cb38bbeb72800bf0faa51e6e2eb744f29a2",
     "5e4ded4b79b3f2406ad057f3bb95978a10fa92bdf270541205ce3f39715a97c7",
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
+    "86ce62b4e07ee868e4f9620a191990d93e96190d1665ee97bfdf4b79afcc3b7b",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "adbf018e03795c94f8998f044bd35ef855ad5f53342162a68c97d62878c43819",
+    "ba2f42f83b6bf48db24c70acc3c9ce8df01c71a1d5e3c0847b717d3d551287b8",
+    "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
     "bcb25e3b7ec294e28bbffcd97bdb399353d48d421b77a45ee5e1eb2a591254b1",
     "d05cf7ae2c0b9b3c7ba67eef41110fdfd217b1e426d8de977e2853b8f4539f19",
     "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
