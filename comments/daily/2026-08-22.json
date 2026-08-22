@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787402691444,
+  "updatedAt": 1787403602694,
   "version": 1,
   "comments": [
     {
@@ -76,10 +76,12 @@
       "verseName": "Jozye 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a226e2b88e25adf87127a59ba4dc61596278c8210ff5d475b201ce3d96249edd"
+      ],
       "createdAt": 1787370753277,
-      "updatedAt": 1787370753277,
+      "updatedAt": 1787403146539,
       "status": "active"
     },
     {
@@ -93,7 +95,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787367717635,
-      "updatedAt": 1787367717635,
+      "updatedAt": 1787403154606,
       "status": "active"
     },
     {
@@ -181,9 +183,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 107,
-  "shareCount": 142,
-  "viewCount": 486,
+  "likeCount": 110,
+  "shareCount": 145,
+  "viewCount": 494,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
@@ -196,6 +198,7 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "12deb4a04bdaa3f2cb07411e208e1dd86a55cad2349a9d2241fdf0f43aceff65",
     "1375c830bca6877af00fca219e42e2332bc08ba6df265937ccf5d189aa772705",
+    "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1961a7e44efeefbcc8c7fb9fee62b654879b64157b36b8bda0c0afcf54f87826",
     "1a03bfce4462e998ff463cf112c00692fe1bccfc3c380404ff33baad9bf9915b",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
@@ -246,6 +249,7 @@
     "8a5b8d17995350bed39593decf68c27a9242a51348d91656c3bc0b5d3f6176c8",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8ebecb17808240973c684265b1dc152ad2c308d71a5200ce2c972d8703ac7070",
+    "8edf0aee57a104c023a442d491fc395b6944ec1d7126c255af66310cd922de68",
     "96865c8d9574a5ae93c2b525ad7f5943144540d2d2f655b64c7c3fa70e333923",
     "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
     "9b80476a310e8c94ee0ff8f2b98411a805581ad5076965810fa9b2c279edd04e",
@@ -277,6 +281,7 @@
     "ccf0d9a496998a8a92d08bcfadb29d4417ef78d03ab9ac36fbe10087eacc7fce",
     "d05cf7ae2c0b9b3c7ba67eef41110fdfd217b1e426d8de977e2853b8f4539f19",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
+    "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d5c09c9fc804346d3385599a0f7a8d8fce33a8205037e245016ce4dddd5ce2d0",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dc5864c9ade978c49ef4f6d222f1c731e71fbbed23f561799cf9e0018dda85ed",
