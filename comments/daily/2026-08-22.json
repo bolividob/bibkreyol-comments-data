@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787419692099,
+  "updatedAt": 1787420649074,
   "version": 1,
   "comments": [
     {
@@ -43,7 +43,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787408718739,
-      "updatedAt": 1787408718739,
+      "updatedAt": 1787419972331,
       "status": "active"
     },
     {
@@ -54,10 +54,12 @@
       "verseName": "Jozye 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4786b557f62809a3f3b2335cff7d11b664140ac7e4567b52ec289281dad581ad"
+      ],
       "createdAt": 1787408700733,
-      "updatedAt": 1787408700733,
+      "updatedAt": 1787419970263,
       "status": "active"
     },
     {
@@ -110,12 +112,13 @@
       "verseName": "Jozye 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "4786b557f62809a3f3b2335cff7d11b664140ac7e4567b52ec289281dad581ad",
         "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
       ],
       "createdAt": 1787399389657,
-      "updatedAt": 1787401802150,
+      "updatedAt": 1787420121843,
       "status": "active"
     },
     {
@@ -281,9 +284,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 137,
-  "shareCount": 184,
-  "viewCount": 649,
+  "likeCount": 138,
+  "shareCount": 185,
+  "viewCount": 658,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
@@ -322,6 +325,7 @@
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "37377a31ecd987a8a5d93a49516b298223a70cde86e16e0b5192f1130859ac10",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
+    "3f0990cf580ced7bbce02f8605c5243d26deb1cd020578bc1edc3f582ddf7d53",
     "3f73a3b7007da11e2601786de999905477408094875264711420ec89944fb5dc",
     "42ab28057c9acef71314dfd30e8dc8460ee5bf2421e4332729d5b35a8e493cfe",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
