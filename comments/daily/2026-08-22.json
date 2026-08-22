@@ -1,9 +1,37 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787403602694,
+  "updatedAt": 1787404441552,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787404313562",
+      "text": "pawol bondye a se lavi",
+      "userDeviceId": "e1733f9601084bf340156e3cbc73fe71cea80030fb5a8cb6e1676acca34812c2",
+      "userName": "a menos dios es grande",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787404314702,
+      "updatedAt": 1787404314702,
+      "status": "active"
+    },
+    {
+      "id": "local-1787403878457",
+      "text": "amén 🙏 7 fwaaa",
+      "userDeviceId": "f2d33cfdf3bf3e0dbc9b410eac228bf5f73e4ebe2a9d445ca32780e796bd9562",
+      "userName": "Sr cherlande",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787403880011,
+      "updatedAt": 1787403880011,
+      "status": "active"
+    },
     {
       "id": "local-1787399387335",
       "text": "amèn tout glwa se pou ou Bondye",
@@ -183,9 +211,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 145,
-  "viewCount": 494,
+  "likeCount": 113,
+  "shareCount": 146,
+  "viewCount": 505,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
@@ -286,13 +314,16 @@
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dc5864c9ade978c49ef4f6d222f1c731e71fbbed23f561799cf9e0018dda85ed",
     "de8ab10c0296894f830358cea7b6b9182f596f342556ea9186775f5aeffc2472",
+    "e1733f9601084bf340156e3cbc73fe71cea80030fb5a8cb6e1676acca34812c2",
     "e2216c9ddc6c3cb9e0d4313c561fd682f5fbc8ec76741d3764ecc4cc9fe0a6f2",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e82324e26b130b42d1fd9353210afb44bab5f539b5193bdc7d39db0793f671be",
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
     "eb10f983e70cb17bf00f794a6fd77fffc4ae01102a6f76eaf243ccb3027016b0",
     "ecf7ec2313406fc807248740ec594b866543c315e037f6f8f6a8281db53454f5",
+    "ed5ef03a8bdad63cbc5a952a3b76fd349b9b712e81f75057657a56046300f3b0",
     "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f",
+    "f2d33cfdf3bf3e0dbc9b410eac228bf5f73e4ebe2a9d445ca32780e796bd9562",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "fbb33ee116e2d2263bb2caf11d04156b307f690a5e55c58d412a29a35fea8eee",
