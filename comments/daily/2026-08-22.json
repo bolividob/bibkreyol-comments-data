@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787400840906,
+  "updatedAt": 1787401804226,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jozye 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1787399389657,
-      "updatedAt": 1787399389657,
+      "updatedAt": 1787401802150,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Jozye 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1787396652446,
-      "updatedAt": 1787396652446,
+      "updatedAt": 1787401800711,
       "status": "active"
     },
     {
@@ -40,10 +44,12 @@
       "verseName": "Jozye 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1787380492452,
-      "updatedAt": 1787380492452,
+      "updatedAt": 1787401804226,
       "status": "active"
     },
     {
@@ -174,8 +180,8 @@
     }
   ],
   "likeCount": 102,
-  "shareCount": 137,
-  "viewCount": 469,
+  "shareCount": 139,
+  "viewCount": 479,
   "verseLikedBy": [
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
