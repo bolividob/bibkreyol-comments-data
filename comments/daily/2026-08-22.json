@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787422482387,
+  "updatedAt": 1787423288781,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787422572125",
+      "text": "bib",
+      "userDeviceId": "55ec4a07fdb7728592a05ba5f58a73b138e611df8cdc9d6665d37096a65096d7",
+      "userName": "janac",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787422573109,
+      "updatedAt": 1787422573109,
+      "status": "active"
+    },
     {
       "id": "local-1787417476903",
       "text": "Amém 🙏🙏",
@@ -288,7 +302,7 @@
   ],
   "likeCount": 138,
   "shareCount": 189,
-  "viewCount": 674,
+  "viewCount": 682,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
