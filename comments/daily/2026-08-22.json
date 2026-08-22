@@ -1,9 +1,65 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787437753291,
+  "updatedAt": 1787438641343,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787438067481",
+      "text": "jezi ou fidel",
+      "userDeviceId": "feb86f5544806a93590015e252f988364304a46a2f0bb6f991afacd1aa94ec95",
+      "userName": "islande saint tilaire",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787438069220,
+      "updatedAt": 1787438069220,
+      "status": "active"
+    },
+    {
+      "id": "local-1787438056924",
+      "text": "amen",
+      "userDeviceId": "feb86f5544806a93590015e252f988364304a46a2f0bb6f991afacd1aa94ec95",
+      "userName": "islande saint tilaire",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787438058858,
+      "updatedAt": 1787438058858,
+      "status": "active"
+    },
+    {
+      "id": "local-1787438042574",
+      "text": "som",
+      "userDeviceId": "feb86f5544806a93590015e252f988364304a46a2f0bb6f991afacd1aa94ec95",
+      "userName": "islande saint tilaire",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787438044896,
+      "updatedAt": 1787438044896,
+      "status": "active"
+    },
+    {
+      "id": "local-1787437941721",
+      "text": "Amén merci seignuer",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787437942948,
+      "updatedAt": 1787437942948,
+      "status": "active"
+    },
     {
       "id": "local-1787437532061",
       "text": "Amèn",
@@ -361,9 +417,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 154,
-  "shareCount": 207,
-  "viewCount": 810,
+  "likeCount": 157,
+  "shareCount": 210,
+  "viewCount": 819,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
@@ -407,12 +463,14 @@
     "329d9619b08acad70ac52abaad5ff2ccefa275ccff987374c37eaebd4032baed",
     "37377a31ecd987a8a5d93a49516b298223a70cde86e16e0b5192f1130859ac10",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3f01c142766eaeffe8fde5cf0dc1937b23a54d26c95a110acb16a43174088f01",
     "3f0990cf580ced7bbce02f8605c5243d26deb1cd020578bc1edc3f582ddf7d53",
     "3f73a3b7007da11e2601786de999905477408094875264711420ec89944fb5dc",
     "42ab28057c9acef71314dfd30e8dc8460ee5bf2421e4332729d5b35a8e493cfe",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
     "446408f2a6e22cb865193406614c557b50b53b8df05632ccee2ba75a126a43fe",
+    "455b3b3839c0afaf11fc84d3714d766d3b2e03eab076df47e6d13958acba9d88",
     "465efd973078591038d5394b0901e81710f1d2a3c9f0e62c790ef55d68e7a906",
     "47f7dd5072a14440e092a3d54f5bae1389e25fd8c24897c7b613aebe4c356f7c",
     "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
@@ -518,7 +576,8 @@
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "f9c5301c0cd4ee79da9a9fb0c189cf3d37efe5a57b4fb77d277035be63dd5ec0",
     "fbb33ee116e2d2263bb2caf11d04156b307f690a5e55c58d412a29a35fea8eee",
-    "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f"
+    "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f",
+    "feb86f5544806a93590015e252f988364304a46a2f0bb6f991afacd1aa94ec95"
   ],
   "verseViewBy": []
 }
