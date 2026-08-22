@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787406245698,
+  "updatedAt": 1787407201862,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787406877756",
+      "text": "amén amén amén amén",
+      "userDeviceId": "cb02201afd254afbeb4558bb72945f39967cc4067e7a456d77e9cae07128c6ac",
+      "userName": "non",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787406977255,
+      "updatedAt": 1787406977255,
+      "status": "active"
+    },
     {
       "id": "local-1787404313562",
       "text": "pawol bondye a se lavi",
@@ -211,9 +225,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 116,
-  "shareCount": 150,
-  "viewCount": 525,
+  "likeCount": 118,
+  "shareCount": 151,
+  "viewCount": 534,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
@@ -242,6 +256,7 @@
     "28c48da158c442fe8bdfc247e88edb8731a27dde2258f611ce2eaee2c8805455",
     "29daf1ad8a44900dbfbb541f6a90455c68cc47b5bb4d1857950887a66798c113",
     "2b4225b0211cc71e2fd700a52f56db430a361f8822ed38aa8f9e910ccb5f2ab2",
+    "2ba9ba8692068196dfd87cb2d918b826cbb258b1a40c4e7755d27210b678a65c",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "31007aa495dfdb2f730fbaecd1471190aea962ceb4629ff8053d98c97f169df8",
@@ -258,6 +273,7 @@
     "4cc8edb3c3ddedbb6bcc36960c67f18683dd0660749fb1f49ab73862c2d4ecbd",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4f6e1ef0625ea33236e131ca15d0aad55dcbf160d7ae76fa8f4235cb0942490c",
+    "532d01b5e71f9a6a245eddc9f377c0bce0e58981463433928b3669666abed51b",
     "547d7aa2741afa5c74876bd79f84d220b2e72bae1c3f69285d75d2b5fe4ac271",
     "57b670a5fda31088c3c14358356f5cb38bbeb72800bf0faa51e6e2eb744f29a2",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
