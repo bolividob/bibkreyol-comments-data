@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787409005834,
+  "updatedAt": 1787409895369,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787367093699",
+      "text": "Amen 🙏",
+      "userDeviceId": "4580e17f14bb51d3cc17595796f16b1243e702549c1097b80be09bec1aec5c88",
+      "userName": "Sr Nico",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787409044883,
+      "updatedAt": 1787409044883,
+      "status": "active"
+    },
     {
       "id": "local-1787408716362",
       "text": "amén",
@@ -254,8 +268,8 @@
     }
   ],
   "likeCount": 123,
-  "shareCount": 158,
-  "viewCount": 551,
+  "shareCount": 160,
+  "viewCount": 560,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
