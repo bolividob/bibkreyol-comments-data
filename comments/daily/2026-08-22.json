@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787417040956,
+  "updatedAt": 1787418002847,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787417476903",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787417478900,
+      "updatedAt": 1787417478900,
+      "status": "active"
+    },
     {
       "id": "local-1787367093699",
       "text": "Amen 🙏",
@@ -267,9 +281,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 130,
-  "shareCount": 177,
-  "viewCount": 626,
+  "likeCount": 132,
+  "shareCount": 178,
+  "viewCount": 634,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
@@ -332,6 +346,7 @@
     "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac",
     "68cc429374dbf831f5e5053b2a44b48500e05d07a280ac273048a83b08e841ab",
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6d0728c4f42960eae1fa9a1d27d77b93a69464ec08aa42697dcbe1068edbe781",
     "6e2b809fdfc3e5018c57c890e616d7d1a20582e89cb679f14e36db0aff279323",
     "70a298727ee1c69f35b5548ee7b7bea258a07daf64aa750f502e4d9262f7b13a",
@@ -341,6 +356,7 @@
     "882b2652436b79ff2c0dbf93a44e261f257dea624b1247f6e22287e5d3661af1",
     "88ec3117bb2ff1a092e38440b659fbab4379f4c137633b96d4bad5fe2c2c01c4",
     "8a5b8d17995350bed39593decf68c27a9242a51348d91656c3bc0b5d3f6176c8",
+    "8b5e849e1ae5958ba34d68ec77fbf1ea72e8cef23e78fecb6ae7064ce001f1f0",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8ebecb17808240973c684265b1dc152ad2c308d71a5200ce2c972d8703ac7070",
     "8edf0aee57a104c023a442d491fc395b6944ec1d7126c255af66310cd922de68",
