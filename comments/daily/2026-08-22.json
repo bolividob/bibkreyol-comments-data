@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787433241751,
+  "updatedAt": 1787434203411,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787433876733",
+      "text": "Amen Amen Amen",
+      "userDeviceId": "329d9619b08acad70ac52abaad5ff2ccefa275ccff987374c37eaebd4032baed",
+      "userName": "Delose",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787433878229,
+      "updatedAt": 1787433878229,
+      "status": "active"
+    },
     {
       "id": "local-1787428112380",
       "text": "Amen",
@@ -318,9 +332,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 148,
+  "likeCount": 150,
   "shareCount": 204,
-  "viewCount": 769,
+  "viewCount": 778,
   "verseLikedBy": [
     "0087f309e9570d4c8dcaeb0f9c9ed72a48c21b5993ad42a8bd604cc573c807c4",
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
@@ -350,6 +364,7 @@
     "25a770154be5cbb42194150a0fed87bc36c6c37d294dc8ae2c45652a45323f02",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "28c48da158c442fe8bdfc247e88edb8731a27dde2258f611ce2eaee2c8805455",
+    "28ed615b69568a3fbd38921ae7cc0349b19b87dc4d75026cd219fa06c495914c",
     "29daf1ad8a44900dbfbb541f6a90455c68cc47b5bb4d1857950887a66798c113",
     "2b4225b0211cc71e2fd700a52f56db430a361f8822ed38aa8f9e910ccb5f2ab2",
     "2ba9ba8692068196dfd87cb2d918b826cbb258b1a40c4e7755d27210b678a65c",
@@ -359,6 +374,7 @@
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
     "3225106bed5eefb56e57da4b0692df5c29007431943374871e9cbae6d5c614e2",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "329d9619b08acad70ac52abaad5ff2ccefa275ccff987374c37eaebd4032baed",
     "37377a31ecd987a8a5d93a49516b298223a70cde86e16e0b5192f1130859ac10",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3f0990cf580ced7bbce02f8605c5243d26deb1cd020578bc1edc3f582ddf7d53",
