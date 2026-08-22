@@ -1,9 +1,23 @@
 {
   "date": "2026-08-22",
   "verseKey": "daily:2026-08-22",
-  "updatedAt": 1787380203689,
+  "updatedAt": 1787381044634,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787380491515",
+      "text": "Amén y amén amén amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Jozye 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787380492452,
+      "updatedAt": 1787380492452,
+      "status": "active"
+    },
     {
       "id": "local-1787377951367",
       "text": "Bondy tou jou la",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 62,
-  "viewCount": 286,
+  "likeCount": 68,
+  "shareCount": 64,
+  "viewCount": 293,
   "verseLikedBy": [
     "06b5d8023681feb899f7fddb9e35a59b2238f58baab45538066a1755d182dd67",
     "085135d0d8110b7454e06515b0316b08023489b2a63aaf6bd7fb026f03adca09",
@@ -192,6 +206,7 @@
     "d05cf7ae2c0b9b3c7ba67eef41110fdfd217b1e426d8de977e2853b8f4539f19",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
     "d5c09c9fc804346d3385599a0f7a8d8fce33a8205037e245016ce4dddd5ce2d0",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e82324e26b130b42d1fd9353210afb44bab5f539b5193bdc7d39db0793f671be",
     "e829d230305daeef06fc8b551e6978ac59c40d306accd5d67007855c4f5f93dd",
