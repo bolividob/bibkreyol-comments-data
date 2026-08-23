@@ -1,9 +1,23 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787454004846,
+  "updatedAt": 1787454844952,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787453956829",
+      "text": "jezi",
+      "userDeviceId": "2e267392164bf1951ef0e18a84942ed1fbef9e0d5acc279f7387301f86b08cbd",
+      "userName": "obenson valbrun",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787454394589,
+      "updatedAt": 1787454394589,
+      "status": "active"
+    },
     {
       "id": "local-1787453868743",
       "text": "amén",
@@ -62,8 +76,8 @@
     }
   ],
   "likeCount": 35,
-  "shareCount": 51,
-  "viewCount": 149,
+  "shareCount": 52,
+  "viewCount": 159,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "08e6805e92cf10c6f9e79b0e04c377b8dc8e4cb7872338395176c537c30d2a3b",
