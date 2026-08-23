@@ -1,9 +1,23 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787496261775,
+  "updatedAt": 1787497201194,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787497083740",
+      "text": "amen 3 fwa",
+      "userDeviceId": "59b816fb3677722dbb4a538b3331a1bdb31456da76ba51734d8b07855139ba4b",
+      "userName": "sr Esther",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787497086355,
+      "updatedAt": 1787497086355,
+      "status": "active"
+    },
     {
       "id": "local-1787496115242",
       "text": "anyen pa enposib pou Bondye",
@@ -428,9 +442,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 164,
-  "shareCount": 210,
-  "viewCount": 581,
+  "likeCount": 166,
+  "shareCount": 215,
+  "viewCount": 592,
   "verseLikedBy": [
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
     "01edcc0894e1d18819b63b2b18ab4e6ff038c5b9c8bd0e80fc27da96a77f4153",
@@ -456,6 +470,7 @@
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "23b79f9c4b26d2a2f344bef2d219a555b09161901ca9e1e63c6acfae83eb3396",
     "23d09d3f0f093e1a9a3b955ffb3b013c2b04cc4d787bda4f41537b5d022d7a6d",
     "25bc1b08f03dd4497e5c5f7d34f1acfa7b2533cc60675a584c138d31f1f0042c",
     "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753",
@@ -492,6 +507,7 @@
     "5166dcf5ec9219ebbc391ef02a05342acd37f7102db1cf5e82918e3bf74f3e97",
     "531ba55cde1f45bf35651cd371d81a2bcd907100bd56cbe612821cccf93f589f",
     "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
+    "59b816fb3677722dbb4a538b3331a1bdb31456da76ba51734d8b07855139ba4b",
     "59d370e1233273e6532d66bdb6cd0806f8ed24862e64950f7d391683cec7dec7",
     "59e9e4450c8d41ad8111d6f74b4336dc8f3d130cd1a92341804a7a9b395d901d",
     "6021d38ba330be7c944ed108e2d1ede8ad2f65783edac8ee57559257594378f4",
