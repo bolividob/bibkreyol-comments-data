@@ -1,9 +1,23 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787522403736,
+  "updatedAt": 1787523300472,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787523252354",
+      "text": "amen",
+      "userDeviceId": "3d73d1934308152157d2b547c7b59f8716e4205ff10ecddff39e44f988ff5fd3",
+      "userName": "Berdlie osiqs",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787523300472,
+      "updatedAt": 1787523300472,
+      "status": "active"
+    },
     {
       "id": "local-1787518990786",
       "text": "toute gloire est a Dieu 🙏",
@@ -640,9 +654,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 217,
+  "likeCount": 219,
   "shareCount": 282,
-  "viewCount": 839,
+  "viewCount": 847,
   "verseLikedBy": [
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
     "01edcc0894e1d18819b63b2b18ab4e6ff038c5b9c8bd0e80fc27da96a77f4153",
@@ -700,6 +714,7 @@
     "3a6d02f67b28e2418f19de87de18aeb61b525233ecbb975dcc12232aad10a7dc",
     "3acdd7d3ff3477babd90ffb9a6bba8a68923946ca1da1422c5a2422487a12de4",
     "3d32201c7030b259312f90d4f944861220866513c7f7dc74ee856075cb67eca7",
+    "3d73d1934308152157d2b547c7b59f8716e4205ff10ecddff39e44f988ff5fd3",
     "3e8c2ef1708b99c1cee4b26324086e3acb5061917ab190991bc358913bf3e84e",
     "3ec3ed5df37538fa22ad769edbcb17be1aaab5d995e247a9860cd70ac2d0ed3b",
     "3ed6ef11dbae5052b152c9973eda548383982e4fa47f28d9a34d00197042d606",
@@ -827,6 +842,7 @@
     "d3879e8d14c12990c8926e802a37419e5a7aa8c8195ce9cf401b73631fb084e3",
     "d4dfb8c61de514c0c186671762f2ebd05324569860c41160d39298a0bda64320",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
+    "d81d2b1bf299f58a9f7a242bb92620fc275d4946f33fd5410c76189ab82e21be",
     "d8bfc1280931f6a31b3bfdf57898c9beb66e040fbed2b412af24946c0b3a87fe",
     "db5a75d77ec3fe87b07dfef659aef8d8c6409396abe8dc01b9c73df848c81b38",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
