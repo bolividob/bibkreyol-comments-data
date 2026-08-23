@@ -1,9 +1,23 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787453067862,
+  "updatedAt": 1787454004846,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787453868743",
+      "text": "amén",
+      "userDeviceId": "e6373b4c8d303855beb33b4f93b111b8a4349cb8d10bea281871f78791f33f0a",
+      "userName": "websta ylsaint.websta",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787453870703,
+      "updatedAt": 1787453870703,
+      "status": "active"
+    },
     {
       "id": "local-1787452607890",
       "text": "Bondues beniw",
@@ -47,13 +61,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
-  "shareCount": 47,
-  "viewCount": 140,
+  "likeCount": 35,
+  "shareCount": 51,
+  "viewCount": 149,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "08e6805e92cf10c6f9e79b0e04c377b8dc8e4cb7872338395176c537c30d2a3b",
     "0f01f5aac184a6d14496947979d22f0fa4c3d20d234806063be3fb0b2699e045",
+    "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "15adf64bf424fa41fac7c4318df6f393b9af8592d2a3c6ad0ef2aed939540fdf",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753",
@@ -76,9 +91,13 @@
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cc89c901593592b872b1d08d4153980d3282fed1f90927ce3fdaa98ec97eefb1",
+    "d8bfc1280931f6a31b3bfdf57898c9beb66e040fbed2b412af24946c0b3a87fe",
     "dc5864c9ade978c49ef4f6d222f1c731e71fbbed23f561799cf9e0018dda85ed",
     "ddda110b8ae67610d8f80054551d9f26c1a9bc504c6a08e93a80b3e4c26bf261",
+    "e6373b4c8d303855beb33b4f93b111b8a4349cb8d10bea281871f78791f33f0a",
+    "eb422006846eb47fe21e0a5f5412f7675d6c65be00986912efbe5775013d69de",
     "f123c5aa840be0be5f9e24922318efdeb2aaa0ddad28d323f6f4f6145ad99468",
+    "faf456cbd1e90ffefff52f8c796f6eb523eec74f9b4d2ac514f7f0f44bce0581",
     "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f",
     "ff7a728c2b375a6cea9bd34187f743e032111dfbb0fc53b449c9b6821ba24f44"
   ],
