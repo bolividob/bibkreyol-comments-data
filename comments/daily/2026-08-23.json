@@ -1,9 +1,65 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787511575597,
+  "updatedAt": 1787512445050,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787511984388",
+      "text": "tt",
+      "userDeviceId": "01c8cc40e6ca736b4069225f5cd0f916b35001a9122c31fc7225d5612c4aa5d7",
+      "userName": "hku",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787511987564,
+      "updatedAt": 1787511987564,
+      "status": "active"
+    },
+    {
+      "id": "local-1787511980021",
+      "text": "y",
+      "userDeviceId": "01c8cc40e6ca736b4069225f5cd0f916b35001a9122c31fc7225d5612c4aa5d7",
+      "userName": "hku",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787511983240,
+      "updatedAt": 1787511983240,
+      "status": "active"
+    },
+    {
+      "id": "local-1787511905490",
+      "text": "P90 oññññ",
+      "userDeviceId": "01c8cc40e6ca736b4069225f5cd0f916b35001a9122c31fc7225d5612c4aa5d7",
+      "userName": "hku",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787511908720,
+      "updatedAt": 1787511908720,
+      "status": "active"
+    },
+    {
+      "id": "local-1787511171637",
+      "text": "s,",
+      "userDeviceId": "c419c9cc678f379d51ea5089104bef4ac39a2819886135770af8f3e55425d634",
+      "userName": "priyè deblokag",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787511690165,
+      "updatedAt": 1787511690165,
+      "status": "active"
+    },
     {
       "id": "local-1787504466968",
       "text": "ronen",
@@ -570,9 +626,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 209,
-  "shareCount": 269,
-  "viewCount": 739,
+  "likeCount": 210,
+  "shareCount": 270,
+  "viewCount": 747,
   "verseLikedBy": [
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
     "01edcc0894e1d18819b63b2b18ab4e6ff038c5b9c8bd0e80fc27da96a77f4153",
@@ -774,6 +830,7 @@
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f123c5aa840be0be5f9e24922318efdeb2aaa0ddad28d323f6f4f6145ad99468",
     "f1d31ec006bd2b98922cb8788f463db0128d15d3bed36a85ab9de203cbf3ad27",
+    "f2f2e6b06a817699f080bf133125760f36483bd5873c0f28be6add449c107097",
     "f32da06245eba5031350f61e75fd67346684a6cd17f78edf9066b295455458c1",
     "f4a521609ff3c90eb807ba7d3939a73d3e408fe131a1b7aa14597b82f96501c4",
     "f5818030c67e97028f20047856333268bde6243a88831e48cd0321dc8c4ab99e",
