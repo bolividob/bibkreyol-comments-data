@@ -1,9 +1,37 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787452202799,
+  "updatedAt": 1787453067862,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787452607890",
+      "text": "Bondues beniw",
+      "userDeviceId": "ff4ddb5638e05933fe7d35499dc4e507d2df70abc08bfa0436805d81a8497590",
+      "userName": "ERZILIa DUMAS",
+      "verseName": "Jan 6:5",
+      "parentId": "local-1787452535499",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787452749773,
+      "updatedAt": 1787452749773,
+      "status": "active"
+    },
+    {
+      "id": "local-1787452535499",
+      "text": "Bondues beniw",
+      "userDeviceId": "ff4ddb5638e05933fe7d35499dc4e507d2df70abc08bfa0436805d81a8497590",
+      "userName": "ERZILIa DUMAS",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787452723081,
+      "updatedAt": 1787452749773,
+      "status": "active"
+    },
     {
       "id": "local-1787445999163",
       "text": "Amén",
@@ -19,9 +47,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
-  "shareCount": 44,
-  "viewCount": 130,
+  "likeCount": 30,
+  "shareCount": 47,
+  "viewCount": 140,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "08e6805e92cf10c6f9e79b0e04c377b8dc8e4cb7872338395176c537c30d2a3b",
@@ -43,11 +71,13 @@
     "7fb799f8db03d7accdf3325a6ee80ac84c83ab6e6d40413d49385beacd04b119",
     "8d13d717eef703be5e9d729f744223f5516f83438eb6c83e9f5b8e3c60633085",
     "8e6fb732b336b68c2ee8d1eb17d3392687db53dfb0d1f3985cfabaf8bc661964",
+    "9dadc5a2872219ca3cfa2959a2ed70a8a6e4ed3d1f6b0c1d791cc2bb14f3408e",
     "aaa0c7c06b7c9b7c1abd7f58fa4c0a0044d426aff0f34c711f4c8e7d64a8e12d",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cc89c901593592b872b1d08d4153980d3282fed1f90927ce3fdaa98ec97eefb1",
     "dc5864c9ade978c49ef4f6d222f1c731e71fbbed23f561799cf9e0018dda85ed",
+    "ddda110b8ae67610d8f80054551d9f26c1a9bc504c6a08e93a80b3e4c26bf261",
     "f123c5aa840be0be5f9e24922318efdeb2aaa0ddad28d323f6f4f6145ad99468",
     "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f",
     "ff7a728c2b375a6cea9bd34187f743e032111dfbb0fc53b449c9b6821ba24f44"
