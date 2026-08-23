@@ -1,9 +1,23 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787478246353,
+  "updatedAt": 1787479204242,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787478268746",
+      "text": "sòm3",
+      "userDeviceId": "69771a5fa22d4e8825aa2c046443817578245a3616d8ce199ef95e25c9cf554b",
+      "userName": "samy",
+      "verseName": "Jenèz 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787478418270,
+      "updatedAt": 1787478418270,
+      "status": "active"
+    },
     {
       "id": "local-1787478158715",
       "text": "Jenèz 2:2: Nan kòmansman Bondye te kreye syèl la ak tè a. Tè a te vid, li te san fòm, li te nwa sou fon an.\n\nGet Bib Kreyòl: https://play.google.com/store/apps/details?id=com.bolivido.bibkrs",
@@ -174,8 +188,8 @@
     }
   ],
   "likeCount": 62,
-  "shareCount": 95,
-  "viewCount": 365,
+  "shareCount": 97,
+  "viewCount": 373,
   "verseLikedBy": [
     "01edcc0894e1d18819b63b2b18ab4e6ff038c5b9c8bd0e80fc27da96a77f4153",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
