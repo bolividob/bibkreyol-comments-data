@@ -1,9 +1,23 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787503501070,
+  "updatedAt": 1787504391789,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787503521334",
+      "text": "amén amén 🙏",
+      "userDeviceId": "2f42f61faf419a4c92d811453ac3770851fa406fcfbb916eaa4340d7510cb3e1",
+      "userName": "mayline ♥️♥️",
+      "verseName": "Jan 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787503522884,
+      "updatedAt": 1787503522884,
+      "status": "active"
+    },
     {
       "id": "local-1787500477933",
       "text": "amén 🙏",
@@ -540,9 +554,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 191,
+  "likeCount": 192,
   "shareCount": 249,
-  "viewCount": 661,
+  "viewCount": 669,
   "verseLikedBy": [
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
     "01edcc0894e1d18819b63b2b18ab4e6ff038c5b9c8bd0e80fc27da96a77f4153",
@@ -678,6 +692,7 @@
     "a115ab24f52fb0e28e0992f2879f5423660fcf622f32357ff13f2c8e982790a9",
     "a1b2a71a0d75c8ccf6f5b27f1c4c74b0019d9661ec2ea2e7028827eb6fe4bd0b",
     "a37cd63fdeb0ccbfe452a090716fe5fe582d86d39708d8a03b53eabfa8f82b86",
+    "a6225b87f2fd91d08ac843abff565c24f12209f71703c876463c4aeabcd6ec0e",
     "a81c760b1697c51763d4fbba5cee69430d6dd4ff0d4ac0300b5ae9569c9ddc18",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "aaa0c7c06b7c9b7c1abd7f58fa4c0a0044d426aff0f34c711f4c8e7d64a8e12d",
