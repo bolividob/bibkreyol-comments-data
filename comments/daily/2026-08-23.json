@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
   "verseKey": "daily:2026-08-23",
-  "updatedAt": 1787508863329,
+  "updatedAt": 1787509803306,
   "version": 1,
   "comments": [
     {
@@ -29,7 +29,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787503522884,
-      "updatedAt": 1787503522884,
+      "updatedAt": 1787508920259,
       "status": "active"
     },
     {
@@ -68,10 +68,12 @@
       "verseName": "Jan 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ca711499bf63783a3185dd3d857ccb7698cc54304ce378f132cdd23afa91f6fe"
+      ],
       "createdAt": 1787502283069,
-      "updatedAt": 1787502283069,
+      "updatedAt": 1787508943201,
       "status": "active"
     },
     {
@@ -569,8 +571,8 @@
     }
   ],
   "likeCount": 202,
-  "shareCount": 261,
-  "viewCount": 716,
+  "shareCount": 262,
+  "viewCount": 724,
   "verseLikedBy": [
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
     "01edcc0894e1d18819b63b2b18ab4e6ff038c5b9c8bd0e80fc27da96a77f4153",
