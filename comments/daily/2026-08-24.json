@@ -1,9 +1,23 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787573690097,
+  "updatedAt": 1787574605705,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787573860973",
+      "text": "rosekerline",
+      "userDeviceId": "e2fd22a7457f977e58a3f9943a979209def4c5bce940f992533e6a0985917744",
+      "userName": "rosekerline",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787573863223,
+      "updatedAt": 1787573863223,
+      "status": "active"
+    },
     {
       "id": "local-1787572792058",
       "text": "amén 🙏",
@@ -26,10 +40,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "704d66a0d06ba5086a7c224692003096353921c26641d74bd21a762a9ab036a0"
+      ],
       "createdAt": 1787570216081,
-      "updatedAt": 1787570216081,
+      "updatedAt": 1787574513578,
       "status": "active"
     },
     {
@@ -71,7 +87,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787564792584,
-      "updatedAt": 1787564792584,
+      "updatedAt": 1787574509369,
       "status": "active"
     },
     {
@@ -96,10 +112,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "704d66a0d06ba5086a7c224692003096353921c26641d74bd21a762a9ab036a0"
+      ],
       "createdAt": 1787543910375,
-      "updatedAt": 1787543910375,
+      "updatedAt": 1787574508909,
       "status": "active"
     },
     {
@@ -110,12 +128,13 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "59b816fb3677722dbb4a538b3331a1bdb31456da76ba51734d8b07855139ba4b"
+        "59b816fb3677722dbb4a538b3331a1bdb31456da76ba51734d8b07855139ba4b",
+        "704d66a0d06ba5086a7c224692003096353921c26641d74bd21a762a9ab036a0"
       ],
       "createdAt": 1787542401793,
-      "updatedAt": 1787542416032,
+      "updatedAt": 1787574508600,
       "status": "active"
     },
     {
@@ -168,10 +187,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "704d66a0d06ba5086a7c224692003096353921c26641d74bd21a762a9ab036a0"
+      ],
       "createdAt": 1787535121093,
-      "updatedAt": 1787535121093,
+      "updatedAt": 1787574508535,
       "status": "active"
     },
     {
@@ -245,9 +266,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
-  "shareCount": 187,
-  "viewCount": 471,
+  "likeCount": 118,
+  "shareCount": 190,
+  "viewCount": 479,
   "verseLikedBy": [
     "01d442994cdaad727ece226b80d358c8338aedb98de9b88462f7846014f5712b",
     "040113802b374be4d6294d2c680e1dbec27982e82bc382fc034b90032e32e2c5",
@@ -354,6 +375,7 @@
     "dc9817c315d5127d6656dfabc71a552bf31715a3e07fd041d6aac0a90edb399d",
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "de1405c1adbf399fa944ef566aed480b3fe6e85b1aa7ba5364f622b6575cad86",
+    "e2fd22a7457f977e58a3f9943a979209def4c5bce940f992533e6a0985917744",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e8ff3ffc8e8f9d320a7e730a273f999ace03d3fc3f3c1310402d1cdf6b504adf",
     "eb5414702072385502e42abc149f080294c22dca670b6a2159147a4b3e5b4ea1",
