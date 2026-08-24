@@ -1,9 +1,23 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787600643846,
+  "updatedAt": 1787601600994,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787600985852",
+      "text": "amén",
+      "userDeviceId": "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f",
+      "userName": "biyousca 🥰 la cristiana 🙏",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787600987722,
+      "updatedAt": 1787600987722,
+      "status": "active"
+    },
     {
       "id": "local-1787586167419",
       "text": "🙏🙏",
@@ -12,10 +26,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787586168919,
-      "updatedAt": 1787586168919,
+      "updatedAt": 1787600978806,
       "status": "active"
     },
     {
@@ -26,10 +42,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787579404313,
-      "updatedAt": 1787579404313,
+      "updatedAt": 1787600977916,
       "status": "active"
     },
     {
@@ -40,10 +58,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787578815541,
-      "updatedAt": 1787578815541,
+      "updatedAt": 1787600980494,
       "status": "active"
     },
     {
@@ -54,10 +74,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787577145279,
-      "updatedAt": 1787577145279,
+      "updatedAt": 1787600996660,
       "status": "active"
     },
     {
@@ -68,10 +90,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787575374993,
-      "updatedAt": 1787575374993,
+      "updatedAt": 1787600997574,
       "status": "active"
     },
     {
@@ -82,10 +106,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787573863223,
-      "updatedAt": 1787573863223,
+      "updatedAt": 1787600998921,
       "status": "active"
     },
     {
@@ -96,10 +122,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787572794481,
-      "updatedAt": 1787572794481,
+      "updatedAt": 1787601000141,
       "status": "active"
     },
     {
@@ -110,13 +138,14 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "704d66a0d06ba5086a7c224692003096353921c26641d74bd21a762a9ab036a0",
-        "da2889f5e42004a43603fa3a61eb69fdf179ce992bf58d583d33112852535e37"
+        "da2889f5e42004a43603fa3a61eb69fdf179ce992bf58d583d33112852535e37",
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
       ],
       "createdAt": 1787570216081,
-      "updatedAt": 1787575359499,
+      "updatedAt": 1787601002546,
       "status": "active"
     },
     {
@@ -127,12 +156,13 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "05db00861a697c00df285aa035e290b53c3f2576703a3310b70184558df4a638"
+        "05db00861a697c00df285aa035e290b53c3f2576703a3310b70184558df4a638",
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
       ],
       "createdAt": 1787570071631,
-      "updatedAt": 1787591550889,
+      "updatedAt": 1787601003424,
       "status": "active"
     },
     {
@@ -143,10 +173,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787567085257,
-      "updatedAt": 1787567085257,
+      "updatedAt": 1787601004925,
       "status": "active"
     },
     {
@@ -157,10 +189,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f"
+      ],
       "createdAt": 1787564792584,
-      "updatedAt": 1787574509369,
+      "updatedAt": 1787601005666,
       "status": "active"
     },
     {
@@ -340,9 +374,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 153,
-  "shareCount": 279,
-  "viewCount": 719,
+  "likeCount": 155,
+  "shareCount": 280,
+  "viewCount": 727,
   "verseLikedBy": [
     "01d442994cdaad727ece226b80d358c8338aedb98de9b88462f7846014f5712b",
     "040113802b374be4d6294d2c680e1dbec27982e82bc382fc034b90032e32e2c5",
@@ -376,6 +410,7 @@
     "329d9619b08acad70ac52abaad5ff2ccefa275ccff987374c37eaebd4032baed",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
+    "3d2c20698e4b5fc0c26e6343e9504490ef2f16586248f5cc0561b71f65ddbc3c",
     "3ec0e331ca69427cab9cf77123db83dcedef477f482fc6a7bc2634110aba3429",
     "408c8feacf4fa496a5cac2a4098adaf779ab3123e80fe75da73edbf8c377121a",
     "413a7fa199670ff1b0a8df3c3cad95bd94d975b81b8541646e8d2de6c887d6c0",
@@ -485,6 +520,7 @@
     "de1405c1adbf399fa944ef566aed480b3fe6e85b1aa7ba5364f622b6575cad86",
     "e2fd22a7457f977e58a3f9943a979209def4c5bce940f992533e6a0985917744",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "e7f93760aee0f131289fb980a7ce13f25ca968e60cd4bc5849da6657dc385f5f",
     "e8ff3ffc8e8f9d320a7e730a273f999ace03d3fc3f3c1310402d1cdf6b504adf",
     "eb5414702072385502e42abc149f080294c22dca670b6a2159147a4b3e5b4ea1",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
