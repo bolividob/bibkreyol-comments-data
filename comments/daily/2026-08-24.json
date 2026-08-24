@@ -1,9 +1,23 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787547599387,
+  "updatedAt": 1787548448660,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787547774408",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Jesy",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787547775497,
+      "updatedAt": 1787547775497,
+      "status": "active"
+    },
     {
       "id": "local-1787543908263",
       "text": "Amen Amen Amen",
@@ -161,9 +175,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
+  "likeCount": 80,
   "shareCount": 96,
-  "viewCount": 237,
+  "viewCount": 245,
   "verseLikedBy": [
     "01d442994cdaad727ece226b80d358c8338aedb98de9b88462f7846014f5712b",
     "040113802b374be4d6294d2c680e1dbec27982e82bc382fc034b90032e32e2c5",
@@ -174,6 +188,7 @@
     "1406f98a6196ce567d02895e62eeea7b9663d519b3d8ebca374eb43e1a4aa058",
     "15ab57d28740afc0b7776238945613c2e6e3706e65994a21a97e8f0e18c0a5c7",
     "167e2af9acc88977a16ec886c548940697d84e44d0b52515036c088741d3fcd6",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1e851d473634add54733634ce8c231f7a90ef84a4ee92eda96c42b002fe408e6",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
