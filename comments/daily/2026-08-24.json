@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787607842252,
+  "updatedAt": 1787608682286,
   "version": 1,
   "comments": [
     {
@@ -221,10 +221,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fa8a78b914d7157768ff063185ee6d30d2d65e34dc8c5921357622b6c515697e"
+      ],
       "createdAt": 1787547775497,
-      "updatedAt": 1787547775497,
+      "updatedAt": 1787608615761,
       "status": "active"
     },
     {
@@ -398,8 +400,8 @@
     }
   ],
   "likeCount": 167,
-  "shareCount": 297,
-  "viewCount": 786,
+  "shareCount": 298,
+  "viewCount": 793,
   "verseLikedBy": [
     "01d442994cdaad727ece226b80d358c8338aedb98de9b88462f7846014f5712b",
     "040113802b374be4d6294d2c680e1dbec27982e82bc382fc034b90032e32e2c5",
