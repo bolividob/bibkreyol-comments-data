@@ -1,9 +1,23 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787570071631,
+  "updatedAt": 1787571004042,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787570215031",
+      "text": "Amen🙏 🙏 🙏",
+      "userDeviceId": "0a1723f35a75b77d8eed73ee5978523fb982116f5014e02b798788b267e0cafa",
+      "userName": "Kevin pitit BonDye",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787570216081,
+      "updatedAt": 1787570216081,
+      "status": "active"
+    },
     {
       "id": "local-1787570069919",
       "text": "tout glwa pou Bondye",
@@ -217,15 +231,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 107,
-  "shareCount": 156,
-  "viewCount": 434,
+  "likeCount": 108,
+  "shareCount": 165,
+  "viewCount": 444,
   "verseLikedBy": [
     "01d442994cdaad727ece226b80d358c8338aedb98de9b88462f7846014f5712b",
     "040113802b374be4d6294d2c680e1dbec27982e82bc382fc034b90032e32e2c5",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "08277f6bd53f198743caf0972b46cbab32d0f2dbf13820cb1e80bacf200bd0cf",
     "09bbbfcb664b545971ce0818cdd1881634281e9df20f98f91293363c6c6e90ab",
+    "0a1723f35a75b77d8eed73ee5978523fb982116f5014e02b798788b267e0cafa",
     "13bc19ec320015cf143ae06a95c898ab455df82eb90a45e135cd4a7c2c037ec1",
     "1406f98a6196ce567d02895e62eeea7b9663d519b3d8ebca374eb43e1a4aa058",
     "15ab57d28740afc0b7776238945613c2e6e3706e65994a21a97e8f0e18c0a5c7",
