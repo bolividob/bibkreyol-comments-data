@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787590802457,
+  "updatedAt": 1787591644901,
   "version": 1,
   "comments": [
     {
@@ -127,10 +127,12 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "05db00861a697c00df285aa035e290b53c3f2576703a3310b70184558df4a638"
+      ],
       "createdAt": 1787570071631,
-      "updatedAt": 1787570071631,
+      "updatedAt": 1787591550889,
       "status": "active"
     },
     {
@@ -199,13 +201,14 @@
       "verseName": "2 Korentyen 6:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
+        "05db00861a697c00df285aa035e290b53c3f2576703a3310b70184558df4a638",
         "59b816fb3677722dbb4a538b3331a1bdb31456da76ba51734d8b07855139ba4b",
         "704d66a0d06ba5086a7c224692003096353921c26641d74bd21a762a9ab036a0"
       ],
       "createdAt": 1787542401793,
-      "updatedAt": 1787574508600,
+      "updatedAt": 1787591498903,
       "status": "active"
     },
     {
@@ -338,8 +341,8 @@
     }
   ],
   "likeCount": 144,
-  "shareCount": 260,
-  "viewCount": 626,
+  "shareCount": 262,
+  "viewCount": 633,
   "verseLikedBy": [
     "01d442994cdaad727ece226b80d358c8338aedb98de9b88462f7846014f5712b",
     "040113802b374be4d6294d2c680e1dbec27982e82bc382fc034b90032e32e2c5",
