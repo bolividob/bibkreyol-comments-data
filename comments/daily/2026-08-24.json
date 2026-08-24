@@ -1,17 +1,68 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787530482824,
+  "updatedAt": 1787531402384,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
-  "shareCount": 4,
-  "viewCount": 54,
+  "comments": [
+    {
+      "id": "local-1787531019256",
+      "text": "bondye li bon",
+      "userDeviceId": "ea171c0e4e771b9b0668e64ce3d1d303bdd9101a6aba56ff4dd2dd49be12cd00",
+      "userName": "pitit bondye pa Kon pedí batai🙏👼",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787531225028,
+      "updatedAt": 1787531225028,
+      "status": "active"
+    },
+    {
+      "id": "local-1787530988732",
+      "text": "Bondye bon",
+      "userDeviceId": "ea171c0e4e771b9b0668e64ce3d1d303bdd9101a6aba56ff4dd2dd49be12cd00",
+      "userName": "pitit bondye pa Kon pedí batai🙏👼",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787531223111,
+      "updatedAt": 1787531223111,
+      "status": "active"
+    },
+    {
+      "id": "local-1787530539430",
+      "text": "Amen amen amen amen amen amen amen 🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787530541003,
+      "updatedAt": 1787530541003,
+      "status": "active"
+    }
+  ],
+  "likeCount": 12,
+  "shareCount": 11,
+  "viewCount": 67,
   "verseLikedBy": [
+    "08277f6bd53f198743caf0972b46cbab32d0f2dbf13820cb1e80bacf200bd0cf",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "408c8feacf4fa496a5cac2a4098adaf779ab3123e80fe75da73edbf8c377121a",
+    "413a7fa199670ff1b0a8df3c3cad95bd94d975b81b8541646e8d2de6c887d6c0",
+    "568e46be24491d24e9826866099d6a4624ec54bfdab9a1a523a866eba3b62949",
     "928ec1dfa4f70f88e39321c3a56f6ac4918e7977a456a5c942154b21ef5de8d2",
-    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589"
+    "93cf533e99d015a63b6bb82c434047e8a95e6fe43244c7f1980607f22fbbbece",
+    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
+    "a8a7fe45b5afa5d5c1ffcb93ae15d72c57fdb82fb6f4c6b4f704790cfdd4b195",
+    "b112a46cd42087f7faf9435c6d79958d8c63eb7dad9027c3a438ca3a0d40950a",
+    "b26b750c2db8f0e0b6eef5a73337c592f8a9ff2afe7ed70bbebd3ef13dff6999",
+    "d7e78dbe48f76c41b14a7b9e64736c31fbc139b4734afad6aeb88b64d5034d36"
   ],
   "verseViewBy": []
 }
