@@ -1,9 +1,23 @@
 {
   "date": "2026-08-24",
   "verseKey": "daily:2026-08-24",
-  "updatedAt": 1787540402047,
+  "updatedAt": 1787541253092,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787541180922",
+      "text": "Amén",
+      "userDeviceId": "3ac46590b16b705ffd26497080bce7f51c828bce0b5060d645c29b940ec25fb9",
+      "userName": "Estanley janvier",
+      "verseName": "2 Korentyen 6:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787541183298,
+      "updatedAt": 1787541183298,
+      "status": "active"
+    },
     {
       "id": "local-1787539664077",
       "text": "amén amén 🙏🙏",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 67,
-  "viewCount": 165,
+  "likeCount": 58,
+  "shareCount": 70,
+  "viewCount": 174,
   "verseLikedBy": [
     "040113802b374be4d6294d2c680e1dbec27982e82bc382fc034b90032e32e2c5",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -140,6 +154,7 @@
     "4797b8507e3539e0be30faf55ae514ce1cc909d5fda587e775ae94b9ae0cd02e",
     "4ecfb16c9f59a66ebfb73d68109d09930019dc1d732fa9f561fe7068de549179",
     "568e46be24491d24e9826866099d6a4624ec54bfdab9a1a523a866eba3b62949",
+    "59956b6ee69b9eabf37a4e70cd09ae3cb3985890a0a956dd8c491586ceae0dd5",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
     "5f5ee5f1ba4273e7000e689916a6253c025293da4431f27733732c84a4f95f2e",
     "63953922f991f6e15f08db55b6222776b8560e44ffa18462e9580bb3354c9eba",
@@ -157,6 +172,7 @@
     "a8a7fe45b5afa5d5c1ffcb93ae15d72c57fdb82fb6f4c6b4f704790cfdd4b195",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "ae7087f324a9af0b3a4043f5a1628627ca6bf979e4747c0912bd75b94ed51153",
     "b112a46cd42087f7faf9435c6d79958d8c63eb7dad9027c3a438ca3a0d40950a",
     "b13cfd6195977455aafc8fae48330e64e644e65ea3177109754670d67893fe60",
     "b26b750c2db8f0e0b6eef5a73337c592f8a9ff2afe7ed70bbebd3ef13dff6999",
@@ -174,6 +190,7 @@
     "e8ff3ffc8e8f9d320a7e730a273f999ace03d3fc3f3c1310402d1cdf6b504adf",
     "eb5414702072385502e42abc149f080294c22dca670b6a2159147a4b3e5b4ea1",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
     "faf456cbd1e90ffefff52f8c796f6eb523eec74f9b4d2ac514f7f0f44bce0581"
   ],
