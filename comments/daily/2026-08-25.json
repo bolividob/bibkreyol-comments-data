@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787638441169,
+  "updatedAt": 1787639318574,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787639317588",
+      "text": "amen",
+      "userDeviceId": "6fcecb7a89d0598a9a7762ccf3023d99dc61c715e941e88add1d3a12faf770ad",
+      "userName": "fr souvenir souverain",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787639318574,
+      "updatedAt": 1787639318574,
+      "status": "active"
+    },
     {
       "id": "local-1787635132156",
       "text": "Amn Amn Amn 🙏🙏🙏🙏",
@@ -267,9 +281,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 74,
-  "shareCount": 100,
-  "viewCount": 262,
+  "likeCount": 76,
+  "shareCount": 101,
+  "viewCount": 269,
   "verseLikedBy": [
     "0390095ef4d648ee5cccaf1b43dfdcc5c57292cc4e21633b7109c786442305f1",
     "05efdfcd341b612394bdc0fc293c3ba9349d6db01e4331b88ab9e644189c96ea",
@@ -297,6 +311,7 @@
     "622468719951662ed6e0faf42be9db7bdd6b6154aa30693ec2f4a04cca51bff6",
     "6823959630d7e8033f84bf7b29a38c7378d4727e71aeecfe1dc807fab361f38d",
     "684d830021d45bb5a6bdb9874219a1ce5129bcdd1f2c5470b1cff509ac08962a",
+    "6fcecb7a89d0598a9a7762ccf3023d99dc61c715e941e88add1d3a12faf770ad",
     "7126671abcd7b2fb81b304db17109e3242934552d3368d288520d6e5200d1f38",
     "7369bc3d6f24b6c660b3c888e7392d47e8892b7ee6aa622820b8a464b87d34bb",
     "750e7630c9ebe3ecab1093cb1834d87cda122f9940f1f6e8292fdc8b322bf075",
@@ -327,6 +342,7 @@
     "c6da56ad8835722533139b862fd346a85d973000b89d371bc82275048030d3eb",
     "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
+    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
     "d2b5c69d3bc8629d77ec8455e551d80a25e556b2be69e24657ecdd7cac70e3a0",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
