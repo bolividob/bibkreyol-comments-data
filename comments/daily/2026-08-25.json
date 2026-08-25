@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787621401012,
+  "updatedAt": 1787622283343,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787622150444",
+      "text": "amén 🙏",
+      "userDeviceId": "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
+      "userName": "geslanda Noel",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787622152899,
+      "updatedAt": 1787622152899,
+      "status": "active"
+    },
     {
       "id": "local-1787621176939",
       "text": "Ya",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 25,
-  "shareCount": 34,
-  "viewCount": 90,
+  "likeCount": 27,
+  "shareCount": 39,
+  "viewCount": 98,
   "verseLikedBy": [
     "07b4870dc89b54b20a5beae7be91bd0ac23b0e23e1f918e4dc380b4c6c975ae0",
     "1617ac2ab08a220324c93524752fa95a5ad32c4a060a2d0c143a587daf435f19",
@@ -73,6 +87,7 @@
     "33d56008e5f99b8d1842e191af1bda4d6d6de7b46324fbee59b9c96c8fe0e822",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3f9158dd32a105e6f35ce0a1e180dac2ad4cd821af4be46d78e1e08fcf766879",
+    "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "52e2975f778eeacb9611e9533adc6db73c14050316c15229b49ae43ec08785d1",
     "579bc143989411c492c16a34b0abccab7133e9eb34b0a8ffe8cbec2edccfa858",
     "606adc63a2e26582205c87c7ed369ace9469335c38c521bca4e4d293f8cca79f",
@@ -80,6 +95,7 @@
     "8ba3ce134dc69aa212c5d1dd9f16b0ae50fc5531041ba921474f01266e67c84a",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "aa46fb20dbe69fc09a38c870a882427da233a4ba5ae6f64c358ec3717b6fce02",
+    "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
     "b6c97cc404b0c9beda9769f36f932abfd92e0ce07cdac3c8139a150da6b540da",
     "b9d4a91791810147e8513a66b43f4887cbede7c293184608adafcfad7f26bcf2",
     "ba4165a62118c34146d7b60b67fe8e86f25920c3230266132a72e6718f349aaf",
