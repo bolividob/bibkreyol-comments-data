@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787664605291,
+  "updatedAt": 1787665442527,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787664759073",
+      "text": "Amen et gloire",
+      "userDeviceId": "ca5a3c0215f1fd66323561a022ab551e393d70ea01a9660d8d83da3ea1c69298",
+      "userName": "Brunel",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787664760544,
+      "updatedAt": 1787664760544,
+      "status": "active"
+    },
     {
       "id": "local-1787655248812",
       "text": "medam mès kabann yo m swete Nou konprann vèsèa.e mesye iresponsab yo tou",
@@ -353,9 +367,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 124,
-  "shareCount": 269,
-  "viewCount": 497,
+  "likeCount": 126,
+  "shareCount": 272,
+  "viewCount": 506,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
@@ -398,6 +412,7 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d79a43301562976cb67ea4ae0f1d0c533931b96ae0794ef481b2074337612e7",
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
+    "51cc669d32d676345d6fdf2f556afa9c27a525b84cdd08ecd38fec13542ca4bc",
     "52e2975f778eeacb9611e9533adc6db73c14050316c15229b49ae43ec08785d1",
     "54bcdeaf7b5cfc880f07eef4266713bb5afb170c1e8c3f51c414a95b948ea203",
     "579bc143989411c492c16a34b0abccab7133e9eb34b0a8ffe8cbec2edccfa858",
@@ -455,6 +470,7 @@
     "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "ca5a3c0215f1fd66323561a022ab551e393d70ea01a9660d8d83da3ea1c69298",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
     "d2b5c69d3bc8629d77ec8455e551d80a25e556b2be69e24657ecdd7cac70e3a0",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
