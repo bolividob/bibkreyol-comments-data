@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787641164152,
+  "updatedAt": 1787642088900,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787641393421",
+      "text": "amèn amèn amèn",
+      "userDeviceId": "6596d90e777cc3e2c0d4dedb054f543fc81b8f0a1568dfb8c969915c823ef664",
+      "userName": "wisny jean",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787641395835,
+      "updatedAt": 1787641395835,
+      "status": "active"
+    },
     {
       "id": "local-1787639667218",
       "text": "Amén y amén amén",
@@ -295,9 +309,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 78,
-  "shareCount": 107,
-  "viewCount": 285,
+  "likeCount": 79,
+  "shareCount": 110,
+  "viewCount": 293,
   "verseLikedBy": [
     "0390095ef4d648ee5cccaf1b43dfdcc5c57292cc4e21633b7109c786442305f1",
     "05efdfcd341b612394bdc0fc293c3ba9349d6db01e4331b88ab9e644189c96ea",
@@ -323,6 +337,7 @@
     "5d0383a7dfc0bfab100209dec0b605a9da39ff44553d42ee8e51cadf584479df",
     "606adc63a2e26582205c87c7ed369ace9469335c38c521bca4e4d293f8cca79f",
     "622468719951662ed6e0faf42be9db7bdd6b6154aa30693ec2f4a04cca51bff6",
+    "6596d90e777cc3e2c0d4dedb054f543fc81b8f0a1568dfb8c969915c823ef664",
     "6823959630d7e8033f84bf7b29a38c7378d4727e71aeecfe1dc807fab361f38d",
     "684d830021d45bb5a6bdb9874219a1ce5129bcdd1f2c5470b1cff509ac08962a",
     "6fcecb7a89d0598a9a7762ccf3023d99dc61c715e941e88add1d3a12faf770ad",
