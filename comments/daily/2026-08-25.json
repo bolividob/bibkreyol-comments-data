@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787648284768,
+  "updatedAt": 1787649246182,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787648522263",
+      "text": "amen 3 fwa",
+      "userDeviceId": "54bcdeaf7b5cfc880f07eef4266713bb5afb170c1e8c3f51c414a95b948ea203",
+      "userName": "fertilien mmerlineta",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787648524121,
+      "updatedAt": 1787648524121,
+      "status": "active"
+    },
     {
       "id": "local-1787641393421",
       "text": "amèn amèn amèn",
@@ -309,9 +323,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 80,
-  "shareCount": 124,
-  "viewCount": 345,
+  "likeCount": 82,
+  "shareCount": 127,
+  "viewCount": 353,
   "verseLikedBy": [
     "0390095ef4d648ee5cccaf1b43dfdcc5c57292cc4e21633b7109c786442305f1",
     "05efdfcd341b612394bdc0fc293c3ba9349d6db01e4331b88ab9e644189c96ea",
@@ -334,6 +348,7 @@
     "4d79a43301562976cb67ea4ae0f1d0c533931b96ae0794ef481b2074337612e7",
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "52e2975f778eeacb9611e9533adc6db73c14050316c15229b49ae43ec08785d1",
+    "54bcdeaf7b5cfc880f07eef4266713bb5afb170c1e8c3f51c414a95b948ea203",
     "579bc143989411c492c16a34b0abccab7133e9eb34b0a8ffe8cbec2edccfa858",
     "5d0383a7dfc0bfab100209dec0b605a9da39ff44553d42ee8e51cadf584479df",
     "606adc63a2e26582205c87c7ed369ace9469335c38c521bca4e4d293f8cca79f",
@@ -356,6 +371,7 @@
     "8ba3ce134dc69aa212c5d1dd9f16b0ae50fc5531041ba921474f01266e67c84a",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a4bc8bebfed2deb366739633b0a4f297f30b39dcc4db6f4249c8ea60d73c6360",
     "a5b4ae82e14257f0d569ef07b4d349e932b2c3933477c65604b4432c2d17da30",
