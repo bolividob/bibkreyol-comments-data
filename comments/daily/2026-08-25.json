@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787627641552,
+  "updatedAt": 1787628601722,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787628202669",
+      "text": "amén",
+      "userDeviceId": "b085025b10808f49bea52ad33ff3345e76a55de9bba8ce675744a5e827aa782c",
+      "userName": "Woody Officiel",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787628205507,
+      "updatedAt": 1787628205507,
+      "status": "active"
+    },
     {
       "id": "local-1787627408109",
       "text": "Amen amen amen 🙏🏻",
@@ -197,9 +211,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 74,
-  "viewCount": 160,
+  "likeCount": 57,
+  "shareCount": 78,
+  "viewCount": 171,
   "verseLikedBy": [
     "0390095ef4d648ee5cccaf1b43dfdcc5c57292cc4e21633b7109c786442305f1",
     "07b4870dc89b54b20a5beae7be91bd0ac23b0e23e1f918e4dc380b4c6c975ae0",
@@ -225,7 +239,9 @@
     "78621c7bb9f2723999c0805410080f5140545f79d186d3adf36127f92e28225d",
     "78dc00efbaf213ca34551f2d569cff29000d209da17785ac357ad7e9a069cbfd",
     "7905013ec77d3e39b8d2cbb7f3ee6ee6fadb6954a7cf47e73e5bd73d3bd08d86",
+    "7af51ccfa99f9fd8e62bae8b29735a8d46624c4f40ee3791264e5c0baee621a6",
     "7eea512f9376eb7775bac804aff1339a38df3d7862d7a32f992c033d13d9ce9d",
+    "83ffb6d39e6ff9160af6edd8ac39f2b8e39c659e21dab932446292e86305061b",
     "8ba3ce134dc69aa212c5d1dd9f16b0ae50fc5531041ba921474f01266e67c84a",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
@@ -250,6 +266,7 @@
     "e0f48719c70f298ebb1b07f15e16d1d3d68f0d603074fa2cff27512fcd80b7a2",
     "e34decc9551ca2b797cff3d604f7a3c0c2a1378ebd078b39f316616d61bc6ab6",
     "f67bab15a8d6320cb08a58d02ac89f27cbc3fef74a03614846ae997fb494a1ee",
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "f987f9d31ee3833b34798b12e4842c618a7ccad92ad3ef2750098e34de367709",
     "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
