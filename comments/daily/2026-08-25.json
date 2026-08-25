@@ -1,9 +1,37 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787623201219,
+  "updatedAt": 1787624041705,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787623836676",
+      "text": "Merci Jésus 🤷🤷🤷🤷🙏🙏🙏🙏❤️♥️♥️🔥🔥🔥😊😊😊🤩😍💔",
+      "userDeviceId": "ff4ddb5638e05933fe7d35499dc4e507d2df70abc08bfa0436805d81a8497590",
+      "userName": "séyè",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787624028626,
+      "updatedAt": 1787624028626,
+      "status": "active"
+    },
+    {
+      "id": "local-1787623440918",
+      "text": "Amen",
+      "userDeviceId": "7369bc3d6f24b6c660b3c888e7392d47e8892b7ee6aa622820b8a464b87d34bb",
+      "userName": "angenelson",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": "local-1787622150444",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787623442265,
+      "updatedAt": 1787623442265,
+      "status": "active"
+    },
     {
       "id": "local-1787622150444",
       "text": "amén 🙏",
@@ -11,11 +39,11 @@
       "userName": "geslanda Noel",
       "verseName": "1 Korentyen 7:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787622152899,
-      "updatedAt": 1787622152899,
+      "updatedAt": 1787623442265,
       "status": "active"
     },
     {
@@ -75,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
-  "shareCount": 42,
-  "viewCount": 109,
+  "likeCount": 33,
+  "shareCount": 46,
+  "viewCount": 119,
   "verseLikedBy": [
     "07b4870dc89b54b20a5beae7be91bd0ac23b0e23e1f918e4dc380b4c6c975ae0",
     "1617ac2ab08a220324c93524752fa95a5ad32c4a060a2d0c143a587daf435f19",
@@ -92,6 +120,7 @@
     "579bc143989411c492c16a34b0abccab7133e9eb34b0a8ffe8cbec2edccfa858",
     "606adc63a2e26582205c87c7ed369ace9469335c38c521bca4e4d293f8cca79f",
     "622468719951662ed6e0faf42be9db7bdd6b6154aa30693ec2f4a04cca51bff6",
+    "7369bc3d6f24b6c660b3c888e7392d47e8892b7ee6aa622820b8a464b87d34bb",
     "7eea512f9376eb7775bac804aff1339a38df3d7862d7a32f992c033d13d9ce9d",
     "8ba3ce134dc69aa212c5d1dd9f16b0ae50fc5531041ba921474f01266e67c84a",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
@@ -106,6 +135,8 @@
     "d2b5c69d3bc8629d77ec8455e551d80a25e556b2be69e24657ecdd7cac70e3a0",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "db1cdb7dbe05bf43133e765b234bf18c0b375cda17c26dd2708e4179b43e600a",
+    "f67bab15a8d6320cb08a58d02ac89f27cbc3fef74a03614846ae997fb494a1ee",
+    "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fabec081bfefde1001c78c6e2360bf5e6d6bfbf9868504a77812eda26812d0f1",
     "fb1b73d6cd2e8717036f2fcdf8a12a2f598bd5c9583e4f28f52bcc900ca44cd5"
