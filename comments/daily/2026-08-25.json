@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787670851157,
+  "updatedAt": 1787671801083,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787671692475",
+      "text": "amen",
+      "userDeviceId": "de2e2d78c9b7721e3ca31fc5e15d7ff477eead27b52233a8b2a854a3945e1d43",
+      "userName": "Doodly frédéric",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787671695293,
+      "updatedAt": 1787671695293,
+      "status": "active"
+    },
     {
       "id": "local-1787667040837",
       "text": "Amém 🙏🙏",
@@ -381,9 +395,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 140,
-  "shareCount": 287,
-  "viewCount": 553,
+  "likeCount": 142,
+  "shareCount": 291,
+  "viewCount": 562,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
@@ -505,6 +519,7 @@
     "db1cdb7dbe05bf43133e765b234bf18c0b375cda17c26dd2708e4179b43e600a",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dc5864c9ade978c49ef4f6d222f1c731e71fbbed23f561799cf9e0018dda85ed",
+    "de2e2d78c9b7721e3ca31fc5e15d7ff477eead27b52233a8b2a854a3945e1d43",
     "e0c2fbe1707462966c8a28ea8fadc5cd411f6148213641ec9b85131a1426bb7b",
     "e0f48719c70f298ebb1b07f15e16d1d3d68f0d603074fa2cff27512fcd80b7a2",
     "e1ab65031d0bacac29a8d6594e11fd537d10cf048b332d868e723b159bdb3177",
@@ -512,6 +527,7 @@
     "e34decc9551ca2b797cff3d604f7a3c0c2a1378ebd078b39f316616d61bc6ab6",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e81bf170279aa9388cc62512f24c2bcf44933d92996ecd3bb3b881446b7886f5",
+    "e876a0cf24fe19fdcf332d7f91de06c95a9db1715b217ccede9db58a42c3d161",
     "edb86c3dd897bb8dd0f3bec15e12ef04f758333593e3f5753d57cb2a8152333c",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f67bab15a8d6320cb08a58d02ac89f27cbc3fef74a03614846ae997fb494a1ee",
