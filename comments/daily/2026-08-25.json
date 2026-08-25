@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787624041705,
+  "updatedAt": 1787625002603,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787624294730",
+      "text": "amen",
+      "userDeviceId": "e34decc9551ca2b797cff3d604f7a3c0c2a1378ebd078b39f316616d61bc6ab6",
+      "userName": "Sr.Jessica",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787624296549,
+      "updatedAt": 1787624325500,
+      "status": "active"
+    },
     {
       "id": "local-1787623836676",
       "text": "Merci Jésus 🤷🤷🤷🤷🙏🙏🙏🙏❤️♥️♥️🔥🔥🔥😊😊😊🤩😍💔",
@@ -103,11 +117,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 33,
-  "shareCount": 46,
-  "viewCount": 119,
+  "likeCount": 37,
+  "shareCount": 54,
+  "viewCount": 133,
   "verseLikedBy": [
     "07b4870dc89b54b20a5beae7be91bd0ac23b0e23e1f918e4dc380b4c6c975ae0",
+    "12c6c82fecff6a461767a125084d8fcf2f2d788e3710b529432c871aa829df40",
     "1617ac2ab08a220324c93524752fa95a5ad32c4a060a2d0c143a587daf435f19",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -118,6 +133,7 @@
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "52e2975f778eeacb9611e9533adc6db73c14050316c15229b49ae43ec08785d1",
     "579bc143989411c492c16a34b0abccab7133e9eb34b0a8ffe8cbec2edccfa858",
+    "5d0383a7dfc0bfab100209dec0b605a9da39ff44553d42ee8e51cadf584479df",
     "606adc63a2e26582205c87c7ed369ace9469335c38c521bca4e4d293f8cca79f",
     "622468719951662ed6e0faf42be9db7bdd6b6154aa30693ec2f4a04cca51bff6",
     "7369bc3d6f24b6c660b3c888e7392d47e8892b7ee6aa622820b8a464b87d34bb",
@@ -135,6 +151,8 @@
     "d2b5c69d3bc8629d77ec8455e551d80a25e556b2be69e24657ecdd7cac70e3a0",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "db1cdb7dbe05bf43133e765b234bf18c0b375cda17c26dd2708e4179b43e600a",
+    "e0c2fbe1707462966c8a28ea8fadc5cd411f6148213641ec9b85131a1426bb7b",
+    "e34decc9551ca2b797cff3d604f7a3c0c2a1378ebd078b39f316616d61bc6ab6",
     "f67bab15a8d6320cb08a58d02ac89f27cbc3fef74a03614846ae997fb494a1ee",
     "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
