@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787663702806,
+  "updatedAt": 1787664605291,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "1 Korentyen 7:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "ff886ae0ade7b2ec7d99e846b341942fcc9dff76911a99a035d328b92fff386a"
+      ],
       "createdAt": 1787641395835,
-      "updatedAt": 1787641395835,
+      "updatedAt": 1787663848724,
       "status": "active"
     },
     {
@@ -351,9 +353,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 121,
-  "shareCount": 264,
-  "viewCount": 488,
+  "likeCount": 124,
+  "shareCount": 269,
+  "viewCount": 497,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
@@ -384,6 +386,7 @@
     "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
     "2f382a90f25787492b305325a6dd5de808b5683829f77b85e981b2a621ed1bd0",
     "2fd17d235d6b0cb85023abd28af01077721df1ea70fa8b0ef641c81fd52f091b",
+    "2fee5f275c19e0ba34a372f21c9c03d1c7530d70719b6d899497cb02e2066163",
     "3224c35798c959964910bf1a857ce6c57ce1d7bb76e0e2a5088cf6dc5bfbf6c3",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "33d56008e5f99b8d1842e191af1bda4d6d6de7b46324fbee59b9c96c8fe0e822",
@@ -426,6 +429,7 @@
     "8ba3ce134dc69aa212c5d1dd9f16b0ae50fc5531041ba921474f01266e67c84a",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8d11f9b67db0ca11f3d5387b3780fe82458a399b3b6a2eda6adf333964f65d8f",
+    "9331158e7ccf1a40b755e5ed60d597e94f85e66e8ed3628b82f3dc2b8890f685",
     "979fb304e940ec21c49bd6393a6f30242c8b7e5b4dddcba42a118f31f7bb3f81",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
@@ -475,7 +479,8 @@
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fab80813826c7b6a77225261ea18b75356ccd49ef04f531e99b9876c45328db8",
     "fabec081bfefde1001c78c6e2360bf5e6d6bfbf9868504a77812eda26812d0f1",
-    "fb1b73d6cd2e8717036f2fcdf8a12a2f598bd5c9583e4f28f52bcc900ca44cd5"
+    "fb1b73d6cd2e8717036f2fcdf8a12a2f598bd5c9583e4f28f52bcc900ca44cd5",
+    "fd6e7a936b0fdb9a3853d5e3d7fa1b97ff9b1416b6db7a12e21469040108081d"
   ],
   "verseViewBy": []
 }
