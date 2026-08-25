@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787654641696,
+  "updatedAt": 1787655605339,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787655248812",
+      "text": "medam mès kabann yo m swete Nou konprann vèsèa.e mesye iresponsab yo tou",
+      "userDeviceId": "c2e78e3f50c0add02203a26e1e0120d2d0c9975c363d427485e73106853c5d4a",
+      "userName": "jezu c chemen an",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787655251542,
+      "updatedAt": 1787655251542,
+      "status": "active"
+    },
     {
       "id": "local-1787650789849",
       "text": "amen",
@@ -337,9 +351,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 96,
-  "shareCount": 196,
-  "viewCount": 401,
+  "likeCount": 97,
+  "shareCount": 205,
+  "viewCount": 411,
   "verseLikedBy": [
     "0390095ef4d648ee5cccaf1b43dfdcc5c57292cc4e21633b7109c786442305f1",
     "05efdfcd341b612394bdc0fc293c3ba9349d6db01e4331b88ab9e644189c96ea",
@@ -354,6 +368,7 @@
     "188fd72311710b47681998be195f8491ca35cf6f92034ee592019de1f24b82ac",
     "19733df4dddb3c0c4149adcaa80c3fc21bf11dcc60c0aa30a3201c1a5b0a9b33",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1bc8b02b170018551fb115f171bb12d5faf0f49378ac7553d657e60c42757e11",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
