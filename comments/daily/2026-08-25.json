@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787634870947,
+  "updatedAt": 1787635789857,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787635132156",
+      "text": "Amn Amn Amn 🙏🙏🙏🙏",
+      "userDeviceId": "750e7630c9ebe3ecab1093cb1834d87cda122f9940f1f6e8292fdc8b322bf075",
+      "userName": "Réhobothe",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787635135074,
+      "updatedAt": 1787635135074,
+      "status": "active"
+    },
     {
       "id": "local-1787633812785",
       "text": "amen amen",
@@ -253,9 +267,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
-  "shareCount": 97,
-  "viewCount": 230,
+  "likeCount": 73,
+  "shareCount": 98,
+  "viewCount": 238,
   "verseLikedBy": [
     "0390095ef4d648ee5cccaf1b43dfdcc5c57292cc4e21633b7109c786442305f1",
     "05efdfcd341b612394bdc0fc293c3ba9349d6db01e4331b88ab9e644189c96ea",
@@ -284,6 +298,7 @@
     "684d830021d45bb5a6bdb9874219a1ce5129bcdd1f2c5470b1cff509ac08962a",
     "7126671abcd7b2fb81b304db17109e3242934552d3368d288520d6e5200d1f38",
     "7369bc3d6f24b6c660b3c888e7392d47e8892b7ee6aa622820b8a464b87d34bb",
+    "750e7630c9ebe3ecab1093cb1834d87cda122f9940f1f6e8292fdc8b322bf075",
     "78621c7bb9f2723999c0805410080f5140545f79d186d3adf36127f92e28225d",
     "78dc00efbaf213ca34551f2d569cff29000d209da17785ac357ad7e9a069cbfd",
     "7905013ec77d3e39b8d2cbb7f3ee6ee6fadb6954a7cf47e73e5bd73d3bd08d86",
