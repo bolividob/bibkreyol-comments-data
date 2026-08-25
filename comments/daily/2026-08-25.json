@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787683443672,
+  "updatedAt": 1787684286415,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787683976063",
+      "text": "amén 3fois 🙏🏽",
+      "userDeviceId": "c8f79f73758890c90cbe096e6f18247a4dbe410fed0f5b280a48f0983681df07",
+      "userName": "amén 🙏🏽🤦🏽‍♂️",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787683976824,
+      "updatedAt": 1787683976824,
+      "status": "active"
+    },
     {
       "id": "local-1787674096201",
       "text": "mw gen yon kesyon,  eske bib la gen erè ladanl? daprè kèk vèsè map li",
@@ -423,9 +437,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 164,
-  "shareCount": 313,
-  "viewCount": 672,
+  "likeCount": 168,
+  "shareCount": 314,
+  "viewCount": 679,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "01c55bdb8700a830be0253cc9298984737f3b30e8c8c653e66b3026da6a215de",
@@ -438,6 +452,7 @@
     "0c4f9eed874521abd328a902d7bc6bca58f7b93c8e6202713d51e37b31f28f9e",
     "0d7a2c1ad0c0de6d4c93173ab236c2a4f1f386b06ba35355f03dcb3debea9303",
     "0f027f459b8f3f0e685787e48e62ecaab7b6fb2a8fd9bb3d6d91f53c8fa8d600",
+    "0ff5936923ae64671e0722200b3980ee15bafd14ee7d1dd6e6aba2f52c912e1f",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "12c6c82fecff6a461767a125084d8fcf2f2d788e3710b529432c871aa829df40",
     "12deb4a04bdaa3f2cb07411e208e1dd86a55cad2349a9d2241fdf0f43aceff65",
@@ -508,6 +523,7 @@
     "73a8ef4d19d29b217230de04cc8bfbc4d8859a0dadece3a99076206d000849c7",
     "750e7630c9ebe3ecab1093cb1834d87cda122f9940f1f6e8292fdc8b322bf075",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
+    "77189ae7280bbf62750c328bfba3a0da703fc2587fb50867b5263094462f826b",
     "78621c7bb9f2723999c0805410080f5140545f79d186d3adf36127f92e28225d",
     "78dc00efbaf213ca34551f2d569cff29000d209da17785ac357ad7e9a069cbfd",
     "7905013ec77d3e39b8d2cbb7f3ee6ee6fadb6954a7cf47e73e5bd73d3bd08d86",
@@ -552,6 +568,7 @@
     "c6da56ad8835722533139b862fd346a85d973000b89d371bc82275048030d3eb",
     "c873cfb85bd0d2ee0f8d65ab99879e42768b0f97a6d3242034fe071722a81a21",
     "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+    "c8f79f73758890c90cbe096e6f18247a4dbe410fed0f5b280a48f0983681df07",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "ca5a3c0215f1fd66323561a022ab551e393d70ea01a9660d8d83da3ea1c69298",
@@ -590,6 +607,7 @@
     "fab80813826c7b6a77225261ea18b75356ccd49ef04f531e99b9876c45328db8",
     "fabec081bfefde1001c78c6e2360bf5e6d6bfbf9868504a77812eda26812d0f1",
     "fb1b73d6cd2e8717036f2fcdf8a12a2f598bd5c9583e4f28f52bcc900ca44cd5",
+    "fb1de3513bdaf9cfb6f6c45008b8b1c265b5ab1774a4458df9e24159c1d4282f",
     "fd6e7a936b0fdb9a3853d5e3d7fa1b97ff9b1416b6db7a12e21469040108081d"
   ],
   "verseViewBy": []
