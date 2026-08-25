@@ -1,9 +1,23 @@
 {
   "date": "2026-08-25",
   "verseKey": "daily:2026-08-25",
-  "updatedAt": 1787633100614,
+  "updatedAt": 1787633881781,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787633812785",
+      "text": "amen amen",
+      "userDeviceId": "a5b4ae82e14257f0d569ef07b4d349e932b2c3933477c65604b4432c2d17da30",
+      "userName": "madame Achille",
+      "verseName": "1 Korentyen 7:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787633815216,
+      "updatedAt": 1787633815216,
+      "status": "active"
+    },
     {
       "id": "local-1787631768002",
       "text": "amén Amén",
@@ -239,9 +253,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
-  "shareCount": 95,
-  "viewCount": 215,
+  "likeCount": 70,
+  "shareCount": 96,
+  "viewCount": 222,
   "verseLikedBy": [
     "0390095ef4d648ee5cccaf1b43dfdcc5c57292cc4e21633b7109c786442305f1",
     "05efdfcd341b612394bdc0fc293c3ba9349d6db01e4331b88ab9e644189c96ea",
@@ -280,6 +294,7 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
+    "a5b4ae82e14257f0d569ef07b4d349e932b2c3933477c65604b4432c2d17da30",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "aa46fb20dbe69fc09a38c870a882427da233a4ba5ae6f64c358ec3717b6fce02",
     "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
