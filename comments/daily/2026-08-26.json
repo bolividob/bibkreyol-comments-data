@@ -1,9 +1,37 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787780641478,
+  "updatedAt": 1787781602317,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787715811962",
+      "text": "bib la se limyè m",
+      "userDeviceId": "837ef7cb3860858f81726a7d8e86e31fa3bdc70449407b383db2a47f862e71fe",
+      "userName": "sinthia love",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787780933152,
+      "updatedAt": 1787780933152,
+      "status": "active"
+    },
+    {
+      "id": "local-1787715791829",
+      "text": "amen",
+      "userDeviceId": "837ef7cb3860858f81726a7d8e86e31fa3bdc70449407b383db2a47f862e71fe",
+      "userName": "sinthia love",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787780931040,
+      "updatedAt": 1787780931040,
+      "status": "active"
+    },
     {
       "id": "local-1787773387299",
       "text": "amèn 🙏",
@@ -225,8 +253,8 @@
     }
   ],
   "likeCount": 141,
-  "shareCount": 275,
-  "viewCount": 803,
+  "shareCount": 279,
+  "viewCount": 813,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "019ccab7497022b9f15de49140e179d81eca249751e2c84fc2fbb865b955499d",
