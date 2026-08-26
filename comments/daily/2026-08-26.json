@@ -1,9 +1,23 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787712241443,
+  "updatedAt": 1787713201714,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787712497316",
+      "text": "amen",
+      "userDeviceId": "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77",
+      "userName": "sevena",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787712599083,
+      "updatedAt": 1787712599083,
+      "status": "active"
+    },
     {
       "id": "local-1787708540176",
       "text": "mwen felisite'w admin pou bèl app saa , Dye beni'w",
@@ -49,9 +63,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
-  "shareCount": 57,
-  "viewCount": 171,
+  "likeCount": 36,
+  "shareCount": 62,
+  "viewCount": 182,
   "verseLikedBy": [
     "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
     "05b15b7774b82b7fd8669a414174cb59e227fd09465414fe53c3ca1b6d3930b5",
@@ -66,6 +80,7 @@
     "37235ce785203b349282c534a4078066c3456eb94e8e80b12c44e340c405ef94",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
+    "4f5ac3601f47012e9f0b73d90f3f9b86a23165180e93ab788d7a338b5ecf5487",
     "52e2975f778eeacb9611e9533adc6db73c14050316c15229b49ae43ec08785d1",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "5af6cde26d70319ee191feca81362337b05daa8378a3c638dbfbe8f2bf8ecdf7",
@@ -81,7 +96,12 @@
     "b4f41ae54c4dde9f26997e97b3f8efc72384141a3440b1a8045bc41bf912ca20",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "c61de756eb819ffafebc36d308886e53f648882d011e945987dd3e98700b34c1",
+    "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
+    "cce498017fa1602a441622516e112ec9933c8aa509d6d1483392b51555430562",
+    "d839da72e7f55f4b56a66d639f2f6dac7eab315c1ff3f8ead63ef9aae840111d",
     "de9ad1d1fb0f3415bba88db8700052de8cd5663aae963986ae8c76c7ca17aefb",
+    "e69913180b30cdc7fc26db0a9f3d7bebd4bbf08793792b83f0fb231bc818bec0",
+    "f197df066ad3462187d4f5fce8aefa5f8d7863dac28728d0e751eb99dee51f77",
     "f5818030c67e97028f20047856333268bde6243a88831e48cd0321dc8c4ab99e"
   ],
   "verseViewBy": []
