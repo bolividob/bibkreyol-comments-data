@@ -1,9 +1,23 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787772605532,
+  "updatedAt": 1787773441271,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787773387299",
+      "text": "amèn 🙏",
+      "userDeviceId": "cd338589193f886e89f536446696a951a1439e24e6066bb6e4b42b969f5df2f5",
+      "userName": "efed Joseph",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787773388766,
+      "updatedAt": 1787773388766,
+      "status": "active"
+    },
     {
       "id": "local-1787760395078",
       "text": "Amén wi",
@@ -203,9 +217,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
-  "shareCount": 250,
-  "viewCount": 727,
+  "likeCount": 128,
+  "shareCount": 253,
+  "viewCount": 734,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
@@ -308,6 +322,7 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "ca1ea0a5cae19e9f48532388bde686988ee7f9c8bf3924c99b28d47d00eca509",
     "cce498017fa1602a441622516e112ec9933c8aa509d6d1483392b51555430562",
+    "cd338589193f886e89f536446696a951a1439e24e6066bb6e4b42b969f5df2f5",
     "d59f7646fe29d162c7e4d9c33100da8040eb58a9142abf043581707f616d5af6",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "d839da72e7f55f4b56a66d639f2f6dac7eab315c1ff3f8ead63ef9aae840111d",
