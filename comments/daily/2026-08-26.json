@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787771652981,
+  "updatedAt": 1787772605532,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Nòm 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "362a4f94c5c71d370eb43dbdd58c05f8381475cc43c67432ad5e497fa7a51574"
+      ],
       "createdAt": 1787750774888,
-      "updatedAt": 1787750774888,
+      "updatedAt": 1787771818137,
       "status": "active"
     },
     {
@@ -203,7 +205,7 @@
   ],
   "likeCount": 127,
   "shareCount": 250,
-  "viewCount": 716,
+  "viewCount": 727,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
