@@ -1,9 +1,23 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787760004369,
+  "updatedAt": 1787760848514,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787760395078",
+      "text": "Amén wi",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787760396373,
+      "updatedAt": 1787760396373,
+      "status": "active"
+    },
     {
       "id": "local-1787712149719",
       "text": "amen 🙏",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
-  "shareCount": 226,
-  "viewCount": 608,
+  "likeCount": 120,
+  "shareCount": 231,
+  "viewCount": 617,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
@@ -208,6 +222,7 @@
     "1a08eb86333bf8ddd2ea7e59a7a1b98ead7917a320415309ed8aaee262b261b5",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1c1009f7a011b6d323baa108aca25cd46026d0aa85fc455c1f520b35ebc20070",
+    "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1edde2a5b9c31150a288975a11d2510e9733c1f32d7bd4b50f67c4f8d3817a7d",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
@@ -228,10 +243,12 @@
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3bbb59b7ba395e1192609db6ffc9bc0601a3e50166a12de0c69717fd9f22eaab",
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "4b066ce99a1b51e6c5267c30a7a3639be323736865e0327c33d7a916a05a713e",
     "4b73421bc99cad3523b68f41f9148c7fca69bcc8c30e1ebfaafd33a3668591b5",
+    "4c78642279d2e8c84385a669c95853d55f800fde1604cf6f9c6b38ae574a2bc2",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4cd14ac18446139b23b930ca2fd964bcbca37ead4b5ecef6ce02d0930701eff2",
     "4eb70930f663a49f3bc394dde5149486864501133a315a63cfce41f264ebb63a",
