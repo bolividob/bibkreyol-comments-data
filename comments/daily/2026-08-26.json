@@ -1,9 +1,51 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787782472933,
+  "updatedAt": 1787783401022,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787783035078",
+      "text": "bibkrelo",
+      "userDeviceId": "34455a076e77d5653cc6317dcbf6e9dea854618b0766ae086755bda867de086b",
+      "userName": "oklid",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787783036424,
+      "updatedAt": 1787783036424,
+      "status": "active"
+    },
+    {
+      "id": "local-1787782907689",
+      "text": "donald",
+      "userDeviceId": "34455a076e77d5653cc6317dcbf6e9dea854618b0766ae086755bda867de086b",
+      "userName": "oklid",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787782909088,
+      "updatedAt": 1787782909088,
+      "status": "active"
+    },
+    {
+      "id": "local-1787782883434",
+      "text": "donald",
+      "userDeviceId": "34455a076e77d5653cc6317dcbf6e9dea854618b0766ae086755bda867de086b",
+      "userName": "oklid",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787782884743,
+      "updatedAt": 1787782884743,
+      "status": "active"
+    },
     {
       "id": "local-1787715811962",
       "text": "bib la se limyè m",
@@ -252,9 +294,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 141,
-  "shareCount": 282,
-  "viewCount": 821,
+  "likeCount": 142,
+  "shareCount": 285,
+  "viewCount": 829,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "019ccab7497022b9f15de49140e179d81eca249751e2c84fc2fbb865b955499d",
@@ -336,6 +378,7 @@
     "912db19a79e1b6684af66cbae6556532bcce37eff00dbfc67d3b9b6c34cd2b16",
     "91cf4e7413b88c34ce253f8844121875efadae1ebe29e8351b487aa6112fa9d0",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+    "993840d90b4fe8ec7e4c49efeaa8c87370d4562978e72b86ebd1c5c8d16d2aca",
     "99e1cac8cd32f1b542ad9f28e5c5482adc7b1171751d5316c401e40fdec36dce",
     "9a9166648d67fa0e72f06df96e61e863b037ef8d7b6125a472a772d0a3af42e4",
     "9bd55d62327efdc719b587347392fcde66daff0b877eb95d370c707964844c8e",
