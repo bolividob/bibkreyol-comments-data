@@ -1,9 +1,23 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787750044550,
+  "updatedAt": 1787751001264,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787748065757",
+      "text": "WI se sa",
+      "userDeviceId": "0eaa061073a2b0eb3c817ff5e23f351d911dff3c1d944cea780e5d1d7486443c",
+      "userName": "Sr pierre Rose Darline Doriste",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787750774888,
+      "updatedAt": 1787750774888,
+      "status": "active"
+    },
     {
       "id": "local-1787749583985",
       "text": "Amen",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 190,
-  "viewCount": 514,
+  "likeCount": 93,
+  "shareCount": 193,
+  "viewCount": 523,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
@@ -168,6 +182,7 @@
     "3bbb59b7ba395e1192609db6ffc9bc0601a3e50166a12de0c69717fd9f22eaab",
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
     "3f03727b74a70604c874b96f9c3913fadfe74ff76e6273e633495c50f7969883",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4eb70930f663a49f3bc394dde5149486864501133a315a63cfce41f264ebb63a",
     "4f5ac3601f47012e9f0b73d90f3f9b86a23165180e93ab788d7a338b5ecf5487",
