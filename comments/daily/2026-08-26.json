@@ -1,9 +1,37 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787785202289,
+  "updatedAt": 1787786040851,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787785796329",
+      "text": "amnm",
+      "userDeviceId": "122686b19809ddc0d10fd9f93fea71b503f8766b0c98b85489c8096b69ae0cb7",
+      "userName": "Rosemerline Raymond",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787785798726,
+      "updatedAt": 1787785798726,
+      "status": "active"
+    },
+    {
+      "id": "local-1787785772527",
+      "text": "Amen",
+      "userDeviceId": "122686b19809ddc0d10fd9f93fea71b503f8766b0c98b85489c8096b69ae0cb7",
+      "userName": "Rosemerline Raymond",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787785775062,
+      "updatedAt": 1787785775062,
+      "status": "active"
+    },
     {
       "id": "local-1787783636482",
       "text": "amén",
@@ -308,9 +336,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 145,
+  "likeCount": 147,
   "shareCount": 289,
-  "viewCount": 845,
+  "viewCount": 855,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "019ccab7497022b9f15de49140e179d81eca249751e2c84fc2fbb865b955499d",
@@ -387,6 +415,7 @@
     "7f739c6f1bf0653345fc568ae9cd9b5c4ff4260801d8a3488e3cce15dfdd252e",
     "8159afd346d40bd87febde56380904bfb5af56e613ae58b69d9ae18b56b2bb50",
     "824bce72c17a9e782e2a01a1104c1cc4496991013736931c1111acb4b8154617",
+    "84dc04d553405069174ce68d2069e0bd16eb11d63dc95179ba4f155537427474",
     "8854f69492678eb18d1a98f5c2161f0c5df00d93c991b374bfafc54ce2f27e23",
     "8b61f52191989856e7eea11685a5b2a314928222db166160695d7987008acbce",
     "8ea1210bcb5d7221538b98890bb51b61d0b61c5d3f372bf7e7985b0b1cc1f8a7",
@@ -433,6 +462,7 @@
     "d839da72e7f55f4b56a66d639f2f6dac7eab315c1ff3f8ead63ef9aae840111d",
     "db12f76b8a8607878a361bb1475cf3366f9afacb5947eb678d407b1c1697fa8b",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "dbfd07ab46039db55fc53ca517c38877a0eea9832a5b754e87ea60ab4528a243",
     "dcc309c0e898808db9bb21ce4fe3e7d4312a911da033512a49aacdbb7bab2c3a",
     "de9ad1d1fb0f3415bba88db8700052de8cd5663aae963986ae8c76c7ca17aefb",
     "df2629244be38dd11b1b813646ec2e8766ca066da391deb2e63b05848fd41547",
