@@ -1,9 +1,23 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787783401022,
+  "updatedAt": 1787784243836,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787783636482",
+      "text": "amén",
+      "userDeviceId": "9195a6116383122438eed0b53c0749ed429daea7b471f41a0e88343693c99518",
+      "userName": "admy",
+      "verseName": "Nòm 5:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787783639630,
+      "updatedAt": 1787783639630,
+      "status": "active"
+    },
     {
       "id": "local-1787783035078",
       "text": "bibkrelo",
@@ -295,8 +309,8 @@
     }
   ],
   "likeCount": 142,
-  "shareCount": 285,
-  "viewCount": 829,
+  "shareCount": 286,
+  "viewCount": 836,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "019ccab7497022b9f15de49140e179d81eca249751e2c84fc2fbb865b955499d",
