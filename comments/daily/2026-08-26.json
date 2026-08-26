@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "verseKey": "daily:2026-08-26",
-  "updatedAt": 1787773441271,
+  "updatedAt": 1787774401680,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Nòm 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "85214deb73666f77f020619ae28c0cfe767172b569f01d1e244561e7f485971f"
+      ],
       "createdAt": 1787751401405,
-      "updatedAt": 1787751401405,
+      "updatedAt": 1787773688655,
       "status": "active"
     },
     {
@@ -183,7 +185,7 @@
         "34f7d785c242c4e3e6371298e3332dd624a46590c654b6c26edff66b6d30f597"
       ],
       "createdAt": 1787710725492,
-      "updatedAt": 1787755991660,
+      "updatedAt": 1787773694259,
       "status": "active"
     },
     {
@@ -194,10 +196,12 @@
       "verseName": "Nòm 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "85214deb73666f77f020619ae28c0cfe767172b569f01d1e244561e7f485971f"
+      ],
       "createdAt": 1787710703224,
-      "updatedAt": 1787710703224,
+      "updatedAt": 1787773689467,
       "status": "active"
     },
     {
@@ -208,20 +212,22 @@
       "verseName": "Nòm 5:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e"
+        "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
+        "85214deb73666f77f020619ae28c0cfe767172b569f01d1e244561e7f485971f"
       ],
       "createdAt": 1787706723701,
-      "updatedAt": 1787708052330,
+      "updatedAt": 1787773689692,
       "status": "active"
     }
   ],
-  "likeCount": 128,
+  "likeCount": 129,
   "shareCount": 253,
-  "viewCount": 734,
+  "viewCount": 743,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
+    "019ccab7497022b9f15de49140e179d81eca249751e2c84fc2fbb865b955499d",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
     "04ad707ab78df4244ab2483ef00f8efa55a2c3295b4b1c6c7e48ff93ffb4e80e",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
