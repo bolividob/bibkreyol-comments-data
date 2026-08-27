@@ -1,9 +1,51 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787841853004,
+  "updatedAt": 1787842805828,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787842597832",
+      "text": "amen amen",
+      "userDeviceId": "778cd60de983c2dde18fc4ad6e3710727117f72c8e3a3a1d2924b0ea6a7a1d6a",
+      "userName": "kecha",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787842600252,
+      "updatedAt": 1787842600252,
+      "status": "active"
+    },
+    {
+      "id": "local-1787842585688",
+      "text": "amen",
+      "userDeviceId": "778cd60de983c2dde18fc4ad6e3710727117f72c8e3a3a1d2924b0ea6a7a1d6a",
+      "userName": "kecha",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787842599134,
+      "updatedAt": 1787842599134,
+      "status": "active"
+    },
+    {
+      "id": "local-1787841924255",
+      "text": "amén amén",
+      "userDeviceId": "8bdfb21da5af8ca33652da84c4a18d807b9f160617f67735b844b00a56117e5f",
+      "userName": "Leydi",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787841926081,
+      "updatedAt": 1787841926081,
+      "status": "active"
+    },
     {
       "id": "local-1787841087478",
       "text": "mirtha",
@@ -215,9 +257,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 118,
-  "shareCount": 200,
-  "viewCount": 549,
+  "likeCount": 119,
+  "shareCount": 202,
+  "viewCount": 557,
   "verseLikedBy": [
     "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
@@ -275,6 +317,7 @@
     "80a1a94c775480c38cec166f9b336f2d28a6c2fa4005ec2e74a9d3823e71d060",
     "83c202290538f7becaf9bdc89c402ed0a1ee4bf6f6ea5892641fc68c8c218a7f",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
+    "8bdfb21da5af8ca33652da84c4a18d807b9f160617f67735b844b00a56117e5f",
     "8ca94d54b0a34c385795cc35e6b699415b5308f500203edece5857fd79a7f2a7",
     "8d72a0130cf9fc2385d994afc2d2f82ecd4d6a8931efad5e647db5ce7f887a28",
     "8e120f3639a9993b96de5941d6d93df1e070676048c8fafb89f2c781b2cff96e",
