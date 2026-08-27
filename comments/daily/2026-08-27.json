@@ -1,9 +1,23 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787802244043,
+  "updatedAt": 1787803201685,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787803174990",
+      "text": "Amen 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "34ef90153fc93e3a3bcc30298130e95122da3ef549c93f6ca6a9f2841bdd1f65",
+      "userName": "wedmaëlla",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787803176643,
+      "updatedAt": 1787803176643,
+      "status": "active"
+    },
     {
       "id": "local-1787801507933",
       "text": "amén amén 🙏🙏",
@@ -79,9 +93,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 53,
-  "shareCount": 57,
-  "viewCount": 190,
+  "likeCount": 56,
+  "shareCount": 60,
+  "viewCount": 199,
   "verseLikedBy": [
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
     "08db9d3bc8ec758cad16f698672d94d7be3b131771542bb94cdf27b4eab4913c",
@@ -91,6 +105,7 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2372aa3d0cf94f7a435c3947a33642dd43d430d1923d8762878872a313de92a1",
     "23a2a7d99c67afedda36c3eb06a4bdd44b115ba6b01122701af21281cedc3060",
+    "34ef90153fc93e3a3bcc30298130e95122da3ef549c93f6ca6a9f2841bdd1f65",
     "398f971aca40b3b90f54f21032d4cbd5abbe1c70f0e3dca5c4bdd1ac7771f8d5",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "45d4cfab01bde90e35993a365996237b6ccb5cd941cb85003c858eb6b64e0942",
@@ -105,6 +120,8 @@
     "6abba6c072ae60bde5ca18869bc1371a99ab822b53951d45cd851f699a79680a",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "78e525ab62b8d1f7050d6ceaa03c7048540daa0ee2c703dd87b784f74feeedf1",
+    "79bcdd23402035bcff66f331e47c2a5cbdcebe4dfa7f58219c4fe4407926c28d",
     "7f4551d61ecf2176b57b42264a241d768ec25ba90b3bbf43fe4147f6d9bfdf18",
     "80a1a94c775480c38cec166f9b336f2d28a6c2fa4005ec2e74a9d3823e71d060",
     "83c202290538f7becaf9bdc89c402ed0a1ee4bf6f6ea5892641fc68c8c218a7f",
