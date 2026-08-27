@@ -1,9 +1,23 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787835483874,
+  "updatedAt": 1787836501083,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787836256021",
+      "text": "Amen🙏🙏🙏",
+      "userDeviceId": "6aa707879324a825c3a6e18bceaea4a060cc9563e4f0b1ef230e49db514d3835",
+      "userName": "Christ Capable",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787836257789,
+      "updatedAt": 1787836257789,
+      "status": "active"
+    },
     {
       "id": "local-1787833127159",
       "text": "Amén",
@@ -26,10 +40,12 @@
       "verseName": "Eklezyas 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6e3b7ebe6687b4b844cb735b3e9a8b9f28901e6f64a6db2d9fd3ed187dfed64b"
+      ],
       "createdAt": 1787831627535,
-      "updatedAt": 1787831627535,
+      "updatedAt": 1787836474537,
       "status": "active"
     },
     {
@@ -40,10 +56,12 @@
       "verseName": "Eklezyas 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6e3b7ebe6687b4b844cb735b3e9a8b9f28901e6f64a6db2d9fd3ed187dfed64b"
+      ],
       "createdAt": 1787828429607,
-      "updatedAt": 1787828429607,
+      "updatedAt": 1787836470392,
       "status": "active"
     },
     {
@@ -57,7 +75,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787803176643,
-      "updatedAt": 1787803176643,
+      "updatedAt": 1787836477009,
       "status": "active"
     },
     {
@@ -68,10 +86,12 @@
       "verseName": "Eklezyas 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6e3b7ebe6687b4b844cb735b3e9a8b9f28901e6f64a6db2d9fd3ed187dfed64b"
+      ],
       "createdAt": 1787801509598,
-      "updatedAt": 1787801509598,
+      "updatedAt": 1787836483584,
       "status": "active"
     },
     {
@@ -82,10 +102,12 @@
       "verseName": "Eklezyas 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6e3b7ebe6687b4b844cb735b3e9a8b9f28901e6f64a6db2d9fd3ed187dfed64b"
+      ],
       "createdAt": 1787797946043,
-      "updatedAt": 1787797946043,
+      "updatedAt": 1787836485096,
       "status": "active"
     },
     {
@@ -135,9 +157,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 103,
-  "shareCount": 175,
-  "viewCount": 488,
+  "likeCount": 106,
+  "shareCount": 180,
+  "viewCount": 496,
   "verseLikedBy": [
     "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
@@ -149,6 +171,7 @@
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1d9efc9912f914deeb8dc37110b9df7086a29d6e9c0622004e115d674de18396",
+    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -183,6 +206,7 @@
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "78e525ab62b8d1f7050d6ceaa03c7048540daa0ee2c703dd87b784f74feeedf1",
+    "799a2f155bac1664d9742dfec43f59ae4a4a2bd9565d2cf82cd3338cd9e23e85",
     "79bcdd23402035bcff66f331e47c2a5cbdcebe4dfa7f58219c4fe4407926c28d",
     "7b57d66d263a094497dd3f719a5791ceade270ef09a4253307ad33b30ec66b34",
     "7f4551d61ecf2176b57b42264a241d768ec25ba90b3bbf43fe4147f6d9bfdf18",
@@ -196,6 +220,7 @@
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
+    "a084272c7c34429e4b0d7ea6238b924e44b863bba4f44c6f0ca02fbef1b709b5",
     "a17f753da115ae34f08bdc483aff7981cc955e8cee289753ce84054c26abd34a",
     "a484b1e6b245b320761680f1920adb5f433f43ffe8dc69aeb7b1c62eeb81c6ca",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
