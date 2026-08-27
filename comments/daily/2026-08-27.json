@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787792401207,
+  "updatedAt": 1787793303521,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Eklezyas 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1f7fcd9a61a410b741fa1c185ae54639300e507c430d27baa690eb2e07eed3fb"
+      ],
       "createdAt": 1787791272356,
-      "updatedAt": 1787791272356,
+      "updatedAt": 1787793210965,
       "status": "active"
     },
     {
@@ -40,26 +42,31 @@
       "verseName": "Eklezyas 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1f7fcd9a61a410b741fa1c185ae54639300e507c430d27baa690eb2e07eed3fb"
+      ],
       "createdAt": 1787789747144,
-      "updatedAt": 1787789747144,
+      "updatedAt": 1787793276580,
       "status": "active"
     }
   ],
-  "likeCount": 14,
-  "shareCount": 12,
-  "viewCount": 78,
+  "likeCount": 17,
+  "shareCount": 15,
+  "viewCount": 92,
   "verseLikedBy": [
     "18575703444d08268d815141588b5455d4697a2524b250987f6f860990ad1ff5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "23a2a7d99c67afedda36c3eb06a4bdd44b115ba6b01122701af21281cedc3060",
+    "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "5402cf219035c9dab21e959c8801c6bc131962fa2ee1343626b1d2685daec321",
     "62fb5d1b3cf19706fe26ecd3c55eebd55c6a294151bbe7236827cf4bc050bebe",
     "83c202290538f7becaf9bdc89c402ed0a1ee4bf6f6ea5892641fc68c8c218a7f",
     "8ca94d54b0a34c385795cc35e6b699415b5308f500203edece5857fd79a7f2a7",
     "8d72a0130cf9fc2385d994afc2d2f82ecd4d6a8931efad5e647db5ce7f887a28",
     "a77cc527b2d6c01df258cbc082fd44b0b965454d4817aab2aebb6c62df2e5a00",
+    "d59f7646fe29d162c7e4d9c33100da8040eb58a9142abf043581707f616d5af6",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "e1cab7188cad3a53d19e06e354aa76e5939fdfb6e72503bb2e42e2ba4a0124bc",
     "eab4f48ac9c2b2e9f28a9d2230eaf3f3674891a756df7aff8f21ba74374bb074",
