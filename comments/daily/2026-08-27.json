@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787851803229,
+  "updatedAt": 1787852685782,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Eklezyas 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "9cba6728aeb2043cc556c09ded19dc28e96c4260670e048fb6e130d1aeb9b4e5"
+      ],
       "createdAt": 1787848307192,
-      "updatedAt": 1787848307192,
+      "updatedAt": 1787852507100,
       "status": "active"
     },
     {
@@ -285,9 +287,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 131,
-  "shareCount": 232,
-  "viewCount": 646,
+  "likeCount": 135,
+  "shareCount": 237,
+  "viewCount": 653,
   "verseLikedBy": [
     "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
@@ -313,6 +315,7 @@
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "34ef90153fc93e3a3bcc30298130e95122da3ef549c93f6ca6a9f2841bdd1f65",
     "353ffbe7f4fcf9598770490c9ce3d98071535012d1c1304760ccd6ee1052a85a",
+    "38806753f6c82b2b33deb68e228bedfe9bc63cb47beb2cf8ad1f235e0fdaccb4",
     "398f971aca40b3b90f54f21032d4cbd5abbe1c70f0e3dca5c4bdd1ac7771f8d5",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "40c3a3c9ae284f11dee33bfb1409c9336bab775fae8a0f2a3b53812526d1134f",
@@ -395,6 +398,7 @@
     "c6e1884f3358a95769773299466428a884fd0f0b8ba8cebb73e477060dc9999c",
     "c782febbef0ca884a62e324988b4dc45b56ef95d00daf3f80a3bf5844b8ed4ab",
     "d24383435349d297b0d92249798010432e7449d07a6143c853cf9171eb11dd16",
+    "d3388b40e965ca9f7fa1049c01e4981cf3e284c85c9bde8bffd419d20f7a4a94",
     "d4223ee7d637c20b53264d7a9b4589fcef41c271c81646643b0268f2bd20204a",
     "d59f7646fe29d162c7e4d9c33100da8040eb58a9142abf043581707f616d5af6",
     "d66b4e3f9682dfa7819be158b1d5ea6c5ef371ac13ac3e0adad3fbdaa59c1eb4",
@@ -402,6 +406,7 @@
     "d6f70613c5f05cf1b133698b8e4c1bcf739472840fea8b02fec37d2cffb34f63",
     "d7bd04f43ba3098cdd098e0d1305355d28de0292921b94694cc26a8ce5f2b306",
     "dbd4bb8cda30f4fde6baf010786e422043aac7fd71a53b933bbfc5e0d498f141",
+    "dbdbb07fb5300681e23edbe0f65e3f956c4097ad412be10c51f5fc481a51f6f2",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dc4d4b556f26c2bb75c8339c1ab5255a49b16812d05ade0328d975dfc02d0c74",
     "dc4d4dc5f54e4039481d8b0f1b6dfcbd001a000bb9eda5c663f13e98aeb3cbdb",
@@ -415,6 +420,7 @@
     "ed481da5dbd35dfcfa25c3aac16768df1f3fbba66ae925393111598b25ee4df0",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
+    "f3f74eb29d0a8b3d5c92021fa8b8688f14863efb724df3659d4e5260b7a07fa7",
     "f49effd189da3a83cddc0f64b8bff569a4a3622b832702068d6e03a3a8d3afc6",
     "f693f0426d055f988c27bdc7553f2b3f44d69e43f96b975dd2a96d98c0942a62",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
