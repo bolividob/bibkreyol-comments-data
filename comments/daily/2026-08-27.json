@@ -1,9 +1,23 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787828376234,
+  "updatedAt": 1787829265699,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787797523699",
+      "text": "amèn",
+      "userDeviceId": "71c089e6618dfba0c3e332f8b072278d954e0496cbff7f67e5163bd3151289f6",
+      "userName": "jeffte edouard",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787828429607,
+      "updatedAt": 1787828429607,
+      "status": "active"
+    },
     {
       "id": "local-1787803174990",
       "text": "Amen 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏",
@@ -93,10 +107,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 81,
-  "shareCount": 132,
-  "viewCount": 419,
+  "likeCount": 84,
+  "shareCount": 141,
+  "viewCount": 428,
   "verseLikedBy": [
+    "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
     "08db9d3bc8ec758cad16f698672d94d7be3b131771542bb94cdf27b4eab4913c",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -108,6 +123,7 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2372aa3d0cf94f7a435c3947a33642dd43d430d1923d8762878872a313de92a1",
     "23a2a7d99c67afedda36c3eb06a4bdd44b115ba6b01122701af21281cedc3060",
+    "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "34ef90153fc93e3a3bcc30298130e95122da3ef549c93f6ca6a9f2841bdd1f65",
     "398f971aca40b3b90f54f21032d4cbd5abbe1c70f0e3dca5c4bdd1ac7771f8d5",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
@@ -137,6 +153,7 @@
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
     "8ca94d54b0a34c385795cc35e6b699415b5308f500203edece5857fd79a7f2a7",
     "8d72a0130cf9fc2385d994afc2d2f82ecd4d6a8931efad5e647db5ce7f887a28",
+    "92b7a0b5ae0b80e3ed3bab0e5dc8cfca2125446d799396c68e90284f0cea4322",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "a484b1e6b245b320761680f1920adb5f433f43ffe8dc69aeb7b1c62eeb81c6ca",
