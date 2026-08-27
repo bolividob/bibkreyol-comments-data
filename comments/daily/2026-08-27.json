@@ -1,9 +1,23 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787872441624,
+  "updatedAt": 1787873402979,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787872556599",
+      "text": "som 10",
+      "userDeviceId": "d3be10adffc30672a88a05b23694d24f61294248fc287617a2c94a28026eb632",
+      "userName": "joderson",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787872557680,
+      "updatedAt": 1787872557680,
+      "status": "active"
+    },
     {
       "id": "local-1787861187982",
       "text": "amen",
@@ -317,13 +331,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 162,
+  "likeCount": 164,
   "shareCount": 268,
-  "viewCount": 837,
+  "viewCount": 847,
   "verseLikedBy": [
     "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
     "08db9d3bc8ec758cad16f698672d94d7be3b131771542bb94cdf27b4eab4913c",
+    "0d3b1021af0a8cacc54f13e7540593218b2f98595204eab812c990ea312cafec",
     "0d7a2c1ad0c0de6d4c93173ab236c2a4f1f386b06ba35355f03dcb3debea9303",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "15657d9f4bd7458872feef6e5535ce7c41cbe54c3d77a3820eec5c8c502fc56b",
@@ -401,6 +416,7 @@
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "83c202290538f7becaf9bdc89c402ed0a1ee4bf6f6ea5892641fc68c8c218a7f",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
+    "8a23a094f68c0f300317c8ee827078557b8bfae79e99a8dce88aa8a860664a2d",
     "8bdfb21da5af8ca33652da84c4a18d807b9f160617f67735b844b00a56117e5f",
     "8ca94d54b0a34c385795cc35e6b699415b5308f500203edece5857fd79a7f2a7",
     "8d72a0130cf9fc2385d994afc2d2f82ecd4d6a8931efad5e647db5ce7f887a28",
