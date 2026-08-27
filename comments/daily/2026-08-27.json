@@ -1,9 +1,23 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787848207107,
+  "updatedAt": 1787849043730,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787848303984",
+      "text": "mèsi",
+      "userDeviceId": "c349289f364315717f040b249b60e5bcba0cf3d1f71fb8d5e73833a4aac6d077",
+      "userName": "Wilson",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787848307192,
+      "updatedAt": 1787848307192,
+      "status": "active"
+    },
     {
       "id": "local-1787842597832",
       "text": "amen amen",
@@ -257,9 +271,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 123,
-  "shareCount": 220,
-  "viewCount": 612,
+  "likeCount": 124,
+  "shareCount": 222,
+  "viewCount": 622,
   "verseLikedBy": [
     "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
@@ -355,6 +369,7 @@
     "bdc1e96f8bf12108a0cbd03554372360f2a8f01db900d90aebf8aefbb6975d7e",
     "c1ca9c853c86551237a58fe18f5130e6f50a3486dcbc3bb88175fdec5ea8f387",
     "c2376e883fad53c33954cf55e53b975748b0fd4ebc4316b72d1f5e7e7cbb30ce",
+    "c349289f364315717f040b249b60e5bcba0cf3d1f71fb8d5e73833a4aac6d077",
     "c4d4e33a4f9f4657ad13fa58f9ec1736ca3fa88270b1d5d130f46e937468a767",
     "c57d3a77cb69bab407b90604c0ba2168a0a46e02f053961e67f8f07825961634",
     "c6e1884f3358a95769773299466428a884fd0f0b8ba8cebb73e477060dc9999c",
