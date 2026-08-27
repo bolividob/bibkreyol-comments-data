@@ -1,9 +1,23 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787859841755,
+  "updatedAt": 1787860682163,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787860068233",
+      "text": "Amén 🙏❤️",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787860069182,
+      "updatedAt": 1787860069182,
+      "status": "active"
+    },
     {
       "id": "local-1787851784594",
       "text": "sa sa vle di ?",
@@ -287,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 141,
-  "shareCount": 244,
-  "viewCount": 719,
+  "likeCount": 143,
+  "shareCount": 245,
+  "viewCount": 728,
   "verseLikedBy": [
     "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
@@ -341,6 +355,7 @@
     "693e3bb45989bbee450b2eb3bb8eb2482e09cb2816f858263af5fb18b240035e",
     "69d08820d41da1b04f40678992d69f46d5e589b86450cc28f071172a80a5657b",
     "6abba6c072ae60bde5ca18869bc1371a99ab822b53951d45cd851f699a79680a",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "70a2fabd01b52e3f4d304d2559c9dc5d99cce03abc7e6216e06ab727b249ac38",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "72d92f21344743d34619e1cbdd865aaa11a3fb0571727c0e5e6c9903a92947da",
@@ -363,6 +378,7 @@
     "8d72a0130cf9fc2385d994afc2d2f82ecd4d6a8931efad5e647db5ce7f887a28",
     "8e120f3639a9993b96de5941d6d93df1e070676048c8fafb89f2c781b2cff96e",
     "92b7a0b5ae0b80e3ed3bab0e5dc8cfca2125446d799396c68e90284f0cea4322",
+    "955767734a7d7b2029c88d0f099d9ea43a45d71cbee003ddf1c30e441efa8695",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "9a1b33dda8462e4d057fe20fd039acabc5435c6ee979073edbd619c72dc85880",
     "9b7e3a769485de34b0552040a005150af4cf078a03a033e5065df107eb591488",
