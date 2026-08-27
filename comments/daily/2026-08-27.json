@@ -1,9 +1,23 @@
 {
   "date": "2026-08-27",
   "verseKey": "daily:2026-08-27",
-  "updatedAt": 1787851688778,
+  "updatedAt": 1787851803229,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787851784594",
+      "text": "sa sa vle di ?",
+      "userDeviceId": "a2eb48419a311b3c9a78b2d29eef637d2b6177fbf1c0f88f340cbc9aed5450e4",
+      "userName": "guedenise",
+      "verseName": "Eklezyas 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787851785928,
+      "updatedAt": 1787851785928,
+      "status": "active"
+    },
     {
       "id": "local-1787848303984",
       "text": "mèsi",
@@ -271,9 +285,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 130,
+  "likeCount": 131,
   "shareCount": 232,
-  "viewCount": 645,
+  "viewCount": 646,
   "verseLikedBy": [
     "018dc336a7a12a995e5feb85c5b1894ec35fd95099dbcdbae248a1b4447b5202",
     "01bcaa7ae5d384794f215bd6e845021e8b4de2df70fb3d0f4912fe17c4473449",
@@ -350,6 +364,7 @@
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "a084272c7c34429e4b0d7ea6238b924e44b863bba4f44c6f0ca02fbef1b709b5",
     "a17f753da115ae34f08bdc483aff7981cc955e8cee289753ce84054c26abd34a",
+    "a2eb48419a311b3c9a78b2d29eef637d2b6177fbf1c0f88f340cbc9aed5450e4",
     "a484b1e6b245b320761680f1920adb5f433f43ffe8dc69aeb7b1c62eeb81c6ca",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a583eacb41544d017bc3a6bf40bc08b483c559f2d391914a6f7ccb5fa0cd383a",
