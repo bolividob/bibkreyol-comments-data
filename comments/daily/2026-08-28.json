@@ -1,9 +1,41 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787885042285,
+  "updatedAt": 1787886005067,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787885148497",
+      "text": "mèsi bondye",
+      "userDeviceId": "2c4c3eb0f1f04551f0922c3f9b4cec5262b6acc40334a71e15b54a6b4f10dcef",
+      "userName": "kè pasyans",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "2c4c3eb0f1f04551f0922c3f9b4cec5262b6acc40334a71e15b54a6b4f10dcef"
+      ],
+      "createdAt": 1787885149999,
+      "updatedAt": 1787885162392,
+      "status": "active"
+    },
+    {
+      "id": "local-1787885139949",
+      "text": "mèsi bondye",
+      "userDeviceId": "2c4c3eb0f1f04551f0922c3f9b4cec5262b6acc40334a71e15b54a6b4f10dcef",
+      "userName": "kè pasyans",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "2c4c3eb0f1f04551f0922c3f9b4cec5262b6acc40334a71e15b54a6b4f10dcef"
+      ],
+      "createdAt": 1787885142726,
+      "updatedAt": 1787885162956,
+      "status": "active"
+    },
     {
       "id": "local-1787884029931",
       "text": "mèsi jezi 🙏",
@@ -21,11 +53,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
-  "shareCount": 34,
-  "viewCount": 149,
+  "likeCount": 36,
+  "shareCount": 35,
+  "viewCount": 158,
   "verseLikedBy": [
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
+    "0df0af1f4c8f82845c8796e3226f867425839f9a47f534753bfeba1878e9469a",
     "10dbaa4708661480a3e78fc160d469b7e17487e4ed39e66cc32a2e0b535d79fa",
     "162dd1c72baae804efe674d9a046dde7e1dc3f06ee47d9de184812cf869dd4e0",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -54,6 +87,7 @@
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "d7e11e941549241862d42a3eaad9c33c02116e3e08aee6e11e9324c6da7e6277",
     "d839da72e7f55f4b56a66d639f2f6dac7eab315c1ff3f8ead63ef9aae840111d",
+    "da8b153e7bcb748f3874cf2c15101f85ad20bb95fe65512bcf2cb136cf836ab8",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f4a2014f5facbd2795bfbbb089fdf6db35dabc4cb31397eb0c69a7c22d0cea7d",
