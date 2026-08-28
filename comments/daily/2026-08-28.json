@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787954400648,
+  "updatedAt": 1787955243526,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787954910188",
+      "text": "my love",
+      "userDeviceId": "e89963804b283aae72022dce5221295cec0e5421707c2187bb6f51d8a45e54b5",
+      "userName": "jan 3 vèsè 4",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787955003180,
+      "updatedAt": 1787955003180,
+      "status": "active"
+    },
     {
       "id": "local-1787952144433",
       "text": "Amèn li ka fèl ankò 🤲",
@@ -26,10 +40,12 @@
       "verseName": "Jij 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "5c76c732619a5303454dddf94dbf65b736e0ce905bbc57ff12d1d30aa421fe68"
+      ],
       "createdAt": 1787949526416,
-      "updatedAt": 1787953491451,
+      "updatedAt": 1787954720770,
       "status": "active"
     },
     {
@@ -45,7 +61,7 @@
         "2166496a7fc60b5dd449542cde18a8ef99e1b493f62f105c2bd174d83577dc5f"
       ],
       "createdAt": 1787931533686,
-      "updatedAt": 1787953492766,
+      "updatedAt": 1787954718285,
       "status": "active"
     },
     {
@@ -56,12 +72,13 @@
       "verseName": "Jij 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "2166496a7fc60b5dd449542cde18a8ef99e1b493f62f105c2bd174d83577dc5f"
+        "2166496a7fc60b5dd449542cde18a8ef99e1b493f62f105c2bd174d83577dc5f",
+        "5c76c732619a5303454dddf94dbf65b736e0ce905bbc57ff12d1d30aa421fe68"
       ],
       "createdAt": 1787923386786,
-      "updatedAt": 1787953426131,
+      "updatedAt": 1787954717835,
       "status": "active"
     },
     {
@@ -75,7 +92,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787919754201,
-      "updatedAt": 1787919754201,
+      "updatedAt": 1787954709733,
       "status": "active"
     },
     {
@@ -274,9 +291,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 158,
-  "shareCount": 233,
-  "viewCount": 761,
+  "likeCount": 159,
+  "shareCount": 234,
+  "viewCount": 768,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
@@ -365,6 +382,7 @@
     "7af176019e009c836691c57fb37ef37a9f3bf8e2253261640f1a774283582d0a",
     "7b444a3c42f75e6993925eeac3780a6350946492253446b6eb0ecd84cb01c712",
     "7c7bbf5aaa06b0c8cc8bde38f3036e5624295d802f62a9bfdc01ce7d87956dd6",
+    "7cdd18be09fcde7cc96cef02c4ea0b81d3bb3b63be52a756736f1898c6e43f77",
     "7d28c9c84a833affac9bf54df8c23fc8a3c355038c78b927ad587e46161c7f93",
     "7da532017a39b9af4e7c6b654c538e5ff2005ecf83dfcefdfcc9fdad258d51d1",
     "7df37d5ab1097b23df729e077d9907731a995cf6355db77df818e4eb4e27c5bc",
