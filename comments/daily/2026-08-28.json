@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787951641026,
+  "updatedAt": 1787952604438,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787952144433",
+      "text": "Amèn li ka fèl ankò 🤲",
+      "userDeviceId": "3306dfd9f98d11d2e0caad99527e61d06d4a3269c8899d847712315bb8180c26",
+      "userName": "sr wislande",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787952147677,
+      "updatedAt": 1787952147677,
+      "status": "active"
+    },
     {
       "id": "local-1787949524747",
       "text": "amén",
@@ -256,9 +270,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 148,
-  "shareCount": 224,
-  "viewCount": 737,
+  "likeCount": 151,
+  "shareCount": 226,
+  "viewCount": 746,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
@@ -298,6 +312,7 @@
     "30768191aa71cb5e723a80e3616f25ee284fb0fcdc8b9ea37d2bbe51b1a8e5fd",
     "30d705382e909fc92ac3f389f879d6616ed293e2c86d12c0432eb416856f049b",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "3306dfd9f98d11d2e0caad99527e61d06d4a3269c8899d847712315bb8180c26",
     "34677de9b90584a13bd39055c9dc1caad725c38faaac4a0cfda766679c60a89c",
     "386fe4ba28a2e654763f3e46fb7c330c5ab2b729e2526351d607dfaa2acda0bd",
     "3933ce248f90138484ac7aeb4a75f0194c2bb4f56ab2f0a43c2ff75ac95a2927",
@@ -324,6 +339,7 @@
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "59564278e8b28143a094a032a8b724699d331870d1b1934924ac28aca4a617da",
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
+    "5af81bc9f358e458b3d0653d7d514914fa2a89f7599397d675e9e88f811c15a5",
     "5c6c81697add8e32387abbd21e31af70b96d6f8c8f797254a16ddb5ba5ae2bfb",
     "5efe31f201ed0be78ca705333f71f9ab2c606a97853f62226c4250aa26c7e47d",
     "601e809f462a7f41c20fe6dd68e009e8959b6fe2febedee2b1aa2534a67bace7",
@@ -407,7 +423,8 @@
     "fb82f29cba5a7c66f56971a9cfec58aaa2fe9744f18f1b07a7bd325d9075a75e",
     "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f",
     "fd11680e4713e127f8617c9159c5edfbc9e17ef98502f286dd157f7294af67bc",
-    "fd8b6aa319c016d38cb885ea78d25dd81e01b4224cbef514c2b265573e6d5b87"
+    "fd8b6aa319c016d38cb885ea78d25dd81e01b4224cbef514c2b265573e6d5b87",
+    "ff657fc064de019a3e50147276c262a5107f0b6da7d6508874e9ff24c964cf85"
   ],
   "verseViewBy": []
 }
