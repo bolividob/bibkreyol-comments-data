@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787895005420,
+  "updatedAt": 1787895841299,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787895193593",
+      "text": "Amen 🙏🏻",
+      "userDeviceId": "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
+      "userName": "Rose Myrlande Saint cilien",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787895195073,
+      "updatedAt": 1787895195073,
+      "status": "active"
+    },
     {
       "id": "local-1787892173762",
       "text": "amén",
@@ -111,9 +125,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 63,
-  "viewCount": 239,
+  "likeCount": 61,
+  "shareCount": 64,
+  "viewCount": 246,
   "verseLikedBy": [
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
     "0d7a2c1ad0c0de6d4c93173ab236c2a4f1f386b06ba35355f03dcb3debea9303",
@@ -148,6 +162,7 @@
     "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f",
     "8ecc1bb3920be4d7356f5239724c65eb547dd71e0134fefd80ccb152de16910e",
     "8eee7b4c70f1ba03b203fad53b7f845d7725b3a6b31a3e88a8923fe146852671",
+    "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
     "93b78e44568460ac6dd603517e99205894dd11cb0bde3730b07a9f05489a7910",
     "9667c98de03e09919dca5cd24f9f8c6d5c8d90deea0231b13ba3da4a9e2de626",
     "9b81188b7f8d500d1c11c777c0122dacef892875698965749b02534bfb4d6fe5",
@@ -171,6 +186,7 @@
     "f07eb62d7f7e448198d65e73e47195dba1d6c248e1671ca691137bac5835ddee",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f4a2014f5facbd2795bfbbb089fdf6db35dabc4cb31397eb0c69a7c22d0cea7d",
+    "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
     "f8a23e8483d8d6187e2f2a7ebb7273cfba1ddc1c42a3e8a24bfbe62886d447f9",
     "fb82f29cba5a7c66f56971a9cfec58aaa2fe9744f18f1b07a7bd325d9075a75e",
     "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f"
