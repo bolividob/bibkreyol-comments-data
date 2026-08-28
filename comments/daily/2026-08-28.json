@@ -1,15 +1,33 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787883241378,
+  "updatedAt": 1787884203165,
   "version": 1,
-  "comments": [],
-  "likeCount": 24,
-  "shareCount": 25,
-  "viewCount": 129,
+  "comments": [
+    {
+      "id": "local-1787884029931",
+      "text": "mèsi jezi 🙏",
+      "userDeviceId": "c9fcfc1f15db89368b4721f1925203425a52aefea47441d24c4a2bfa93370d82",
+      "userName": "yvelourde",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "c9fcfc1f15db89368b4721f1925203425a52aefea47441d24c4a2bfa93370d82"
+      ],
+      "createdAt": 1787884032358,
+      "updatedAt": 1787884058723,
+      "status": "active"
+    }
+  ],
+  "likeCount": 28,
+  "shareCount": 30,
+  "viewCount": 140,
   "verseLikedBy": [
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
     "10dbaa4708661480a3e78fc160d469b7e17487e4ed39e66cc32a2e0b535d79fa",
+    "162dd1c72baae804efe674d9a046dde7e1dc3f06ee47d9de184812cf869dd4e0",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
     "30d705382e909fc92ac3f389f879d6616ed293e2c86d12c0432eb416856f049b",
@@ -30,8 +48,11 @@
     "ba3f80bd15a208b075d58d5cf08d8d21b0e5d71e488ef29432e39f6c1f784a09",
     "c59c6054bc8ef26bcf917e5d2d62169d876a883d2ecf05ccbfbeb5f56d5418d7",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
+    "d7e11e941549241862d42a3eaad9c33c02116e3e08aee6e11e9324c6da7e6277",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
-    "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6"
+    "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
+    "f8a23e8483d8d6187e2f2a7ebb7273cfba1ddc1c42a3e8a24bfbe62886d447f9",
+    "fb82f29cba5a7c66f56971a9cfec58aaa2fe9744f18f1b07a7bd325d9075a75e"
   ],
   "verseViewBy": []
 }
