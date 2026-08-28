@@ -1,9 +1,25 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787956204427,
+  "updatedAt": 1787957043858,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787956656994",
+      "text": "Amen 🙏🙏🙏🙏🙏",
+      "userDeviceId": "7dcc208ebf62c95039827ccf1614b7dbc38bc3eb19d248c17a0eb64b499921a4",
+      "userName": "Saint fort claudia",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "7dcc208ebf62c95039827ccf1614b7dbc38bc3eb19d248c17a0eb64b499921a4"
+      ],
+      "createdAt": 1787956659184,
+      "updatedAt": 1787956665781,
+      "status": "active"
+    },
     {
       "id": "local-1787954910188",
       "text": "my love",
@@ -291,9 +307,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 162,
-  "shareCount": 237,
-  "viewCount": 778,
+  "likeCount": 164,
+  "shareCount": 239,
+  "viewCount": 786,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
@@ -385,6 +401,7 @@
     "7cdd18be09fcde7cc96cef02c4ea0b81d3bb3b63be52a756736f1898c6e43f77",
     "7d28c9c84a833affac9bf54df8c23fc8a3c355038c78b927ad587e46161c7f93",
     "7da532017a39b9af4e7c6b654c538e5ff2005ecf83dfcefdfcc9fdad258d51d1",
+    "7dcc208ebf62c95039827ccf1614b7dbc38bc3eb19d248c17a0eb64b499921a4",
     "7df37d5ab1097b23df729e077d9907731a995cf6355db77df818e4eb4e27c5bc",
     "7f23ce1c510913aae2c14f2437378d95185f57f04d56fa1ff21a34b22e13dc74",
     "858ff53b2996c1b9528ffee9f0d6b62978fb0d280abb8e6e72171a6a2ce4dd9f",
@@ -453,6 +470,7 @@
     "f8a23e8483d8d6187e2f2a7ebb7273cfba1ddc1c42a3e8a24bfbe62886d447f9",
     "f8a440efe901ac72599e8ffdd55647b19d276334662528eb24008e1887afcefd",
     "fb82f29cba5a7c66f56971a9cfec58aaa2fe9744f18f1b07a7bd325d9075a75e",
+    "fb9bc44a64214fb45ea73ccaea8f847c4b01a3b103dbba21113d298a84c0176c",
     "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f",
     "fd11680e4713e127f8617c9159c5edfbc9e17ef98502f286dd157f7294af67bc",
     "fd8b6aa319c016d38cb885ea78d25dd81e01b4224cbef514c2b265573e6d5b87",
