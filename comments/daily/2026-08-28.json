@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787913002386,
+  "updatedAt": 1787913885146,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jij 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a"
+      ],
       "createdAt": 1787910056426,
-      "updatedAt": 1787910056426,
+      "updatedAt": 1787913194420,
       "status": "active"
     },
     {
@@ -167,10 +169,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 80,
-  "shareCount": 94,
-  "viewCount": 392,
+  "likeCount": 82,
+  "shareCount": 103,
+  "viewCount": 400,
   "verseLikedBy": [
+    "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
     "0d7a2c1ad0c0de6d4c93173ab236c2a4f1f386b06ba35355f03dcb3debea9303",
     "0df0af1f4c8f82845c8796e3226f867425839f9a47f534753bfeba1878e9469a",
@@ -180,6 +183,7 @@
     "162dd1c72baae804efe674d9a046dde7e1dc3f06ee47d9de184812cf869dd4e0",
     "17f819d4bd59d9f3ecd4b0e0b4eb1baf010d6c93fa5a0e0293e186de21b0f83c",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "21393b1372e19ccf47bab8feaf496f6ae2204d4c09cf0565fa920213dca1e328",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
