@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787957043858,
+  "updatedAt": 1787958001130,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787957445546",
+      "text": "bonsoir komanw nou ye",
+      "userDeviceId": "99169bbc2cff0cf451a97b61d59304bab4725e7a705bf88e16d1e6b5c656f127",
+      "userName": "Jean wedlene",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787957485350,
+      "updatedAt": 1787957485350,
+      "status": "active"
+    },
     {
       "id": "local-1787956656994",
       "text": "Amen 🙏🙏🙏🙏🙏",
@@ -38,14 +52,14 @@
       "id": "local-1787952144433",
       "text": "Amèn li ka fèl ankò 🤲",
       "userDeviceId": "3306dfd9f98d11d2e0caad99527e61d06d4a3269c8899d847712315bb8180c26",
-      "userName": "sr wislande",
+      "userName": "Sr Wislande paul",
       "verseName": "Jij 3:1",
       "parentId": null,
       "replyCount": 0,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1787952147677,
-      "updatedAt": 1787952147677,
+      "updatedAt": 1787957953394,
       "status": "active"
     },
     {
@@ -308,8 +322,8 @@
     }
   ],
   "likeCount": 164,
-  "shareCount": 239,
-  "viewCount": 786,
+  "shareCount": 241,
+  "viewCount": 795,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
