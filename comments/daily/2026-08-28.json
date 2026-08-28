@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787930913471,
+  "updatedAt": 1787931843917,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787931531898",
+      "text": "amén",
+      "userDeviceId": "b0c9c76c378a3aa119e333ec297a33ff3611065691c91229e246ac5d21231cf2",
+      "userName": "dafca cadet",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787931533686,
+      "updatedAt": 1787931533686,
+      "status": "active"
+    },
     {
       "id": "local-1787923386041",
       "text": "Amén 🙏🙏🙏",
@@ -228,9 +242,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 122,
+  "likeCount": 124,
   "shareCount": 180,
-  "viewCount": 556,
+  "viewCount": 563,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
@@ -276,6 +290,7 @@
     "4268a91af2142d0e0590df3a070ef98262fa31025a937b39eae1dcc0fec0d23e",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
+    "446841bcc7b5c0da9d4409986509891a9cdbceeea3a5915ba7ca0cdbec036251",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "54b4d3ed39028a5dbc8572fed88e40c331362708e0b1b11ea6df32238e9ef064",
@@ -318,6 +333,7 @@
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "aa5e6e3af37e4ea649917548808b4c8d3da6ba36c6bbf938e3ad43e536b89d98",
     "ad386674c8c61c11b5fbd4709bc8baf38cce3cc6a1768d50474334c235520b7d",
+    "b0c9c76c378a3aa119e333ec297a33ff3611065691c91229e246ac5d21231cf2",
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
     "b844f7b088f83bdce9a0880c0418a6d1198c9fbf6db0364b1ea428dc5b2fc5d0",
     "ba3f80bd15a208b075d58d5cf08d8d21b0e5d71e488ef29432e39f6c1f784a09",
