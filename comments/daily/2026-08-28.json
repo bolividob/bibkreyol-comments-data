@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787891405596,
+  "updatedAt": 1787892244926,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787892173762",
+      "text": "amén",
+      "userDeviceId": "a2e720b54c49fd67ba9c61a68ad1360b796bcc7573e0201cdeb9ed2f1eee6040",
+      "userName": "amén amén",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787892175673,
+      "updatedAt": 1787892175673,
+      "status": "active"
+    },
     {
       "id": "local-1787890433728",
       "text": "Amén amén 🙏🙏",
@@ -97,9 +111,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 57,
-  "viewCount": 207,
+  "likeCount": 56,
+  "shareCount": 60,
+  "viewCount": 214,
   "verseLikedBy": [
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
     "0d7a2c1ad0c0de6d4c93173ab236c2a4f1f386b06ba35355f03dcb3debea9303",
@@ -136,6 +150,7 @@
     "9667c98de03e09919dca5cd24f9f8c6d5c8d90deea0231b13ba3da4a9e2de626",
     "9b81188b7f8d500d1c11c777c0122dacef892875698965749b02534bfb4d6fe5",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+    "a2e720b54c49fd67ba9c61a68ad1360b796bcc7573e0201cdeb9ed2f1eee6040",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
