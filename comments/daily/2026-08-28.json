@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787949001502,
+  "updatedAt": 1787949842032,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787949524747",
+      "text": "amén",
+      "userDeviceId": "ca9763e612739c2c406d58cedb8bbf5a7ce22f90e1bb48787542994576cb6348",
+      "userName": "evens",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787949526416,
+      "updatedAt": 1787949526416,
+      "status": "active"
+    },
     {
       "id": "local-1787931531898",
       "text": "amén",
@@ -244,7 +258,7 @@
   ],
   "likeCount": 147,
   "shareCount": 211,
-  "viewCount": 714,
+  "viewCount": 721,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
