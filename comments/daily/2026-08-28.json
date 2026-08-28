@@ -1,9 +1,23 @@
 {
   "date": "2026-08-28",
   "verseKey": "daily:2026-08-28",
-  "updatedAt": 1787888682286,
+  "updatedAt": 1787889482053,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787888971885",
+      "text": "merci senyè",
+      "userDeviceId": "4b5d7bab4f69510ce0d2ec11d1c5dd7c0e6766d2a459b1f30b0e84c30a274957",
+      "userName": "Emma",
+      "verseName": "Jij 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787888974453,
+      "updatedAt": 1787888974453,
+      "status": "active"
+    },
     {
       "id": "local-1787886285617",
       "text": "mèsi Jezi",
@@ -69,9 +83,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 54,
-  "viewCount": 183,
+  "likeCount": 50,
+  "shareCount": 55,
+  "viewCount": 191,
   "verseLikedBy": [
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
     "0d7a2c1ad0c0de6d4c93173ab236c2a4f1f386b06ba35355f03dcb3debea9303",
@@ -91,7 +105,9 @@
     "3dec786fdea43e49e6e16ee2e10a759519b5c182da001b813ddbeb7187f015ca",
     "54b4d3ed39028a5dbc8572fed88e40c331362708e0b1b11ea6df32238e9ef064",
     "59564278e8b28143a094a032a8b724699d331870d1b1934924ac28aca4a617da",
+    "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
     "601e809f462a7f41c20fe6dd68e009e8959b6fe2febedee2b1aa2534a67bace7",
+    "6b1a0bd510fd56111a16866f1f3fc2e885bec2dc531bc0249f88f4418439d245",
     "6d2a3565a1e3f940d9af5e5a2a8fcd3e430388adf153688e7ed8f8d093deaf09",
     "704b2a4fcff2c4251ab6a7297ed5406cbbfbd067a6c089bc69664bf2f0e3f140",
     "7102bf7e737354c71f943c602e028c121dbc375649d38bb20e7f74269d189711",
@@ -113,6 +129,7 @@
     "d839da72e7f55f4b56a66d639f2f6dac7eab315c1ff3f8ead63ef9aae840111d",
     "d855250db6255e452a24d08c2fc8c5b8adcc2e6103e964ecd8c78f2992a01381",
     "da8b153e7bcb748f3874cf2c15101f85ad20bb95fe65512bcf2cb136cf836ab8",
+    "dbb5b713b7f2b467edbb9a33baa544a37ba31984a5b2ee04e659b2d66aeaebc4",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "f07eb62d7f7e448198d65e73e47195dba1d6c248e1671ca691137bac5835ddee",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
