@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1787987673468,
+  "updatedAt": 1787988604215,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787988073152",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787988074065,
+      "updatedAt": 1787988074065,
+      "status": "active"
+    },
     {
       "id": "local-1787982037644",
       "text": "bondy tapri ban fos paske mwe make fos sen ou me mwe geye",
@@ -161,9 +175,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 61,
-  "viewCount": 301,
+  "likeCount": 50,
+  "shareCount": 62,
+  "viewCount": 309,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -207,6 +221,7 @@
     "ce55d38ebfe6eb7b1b477f4c33645b7bb446b9b5824a004246de52cac878b5bc",
     "d190e2dbfe43fe0b78d11314bd86ce3c457015a9f52409eb1767c4d101475602",
     "d39d80b901dcf495d452145b5c9754b2549e1d056b6d078b8ef1a2ed7f9d21e0",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "de4ec1432a93751c393baececa4da05a9802cddecc3a898aceaa10df52448622",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f6cbf1229453e187563ecd37b2a2e5a0faf54e4259a0e480d7eaf80715ab4499",
