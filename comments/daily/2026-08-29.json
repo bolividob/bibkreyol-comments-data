@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788016442164,
+  "updatedAt": 1788017290046,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788016826936",
+      "text": "Amén 3 fwa🙏🙏🙏🙏",
+      "userDeviceId": "af506dfa1f0ab0bd95248a01459fa780359b5fb06d317231de2fb50a97b6511b",
+      "userName": "carthie",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788016828059,
+      "updatedAt": 1788016828059,
+      "status": "active"
+    },
     {
       "id": "local-1788010636238",
       "text": "Pale pou mwen kotem paka pale Jezi gran frè Mwen",
@@ -231,9 +245,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 133,
-  "viewCount": 552,
+  "likeCount": 95,
+  "shareCount": 137,
+  "viewCount": 559,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -284,6 +298,7 @@
     "76e04e634d15b0e64836fe61ae3964c9b122b62b5e4e05cb7b5f532eddc29d93",
     "7d47cfc6fdc21d6620d8237ce46d6bc893c4ac2d9dee55bd77fec4ed407c54d9",
     "7d6c0b4523ce9673e7ec637a2990fb080de4fa674b2912af2e80d9f7ff55e0f1",
+    "7da1911348460149a7ed4c8c7c3da4cb87116aa204d9a7659a8c46dc0b773dc4",
     "8808e366502fe9aa10f564d23462ec692df9b7dfcdb179dcc3ba40b9859db0b5",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
     "8ba3ce134dc69aa212c5d1dd9f16b0ae50fc5531041ba921474f01266e67c84a",
@@ -299,10 +314,12 @@
     "a52e6df359be5f5611d1d488b12e4e4d87cdf68de12d0edfe6b081cd7f82cf37",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "aec2fce9de1d427ef35f56c65d46ad6d522c036080105faa171cb80cde10ebed",
+    "af506dfa1f0ab0bd95248a01459fa780359b5fb06d317231de2fb50a97b6511b",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b6efa622d05a0dc8dcfa9f79231278ec3fdc2776af7330ec2cc97e4e7a2c928e",
     "bd8790cd628e75ffc82fce35a4a93cc81c4f69d35f3688c6f3ff7e6000e08bc4",
     "bedaf7ec8028bf6e45e8406c1fbec4b2629cbcdc46c48cfcd9076c16dc46f774",
+    "c10a2c63ef6a12908e29babbffc11ab41e783faacb4eca9040d7fdb5981f77b5",
     "c2944f5fdff108cbf33c4c441a0f1736bda17add96d4b84fccae8028134c9850",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cb866a350f108938587250195339c2b04ffe2989db84c17b76857e575ee07ecc",
