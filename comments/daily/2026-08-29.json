@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1787976845958,
+  "updatedAt": 1787977682367,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787977181510",
+      "text": "Tanpri papa fèm vin saj🙏🏻🙏🏻🙏🏻",
+      "userDeviceId": "bedaf7ec8028bf6e45e8406c1fbec4b2629cbcdc46c48cfcd9076c16dc46f774",
+      "userName": "sr fabie",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787977183176,
+      "updatedAt": 1787977183176,
+      "status": "active"
+    },
     {
       "id": "local-1787976722939",
       "text": "Amen",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 41,
-  "shareCount": 48,
-  "viewCount": 211,
+  "likeCount": 42,
+  "shareCount": 49,
+  "viewCount": 218,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -168,6 +182,7 @@
     "aec2fce9de1d427ef35f56c65d46ad6d522c036080105faa171cb80cde10ebed",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b6efa622d05a0dc8dcfa9f79231278ec3fdc2776af7330ec2cc97e4e7a2c928e",
+    "bedaf7ec8028bf6e45e8406c1fbec4b2629cbcdc46c48cfcd9076c16dc46f774",
     "c2944f5fdff108cbf33c4c441a0f1736bda17add96d4b84fccae8028134c9850",
     "cd28b8cf6409f1371df78add8555639315a27d492370dce9351b89efaedc7810",
     "ce55d38ebfe6eb7b1b477f4c33645b7bb446b9b5824a004246de52cac878b5bc",
