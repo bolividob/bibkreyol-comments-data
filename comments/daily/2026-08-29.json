@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1787967850182,
+  "updatedAt": 1787968802753,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787968334419",
+      "text": "son6",
+      "userDeviceId": "181ca73c44c0828a5ed8fee585378933bd5253b4dbf0f95eb91709bc9f1409bb",
+      "userName": "jean chapitre 16",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787968338310,
+      "updatedAt": 1787968338310,
+      "status": "active"
+    },
     {
       "id": "local-1787965871209",
       "text": "papa tanpri chaje lavim",
@@ -49,11 +63,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 18,
-  "shareCount": 19,
-  "viewCount": 110,
+  "likeCount": 20,
+  "shareCount": 20,
+  "viewCount": 121,
   "verseLikedBy": [
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
+    "096492435813833650a091bf2061a5c3be56db6fbd8354a0a09faa12092cd083",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
     "164ea2c6725aaf70ea8297295ba8012324ccdd45e649cb8dd646df5b6c6f562c",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -67,6 +82,7 @@
     "96adf4ba59967886b0e3466e7fa8870e6574500be0e3fde40b92a81917f2feec",
     "9d45ab473de5f66eae1ca5bf3f02dbf6741ac21ca5b62d5612329a95d9995ab7",
     "a52e6df359be5f5611d1d488b12e4e4d87cdf68de12d0edfe6b081cd7f82cf37",
+    "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b6efa622d05a0dc8dcfa9f79231278ec3fdc2776af7330ec2cc97e4e7a2c928e",
     "f6cbf1229453e187563ecd37b2a2e5a0faf54e4259a0e480d7eaf80715ab4499",
