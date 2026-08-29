@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788025442240,
+  "updatedAt": 1788026282516,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787962370581",
+      "text": "🌹🌹",
+      "userDeviceId": "9c76d9cb3205c2a7795cfaa49413f2eea98f0fa9bb000a779ca088659e4eab7b",
+      "userName": "jezi",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788025930473,
+      "updatedAt": 1788025930473,
+      "status": "active"
+    },
     {
       "id": "local-1788024114249",
       "text": "Amen Amen Amen merci Seigneur Jésus",
@@ -303,7 +317,7 @@
   ],
   "likeCount": 111,
   "shareCount": 155,
-  "viewCount": 636,
+  "viewCount": 646,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
