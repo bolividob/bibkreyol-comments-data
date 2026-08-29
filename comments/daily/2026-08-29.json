@@ -1,9 +1,37 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788023643094,
+  "updatedAt": 1788024601240,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788024114249",
+      "text": "Amen Amen Amen merci Seigneur Jésus",
+      "userDeviceId": "81701d696c530e0d8cd99031af4b11c544dffb40ec3c138d9e8c161814e05c01",
+      "userName": "ema",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788024115475,
+      "updatedAt": 1788024115475,
+      "status": "active"
+    },
+    {
+      "id": "local-1788024080515",
+      "text": "Amen Amen merci Seigneur Jésus",
+      "userDeviceId": "81701d696c530e0d8cd99031af4b11c544dffb40ec3c138d9e8c161814e05c01",
+      "userName": "ema",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788024081949,
+      "updatedAt": 1788024081949,
+      "status": "active"
+    },
     {
       "id": "local-1788021031135",
       "text": "bibliothèque",
@@ -273,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 108,
+  "likeCount": 109,
   "shareCount": 154,
-  "viewCount": 619,
+  "viewCount": 627,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -380,6 +408,7 @@
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f6cbf1229453e187563ecd37b2a2e5a0faf54e4259a0e480d7eaf80715ab4499",
+    "f6cf1c9d35b2f5e16edbf71d3cbe6299354205986570b3e14820ca1724c065d7",
     "f97ca5dff5232cedcfc58731c5c99f5add28fccd7fb23383b6af9c3b94a2503b",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fa79f2967a021693ec381f0510396247399124cb4b0586d3dee6097c290114e0",
