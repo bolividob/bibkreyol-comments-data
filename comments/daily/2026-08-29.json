@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788000242574,
+  "updatedAt": 1788000728992,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788000679000",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788000679957,
+      "updatedAt": 1788000679957,
+      "status": "active"
+    },
     {
       "id": "local-1787989738759",
       "text": "Bondye fem rete tou prèw kenbe menm pou anyen nan mond sa pa retire prezans ou nan lavim",
@@ -203,9 +217,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 87,
-  "viewCount": 406,
+  "likeCount": 63,
+  "shareCount": 90,
+  "viewCount": 411,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -233,6 +247,7 @@
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "5ebe1f699b225facbbe810c3a0bc3be9661154832132a18904393eaee1e811a2",
     "642ed4a3a79370f46b926718bdbc32ee004e36b92a493b23e37e1b00b7e20f95",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "73cb80cfdde691c72724d0b5ab39e625512e539bb35c5b15982fba3f0433a01e",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "76e04e634d15b0e64836fe61ae3964c9b122b62b5e4e05cb7b5f532eddc29d93",
