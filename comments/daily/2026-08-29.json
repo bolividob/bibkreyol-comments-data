@@ -1,9 +1,25 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1787965200908,
+  "updatedAt": 1787966041572,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787965871209",
+      "text": "papa tanpri chaje lavim",
+      "userDeviceId": "c0ad724fcbde6779c55882039dd26cf2ef410c312cae4b76e59b0a644fb68404",
+      "userName": "shela",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "c0ad724fcbde6779c55882039dd26cf2ef410c312cae4b76e59b0a644fb68404"
+      ],
+      "createdAt": 1787965874457,
+      "updatedAt": 1787965899123,
+      "status": "active"
+    },
     {
       "id": "local-1787963184580",
       "text": "Amen",
@@ -35,7 +51,7 @@
   ],
   "likeCount": 9,
   "shareCount": 14,
-  "viewCount": 80,
+  "viewCount": 92,
   "verseLikedBy": [
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
