@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788046202924,
+  "updatedAt": 1788047075506,
   "version": 1,
   "comments": [
     {
@@ -58,12 +58,13 @@
       "verseName": "Ezayi 7:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "5ef512ff716bf55b3eda3396c5fc7f1161e94c9a6ca06937e4dd73b8628f601f"
+        "5ef512ff716bf55b3eda3396c5fc7f1161e94c9a6ca06937e4dd73b8628f601f",
+        "dc844be505ac99e26a604091b0639c51993d095951cbbac2fdfdbc0f447a12f0"
       ],
       "createdAt": 1788024115475,
-      "updatedAt": 1788030537640,
+      "updatedAt": 1788046264292,
       "status": "active"
     },
     {
@@ -359,9 +360,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 124,
-  "shareCount": 183,
-  "viewCount": 836,
+  "likeCount": 125,
+  "shareCount": 185,
+  "viewCount": 845,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -443,6 +444,7 @@
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "9f3ea60cbf492e23f960a2bce941c35685d0580109e8a9b064a59b5a77dec8e9",
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
+    "9fed73b0966ce887b0187d45a249ff6126d5a1d584ac8aa452d4cfd4a0edd646",
     "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a45e9dfc52c68adcdfff0353ff0994d7831f56bacc4c22efa0efe80c65043f72",
     "a52e6df359be5f5611d1d488b12e4e4d87cdf68de12d0edfe6b081cd7f82cf37",
