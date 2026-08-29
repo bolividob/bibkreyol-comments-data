@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788020990991,
+  "updatedAt": 1788021841011,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788021031135",
+      "text": "bibliothèque",
+      "userDeviceId": "33b43bd0ccdfa2ca15699d2a2b47a325941688421ab8f8ae216e1bfe7196f4fc",
+      "userName": "Marlène",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788021044903,
+      "updatedAt": 1788021044903,
+      "status": "active"
+    },
     {
       "id": "local-1788020987666",
       "text": "Amène",
@@ -259,9 +273,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 103,
-  "shareCount": 149,
-  "viewCount": 594,
+  "likeCount": 105,
+  "shareCount": 150,
+  "viewCount": 603,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -304,12 +318,14 @@
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
     "5ebe1f699b225facbbe810c3a0bc3be9661154832132a18904393eaee1e811a2",
     "642ed4a3a79370f46b926718bdbc32ee004e36b92a493b23e37e1b00b7e20f95",
+    "65b41b7daed726526535eb2def6540a09b535fcc939e9157b3bd6fe744c39344",
     "6aa707879324a825c3a6e18bceaea4a060cc9563e4f0b1ef230e49db514d3835",
     "6bce28829421e03415e37b4841c31f0c2a83458f52bd9dddfd875a3f54b2742e",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "734bae2ee2db5e7b3869d2f8f930a15451c2ec506638e7df08a642dee0b9867e",
     "73cb80cfdde691c72724d0b5ab39e625512e539bb35c5b15982fba3f0433a01e",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
+    "760a9f914b0b6101a86599f84fb6d05ccbfc2661062d014d753d0f902ac67b4a",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "76e04e634d15b0e64836fe61ae3964c9b122b62b5e4e05cb7b5f532eddc29d93",
     "792e384877477ab45a9d2c4506fce7e747df811f778538c9d934e2380f5c5fd0",
