@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788020042097,
+  "updatedAt": 1788020990991,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788020987666",
+      "text": "Amène",
+      "userDeviceId": "33b43bd0ccdfa2ca15699d2a2b47a325941688421ab8f8ae216e1bfe7196f4fc",
+      "userName": "Marlène",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788020990991,
+      "updatedAt": 1788020990991,
+      "status": "active"
+    },
     {
       "id": "local-1788016826936",
       "text": "Amén 3 fwa🙏🙏🙏🙏",
@@ -245,9 +259,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 102,
+  "likeCount": 103,
   "shareCount": 149,
-  "viewCount": 587,
+  "viewCount": 594,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -284,6 +298,7 @@
     "43c280b2b940f67ba824d53edde4e364ef61afc6ae4820b3d4a4bc124e4e279c",
     "481c02eb4d3aae03e2ebbdcd22419cd7357b351bdb93ae75bdd44a129c3d969e",
     "492430313dfd07a0afbde6320d61b839d9c5fdf935b8b295f81c24c9efe7cf4d",
+    "4b9b7ee93d62556afd4d96ff6a24f857410b9ac98a1ab046895f9463d84886c4",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820",
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
