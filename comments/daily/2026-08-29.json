@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1787981283617,
+  "updatedAt": 1787982261796,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1787982037644",
+      "text": "bondy tapri ban fos paske mwe make fos sen ou me mwe geye",
+      "userDeviceId": "3a7b170b6109ee447d4ddfa753cc2441543b69c7413fbba62dcd2669a1bfde54",
+      "userName": "chinay. love",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1787982038776,
+      "updatedAt": 1787982038776,
+      "status": "active"
+    },
     {
       "id": "local-1787977181510",
       "text": "Tanpri papa fèm vin saj🙏🏻🙏🏻🙏🏻",
@@ -147,9 +161,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
-  "shareCount": 55,
-  "viewCount": 248,
+  "likeCount": 48,
+  "shareCount": 58,
+  "viewCount": 256,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -164,12 +178,14 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2c3ecfe537fa8c9043ee8e3761cf5676eaaaa0444ebda6db14ff8bf522868c87",
     "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
+    "3a7b170b6109ee447d4ddfa753cc2441543b69c7413fbba62dcd2669a1bfde54",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
     "492430313dfd07a0afbde6320d61b839d9c5fdf935b8b295f81c24c9efe7cf4d",
     "642ed4a3a79370f46b926718bdbc32ee004e36b92a493b23e37e1b00b7e20f95",
     "73cb80cfdde691c72724d0b5ab39e625512e539bb35c5b15982fba3f0433a01e",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "76e04e634d15b0e64836fe61ae3964c9b122b62b5e4e05cb7b5f532eddc29d93",
     "7d47cfc6fdc21d6620d8237ce46d6bc893c4ac2d9dee55bd77fec4ed407c54d9",
     "7d6c0b4523ce9673e7ec637a2990fb080de4fa674b2912af2e80d9f7ff55e0f1",
     "8808e366502fe9aa10f564d23462ec692df9b7dfcdb179dcc3ba40b9859db0b5",
