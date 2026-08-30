@@ -1,9 +1,37 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788091201979,
+  "updatedAt": 1788092040944,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788091794233",
+      "text": "amén papa 🙏🙏🙏",
+      "userDeviceId": "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839",
+      "userName": "philandine",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788091797807,
+      "updatedAt": 1788091797807,
+      "status": "active"
+    },
+    {
+      "id": "local-1788091544001",
+      "text": "Li bon pou konn pawòl bondye a",
+      "userDeviceId": "cb26ddb224fa433bab71f98f4817e53233eb86a6cf0eacf8e2fd132d82dea806",
+      "userName": "BIEN-ÊTRE",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788091545275,
+      "updatedAt": 1788091545275,
+      "status": "active"
+    },
     {
       "id": "local-1788088483288",
       "text": "amén wi",
@@ -54,10 +82,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788073284069,
-      "updatedAt": 1788073284069,
+      "updatedAt": 1788091819650,
       "status": "active"
     },
     {
@@ -68,10 +98,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788072605222,
-      "updatedAt": 1788072605222,
+      "updatedAt": 1788091819504,
       "status": "active"
     },
     {
@@ -82,10 +114,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788072495315,
-      "updatedAt": 1788072495315,
+      "updatedAt": 1788091818000,
       "status": "active"
     },
     {
@@ -96,10 +130,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788066433565,
-      "updatedAt": 1788066433565,
+      "updatedAt": 1788091816846,
       "status": "active"
     },
     {
@@ -110,10 +146,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788057581237,
-      "updatedAt": 1788057581237,
+      "updatedAt": 1788091815387,
       "status": "active"
     },
     {
@@ -124,10 +162,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788056048008,
-      "updatedAt": 1788056048008,
+      "updatedAt": 1788091814602,
       "status": "active"
     },
     {
@@ -152,10 +192,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788050060798,
-      "updatedAt": 1788050060798,
+      "updatedAt": 1788091809343,
       "status": "active"
     },
     {
@@ -166,16 +208,18 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
+      ],
       "createdAt": 1788048610915,
-      "updatedAt": 1788048610915,
+      "updatedAt": 1788091807296,
       "status": "active"
     }
   ],
-  "likeCount": 77,
-  "shareCount": 155,
-  "viewCount": 438,
+  "likeCount": 80,
+  "shareCount": 160,
+  "viewCount": 449,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
@@ -194,6 +238,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "232a073dd7186918990293696582f04ad481971f83b42938a6c5d60a5e4b5878",
+    "2db66edd149a4fffe617ffbb2834d20886bb825a7dd25f4d830d0513feff8753",
     "2ead12ce34b359bf96847f42fa81f85634fdee068b015ce135204e5daa744e57",
     "2edd1e59da0b4da8acb524cd418da778f85cbd357e70c981ceb0ff5e0fb9f5b8",
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
@@ -241,6 +286,7 @@
     "c6e2c6e76aabe9d1547cef42ffc2f0f3a1eea880b8e2f91459eb3a17ebfbef55",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "cb26ddb224fa433bab71f98f4817e53233eb86a6cf0eacf8e2fd132d82dea806",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
@@ -253,7 +299,8 @@
     "ef416645d4f64a8bc34748d496288effb8db57001fd49cfff74dfacc0e00f50b",
     "f38ae0431f15f75162a4448442a316ea3a8c2338f655f138de4cd52ad8792112",
     "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
-    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b"
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
   ],
   "verseViewBy": []
 }
