@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788110107179,
+  "updatedAt": 1788114314713,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788031271084",
+      "text": "Bondye dirije lavi Nou nan tout sa nap fê,",
+      "userDeviceId": "0f925ca5d1b9ac89371108039b6fe4bdec00a4b98a94d39476e8091c96fcd170",
+      "userName": "Luna Jean Pierre",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788114305205,
+      "updatedAt": 1788114305205,
+      "status": "active"
+    },
     {
       "id": "local-1788047272319",
       "text": "pa manti non papa😔",
@@ -374,15 +388,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
-  "shareCount": 185,
-  "viewCount": 964,
+  "likeCount": 128,
+  "shareCount": 186,
+  "viewCount": 965,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "07c302ae2c7ff95424be086dfe5d6fdc269afc5a576183375b2b17bafcc58345",
     "096492435813833650a091bf2061a5c3be56db6fbd8354a0a09faa12092cd083",
+    "0f925ca5d1b9ac89371108039b6fe4bdec00a4b98a94d39476e8091c96fcd170",
     "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
