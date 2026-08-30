@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788073205833,
+  "updatedAt": 1788074041968,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788073282621",
+      "text": "Amen Amen Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Jesy",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788073284069,
+      "updatedAt": 1788073284069,
+      "status": "active"
+    },
     {
       "id": "local-1788072605638",
       "text": "amen",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 52,
-  "shareCount": 83,
-  "viewCount": 276,
+  "likeCount": 54,
+  "shareCount": 84,
+  "viewCount": 283,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
@@ -128,6 +142,7 @@
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "187304f3e0f2779846d18bad3a00326a0669220ffd94f5aa39b0556d9c30ff27",
     "1a2ee4867e7ec287bbf1b0aa8cf09bfbd6fb94246c91d849b458b2b56c0c5682",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "1f6ec9e57c0a617e3f5cd1ccb4f409e5a2dbfcdd3c8741e8e1620469f417b616",
@@ -135,6 +150,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2edd1e59da0b4da8acb524cd418da778f85cbd357e70c981ceb0ff5e0fb9f5b8",
+    "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "47c79bdede996e44110e93c37a1cbb9bd6dadc9777f83fd05c4b0941fb585952",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
