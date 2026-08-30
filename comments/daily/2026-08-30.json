@@ -1,9 +1,37 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788109202437,
+  "updatedAt": 1788110101405,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788109869646",
+      "text": "I love you Jesus too 🙏🙏",
+      "userDeviceId": "57de3362eb535fbfc03e1c1a673a06e9b209bd599c141f01ff827d946f9dc501",
+      "userName": "love you Jesus",
+      "verseName": "Jòb 9:3",
+      "parentId": "local-1788091544001",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788110101405,
+      "updatedAt": 1788110101405,
+      "status": "active"
+    },
+    {
+      "id": "local-1788109796989",
+      "text": "God help me save 🙏😵👀",
+      "userDeviceId": "57de3362eb535fbfc03e1c1a673a06e9b209bd599c141f01ff827d946f9dc501",
+      "userName": "love you Jesus",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788110028678,
+      "updatedAt": 1788110028678,
+      "status": "active"
+    },
     {
       "id": "local-1788108705426",
       "text": "Jésus Christ",
@@ -220,13 +248,13 @@
       "userName": "BIEN-ÊTRE",
       "verseName": "Jòb 9:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 1,
       "likedBy": [
         "42b00862225cd71c9a25bec21dad1b3269daf0b7e838c2648016111d9ce7e5d5"
       ],
       "createdAt": 1788091545275,
-      "updatedAt": 1788097456790,
+      "updatedAt": 1788110101405,
       "status": "active"
     },
     {
@@ -438,9 +466,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 160,
+  "likeCount": 161,
   "shareCount": 277,
-  "viewCount": 658,
+  "viewCount": 667,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "00995a8e487f85bc452147adfe35ef5eeb63e83ed492e0395ee56a3e4003ab27",
@@ -500,6 +528,7 @@
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "52573a059f34a6929a2aaf77e186334148565067f859e94003d8800e58ea555d",
     "5668e7a85ec48b377c31d6ef9a174c1d3b339e3577eafd37f4f4ff72dfa368d4",
+    "57de3362eb535fbfc03e1c1a673a06e9b209bd599c141f01ff827d946f9dc501",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "5ada5d71a818fe766d5c4205b59b0545966f4d5ff521b987409967e58136c7c0",
     "5cf1dbb772ac45f49f39962a5ef1090375f79c9deeed5f5cecce749a3062d268",
