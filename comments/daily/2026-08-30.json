@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788119880956,
+  "updatedAt": 1788120875528,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1788112511764,
-      "updatedAt": 1788112511764,
+      "updatedAt": 1788120864702,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1788110842398,
-      "updatedAt": 1788110842398,
+      "updatedAt": 1788120865972,
       "status": "active"
     },
     {
@@ -54,10 +58,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1788110028678,
-      "updatedAt": 1788110028678,
+      "updatedAt": 1788120867246,
       "status": "active"
     },
     {
@@ -68,12 +74,13 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "d021028c9449a64109ac7840a60a15ab2063afda5c68db76575259150f91f698"
+        "d021028c9449a64109ac7840a60a15ab2063afda5c68db76575259150f91f698",
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
       ],
       "createdAt": 1788108707686,
-      "updatedAt": 1788108716525,
+      "updatedAt": 1788120869031,
       "status": "active"
     },
     {
@@ -98,10 +105,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1788106322506,
-      "updatedAt": 1788106322506,
+      "updatedAt": 1788120871351,
       "status": "active"
     },
     {
@@ -112,10 +121,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1788106319031,
-      "updatedAt": 1788106327334,
+      "updatedAt": 1788120873787,
       "status": "active"
     },
     {
@@ -126,10 +137,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
+      ],
       "createdAt": 1788103504953,
-      "updatedAt": 1788103504953,
+      "updatedAt": 1788120875528,
       "status": "active"
     },
     {
@@ -495,9 +508,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 174,
+  "likeCount": 176,
   "shareCount": 302,
-  "viewCount": 757,
+  "viewCount": 767,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -574,6 +587,7 @@
     "6337733ee5c1f5ed3314d02fb28c84bc28ee9a221f23ac45635f9e4f7a5e142a",
     "684ab769eb5d864105a2c225ad61f6dc9bbbf390fc0acd3a337f714c1140c350",
     "68ca2e78dffa5de6bf42a416b87796a8bd806ffc62a30653cecc395cc200fffa",
+    "69e60ba08cd7f79c4f55505f53280bbb1398fe4176a69c429d73a1f30679ae0b",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "70ab3db39a23690360b27c2a93bb2a768787d1d2a6ed19a6f2ca9c50eb577ae9",
     "722f8cf2d208e51aeee0f6779f26c3a0b23d9adea5305965700afef2163b0f77",
@@ -661,6 +675,7 @@
     "ee45fb5d6b7e687fbfedf3a46e62172c1fce62cbc5c9642efb8ceb3b55bdd7d5",
     "ef416645d4f64a8bc34748d496288effb8db57001fd49cfff74dfacc0e00f50b",
     "f003c171fc796a8415612610269d64b858f78d53a57b4db1153d4b8482043512",
+    "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f",
     "f38ae0431f15f75162a4448442a316ea3a8c2338f655f138de4cd52ad8792112",
     "f58f5d46560edaca5866824d1e88a5c43b6e0fbde5b3c5a5535621d13b773f50",
     "f5dae1c72cf4ca1ef82fa79f951809d4615cf3a9c7298f853201cb004e29d9f1",
