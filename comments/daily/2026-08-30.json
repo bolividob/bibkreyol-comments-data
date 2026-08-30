@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788049804183,
+  "updatedAt": 1788050642243,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788050059603",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788050060798,
+      "updatedAt": 1788050060798,
+      "status": "active"
+    },
     {
       "id": "local-1788048608810",
       "text": "Amen amen amen papi Cheri mwn nan pa kitem janm konsa svp bb",
@@ -19,11 +33,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 2,
-  "shareCount": 5,
-  "viewCount": 53,
+  "likeCount": 3,
+  "shareCount": 9,
+  "viewCount": 61,
   "verseLikedBy": [
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "6066aefc4ffbd82f8486a8111ee75be8513dc383d81612637ed25457b31de84b"
   ],
   "verseViewBy": []
