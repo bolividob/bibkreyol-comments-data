@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788086660650,
+  "updatedAt": 1788087606157,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788087408129",
+      "text": "amén amén 🙏🙏",
+      "userDeviceId": "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
+      "userName": "geslanda Noel",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788087409741,
+      "updatedAt": 1788087409741,
+      "status": "active"
+    },
     {
       "id": "local-1788074478887",
       "text": "Amén y amén",
@@ -145,9 +159,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 131,
-  "viewCount": 392,
+  "likeCount": 62,
+  "shareCount": 133,
+  "viewCount": 401,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
@@ -171,7 +185,9 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "47c79bdede996e44110e93c37a1cbb9bd6dadc9777f83fd05c4b0941fb585952",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
+    "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
+    "5cf1dbb772ac45f49f39962a5ef1090375f79c9deeed5f5cecce749a3062d268",
     "605bc5ea0b0d418c804e8e2e3a5100992d976b8a0f9dedf170c9fbcbe2483383",
     "6066aefc4ffbd82f8486a8111ee75be8513dc383d81612637ed25457b31de84b",
     "684ab769eb5d864105a2c225ad61f6dc9bbbf390fc0acd3a337f714c1140c350",
@@ -191,6 +207,7 @@
     "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "aee40c3ed0e9ab79d053b0db20f96993d95ff0ab30bf77d34cf50f9875d08fdc",
     "b3ed82971026b56e49329907bec356bcfdcb2321ed600b89daecc82e1da35006",
     "b8e696359e29394ebe40492394984d0ad0da8d4d41d6f148343de8ccdd641611",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
