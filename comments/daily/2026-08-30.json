@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788065978907,
+  "updatedAt": 1788066843907,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788066257006",
+      "text": "Amen Amen Amen 🙏🙏🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788066433565,
+      "updatedAt": 1788066433565,
+      "status": "active"
+    },
     {
       "id": "local-1788057387303",
       "text": "amen",
@@ -75,9 +89,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
+  "likeCount": 48,
   "shareCount": 77,
-  "viewCount": 214,
+  "viewCount": 222,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
@@ -96,6 +110,7 @@
     "47c79bdede996e44110e93c37a1cbb9bd6dadc9777f83fd05c4b0941fb585952",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "6066aefc4ffbd82f8486a8111ee75be8513dc383d81612637ed25457b31de84b",
+    "684ab769eb5d864105a2c225ad61f6dc9bbbf390fc0acd3a337f714c1140c350",
     "68ca2e78dffa5de6bf42a416b87796a8bd806ffc62a30653cecc395cc200fffa",
     "722f8cf2d208e51aeee0f6779f26c3a0b23d9adea5305965700afef2163b0f77",
     "7b2195869e72f06cc928fd76ef895a20f53a911f2c2b2bb0f2a168eb2db39abc",
@@ -115,6 +130,7 @@
     "b8e696359e29394ebe40492394984d0ad0da8d4d41d6f148343de8ccdd641611",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "bd26be8f1d3227aa32e7a098eae9ea808a434806c98ad46f1dae4cc9c0a6d41f",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "c6e2c6e76aabe9d1547cef42ffc2f0f3a1eea880b8e2f91459eb3a17ebfbef55",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
