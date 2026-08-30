@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788094801377,
+  "updatedAt": 1788095641267,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "f59861cac1f7c1ad55355b9993051deb809c5f7f38379f32c13e264a189a8006"
+      ],
       "createdAt": 1788094633949,
-      "updatedAt": 1788094633949,
+      "updatedAt": 1788095239071,
       "status": "active"
     },
     {
@@ -269,9 +271,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 96,
-  "shareCount": 181,
-  "viewCount": 486,
+  "likeCount": 99,
+  "shareCount": 186,
+  "viewCount": 500,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
@@ -289,6 +291,7 @@
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "1f6ec9e57c0a617e3f5cd1ccb4f409e5a2dbfcdd3c8741e8e1620469f417b616",
+    "1f7555dbd4199faf6e33ac362d8303083547b6259ca6f4e52bfbf49c38f15553",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "21aa5d577da93c3ce3608ee020139d64148e40abd7bc807e97931c1cdc63f91a",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
@@ -351,10 +354,12 @@
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cb26ddb224fa433bab71f98f4817e53233eb86a6cf0eacf8e2fd132d82dea806",
+    "d348e76107bb9fbd77c83133f0b7e73984690a96ca78a87b03ac1b2005f7b757",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e19759eb1fc26cdb87e9f1a28fb262b9a063cdffb323ca0f1b763aba12191ea9",
+    "e30e921c3713c49442affa9f9f34451df730f16b921a622d0a453899d6d61917",
     "e34decc9551ca2b797cff3d604f7a3c0c2a1378ebd078b39f316616d61bc6ab6",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e82324e26b130b42d1fd9353210afb44bab5f539b5193bdc7d39db0793f671be",
