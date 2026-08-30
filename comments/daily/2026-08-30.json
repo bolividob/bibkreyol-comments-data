@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788087606157,
+  "updatedAt": 1788088494613,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788088483288",
+      "text": "amén wi",
+      "userDeviceId": "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
+      "userName": "justeeliamenne@gmail.com",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788088494613,
+      "updatedAt": 1788088494613,
+      "status": "active"
+    },
     {
       "id": "local-1788087408129",
       "text": "amén amén 🙏🙏",
@@ -159,14 +173,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
+  "likeCount": 65,
   "shareCount": 133,
-  "viewCount": 401,
+  "viewCount": 409,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
     "03a92d324c7e62617d621923d10aa6f58a29e708f096c2bbcc92c978225e9ef8",
     "06c41594111a6854eed46d49a548ae3a18363518beb110690f9f2585cf00ec1b",
+    "13c6e599eae39196446f05ce52f8796e13c64591b318153400ec7531deb4069e",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "187304f3e0f2779846d18bad3a00326a0669220ffd94f5aa39b0556d9c30ff27",
     "1a2ee4867e7ec287bbf1b0aa8cf09bfbd6fb94246c91d849b458b2b56c0c5682",
@@ -201,6 +216,7 @@
     "8d0c10f3c3ec0a4b59f3a34aa608cb41894ecf3622d9ffc60780c27fe4b5c945",
     "8d6a78be2285a65cd891dba8737a3b1a29d1d0f5031bbed29a536578911e566f",
     "8dcd39211a2ca2b03bad9d20dd65360940fa1138383436eee11665414e7e14de",
+    "9505cf80a3cd23f1567b8337b9a343527171bc90a8f586fc8fc27d15453f00d9",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "99c417fb0f744415695a1a0e164e1674f364fa36902a6cc66fec567e8d2393fa",
     "a119278f77f955144fcc68716cf7ffc82e7fdc2f1db176c370b47dd7966a31b5",
@@ -216,6 +232,7 @@
     "c6e2c6e76aabe9d1547cef42ffc2f0f3a1eea880b8e2f91459eb3a17ebfbef55",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d6ee530fd4e2e4a074d117d0d7795eae29366b5b64fc29eb922811070f25e43e",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e19759eb1fc26cdb87e9f1a28fb262b9a063cdffb323ca0f1b763aba12191ea9",
