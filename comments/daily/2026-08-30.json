@@ -1,9 +1,25 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788108244520,
+  "updatedAt": 1788109202437,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788108705426",
+      "text": "Jésus Christ",
+      "userDeviceId": "d021028c9449a64109ac7840a60a15ab2063afda5c68db76575259150f91f698",
+      "userName": "FrGawentz",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "d021028c9449a64109ac7840a60a15ab2063afda5c68db76575259150f91f698"
+      ],
+      "createdAt": 1788108707686,
+      "updatedAt": 1788108716525,
+      "status": "active"
+    },
     {
       "id": "local-1788096107519",
       "text": "💗💗💗💗💗💗👍👍🤛🤝🚶🚶🚶🚶🚶👩‍❤️‍👨👩‍❤️‍👨🍑🍊🌽🍠🥑🥑🥖🥐🥇🥇🏅🎖️🏅🎖️🏅🎖️🏆🏆🏆🏆🏆🏆⚽🥅",
@@ -422,9 +438,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 158,
-  "shareCount": 270,
-  "viewCount": 648,
+  "likeCount": 160,
+  "shareCount": 277,
+  "viewCount": 658,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "00995a8e487f85bc452147adfe35ef5eeb63e83ed492e0395ee56a3e4003ab27",
@@ -470,6 +486,7 @@
     "3b8418553aa519d7b18a102876a52f36bd64bac309ea7bf6a5740cda3fd47fea",
     "3c4ebd33956a4bf45342dfa3193701c56a3aebb82a46b5979fedf3c5d55630d4",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "3fa9b31500773fcfc50588d8cbcbc65b71c2810cb2448e8b8ef2b4453f1304ea",
     "419784ba89210bcd291992dafc003a45f4f9254424fce5da4f547389d12f3453",
     "41e5eb3b98998c5cf245faa4b7966fe6b74a0b07fc9235fb8bfe4fcbcaefe734",
     "421bcaea23ebdb0f8ad78cacb7d650939b22914148dadf05eb9f8673542b7b72",
@@ -557,6 +574,7 @@
     "ca1ea0a5cae19e9f48532388bde686988ee7f9c8bf3924c99b28d47d00eca509",
     "cb26ddb224fa433bab71f98f4817e53233eb86a6cf0eacf8e2fd132d82dea806",
     "cca104430793b08ac7c8e6d9d87811d796cea838f9636af099535c0a788aca3f",
+    "d021028c9449a64109ac7840a60a15ab2063afda5c68db76575259150f91f698",
     "d126fe482be3139684c5a4f4be6fc30e5729468aef0aa2728336a7d208b1b212",
     "d348e76107bb9fbd77c83133f0b7e73984690a96ca78a87b03ac1b2005f7b757",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
