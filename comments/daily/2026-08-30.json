@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788093902430,
+  "updatedAt": 1788094801377,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788094630556",
+      "text": "yonti kesion poukisa EPA tout tan Mwen ka ale nan bib la li lan",
+      "userDeviceId": "8311cff55173cc09ee79fb4194fda027d14f43d2b6462bb6fbad65d5e48e6bfd",
+      "userName": "bonjour",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788094633949,
+      "updatedAt": 1788094633949,
+      "status": "active"
+    },
     {
       "id": "local-1788093378863",
       "text": "Merci seigneur ✨😊🙏🙏🙏",
@@ -255,9 +269,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
-  "shareCount": 174,
-  "viewCount": 473,
+  "likeCount": 96,
+  "shareCount": 181,
+  "viewCount": 486,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
@@ -285,6 +299,7 @@
     "2edd1e59da0b4da8acb524cd418da778f85cbd357e70c981ceb0ff5e0fb9f5b8",
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "3790c872346f41d9233cc8456186630fafb633a44a9ff02f54cabf81bb70e024",
     "390997869dc82b1b8abbc6f4098665f0317f7f90c2ae8f74f25f710fd8725f29",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "45944da7be6e9eba80018697ec23228d826ff18912f1cb65968ac6d719e0e6af",
@@ -308,10 +323,12 @@
     "7c01f1bf5ae9b2ae2125195d3ec913a6212d28232bf09b02297831ca1252b4a3",
     "7ebeef5382e4b083c4eafa260e907fdb3304e01146cf9ef7113e55bc36990e75",
     "80696ec0ed6753396eb6c554d6ba8c5cfb95189d6e9d26028e9b2b89f718fc80",
+    "8311cff55173cc09ee79fb4194fda027d14f43d2b6462bb6fbad65d5e48e6bfd",
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "840d2b2d37eb7bef3a670c69f8a4070de42304dd056a38ff4ce43f71a878bbda",
     "84c8563b763f471f847f712112357d079aace84a58fc63c32f4d3052143912b4",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
+    "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8d0c10f3c3ec0a4b59f3a34aa608cb41894ecf3622d9ffc60780c27fe4b5c945",
     "8d6a78be2285a65cd891dba8737a3b1a29d1d0f5031bbed29a536578911e566f",
     "8dcd39211a2ca2b03bad9d20dd65360940fa1138383436eee11665414e7e14de",
