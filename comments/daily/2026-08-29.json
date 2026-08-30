@@ -1,9 +1,23 @@
 {
   "date": "2026-08-29",
   "verseKey": "daily:2026-08-29",
-  "updatedAt": 1788047075506,
+  "updatedAt": 1788048001154,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788047272319",
+      "text": "pa manti non papa😔",
+      "userDeviceId": "9cca3bba2503e46160fc0a281be479d315797de5d072d4bb74e8a1967c029189",
+      "userName": "Sr DENOIT SHEENIKA",
+      "verseName": "Ezayi 7:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788047274510,
+      "updatedAt": 1788047274510,
+      "status": "active"
+    },
     {
       "id": "local-1788035386536",
       "text": "amen",
@@ -360,9 +374,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 125,
+  "likeCount": 126,
   "shareCount": 185,
-  "viewCount": 845,
+  "viewCount": 856,
   "verseLikedBy": [
     "0121e75ebdd54e17b18cb4b75ed21d4a6e7c51d44af653a6960e8a03933e2aac",
     "04b178a5b9eb58c625fc1c5d61575ba138b794c012e6c5348be0536c38f74656",
@@ -440,6 +454,7 @@
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "9ab29991fad106edf42683ea6537d5f73663fcd69d5097b417ff26a2c679c72a",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+    "9cca3bba2503e46160fc0a281be479d315797de5d072d4bb74e8a1967c029189",
     "9d45ab473de5f66eae1ca5bf3f02dbf6741ac21ca5b62d5612329a95d9995ab7",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "9f3ea60cbf492e23f960a2bce941c35685d0580109e8a9b064a59b5a77dec8e9",
