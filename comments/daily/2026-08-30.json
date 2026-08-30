@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788129001482,
+  "updatedAt": 1788129885879,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788129734801",
+      "text": "jezi se wa",
+      "userDeviceId": "ef945c49a8a85916140515572ccda3200d8b6ea3df0c515d333601ec291b5f2c",
+      "userName": "Rose guerline",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788129736788,
+      "updatedAt": 1788129736788,
+      "status": "active"
+    },
     {
       "id": "local-1788128025011",
       "text": "amén amén",
@@ -536,9 +550,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 190,
-  "shareCount": 314,
-  "viewCount": 847,
+  "likeCount": 192,
+  "shareCount": 316,
+  "viewCount": 857,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -592,6 +606,7 @@
     "3c4ebd33956a4bf45342dfa3193701c56a3aebb82a46b5979fedf3c5d55630d4",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3fa9b31500773fcfc50588d8cbcbc65b71c2810cb2448e8b8ef2b4453f1304ea",
+    "3ff1253ee4ce17c4b0863cd9066490a73fb8025ad5e73447abfd629ad6409efc",
     "419784ba89210bcd291992dafc003a45f4f9254424fce5da4f547389d12f3453",
     "41e5eb3b98998c5cf245faa4b7966fe6b74a0b07fc9235fb8bfe4fcbcaefe734",
     "421bcaea23ebdb0f8ad78cacb7d650939b22914148dadf05eb9f8673542b7b72",
@@ -662,6 +677,7 @@
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "995b51c7e138608407ecf446c705b524e604c04d2addc92c663fbe10e6064235",
     "99c417fb0f744415695a1a0e164e1674f364fa36902a6cc66fec567e8d2393fa",
+    "9b0a458f1a04815fb09ea17a9192b30aa9b3077bd374bf8ffe01a0e8c4678121",
     "9dabc4eac148d74af86d14a1de8efc3f23181984e46ca7955d555e3809d83360",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a0364f5eaeebc7ce1116f11fadfc7fd00229791ebc14d465d57201d1e0e162d2",
