@@ -1,9 +1,51 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788105603574,
+  "updatedAt": 1788106452001,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788096107519",
+      "text": "💗💗💗💗💗💗👍👍🤛🤝🚶🚶🚶🚶🚶👩‍❤️‍👨👩‍❤️‍👨🍑🍊🌽🍠🥑🥑🥖🥐🥇🥇🏅🎖️🏅🎖️🏅🎖️🏆🏆🏆🏆🏆🏆⚽🥅",
+      "userDeviceId": "1022268d74bb714311a0736a77ebfb9f33ddd210a15c819991906ba01aed3cd6",
+      "userName": "Amen",
+      "verseName": "Jòb 9:3",
+      "parentId": "local-1788095857096",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788106327334,
+      "updatedAt": 1788106327334,
+      "status": "active"
+    },
+    {
+      "id": "local-1788095961395",
+      "text": "amen 🙏🙏🙏🙏🙏🙏🥇🥇🥇🥇🥇🥇🥇🥇🙏😇😇🦠👍",
+      "userDeviceId": "1022268d74bb714311a0736a77ebfb9f33ddd210a15c819991906ba01aed3cd6",
+      "userName": "Amen",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788106322506,
+      "updatedAt": 1788106322506,
+      "status": "active"
+    },
+    {
+      "id": "local-1788095857096",
+      "text": "amen amen amen amen amen 🙏🙏",
+      "userDeviceId": "1022268d74bb714311a0736a77ebfb9f33ddd210a15c819991906ba01aed3cd6",
+      "userName": "Amen",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788106319031,
+      "updatedAt": 1788106327334,
+      "status": "active"
+    },
     {
       "id": "local-1788103502479",
       "text": "Amén",
@@ -380,9 +422,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 154,
-  "shareCount": 257,
-  "viewCount": 624,
+  "likeCount": 156,
+  "shareCount": 263,
+  "viewCount": 632,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "00995a8e487f85bc452147adfe35ef5eeb63e83ed492e0395ee56a3e4003ab27",
@@ -497,6 +539,8 @@
     "b3ed82971026b56e49329907bec356bcfdcb2321ed600b89daecc82e1da35006",
     "b6bec5d90ad86bfdbb94506f184a0b3f7b2bb397c02e6d57d045875518b30235",
     "b8e696359e29394ebe40492394984d0ad0da8d4d41d6f148343de8ccdd641611",
+    "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
+    "bbb330695b873cfd10b78aae616397f1caf4584319e8d14ba9908b241fce8d77",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "bd26be8f1d3227aa32e7a098eae9ea808a434806c98ad46f1dae4cc9c0a6d41f",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
