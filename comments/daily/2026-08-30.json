@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788057003376,
+  "updatedAt": 1788057843786,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788057387303",
+      "text": "amen",
+      "userDeviceId": "57b05f3befba6b40a5bed18fb90c3ad1cee5f95645f07b5d7bbb813c60fb5b31",
+      "userName": "Sœur Djoone",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788057581237,
+      "updatedAt": 1788057581237,
+      "status": "active"
+    },
     {
       "id": "local-1788056029492",
       "text": "Amen",
@@ -61,14 +75,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 26,
-  "shareCount": 37,
-  "viewCount": 129,
+  "likeCount": 27,
+  "shareCount": 38,
+  "viewCount": 136,
   "verseLikedBy": [
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
     "03a92d324c7e62617d621923d10aa6f58a29e708f096c2bbcc92c978225e9ef8",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1a2ee4867e7ec287bbf1b0aa8cf09bfbd6fb94246c91d849b458b2b56c0c5682",
+    "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "1f6ec9e57c0a617e3f5cd1ccb4f409e5a2dbfcdd3c8741e8e1620469f417b616",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
