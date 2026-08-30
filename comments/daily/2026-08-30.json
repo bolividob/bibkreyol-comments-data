@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788092040944,
+  "updatedAt": 1788093001137,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788092809826",
+      "text": "amen",
+      "userDeviceId": "ee45fb5d6b7e687fbfedf3a46e62172c1fce62cbc5c9642efb8ceb3b55bdd7d5",
+      "userName": "laguerre",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788092811320,
+      "updatedAt": 1788092811320,
+      "status": "active"
+    },
     {
       "id": "local-1788091794233",
       "text": "amén papa 🙏🙏🙏",
@@ -217,17 +231,19 @@
       "status": "active"
     }
   ],
-  "likeCount": 80,
-  "shareCount": 160,
-  "viewCount": 449,
+  "likeCount": 84,
+  "shareCount": 167,
+  "viewCount": 460,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "01db38cb123357f3667a8730463d585f75ff61071eaefbaa54367453d8552dbb",
     "03a92d324c7e62617d621923d10aa6f58a29e708f096c2bbcc92c978225e9ef8",
     "06c41594111a6854eed46d49a548ae3a18363518beb110690f9f2585cf00ec1b",
+    "0a3b02b882b2d3a3d98ba822335f7dc6ab6bf31388f86e1a16a10b6018c5cf60",
     "13c6e599eae39196446f05ce52f8796e13c64591b318153400ec7531deb4069e",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "187304f3e0f2779846d18bad3a00326a0669220ffd94f5aa39b0556d9c30ff27",
+    "197edde50d1dd1f7ea551c7d9c43b1f7f0a0beb0c84b43d202b0eb4874d0adf4",
     "1a2ee4867e7ec287bbf1b0aa8cf09bfbd6fb94246c91d849b458b2b56c0c5682",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
@@ -296,7 +312,9 @@
     "e8e994b552b3cb03838e423156fe12c3106a539f2b3647c22091f37288433c4c",
     "e8ff3ffc8e8f9d320a7e730a273f999ace03d3fc3f3c1310402d1cdf6b504adf",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
+    "ee45fb5d6b7e687fbfedf3a46e62172c1fce62cbc5c9642efb8ceb3b55bdd7d5",
     "ef416645d4f64a8bc34748d496288effb8db57001fd49cfff74dfacc0e00f50b",
+    "f003c171fc796a8415612610269d64b858f78d53a57b4db1153d4b8482043512",
     "f38ae0431f15f75162a4448442a316ea3a8c2338f655f138de4cd52ad8792112",
     "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
