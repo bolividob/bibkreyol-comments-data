@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788126283229,
+  "updatedAt": 1788127201602,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788060472794",
+      "text": "edem priye",
+      "userDeviceId": "e69913180b30cdc7fc26db0a9f3d7bebd4bbf08793792b83f0fb231bc818bec0",
+      "userName": "silvena cile",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788126772934,
+      "updatedAt": 1788126772934,
+      "status": "active"
+    },
     {
       "id": "local-1788112511118",
       "text": "Amém 🙏🙏",
@@ -509,8 +523,8 @@
     }
   ],
   "likeCount": 187,
-  "shareCount": 312,
-  "viewCount": 818,
+  "shareCount": 313,
+  "viewCount": 829,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
