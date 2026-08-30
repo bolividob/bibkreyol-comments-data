@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788110101405,
+  "updatedAt": 1788111003307,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788110839762",
+      "text": "mesi",
+      "userDeviceId": "a52e6df359be5f5611d1d488b12e4e4d87cdf68de12d0edfe6b081cd7f82cf37",
+      "userName": "estefavm",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788110842398,
+      "updatedAt": 1788110842398,
+      "status": "active"
+    },
     {
       "id": "local-1788109869646",
       "text": "I love you Jesus too 🙏🙏",
@@ -456,19 +470,20 @@
       "verseName": "Jòb 9:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "42b00862225cd71c9a25bec21dad1b3269daf0b7e838c2648016111d9ce7e5d5",
+        "57de3362eb535fbfc03e1c1a673a06e9b209bd599c141f01ff827d946f9dc501",
         "f9c6c35a98ea05af1768536450eb27cfc56c7c9e0de81bebaff448ecd5a50839"
       ],
       "createdAt": 1788048610915,
-      "updatedAt": 1788097467845,
+      "updatedAt": 1788110127929,
       "status": "active"
     }
   ],
-  "likeCount": 161,
-  "shareCount": 277,
-  "viewCount": 667,
+  "likeCount": 162,
+  "shareCount": 281,
+  "viewCount": 675,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "00995a8e487f85bc452147adfe35ef5eeb63e83ed492e0395ee56a3e4003ab27",
@@ -506,6 +521,7 @@
     "2ebeca88b236ab2ae41427c774a2673e3f078279ced5b05f61cf684274842bc9",
     "2edd1e59da0b4da8acb524cd418da778f85cbd357e70c981ceb0ff5e0fb9f5b8",
     "3052f4745470df09eecb43c9359def5823a3f6e729ec32859c8c05e4d856f7d6",
+    "325dd59e7e2c8d460579b07e51dd28f88efa20ddbceeff676938fd2013d3b73c",
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "33fa6219f8c3175d7a46d85cabb7b55c051b08dc8b955d35f636d5cd2716d19a",
