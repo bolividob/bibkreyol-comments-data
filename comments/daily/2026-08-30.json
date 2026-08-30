@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788127201602,
+  "updatedAt": 1788128041815,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788128025011",
+      "text": "amén amén",
+      "userDeviceId": "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
+      "userName": "justeeliamenne@gmail.com",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788128027709,
+      "updatedAt": 1788128027709,
+      "status": "active"
+    },
     {
       "id": "local-1788060472794",
       "text": "edem priye",
@@ -522,9 +536,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 187,
+  "likeCount": 188,
   "shareCount": 313,
-  "viewCount": 829,
+  "viewCount": 837,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -546,6 +560,7 @@
     "197edde50d1dd1f7ea551c7d9c43b1f7f0a0beb0c84b43d202b0eb4874d0adf4",
     "1a2ee4867e7ec287bbf1b0aa8cf09bfbd6fb94246c91d849b458b2b56c0c5682",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1e463b22b3c4927c5301f0c58f363c3bd7db196b6da644e5bfbdedb4510626cb",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "1f6ec9e57c0a617e3f5cd1ccb4f409e5a2dbfcdd3c8741e8e1620469f417b616",
