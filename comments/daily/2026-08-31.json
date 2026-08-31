@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788197405853,
+  "updatedAt": 1788198253018,
   "version": 1,
   "comments": [
     {
@@ -40,12 +40,13 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "183e33734ab2c6301902bc23befd13fb029af7da13c0dfbe4941e04a95a99cb9",
         "eec5093c75490ba3f6ee3724acb48be202241406462d33878e4ee8556af19043"
       ],
       "createdAt": 1788182280118,
-      "updatedAt": 1788193038736,
+      "updatedAt": 1788197695590,
       "status": "active"
     },
     {
@@ -300,9 +301,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 128,
-  "shareCount": 217,
-  "viewCount": 650,
+  "likeCount": 130,
+  "shareCount": 218,
+  "viewCount": 659,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -329,6 +330,7 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "23907b7ddd006e279c69e29f5398c71a2aacd9e1b2c70f0950ae565c772149c7",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
+    "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2e570758313f1e7cf154fe142a83dcb655f8522bdca2b4e16f08d603139ca04a",
     "310b0824619210fc81eaaa48dda3ed89ec4a3bd73f0a854f000e4500e815646c",
     "3120c930acbad5ddb0b87d04740942d6b430644b3af7dac773cb86234ce3c237",
@@ -414,6 +416,7 @@
     "ca63c965c4448b4e0e2d2cc3ddba95f22a50ae9b5ebe2d2ade137ae0afe8a752",
     "caa17c692f0be1970c074f3c07e02f66b9bf54782c8d04410bb88da61007c664",
     "cba2f13121a592f13f7736f39d04be5002b9d4671d972b21fbd2bd04082dae3e",
+    "cd33db7f8dba04e6a396cc09859ab2e1d64eceb49850af5427f27682ee0e5e68",
     "d34e33c4496ecd63d9b744bcafb1f6ee79c3ca7601f4290ee1be10d65b4bd404",
     "d42eefa73b11d25ea7b401e836ea26652b0b38a871619f9d12289bdb20129627",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
