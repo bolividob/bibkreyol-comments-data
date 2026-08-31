@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788190201209,
+  "updatedAt": 1788190443464,
   "version": 1,
   "comments": [
     {
@@ -15,7 +15,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1788185686554,
-      "updatedAt": 1788185686554,
+      "updatedAt": 1788190351776,
       "status": "active"
     },
     {
@@ -26,10 +26,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "eec5093c75490ba3f6ee3724acb48be202241406462d33878e4ee8556af19043"
+      ],
       "createdAt": 1788182280118,
-      "updatedAt": 1788182280118,
+      "updatedAt": 1788190366265,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "eec5093c75490ba3f6ee3724acb48be202241406462d33878e4ee8556af19043"
+      ],
       "createdAt": 1788179018310,
-      "updatedAt": 1788179018310,
+      "updatedAt": 1788190316832,
       "status": "active"
     },
     {
@@ -281,7 +285,7 @@
   ],
   "likeCount": 116,
   "shareCount": 199,
-  "viewCount": 585,
+  "viewCount": 587,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
