@@ -1,9 +1,23 @@
 {
   "date": "2026-08-30",
   "verseKey": "daily:2026-08-30",
-  "updatedAt": 1788133504145,
+  "updatedAt": 1788134332802,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788134329935",
+      "text": "Bondye beniw",
+      "userDeviceId": "34277f05e4dd86dfc4b465cc05c6a53ad4e99b9322b4f33131a955c79ae80bd0",
+      "userName": "Yenny Francois",
+      "verseName": "Jòb 9:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788134332802,
+      "updatedAt": 1788134332802,
+      "status": "active"
+    },
     {
       "id": "local-1788129734801",
       "text": "jezi se wa",
@@ -564,9 +578,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 202,
-  "shareCount": 327,
-  "viewCount": 897,
+  "likeCount": 205,
+  "shareCount": 328,
+  "viewCount": 907,
   "verseLikedBy": [
     "00398fd103f01de58676a23013355f4e15f3731292aa230c1d5dd949fc0ffa91",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -615,6 +629,7 @@
     "3269e83392d7b53e91ff18c8db35a6f8f178c811f542faf0395a7a50b96bfdf0",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "33fa6219f8c3175d7a46d85cabb7b55c051b08dc8b955d35f636d5cd2716d19a",
+    "353b171811a80aac1a9a0dd81a1e15f3908e68e89375f2965f82bb1cc0151af1",
     "3577bf78fe6593b7c2ef819fdfcc77fff463a086393a3db760a823029877b25e",
     "3790c872346f41d9233cc8456186630fafb633a44a9ff02f54cabf81bb70e024",
     "390997869dc82b1b8abbc6f4098665f0317f7f90c2ae8f74f25f710fd8725f29",
@@ -666,6 +681,7 @@
     "7b2195869e72f06cc928fd76ef895a20f53a911f2c2b2bb0f2a168eb2db39abc",
     "7c01f1bf5ae9b2ae2125195d3ec913a6212d28232bf09b02297831ca1252b4a3",
     "7ebeef5382e4b083c4eafa260e907fdb3304e01146cf9ef7113e55bc36990e75",
+    "7ef21000e05d25c7c825f6579a167c433f2ec751cdbede8675a8afba41dec955",
     "7f22c5a6bdb2e76a42fc888a00d859932606d6b7cb7e748cc3736478497b2282",
     "7f5b09a93a27b5f8df0eaf00cd9209ff59d4aae343225076e0a762a29cff7e35",
     "7f739c6f1bf0653345fc568ae9cd9b5c4ff4260801d8a3488e3cce15dfdd252e",
@@ -690,6 +706,7 @@
     "8f10fdd66af9498b845bc7b9e394c8cd33a93721e5b033924dbdcb225ffc7081",
     "9138f2275d0c90f2a5dd6ed932030d5a1892a0e2e3efe933ea399e49ab3ab3c4",
     "923054bf551e8218f1cf1b07aee00dae5e45af4f5c29ae228028115bbd0cc436",
+    "94e2b7fb69900e18a417543c610a25c5d8241864d087ec53cc4645f7a78cc041",
     "9505cf80a3cd23f1567b8337b9a343527171bc90a8f586fc8fc27d15453f00d9",
     "956c402480a761c2496b6aaa922b54bfd75d1bd61c05984ef44595270ece442d",
     "95a69d51321cb5d08a8466658d0dd82cbb0a9f4b48866fb86e7eb6435e61e26f",
