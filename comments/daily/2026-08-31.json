@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788192877863,
+  "updatedAt": 1788193805071,
   "version": 1,
   "comments": [
     {
@@ -45,7 +45,7 @@
         "eec5093c75490ba3f6ee3724acb48be202241406462d33878e4ee8556af19043"
       ],
       "createdAt": 1788182280118,
-      "updatedAt": 1788190366265,
+      "updatedAt": 1788193038736,
       "status": "active"
     },
     {
@@ -56,10 +56,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "590f67098d8a750ff707eedbdad06e8ff346b4d86d323731ba62c50ab6e7fa24"
+      ],
       "createdAt": 1788179056238,
-      "updatedAt": 1788179056238,
+      "updatedAt": 1788193057839,
       "status": "active"
     },
     {
@@ -70,12 +72,13 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "590f67098d8a750ff707eedbdad06e8ff346b4d86d323731ba62c50ab6e7fa24",
         "eec5093c75490ba3f6ee3724acb48be202241406462d33878e4ee8556af19043"
       ],
       "createdAt": 1788179018310,
-      "updatedAt": 1788190316832,
+      "updatedAt": 1788193055814,
       "status": "active"
     },
     {
@@ -297,9 +300,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 122,
-  "shareCount": 209,
-  "viewCount": 610,
+  "likeCount": 123,
+  "shareCount": 211,
+  "viewCount": 618,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -336,6 +339,7 @@
     "43499e04ee502028cc9f68fbaa591766efc96be312496ee2e9befcc58758c52a",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
+    "48b5ba15575d8880dd7ad8db9fdeec07d7873611a9bed7bbe521a09a454dc557",
     "49941bffd5dbe2de9cedee32fde77b82cce279951389d09b8afad950c6af6496",
     "4c00fefa149b832dedc551e1d8e92397b1826a57d969c39040be3ba295e0cef8",
     "4c13f8ad049772670b08870a4c94285a91c18b5a90fee9d2fd06ad3745965ef8",
