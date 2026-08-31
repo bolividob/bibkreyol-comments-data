@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788199202537,
+  "updatedAt": 1788200051137,
   "version": 1,
   "comments": [
     {
@@ -57,12 +57,13 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "590f67098d8a750ff707eedbdad06e8ff346b4d86d323731ba62c50ab6e7fa24"
+        "590f67098d8a750ff707eedbdad06e8ff346b4d86d323731ba62c50ab6e7fa24",
+        "9a38ff19ba2f3ed74465e90f88e9b287e42fc7a999b84f4b0f248c32b75537c5"
       ],
       "createdAt": 1788179056238,
-      "updatedAt": 1788193057839,
+      "updatedAt": 1788199890069,
       "status": "active"
     },
     {
@@ -302,8 +303,8 @@
     }
   ],
   "likeCount": 131,
-  "shareCount": 221,
-  "viewCount": 668,
+  "shareCount": 225,
+  "viewCount": 675,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
