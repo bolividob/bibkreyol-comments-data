@@ -1,9 +1,23 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788184685582,
+  "updatedAt": 1788185686554,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788185686096",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "1 Wa 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788185686554,
+      "updatedAt": 1788185686554,
+      "status": "active"
+    },
     {
       "id": "local-1788182276968",
       "text": "🙏🙏",
@@ -265,9 +279,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 109,
-  "shareCount": 182,
-  "viewCount": 531,
+  "likeCount": 111,
+  "shareCount": 183,
+  "viewCount": 539,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -309,9 +323,11 @@
     "52755430b49479e8b0577e1c0455de281beb6651bed3182bdd17ef89a2d35cee",
     "534fae27850cfa4db1f3f23bbc71f35111e982da5b910cb1aa0a4d00a2102d6c",
     "58b159225dac3f4f728ead629061f32c0ef1fc14f9dec786ecbf995d7924b6bd",
+    "59031ec1ba866bc30d352d3e35185fcaad567ba5d8b6db3da4297631599c1abf",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "603ad815be96b66c0161e82b04a67ab9e639f9747f51092455f97c7196cbbc8b",
     "62b746fe02a02201108b5a539ee303b88c5766d4dba0061026c2699fcf82609e",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6e95f8e9b8a7a0c827112581de461e6da856e99e7dec1c2d1250268341e6c7fe",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "78a7e9c1306c8ce5b876d4cd132fec12f88366e57f3f0155db72bd1531bd8183",
