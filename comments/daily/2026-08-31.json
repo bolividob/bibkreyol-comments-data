@@ -1,9 +1,23 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788182043393,
+  "updatedAt": 1788182882811,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788182276968",
+      "text": "🙏🙏",
+      "userDeviceId": "0bf1499f417bc1c8efcafcd399e12a34a021bae66ec9b0820b6b83c2f7461c74",
+      "userName": "Point du jour",
+      "verseName": "1 Wa 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788182280118,
+      "updatedAt": 1788182280118,
+      "status": "active"
+    },
     {
       "id": "local-1788179054518",
       "text": "amén amén 🙏🙏",
@@ -251,9 +265,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 103,
-  "shareCount": 169,
-  "viewCount": 507,
+  "likeCount": 105,
+  "shareCount": 176,
+  "viewCount": 515,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -308,6 +322,7 @@
     "8b5e849e1ae5958ba34d68ec77fbf1ea72e8cef23e78fecb6ae7064ce001f1f0",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8cb2cfabc060667c88a3157d9eb0c96425846351e5a4667cecace5fe01e27ae7",
+    "8d323c34271f0c65497a9b22c0a3e4dc9f6459c05e880f7d6dc9445f89272cbc",
     "8dd2f7ceea1dea41040a000440b39bf22ba62ccac43179d7de8e2974b6bc49be",
     "8f372122928c8492e87529d713567980a735781cad4538e64ffd57e9666347ad",
     "90b52e898547172a075c6b42d37aef0550c8e13974835a2db708f4589bbe3009",
@@ -352,6 +367,7 @@
     "f26191bf2be04ab9318991f99f2f8915ea8ad3856a955f36c6de2bbf7add3d66",
     "f45c1b9af7724b260c41e59ac24d8272e90083edc5dd53c1dabdcdfb2e1bb665",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f85bf982a0d257ff7c95219da4946a4d8e98e51499f354bdf2dc88b3110ae671",
     "f9420ef79e63cd809eb0a6c37996495207a58a96bf9b58fdea8763975bcacb66",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
