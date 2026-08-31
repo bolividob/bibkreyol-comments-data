@@ -1,9 +1,23 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788212644249,
+  "updatedAt": 1788213588409,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788213483613",
+      "text": "re",
+      "userDeviceId": "ad0674d7e54ffa0f628f1b8509d3d05853c3e38a074d32bab20c0d53e2140a65",
+      "userName": "tedor",
+      "verseName": "Nonb 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788213588409,
+      "updatedAt": 1788213588409,
+      "status": "active"
+    },
     {
       "id": "local-1788212629384",
       "text": "Amén",
@@ -316,9 +330,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 150,
+  "likeCount": 153,
   "shareCount": 255,
-  "viewCount": 792,
+  "viewCount": 800,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -333,6 +347,7 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "144126a97a7d0c2337e6f86ff3cdc32b7990310e30cd422191a6d6541c93ffbb",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
+    "184b4e8acc0fadc7c59b9f10dbfc996e59c77f43c488d6d5b5eb4e2f288798b9",
     "18e1e97796855066881cc3b6cc7cfd44bf411fa88b698e608e84ca1bcc394c4d",
     "19beac4d574fe5a0cac56f405ad61594c2af85eb6239eea15f70ecd9f5e9f84f",
     "1ac91dcd065f4fcef9636a6451c53e1dd448179c66b3627f6452068485b71eca",
@@ -406,6 +421,7 @@
     "90b52e898547172a075c6b42d37aef0550c8e13974835a2db708f4589bbe3009",
     "91052acdd30b3d31d7614b5338b2c62b4d8eb9a0ae2f848be00acd6f0c16a94f",
     "917d892047512a4ab8db69b498c90b69ef37b15a055e857e76c0745f99a9c99b",
+    "922fc944bc6277e7a07225d4dacc853ca6254b29d0566c6e0a51e92c114032f9",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "9569a5b93e46793bef6caa50745aa119aea4b747477d055a5743e0b4164b25e8",
     "9762488e5f97443deb628471f59398784b34c137467bcd7bcbaa43b8244f386c",
@@ -447,6 +463,7 @@
     "caa17c692f0be1970c074f3c07e02f66b9bf54782c8d04410bb88da61007c664",
     "cba2f13121a592f13f7736f39d04be5002b9d4671d972b21fbd2bd04082dae3e",
     "cd33db7f8dba04e6a396cc09859ab2e1d64eceb49850af5427f27682ee0e5e68",
+    "d335ab1b00e0354242f00e457508dc69b065e4961e91237dbd59fc0fb5832508",
     "d34e33c4496ecd63d9b744bcafb1f6ee79c3ca7601f4290ee1be10d65b4bd404",
     "d42eefa73b11d25ea7b401e836ea26652b0b38a871619f9d12289bdb20129627",
     "d4a3288ba4946cc549f6076c237bd18cd7d5dc952efa5ffd4f3fce007b8e1840",
