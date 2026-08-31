@@ -1,16 +1,36 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788135293218,
+  "updatedAt": 1788136201660,
   "version": 1,
-  "comments": [],
-  "likeCount": 4,
-  "shareCount": 6,
-  "viewCount": 70,
+  "comments": [
+    {
+      "id": "local-1788135622366",
+      "text": "Dios les bendiga",
+      "userDeviceId": "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b",
+      "userName": "Rigaud cenatus",
+      "verseName": "1 Wa 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b"
+      ],
+      "createdAt": 1788135623287,
+      "updatedAt": 1788135630146,
+      "status": "active"
+    }
+  ],
+  "likeCount": 7,
+  "shareCount": 10,
+  "viewCount": 80,
   "verseLikedBy": [
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
+    "18e1e97796855066881cc3b6cc7cfd44bf411fa88b698e608e84ca1bcc394c4d",
+    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "58b159225dac3f4f728ead629061f32c0ef1fc14f9dec786ecbf995d7924b6bd",
     "7a1b557a90b927a1001f6aec16fe20a1bf594918c509d74f4670c8a28bb8f429",
+    "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b",
     "f9420ef79e63cd809eb0a6c37996495207a58a96bf9b58fdea8763975bcacb66"
   ],
   "verseViewBy": []
