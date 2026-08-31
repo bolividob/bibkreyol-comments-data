@@ -1,9 +1,23 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788146043827,
+  "updatedAt": 1788147003005,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788146592690",
+      "text": "Bondye béni nou.",
+      "userDeviceId": "1ac91dcd065f4fcef9636a6451c53e1dd448179c66b3627f6452068485b71eca",
+      "userName": "Landie Servante de Dieu",
+      "verseName": "1 Wa 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788146595048,
+      "updatedAt": 1788146595048,
+      "status": "active"
+    },
     {
       "id": "local-1788144078050",
       "text": "🙏🙏",
@@ -40,10 +54,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f"
+      ],
       "createdAt": 1788140335502,
-      "updatedAt": 1788140335502,
+      "updatedAt": 1788146732999,
       "status": "active"
     },
     {
@@ -147,9 +163,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 56,
-  "viewCount": 194,
+  "likeCount": 53,
+  "shareCount": 59,
+  "viewCount": 203,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -159,6 +175,7 @@
     "0f3ed3de5be611604c2ea8fd45d8497ad682dbc1249e0160739e77eb74de94b4",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "18e1e97796855066881cc3b6cc7cfd44bf411fa88b698e608e84ca1bcc394c4d",
+    "1ac91dcd065f4fcef9636a6451c53e1dd448179c66b3627f6452068485b71eca",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
@@ -201,6 +218,7 @@
     "f9420ef79e63cd809eb0a6c37996495207a58a96bf9b58fdea8763975bcacb66",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fb25c1f6f027dd3794326270b7b051e808e75c30a89966af02cd6776c35c4178",
+    "fbf8d75bc02e88ea89c08ccb9b1b616e82f6dc7a848a92198454698fc17a950f",
     "fc30ef721f08a1ff86b6dbc2a65c456107548dafda407395eb6f8987689fe14c"
   ],
   "verseViewBy": []
