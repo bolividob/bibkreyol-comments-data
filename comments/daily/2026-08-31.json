@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788177604985,
+  "updatedAt": 1788178487508,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8f372122928c8492e87529d713567980a735781cad4538e64ffd57e9666347ad"
+      ],
       "createdAt": 1788149015255,
-      "updatedAt": 1788149015255,
+      "updatedAt": 1788177641542,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "8f372122928c8492e87529d713567980a735781cad4538e64ffd57e9666347ad"
+      ],
       "createdAt": 1788147979520,
-      "updatedAt": 1788147979520,
+      "updatedAt": 1788177639039,
       "status": "active"
     },
     {
@@ -219,9 +223,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 151,
-  "viewCount": 466,
+  "likeCount": 94,
+  "shareCount": 154,
+  "viewCount": 474,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -282,10 +286,12 @@
     "a0b0cb1c790d17e3a9ed85ce34be84b78415c426fd5d53aa5ec0d55e2b61aab1",
     "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b",
+    "a3057b80e95c2396c67aaaa3e36592340f690fb1353c9786f6dd36e7efce4587",
     "a70c75b84ec4f132150c10e1de519c40a84f66e624b5f6c3f11bc798889511ce",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
+    "b00532b8ca2e1562cd6a1efeb45ffc94c4c1d3909f13e3e54f0a61ebda49fc00",
     "b0fd2d35ae6095bab7f660db64773d53ad83d664278e18783aa20845b9b094e8",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b2a795dc8eb424fb30a7e96281bfc61ee336c17867c2bcdce0295bcbda99dc58",
