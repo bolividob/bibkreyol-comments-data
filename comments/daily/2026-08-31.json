@@ -1,9 +1,23 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788143402956,
+  "updatedAt": 1788144297411,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788144078050",
+      "text": "🙏🙏",
+      "userDeviceId": "be1db18fb18c83d99e150a51d67b3744b9daa3492a26e8c5f22fa2605b07be28",
+      "userName": "elirose",
+      "verseName": "1 Wa 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788144081201,
+      "updatedAt": 1788144081201,
+      "status": "active"
+    },
     {
       "id": "local-1788141428770",
       "text": "Lyndia Alexandre",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 43,
-  "viewCount": 163,
+  "likeCount": 41,
+  "shareCount": 50,
+  "viewCount": 173,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -158,6 +172,7 @@
     "7a1b557a90b927a1001f6aec16fe20a1bf594918c509d74f4670c8a28bb8f429",
     "7ec7988edb5e7cd5b0d86ee9bed1c62c2671c92f1a1d2e1364b59ada7de11b7f",
     "854a1749143f9983f0ad315a266bf0a912e3e933a429df51e62901a1e851582a",
+    "8a7b079cd239b75073178afbf77b7fdb6d745791a382cc7a78e9c204f6347566",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "9762488e5f97443deb628471f59398784b34c137467bcd7bcbaa43b8244f386c",
     "9b0a458f1a04815fb09ea17a9192b30aa9b3077bd374bf8ffe01a0e8c4678121",
