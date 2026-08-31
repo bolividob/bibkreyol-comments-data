@@ -1,9 +1,23 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788140679725,
+  "updatedAt": 1788141532271,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788141428770",
+      "text": "Lyndia Alexandre",
+      "userDeviceId": "534fae27850cfa4db1f3f23bbc71f35111e982da5b910cb1aa0a4d00a2102d6c",
+      "userName": "lapriyè pou mande Bondye kenbe m pre lak",
+      "verseName": "1 Wa 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788141431812,
+      "updatedAt": 1788141431812,
+      "status": "active"
+    },
     {
       "id": "local-1788140334165",
       "text": "🙇🙇🙇🙇🙇🙇🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 26,
-  "shareCount": 30,
-  "viewCount": 136,
+  "likeCount": 28,
+  "shareCount": 34,
+  "viewCount": 144,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
@@ -134,7 +148,9 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "4c00fefa149b832dedc551e1d8e92397b1826a57d969c39040be3ba295e0cef8",
+    "534fae27850cfa4db1f3f23bbc71f35111e982da5b910cb1aa0a4d00a2102d6c",
     "58b159225dac3f4f728ead629061f32c0ef1fc14f9dec786ecbf995d7924b6bd",
+    "6e95f8e9b8a7a0c827112581de461e6da856e99e7dec1c2d1250268341e6c7fe",
     "7a1b557a90b927a1001f6aec16fe20a1bf594918c509d74f4670c8a28bb8f429",
     "7ec7988edb5e7cd5b0d86ee9bed1c62c2671c92f1a1d2e1364b59ada7de11b7f",
     "854a1749143f9983f0ad315a266bf0a912e3e933a429df51e62901a1e851582a",
