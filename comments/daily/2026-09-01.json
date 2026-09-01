@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788230643100,
+  "updatedAt": 1788231602904,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788231107167",
+      "text": "amen",
+      "userDeviceId": "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
+      "userName": "sœur titine Charles",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788231110733,
+      "updatedAt": 1788231110733,
+      "status": "active"
+    },
     {
       "id": "local-1788228524484",
       "text": "BonDieu pwoteje nou chak jou ki pase papa chr",
@@ -63,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 36,
+  "likeCount": 40,
   "shareCount": 47,
-  "viewCount": 151,
+  "viewCount": 160,
   "verseLikedBy": [
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1edd4b626e80aca5a25b143d4ad27abf4c5bcef08317ec46711e55f070118308",
@@ -89,9 +103,12 @@
     "59db807a1efda972f3c73a08d2309fac87be0b2827e30c9f175e059d093590f3",
     "65feb0638e5682031f94e746a7cb2c0d00db75ed5e39c12011f852c11aa197d6",
     "6d74957917bf82f5ce3632f0e3e3671634a6bd87bf4f565c0137b375c36cf442",
+    "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
+    "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
     "8363867acc5ad4f348fd07e21c3a2225480416550182995984b25de4f38adfd6",
     "8788721c26db32036c703cd96b4a18a51312b9320ceb8b95de51b0c6d703e21a",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
+    "92b40b9e70d5929f9b5448b4cb1571b0d6ced36c896f3420572d4a79f3dcec30",
     "957ad081a641c1d49a8539963a05ba80aa7e0dcb2147699f5ee871fb350a1963",
     "9af0c34aa52745dc1907118589006038b2ef8a4e0f01c971c7ed2000cd7a4506",
     "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721",
@@ -102,6 +119,7 @@
     "b423f24db2b361048cd9d1b82f45a23cfa6b64705f554d6916e02fcbc19c3d1e",
     "bc6369ad05d28044b0f8cbb1e3a36854f47cc8abcfa79425e557f7bdbf4f1591",
     "c1b89ae3836ae2b66ea39128c100252560d11a1ee41c8fed70204671485e9685",
+    "d47651ebba4bc956696a59fdc71c159fa17e1e9e608d408b3de9cc5953f3d6ef",
     "e0d699ac813435f21a03dd3fb6d872344a0c9b68ec40f4923871560574374dca"
   ],
   "verseViewBy": []
