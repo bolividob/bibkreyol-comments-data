@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788233400911,
+  "updatedAt": 1788234241691,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788234070445",
+      "text": "amén amén 🙏🙏",
+      "userDeviceId": "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
+      "userName": "geslanda Noel",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788234072140,
+      "updatedAt": 1788234072140,
+      "status": "active"
+    },
     {
       "id": "local-1788231107167",
       "text": "amen",
@@ -77,12 +91,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 54,
-  "viewCount": 178,
+  "likeCount": 53,
+  "shareCount": 57,
+  "viewCount": 188,
   "verseLikedBy": [
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
     "17a2a78fcaffb19edb7a73ede70524b37a783d332b97c46011f9cfd7c103c0d6",
+    "1868a8033bde26b313ca8ee577f3cc60ef39b018e921b67d0361d5caaed3a3f5",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1edd4b626e80aca5a25b143d4ad27abf4c5bcef08317ec46711e55f070118308",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
@@ -101,6 +116,7 @@
     "4a9d042a495b1d9ec3bdd11d8128ecbfedd4b9c917799888cf3a3cc70521a96b",
     "4dfe08efde62039cd1849fd49953c43052ed79b1d07a776ca554e4122f63c713",
     "50591c0d615e917d74fd9567d08241401585bdf1bb523f0aa394381835d7efc3",
+    "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "508aa9ea3df7f0a3b113caaf01c82b18c634cba8602cbba8608ffdce9fe3d25a",
     "52af1cae13984aa737bc2f15e214f2cd6029d69f32742fb98da94aa43d09f638",
     "58e2117506701a6962cc6b4a265dbe69494944bf4204791692a21f52c383cf5d",
@@ -122,11 +138,13 @@
     "aaa29bd4d93787ffc8fec3bdbb12afb706f4f4f0a2df253c637a5a6c0147cc3f",
     "ad037c74f00d0dfe6de4011b62ed36019380720cb7fa24249a26d2ff7c7e9c10",
     "aec61fa52f21e4a2f05f52324136eeeda2ee19bfbac7b80df2a6ca69ee67ec1d",
+    "b0fd2d35ae6095bab7f660db64773d53ad83d664278e18783aa20845b9b094e8",
     "b2441ba350ab41d3cdac1f5d4d4f36f71311e8770825b655c669a23e5b263def",
     "b2914a2cb5a1d33343d8c82a4a836cd66a215dda06563d42aed5c6d7a7a0da7f",
     "b423f24db2b361048cd9d1b82f45a23cfa6b64705f554d6916e02fcbc19c3d1e",
     "bc6369ad05d28044b0f8cbb1e3a36854f47cc8abcfa79425e557f7bdbf4f1591",
     "c1b89ae3836ae2b66ea39128c100252560d11a1ee41c8fed70204671485e9685",
+    "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
     "d47651ebba4bc956696a59fdc71c159fa17e1e9e608d408b3de9cc5953f3d6ef",
     "e0d699ac813435f21a03dd3fb6d872344a0c9b68ec40f4923871560574374dca",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b"
