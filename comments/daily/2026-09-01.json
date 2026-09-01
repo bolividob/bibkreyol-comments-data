@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788245077850,
+  "updatedAt": 1788245893719,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Revelasyon 10:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "eb62ea81b4246e7892b07f99642d66d171982f374fda0e0a2c1bb39b571636a1"
+      ],
       "createdAt": 1788238799756,
-      "updatedAt": 1788238799756,
+      "updatedAt": 1788245527761,
       "status": "active"
     },
     {
@@ -110,10 +112,12 @@
       "verseName": "Revelasyon 10:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "eb62ea81b4246e7892b07f99642d66d171982f374fda0e0a2c1bb39b571636a1"
+      ],
       "createdAt": 1788225323441,
-      "updatedAt": 1788225323441,
+      "updatedAt": 1788245560902,
       "status": "active"
     },
     {
@@ -143,13 +147,13 @@
         "ad037c74f00d0dfe6de4011b62ed36019380720cb7fa24249a26d2ff7c7e9c10"
       ],
       "createdAt": 1788221706680,
-      "updatedAt": 1788224203836,
+      "updatedAt": 1788245557303,
       "status": "active"
     }
   ],
   "likeCount": 78,
   "shareCount": 77,
-  "viewCount": 283,
+  "viewCount": 290,
   "verseLikedBy": [
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
