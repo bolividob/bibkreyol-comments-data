@@ -1,9 +1,25 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788251405925,
+  "updatedAt": 1788252246968,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788251558675",
+      "text": "amen amen amen 🙏",
+      "userDeviceId": "8c3c79fe8c888790db7864d421989e47b436bb1b1f663c29ba8e8e54f74730fe",
+      "userName": "wisler",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "8c3c79fe8c888790db7864d421989e47b436bb1b1f663c29ba8e8e54f74730fe"
+      ],
+      "createdAt": 1788251559936,
+      "updatedAt": 1788251614982,
+      "status": "active"
+    },
     {
       "id": "local-1788243871907",
       "text": "Amén y amén",
@@ -152,8 +168,8 @@
     }
   ],
   "likeCount": 79,
-  "shareCount": 92,
-  "viewCount": 337,
+  "shareCount": 94,
+  "viewCount": 345,
   "verseLikedBy": [
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
