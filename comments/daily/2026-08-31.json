@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "verseKey": "daily:2026-08-31",
-  "updatedAt": 1788219842850,
+  "updatedAt": 1788220688209,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788218920328,
-      "updatedAt": 1788218920328,
+      "updatedAt": 1788220443057,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 1,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788216571678,
-      "updatedAt": 1788216661543,
+      "updatedAt": 1788220508524,
       "status": "active"
     },
     {
@@ -68,10 +72,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788215262826,
-      "updatedAt": 1788215262826,
+      "updatedAt": 1788220530740,
       "status": "active"
     },
     {
@@ -82,10 +88,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788214858784,
-      "updatedAt": 1788214858784,
+      "updatedAt": 1788220488612,
       "status": "active"
     },
     {
@@ -138,10 +146,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788212630652,
-      "updatedAt": 1788212630652,
+      "updatedAt": 1788220251299,
       "status": "active"
     },
     {
@@ -319,10 +329,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788141431812,
-      "updatedAt": 1788141431812,
+      "updatedAt": 1788220394365,
       "status": "active"
     },
     {
@@ -377,10 +389,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788138183397,
-      "updatedAt": 1788138183397,
+      "updatedAt": 1788220378975,
       "status": "active"
     },
     {
@@ -394,7 +408,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1788138182781,
-      "updatedAt": 1788138182781,
+      "updatedAt": 1788220367302,
       "status": "active"
     },
     {
@@ -405,10 +419,12 @@
       "verseName": "1 Wa 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "2d4b8863a2e0bfc7c144c5d82d99bedc44bbdec7a0e66fb2e8a702bf888e3fe8"
+      ],
       "createdAt": 1788138142556,
-      "updatedAt": 1788138142556,
+      "updatedAt": 1788220371298,
       "status": "active"
     },
     {
@@ -444,7 +460,7 @@
   ],
   "likeCount": 164,
   "shareCount": 277,
-  "viewCount": 858,
+  "viewCount": 866,
   "verseLikedBy": [
     "046912699944910c8050a432d0194756babbb605a6e6a7de77fbb42ca8690fdc",
     "0531b0d717fdd4b431589f1c30e70420df2f8d2c50311571435899d529e39557",
