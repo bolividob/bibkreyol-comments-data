@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788255002725,
+  "updatedAt": 1788255842502,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788255770206",
+      "text": "Amén Merci seignuer",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788255771299,
+      "updatedAt": 1788255771299,
+      "status": "active"
+    },
     {
       "id": "local-1788251558675",
       "text": "amen amen amen 🙏",
@@ -167,9 +181,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 83,
-  "shareCount": 104,
-  "viewCount": 370,
+  "likeCount": 85,
+  "shareCount": 107,
+  "viewCount": 377,
   "verseLikedBy": [
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
@@ -187,6 +201,7 @@
     "21a13a7fe42d3b5c68b42fe3c02dae86c2efacca940847e4095e4bea68ad22fd",
     "21aa5d577da93c3ce3608ee020139d64148e40abd7bc807e97931c1cdc63f91a",
     "22f46eb7f433793101ca6ae603f9d89387504e67833bd8ce1e43366d22157582",
+    "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "27212cddfc446854c6b0c257b5a98f2a14c7194b5f4be486756e7ecb1e32f3cf",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "2d1d4ef84aca79df83b7c20b6b1d7ce6f1a17a892c7a0df346bcf4e9553e428e",
@@ -196,6 +211,7 @@
     "370ce71d54e1da9dd917589971c95132bc2c1185fc8dd776fe4914d35cc05d8b",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3ccd9fa73331533a8ec63ca7e92a45d504eed05a8869ecc119ea6099a4ddcb18",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "440a8fd5e87e742d1aa5329348e23b00328a7868fe6874df987e2a021228b0dd",
     "4885158cc87b8b71f9ce45ce3bf106ccc13426c9e68d2bb70dd649cb274d9b59",
