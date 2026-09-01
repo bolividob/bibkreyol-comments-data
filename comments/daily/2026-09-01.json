@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788236041111,
+  "updatedAt": 1788237002528,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788236403216",
+      "text": "mèsi Bondye fidèl ou protege nou kon elmi ki soti pou fini avè nou an",
+      "userDeviceId": "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+      "userName": "Amén amén eh amén",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788236405277,
+      "updatedAt": 1788236405277,
+      "status": "active"
+    },
     {
       "id": "local-1788235189878",
       "text": "Amen",
@@ -105,9 +119,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 63,
-  "shareCount": 62,
-  "viewCount": 205,
+  "likeCount": 67,
+  "shareCount": 66,
+  "viewCount": 213,
   "verseLikedBy": [
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
@@ -145,7 +159,9 @@
     "6d74957917bf82f5ce3632f0e3e3671634a6bd87bf4f565c0137b375c36cf442",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
+    "79fed0b0b52c9ebad0bd84655c4321c3a57774e74e50c2a9fae480d9b9836c5d",
     "8363867acc5ad4f348fd07e21c3a2225480416550182995984b25de4f38adfd6",
+    "848a3deb8209c2db07933e5bc163405fd95d0e5f5e76118ebfb177ea34e079c5",
     "8788721c26db32036c703cd96b4a18a51312b9320ceb8b95de51b0c6d703e21a",
     "88a5c718fd8b5cc28980e488f78478b710117142a0f5f3e576650df455751047",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
@@ -154,6 +170,7 @@
     "957ad081a641c1d49a8539963a05ba80aa7e0dcb2147699f5ee871fb350a1963",
     "9af0c34aa52745dc1907118589006038b2ef8a4e0f01c971c7ed2000cd7a4506",
     "9b542b998514a1a4c966a5959f0c7ed2623178fa251821d95d918154d40ed029",
+    "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
     "aaa29bd4d93787ffc8fec3bdbb12afb706f4f4f0a2df253c637a5a6c0147cc3f",
@@ -165,6 +182,7 @@
     "b2914a2cb5a1d33343d8c82a4a836cd66a215dda06563d42aed5c6d7a7a0da7f",
     "b423f24db2b361048cd9d1b82f45a23cfa6b64705f554d6916e02fcbc19c3d1e",
     "bc6369ad05d28044b0f8cbb1e3a36854f47cc8abcfa79425e557f7bdbf4f1591",
+    "bfe7d3d82c3878a33f5a593c3653e4427ba432aeb5c478d4d9639eabadaa35df",
     "c1b89ae3836ae2b66ea39128c100252560d11a1ee41c8fed70204671485e9685",
     "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
     "d47651ebba4bc956696a59fdc71c159fa17e1e9e608d408b3de9cc5953f3d6ef",
