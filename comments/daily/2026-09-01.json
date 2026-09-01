@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788260405296,
+  "updatedAt": 1788261298951,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788260799018",
+      "text": "amén",
+      "userDeviceId": "feaa369b71b25e3c4db9a14c573d92a898786fabcc80c7837c96c1f49cde2894",
+      "userName": "María",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788260800877,
+      "updatedAt": 1788260800877,
+      "status": "active"
+    },
     {
       "id": "local-1788258394752",
       "text": "merci Jesus Pou mesaj la",
@@ -195,9 +209,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 98,
-  "shareCount": 141,
-  "viewCount": 419,
+  "likeCount": 102,
+  "shareCount": 149,
+  "viewCount": 426,
   "verseLikedBy": [
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
@@ -263,9 +277,11 @@
     "91b680c5999ce708a0876cd7e7fc3a15494b5cf92c1ebf165155e400b48ec14a",
     "92b40b9e70d5929f9b5448b4cb1571b0d6ced36c896f3420572d4a79f3dcec30",
     "957ad081a641c1d49a8539963a05ba80aa7e0dcb2147699f5ee871fb350a1963",
+    "96606089e6df7886d1f9a89325c0ed5a3edd57b725cc9861083b477a9787074c",
     "9af0c34aa52745dc1907118589006038b2ef8a4e0f01c971c7ed2000cd7a4506",
     "9b542b998514a1a4c966a5959f0c7ed2623178fa251821d95d918154d40ed029",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+    "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
     "a336a195a7c840919aabd7603f3c32a011bb96a3ac559a6616d304c00e65f17b",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a4bc8bebfed2deb366739633b0a4f297f30b39dcc4db6f4249c8ea60d73c6360",
@@ -278,6 +294,7 @@
     "b0fd2d35ae6095bab7f660db64773d53ad83d664278e18783aa20845b9b094e8",
     "b24120f465ebfee1200304b82ef8a32411351d99c1ce5d787255bdff6a658a7c",
     "b2441ba350ab41d3cdac1f5d4d4f36f71311e8770825b655c669a23e5b263def",
+    "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b2914a2cb5a1d33343d8c82a4a836cd66a215dda06563d42aed5c6d7a7a0da7f",
     "b423f24db2b361048cd9d1b82f45a23cfa6b64705f554d6916e02fcbc19c3d1e",
     "bc6369ad05d28044b0f8cbb1e3a36854f47cc8abcfa79425e557f7bdbf4f1591",
@@ -296,7 +313,8 @@
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f0e3c03cbc621953655f2dc1578dc71dfa85eb0308e375ef46a847ff69b306b7",
     "f55e15ecfa7d4219622b179757eb5692ce21991c2841321979b6c07b1eb829ff",
-    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b"
+    "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "feaa369b71b25e3c4db9a14c573d92a898786fabcc80c7837c96c1f49cde2894"
   ],
   "verseViewBy": []
 }
