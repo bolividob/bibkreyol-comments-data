@@ -1,9 +1,51 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788266643225,
+  "updatedAt": 1788267606423,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788267344946",
+      "text": "Amén",
+      "userDeviceId": "6a6deb6ec6c9fde0d28f515da06126bbe2567238cbd2cc9675034f8d6b2c471f",
+      "userName": "fedro",
+      "verseName": "Revelasyon 10:1",
+      "parentId": "local-1788267211911",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788267347490,
+      "updatedAt": 1788267347490,
+      "status": "active"
+    },
+    {
+      "id": "local-1788267211911",
+      "text": "fedro",
+      "userDeviceId": "6a6deb6ec6c9fde0d28f515da06126bbe2567238cbd2cc9675034f8d6b2c471f",
+      "userName": "fedro",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 1,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788267214861,
+      "updatedAt": 1788267347490,
+      "status": "active"
+    },
+    {
+      "id": "local-1788263158543",
+      "text": "Amen",
+      "userDeviceId": "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+      "userName": "Jehochoua",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788267185281,
+      "updatedAt": 1788267185281,
+      "status": "active"
+    },
     {
       "id": "local-1788260799018",
       "text": "amén",
@@ -210,9 +252,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 119,
-  "shareCount": 182,
-  "viewCount": 478,
+  "likeCount": 121,
+  "shareCount": 190,
+  "viewCount": 487,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "07cd94a0b916b0c342e350227255b0c2f00986709f4b04c29697fb20f8a38ad4",
@@ -268,6 +310,7 @@
     "6690098c20e7affca39c9f028f706b025ee7e48f042c02bfc4fd7e850db28cf2",
     "6775a9a89891eece01c360abe0004862e629b0ecb095d79a78ec5df3b35d3e2a",
     "692de8f4765da14227a1860fda7bba18c4ee745e9b794a8a1f9324780d9b5a98",
+    "6a6deb6ec6c9fde0d28f515da06126bbe2567238cbd2cc9675034f8d6b2c471f",
     "6d74957917bf82f5ce3632f0e3e3671634a6bd87bf4f565c0137b375c36cf442",
     "712ec5c8fea5fe1b9a24a67382e79b7f075ca1e9e80bd6f260cbee87493387f1",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
@@ -325,6 +368,7 @@
     "d7fa7d720995aa2d069eea79503303619dc1e5081fc4f5a24196a616f85c0335",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e0d699ac813435f21a03dd3fb6d872344a0c9b68ec40f4923871560574374dca",
+    "e11ad41b4367e32a879e8595ef9f795f8266f35667c575697e1e4733c52dc1f7",
     "e2dd339d2a1928feb0c6b67a0a09ba4c85b505b591761afc8c6e94704cbedd9d",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
