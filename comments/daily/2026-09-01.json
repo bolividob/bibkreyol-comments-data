@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788257647333,
+  "updatedAt": 1788258601169,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788258394752",
+      "text": "merci Jesus Pou mesaj la",
+      "userDeviceId": "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
+      "userName": "justeeliamenne@gmail.com",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788258397829,
+      "updatedAt": 1788258397829,
+      "status": "active"
+    },
     {
       "id": "local-1788255770206",
       "text": "Amén Merci seignuer",
@@ -181,9 +195,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 86,
-  "shareCount": 113,
-  "viewCount": 393,
+  "likeCount": 87,
+  "shareCount": 120,
+  "viewCount": 401,
   "verseLikedBy": [
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
@@ -262,6 +276,7 @@
     "c1b89ae3836ae2b66ea39128c100252560d11a1ee41c8fed70204671485e9685",
     "c205db56e58c20259efda8538c2ab62e9a39c6f235741907a5842f892a0457cc",
     "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
+    "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d47651ebba4bc956696a59fdc71c159fa17e1e9e608d408b3de9cc5953f3d6ef",
     "d7fa7d720995aa2d069eea79503303619dc1e5081fc4f5a24196a616f85c0335",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
