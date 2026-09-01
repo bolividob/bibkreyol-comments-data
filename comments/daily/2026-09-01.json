@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788237854044,
+  "updatedAt": 1788238799756,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788238798070",
+      "text": "men amén amén merçi anpil. se Jesús kap tj renye malgre Jan yo palé mal de levanjil la. malgre yo pa preske pranl Pou anyen ankò men anyen paka fèm kite Kay BonDieu",
+      "userDeviceId": "692de8f4765da14227a1860fda7bba18c4ee745e9b794a8a1f9324780d9b5a98",
+      "userName": "Alexis Dieunica",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788238799756,
+      "updatedAt": 1788238799756,
+      "status": "active"
+    },
     {
       "id": "local-1788236403216",
       "text": "mèsi Bondye fidèl ou protege nou kon elmi ki soti pou fini avè nou an",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 68,
-  "viewCount": 220,
+  "likeCount": 71,
+  "shareCount": 70,
+  "viewCount": 228,
   "verseLikedBy": [
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
@@ -156,10 +170,13 @@
     "59db807a1efda972f3c73a08d2309fac87be0b2827e30c9f175e059d093590f3",
     "5d0cce83cd3e093b2f0524913ca94df9444672d3b08930ccbc91ca2e22e4bc2f",
     "65feb0638e5682031f94e746a7cb2c0d00db75ed5e39c12011f852c11aa197d6",
+    "692de8f4765da14227a1860fda7bba18c4ee745e9b794a8a1f9324780d9b5a98",
     "6d74957917bf82f5ce3632f0e3e3671634a6bd87bf4f565c0137b375c36cf442",
+    "712ec5c8fea5fe1b9a24a67382e79b7f075ca1e9e80bd6f260cbee87493387f1",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
     "79fed0b0b52c9ebad0bd84655c4321c3a57774e74e50c2a9fae480d9b9836c5d",
+    "818c0dfa5b79d18ef65df2637482d1f0050566b136814a631b81189576d72774",
     "8363867acc5ad4f348fd07e21c3a2225480416550182995984b25de4f38adfd6",
     "848a3deb8209c2db07933e5bc163405fd95d0e5f5e76118ebfb177ea34e079c5",
     "8788721c26db32036c703cd96b4a18a51312b9320ceb8b95de51b0c6d703e21a",
