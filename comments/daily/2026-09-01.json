@@ -1,9 +1,37 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788273000844,
+  "updatedAt": 1788273900724,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788273839881",
+      "text": "jezi pran plas nn lavim",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788273843101,
+      "updatedAt": 1788273843101,
+      "status": "active"
+    },
+    {
+      "id": "local-1788273812353",
+      "text": "amen amen amen amen aleluya gloire",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788273815520,
+      "updatedAt": 1788273815520,
+      "status": "active"
+    },
     {
       "id": "local-1788228808588",
       "text": "amen",
@@ -280,9 +308,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 139,
-  "shareCount": 207,
-  "viewCount": 537,
+  "likeCount": 140,
+  "shareCount": 208,
+  "viewCount": 547,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "07cd94a0b916b0c342e350227255b0c2f00986709f4b04c29697fb20f8a38ad4",
@@ -374,6 +402,7 @@
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "9c139423c0aacdc77eef9a80bd3e9b83828715422b3b0268c191001645bb0995",
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
+    "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a336a195a7c840919aabd7603f3c32a011bb96a3ac559a6616d304c00e65f17b",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a4bc8bebfed2deb366739633b0a4f297f30b39dcc4db6f4249c8ea60d73c6360",
