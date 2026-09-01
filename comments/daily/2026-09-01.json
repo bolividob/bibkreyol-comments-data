@@ -1,9 +1,23 @@
 {
   "date": "2026-09-01",
   "verseKey": "daily:2026-09-01",
-  "updatedAt": 1788269401017,
+  "updatedAt": 1788270293489,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788228808588",
+      "text": "amen",
+      "userDeviceId": "625c02664c8bf3d32755830a6f0cea160838043d47a40d0d72a0b73f54a7b00b",
+      "userName": "🙏🙏",
+      "verseName": "Revelasyon 10:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788269468412,
+      "updatedAt": 1788269468412,
+      "status": "active"
+    },
     {
       "id": "local-1788269257291",
       "text": "papa di yon mo svp",
@@ -266,12 +280,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 129,
-  "shareCount": 196,
-  "viewCount": 503,
+  "likeCount": 133,
+  "shareCount": 198,
+  "viewCount": 510,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "07cd94a0b916b0c342e350227255b0c2f00986709f4b04c29697fb20f8a38ad4",
+    "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "12c9e5c686d1c86e0dec78f56d7a273f215c29ecebd66899744ab19ee0afc7ba",
     "153d508dc25240d5429bc474bf70d2388732d58cfe22574967b2c06c8a757f20",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -284,6 +299,7 @@
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1e612e044fb4a3e568eeb3eec95c8694a787df327196a6c8fbb257f875c2da88",
     "1edd4b626e80aca5a25b143d4ad27abf4c5bcef08317ec46711e55f070118308",
+    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f5bf0dc5124b4158f5a53ce77f36f28577ad0722c66bc30851fdebe6bf9b3f3",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -373,6 +389,7 @@
     "b648f76679cd153ac06c012a601e33d3676f2e15de5697912444a67f3b81afd9",
     "b742df540d9b0e5e370ae2d103ad8f7a1b05b24257d140c00ad26e5ab1efc060",
     "bc6369ad05d28044b0f8cbb1e3a36854f47cc8abcfa79425e557f7bdbf4f1591",
+    "bee77ffe81fbe34402731a3966c3679c794fb6f3ab06c88f8e17eee3ea1842b2",
     "bfa4d21c0dfadf3e2249c4574f122079e0a6074150c4aebdca9357d2ead2621c",
     "bfe7d3d82c3878a33f5a593c3653e4427ba432aeb5c478d4d9639eabadaa35df",
     "c1b89ae3836ae2b66ea39128c100252560d11a1ee41c8fed70204671485e9685",
@@ -386,6 +403,7 @@
     "d47651ebba4bc956696a59fdc71c159fa17e1e9e608d408b3de9cc5953f3d6ef",
     "d7e78dbe48f76c41b14a7b9e64736c31fbc139b4734afad6aeb88b64d5034d36",
     "d7fa7d720995aa2d069eea79503303619dc1e5081fc4f5a24196a616f85c0335",
+    "da8b153e7bcb748f3874cf2c15101f85ad20bb95fe65512bcf2cb136cf836ab8",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e0d699ac813435f21a03dd3fb6d872344a0c9b68ec40f4923871560574374dca",
     "e11ad41b4367e32a879e8595ef9f795f8266f35667c575697e1e4733c52dc1f7",
