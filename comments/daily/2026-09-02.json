@@ -1,9 +1,23 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788320650672,
+  "updatedAt": 1788321602160,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788321168714",
+      "text": "Amén Amén 🙏🙏🙏",
+      "userDeviceId": "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+      "userName": "Amén amén eh amén",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788321170680,
+      "updatedAt": 1788321170680,
+      "status": "active"
+    },
     {
       "id": "local-1788314316673",
       "text": "Amen",
@@ -51,9 +65,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 54,
-  "viewCount": 177,
+  "likeCount": 42,
+  "shareCount": 57,
+  "viewCount": 185,
   "verseLikedBy": [
     "03222406bc5969cf4b14a9afcd8304122d0039af86f63cae516a75f68eda32ba",
     "0436f8d0959055cef57beb7fb358576b5febb46cd004267c6118e3638df443ce",
@@ -76,12 +90,14 @@
     "61755b33e75f63c6de3b38ebc1b3f9b00bd90908f8d7f408719b6a1fae1ecd18",
     "6838aa37014c8514c8c07a6de2bb3a0f7d7bdaf254134a68d09acde1b6557c1b",
     "6a3955c3a53d733d91f81593618808aa927ef74837b65c2d3566f88edfb80166",
+    "6c503ac0e95ce4c755b2e2705aaaa2a40e5c0f6515fd7957a34bd665bc0beaa2",
     "6d31392dce8f17d3e93674fb489b0b7f24a6caf490e90617220b9e8783a63ebe",
     "6f61483e7727e24c14539f29a2255a20fe908e9e01c8ace3d0f2fb6d8a5823e5",
     "8b5e849e1ae5958ba34d68ec77fbf1ea72e8cef23e78fecb6ae7064ce001f1f0",
     "943deb2bdc1e8238da776283824267f726e871c989fe05e2a19b62fa32b910d7",
     "9931ae8a88217ec784524c2efd00091da0a2d6f763dc472c57c38e62e3e2f440",
     "9989361bf19c0a7ff2a632a5d7226126254cff7ec1d42e90e55a010b6abdca18",
+    "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "a058c9b6c92babccec24cf561ae7a56fba7f57d3bf445300c38a604073ab6b6b",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
