@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788349442956,
+  "updatedAt": 1788350424216,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e468fa9e3216f2266ff564fb8afc80a8ccb35cc0fc6075849f36af43d03c6aab"
+      ],
       "createdAt": 1788321170680,
-      "updatedAt": 1788321170680,
+      "updatedAt": 1788350048982,
       "status": "active"
     },
     {
@@ -40,10 +42,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e468fa9e3216f2266ff564fb8afc80a8ccb35cc0fc6075849f36af43d03c6aab"
+      ],
       "createdAt": 1788314318235,
-      "updatedAt": 1788314318235,
+      "updatedAt": 1788350046836,
       "status": "active"
     },
     {
@@ -79,9 +83,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
-  "shareCount": 113,
-  "viewCount": 426,
+  "likeCount": 70,
+  "shareCount": 117,
+  "viewCount": 435,
   "verseLikedBy": [
     "012cf07767cec74a5a2e3596bca443c836b6192d97063e0b574765c9bc6f4809",
     "03222406bc5969cf4b14a9afcd8304122d0039af86f63cae516a75f68eda32ba",
@@ -106,6 +110,7 @@
     "3cf73774aac53ba52058e2c949fb02dabd01f36bc729f32ee755710895d80004",
     "41598a2a909364872378d8420e9b9e318285df41cb07f17de883601e436cf64c",
     "44297cf046e800e31edf390a6a8791453b30176a2d071de643ae3b5ab977d70e",
+    "4497874c08d6bfd5271648b2b78f2b4da8ab13808c8d4c5646e6d49832ba4c0a",
     "45ff182cd6c98afbb9c81c0edee9d31e1347be159f4aad3304963c75617563fa",
     "4ba1a7f383bd2dabb84ab10c96ab3e68eb582628102d0a7d15696bcca8908f56",
     "4dca5e39e900865df6f10c4a20b04f458f7e6f02a115edb343d47ed9b995aa91",
