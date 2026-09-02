@@ -1,9 +1,37 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788365643605,
+  "updatedAt": 1788366623965,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788366208800",
+      "text": "ke Bondye kontinye béni nou",
+      "userDeviceId": "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
+      "userName": "zanmi pawol la",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788366209996,
+      "updatedAt": 1788366209996,
+      "status": "active"
+    },
+    {
+      "id": "local-1788366126919",
+      "text": "amén amén 🙏🙏",
+      "userDeviceId": "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
+      "userName": "geslanda Noel",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788366128731,
+      "updatedAt": 1788366128731,
+      "status": "active"
+    },
     {
       "id": "local-1788365220549",
       "text": "Amen",
@@ -111,9 +139,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 96,
-  "shareCount": 169,
-  "viewCount": 576,
+  "likeCount": 99,
+  "shareCount": 171,
+  "viewCount": 584,
   "verseLikedBy": [
     "012cf07767cec74a5a2e3596bca443c836b6192d97063e0b574765c9bc6f4809",
     "03222406bc5969cf4b14a9afcd8304122d0039af86f63cae516a75f68eda32ba",
@@ -150,6 +178,7 @@
     "4ba1a7f383bd2dabb84ab10c96ab3e68eb582628102d0a7d15696bcca8908f56",
     "4dca5e39e900865df6f10c4a20b04f458f7e6f02a115edb343d47ed9b995aa91",
     "4e80c5b386296ee6f6cde10827d46bad10c3877ad3870dea62dba759595bedf5",
+    "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820",
     "531ba55cde1f45bf35651cd371d81a2bcd907100bd56cbe612821cccf93f589f",
     "544a8a301bc7f5318d6f239369879f769848809044ca091f4d9ae64f51068e49",
@@ -181,6 +210,7 @@
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "a058c9b6c92babccec24cf561ae7a56fba7f57d3bf445300c38a604073ab6b6b",
+    "a6005360e6a3a9b41ca68fa9dbdd4439beec225e6c4a46e070453a440a39638f",
     "a7e50b75845568556b50f3080ddb8f8ccda0e405d6241785f61c8ece614fa292",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
@@ -195,6 +225,7 @@
     "cd4a298d63b792525ab14e2f09076c20a715e9c839bd4b2cd274e99d04be73a3",
     "cd618506d7d576f62c262e10b7eae2dabaa030c811724c89aa77df23159c70d1",
     "d1bffd50c29f7e1888197e134ce64a96e7ebeea245b4c727c8415f405816ea66",
+    "d1fefcb810cd55d319a4bb5d8f77966b7ea9e344a7dfe27f623266b85f68a1fd",
     "d47f541dd814aba7092ef3516442215c2a2e33ae33b6066f78bce51aae8ee528",
     "d82fd67da691e6a15b53b6683dd0f1a981fbb0536e158b6f8a20331328ce0d02",
     "e12395ec46fab7465084d9e4c93663d1747efd899da84fa3dbe68820739e2495",
