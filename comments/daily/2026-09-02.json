@@ -1,9 +1,23 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788389045765,
+  "updatedAt": 1788390244391,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788389813053",
+      "text": "thank God",
+      "userDeviceId": "66efa7f582fa71ef2de09e7121670195f9213812d423450e3f884c745884ddf3",
+      "userName": "Falande Datilus",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788389822034,
+      "updatedAt": 1788389822034,
+      "status": "active"
+    },
     {
       "id": "local-1788386317166",
       "text": "mési jezi",
@@ -12,10 +26,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "66efa7f582fa71ef2de09e7121670195f9213812d423450e3f884c745884ddf3"
+      ],
       "createdAt": 1788386319745,
-      "updatedAt": 1788386319745,
+      "updatedAt": 1788389831048,
       "status": "active"
     },
     {
@@ -26,10 +42,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "66efa7f582fa71ef2de09e7121670195f9213812d423450e3f884c745884ddf3"
+      ],
       "createdAt": 1788386303106,
-      "updatedAt": 1788386303106,
+      "updatedAt": 1788389830030,
       "status": "active"
     },
     {
@@ -197,9 +215,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
+  "likeCount": 129,
   "shareCount": 225,
-  "viewCount": 790,
+  "viewCount": 802,
   "verseLikedBy": [
     "012cf07767cec74a5a2e3596bca443c836b6192d97063e0b574765c9bc6f4809",
     "03222406bc5969cf4b14a9afcd8304122d0039af86f63cae516a75f68eda32ba",
@@ -222,6 +240,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
     "2880fa74c0b14993f5d8e8eb165fbb8bad114c97ab0fede5fb16c9a370069951",
+    "291058eb293ee5570c8fec52d799735d1760154bd779055a5f7bc366813d4b05",
     "2d4617c72dff5ac254ee240b72702aae8e06946bf5f0f172cd5fe5e0df876585",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2e2d7af06eaa9f20c432718c2103951842217b7817e374c2f832371a9c23f4de",
@@ -249,6 +268,7 @@
     "5d0dfd0faee04e9bf86a50f210be856bb6bd6c2d4bcd265ce0c4febe43ec7242",
     "5d183eaf91e5626c440c2cc5f1ed4ce5d7273efd0f729e636842faad16236baf",
     "61755b33e75f63c6de3b38ebc1b3f9b00bd90908f8d7f408719b6a1fae1ecd18",
+    "66efa7f582fa71ef2de09e7121670195f9213812d423450e3f884c745884ddf3",
     "6775a9a89891eece01c360abe0004862e629b0ecb095d79a78ec5df3b35d3e2a",
     "6838aa37014c8514c8c07a6de2bb3a0f7d7bdaf254134a68d09acde1b6557c1b",
     "6a3637b7e6aa42016ef705dcdf6a8657ddb7f276cb25646127b81c7f1ddfc9d5",
