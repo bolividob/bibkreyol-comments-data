@@ -1,9 +1,23 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788376443749,
+  "updatedAt": 1788377403944,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788347907792",
+      "text": "mèsi Bondye pou pawòl ou",
+      "userDeviceId": "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
+      "userName": "sr Alande Pierre -Louis",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788377080776,
+      "updatedAt": 1788377080776,
+      "status": "active"
+    },
     {
       "id": "local-1788371331312",
       "text": "Amen 🙏🏻😇",
@@ -155,9 +169,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 111,
+  "likeCount": 112,
   "shareCount": 205,
-  "viewCount": 675,
+  "viewCount": 684,
   "verseLikedBy": [
     "012cf07767cec74a5a2e3596bca443c836b6192d97063e0b574765c9bc6f4809",
     "03222406bc5969cf4b14a9afcd8304122d0039af86f63cae516a75f68eda32ba",
@@ -245,6 +259,7 @@
     "c10a2c63ef6a12908e29babbffc11ab41e783faacb4eca9040d7fdb5981f77b5",
     "c6738bf0c481269748ceebf2b268563d392737b5eca419b112034b5b45189fbd",
     "c879cf150cc45af95ddb7bb33756458e93209e10e944b5e9765c56fb89518322",
+    "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cd4a298d63b792525ab14e2f09076c20a715e9c839bd4b2cd274e99d04be73a3",
     "cd618506d7d576f62c262e10b7eae2dabaa030c811724c89aa77df23159c70d1",
