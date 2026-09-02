@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788372843096,
+  "updatedAt": 1788373817598,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e51ab58bcd33fcb2362afb3b90f12828d7d9d39749682f28628d7167a3cd7d3b"
+      ],
       "createdAt": 1788371333087,
-      "updatedAt": 1788371333087,
+      "updatedAt": 1788373786043,
       "status": "active"
     },
     {
@@ -57,7 +59,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1788365221433,
-      "updatedAt": 1788365221433,
+      "updatedAt": 1788373758389,
       "status": "active"
     },
     {
@@ -153,9 +155,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 106,
-  "shareCount": 192,
-  "viewCount": 639,
+  "likeCount": 108,
+  "shareCount": 201,
+  "viewCount": 648,
   "verseLikedBy": [
     "012cf07767cec74a5a2e3596bca443c836b6192d97063e0b574765c9bc6f4809",
     "03222406bc5969cf4b14a9afcd8304122d0039af86f63cae516a75f68eda32ba",
@@ -237,6 +239,7 @@
     "aa939ef84e94a1ebf73b70b44e70e037efd588c07781a6a72ea38817e46afd92",
     "ac6f87400469538372d05f7e870e55e7feaf5566c6e0328664fea6f8a7c50dee",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
+    "b75e7313684f84353e663e1dfea0fce56785eb1b356cf56cb909691a845b4885",
     "b9471f082292d755476c02c9750dfd743c2eb9c59fbba24b8418826223efb2ee",
     "c10a2c63ef6a12908e29babbffc11ab41e783faacb4eca9040d7fdb5981f77b5",
     "c6738bf0c481269748ceebf2b268563d392737b5eca419b112034b5b45189fbd",
@@ -252,6 +255,7 @@
     "e1b7eacc4ca55b292be805e364de2d52ffd3f804b8cf2bf94da37a49f48c554b",
     "e31627423a6099ab66005c761f82daf635ef185e17065ece7697f5b16b0a918d",
     "e468fa9e3216f2266ff564fb8afc80a8ccb35cc0fc6075849f36af43d03c6aab",
+    "e51ab58bcd33fcb2362afb3b90f12828d7d9d39749682f28628d7167a3cd7d3b",
     "e57f686a70c2e8a2b4fd08e297fb33072c64c2c0a7c3067e5993a33565c919ab",
     "eb68c6b928f0aa2cb4117c2ee4380db8695c8288b477739123cfd4a03babb25e",
     "ef4e2f0aa78759d95ce1a730f44de396ee0f93dc872cebaf2e4a0f3060617081",
