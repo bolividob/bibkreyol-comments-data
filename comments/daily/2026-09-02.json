@@ -1,9 +1,23 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788308045117,
+  "updatedAt": 1788309002904,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788307949778",
+      "text": "félicitations pour votre retour cordialement olivier",
+      "userDeviceId": "d251f01f18c6ebf61c782e2295226d5b02a8cdb07d4e321571eab550ae25cffd",
+      "userName": "Antonio facile",
+      "verseName": "Nawoum 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788308160537,
+      "updatedAt": 1788308160537,
+      "status": "active"
+    },
     {
       "id": "local-1788307858658",
       "text": "🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -19,12 +33,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 2,
-  "shareCount": 5,
-  "viewCount": 48,
+  "likeCount": 4,
+  "shareCount": 6,
+  "viewCount": 58,
   "verseLikedBy": [
     "09007bc34dc97ba3f24bd72efdf1708e7f57da00cbe4888be520e8f6b4f3c538",
-    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+    "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "4dca5e39e900865df6f10c4a20b04f458f7e6f02a115edb343d47ed9b995aa91"
   ],
   "verseViewBy": []
 }
