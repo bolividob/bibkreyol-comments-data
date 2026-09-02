@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "verseKey": "daily:2026-09-02",
-  "updatedAt": 1788312604266,
+  "updatedAt": 1788313444549,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e468fa9e3216f2266ff564fb8afc80a8ccb35cc0fc6075849f36af43d03c6aab"
+      ],
       "createdAt": 1788308160537,
-      "updatedAt": 1788308160537,
+      "updatedAt": 1788313302260,
       "status": "active"
     },
     {
@@ -26,18 +28,21 @@
       "verseName": "Nawoum 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e468fa9e3216f2266ff564fb8afc80a8ccb35cc0fc6075849f36af43d03c6aab"
+      ],
       "createdAt": 1788307861373,
-      "updatedAt": 1788307861373,
+      "updatedAt": 1788313299179,
       "status": "active"
     }
   ],
-  "likeCount": 12,
-  "shareCount": 19,
-  "viewCount": 95,
+  "likeCount": 16,
+  "shareCount": 28,
+  "viewCount": 104,
   "verseLikedBy": [
     "0436f8d0959055cef57beb7fb358576b5febb46cd004267c6118e3638df443ce",
+    "06d7a2cc168033c4cbb628cbb635890004df2149a98fa56eed596fc0f43fa025",
     "09007bc34dc97ba3f24bd72efdf1708e7f57da00cbe4888be520e8f6b4f3c538",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
     "13fc5e609ac8770e98c02e1fe7e229442db7e4ff7bbe8055b26b2a8cca75b593",
@@ -46,8 +51,11 @@
     "4e80c5b386296ee6f6cde10827d46bad10c3877ad3870dea62dba759595bedf5",
     "61755b33e75f63c6de3b38ebc1b3f9b00bd90908f8d7f408719b6a1fae1ecd18",
     "6a3955c3a53d733d91f81593618808aa927ef74837b65c2d3566f88edfb80166",
+    "9931ae8a88217ec784524c2efd00091da0a2d6f763dc472c57c38e62e3e2f440",
     "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "aa939ef84e94a1ebf73b70b44e70e037efd588c07781a6a72ea38817e46afd92",
     "e31627423a6099ab66005c761f82daf635ef185e17065ece7697f5b16b0a918d",
+    "e468fa9e3216f2266ff564fb8afc80a8ccb35cc0fc6075849f36af43d03c6aab",
     "f2a7e9b5d07ecf71974e3b97ab320ae6ae42aec5fdab953ac84244cf1675054f"
   ],
   "verseViewBy": []
