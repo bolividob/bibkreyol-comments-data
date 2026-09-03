@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788471841023,
+  "updatedAt": 1788472808945,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788472160516",
+      "text": "Merci",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788472161984,
+      "updatedAt": 1788472161984,
+      "status": "active"
+    },
     {
       "id": "local-1788471276193",
       "text": "amén mèsi papa 🙏🙏🙏",
@@ -462,9 +476,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 176,
-  "shareCount": 282,
-  "viewCount": 774,
+  "likeCount": 177,
+  "shareCount": 285,
+  "viewCount": 783,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
@@ -499,6 +513,7 @@
     "218fcc23e3b3c86ae234349d482ecb45bc15c274bedfc2ceb7ddbc2c741637e2",
     "21a13a7fe42d3b5c68b42fe3c02dae86c2efacca940847e4095e4bea68ad22fd",
     "21e75874a4bf7f087554ec80fc0739472cba746cc5e5c3652457876ca8c06646",
+    "21f0de1b739db00086508c5dc4854b018057837ac8dd28f9a8f6ad1290c2c33b",
     "22507e78033ee3b77d6b501b920625339b1091239ad6f830340a2077ea662e17",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
