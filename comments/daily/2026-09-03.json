@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788448444603,
+  "updatedAt": 1788449405506,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788449188129",
+      "text": "Cherirazd Chrislove",
+      "userDeviceId": "d25c50c5a46ec3836fb13f0ff1d118a3ae17112fc311fc49b49a13195e49c198",
+      "userName": "cherirazd Chrislove",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788449191025,
+      "updatedAt": 1788449191025,
+      "status": "active"
+    },
     {
       "id": "local-1788438094551",
       "text": "amèn",
@@ -383,9 +397,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 132,
-  "shareCount": 227,
-  "viewCount": 562,
+  "likeCount": 134,
+  "shareCount": 229,
+  "viewCount": 570,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
@@ -425,6 +439,7 @@
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3c11f695bdf1a4a61ae1e86a458858c8a14486bcece5c78cc4c6af5657218807",
     "3cf7c85e3d10deb93ff3d954c5fb53467b01f93360e70ac63989cc00f3043cd1",
+    "3e2248b2a6edd47024f7c1dd50140d09496865aa7eb8b82f8113528d1dc0c606",
     "3eafbaa6a611e8ca1acb9c463264c546931496f9bb8f4b482cb9486ead60273c",
     "3f485589c73d98df103bec8eb44045b12a3fc57542d739f9ccba389b628c761e",
     "433a6fd66c69917931a0a18986681df0946183515f33978f050a14cb74cd3c84",
@@ -485,6 +500,7 @@
     "b742df540d9b0e5e370ae2d103ad8f7a1b05b24257d140c00ad26e5ab1efc060",
     "bd8790cd628e75ffc82fce35a4a93cc81c4f69d35f3688c6f3ff7e6000e08bc4",
     "be2bbe7a9f40aee3709ec8f6eabac0008be1b5c66db92e16866d1987e2183f99",
+    "beb82704c199c8c322d923d87cdd3e335e038b904177b9c74572422b96c4452e",
     "c0d3c2fa9ab71294c525d0adf8c31f015dbc7ea1b7f7ec7e88139b987931999c",
     "c3e1298f46a9d5307ede4bffdade47378694b2ce286495e74fe69a326e547ca9",
     "c879cf150cc45af95ddb7bb33756458e93209e10e944b5e9765c56fb89518322",
