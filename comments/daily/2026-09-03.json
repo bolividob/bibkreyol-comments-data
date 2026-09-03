@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788451238065,
+  "updatedAt": 1788452041049,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788451877216",
+      "text": "amen gloire",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788451878718,
+      "updatedAt": 1788451878718,
+      "status": "active"
+    },
     {
       "id": "local-1788449188129",
       "text": "Cherirazd Chrislove",
@@ -397,16 +411,18 @@
       "status": "active"
     }
   ],
-  "likeCount": 134,
-  "shareCount": 235,
-  "viewCount": 587,
+  "likeCount": 137,
+  "shareCount": 236,
+  "viewCount": 595,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
     "0166a18cb08969715b5f279a0a537f32a2714416adca511c01c77a1fa2645318",
     "0169fc829d77b29547322954a3217a60d38554c029e58f36225b91ca1eb84b0b",
+    "01b3184f4f82083a1aa8a56918634a9211c0297a04641c1dda40f4c8cda1fa99",
     "0306de0eb63d76673453fbb2c1c77d95bac01ffd13cca11f9e19664ecb573555",
     "03fc3a7e66c9089315d71c667f489c0fa14765d4029b341078a3a738647cebe4",
+    "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
     "080eadde35f76a2a0fe3089eeccedf3014393d87ecddc86a2864eff12e4e42da",
     "0818c5cccd32f7cb1af2e61b5227698f6b78c406c76e514fd23f13d34f5d7ab3",
     "0888b994517ab9cc6032757a21e5a042f2dd87af3e95b0440ac6371b4ab2cb90",
@@ -485,6 +501,7 @@
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
     "a084777cec85d40dd1647446c999a3ead38e790c16a00f34aefcda08670b1b72",
     "a088ba3435cd6a3f56513cc9798dd0d6f7da3f76a309065a6672d919e9b7bd3c",
+    "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a4833e8f4a65866f2a12b295eed95f4bd6d14a5d8bb80bd05347910e419d7f5d",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721",
