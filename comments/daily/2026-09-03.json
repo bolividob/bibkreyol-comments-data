@@ -1,9 +1,37 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788394540635,
+  "updatedAt": 1788395401009,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788394968252",
+      "text": "amén",
+      "userDeviceId": "e7fa5969fa937e2c5d6e531a024620cf10925686eee7e0088fdfb0f6f069d89c",
+      "userName": "amén",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788394971645,
+      "updatedAt": 1788394971645,
+      "status": "active"
+    },
+    {
+      "id": "local-1788394580191",
+      "text": "amen jesuis amen",
+      "userDeviceId": "8159afd346d40bd87febde56380904bfb5af56e613ae58b69d9ae18b56b2bb50",
+      "userName": "Idonel Dorval",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788394581634,
+      "updatedAt": 1788394581634,
+      "status": "active"
+    },
     {
       "id": "local-1788398065946",
       "text": "Amen",
@@ -33,16 +61,23 @@
       "status": "active"
     }
   ],
-  "likeCount": 7,
-  "shareCount": 21,
-  "viewCount": 53,
+  "likeCount": 14,
+  "shareCount": 25,
+  "viewCount": 64,
   "verseLikedBy": [
     "0166a18cb08969715b5f279a0a537f32a2714416adca511c01c77a1fa2645318",
+    "0306de0eb63d76673453fbb2c1c77d95bac01ffd13cca11f9e19664ecb573555",
     "0e048efd55f7cb441d8978638f71b08da1a7a9d60af36917ed0c7fbc27be5b33",
     "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
+    "36ac6e2ff405812fa9f794d249731d9147bffef2451d9f24b6daa5ea2f051d14",
+    "7e8885312fe92b854fe57d31583500944aa2397abc4f9cf4ce79a0d6a3e9466a",
     "8159afd346d40bd87febde56380904bfb5af56e613ae58b69d9ae18b56b2bb50",
+    "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
     "a8613afa47861a52c91433c63bc03468065f7eeef8207ff9d2d1c312c605a398",
     "aa98cdb060bb313e877689aebc0c9873966222c7aefa9c94e11059e1c8e3c09e",
+    "e46144da8644d4d77c8e5fdb5b14ef5b56e0818b288de34a1dab372352251595",
+    "e7fa5969fa937e2c5d6e531a024620cf10925686eee7e0088fdfb0f6f069d89c",
+    "f99e0563b49a831071f9587f74394b808e3d0297c29f2432d378df1d707a1cf0",
     "fb10a7f5879683e4ad32ff91cd6bf15abaab87b26fb63463cecc09206afad004"
   ],
   "verseViewBy": []
