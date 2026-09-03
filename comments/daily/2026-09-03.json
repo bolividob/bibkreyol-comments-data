@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788417269163,
+  "updatedAt": 1788417886728,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788417528061",
+      "text": "Amén y amén y gracias mi Dios",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788417529998,
+      "updatedAt": 1788417529998,
+      "status": "active"
+    },
     {
       "id": "local-1788409215735",
       "text": "Amén amén",
@@ -201,9 +215,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 74,
-  "shareCount": 94,
-  "viewCount": 286,
+  "likeCount": 75,
+  "shareCount": 97,
+  "viewCount": 291,
   "verseLikedBy": [
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
     "0166a18cb08969715b5f279a0a537f32a2714416adca511c01c77a1fa2645318",
@@ -265,6 +279,7 @@
     "d82fd67da691e6a15b53b6683dd0f1a981fbb0536e158b6f8a20331328ce0d02",
     "d9e898bfc605c1ac67405319fe1f46ba79930d1d22f6b5093d665033f61bd970",
     "dbdbb07fb5300681e23edbe0f65e3f956c4097ad412be10c51f5fc481a51f6f2",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dd18120f35c2854564b9510697de3e09868d7374f496a5b3c5a5d9a9c4697216",
     "de9ad1d1fb0f3415bba88db8700052de8cd5663aae963986ae8c76c7ca17aefb",
     "dfbcda94046280b470ccb75d0cdb3d2a0016a10685c553832c2efbee04060cbb",
