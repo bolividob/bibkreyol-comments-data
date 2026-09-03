@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788441292869,
+  "updatedAt": 1788442226504,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788442224336",
+      "text": "amen amen amen",
+      "userDeviceId": "4d851dc3d758808cba49e8adea6069a3b76088f85a3c6f53e42af13e41449c06",
+      "userName": "la plénitude de Dieu",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788442226504,
+      "updatedAt": 1788442226504,
+      "status": "active"
+    },
     {
       "id": "local-1788400571906",
       "text": "Dieu tiens toujours ses promesses envers ses enfants",
@@ -355,9 +369,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 119,
-  "shareCount": 207,
-  "viewCount": 497,
+  "likeCount": 122,
+  "shareCount": 213,
+  "viewCount": 506,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
@@ -376,6 +390,7 @@
     "17d7359fac596698cbe19f7e00d72bfcec520acecdfa35d16edef803b19752e1",
     "1d9efc9912f914deeb8dc37110b9df7086a29d6e9c0622004e115d674de18396",
     "1e193e654993ce0ef15a6b2926992a249eb891ff08e3d5285b6b994870b26c75",
+    "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "20a1a200bd587d15eb33208b3e58a022956cebbe00e2e9f007c95e25435dbc61",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -401,6 +416,7 @@
     "4924d91fcfaef605c69463bd67946299988db65c26983869e6400b3230f6ac30",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
+    "4d851dc3d758808cba49e8adea6069a3b76088f85a3c6f53e42af13e41449c06",
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "5357c6988d4606e0657916a249affb75fb14d9198e51a0c1cc51af59018ffae3",
     "5653edb522a3a840fd051fa0b4ff66e366c8a4cd975d5411ab13a343dc7c2d97",
@@ -409,6 +425,7 @@
     "6775a9a89891eece01c360abe0004862e629b0ecb095d79a78ec5df3b35d3e2a",
     "684ab769eb5d864105a2c225ad61f6dc9bbbf390fc0acd3a337f714c1140c350",
     "6949e51aa46a4612297771625d1afe24e31548bc58503deb84011817944ed51e",
+    "6aa707879324a825c3a6e18bceaea4a060cc9563e4f0b1ef230e49db514d3835",
     "6edf14cc3d1a8df2719132d166e6eb117bdc2f32563d0048cf9d19fbeaf2a4b4",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
