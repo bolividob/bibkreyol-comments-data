@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788431415820,
+  "updatedAt": 1788432255919,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788432035287",
+      "text": "amen",
+      "userDeviceId": "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
+      "userName": "zanmi pawol la",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788432036225,
+      "updatedAt": 1788432036225,
+      "status": "active"
+    },
     {
       "id": "local-1788431128142",
       "text": "amen",
@@ -229,9 +243,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 85,
-  "shareCount": 130,
-  "viewCount": 409,
+  "likeCount": 87,
+  "shareCount": 139,
+  "viewCount": 417,
   "verseLikedBy": [
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
     "0166a18cb08969715b5f279a0a537f32a2714416adca511c01c77a1fa2645318",
@@ -269,6 +283,7 @@
     "684ab769eb5d864105a2c225ad61f6dc9bbbf390fc0acd3a337f714c1140c350",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
+    "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
     "78dc00efbaf213ca34551f2d569cff29000d209da17785ac357ad7e9a069cbfd",
     "7e1c35bbb99a5f36f5ed6d6f966b78256f8f8140c36cd8d529d507e3db4a16a6",
     "7e8885312fe92b854fe57d31583500944aa2397abc4f9cf4ce79a0d6a3e9466a",
@@ -312,6 +327,7 @@
     "e9acc5b46354d3780c644ff036484289c46c47e308189f22ad6fa0dd28952f90",
     "eaf67a2313ece25ec103904f32b0439aa07777668c24a3d3c63b26a66b3c8a98",
     "ecda289a10ad8331409a4ecc859b1bdca68f733707f9ab66cdb5c122552bfcb1",
+    "ecf8ef1bae3d76c2ed817f8ee1729b058944dcca9c3b75e21309de5b42b1784e",
     "f1afbc25e227fca8c2733962158caa54f04cbc750f719f1f90533f382df1e7d2",
     "f57e9beb98cd7596ac8534dfd4e5a77f760b4ea9680d4fbf7b73424be61ee827",
     "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
