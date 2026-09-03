@@ -1,14 +1,49 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788393604146,
+  "updatedAt": 1788394540635,
   "version": 1,
-  "comments": [],
-  "likeCount": 1,
-  "shareCount": 0,
-  "viewCount": 43,
+  "comments": [
+    {
+      "id": "local-1788398065946",
+      "text": "Amen",
+      "userDeviceId": "a8613afa47861a52c91433c63bc03468065f7eeef8207ff9d2d1c312c605a398",
+      "userName": "Djane",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788394486731,
+      "updatedAt": 1788394486731,
+      "status": "active"
+    },
+    {
+      "id": "local-1788393733196",
+      "text": "merci bondye",
+      "userDeviceId": "4187d2311c825c4a0486af4b4c3a27627f5c8ad1b7575f043869c301a1d00d56",
+      "userName": "kesny",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788393733082,
+      "updatedAt": 1788393733082,
+      "status": "active"
+    }
+  ],
+  "likeCount": 7,
+  "shareCount": 21,
+  "viewCount": 53,
   "verseLikedBy": [
-    "aa98cdb060bb313e877689aebc0c9873966222c7aefa9c94e11059e1c8e3c09e"
+    "0166a18cb08969715b5f279a0a537f32a2714416adca511c01c77a1fa2645318",
+    "0e048efd55f7cb441d8978638f71b08da1a7a9d60af36917ed0c7fbc27be5b33",
+    "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
+    "8159afd346d40bd87febde56380904bfb5af56e613ae58b69d9ae18b56b2bb50",
+    "a8613afa47861a52c91433c63bc03468065f7eeef8207ff9d2d1c312c605a398",
+    "aa98cdb060bb313e877689aebc0c9873966222c7aefa9c94e11059e1c8e3c09e",
+    "fb10a7f5879683e4ad32ff91cd6bf15abaab87b26fb63463cecc09206afad004"
   ],
   "verseViewBy": []
 }
