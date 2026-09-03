@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788444842188,
+  "updatedAt": 1788445801197,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788438094551",
+      "text": "amèn",
+      "userDeviceId": "18b8dc7c3378bdd33b27bd80af53d52395816c7032aabc20199c6bd4152aa14c",
+      "userName": "marie",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788445404655,
+      "updatedAt": 1788445404655,
+      "status": "active"
+    },
     {
       "id": "local-1788442224336",
       "text": "amen amen amen",
@@ -369,9 +383,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 125,
-  "shareCount": 217,
-  "viewCount": 532,
+  "likeCount": 126,
+  "shareCount": 220,
+  "viewCount": 540,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
@@ -401,6 +415,7 @@
     "2989c8506e24ab68219e89932185767bc8615e0930fbb1426de2e6145dfaf7e5",
     "2ed80e87608793ef68ff108f2b85b9a92566e370eefe382c403cfbfd78312d18",
     "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
+    "321fae4ad5f14730785b22ad68da5640a25d0b7b36a94c4429a75bcccf34e194",
     "32fc8595fdd3e46838ec65376ca0c544b399104c8b8531b84ab6e31956791c19",
     "36ac6e2ff405812fa9f794d249731d9147bffef2451d9f24b6daa5ea2f051d14",
     "386edcb79de62a86dba1820cc4d9f3aa907a764ebbbdfe6a787551785f0aaef0",
