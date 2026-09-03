@@ -1,9 +1,23 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788430509559,
+  "updatedAt": 1788431415820,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788431128142",
+      "text": "amen",
+      "userDeviceId": "134e4ecaa50981d17572a1165eb9e5331348e0f40d9e978cbcbd88b3efc1b989",
+      "userName": "Jesús cris  se beje mwen",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788431130382,
+      "updatedAt": 1788431130382,
+      "status": "active"
+    },
     {
       "id": "local-1788417528061",
       "text": "Amén y amén y gracias mi Dios",
@@ -215,9 +229,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 84,
-  "shareCount": 125,
-  "viewCount": 400,
+  "likeCount": 85,
+  "shareCount": 130,
+  "viewCount": 409,
   "verseLikedBy": [
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
     "0166a18cb08969715b5f279a0a537f32a2714416adca511c01c77a1fa2645318",
@@ -228,6 +242,7 @@
     "0ce57d30edcd79373aac9f1e5267a7604a6c345bef95daedf12d1591d1fe2f89",
     "0d3863ea07acf495fd5e85c20353e431620ec15bc3b15718cf3b9325ff9cb5f4",
     "0e048efd55f7cb441d8978638f71b08da1a7a9d60af36917ed0c7fbc27be5b33",
+    "134e4ecaa50981d17572a1165eb9e5331348e0f40d9e978cbcbd88b3efc1b989",
     "17d7359fac596698cbe19f7e00d72bfcec520acecdfa35d16edef803b19752e1",
     "1d9efc9912f914deeb8dc37110b9df7086a29d6e9c0622004e115d674de18396",
     "1e193e654993ce0ef15a6b2926992a249eb891ff08e3d5285b6b994870b26c75",
