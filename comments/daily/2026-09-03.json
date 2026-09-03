@@ -1,9 +1,37 @@
 {
   "date": "2026-09-03",
   "verseKey": "daily:2026-09-03",
-  "updatedAt": 1788439491402,
+  "updatedAt": 1788440414607,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788400571906",
+      "text": "Dieu tiens toujours ses promesses envers ses enfants",
+      "userDeviceId": "6edf14cc3d1a8df2719132d166e6eb117bdc2f32563d0048cf9d19fbeaf2a4b4",
+      "userName": "Vanel Vanel Peterson",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788440230290,
+      "updatedAt": 1788440230290,
+      "status": "active"
+    },
+    {
+      "id": "local-1788439917674",
+      "text": "Amén wi",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Aje 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788439919869,
+      "updatedAt": 1788439919869,
+      "status": "active"
+    },
     {
       "id": "local-1788438129873",
       "text": "Amen",
@@ -327,9 +355,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 112,
-  "shareCount": 199,
-  "viewCount": 482,
+  "likeCount": 115,
+  "shareCount": 204,
+  "viewCount": 490,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "010d35c6317fe9cfba56e738ddc3dfe677b909083bc7bb7a4b22fe3d7c04ed74",
@@ -348,6 +376,7 @@
     "17d7359fac596698cbe19f7e00d72bfcec520acecdfa35d16edef803b19752e1",
     "1d9efc9912f914deeb8dc37110b9df7086a29d6e9c0622004e115d674de18396",
     "1e193e654993ce0ef15a6b2926992a249eb891ff08e3d5285b6b994870b26c75",
+    "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "20a1a200bd587d15eb33208b3e58a022956cebbe00e2e9f007c95e25435dbc61",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "218fcc23e3b3c86ae234349d482ecb45bc15c274bedfc2ceb7ddbc2c741637e2",
@@ -379,6 +408,7 @@
     "6775a9a89891eece01c360abe0004862e629b0ecb095d79a78ec5df3b35d3e2a",
     "684ab769eb5d864105a2c225ad61f6dc9bbbf390fc0acd3a337f714c1140c350",
     "6949e51aa46a4612297771625d1afe24e31548bc58503deb84011817944ed51e",
+    "6edf14cc3d1a8df2719132d166e6eb117bdc2f32563d0048cf9d19fbeaf2a4b4",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
     "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
@@ -415,6 +445,7 @@
     "c0d3c2fa9ab71294c525d0adf8c31f015dbc7ea1b7f7ec7e88139b987931999c",
     "c3e1298f46a9d5307ede4bffdade47378694b2ce286495e74fe69a326e547ca9",
     "c879cf150cc45af95ddb7bb33756458e93209e10e944b5e9765c56fb89518322",
+    "cce505d6b03bca874d885fcb508c353467d1ed3d7adb4650cba2fa13859e5356",
     "d331a5381cc81744c84cf07702395cf1d2aef01ece4aa74fdf8e50b3e9a15fd9",
     "d4bebd59866bff4e5a00bc443b10a0e2a1bae12406eb134f244914cddb4cbc49",
     "d61a73abeeecc7291c012472dba01d7f8b8b040a1446d9bf9367082d0c90cd43",
