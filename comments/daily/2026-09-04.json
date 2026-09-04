@@ -1,9 +1,23 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788494407683,
+  "updatedAt": 1788495242490,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788495190792",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+      "userName": "Amén amén eh amén",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788495192735,
+      "updatedAt": 1788495192735,
+      "status": "active"
+    },
     {
       "id": "local-1788490970999",
       "text": "bondye ou Fidel",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 91,
-  "viewCount": 182,
+  "likeCount": 51,
+  "shareCount": 93,
+  "viewCount": 190,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
@@ -147,6 +161,7 @@
     "2899844379cbf8a60dd8e08aa601829c0d0f7506d8dfc6e9b0493417d3e0f40a",
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
     "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
+    "3116aca5a3e0e88fc5870998faf2727f2e454147b6575243d7de35ba85a309a8",
     "3173e332ef5ea0efd417688088260f06c9502b5560271962f8371291ccf1b562",
     "38806753f6c82b2b33deb68e228bedfe9bc63cb47beb2cf8ad1f235e0fdaccb4",
     "396d7e919bb18338e2f501fd10340da41e06009364b35b4d4e8edb06984a66ce",
@@ -167,6 +182,7 @@
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "955215daa021799d3ccf7a749f23a53d5b1e55b6900b3f00854fd55df9eff021",
     "9989361bf19c0a7ff2a632a5d7226126254cff7ec1d42e90e55a010b6abdca18",
+    "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "aa939ef84e94a1ebf73b70b44e70e037efd588c07781a6a72ea38817e46afd92",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
