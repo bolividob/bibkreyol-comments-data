@@ -1,9 +1,37 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788497045010,
+  "updatedAt": 1788498053661,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788498035589",
+      "text": "Amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Jesy",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788498036892,
+      "updatedAt": 1788498036892,
+      "status": "active"
+    },
+    {
+      "id": "local-1788497968900",
+      "text": "Amèn🙏",
+      "userDeviceId": "8dc9d960296302afbf103041b7822d843aa9089773ed135f31f88ad36cc901c9",
+      "userName": "Glessy",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788497970022,
+      "updatedAt": 1788497970022,
+      "status": "active"
+    },
     {
       "id": "local-1788495838857",
       "text": "Amén",
@@ -159,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 58,
-  "shareCount": 95,
-  "viewCount": 205,
+  "likeCount": 61,
+  "shareCount": 100,
+  "viewCount": 213,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
@@ -169,6 +197,7 @@
     "13db5c92523f5664223a2103f92e2d3d07fe4183e15e17ab76dc03bdbd481bc6",
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
     "16c25b1f6d2d5cd0a1b4a1066b4295a7f9ef7026bd5eae3da0863e0a806c34a5",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2222a7ca8096e411632b08828ec327e870a0acf19254aea61bc8e8311e6f79aa",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -185,6 +214,7 @@
     "41a7d2980cda72bfbd97d9f4c11be75069e1ccee34b8304e5c2289b9e492567c",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
     "4aa05983026af54b7348a97e14b8b1402a65e4a0ff2302a9fa3d6ce4ada00c54",
+    "4be54d4331f4284b492040d1e2c054c5a636fa59ace184a78d607199cfdc3a03",
     "52529ef44cd6bab84dfec5d66b9d00d5fdce61f424bc005f6ff2797a3afdc11d",
     "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
@@ -195,6 +225,7 @@
     "83922a26e54e8924b19baa8ff712f4f13a1a3d5a3c629ce6418de8cc341100af",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8d0c10f3c3ec0a4b59f3a34aa608cb41894ecf3622d9ffc60780c27fe4b5c945",
+    "8dc9d960296302afbf103041b7822d843aa9089773ed135f31f88ad36cc901c9",
     "9169ef308fe11de4861497df4db6f410e884988f445de68ff8afe0a98cbae286",
     "927f1c61043ef4a7e7e874b568ee610fe3d418b0b12b0b504e834d9ccef6702b",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
