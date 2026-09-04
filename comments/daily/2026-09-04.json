@@ -1,9 +1,23 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788513244690,
+  "updatedAt": 1788514205683,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788513472833",
+      "text": "Tanpri Senye fè nou gras",
+      "userDeviceId": "fa833a179ada0917b9c466452ab7ce465dbd986fa2f199b12aab6299617adeec",
+      "userName": "Renel",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788513474367,
+      "updatedAt": 1788513474367,
+      "status": "active"
+    },
     {
       "id": "local-1788503901820",
       "text": "Amén y amén amén",
@@ -12,10 +26,12 @@
       "verseName": "Som 10:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a2ae2c55b524de681fcd0828e300d13521263c21d653d55f5e5933f5c85e02f3"
+      ],
       "createdAt": 1788503902868,
-      "updatedAt": 1788503902868,
+      "updatedAt": 1788513987129,
       "status": "active"
     },
     {
@@ -217,9 +233,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 74,
-  "shareCount": 126,
-  "viewCount": 343,
+  "likeCount": 75,
+  "shareCount": 130,
+  "viewCount": 351,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
@@ -294,6 +310,7 @@
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
     "f85bf982a0d257ff7c95219da4946a4d8e98e51499f354bdf2dc88b3110ae671",
+    "fa833a179ada0917b9c466452ab7ce465dbd986fa2f199b12aab6299617adeec",
     "fbbea39f0a59380c7699d7ab35214d6452349f657030d498ba074ba5f4efe648"
   ],
   "verseViewBy": []
