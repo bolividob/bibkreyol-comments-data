@@ -1,9 +1,23 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788483604821,
+  "updatedAt": 1788484444722,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788484334928",
+      "text": "Bondye konnen tou bagay 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788484336849,
+      "updatedAt": 1788484336849,
+      "status": "active"
+    },
     {
       "id": "local-1788479724174",
       "text": "Bondye Beni nou",
@@ -19,14 +33,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 16,
-  "shareCount": 26,
-  "viewCount": 75,
+  "likeCount": 19,
+  "shareCount": 33,
+  "viewCount": 84,
   "verseLikedBy": [
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
     "16c25b1f6d2d5cd0a1b4a1066b4295a7f9ef7026bd5eae3da0863e0a806c34a5",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
     "3173e332ef5ea0efd417688088260f06c9502b5560271962f8371291ccf1b562",
+    "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
     "788d50de1b9dea8be370d834657ed505eb4a91afb024c1045ad02f94b79544f6",
     "8d0c10f3c3ec0a4b59f3a34aa608cb41894ecf3622d9ffc60780c27fe4b5c945",
