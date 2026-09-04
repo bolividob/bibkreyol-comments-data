@@ -1,9 +1,23 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788487215962,
+  "updatedAt": 1788488095537,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788487279511",
+      "text": "BonDye gran",
+      "userDeviceId": "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
+      "userName": "fladenstia",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788487285269,
+      "updatedAt": 1788487285269,
+      "status": "active"
+    },
     {
       "id": "local-1788486862283",
       "text": "ěťñ",
@@ -47,16 +61,18 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
-  "shareCount": 49,
-  "viewCount": 113,
+  "likeCount": 33,
+  "shareCount": 58,
+  "viewCount": 123,
   "verseLikedBy": [
     "0c198944f2fb22524df1ef649c37c91d101f089f336fa81fa709bd24a2316bff",
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
     "16c25b1f6d2d5cd0a1b4a1066b4295a7f9ef7026bd5eae3da0863e0a806c34a5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "2899844379cbf8a60dd8e08aa601829c0d0f7506d8dfc6e9b0493417d3e0f40a",
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
+    "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
     "3173e332ef5ea0efd417688088260f06c9502b5560271962f8371291ccf1b562",
     "38806753f6c82b2b33deb68e228bedfe9bc63cb47beb2cf8ad1f235e0fdaccb4",
     "41a7d2980cda72bfbd97d9f4c11be75069e1ccee34b8304e5c2289b9e492567c",
@@ -74,6 +90,7 @@
     "ad53cda4319323bfc4b3388bacf2820d238cc2c16ddb1fa0d0740d1e4a30d55e",
     "bcb8a92e0044f37552f9e04ce6c47c885c2dc42cba18104d90fbd2535c761a7b",
     "c01fe00780004493890fc1a1c650f91d6d06007fd53761c607f530e9aaaf38c4",
+    "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
     "c93cce0e80a87e3c846278efa6e589dc5fb17dd4ba43c968660055119ebfeec1",
     "cbcacfb24d06e68e4029a68dbdcc03c0303d557ee09a5c4498023a0743d90209",
     "d465f187762027056b887c563ac60735bc4785d90c928c9cf1c24e876e719a17",
