@@ -1,9 +1,23 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788486258052,
+  "updatedAt": 1788487215962,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788486862283",
+      "text": "ěťñ",
+      "userDeviceId": "64c8fe1d83ab43b776b1d558fe68010bf9d279b2d09fa3e65f8fb0347824821f",
+      "userName": "lens et sa famille",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788487166320,
+      "updatedAt": 1788487166320,
+      "status": "active"
+    },
     {
       "id": "local-1788484334928",
       "text": "Bondye konnen tou bagay 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -33,10 +47,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 26,
-  "shareCount": 45,
-  "viewCount": 104,
+  "likeCount": 30,
+  "shareCount": 49,
+  "viewCount": 113,
   "verseLikedBy": [
+    "0c198944f2fb22524df1ef649c37c91d101f089f336fa81fa709bd24a2316bff",
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
     "16c25b1f6d2d5cd0a1b4a1066b4295a7f9ef7026bd5eae3da0863e0a806c34a5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -44,8 +59,11 @@
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
     "3173e332ef5ea0efd417688088260f06c9502b5560271962f8371291ccf1b562",
     "38806753f6c82b2b33deb68e228bedfe9bc63cb47beb2cf8ad1f235e0fdaccb4",
+    "41a7d2980cda72bfbd97d9f4c11be75069e1ccee34b8304e5c2289b9e492567c",
+    "52529ef44cd6bab84dfec5d66b9d00d5fdce61f424bc005f6ff2797a3afdc11d",
     "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
+    "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
     "788d50de1b9dea8be370d834657ed505eb4a91afb024c1045ad02f94b79544f6",
     "8d0c10f3c3ec0a4b59f3a34aa608cb41894ecf3622d9ffc60780c27fe4b5c945",
     "9169ef308fe11de4861497df4db6f410e884988f445de68ff8afe0a98cbae286",
