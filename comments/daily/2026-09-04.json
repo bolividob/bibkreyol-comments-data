@@ -1,9 +1,51 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788490804340,
+  "updatedAt": 1788491641537,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788490970999",
+      "text": "bondye ou Fidel",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788490974218,
+      "updatedAt": 1788490974218,
+      "status": "active"
+    },
+    {
+      "id": "local-1788490929516",
+      "text": "amen",
+      "userDeviceId": "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
+      "userName": "Célian clemene",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788490932638,
+      "updatedAt": 1788490932638,
+      "status": "active"
+    },
+    {
+      "id": "local-1788490919942",
+      "text": "amen",
+      "userDeviceId": "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
+      "userName": "Célian clemene",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788490922963,
+      "updatedAt": 1788490922963,
+      "status": "active"
+    },
     {
       "id": "local-1788489490113",
       "text": "kite yo non",
@@ -57,7 +99,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1788487166320,
-      "updatedAt": 1788487166320,
+      "updatedAt": 1788491271487,
       "status": "active"
     },
     {
@@ -89,11 +131,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 40,
-  "shareCount": 72,
-  "viewCount": 147,
+  "likeCount": 45,
+  "shareCount": 81,
+  "viewCount": 155,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
+    "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
     "0c198944f2fb22524df1ef649c37c91d101f089f336fa81fa709bd24a2316bff",
     "13db5c92523f5664223a2103f92e2d3d07fe4183e15e17ab76dc03bdbd481bc6",
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
@@ -110,7 +153,9 @@
     "52529ef44cd6bab84dfec5d66b9d00d5fdce61f424bc005f6ff2797a3afdc11d",
     "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
+    "7254884e73e4ba7f568ed58c6e4859e725b8a475e73321898a6d1c43c2271bc8",
     "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
+    "788b6c0434413167b9fc191922f22755fca8d1c49e5750b8c1dec2e89ebc038e",
     "788d50de1b9dea8be370d834657ed505eb4a91afb024c1045ad02f94b79544f6",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8d0c10f3c3ec0a4b59f3a34aa608cb41894ecf3622d9ffc60780c27fe4b5c945",
@@ -118,6 +163,7 @@
     "927f1c61043ef4a7e7e874b568ee610fe3d418b0b12b0b504e834d9ccef6702b",
     "955215daa021799d3ccf7a749f23a53d5b1e55b6900b3f00854fd55df9eff021",
     "9989361bf19c0a7ff2a632a5d7226126254cff7ec1d42e90e55a010b6abdca18",
+    "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "aa939ef84e94a1ebf73b70b44e70e037efd588c07781a6a72ea38817e46afd92",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
     "ad53cda4319323bfc4b3388bacf2820d238cc2c16ddb1fa0d0740d1e4a30d55e",
@@ -128,6 +174,7 @@
     "c93cce0e80a87e3c846278efa6e589dc5fb17dd4ba43c968660055119ebfeec1",
     "cbcacfb24d06e68e4029a68dbdcc03c0303d557ee09a5c4498023a0743d90209",
     "d465f187762027056b887c563ac60735bc4785d90c928c9cf1c24e876e719a17",
+    "da9948df6335fe2d31e97addcfb556262b41341ee1e8083182f6ae853323a082",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e1b575d3dd1bcba9cb04e82645fe4652f9fa5e05755de2d6810e381e5e27f01a",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
