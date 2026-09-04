@@ -1,9 +1,23 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788503445656,
+  "updatedAt": 1788504242113,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788503901820",
+      "text": "Amén y amén amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788503902868,
+      "updatedAt": 1788503902868,
+      "status": "active"
+    },
     {
       "id": "local-1788501317680",
       "text": "amen",
@@ -203,9 +217,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 66,
-  "shareCount": 109,
-  "viewCount": 261,
+  "likeCount": 68,
+  "shareCount": 111,
+  "viewCount": 268,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "045a39d4231db1e75f48c72ba23affe24d038dba107d6e599d3369907a1b120a",
@@ -253,6 +267,7 @@
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
+    "aa76fa44c649fbeccde4b1181851e5e6e63c95522f51270a77581c0b62ceb4b7",
     "aa939ef84e94a1ebf73b70b44e70e037efd588c07781a6a72ea38817e46afd92",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
     "ad53cda4319323bfc4b3388bacf2820d238cc2c16ddb1fa0d0740d1e4a30d55e",
@@ -266,6 +281,7 @@
     "cbcacfb24d06e68e4029a68dbdcc03c0303d557ee09a5c4498023a0743d90209",
     "d465f187762027056b887c563ac60735bc4785d90c928c9cf1c24e876e719a17",
     "da9948df6335fe2d31e97addcfb556262b41341ee1e8083182f6ae853323a082",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e1b575d3dd1bcba9cb04e82645fe4652f9fa5e05755de2d6810e381e5e27f01a",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
