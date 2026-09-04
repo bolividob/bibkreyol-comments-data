@@ -1,9 +1,23 @@
 {
   "date": "2026-09-04",
   "verseKey": "daily:2026-09-04",
-  "updatedAt": 1788550204137,
+  "updatedAt": 1788551043608,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788491805644",
+      "text": "poukisa Mwen pa wè non jewova nan bib la poukisa se seyè AK bondye kom tit Nou mete nan plas vrè non Dye a",
+      "userDeviceId": "38179960fc13619de33c973f97f330a5528d99345bd99a733d4120854c0a601e",
+      "userName": "jolivajoel@gmail.com",
+      "verseName": "Som 10:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788551008273,
+      "updatedAt": 1788551008273,
+      "status": "active"
+    },
     {
       "id": "local-1788537181999",
       "text": "amèn",
@@ -333,9 +347,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 141,
-  "shareCount": 293,
-  "viewCount": 675,
+  "likeCount": 143,
+  "shareCount": 297,
+  "viewCount": 683,
   "verseLikedBy": [
     "01a8e85461c326cb2219a153da9ab22eb70c6e3d2181610ad207788243eaf51b",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
@@ -423,7 +437,9 @@
     "95cb710953206edd65d18c1c5e67a3d9ccb91c9edd46481c276465233f73eb78",
     "990ba6be8dc1f6d3fa32737f4e7459a256df269d0e469623e3f6d1ed8d314453",
     "9989361bf19c0a7ff2a632a5d7226126254cff7ec1d42e90e55a010b6abdca18",
+    "9b0a458f1a04815fb09ea17a9192b30aa9b3077bd374bf8ffe01a0e8c4678121",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+    "9be156eac232c9e597045a5aef681c43efb8fd64b0cac236ee6021d9de07bc23",
     "9c231bc2dcac7bd56d722842a95b23c4ed79f5328d20fcf812986f0248d5eb91",
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
     "a0740bb8971698e55c5cd180886f7927f98512f812c7b2d8e5f2e9122f07a72d",
