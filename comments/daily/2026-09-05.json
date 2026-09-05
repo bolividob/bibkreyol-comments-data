@@ -1,9 +1,23 @@
 {
   "date": "2026-09-05",
   "verseKey": "daily:2026-09-05",
-  "updatedAt": 1788630364050,
+  "updatedAt": 1788631202792,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788630542519",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "2 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788630543637,
+      "updatedAt": 1788630543637,
+      "status": "active"
+    },
     {
       "id": "local-1788630015902",
       "text": "Amen",
@@ -40,10 +54,12 @@
       "verseName": "2 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "add488946e030f098c6e57ed01c5a5a7442df748c925178408f93c59f9681817"
+      ],
       "createdAt": 1788630142439,
-      "updatedAt": 1788630142439,
+      "updatedAt": 1788630995431,
       "status": "active"
     },
     {
@@ -59,7 +75,7 @@
         "2b279722f62201db6a0f1fed03fceb91dc19b7e7fcf96481608d4b79e6a3e393"
       ],
       "createdAt": 1788626727168,
-      "updatedAt": 1788626741615,
+      "updatedAt": 1788631039957,
       "status": "active"
     },
     {
@@ -89,7 +105,7 @@
         "2b279722f62201db6a0f1fed03fceb91dc19b7e7fcf96481608d4b79e6a3e393"
       ],
       "createdAt": 1788621052770,
-      "updatedAt": 1788626740399,
+      "updatedAt": 1788630988488,
       "status": "active"
     },
     {
@@ -100,13 +116,14 @@
       "verseName": "2 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "2b279722f62201db6a0f1fed03fceb91dc19b7e7fcf96481608d4b79e6a3e393",
+        "add488946e030f098c6e57ed01c5a5a7442df748c925178408f93c59f9681817",
         "cbdf295f4aa68593947c3abec4e27e200441e987675b8615a0337b0119bbcdc7"
       ],
       "createdAt": 1788610477460,
-      "updatedAt": 1788626742594,
+      "updatedAt": 1788630971432,
       "status": "active"
     },
     {
@@ -262,9 +279,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 138,
+  "likeCount": 140,
   "shareCount": 269,
-  "viewCount": 633,
+  "viewCount": 642,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
@@ -315,6 +332,7 @@
     "4d5f1124a706c095bd40f9daa9279764f88b8cf68bd656bdcbcb7d6194f84d56",
     "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "5417ccc104c05389f44b15c008f5ccd7935623fd674acc11e08d3c72e1705bb5",
+    "54aea876cb115a54d0d1c38c355432d9f9bd3d29fa56d251b9b8b555488f6729",
     "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
     "5a1258e0f6dfcdd869830b0c5ead8bbbcd42b9fb0c37b77fbeaa81376474b40e",
     "5e15e501d2b3f784c7e725c113bf66f624a8b3a0423b696bc5e0091ba1d52957",
@@ -322,6 +340,7 @@
     "69fd53a52f26c8a9222f3e6026b3f533d98c8c9f54aeec90848d4745fc454028",
     "6ae6b38dd1c2ea57e2b3ec03ff6192dc545c127f932b98be35131c084b6b5c61",
     "6b6840f68a2569d6a8ff35f59fd74cbbf7156931df96bb7fa044bca1fbbd6a60",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "719354e2fe56b5e7a6cba310de387952dc6df82ace57241158f0e35793832e10",
     "720136ce4e9236906e417afd771d9e38e7af2a60311627339823dce40496ff16",
     "7234c1bb7e240d42cd182b78f3ee366bd7a30d72eb8fe01d1c6699aea339e89c",
