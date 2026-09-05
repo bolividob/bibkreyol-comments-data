@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "verseKey": "daily:2026-09-05",
-  "updatedAt": 1788634802721,
+  "updatedAt": 1788635762319,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "263a1cdbd9e1c1001944466b2878cd0ca1a090ddf5efbe147edbc2d8dccad2d4"
+      ],
       "createdAt": 1788633649008,
-      "updatedAt": 1788633649008,
+      "updatedAt": 1788635081874,
       "status": "active"
     },
     {
@@ -29,7 +31,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1788630543637,
-      "updatedAt": 1788630543637,
+      "updatedAt": 1788635081761,
       "status": "active"
     },
     {
@@ -130,14 +132,15 @@
       "verseName": "2 Timote 3:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "likedBy": [
+        "263a1cdbd9e1c1001944466b2878cd0ca1a090ddf5efbe147edbc2d8dccad2d4",
         "2b279722f62201db6a0f1fed03fceb91dc19b7e7fcf96481608d4b79e6a3e393",
         "add488946e030f098c6e57ed01c5a5a7442df748c925178408f93c59f9681817",
         "cbdf295f4aa68593947c3abec4e27e200441e987675b8615a0337b0119bbcdc7"
       ],
       "createdAt": 1788610477460,
-      "updatedAt": 1788630971432,
+      "updatedAt": 1788635119162,
       "status": "active"
     },
     {
@@ -293,9 +296,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 146,
-  "shareCount": 315,
-  "viewCount": 673,
+  "likeCount": 148,
+  "shareCount": 317,
+  "viewCount": 682,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
@@ -320,6 +323,7 @@
     "2254d4cc823e527a7dd0e555b66d6d393efe08468ed6d3f7bc59aceda90d8c82",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "24250ee2932302cbb5ee12e050cafe40c35b74cef037993242ba8d519ef6cada",
+    "263a1cdbd9e1c1001944466b2878cd0ca1a090ddf5efbe147edbc2d8dccad2d4",
     "269db92619dc8066a5c67b617eae348bf50f3f812fd1e1138f1a61d3947e05fc",
     "26e9ccca6b47997e25a8d257978f7871ed33d7a5a9bc7d4c704f5b14ed6172c0",
     "2b141132bc8d6ca6345ef705e4d4117bff345e486a3796093f10641a7944e75a",
@@ -327,6 +331,7 @@
     "2b5e15519a7315a8740701d37ff67fd05af869089ffea7762319a47f1be9d75f",
     "2bb26d459fa64c06b2b4fc9360105d22000e7779f62da0aebb72b1b6d58dc642",
     "2c65a9918ddf252c1e905f89e3189b2cec9334c744946477a1abdcf1d5e3e8b9",
+    "2c8d99b1c02805d942e3caad470e4b8d8ceaa96515b05f0c13069fad0e112174",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "3246e1c53ba7c6e843a0878cf205b734d98174e55ca61a46283c8763748f4a65",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
