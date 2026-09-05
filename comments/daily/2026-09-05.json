@@ -1,9 +1,51 @@
 {
   "date": "2026-09-05",
   "verseKey": "daily:2026-09-05",
-  "updatedAt": 1788629407254,
+  "updatedAt": 1788630364050,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788630015902",
+      "text": "Amen",
+      "userDeviceId": "5265be02b493ef4265f677b648ecfb427cc62cf0a74c88249c27dce2ddfc19d5",
+      "userName": "Rose Berta",
+      "verseName": "2 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788630220833,
+      "updatedAt": 1788630220833,
+      "status": "active"
+    },
+    {
+      "id": "local-1788629988449",
+      "text": "amèn",
+      "userDeviceId": "5265be02b493ef4265f677b648ecfb427cc62cf0a74c88249c27dce2ddfc19d5",
+      "userName": "Rose Berta",
+      "verseName": "2 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788630209418,
+      "updatedAt": 1788630209418,
+      "status": "active"
+    },
+    {
+      "id": "local-1788630044149",
+      "text": "amèn",
+      "userDeviceId": "5265be02b493ef4265f677b648ecfb427cc62cf0a74c88249c27dce2ddfc19d5",
+      "userName": "Rose Berta",
+      "verseName": "2 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788630142439,
+      "updatedAt": 1788630142439,
+      "status": "active"
+    },
     {
       "id": "local-1788626724556",
       "text": "Dieu est grand amour",
@@ -220,9 +262,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 134,
-  "shareCount": 268,
-  "viewCount": 624,
+  "likeCount": 138,
+  "shareCount": 269,
+  "viewCount": 633,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
@@ -296,6 +338,8 @@
     "8d67bff3797477b1e47767be289698069234f7cb88f93e8a8713ee563c614b0d",
     "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
     "91b02115076c107d816545dfa7d354f5e54e90f07e77783454b3c6e0da6394eb",
+    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+    "9a736388d9fffe31ba14a7e93aab4d14c430bf989f001f985ab0e527e19027d3",
     "9ae4ef4c0d8deca9516e6cbd990afd299546316cec645d15bba5b451a6eb5817",
     "9b0a458f1a04815fb09ea17a9192b30aa9b3077bd374bf8ffe01a0e8c4678121",
     "9c4b387ea49865a45d402867edf60e509117c6a84c04964cd27df2dbbc6c031f",
@@ -326,6 +370,7 @@
     "c23fc80eab9892816bc8322c80121c987b37d3ca3c7db7d6176c3cf444ebfa75",
     "c38118544e7038a1459edd77130ed6ac502b4b459afdd1065812fc0b089b5703",
     "c41eb5aafa143ab0632e522f211f194680aa186f8f9fb547b23dc1665696eee4",
+    "c4ee01396b0775a204cb7a1035a1dece160d4027b19fa00cc11da99e8d4fa2b3",
     "c5386d01a597501c799f1866718a082dfc308d128d8b30d514a5cfe54ea26ee3",
     "c5dd88017e0234c65f7dc6f4322489bf9ce29c89c728776e7d89fc69847e9dd3",
     "c6738bf0c481269748ceebf2b268563d392737b5eca419b112034b5b45189fbd",
@@ -356,6 +401,7 @@
     "fc6610739f3db4550f5d269c7aa3484a5ff3879ab9c6d7f3aba1f0463c3c32b6",
     "fc827f13ff323d8f957ba296e0b8232b88977d8dc638b93a09588f2483093c33",
     "fca3d10fbf6a3af25d596b65d272f74dcdcda1f666bc70d3508c29ee70fb5e67",
+    "fd2f4e34480a8f6be16aa0326b20254526a07413154461f0d7bba7ffc973e1d3",
     "fd9b6e198c2eac4e6f48294196354147457d53a7b9fb6c20ec970aab7107632b",
     "fe63e32e9fb493dc69dee7d0165ad4f06e66475b605252c5ffd1808ae619f05e"
   ],
