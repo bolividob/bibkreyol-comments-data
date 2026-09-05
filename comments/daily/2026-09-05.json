@@ -1,9 +1,23 @@
 {
   "date": "2026-09-05",
   "verseKey": "daily:2026-09-05",
-  "updatedAt": 1788597841217,
+  "updatedAt": 1788598806127,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788598701441",
+      "text": "amen 🙏",
+      "userDeviceId": "eec0cd10b67afc9016a1d434ae191b567f60a3893878610e654dfee2cb77efe7",
+      "userName": "Didie",
+      "verseName": "2 Timote 3:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788598702831,
+      "updatedAt": 1788598702831,
+      "status": "active"
+    },
     {
       "id": "local-1788586071713",
       "text": "Bondye konn tout bagay",
@@ -125,9 +139,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 65,
-  "shareCount": 126,
-  "viewCount": 338,
+  "likeCount": 66,
+  "shareCount": 127,
+  "viewCount": 346,
   "verseLikedBy": [
     "01e7f9519ed50d68dcc0e9f846e1dce71dcdcd78877c407bbc5a527b9f52ef85",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
@@ -188,6 +202,7 @@
     "e2b7dda12ac16f76e525f4376598c25d501988404c127cc42753b138e5e614b7",
     "e34decc9551ca2b797cff3d604f7a3c0c2a1378ebd078b39f316616d61bc6ab6",
     "ec256f3e487e1135b19f410b0a8c03b14bb85e92736e3097dc6fc225a9c98f8b",
+    "eec0cd10b67afc9016a1d434ae191b567f60a3893878610e654dfee2cb77efe7",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f4e61a4e953e54aee613209f9d6f748464397593a1dbcdd713633b0c31344c4a",
     "f4e84c7dc1598d06c8fce8732577aad6f37b6e3bb5831a8ff7e78e99a71c3a96",
