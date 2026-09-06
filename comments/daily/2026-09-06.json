@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788689762830,
+  "updatedAt": 1788690658399,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788690657356",
+      "text": "bonjour Bon dimanche",
+      "userDeviceId": "1386091653738c0d4b2ae481f971cd99cda40318b0d4beb89f9541299240dd9c",
+      "userName": "lutese souveus",
+      "verseName": "1 Kwonik 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788690658399,
+      "updatedAt": 1788690658399,
+      "status": "active"
+    },
     {
       "id": "local-1788664530330",
       "text": "fioffho",
@@ -33,18 +47,20 @@
       "status": "active"
     }
   ],
-  "likeCount": 41,
-  "shareCount": 111,
-  "viewCount": 375,
+  "likeCount": 43,
+  "shareCount": 114,
+  "viewCount": 383,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "1386091653738c0d4b2ae481f971cd99cda40318b0d4beb89f9541299240dd9c",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "15c055efa22d42a4493e190acb4bbfa1da6210e7340ac1d2815d70c8a01e7b2b",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2f6a7136307ab34a19092dc3259191ed037c6d60c9d3545a75eef290c05ed40d",
+    "33ad8e700a18f9205fa3b1823e25919dba4ed86013d1a85b554f231cab348d4a",
     "357d4793feb48b7abb5bcb03a52b98c7158bf008dc77156653d2182520d946c1",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
