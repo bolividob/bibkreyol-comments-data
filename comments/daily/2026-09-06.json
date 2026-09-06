@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788692401331,
+  "updatedAt": 1788693362448,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788692645926",
+      "text": "amén amén 🙏🙏",
+      "userDeviceId": "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
+      "userName": "geslanda Noel",
+      "verseName": "1 Kwonik 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788692647483,
+      "updatedAt": 1788692647483,
+      "status": "active"
+    },
     {
       "id": "local-1788690657356",
       "text": "bonjour Bon dimanche",
@@ -47,9 +61,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
-  "shareCount": 119,
-  "viewCount": 398,
+  "likeCount": 52,
+  "shareCount": 122,
+  "viewCount": 410,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -67,6 +81,7 @@
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "43bd2861fa95704badbe77b0969e584006a04b67dd1bb367fd593a42a1b8ba77",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
+    "50799976d843f69f5be9f2d2c7f151e9216b1ce4bd4ea27b53f5892688bd7d9c",
     "5191439ac787eafb46db3912ded648f5d195d02c8f89612400ea85290cc0f0d3",
     "59e386189c22f622212082e30e06ce95f20224c3b24a75acbeffe44714573bb1",
     "5a5f384633170048385d7eeb177f6b34e99496e90f1713bf467d036e8489ad00",
@@ -90,6 +105,7 @@
     "b1656c8bd20fadd7fcf63ca3c93f55219e2a8793d5f29e879f0e33c3396c81f0",
     "b75e114773587d7e8fad24a7c4b0db9a78bd4eb9d012ee251d7107476c05bccf",
     "b9344d955fbfa89d062d82fbceb674129b3f284a497fbab4ab7929c1dd743e06",
+    "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bd26be8f1d3227aa32e7a098eae9ea808a434806c98ad46f1dae4cc9c0a6d41f",
     "bfb0362551679f41b1eec17d79359acd05302da6da846501121aee8637b1c7e3",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
