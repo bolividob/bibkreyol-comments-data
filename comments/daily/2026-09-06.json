@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788715802622,
+  "updatedAt": 1788716695120,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788716498331",
+      "text": "h",
+      "userDeviceId": "6b0e2107fdf65b4052589953ac9102c9d175ed559fe8cf8153ef082b049ca3d8",
+      "userName": "yhk",
+      "verseName": "1 Kwonik 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788716499610,
+      "updatedAt": 1788716499610,
+      "status": "active"
+    },
     {
       "id": "local-1788707990056",
       "text": "amén",
@@ -40,10 +54,12 @@
       "verseName": "1 Kwonik 5:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6b0e2107fdf65b4052589953ac9102c9d175ed559fe8cf8153ef082b049ca3d8"
+      ],
       "createdAt": 1788707855160,
-      "updatedAt": 1788707855160,
+      "updatedAt": 1788716496036,
       "status": "active"
     },
     {
@@ -318,8 +334,8 @@
     }
   ],
   "likeCount": 130,
-  "shareCount": 545,
-  "viewCount": 668,
+  "shareCount": 546,
+  "viewCount": 678,
   "verseLikedBy": [
     "00e05198daee61eac3e0ba1e0f1a696a132a363b6ca35235813f7168752914e7",
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
