@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788719408551,
+  "updatedAt": 1788720252275,
   "version": 1,
   "comments": [
     {
@@ -12,12 +12,13 @@
       "verseName": "1 Kwonik 5:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "ee9a23d41369134c5b8f495c262299795b543e0b61b8b6f29e36e3fa4c0d1296",
         "f390b4853e6b58e3b5f1e050e58746fbe3172df02bb3b352af35cc3d515f57cf"
       ],
       "createdAt": 1788716499610,
-      "updatedAt": 1788717552243,
+      "updatedAt": 1788720114915,
       "status": "active"
     },
     {
@@ -58,12 +59,13 @@
       "verseName": "1 Kwonik 5:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "6b0e2107fdf65b4052589953ac9102c9d175ed559fe8cf8153ef082b049ca3d8"
+        "6b0e2107fdf65b4052589953ac9102c9d175ed559fe8cf8153ef082b049ca3d8",
+        "ee9a23d41369134c5b8f495c262299795b543e0b61b8b6f29e36e3fa4c0d1296"
       ],
       "createdAt": 1788707855160,
-      "updatedAt": 1788716496036,
+      "updatedAt": 1788720112975,
       "status": "active"
     },
     {
@@ -337,9 +339,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 134,
-  "shareCount": 547,
-  "viewCount": 704,
+  "likeCount": 135,
+  "shareCount": 549,
+  "viewCount": 712,
   "verseLikedBy": [
     "00e05198daee61eac3e0ba1e0f1a696a132a363b6ca35235813f7168752914e7",
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
@@ -466,6 +468,7 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e57ee3f96ebe8c884a59152e6ead07f6f0d11c8c6be7550260bf063dda590103",
     "e808c0e67132d3aa17b7a79548860570f27ffeb2fa26d23272638a015951a43e",
+    "ee9a23d41369134c5b8f495c262299795b543e0b61b8b6f29e36e3fa4c0d1296",
     "f38dcafa7bb0aabd8d55942ef08dd4386bc426faa274019ae4a16376c5f802c1",
     "f390b4853e6b58e3b5f1e050e58746fbe3172df02bb3b352af35cc3d515f57cf",
     "f57e9beb98cd7596ac8534dfd4e5a77f760b4ea9680d4fbf7b73424be61ee827",
