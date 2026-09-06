@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788694212304,
+  "updatedAt": 1788695161794,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788695154747",
+      "text": "byen vini",
+      "userDeviceId": "fd2e3dbad3ce3960e3a368c2128eb4a6ec8e9e650b202e93b6f5fe57778917da",
+      "userName": "Stanley",
+      "verseName": "1 Kwonik 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788695156742,
+      "updatedAt": 1788695156742,
+      "status": "active"
+    },
     {
       "id": "local-1788692645926",
       "text": "amén amén 🙏🙏",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 125,
-  "viewCount": 419,
+  "likeCount": 55,
+  "shareCount": 128,
+  "viewCount": 429,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -99,6 +113,7 @@
     "6f662bd6d92ee3393be0f26a8a5347b5a8bd34fb04256d179df8d03558557221",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
     "78d988f779c6fdf768117230bbc39c6d8d149b1a44ce5193217af9fb7e3f7dd8",
+    "7f22c5a6bdb2e76a42fc888a00d859932606d6b7cb7e748cc3736478497b2282",
     "85a96ea6afb95a937675e8ff949be249259ff942e385c7bfed1010322ce19001",
     "92dc0a1a09fb7f18649e545147058ec7c1c8573972fa03fe4d5e4c17a7cb6139",
     "9cc095bd1c5a9f3c15a2f7e5ee8354cac92dfaab28ed6637166dd0be5190e3eb",
