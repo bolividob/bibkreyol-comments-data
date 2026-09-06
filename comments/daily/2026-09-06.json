@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788727442827,
+  "updatedAt": 1788728426414,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788727743209",
+      "text": "amenn",
+      "userDeviceId": "cfb2e9408f94a38799ca64b5c4f6b1693a30b82b37d4c22ec1d210af7161d2c1",
+      "userName": "wilderson mwn benzwen la pryè Pou travay",
+      "verseName": "1 Kwonik 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788728365667,
+      "updatedAt": 1788728365667,
+      "status": "active"
+    },
     {
       "id": "local-1788725316501",
       "text": "bondye beniw",
@@ -353,9 +367,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 143,
-  "shareCount": 555,
-  "viewCount": 778,
+  "likeCount": 144,
+  "shareCount": 558,
+  "viewCount": 787,
   "verseLikedBy": [
     "00e05198daee61eac3e0ba1e0f1a696a132a363b6ca35235813f7168752914e7",
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
@@ -432,6 +446,7 @@
     "77842308d02fd65cd4bebc447eeb9a8128e995b519d168effcc07805307f67b1",
     "78d988f779c6fdf768117230bbc39c6d8d149b1a44ce5193217af9fb7e3f7dd8",
     "7c869759b0141b1c6b9ddb3a78e4b9991d6f0a394427242a34072a08a7b7f464",
+    "7caf1602d6b576a845ff5320f141ea75860f8f18df6319d07b1fe80c042a78f8",
     "7d8c8551f898b339865e49ec0cb6dea1769c8268a919101b474471145e2050be",
     "7eb58d9412acde2c63e7c407e6c8b73241694fac3b3547f7e92d72d45713c70e",
     "7f22c5a6bdb2e76a42fc888a00d859932606d6b7cb7e748cc3736478497b2282",
