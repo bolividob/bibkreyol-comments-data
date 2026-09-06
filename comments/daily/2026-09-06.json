@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788703256656,
+  "updatedAt": 1788704162147,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788697688363",
+      "text": "amen 3fois sou laviw",
+      "userDeviceId": "1d7436205b851df344fd91dee3376bc6b110c10d20a174a9c534f43f702fcd94",
+      "userName": "theodore wilfrid",
+      "verseName": "1 Kwonik 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788703550506,
+      "updatedAt": 1788703550506,
+      "status": "active"
+    },
     {
       "id": "local-1788701155351",
       "text": "jk",
@@ -231,13 +245,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 100,
-  "shareCount": 511,
-  "viewCount": 536,
+  "likeCount": 104,
+  "shareCount": 518,
+  "viewCount": 550,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "0d75ed04c01b4688d0e78f617060bad92829bf6ab712807a1cd044b4a86e6f49",
     "1386091653738c0d4b2ae481f971cd99cda40318b0d4beb89f9541299240dd9c",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "15c055efa22d42a4493e190acb4bbfa1da6210e7340ac1d2815d70c8a01e7b2b",
@@ -308,6 +323,7 @@
     "a73092e25aaa6cc8e082b30a8b8fed6868713f8aa81a7964318a971a4c9a1baa",
     "aa4bc1db378dc48dc17631e16fc6ead98b9624cbc25afd1be8a362148bc2ad32",
     "aa9c7716dffcf51ec93f6454eca1bdbca8b277d63531b140d806f79202185e71",
+    "af9c71adcae4fa87206f84468bff44b5a995c8b593c2384cacfc1ac8045516bb",
     "b1656c8bd20fadd7fcf63ca3c93f55219e2a8793d5f29e879f0e33c3396c81f0",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b503dc7fdf25062846362314aa71486fd38bd2c240b3663ffa74e2924c929248",
@@ -327,6 +343,7 @@
     "d3333eaf78686775a086101a5a74a7935877a5f31afa3372b001917c0be803b8",
     "d8c669c30d77e35960a71e316f4ed7ae4753707f2ce6f52f00ac3aa506d8172a",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "e2136da7797c23963a9ff78c56997cc97e8e2c2b1dbaa4de481ad0c91801473d",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e57ee3f96ebe8c884a59152e6ead07f6f0d11c8c6be7550260bf063dda590103",
     "f57e9beb98cd7596ac8534dfd4e5a77f760b4ea9680d4fbf7b73424be61ee827",
@@ -334,7 +351,8 @@
     "f6faff08f2d777ac1b11fcdfcbb47c3c2e9a36629fd4b4481dfc2d68946a2851",
     "f99e0563b49a831071f9587f74394b808e3d0297c29f2432d378df1d707a1cf0",
     "fa3a7cced5d74e33f4e7cfc53f551ad3c68e7c521f64bfbc0aab13f296398e70",
-    "fb72f3b7aa022e3b16aac24540c29cfa2863aeca25f16e85fbb19fec7f999dc7"
+    "fb72f3b7aa022e3b16aac24540c29cfa2863aeca25f16e85fbb19fec7f999dc7",
+    "fb7df6230024960154ec5d8ec7cb74e20cf3e8cc72d4dd2685ca0ec17142cfcb"
   ],
   "verseViewBy": []
 }
