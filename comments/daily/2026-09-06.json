@@ -1,9 +1,23 @@
 {
   "date": "2026-09-06",
   "verseKey": "daily:2026-09-06",
-  "updatedAt": 1788724803101,
+  "updatedAt": 1788725643333,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788725316501",
+      "text": "bondye beniw",
+      "userDeviceId": "88dfa91700d5a8540552452da463757d14a8d63bb9820e3990e1973d1f569509",
+      "userName": "andrena",
+      "verseName": "1 Kwonik 5:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788725319273,
+      "updatedAt": 1788725319273,
+      "status": "active"
+    },
     {
       "id": "local-1788716498331",
       "text": "h",
@@ -339,9 +353,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 139,
-  "shareCount": 554,
-  "viewCount": 753,
+  "likeCount": 141,
+  "shareCount": 555,
+  "viewCount": 760,
   "verseLikedBy": [
     "00e05198daee61eac3e0ba1e0f1a696a132a363b6ca35235813f7168752914e7",
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
@@ -426,6 +440,7 @@
     "85a96ea6afb95a937675e8ff949be249259ff942e385c7bfed1010322ce19001",
     "86205192659299dc688f0294ac3cecfb1f72401203541f425637a8c6f1ae853c",
     "8795bb1849b5b7976b61670ab2dbf363fedb911f3605981a80430e8213ae114a",
+    "88dfa91700d5a8540552452da463757d14a8d63bb9820e3990e1973d1f569509",
     "8a5d1e6782995692e88ec1b60b3f02a4e1dd1865ad127d8ce0b64e1a2ef5b03d",
     "8b395fe7ef616bbeb53dc1af6ce2fb8b96b241579193022a9013cba47cc59656",
     "8e6fb732b336b68c2ee8d1eb17d3392687db53dfb0d1f3985cfabaf8bc661964",
@@ -438,6 +453,7 @@
     "9cc095bd1c5a9f3c15a2f7e5ee8354cac92dfaab28ed6637166dd0be5190e3eb",
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
     "a38dd3e1d7eb4838425dbfbe91ff516e4f57b8546ce16feb55ec1747901f4c34",
+    "a549ce784e31fa97ed2b8c62693e547a5c0d52ee148459b5aeff09a8465dc190",
     "a56d5cebc27d4f8a0a7480f913fab9fd329851f72d1e3512f93e747070f2d99c",
     "a73092e25aaa6cc8e082b30a8b8fed6868713f8aa81a7964318a971a4c9a1baa",
     "a802db395c84ac64a77a2cfe1e32289a47d4218bcdd35c218025edf5b2c05beb",
