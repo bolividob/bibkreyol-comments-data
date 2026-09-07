@@ -1,9 +1,23 @@
 {
   "date": "2026-09-07",
   "verseKey": "daily:2026-09-07",
-  "updatedAt": 1788747296132,
+  "updatedAt": 1788748213863,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788747605107",
+      "text": "amén amén",
+      "userDeviceId": "6f915f255fdcca5b519fff399c0e2f572f9bd1d5e8833600f7146dbb89ae2c37",
+      "userName": "sher",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788747607773,
+      "updatedAt": 1788747607773,
+      "status": "active"
+    },
     {
       "id": "local-1788742995798",
       "text": "Amén y amén amén amén",
@@ -12,10 +26,12 @@
       "verseName": "2 Jan 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "6f915f255fdcca5b519fff399c0e2f572f9bd1d5e8833600f7146dbb89ae2c37"
+      ],
       "createdAt": 1788742997505,
-      "updatedAt": 1788742997505,
+      "updatedAt": 1788747628347,
       "status": "active"
     },
     {
@@ -51,10 +67,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 27,
-  "shareCount": 45,
-  "viewCount": 146,
+  "likeCount": 29,
+  "shareCount": 46,
+  "viewCount": 159,
   "verseLikedBy": [
+    "13c397f66594110f7dfccd9295ef1296d96072a50f63007d157cba3aeca3a880",
     "154829ce5bde0a5d8cdff9b9abacc2733f81aa236ad77b0285f5f5f4d4709fce",
     "2076fe92ec8348c0362bd670095be868bc4322a5e366ae100e64e405d08c953d",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -66,6 +83,7 @@
     "44dfed7d07bee57f344495705a031c710ccc3f331d19a5041fa41b96a6ef2aa4",
     "53626c18fee628a84958e0f5e9b91e12ff5189a805bb2ae0650f7165ab5fd17d",
     "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
+    "6f915f255fdcca5b519fff399c0e2f572f9bd1d5e8833600f7146dbb89ae2c37",
     "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "9384bf0b6590335c017e34bca83645a966837cac5b8dce4a0b74c28ae7bc41ae",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
