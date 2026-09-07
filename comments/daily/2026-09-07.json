@@ -1,9 +1,25 @@
 {
   "date": "2026-09-07",
   "verseKey": "daily:2026-09-07",
-  "updatedAt": 1788741841854,
+  "updatedAt": 1788742801321,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788742503132",
+      "text": "Amen amen amen amen amen amen",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+      ],
+      "createdAt": 1788742504537,
+      "updatedAt": 1788742514110,
+      "status": "active"
+    },
     {
       "id": "local-1788741471931",
       "text": "amén",
@@ -12,21 +28,28 @@
       "verseName": "2 Jan 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+      ],
       "createdAt": 1788741474438,
-      "updatedAt": 1788741474438,
+      "updatedAt": 1788742516585,
       "status": "active"
     }
   ],
-  "likeCount": 7,
-  "shareCount": 17,
-  "viewCount": 89,
+  "likeCount": 12,
+  "shareCount": 23,
+  "viewCount": 101,
   "verseLikedBy": [
     "154829ce5bde0a5d8cdff9b9abacc2733f81aa236ad77b0285f5f5f4d4709fce",
     "2076fe92ec8348c0362bd670095be868bc4322a5e366ae100e64e405d08c953d",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "3723d092d5514d9237d87c652f6ff66150bdc076c329d97d7d9b22f73198908d",
+    "44dfed7d07bee57f344495705a031c710ccc3f331d19a5041fa41b96a6ef2aa4",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
+    "a9119cb0c24323c7b9b1a3a108dad28a4c6ce8e897e38faece408e3df2811ade",
+    "b55bdbe758815fbd7ca58b9cc93bdaa0f8aeee245fae0ff0f4edbb53cb11efad",
+    "c2fac8567e6047fabd75f4980db219faaa329ea030f75db2036c147b7f18f774",
     "c4abf505aac4e834d2944ec2ecff6b401029add0b78bdec9ff167fee9eb4b2f1",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "e35fa8f0f83c8fc1ed68a98e3f2cb2aa204a4ab4ff792b735eb25a7327cdf577"
