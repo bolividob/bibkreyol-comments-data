@@ -1,9 +1,23 @@
 {
   "date": "2026-09-07",
   "verseKey": "daily:2026-09-07",
-  "updatedAt": 1788777011469,
+  "updatedAt": 1788777938442,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788777266649",
+      "text": "Merci Seigneur...",
+      "userDeviceId": "c489699b8154b15a7ea2998157d9a56830b9f1c415d7c9202210bdcc281fcb23",
+      "userName": "Dilia Jean Pierre Delva",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788777268969,
+      "updatedAt": 1788777268969,
+      "status": "active"
+    },
     {
       "id": "local-1788758575903",
       "text": "Amén 😇🙏🏻",
@@ -125,9 +139,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 62,
-  "shareCount": 118,
-  "viewCount": 421,
+  "likeCount": 64,
+  "shareCount": 124,
+  "viewCount": 428,
   "verseLikedBy": [
     "0166a18cb08969715b5f279a0a537f32a2714416adca511c01c77a1fa2645318",
     "10cff0c7ae94f64aa9c39bf4a5115033ece8a909075f9e4d1ce05f850ceb5bc0",
@@ -135,6 +149,7 @@
     "13c397f66594110f7dfccd9295ef1296d96072a50f63007d157cba3aeca3a880",
     "154829ce5bde0a5d8cdff9b9abacc2733f81aa236ad77b0285f5f5f4d4709fce",
     "195f8c3051ed554527d770d59cb72f259930811276208c743d895a3334f3e062",
+    "1b3c1d0101bc90250ac34953fdcc3fbc21b747cfaee1ccac424ae2ad9f9d3c6a",
     "2076fe92ec8348c0362bd670095be868bc4322a5e366ae100e64e405d08c953d",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -179,6 +194,7 @@
     "bbf5a9dd27a846f18d65fd054d0be6d0a821cf3df993a62f808781d1bd83b837",
     "bca168b8c970014367732787e69ce32bb529af84a9f4ff918305c574ee9f5ba3",
     "c2fac8567e6047fabd75f4980db219faaa329ea030f75db2036c147b7f18f774",
+    "c489699b8154b15a7ea2998157d9a56830b9f1c415d7c9202210bdcc281fcb23",
     "c4abf505aac4e834d2944ec2ecff6b401029add0b78bdec9ff167fee9eb4b2f1",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
