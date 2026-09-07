@@ -1,9 +1,23 @@
 {
   "date": "2026-09-07",
   "verseKey": "daily:2026-09-07",
-  "updatedAt": 1788756246188,
+  "updatedAt": 1788757181389,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788756944227",
+      "text": "amén amén amén",
+      "userDeviceId": "1137aa7e11e055be5c71897ce0487f3f7d2816c31a228146bddd41806eadd35e",
+      "userName": "mesi anpli Jesús",
+      "verseName": "2 Jan 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788756947789,
+      "updatedAt": 1788756947789,
+      "status": "active"
+    },
     {
       "id": "local-1788749846736",
       "text": "Amen Amen Amen 🙏 🙌",
@@ -26,10 +40,12 @@
       "verseName": "2 Jan 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1137aa7e11e055be5c71897ce0487f3f7d2816c31a228146bddd41806eadd35e"
+      ],
       "createdAt": 1788747607773,
-      "updatedAt": 1788747607773,
+      "updatedAt": 1788756955587,
       "status": "active"
     },
     {
@@ -81,11 +97,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 80,
-  "viewCount": 240,
+  "likeCount": 51,
+  "shareCount": 83,
+  "viewCount": 247,
   "verseLikedBy": [
     "10cff0c7ae94f64aa9c39bf4a5115033ece8a909075f9e4d1ce05f850ceb5bc0",
+    "1137aa7e11e055be5c71897ce0487f3f7d2816c31a228146bddd41806eadd35e",
     "13c397f66594110f7dfccd9295ef1296d96072a50f63007d157cba3aeca3a880",
     "154829ce5bde0a5d8cdff9b9abacc2733f81aa236ad77b0285f5f5f4d4709fce",
     "2076fe92ec8348c0362bd670095be868bc4322a5e366ae100e64e405d08c953d",
@@ -132,6 +149,7 @@
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e35fa8f0f83c8fc1ed68a98e3f2cb2aa204a4ab4ff792b735eb25a7327cdf577",
     "ecbbd039eaf0cf0cb8d2faac779a9eed5570c5fd92810f7d6054ccd98b096db8",
+    "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f6b5043ce475c6ba4b7f3acc7530faa4ae827a88b6a96ad38820417bb9dd75af"
   ],
