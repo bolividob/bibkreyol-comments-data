@@ -1,9 +1,23 @@
 {
   "date": "2026-09-08",
   "verseKey": "daily:2026-09-08",
-  "updatedAt": 1788903041718,
+  "updatedAt": 1788904801448,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788903895120",
+      "text": "amèn",
+      "userDeviceId": "f1a8d7de1ea98844e9064954fed122ecf1e6a7fd7f68b0a02698212542260a0d",
+      "userName": "Liline Mesidor",
+      "verseName": "Sofonyas 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788903896077,
+      "updatedAt": 1788903896077,
+      "status": "active"
+    },
     {
       "id": "local-1788901369651",
       "text": "bon travay",
@@ -295,9 +309,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 156,
-  "shareCount": 215,
-  "viewCount": 782,
+  "likeCount": 158,
+  "shareCount": 216,
+  "viewCount": 802,
   "verseLikedBy": [
     "02ab951c1b25aba1137fc40bf91e6bfabaa8585c6289f073e943f557b9ea5a94",
     "0442e1f4d176fa3db1334133c8df4f7c18967f01adf4f587ec99b01e5d6f9b31",
@@ -325,6 +339,7 @@
     "19c912d08b4526a3f4d7368ce3020a6c8cdaec6385731a077b045e26ff988a2d",
     "1a07f680b9e15ddedcb8deeda18fdf81f562a63c45b842243e7e7c0a8b973e00",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1c1a6cead95d42b52f3b11243b70a2f83e9421f484c9fbdb34ebd76e79ba3ab9",
     "1e851d473634add54733634ce8c231f7a90ef84a4ee92eda96c42b002fe408e6",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -446,6 +461,7 @@
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "ede09ef45ce346ebcc6bc31890f29d0a1e8de3b049bc8308b5e1b12b8f2b07b6",
     "f1a06f440505388e7abff90bf34648377641a8d24a749e3cde33761b84e057a3",
+    "f1a8d7de1ea98844e9064954fed122ecf1e6a7fd7f68b0a02698212542260a0d",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f41a8ff9b4c74652fc9e59786e1147471c865d28323be7754d55cbfd0205f677",
     "f4af3b603a4c08cab65a7c3987f8bc1ae736d07f70e6e3a03b25a5ace93a427b",
