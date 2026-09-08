@@ -1,9 +1,23 @@
 {
   "date": "2026-09-08",
   "verseKey": "daily:2026-09-08",
-  "updatedAt": 1788885842676,
+  "updatedAt": 1788886800944,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788886554216",
+      "text": "Amen",
+      "userDeviceId": "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+      "userName": "Jehochoua",
+      "verseName": "Sofonyas 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788886555553,
+      "updatedAt": 1788886555553,
+      "status": "active"
+    },
     {
       "id": "local-1788874585350",
       "text": "amén",
@@ -238,15 +252,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 132,
-  "shareCount": 182,
-  "viewCount": 626,
+  "likeCount": 134,
+  "shareCount": 187,
+  "viewCount": 634,
   "verseLikedBy": [
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
     "06aaeba9fdf98f48ff97dd102c64be78bdccd414e01bec9f11ec27041c514563",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "07ee404ab7593cd316b5203ffba0014430a5baf14a9ed2cb7c2400ea560e5066",
     "08246234c4e0db4e406e042fc9647e52ad80dd60f381f27aeb6b5461f83bd799",
+    "0a0c3e9714785831cb68afb254444f9fdfbc21a053d827e2992cb952f09c7845",
     "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
     "0b735588cdbc59c651467b5c35fe3072eb4e44c76f283bcda20b0ebaa997f9ef",
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
@@ -344,6 +359,7 @@
     "bd94497bb6ea4aaeba26aae4b392921b8d5237d0aebe2f4901cef2dbbe53cce2",
     "bedf1e48ee1af967a712d1b7e0eeec572db785bf11ddd661df090afabacc99de",
     "c498f8d6a982fd0451498c51b4dc933354c6331e34dd3f110679aceaf67fac04",
+    "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
     "cb3b461dddcd8b04b4569de811309f06d9ef0fdeebd13f9415f288504492e298",
     "ce33025d458f1cfb9ea1790cefa86e34412b54be77de8c61fee42615a99e57b9",
