@@ -1,9 +1,23 @@
 {
   "date": "2026-09-08",
   "verseKey": "daily:2026-09-08",
-  "updatedAt": 1788850840818,
+  "updatedAt": 1788851753461,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788851325937",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Sofonyas 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788851326983,
+      "updatedAt": 1788851326983,
+      "status": "active"
+    },
     {
       "id": "local-1788832846689",
       "text": "Alléluia",
@@ -180,9 +194,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
-  "shareCount": 68,
-  "viewCount": 304,
+  "likeCount": 71,
+  "shareCount": 69,
+  "viewCount": 311,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
@@ -230,6 +244,7 @@
     "af2ed8c23fcc348b00d98cc9e21c0a29277105f0af2d8a5f27ee8d7ae0794728",
     "b429ffa0332819acea8ca2e9293f4071bb5040e4474ac8953afb40edfe3deda7",
     "b74bc752e848956c2a16d74a8aa9e19e55659705192424387f250f2a000bcc69",
+    "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "ba8bd9ddbebf8eea68465d58f610a599b59d0d73fceca4992f298865ea1c49df",
     "bcbbcfd2de3341ddac137dbe5acaa3a522d10903c08e1811758b736e777615eb",
     "bd94497bb6ea4aaeba26aae4b392921b8d5237d0aebe2f4901cef2dbbe53cce2",
@@ -243,6 +258,7 @@
     "d68a993dfab11b8758b6d0848cb8a1d462e73d3c99a8ed1f6c7374857e3457d3",
     "d82bb0ab1ee2b3d5cf72328070c7c8f82cd1ff7cf1c1dd6f87d62d8b9ae9621c",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e26ed735ace253cef12f9ce7777532168c9328e27e7eeed27f759e1adb32beee",
     "e96d339a6d5e77678de21e089ce8ac4d1e673d3d8090c2e502c2ffef953e34f5",
     "e9f8c80f5c6835d644b668cbeb4c14f5dd5eb9dc601e731c1dcab79c48ca4abf",
