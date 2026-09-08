@@ -1,9 +1,23 @@
 {
   "date": "2026-09-08",
   "verseKey": "daily:2026-09-08",
-  "updatedAt": 1788839137345,
+  "updatedAt": 1788840001701,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788839938046",
+      "text": "Amen 🙏🏾",
+      "userDeviceId": "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
+      "userName": "Mickenson",
+      "verseName": "Sofonyas 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788839941028,
+      "updatedAt": 1788839941028,
+      "status": "active"
+    },
     {
       "id": "local-1788837852576",
       "text": "salut",
@@ -124,14 +138,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 53,
-  "shareCount": 50,
-  "viewCount": 202,
+  "likeCount": 56,
+  "shareCount": 53,
+  "viewCount": 210,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
     "0b735588cdbc59c651467b5c35fe3072eb4e44c76f283bcda20b0ebaa997f9ef",
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
+    "10cc46887233f513590bbf0ec0f3f59659f470c8743209fc4d0d667a8b3be228",
     "16ccd6fdfabd7d5a396c39dd35fc6a67ebc3f4a8afa0f7e7280994bc423f2f69",
     "19c912d08b4526a3f4d7368ce3020a6c8cdaec6385731a077b045e26ff988a2d",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
@@ -167,6 +182,7 @@
     "af2ed8c23fcc348b00d98cc9e21c0a29277105f0af2d8a5f27ee8d7ae0794728",
     "b429ffa0332819acea8ca2e9293f4071bb5040e4474ac8953afb40edfe3deda7",
     "b74bc752e848956c2a16d74a8aa9e19e55659705192424387f250f2a000bcc69",
+    "bcbbcfd2de3341ddac137dbe5acaa3a522d10903c08e1811758b736e777615eb",
     "bd94497bb6ea4aaeba26aae4b392921b8d5237d0aebe2f4901cef2dbbe53cce2",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
     "cb3b461dddcd8b04b4569de811309f06d9ef0fdeebd13f9415f288504492e298",
@@ -180,6 +196,7 @@
     "e26ed735ace253cef12f9ce7777532168c9328e27e7eeed27f759e1adb32beee",
     "e96d339a6d5e77678de21e089ce8ac4d1e673d3d8090c2e502c2ffef953e34f5",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
+    "f1a06f440505388e7abff90bf34648377641a8d24a749e3cde33761b84e057a3",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85"
   ],
   "verseViewBy": []
