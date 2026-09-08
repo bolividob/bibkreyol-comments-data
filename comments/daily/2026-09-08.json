@@ -1,12 +1,34 @@
 {
   "date": "2026-09-08",
   "verseKey": "daily:2026-09-08",
-  "updatedAt": 1788825603737,
+  "updatedAt": 1788826518705,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 54,
-  "verseLikedBy": [],
+  "comments": [
+    {
+      "id": "local-1788825927024",
+      "text": "mwen  kontan",
+      "userDeviceId": "4c11c149ca8ef2c71674b3e1cfd29415b9b2db996ed218e5572d25a7e25ddb9f",
+      "userName": "anaïca joseph",
+      "verseName": "Sofonyas 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "4c11c149ca8ef2c71674b3e1cfd29415b9b2db996ed218e5572d25a7e25ddb9f"
+      ],
+      "createdAt": 1788825928114,
+      "updatedAt": 1788825937864,
+      "status": "active"
+    }
+  ],
+  "likeCount": 4,
+  "shareCount": 1,
+  "viewCount": 62,
+  "verseLikedBy": [
+    "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "0a8e01b6d8ff022953dea58f4fa072f86efb3bae726fd9b2383affa7788a2c92",
+    "4c11c149ca8ef2c71674b3e1cfd29415b9b2db996ed218e5572d25a7e25ddb9f",
+    "5e6286d98ac3a85cb64e916b2b7de664c616fafd790caee0c1f316d8312b4c7c"
+  ],
   "verseViewBy": []
 }
