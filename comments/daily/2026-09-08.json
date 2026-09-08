@@ -1,9 +1,23 @@
 {
   "date": "2026-09-08",
   "verseKey": "daily:2026-09-08",
-  "updatedAt": 1788899402364,
+  "updatedAt": 1788900244932,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788899988277",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Sofonyas 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788899988614,
+      "updatedAt": 1788899988614,
+      "status": "active"
+    },
     {
       "id": "local-1788886554216",
       "text": "Amen",
@@ -252,9 +266,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 149,
+  "likeCount": 152,
   "shareCount": 207,
-  "viewCount": 748,
+  "viewCount": 756,
   "verseLikedBy": [
     "02ab951c1b25aba1137fc40bf91e6bfabaa8585c6289f073e943f557b9ea5a94",
     "0442e1f4d176fa3db1334133c8df4f7c18967f01adf4f587ec99b01e5d6f9b31",
@@ -262,6 +276,7 @@
     "052a13604622ab172942b779c54628975dc3d661d9ba30aa28a0e4c27488d5d2",
     "06aaeba9fdf98f48ff97dd102c64be78bdccd414e01bec9f11ec27041c514563",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "077a7486a29fa20a00e25618348d56b46bfd1c7224e8a555068e4b0715ae8ffb",
     "07ee404ab7593cd316b5203ffba0014430a5baf14a9ed2cb7c2400ea560e5066",
     "08246234c4e0db4e406e042fc9647e52ad80dd60f381f27aeb6b5461f83bd799",
     "0a0c3e9714785831cb68afb254444f9fdfbc21a053d827e2992cb952f09c7845",
@@ -303,6 +318,7 @@
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3e59c03526982620aff31ca57f2b7ce9affdac57342524d43373b04e70f8fe33",
+    "42bde63691a1769fab29e654389c391dd75d10f88d405eb2643d074367324269",
     "433df39e8d74a713b2563afb1b1b8c8c7d798e73e58516698dc4a8847122792e",
     "45c87ea5760e5585951d76bca408f4c3e3fc93392635b3cda08917d64f5c1193",
     "465efd973078591038d5394b0901e81710f1d2a3c9f0e62c790ef55d68e7a906",
@@ -321,6 +337,7 @@
     "6365245c9d9fa19ca381f536bd5a68cb7279df89bc29705be9883ddb1e314427",
     "67e5d25aa9430f16fc474789eb70eee2256b4950d962297cf2f2624fc575961f",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6f915f255fdcca5b519fff399c0e2f572f9bd1d5e8833600f7146dbb89ae2c37",
     "70f823ac6919463fcdaf1a150891ba7702331f4063d36447daf8cf65fcc1e7c5",
     "728640afbce16df2917df8dfb42c7036c0b7e78eaf6942a817c4801a11de6151",
