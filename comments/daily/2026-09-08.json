@@ -1,9 +1,23 @@
 {
   "date": "2026-09-08",
   "verseKey": "daily:2026-09-08",
-  "updatedAt": 1788867002081,
+  "updatedAt": 1788867922083,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788867751397",
+      "text": "amen 🙏",
+      "userDeviceId": "4580e17f14bb51d3cc17595796f16b1243e702549c1097b80be09bec1aec5c88",
+      "userName": "Sr Nico",
+      "verseName": "Egzòd 14:18",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788867784231,
+      "updatedAt": 1788867784231,
+      "status": "active"
+    },
     {
       "id": "local-1788862881880",
       "text": "Aleluia Jesus ka fè tut bagay",
@@ -210,9 +224,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 124,
-  "viewCount": 447,
+  "likeCount": 94,
+  "shareCount": 128,
+  "viewCount": 455,
   "verseLikedBy": [
     "06aaeba9fdf98f48ff97dd102c64be78bdccd414e01bec9f11ec27041c514563",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -248,6 +262,7 @@
     "47a3b1e794903899f6565e25dfb21f747499420cd9f483b335ebae5f4c6af0d0",
     "4a93eb89d71d94b14e27283cd116b469ffc7489d57f77bcbe7473b8bc57e2b7d",
     "4c11c149ca8ef2c71674b3e1cfd29415b9b2db996ed218e5572d25a7e25ddb9f",
+    "4c5f911bb4519adc1f10c9847666ede20d9c1786492faba7e0aec2b9dc9f7bd5",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "527934b2a1fcb55746165fe4a1f2e92a6fdc990df28ddd97606a3c4cdaa14dc6",
     "589ae48acc7e3fa94f7e2b962305aaa322c825a2f73afb92f6764aca79bc7bdb",
@@ -290,6 +305,7 @@
     "d1d05c201f29c3da66666133878e6400df9cf10a2af8614cb5944d911c941c8c",
     "d1d796f684e210407fab83375d9ffe7f99e1fa89eac99b584a0be4ca3398b67a",
     "d2fd27ed44a8e4cad455e68984d9eb0bb5c0c763bdaccac118b2af8c9ee69789",
+    "d66e4ac15b8236a136b26cc98239ad3ea3979747c695bbcf344cb18acbec7d9d",
     "d68a993dfab11b8758b6d0848cb8a1d462e73d3c99a8ed1f6c7374857e3457d3",
     "d82bb0ab1ee2b3d5cf72328070c7c8f82cd1ff7cf1c1dd6f87d62d8b9ae9621c",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
