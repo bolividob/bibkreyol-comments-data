@@ -1,9 +1,39 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788959706035,
+  "updatedAt": 1788960602979,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788960059157",
+      "text": "amèn",
+      "userDeviceId": "143b888c2ca7b392b93ae0a4d7235e492fccf1ed4aedc1a150b414a24216f0d1",
+      "userName": "djoumay 👀⚽🎖️💯♥️🫡🤜🤛",
+      "verseName": "1 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "143b888c2ca7b392b93ae0a4d7235e492fccf1ed4aedc1a150b414a24216f0d1"
+      ],
+      "createdAt": 1788960062245,
+      "updatedAt": 1788960277773,
+      "status": "active"
+    },
+    {
+      "id": "local-1788960042350",
+      "text": "amèn wi",
+      "userDeviceId": "143b888c2ca7b392b93ae0a4d7235e492fccf1ed4aedc1a150b414a24216f0d1",
+      "userName": "djoumay 👀⚽🎖️💯♥️🫡🤜🤛",
+      "verseName": "1 Piè 2:3",
+      "parentId": "local-1788925262350",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788960047690,
+      "updatedAt": 1788960277773,
+      "status": "active"
+    },
     {
       "id": "local-1788958043074",
       "text": "Jezi ou bon vre pou toutan",
@@ -125,11 +155,11 @@
       "userName": "Jesus",
       "verseName": "1 Piè 2:3",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1788925264250,
-      "updatedAt": 1788925264250,
+      "updatedAt": 1788960047690,
       "status": "active"
     },
     {
@@ -266,9 +296,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 99,
-  "shareCount": 177,
-  "viewCount": 492,
+  "likeCount": 103,
+  "shareCount": 180,
+  "viewCount": 501,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "0063193639b1ab750abede5d96a69a0917de8c31e110b904eaa106c724140ba8",
@@ -279,6 +309,7 @@
     "0a8734f9059fe80aa651d5b7f90445bd88d91b54fd37a43b066d82cad60801e7",
     "10dbaa4708661480a3e78fc160d469b7e17487e4ed39e66cc32a2e0b535d79fa",
     "12deb4a04bdaa3f2cb07411e208e1dd86a55cad2349a9d2241fdf0f43aceff65",
+    "143b888c2ca7b392b93ae0a4d7235e492fccf1ed4aedc1a150b414a24216f0d1",
     "19f2074989a96f5a04418fc3a8258cd77d55800e643cb310cf1a241ab2c30b66",
     "1b71faead0483b1e9af0809a96dd1bf058cec452040ad75cdb59558d13c95783",
     "1e3c057d2867308258900deb70d70c398593c06a2187fb9877580cfff3a49da5",
@@ -291,6 +322,7 @@
     "284ecf87f3fcc3a0a0af9993126599e5f04c258656fc3ba8687422b47c41370b",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
+    "3026499f47735239b6a70cb9d9f1db710d48e275b6ff288895897a2abc1afc6b",
     "32fc8595fdd3e46838ec65376ca0c544b399104c8b8531b84ab6e31956791c19",
     "33dfdbeb8f82cbe21f5e44b76e09a0a5388b9fae9464191edcd6ddc32dfb6479",
     "3412a6e45f4ae2d274437a642c4c48f0e6ccf731dfdf6454319281c92fdc9b86",
@@ -329,6 +361,7 @@
     "8d8235eb122638b56942f871eaf71b1802624b3ceea6102d09808317829d0a6f",
     "8ff15b27467f74eca213b90b9f2b300197c84a3bd293147b82456a8d23f126bd",
     "940bf24cae95de5df6a197e4b706707fbe2041039c26cd66803a61e85840a2aa",
+    "949f12d84c6a89601b0e01c2b23c17d71e91ceb60dcc96f2aac8b693856aa943",
     "94afcc32d2c4220e95a9f794fcbd036d6a915f28a8e7704abd4eb4d33e7dc62d",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
@@ -342,6 +375,7 @@
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "ba5fa1ad14a41f597467ec3aa102be3ee99c82cce23b9026a4f6c3097ad7e172",
     "ba6f88972035ae9d06f0545bbdf102e2d818cad67a40756d4b87807e372601cd",
+    "be0443c1edb008322cdd4e33c2c97f65a5cf36eb1f94a94692ee4016e1ffc838",
     "c2376e883fad53c33954cf55e53b975748b0fd4ebc4316b72d1f5e7e7cbb30ce",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
