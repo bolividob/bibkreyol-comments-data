@@ -1,9 +1,23 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788916441290,
+  "updatedAt": 1788917411551,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788916734762",
+      "text": "amen",
+      "userDeviceId": "57d99059d49d3edaafe06d194439a82462080b2c6470215bd41a097a0b0272a0",
+      "userName": "Talita koumi",
+      "verseName": "1 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788917122236,
+      "updatedAt": 1788917122236,
+      "status": "active"
+    },
     {
       "id": "local-1788915433644",
       "text": "mèsi anpil Bondye papa Pou grasw ak favè ou senyè 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -107,9 +121,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 21,
-  "shareCount": 21,
-  "viewCount": 92,
+  "likeCount": 22,
+  "shareCount": 23,
+  "viewCount": 105,
   "verseLikedBy": [
     "0818c5cccd32f7cb1af2e61b5227698f6b78c406c76e514fd23f13d34f5d7ab3",
     "1b71faead0483b1e9af0809a96dd1bf058cec452040ad75cdb59558d13c95783",
@@ -129,6 +143,7 @@
     "cd5b646770c7e07025d6cebf415dbeae6c75300b66e01094a7ae0736dfaafbba",
     "d1ac7c98afa72107f2dcfe2359cb5c2446438305cb5f002af2af156ce34595d5",
     "d7a2f59dba44ec9ff627667f423479c4bde746ef10bd4e1717dec3c0264a95e9",
+    "e4b21e83c98a0ce9ca6bd7abf6fc529c2996d807929a91208e27f5ffe1765991",
     "eea503a525d6c50275c63fbc0b00e8453ea5d997d2264cef6bf73917ee3634f8",
     "f99c8c2e1ff5dad656d0205e5ace6a0ccacc97301da0acc89769813586bfad17",
     "f9db96709e3ec7fea73f6c5b22863314ca447488cada942f5eb6911d86d962f7"
