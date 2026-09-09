@@ -1,9 +1,23 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788918245389,
+  "updatedAt": 1788919201358,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788917468105",
+      "text": "Amen",
+      "userDeviceId": "04372cb242b6e227e49c1a7650e307f9a81261f7df054d5c8561dfaec077e25a",
+      "userName": "meme",
+      "verseName": "1 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788918813949,
+      "updatedAt": 1788918813949,
+      "status": "active"
+    },
     {
       "id": "local-1788916734762",
       "text": "amen",
@@ -121,13 +135,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 24,
-  "shareCount": 25,
-  "viewCount": 116,
+  "likeCount": 28,
+  "shareCount": 30,
+  "viewCount": 126,
   "verseLikedBy": [
+    "02257afbdbf6a1e314d8f731cdc88c13839c73b6d7b90f1542951ace6a842a05",
     "0818c5cccd32f7cb1af2e61b5227698f6b78c406c76e514fd23f13d34f5d7ab3",
+    "19f2074989a96f5a04418fc3a8258cd77d55800e643cb310cf1a241ab2c30b66",
     "1b71faead0483b1e9af0809a96dd1bf058cec452040ad75cdb59558d13c95783",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "27f59318c88c8e4edb06f9ee153ea228e63f0b1ea8c873c6beba6fe642017b0b",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "32fc8595fdd3e46838ec65376ca0c544b399104c8b8531b84ab6e31956791c19",
     "3d57c98dacda003d956af6fa4c3ab185994d1c5fef3abfe7618e29d97f0d96a1",
@@ -135,6 +152,7 @@
     "4a56d4334dc14e020ff4d4a92f3c46e790ffcb9b95c00ccc8548d676b0f65a7e",
     "4b408a28be1011629d2bd0558d9e2950bd27c805620429a9ee135af86b10e569",
     "5f1459c96c34e4d25ed938cc0a72cec47656c2718b3ace7945436d124359b696",
+    "82ded9ec55084e1f2d4f4b786c9e5664a31929a395e457b6e727996b6ba4d267",
     "8c981d5d8e2e216430fdafe2d2d6ff539896b13be65b524ef35f7b2564e12b96",
     "8ff15b27467f74eca213b90b9f2b300197c84a3bd293147b82456a8d23f126bd",
     "94afcc32d2c4220e95a9f794fcbd036d6a915f28a8e7704abd4eb4d33e7dc62d",
