@@ -1,9 +1,23 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788948847369,
+  "updatedAt": 1788949810839,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788949513032",
+      "text": "amén",
+      "userDeviceId": "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
+      "userName": "justeeliamenne@gmail.com",
+      "verseName": "1 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788949523323,
+      "updatedAt": 1788949523323,
+      "status": "active"
+    },
     {
       "id": "local-1788936654002",
       "text": "Amén y amén amén",
@@ -193,9 +207,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 75,
-  "shareCount": 91,
-  "viewCount": 392,
+  "likeCount": 77,
+  "shareCount": 94,
+  "viewCount": 400,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "0063193639b1ab750abede5d96a69a0917de8c31e110b904eaa106c724140ba8",
@@ -249,6 +263,7 @@
     "b165b5f9c7af5b2744e77d76f7497cbc1ed1ce3df1c3dbcf3760527e3a9ad4ef",
     "b5e17e35b480a7f3fd5ad61cbcd00f662a053233fd9989ae8d8e7afa78567c43",
     "b7d4d1d18a6f6d2448c1c31afca037f76cf7f26de808e375abdd6f63c155429d",
+    "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "ba6f88972035ae9d06f0545bbdf102e2d818cad67a40756d4b87807e372601cd",
     "c2376e883fad53c33954cf55e53b975748b0fd4ebc4316b72d1f5e7e7cbb30ce",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
@@ -257,6 +272,7 @@
     "cd5b646770c7e07025d6cebf415dbeae6c75300b66e01094a7ae0736dfaafbba",
     "d1ac7c98afa72107f2dcfe2359cb5c2446438305cb5f002af2af156ce34595d5",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
+    "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d5d52282470e3c7957dee3f330e528618cfb67f76153d2c872d8d72b71e33b36",
     "d7a2f59dba44ec9ff627667f423479c4bde746ef10bd4e1717dec3c0264a95e9",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
