@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788963248554,
+  "updatedAt": 1788964229296,
   "version": 1,
   "comments": [
     {
@@ -70,12 +70,13 @@
       "verseName": "1 Piè 2:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "2ef91d402e105d6e6368f5c61a9240c506efee8a5e217ee140367f3703c6f6d9",
         "53c5b846e4c475d34598853371141e873db1175c06067e9f6b2fccd50f053956"
       ],
       "createdAt": 1788951506391,
-      "updatedAt": 1788951534655,
+      "updatedAt": 1788964151883,
       "status": "active"
     },
     {
@@ -296,9 +297,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 111,
-  "shareCount": 183,
-  "viewCount": 527,
+  "likeCount": 112,
+  "shareCount": 185,
+  "viewCount": 537,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "0063193639b1ab750abede5d96a69a0917de8c31e110b904eaa106c724140ba8",
@@ -385,6 +386,7 @@
     "be0443c1edb008322cdd4e33c2c97f65a5cf36eb1f94a94692ee4016e1ffc838",
     "c2376e883fad53c33954cf55e53b975748b0fd4ebc4316b72d1f5e7e7cbb30ce",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
+    "c6738bf0c481269748ceebf2b268563d392737b5eca419b112034b5b45189fbd",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c997c233a8926c83a6851e42354f4bbf6470b721f2cda59082586582c395678f",
     "cd5b646770c7e07025d6cebf415dbeae6c75300b66e01094a7ae0736dfaafbba",
