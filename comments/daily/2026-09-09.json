@@ -1,9 +1,23 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788925493136,
+  "updatedAt": 1788926405918,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788925993891",
+      "text": "Amén 🙏",
+      "userDeviceId": "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+      "userName": "Amén amén eh amén",
+      "verseName": "1 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788925996475,
+      "updatedAt": 1788925996475,
+      "status": "active"
+    },
     {
       "id": "local-1788925490343",
       "text": "tout glwa Pou bondye",
@@ -165,9 +179,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 51,
-  "viewCount": 189,
+  "likeCount": 58,
+  "shareCount": 52,
+  "viewCount": 197,
   "verseLikedBy": [
     "0063193639b1ab750abede5d96a69a0917de8c31e110b904eaa106c724140ba8",
     "02257afbdbf6a1e314d8f731cdc88c13839c73b6d7b90f1542951ace6a842a05",
@@ -206,10 +220,14 @@
     "8ff15b27467f74eca213b90b9f2b300197c84a3bd293147b82456a8d23f126bd",
     "94afcc32d2c4220e95a9f794fcbd036d6a915f28a8e7704abd4eb4d33e7dc62d",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
+    "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "b165b5f9c7af5b2744e77d76f7497cbc1ed1ce3df1c3dbcf3760527e3a9ad4ef",
     "b5e17e35b480a7f3fd5ad61cbcd00f662a053233fd9989ae8d8e7afa78567c43",
     "b7d4d1d18a6f6d2448c1c31afca037f76cf7f26de808e375abdd6f63c155429d",
+    "ba6f88972035ae9d06f0545bbdf102e2d818cad67a40756d4b87807e372601cd",
+    "c2376e883fad53c33954cf55e53b975748b0fd4ebc4316b72d1f5e7e7cbb30ce",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
+    "c997c233a8926c83a6851e42354f4bbf6470b721f2cda59082586582c395678f",
     "cd5b646770c7e07025d6cebf415dbeae6c75300b66e01094a7ae0736dfaafbba",
     "d1ac7c98afa72107f2dcfe2359cb5c2446438305cb5f002af2af156ce34595d5",
     "d25b6609d69496335fcdf9a3f6cb61df459083ec01ca5f4f6782d500c55b33be",
