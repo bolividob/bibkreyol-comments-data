@@ -1,14 +1,48 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788912013749,
+  "updatedAt": 1788912865992,
   "version": 1,
-  "comments": [],
-  "likeCount": 1,
-  "shareCount": 0,
-  "viewCount": 46,
+  "comments": [
+    {
+      "id": "local-1788912814912",
+      "text": "tout glwa pou Bondye",
+      "userDeviceId": "5379dc7c24b806ecc93c8721a70cf4c50246f4639b74e1e6ceb4e95fbf526a78",
+      "userName": "1994",
+      "verseName": "Sofonyas 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788912817584,
+      "updatedAt": 1788912817584,
+      "status": "active"
+    },
+    {
+      "id": "local-1788912357528",
+      "text": "amén",
+      "userDeviceId": "1b71faead0483b1e9af0809a96dd1bf058cec452040ad75cdb59558d13c95783",
+      "userName": "fridliene morilein",
+      "verseName": "1 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788912359867,
+      "updatedAt": 1788912359867,
+      "status": "active"
+    }
+  ],
+  "likeCount": 6,
+  "shareCount": 1,
+  "viewCount": 55,
   "verseLikedBy": [
-    "3d699e31ac5c0d15ee31d806e6a9193fbbdfc2cb8972981f7c8ab4e5c0b9e112"
+    "1b71faead0483b1e9af0809a96dd1bf058cec452040ad75cdb59558d13c95783",
+    "3d699e31ac5c0d15ee31d806e6a9193fbbdfc2cb8972981f7c8ab4e5c0b9e112",
+    "4a56d4334dc14e020ff4d4a92f3c46e790ffcb9b95c00ccc8548d676b0f65a7e",
+    "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
+    "d7a2f59dba44ec9ff627667f423479c4bde746ef10bd4e1717dec3c0264a95e9",
+    "f99c8c2e1ff5dad656d0205e5ace6a0ccacc97301da0acc89769813586bfad17"
   ],
   "verseViewBy": []
 }
