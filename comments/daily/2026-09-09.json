@@ -1,9 +1,23 @@
 {
   "date": "2026-09-09",
   "verseKey": "daily:2026-09-09",
-  "updatedAt": 1788987603756,
+  "updatedAt": 1788988442134,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1788988306013",
+      "text": "amen",
+      "userDeviceId": "207b27f022d390bbf6d36b4699691e388dac89d6a0b798a4faad4436aac28af6",
+      "userName": "sè Lambert",
+      "verseName": "1 Piè 2:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1788988309329,
+      "updatedAt": 1788988309329,
+      "status": "active"
+    },
     {
       "id": "local-1788973557085",
       "text": "Amén 3fois",
@@ -325,9 +339,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 137,
-  "shareCount": 229,
-  "viewCount": 749,
+  "likeCount": 139,
+  "shareCount": 232,
+  "viewCount": 756,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "0063193639b1ab750abede5d96a69a0917de8c31e110b904eaa106c724140ba8",
@@ -350,6 +364,7 @@
     "1e3c057d2867308258900deb70d70c398593c06a2187fb9877580cfff3a49da5",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
+    "207b27f022d390bbf6d36b4699691e388dac89d6a0b798a4faad4436aac28af6",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "21291fa9eab297b6b5f6c479628c5e588599d4e425d6018e0dd759da1fef676b",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -459,6 +474,7 @@
     "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f3be6be3f9cebeda7596c9fa99492e4e4d8dfe8f1456e9961c5e46e9c715bceb",
+    "f4eeb6bf4b01f686f6ba77f339af370173f6a5488648b0445587a80122194150",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f8a5323f51d7683ebc387fa911fb267f2824b0a5b681598992d055d18d8c2532",
     "f8aef83365617119ebff469d2775eb02cf2796c102832164fd0550cca257f87d",
