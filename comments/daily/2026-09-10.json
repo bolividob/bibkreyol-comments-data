@@ -1,9 +1,37 @@
 {
   "date": "2026-09-10",
   "verseKey": "daily:2026-09-10",
-  "updatedAt": 1789054201073,
+  "updatedAt": 1789055041507,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789054682919",
+      "text": "amén",
+      "userDeviceId": "48ec9f68fd4b7fa40e004f02911516939c65268cb1fa4baa3f80bc1aa7c66567",
+      "userName": "Feliz",
+      "verseName": "2 Samyèl 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789054899007,
+      "updatedAt": 1789054899007,
+      "status": "active"
+    },
+    {
+      "id": "local-1789054438265",
+      "text": "Amen amen",
+      "userDeviceId": "4f773925fe3c77c91edb7189d18d0ce6a27d026afd99c3b4c8f4996f45826d98",
+      "userName": "sr ismela dorcely",
+      "verseName": "2 Samyèl 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789054439304,
+      "updatedAt": 1789054439304,
+      "status": "active"
+    },
     {
       "id": "local-1789052478710",
       "text": "bib",
@@ -209,9 +237,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 111,
-  "shareCount": 140,
-  "viewCount": 580,
+  "likeCount": 112,
+  "shareCount": 142,
+  "viewCount": 589,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "03746efb86046bb74ea48fc764e901980a46a978bddeb1eebba094256e541cae",
@@ -313,6 +341,7 @@
     "de1547d36d4bc30d8d563b2f830e41f6e5f1c5a71885523153deb50c879b8074",
     "de9ad1d1fb0f3415bba88db8700052de8cd5663aae963986ae8c76c7ca17aefb",
     "df3979bc2a6fe6d687d52daedea509c6968c16c4128f1989a726b97fa957cd47",
+    "e01a483864092e0d8589b94e2b1ac9ea0ee3ff36e5178ed90247afb8eb7b70e8",
     "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e5f1d84dee6ea1ec80aa08abc246eeb6150461bc31d71f43029611b731cac3db",
