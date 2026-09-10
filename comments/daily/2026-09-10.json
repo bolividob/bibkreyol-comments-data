@@ -1,9 +1,23 @@
 {
   "date": "2026-09-10",
   "verseKey": "daily:2026-09-10",
-  "updatedAt": 1789056016324,
+  "updatedAt": 1789056960813,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789056949395",
+      "text": "tout glwa sepou ou yawe🙏🙏🙏",
+      "userDeviceId": "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
+      "userName": "sr youvencia",
+      "verseName": "2 Samyèl 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789056951302,
+      "updatedAt": 1789056951302,
+      "status": "active"
+    },
     {
       "id": "local-1789054682919",
       "text": "amén",
@@ -12,10 +26,12 @@
       "verseName": "2 Samyèl 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "38a3b7a243a272df24ff357424f9c9e7f611df846fc8114bd51dad749a7bca40"
+      ],
       "createdAt": 1789054899007,
-      "updatedAt": 1789054899007,
+      "updatedAt": 1789056130194,
       "status": "active"
     },
     {
@@ -43,7 +59,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1789052480015,
-      "updatedAt": 1789052480015,
+      "updatedAt": 1789056184625,
       "status": "active"
     },
     {
@@ -237,12 +253,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 114,
-  "shareCount": 143,
-  "viewCount": 598,
+  "likeCount": 119,
+  "shareCount": 144,
+  "viewCount": 607,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "03746efb86046bb74ea48fc764e901980a46a978bddeb1eebba094256e541cae",
+    "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
     "056e648fabd919f8e11f90b9c7b1607e5edc71549e3f8c1025d1bd0c40b0564c",
     "06ea02db6dc3419d8dc959c99f2059dfa8768e11bfc633eaa5c3be93d6d16bde",
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
@@ -275,6 +292,7 @@
     "3295d77abdd111a9272c607fa384cfea05f9551665cc2c096f43cb584e6d4a82",
     "36d22305df6072f1455fef9e6ae59368df25b6c4959777debedf28c11f465add",
     "3808d12c180763689526f2bdb3f3fc0e64253e6638b92e989425c44685324528",
+    "38a3b7a243a272df24ff357424f9c9e7f611df846fc8114bd51dad749a7bca40",
     "3acdd7d3ff3477babd90ffb9a6bba8a68923946ca1da1422c5a2422487a12de4",
     "41b23254bb648306787d5d76bc33cfe5d7bc6dbb48c6428adf5fd4735ac51222",
     "424f10d203be08c73981bcfec43fb9885dbb02b0f8c49af496fa6ab673d2cc62",
@@ -311,6 +329,7 @@
     "89fc2b06b3500747f409ede3412ebcd1e6f2efdf91391d7c2a882d2420f7f17f",
     "8a52dfcf639f773e59438dd7a7b07f2fe8b0761cfc5d47dc553cd8284b947bb0",
     "91f25419c2316b45847cfbf4464a4614ceac506ccaa4fa564b7ec4e838bb122c",
+    "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
     "9a9fd7e86725077ebd36c1d9e095b0da72aafe6b239de52de5fbf55ec799c1a6",
@@ -323,6 +342,7 @@
     "a3322b3bbea53b2dc5ebe12c39eb4a1212fa96d96010648457a62a017d068395",
     "a3d3cfd326b61b9d05086ed03cd2e1ef8a00b4e720bbc24c530bf58b33bd6362",
     "a49f18d65ff34a6e28b0d7bac0131abae5658a4c56b61120054dcdf80b854496",
+    "a4bc8bebfed2deb366739633b0a4f297f30b39dcc4db6f4249c8ea60d73c6360",
     "a820fa84e235b78f4dec2a806b0035889a10649dc66a8eb493083279f3f24fb3",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "b14c5adcf7542788b88a0126ed1f04636f524240f6f4bf7d95c150a07db9371a",
@@ -339,6 +359,7 @@
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
     "ce5d783db7546004124948b2f124feec2d6d0ffb5782160422c09c5aa8b56ca2",
     "d7054ecc4c767c4dfa94d57dd8e85042eaf1cad1e3bd7857649069e7f46c0029",
+    "d8f03e37917e4da7254411a3591504801c1379bce869a5a5a1e4a6cf0b3c3a77",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "de1547d36d4bc30d8d563b2f830e41f6e5f1c5a71885523153deb50c879b8074",
     "de9ad1d1fb0f3415bba88db8700052de8cd5663aae963986ae8c76c7ca17aefb",
