@@ -1,9 +1,23 @@
 {
   "date": "2026-09-10",
   "verseKey": "daily:2026-09-10",
-  "updatedAt": 1789006560960,
+  "updatedAt": 1789007403190,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789007038096",
+      "text": "mèsi papá non pam se Leonne",
+      "userDeviceId": "cf2089eff6e7dbfd8499d32b6305b15944a23b81395166914898e257b48c1a9f",
+      "userName": "Mėsi Jezi pougras ou mèt",
+      "verseName": "2 Samyèl 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789007049869,
+      "updatedAt": 1789007049869,
+      "status": "active"
+    },
     {
       "id": "local-1789005496393",
       "text": "mw resevwa l deja wi",
@@ -49,9 +63,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 35,
-  "shareCount": 22,
-  "viewCount": 140,
+  "likeCount": 37,
+  "shareCount": 25,
+  "viewCount": 150,
   "verseLikedBy": [
     "06ea02db6dc3419d8dc959c99f2059dfa8768e11bfc633eaa5c3be93d6d16bde",
     "0cc896e187b14dfa813f64556e11b8c50814a46b52bebb894f94d04a67c0f55b",
@@ -69,6 +83,7 @@
     "5b78616a7a24adfe03e59cae5c4aabc37b6da3bc0f53a9fb7947ed4ba48c5ad4",
     "5ea217815a2154e4ce4e087443cc3959334fbdbed6620f4ae0e35abe0b4d394a",
     "61bdd2fb0aed2ff838789a246cfa99b1af1cd9b82f5c7ff2beea48080efcffc3",
+    "6838aa37014c8514c8c07a6de2bb3a0f7d7bdaf254134a68d09acde1b6557c1b",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
     "7351d1a1b33b355d9a339c6aaf80b5f2e584696a5fb93e2f587e306236916626",
     "7a9b24623c0a1bf8aeb88bdb1f3c1cd7db00ef7be2bff5cfca9c38bff2f5943a",
@@ -87,7 +102,8 @@
     "de9ad1d1fb0f3415bba88db8700052de8cd5663aae963986ae8c76c7ca17aefb",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "f17d1a328f9261a20d8961eca3478552819028475220968da36760e5a69c3a87",
-    "f99c8c2e1ff5dad656d0205e5ace6a0ccacc97301da0acc89769813586bfad17"
+    "f99c8c2e1ff5dad656d0205e5ace6a0ccacc97301da0acc89769813586bfad17",
+    "fd14c49285486652f312db9eacb61fd806bd3b16984710845d7f2973382231b2"
   ],
   "verseViewBy": []
 }
