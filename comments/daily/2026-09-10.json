@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "verseKey": "daily:2026-09-10",
-  "updatedAt": 1789066857238,
+  "updatedAt": 1789067671006,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "2 Samyèl 11:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e62aae072d56c6e7191ecd62c9a9569393164e8e0403a10fa3124c154d64c1d0"
+      ],
       "createdAt": 1789056985049,
-      "updatedAt": 1789056985049,
+      "updatedAt": 1789067671006,
       "status": "active"
     },
     {
@@ -281,9 +283,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 133,
-  "shareCount": 158,
-  "viewCount": 702,
+  "likeCount": 134,
+  "shareCount": 160,
+  "viewCount": 709,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "03746efb86046bb74ea48fc764e901980a46a978bddeb1eebba094256e541cae",
@@ -356,6 +358,7 @@
     "81383f50e7695af2d4450727f7341b7fef790e8deea1b558ddc130024fcc7514",
     "8210dfcaacf1613e91c85dd6cbd760b7639f2a0506ab0d9d4261f4162f880e07",
     "823eee59a5ce32fc2ccf1cdb00d0d82f49271b1ed1a44e0d9770053802d61c5a",
+    "824cf4b491fd580bbda8146eed60c465d6346675b6d559725c4d49b724d4a9b8",
     "8265a7da0bbe8af7e4e1552bd4c88a6848c5bf6ab421f06cfe894c6675b191c2",
     "840a694d6e3565e4b80ce12ac25cff98330872411347446382010f362d549913",
     "846acc3d75ce6cfeef4c1a9277186a3397743350f57e14d4d96c8974e75d84da",
