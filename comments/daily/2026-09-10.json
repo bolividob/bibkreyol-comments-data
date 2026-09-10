@@ -1,9 +1,23 @@
 {
   "date": "2026-09-10",
   "verseKey": "daily:2026-09-10",
-  "updatedAt": 1789015443398,
+  "updatedAt": 1789016404544,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789015336842",
+      "text": "Amen",
+      "userDeviceId": "277f74344f97b7ae93ccfd1568d0bdabfc9637325f7e0234016ab766fd6bc563",
+      "userName": "chrismene Alfred",
+      "verseName": "2 Samyèl 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789015957066,
+      "updatedAt": 1789015957066,
+      "status": "active"
+    },
     {
       "id": "local-1789009068126",
       "text": "bondye béni nou",
@@ -97,13 +111,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 51,
-  "viewCount": 236,
+  "likeCount": 56,
+  "shareCount": 53,
+  "viewCount": 244,
   "verseLikedBy": [
     "03746efb86046bb74ea48fc764e901980a46a978bddeb1eebba094256e541cae",
     "056e648fabd919f8e11f90b9c7b1607e5edc71549e3f8c1025d1bd0c40b0564c",
     "06ea02db6dc3419d8dc959c99f2059dfa8768e11bfc633eaa5c3be93d6d16bde",
+    "0ae040c9cd32e7a923566aec88116f50d2a7921d24e0d2b5b1e537d570a962f0",
     "0cc896e187b14dfa813f64556e11b8c50814a46b52bebb894f94d04a67c0f55b",
     "13904319144b85358b01ec4370abf2a915c4e9a53c47c9e52428e2eef794f08f",
     "1755ab0aee2d17d0b1a489a93709d685d0d498b4caf9686265ae7e7882454e5d",
