@@ -1,9 +1,23 @@
 {
   "date": "2026-09-10",
   "verseKey": "daily:2026-09-10",
-  "updatedAt": 1789056960813,
+  "updatedAt": 1789057801929,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789056983064",
+      "text": "amèn",
+      "userDeviceId": "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
+      "userName": "sr youvencia",
+      "verseName": "2 Samyèl 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789056985049,
+      "updatedAt": 1789056985049,
+      "status": "active"
+    },
     {
       "id": "local-1789056949395",
       "text": "tout glwa sepou ou yawe🙏🙏🙏",
@@ -254,8 +268,8 @@
     }
   ],
   "likeCount": 119,
-  "shareCount": 144,
-  "viewCount": 607,
+  "shareCount": 146,
+  "viewCount": 617,
   "verseLikedBy": [
     "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "03746efb86046bb74ea48fc764e901980a46a978bddeb1eebba094256e541cae",
