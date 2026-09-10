@@ -1,9 +1,23 @@
 {
   "date": "2026-09-10",
   "verseKey": "daily:2026-09-10",
-  "updatedAt": 1789021829006,
+  "updatedAt": 1789022679529,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789022549559",
+      "text": "amen",
+      "userDeviceId": "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
+      "userName": "amen",
+      "verseName": "2 Samyèl 11:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789022551768,
+      "updatedAt": 1789022551768,
+      "status": "active"
+    },
     {
       "id": "local-1789019168303",
       "text": "Amen 🙏 🙏 🙏",
@@ -125,10 +139,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
+  "likeCount": 61,
   "shareCount": 58,
-  "viewCount": 289,
+  "viewCount": 296,
   "verseLikedBy": [
+    "0018d0500662f538f7ff1245cc921e18cb6f9600cc4506c4102555007153144e",
     "03746efb86046bb74ea48fc764e901980a46a978bddeb1eebba094256e541cae",
     "056e648fabd919f8e11f90b9c7b1607e5edc71549e3f8c1025d1bd0c40b0564c",
     "06ea02db6dc3419d8dc959c99f2059dfa8768e11bfc633eaa5c3be93d6d16bde",
