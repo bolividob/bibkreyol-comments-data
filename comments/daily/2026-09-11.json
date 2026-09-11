@@ -1,12 +1,17 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789084803152,
+  "updatedAt": 1789085719159,
   "version": 1,
   "comments": [],
-  "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 42,
-  "verseLikedBy": [],
+  "likeCount": 4,
+  "shareCount": 2,
+  "viewCount": 52,
+  "verseLikedBy": [
+    "569b9758d35c29a23b04e5905180ba6c8ced86b46968c256761fff6b23f506dc",
+    "6e8b496bbf4b9a41429fd20c8f4e724c4465b9a272b002db565979e3527259fa",
+    "993aabf5979eb86b5fecca5b7d0e79f9695b5f021778552fe180b1059a78a92d",
+    "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589"
+  ],
   "verseViewBy": []
 }
