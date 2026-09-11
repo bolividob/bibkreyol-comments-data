@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789130676765,
+  "updatedAt": 1789131482241,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Filemon 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a352a2d3e425bdfd84126315f95b8910e8b908bec42dd7047ef344f2b5ee4b16"
+      ],
       "createdAt": 1789128540794,
-      "updatedAt": 1789128540794,
+      "updatedAt": 1789131143305,
       "status": "active"
     },
     {
@@ -43,7 +45,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1789119339541,
-      "updatedAt": 1789119339541,
+      "updatedAt": 1789131151188,
       "status": "active"
     },
     {
@@ -54,10 +56,12 @@
       "verseName": "Filemon 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a352a2d3e425bdfd84126315f95b8910e8b908bec42dd7047ef344f2b5ee4b16"
+      ],
       "createdAt": 1789118013376,
-      "updatedAt": 1789118013376,
+      "updatedAt": 1789131147399,
       "status": "active"
     },
     {
@@ -82,10 +86,12 @@
       "verseName": "Filemon 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a352a2d3e425bdfd84126315f95b8910e8b908bec42dd7047ef344f2b5ee4b16"
+      ],
       "createdAt": 1789106610481,
-      "updatedAt": 1789106610481,
+      "updatedAt": 1789131156675,
       "status": "active"
     },
     {
@@ -96,10 +102,12 @@
       "verseName": "Filemon 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a352a2d3e425bdfd84126315f95b8910e8b908bec42dd7047ef344f2b5ee4b16"
+      ],
       "createdAt": 1789104254512,
-      "updatedAt": 1789104254512,
+      "updatedAt": 1789131155865,
       "status": "active"
     },
     {
@@ -207,8 +215,8 @@
     }
   ],
   "likeCount": 106,
-  "shareCount": 163,
-  "viewCount": 475,
+  "shareCount": 166,
+  "viewCount": 482,
   "verseLikedBy": [
     "0182831acb80f06dadb2498873b136d438f1e1d246644eb010a660ab25132be3",
     "044956c82d4daeaf60b37f961c879e6c1d796b974194a6e6845af1c665ce4a9e",
