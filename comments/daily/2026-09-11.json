@@ -1,9 +1,23 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789106405504,
+  "updatedAt": 1789107245805,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789106608510",
+      "text": "amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Filemon 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789106610481,
+      "updatedAt": 1789106610481,
+      "status": "active"
+    },
     {
       "id": "local-1789104253065",
       "text": "amen",
@@ -122,9 +136,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 70,
-  "viewCount": 262,
+  "likeCount": 69,
+  "shareCount": 74,
+  "viewCount": 269,
   "verseLikedBy": [
     "0182831acb80f06dadb2498873b136d438f1e1d246644eb010a660ab25132be3",
     "044956c82d4daeaf60b37f961c879e6c1d796b974194a6e6845af1c665ce4a9e",
@@ -164,6 +178,7 @@
     "7e38e89d4e30b4d1875ec475cd878bc92993377bfcd13ba5ddb2addd024ba8d1",
     "7f4b629a4d0cf4bfe4423621a624c9448c9fa4e9d2ab29ebbfe2c43c6ef6a8da",
     "8278546bf3b08ca64960a67cf80e46b917b31fdb09c07bc7a01d929aab822274",
+    "83568e09a8356eb59fed9101d85cc47ffc3ce7fe82ad0ec8c4f9816197cd41b9",
     "847bb4931e8cb9b05da4e18831053363192e179d1a16f80b650a0f5b23a1ac34",
     "8b2d5ffbb83ebe0b122380a516320276deca5be9884854f56db79d58451e3b9b",
     "90354fce138d3ed4196c9395dbe6ba986bfdfd261423d9297a308785d2c8a0e1",
@@ -184,6 +199,7 @@
     "bffa01220da19fdbda6e98fde65648f8b89f55cdb2d449dcb2c2abdcd526dc06",
     "d314d78b9bf17b368b511ba3c4d5abb426c64ca932587a7dd0ff068b90a51bf5",
     "d76fe1359ad4bbe91e3aa6c8b14c84d2f6fbe0fdf23147a690f11a1453ea5a59",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e9180d95531117a215bbbee53fab019fb66681f1992a4c5480e25c7c677dc7b8",
     "eaaf22231dcfc8f0a2a52fb7d67ffe7a5840f75e41f14a21d55d4ccbe18f4fa5",
