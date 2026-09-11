@@ -1,9 +1,23 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789136044642,
+  "updatedAt": 1789137003778,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789136701867",
+      "text": "Amén merci seignuer 🙏",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Filemon 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789136702844,
+      "updatedAt": 1789136702844,
+      "status": "active"
+    },
     {
       "id": "local-1789128652197",
       "text": "Amen AMEN AMEN AMEN 🙏",
@@ -214,9 +228,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 114,
-  "shareCount": 172,
-  "viewCount": 529,
+  "likeCount": 116,
+  "shareCount": 173,
+  "viewCount": 537,
   "verseLikedBy": [
     "0182831acb80f06dadb2498873b136d438f1e1d246644eb010a660ab25132be3",
     "044956c82d4daeaf60b37f961c879e6c1d796b974194a6e6845af1c665ce4a9e",
@@ -244,6 +258,7 @@
     "3401ffa1b2898da6026b46106fdb7527715833ec672c37396d67e107aa44305f",
     "38a0b9e1f46bd1fd5ef61f7c3348fa27e171762a61322530780a552e32b879e7",
     "3e05205562393d7dd7eb9b1af16cc9d3fb7ca9fbf31819647c5125c99ac1ff2c",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "3f9158dd32a105e6f35ce0a1e180dac2ad4cd821af4be46d78e1e08fcf766879",
     "4069ba65f840f71f90b43eef6de000b2f346aae7e8d28935787f23f2fa3b46fe",
     "41341f001903f65e9d5c96bdf50e305aa0c65d4cf1b5017840f42d81912eb3ea",
@@ -290,6 +305,7 @@
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "9f20e048b485b9cb6430cfafd72f710f14a1e2eadb9f633bad23abbe7fd0982b",
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
+    "a03e1ac5142caf134c044aa18d2bedd361229a0b8219dad2df26e96c9fb5c0f8",
     "a46382beaa51a0038f469e4599254a64dff7d99555f7c46b109d2d0ffb4c3820",
     "a484b1e6b245b320761680f1920adb5f433f43ffe8dc69aeb7b1c62eeb81c6ca",
     "a8c1646f8d2c08a94646825a8b5a88ce7daceb91a36f797a5d34ea19448e4b04",
