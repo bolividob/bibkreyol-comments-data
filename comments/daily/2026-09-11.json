@@ -1,9 +1,23 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789119002280,
+  "updatedAt": 1789119844592,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789119337834",
+      "text": "bèl bagay.",
+      "userDeviceId": "00d1bf0f312c9274cc32177c964c0685323f5aa14853ddc64bf5e6847fe247d5",
+      "userName": "Michel.",
+      "verseName": "Filemon 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789119339541,
+      "updatedAt": 1789119339541,
+      "status": "active"
+    },
     {
       "id": "local-1789118011495",
       "text": "Amen🙏",
@@ -165,8 +179,8 @@
     }
   ],
   "likeCount": 79,
-  "shareCount": 109,
-  "viewCount": 372,
+  "shareCount": 110,
+  "viewCount": 379,
   "verseLikedBy": [
     "0182831acb80f06dadb2498873b136d438f1e1d246644eb010a660ab25132be3",
     "044956c82d4daeaf60b37f961c879e6c1d796b974194a6e6845af1c665ce4a9e",
