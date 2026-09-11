@@ -1,9 +1,23 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789168443554,
+  "updatedAt": 1789169402515,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789168549345",
+      "text": "sòm91",
+      "userDeviceId": "827c37f49f219b9ebf23c11235ebc2facfb2ecdbee947fe6c1c8db8a32f57e61",
+      "userName": "wilky jean",
+      "verseName": "Filemon 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789168551525,
+      "updatedAt": 1789168551525,
+      "status": "active"
+    },
     {
       "id": "local-1789156014297",
       "text": "Merci seigneur",
@@ -317,8 +331,8 @@
     }
   ],
   "likeCount": 167,
-  "shareCount": 226,
-  "viewCount": 823,
+  "shareCount": 228,
+  "viewCount": 833,
   "verseLikedBy": [
     "00918988fc11bbc8fa28ee17eb96a158b306d1325c1276de9c0914e6b7e23930",
     "0182831acb80f06dadb2498873b136d438f1e1d246644eb010a660ab25132be3",
