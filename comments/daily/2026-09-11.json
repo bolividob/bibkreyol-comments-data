@@ -1,9 +1,23 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789102801812,
+  "updatedAt": 1789103679832,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789103678648",
+      "text": "amen",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Jesy",
+      "verseName": "Filemon 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789103679832,
+      "updatedAt": 1789103679832,
+      "status": "active"
+    },
     {
       "id": "local-1789100764651",
       "text": "Amen gracias",
@@ -94,9 +108,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
+  "likeCount": 61,
   "shareCount": 66,
-  "viewCount": 231,
+  "viewCount": 238,
   "verseLikedBy": [
     "0182831acb80f06dadb2498873b136d438f1e1d246644eb010a660ab25132be3",
     "044956c82d4daeaf60b37f961c879e6c1d796b974194a6e6845af1c665ce4a9e",
@@ -105,6 +119,7 @@
     "0b014fddf8084180182ecf6aa0075620c49ba94e9c209cbd71076ba44b6a51b2",
     "0ce57d30edcd79373aac9f1e5267a7604a6c345bef95daedf12d1591d1fe2f89",
     "1105f78392aeaad5dde56099b6fd10ff61dfec65ec808a602ffa2ddc5c275d29",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1b9603dd6c97f6d4282af0c658f8322a1e39e3e0bffb9092ab17ce1f91985546",
     "1e4b36d3f42ddf09c382e3b916197a48ccdb817a31a6e98ee8268268918ccb11",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
