@@ -1,9 +1,23 @@
 {
   "date": "2026-09-11",
   "verseKey": "daily:2026-09-11",
-  "updatedAt": 1789144203552,
+  "updatedAt": 1789145045938,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789144242119",
+      "text": "merçi Jesús",
+      "userDeviceId": "ba94c0e7cef3ee7ac3f95736de5b01caf0d4126dc6a67f1f87d6fd8d0e444c7e",
+      "userName": "Frè Robenson",
+      "verseName": "Filemon 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789144243139,
+      "updatedAt": 1789144243139,
+      "status": "active"
+    },
     {
       "id": "local-1789125901964",
       "text": "il\no hop",
@@ -244,9 +258,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
-  "shareCount": 191,
-  "viewCount": 599,
+  "likeCount": 128,
+  "shareCount": 193,
+  "viewCount": 607,
   "verseLikedBy": [
     "00918988fc11bbc8fa28ee17eb96a158b306d1325c1276de9c0914e6b7e23930",
     "0182831acb80f06dadb2498873b136d438f1e1d246644eb010a660ab25132be3",
@@ -304,6 +318,7 @@
     "7351d1a1b33b355d9a339c6aaf80b5f2e584696a5fb93e2f587e306236916626",
     "748623f70278161015b21f1b6b332b1e759c8ea757a5ac64fc9f8bc7d4df17e5",
     "754700819ddbbe3d3ce57819f0826138da6a2350a4e5d7945c7cbd4c5bf5d92e",
+    "756dacec48a19c00aeede5410f6004afde85f8a94bb7d185ba0d2fb80f28ba49",
     "763f27dac8dcaafa0404dc374a5c4b12dd5c740e2e336e4a77602da4291fc1c9",
     "76afd6bf56b4427e983da6b6e3561009c186f22fada1613d3adaa29e19639da2",
     "7a9aef0f6a086760fa41878de663c68489aaa2f8828cb47d27946dc81eb54d89",
