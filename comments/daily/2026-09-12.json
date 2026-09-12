@@ -1,9 +1,23 @@
 {
   "date": "2026-09-12",
   "verseKey": "daily:2026-09-12",
-  "updatedAt": 1789221602444,
+  "updatedAt": 1789222446704,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789222378427",
+      "text": "amèn",
+      "userDeviceId": "e740deb679e33536b86a28ee78ad90bf251366a41ecdcb3ebcf529c2ff7628d3",
+      "userName": "Junior Louina",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789222379671,
+      "updatedAt": 1789222379671,
+      "status": "active"
+    },
     {
       "id": "local-1789216319347",
       "text": "Amén 😇🙏🏻",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 87,
-  "shareCount": 112,
-  "viewCount": 508,
+  "likeCount": 89,
+  "shareCount": 116,
+  "viewCount": 516,
   "verseLikedBy": [
     "0109d4af0447dcfdbb8c962b22aa1003fd865dfa8f048e48be23502f50ac72fb",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -158,6 +172,7 @@
     "3acdd7d3ff3477babd90ffb9a6bba8a68923946ca1da1422c5a2422487a12de4",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "404fc153e4daa0fe743ec56dd5d1802330fb0a6b47cc8c2828626c10e56d8cb9",
+    "40cdef9c8a93d2f7296121272e13b0754a15ec1d6014a52964c069eec67f6694",
     "42d86a391a081ccde37a7b64635e9fd75eabf44cdb0a42883f63fe01fc9f4605",
     "4329b8d5a5689fc7229de4b6d2036b5c79b85ab1fff99680364476d2109e170e",
     "43727c85b73ec35afcb195044908bb579e9cc934a7ab02aa2da80e3d29f06108",
@@ -214,6 +229,7 @@
     "db36dad616ea1cdf1f02435ed8bfcf67126140b6256750b60e150f65423a5c42",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e032291ff8bb188ef86dbad8cc95f26041fd48b258e63df5abfcec97d7fc768f",
+    "e740deb679e33536b86a28ee78ad90bf251366a41ecdcb3ebcf529c2ff7628d3",
     "e8ff3ffc8e8f9d320a7e730a273f999ace03d3fc3f3c1310402d1cdf6b504adf",
     "ea44e1d788d0979dea57cbfb06d6fc17368493ebaaa6ff4628d3fc99a5e21f8d",
     "ec9cd74a3a83df36c905f97aa3d7310997be99db5d0ef988bd17534f590dd1a6",
