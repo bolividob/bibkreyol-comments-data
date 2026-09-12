@@ -1,9 +1,23 @@
 {
   "date": "2026-09-12",
   "verseKey": "daily:2026-09-12",
-  "updatedAt": 1789253135403,
+  "updatedAt": 1789254002449,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789253959094",
+      "text": "uu it 6",
+      "userDeviceId": "243a8482ee329ed2bcd443f0987d15e41b910035bd9cd7549973b777ffc80676",
+      "userName": "999iui8",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789253960465,
+      "updatedAt": 1789253960465,
+      "status": "active"
+    },
     {
       "id": "local-1789222378427",
       "text": "amèn",
@@ -155,9 +169,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 126,
-  "shareCount": 162,
-  "viewCount": 807,
+  "likeCount": 127,
+  "shareCount": 166,
+  "viewCount": 817,
   "verseLikedBy": [
     "0109d4af0447dcfdbb8c962b22aa1003fd865dfa8f048e48be23502f50ac72fb",
     "03359b83f5ff3b5797d56541008fbdd0ffbbc0ed123788365d42a2a22e9dce5e",
@@ -249,6 +263,7 @@
     "b4cd23e24b1a989b702430831c56dc64f6ef249e1b263d9434220640fd4151eb",
     "b5ccfcc0269306e47667f7040e27ae7cccea8bc4e686308a15d39610039778d6",
     "bb5314d5a8022c07b7fcd6400155cd309a5aac23a2f617f7f640d5cb104126c7",
+    "bb9a94f8531119e80b1b6e15edb2465cbfa117e3daf450d0a329ae23bacf51c6",
     "bc919ab6a5b41d05755c9a9f27162dcb9bcfd867a96c10ca96fe50acd281170d",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "bdc4827176ed4d3f21799c4ee94bd0b6fb1d4a1b2f2f4a03e648fa836052778c",
