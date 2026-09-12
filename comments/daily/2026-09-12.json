@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "verseKey": "daily:2026-09-12",
-  "updatedAt": 1789225207849,
+  "updatedAt": 1789226041925,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "2 Kwonik 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0e8ce9df4f2b1e38baa43ac9d6d249e59c13ec7ee5c0398a45e0dfe0519970d5"
+      ],
       "createdAt": 1789222379671,
-      "updatedAt": 1789222379671,
+      "updatedAt": 1789225691593,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "2 Kwonik 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0e8ce9df4f2b1e38baa43ac9d6d249e59c13ec7ee5c0398a45e0dfe0519970d5"
+      ],
       "createdAt": 1789216321881,
-      "updatedAt": 1789216321881,
+      "updatedAt": 1789225691598,
       "status": "active"
     },
     {
@@ -82,10 +86,12 @@
       "verseName": "2 Kwonik 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0e8ce9df4f2b1e38baa43ac9d6d249e59c13ec7ee5c0398a45e0dfe0519970d5"
+      ],
       "createdAt": 1789194587408,
-      "updatedAt": 1789194587408,
+      "updatedAt": 1789225688813,
       "status": "active"
     },
     {
@@ -96,10 +102,12 @@
       "verseName": "2 Kwonik 4:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0e8ce9df4f2b1e38baa43ac9d6d249e59c13ec7ee5c0398a45e0dfe0519970d5"
+      ],
       "createdAt": 1789181750514,
-      "updatedAt": 1789181750514,
+      "updatedAt": 1789225688429,
       "status": "active"
     },
     {
@@ -147,9 +155,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
+  "likeCount": 94,
   "shareCount": 124,
-  "viewCount": 541,
+  "viewCount": 548,
   "verseLikedBy": [
     "0109d4af0447dcfdbb8c962b22aa1003fd865dfa8f048e48be23502f50ac72fb",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -176,6 +184,7 @@
     "42d86a391a081ccde37a7b64635e9fd75eabf44cdb0a42883f63fe01fc9f4605",
     "4329b8d5a5689fc7229de4b6d2036b5c79b85ab1fff99680364476d2109e170e",
     "43727c85b73ec35afcb195044908bb579e9cc934a7ab02aa2da80e3d29f06108",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "470fd9bdf1f1a649312d66a717763418a1302ad22831134ba2394d5850bb401e",
     "49f1f47444a1d585bac440f44076d10e667526ddba41396025d6faa5996a4b6a",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
@@ -215,6 +224,7 @@
     "b3aa7fb91ca092dc9dc63ff5f9d3ada674ab1301c5acb425e8fe4041f49a3fbd",
     "b3df5389d8ba4b6748f098c0f53a047f897bed4c83f5db514da04d08cf83f310",
     "b5ccfcc0269306e47667f7040e27ae7cccea8bc4e686308a15d39610039778d6",
+    "bb5314d5a8022c07b7fcd6400155cd309a5aac23a2f617f7f640d5cb104126c7",
     "bc919ab6a5b41d05755c9a9f27162dcb9bcfd867a96c10ca96fe50acd281170d",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "bdc4827176ed4d3f21799c4ee94bd0b6fb1d4a1b2f2f4a03e648fa836052778c",
