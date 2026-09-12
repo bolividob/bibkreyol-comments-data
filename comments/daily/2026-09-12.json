@@ -1,9 +1,23 @@
 {
   "date": "2026-09-12",
   "verseKey": "daily:2026-09-12",
-  "updatedAt": 1789205403561,
+  "updatedAt": 1789206277199,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789206155592",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789206157419,
+      "updatedAt": 1789206157419,
+      "status": "active"
+    },
     {
       "id": "local-1789194585322",
       "text": "Amén y amén 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -77,9 +91,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 56,
-  "shareCount": 61,
-  "viewCount": 362,
+  "likeCount": 58,
+  "shareCount": 63,
+  "viewCount": 370,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0ce57d30edcd79373aac9f1e5267a7604a6c345bef95daedf12d1591d1fe2f89",
@@ -92,6 +106,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2899844379cbf8a60dd8e08aa601829c0d0f7506d8dfc6e9b0493417d3e0f40a",
     "33ed58f37d2c218de88463e46991e9e16b2e03bcc571c7242243a7af23f82686",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "4329b8d5a5689fc7229de4b6d2036b5c79b85ab1fff99680364476d2109e170e",
     "43727c85b73ec35afcb195044908bb579e9cc934a7ab02aa2da80e3d29f06108",
     "470fd9bdf1f1a649312d66a717763418a1302ad22831134ba2394d5850bb401e",
@@ -122,6 +137,7 @@
     "bc919ab6a5b41d05755c9a9f27162dcb9bcfd867a96c10ca96fe50acd281170d",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "bdc4827176ed4d3f21799c4ee94bd0b6fb1d4a1b2f2f4a03e648fa836052778c",
+    "c2a0aeb6883f9e30f6f8276cf70a27db1f4a70807feda711fae5220faf87c67b",
     "c41b1ffe40f1a9af0cb735b284a8b3225b82be2b1ee2dd882e8e583dc10fc305",
     "c6d1a0f83be658d25704cb4464a2a72fc97d699d88294141bee358e3552600c7",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
