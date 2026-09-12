@@ -1,9 +1,23 @@
 {
   "date": "2026-09-12",
   "verseKey": "daily:2026-09-12",
-  "updatedAt": 1789174803381,
+  "updatedAt": 1789176602071,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789176082163",
+      "text": "sqsssd",
+      "userDeviceId": "4f82bb2b32ad04e66dfa0845ec8c83fe3df26d41ebd6ed7402c22c79412f70d3",
+      "userName": "Anonymous.",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789176086254,
+      "updatedAt": 1789176086254,
+      "status": "active"
+    },
     {
       "id": "local-1789173134236",
       "text": "Amém 🙏🙏",
@@ -19,18 +33,23 @@
       "status": "active"
     }
   ],
-  "likeCount": 10,
-  "shareCount": 7,
-  "viewCount": 69,
+  "likeCount": 15,
+  "shareCount": 11,
+  "viewCount": 92,
   "verseLikedBy": [
     "13122ab399e63d8f82b3a216904e6a95f933b6814f266ef0d2109e03b288d66a",
+    "17e4d23d4099a6d3dba432e3794cbbec055251c8ecc03090c21fb2f614eee77e",
+    "4329b8d5a5689fc7229de4b6d2036b5c79b85ab1fff99680364476d2109e170e",
     "470fd9bdf1f1a649312d66a717763418a1302ad22831134ba2394d5850bb401e",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6fd29dd4587770083d13c1d9f9c0d58253237cf22e680e60c7eed0d031e1d2e5",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "7a9aef0f6a086760fa41878de663c68489aaa2f8828cb47d27946dc81eb54d89",
     "a8c48287f582b6779c4cd87fd521f948158562655b854c141ae894c7e093edaa",
     "bc919ab6a5b41d05755c9a9f27162dcb9bcfd867a96c10ca96fe50acd281170d",
+    "bdc4827176ed4d3f21799c4ee94bd0b6fb1d4a1b2f2f4a03e648fa836052778c",
     "c6d1a0f83be658d25704cb4464a2a72fc97d699d88294141bee358e3552600c7",
+    "da8de4f3084283627755825c930136ea95006fdd2824154d32e8913b7431529d",
     "f1ca4406dca7c60bfaf8888f8654c504dffac0b1e0b8d8405c81c801c2bd9810",
     "fc19fb5910b209006699d821a59d718a5fd2d0b7e5d7323b5cbff263fef97595"
   ],
