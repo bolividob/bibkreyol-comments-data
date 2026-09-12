@@ -1,16 +1,36 @@
 {
   "date": "2026-09-12",
   "verseKey": "daily:2026-09-12",
-  "updatedAt": 1789173001106,
+  "updatedAt": 1789173841884,
   "version": 1,
-  "comments": [],
-  "likeCount": 3,
-  "shareCount": 1,
-  "viewCount": 50,
+  "comments": [
+    {
+      "id": "local-1789173134236",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789173150877,
+      "updatedAt": 1789173150877,
+      "status": "active"
+    }
+  ],
+  "likeCount": 8,
+  "shareCount": 6,
+  "viewCount": 57,
   "verseLikedBy": [
+    "13122ab399e63d8f82b3a216904e6a95f933b6814f266ef0d2109e03b288d66a",
+    "470fd9bdf1f1a649312d66a717763418a1302ad22831134ba2394d5850bb401e",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6fd29dd4587770083d13c1d9f9c0d58253237cf22e680e60c7eed0d031e1d2e5",
     "a8c48287f582b6779c4cd87fd521f948158562655b854c141ae894c7e093edaa",
-    "bc919ab6a5b41d05755c9a9f27162dcb9bcfd867a96c10ca96fe50acd281170d"
+    "bc919ab6a5b41d05755c9a9f27162dcb9bcfd867a96c10ca96fe50acd281170d",
+    "f1ca4406dca7c60bfaf8888f8654c504dffac0b1e0b8d8405c81c801c2bd9810",
+    "fc19fb5910b209006699d821a59d718a5fd2d0b7e5d7323b5cbff263fef97595"
   ],
   "verseViewBy": []
 }
