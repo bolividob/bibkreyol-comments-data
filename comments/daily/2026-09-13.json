@@ -1,9 +1,25 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789318801678,
+  "updatedAt": 1789319654118,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789299543682",
+      "text": "tout glwa pou BonDye papa 🙏🙌",
+      "userDeviceId": "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
+      "userName": "fladenstia",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745"
+      ],
+      "createdAt": 1789319000484,
+      "updatedAt": 1789319041978,
+      "status": "active"
+    },
     {
       "id": "local-1789316500736",
       "text": "lindor",
@@ -686,9 +702,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 192,
-  "shareCount": 307,
-  "viewCount": 644,
+  "likeCount": 193,
+  "shareCount": 310,
+  "viewCount": 651,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "04a6d2093b01069378839dd63416a4250eff6a687cdfc739295b40e0c2b6382b",
@@ -712,6 +728,7 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "24b3a9074591b9d2b26a5fa25e72e7359576d689bea06f0ccba575f07cbf08a6",
     "2518e29502317a45428a4c54ff006fd80c0aeac5a7bf3df479cd10fdeb5ace87",
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "2899844379cbf8a60dd8e08aa601829c0d0f7506d8dfc6e9b0493417d3e0f40a",
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
     "2957fb526a5aac347386c16432ca705ca0466d32801d59de21acf0a66787bc46",
