@@ -1,9 +1,23 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789274729380,
+  "updatedAt": 1789275601153,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789274911048",
+      "text": "Amen",
+      "userDeviceId": "277f74344f97b7ae93ccfd1568d0bdabfc9637325f7e0234016ab766fd6bc563",
+      "userName": "chrismene Alfred",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789275303854,
+      "updatedAt": 1789275303854,
+      "status": "active"
+    },
     {
       "id": "local-1789274065241",
       "text": "amén",
@@ -305,9 +319,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
-  "shareCount": 75,
-  "viewCount": 210,
+  "likeCount": 73,
+  "shareCount": 76,
+  "viewCount": 218,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -322,6 +336,7 @@
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
     "2957fb526a5aac347386c16432ca705ca0466d32801d59de21acf0a66787bc46",
     "32c1be1b165f6f572dc478879e6c8f6c38f3a222b4c683e530a917f7bcdaa17e",
+    "3e80ccff23c72ab95631e16c598fb083f2c07b70d3e7fc034af76ca51af10350",
     "40db744cce64e3e7f22fe9acab0acb53749393aee0a00d9526355094e6566e4e",
     "4183f4a845abc5b3a86a167dbf345f06a9d6d9b7364a2c9e808c3eb18a3d64e9",
     "4a86f2dce4483fc76eacc9f00af734f497177f148e6b1fdf5742c81bd4d2786a",
