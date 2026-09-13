@@ -1,9 +1,23 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789326840767,
+  "updatedAt": 1789327831683,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789327040753",
+      "text": "Bel bagay",
+      "userDeviceId": "681760aa21d60dd9e97d6df10b578ea853d9b7749fdb0e4980be90ea07732f42",
+      "userName": "Alexandre stthony",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789327043520,
+      "updatedAt": 1789327043520,
+      "status": "active"
+    },
     {
       "id": "local-1789326451740",
       "text": "like",
@@ -717,9 +731,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 203,
-  "shareCount": 423,
-  "viewCount": 719,
+  "likeCount": 205,
+  "shareCount": 424,
+  "viewCount": 727,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "04a6d2093b01069378839dd63416a4250eff6a687cdfc739295b40e0c2b6382b",
@@ -898,6 +912,7 @@
     "e159763cf904a9d746531e19ffd4e042697d1047b524ea56f8775167603797b2",
     "e1affcc222964a72b41be13dfdf641b5a82fea939cf2e60beb95a044267542c9",
     "e28a9e775e6860441c5ba907d6f7b80a1deeeab8cd64bbb4400d101b68adf234",
+    "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "e43a2a38d39eb8c44e0d216a7369b6fddad9776919af26268e433f53d3624c96",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e7b431a2a2c1bd6af982d01e6325eeeabed5c8dd21faccb5bb6070a1ef1ef35a",
@@ -913,6 +928,7 @@
     "f682c9d759102563be9e5fd1021f1b7bd946600cc0ab5cfc306dec9f093878b2",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f855f39888552fdaf96ca34e39115a8294721d3014e44eca1b1fe97c1d9ee3ff",
+    "f8908080e62dfd2ae0799c1afd2f8e3b9b57de984e8ebc05a08f765075a3109e",
     "f9d6343c75bfaed251af05964c8787e988213f445e4e437ed349854c29e6512a",
     "fa33e4162c0997094dbe9d8b689e8a5cb7bffc026e938c880a36942a93676838",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
