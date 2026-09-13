@@ -1,9 +1,51 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789259402594,
+  "updatedAt": 1789260342572,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789183238954",
+      "text": "bji",
+      "userDeviceId": "2fc40bfb495b39daa7e557d6601d052858a4c9e3b45982628f7f2e73efd30404",
+      "userName": "Bendjoo😃😃😃🙏",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789259827448,
+      "updatedAt": 1789259827448,
+      "status": "active"
+    },
+    {
+      "id": "local-1789183237887",
+      "text": "cgo",
+      "userDeviceId": "2fc40bfb495b39daa7e557d6601d052858a4c9e3b45982628f7f2e73efd30404",
+      "userName": "Bendjoo😃😃😃🙏",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789259818076,
+      "updatedAt": 1789259818076,
+      "status": "active"
+    },
+    {
+      "id": "local-1789183232855",
+      "text": "ch",
+      "userDeviceId": "2fc40bfb495b39daa7e557d6601d052858a4c9e3b45982628f7f2e73efd30404",
+      "userName": "Bendjoo😃😃😃🙏",
+      "verseName": "2 Kwonik 4:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789259815755,
+      "updatedAt": 1789259815755,
+      "status": "active"
+    },
     {
       "id": "local-1789258969064",
       "text": "amen",
@@ -62,8 +104,8 @@
     }
   ],
   "likeCount": 9,
-  "shareCount": 8,
-  "viewCount": 51,
+  "shareCount": 11,
+  "viewCount": 63,
   "verseLikedBy": [
     "0778ef58dd2d9c2e3468488a62210f9e7dbb5e80ba9a9b7ec53669cc6fd271c2",
     "5cc5188856cf975a38bc9426f3df00d6727b05ead703e8a528a67dff1f63518a",
