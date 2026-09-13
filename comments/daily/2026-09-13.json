@@ -1,9 +1,51 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789258527087,
+  "updatedAt": 1789259402594,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789258969064",
+      "text": "amen",
+      "userDeviceId": "722f8cf2d208e51aeee0f6779f26c3a0b23d9adea5305965700afef2163b0f77",
+      "userName": "chrismene",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789258970425,
+      "updatedAt": 1789258970425,
+      "status": "active"
+    },
+    {
+      "id": "local-1789258880884",
+      "text": "amen",
+      "userDeviceId": "ae5dc163d7aad1fe6d9a1aff3a1700f197a956ed2f19af584de1d63103124b46",
+      "userName": "rony senjour",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789258882019,
+      "updatedAt": 1789258882019,
+      "status": "active"
+    },
+    {
+      "id": "local-1789258865345",
+      "text": "mw renmen Bib",
+      "userDeviceId": "ae5dc163d7aad1fe6d9a1aff3a1700f197a956ed2f19af584de1d63103124b46",
+      "userName": "rony senjour",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789258866424,
+      "updatedAt": 1789258866424,
+      "status": "active"
+    },
     {
       "id": "local-1789258434092",
       "text": "Amém 🙏🙏",
@@ -19,13 +61,19 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 6,
-  "viewCount": 41,
+  "likeCount": 9,
+  "shareCount": 8,
+  "viewCount": 51,
   "verseLikedBy": [
     "0778ef58dd2d9c2e3468488a62210f9e7dbb5e80ba9a9b7ec53669cc6fd271c2",
     "5cc5188856cf975a38bc9426f3df00d6727b05ead703e8a528a67dff1f63518a",
-    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e"
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+    "722f8cf2d208e51aeee0f6779f26c3a0b23d9adea5305965700afef2163b0f77",
+    "845dc59ac208afae64a7153f7954cef65a48db76256bfb401dc6d42fb76ca775",
+    "ae5dc163d7aad1fe6d9a1aff3a1700f197a956ed2f19af584de1d63103124b46",
+    "b8f4e7308184fcc982fb0e52a770037592a57d443f932984e152bf7d172e477f",
+    "c922a37701731f967cfbba1b0f70e025dd986f579f051b1caaa24541758d6bb6",
+    "e159763cf904a9d746531e19ffd4e042697d1047b524ea56f8775167603797b2"
   ],
   "verseViewBy": []
 }
