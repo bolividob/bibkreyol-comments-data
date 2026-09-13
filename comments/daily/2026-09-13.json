@@ -1,9 +1,23 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789326002982,
+  "updatedAt": 1789326840767,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789326451740",
+      "text": "like",
+      "userDeviceId": "f682c9d759102563be9e5fd1021f1b7bd946600cc0ab5cfc306dec9f093878b2",
+      "userName": "Rosemie milien",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789326456273,
+      "updatedAt": 1789326456273,
+      "status": "active"
+    },
     {
       "id": "local-1789299543682",
       "text": "tout glwa pou BonDye papa 🙏🙌",
@@ -703,9 +717,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 202,
-  "shareCount": 421,
-  "viewCount": 710,
+  "likeCount": 203,
+  "shareCount": 423,
+  "viewCount": 719,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "04a6d2093b01069378839dd63416a4250eff6a687cdfc739295b40e0c2b6382b",
@@ -896,6 +910,7 @@
     "f2766479962b8baa839e9b8e02a389f64cce315f8bd4d5cccc77414de77a6c3a",
     "f33f8fa12685b1a18d420c6890c46a2256b9c69010fbd6dce2cc4927306215df",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
+    "f682c9d759102563be9e5fd1021f1b7bd946600cc0ab5cfc306dec9f093878b2",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f855f39888552fdaf96ca34e39115a8294721d3014e44eca1b1fe97c1d9ee3ff",
     "f9d6343c75bfaed251af05964c8787e988213f445e4e437ed349854c29e6512a",
