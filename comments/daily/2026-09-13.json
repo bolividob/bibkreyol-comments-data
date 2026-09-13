@@ -1,9 +1,23 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789338604773,
+  "updatedAt": 1789339441323,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789339018034",
+      "text": "Glory to God 🙌🙌🔥🤝",
+      "userDeviceId": "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
+      "userName": "Jocelyn Lindor",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789339027018,
+      "updatedAt": 1789339027018,
+      "status": "active"
+    },
     {
       "id": "local-1789338070679",
       "text": "amenn",
@@ -773,9 +787,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 222,
-  "shareCount": 448,
-  "viewCount": 827,
+  "likeCount": 225,
+  "shareCount": 451,
+  "viewCount": 834,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "04a6d2093b01069378839dd63416a4250eff6a687cdfc739295b40e0c2b6382b",
@@ -789,6 +803,7 @@
     "0bd1c79ee49cda331335f172b51a9da09a442929383b22b3e0871429f12fb653",
     "0e1bacadc6895b66c93d76f48f6f6ea0026da63bc1a5a760a32f92afbc5e52e7",
     "0f8e0e8a9c5d416ee7c3726c21581d0ffa639fdfc9959229cc6e37e141074ab7",
+    "1098f5a665263742b9baa990dadfa67b8219ce918c3aed650695617be1e1e109",
     "11540af711d8c2bc119e97e907f62c06f150d3fca30de57d2324f0de878e0ff7",
     "14a80d425854deea2267e47cb13e068c0817c3c8e641736becebab6f1c5ac933",
     "1519a3d43e2518b2f4593504236a4cdd2f5f8fc643b90fab59c8710529fb59ce",
@@ -796,6 +811,7 @@
     "1ba7d6e36d561b27921e4073b224856d0f8e90e0e5ab61134bc3cc20c3d6be68",
     "1cf2e0d64031db25576392a4e39d144a83b03dd637d59e1b931b3b1b388317f3",
     "1d465bb088ae3a17fd406519fb2c4d21189d3e1d6db1409fcfb5759ae83292dd",
+    "1e964b9725424ef0def81b42b5daf3ecaa97d7cc08321e0816c2bab2b11718fc",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "22f5a4bc9353087f98a3bb1c3dbc90dafc6541b418aa96617fd9cd5716f1d11f",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -919,6 +935,7 @@
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a902170cdd0e2ccc56dfea86c38e2c0a5b470e9b6503ede158e964cfc693d132",
     "aa4fc9b51e7d1dd18c4ae704bf0308ef9b206527ff635bab147f211bdf39b93e",
+    "abb0463f7edbf83ee202811e8f94beb7a4558690521f9438aa9ccf6f2e14c8af",
     "ae5dc163d7aad1fe6d9a1aff3a1700f197a956ed2f19af584de1d63103124b46",
     "afe6cd99be147ad0c137fdda968e9687ef0e8bfc0ab11424a4650dbb2ca433f9",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
