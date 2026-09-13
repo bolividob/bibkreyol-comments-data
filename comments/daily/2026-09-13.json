@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789324201889,
+  "updatedAt": 1789325139051,
   "version": 1,
   "comments": [
     {
@@ -12,12 +12,13 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745"
+        "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
+        "56899ae8c9c36f7a03e5416ac9368dc5a8fa82a10a613f1bedc9cb32bd30f487"
       ],
       "createdAt": 1789319000484,
-      "updatedAt": 1789319041978,
+      "updatedAt": 1789325139901,
       "status": "active"
     },
     {
@@ -702,9 +703,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 199,
-  "shareCount": 316,
-  "viewCount": 694,
+  "likeCount": 201,
+  "shareCount": 418,
+  "viewCount": 702,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "04a6d2093b01069378839dd63416a4250eff6a687cdfc739295b40e0c2b6382b",
@@ -761,6 +762,7 @@
     "4d562f9d02cc15b4c84371bf830b237acfb5bb47be1f7492be6f9fb98585f87a",
     "51946af7b6ffe6427c22ec86bd7fd4464cee0013005aa7e5c2b007ba17678350",
     "54928ca7765d140e71866454e9a7a66b0abfcbe568d1c828eaf951375e1667c0",
+    "56899ae8c9c36f7a03e5416ac9368dc5a8fa82a10a613f1bedc9cb32bd30f487",
     "57e79e159478b8acfdaff1ca92a6761106b66ff48b654178fdfe8aa7bd3edd67",
     "5903467f9cf88aa16958641152bb70a6cee1ac83aeb36b2d02b22f71c53536d7",
     "5af3f3f18d4c05700ebf7fa60d0a25ebba7606ed5f2d0e55502988092d682d28",
@@ -790,6 +792,7 @@
     "79287193812e2c99ffb73577eb251f83fb7f8f627e6349c606782c79bf8bca89",
     "797a3755d6a62a4a6b3771d624f70cb57d046763784628005631d7348c06dc50",
     "7a4b9c15fdc0da14cf51dd12b770f6d0f0b9edb44295fd07415c6882e0531ae9",
+    "7a6b58c0259231e9cd0b2cea328ae7403f76bcea877537dfac513aa9d2ff0af6",
     "7b5dca0b0a0e869da2ad24d580806474e54f78fdc034ba2092e7d72660724d00",
     "7d2022773110c072155dfd10a42eecedc812faef2e026b67ac27230f85ab1333",
     "7e24c5ef0d801011ef4789c060b684e8a8c14c376def86b85ae62d112a7c1335",
