@@ -1,9 +1,23 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789312441586,
+  "updatedAt": 1789313436807,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789313375101",
+      "text": "amèn",
+      "userDeviceId": "f33f8fa12685b1a18d420c6890c46a2256b9c69010fbd6dce2cc4927306215df",
+      "userName": "amèn",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789313376761,
+      "updatedAt": 1789313376761,
+      "status": "active"
+    },
     {
       "id": "local-1789314576922",
       "text": "mesi Bondye pou parol sa",
@@ -26,10 +40,12 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "fd31233946dbd4338c1b236d62272d8c35468b1b5042fe1c45f978c00acad78e"
+      ],
       "createdAt": 1789311015162,
-      "updatedAt": 1789311015162,
+      "updatedAt": 1789313169788,
       "status": "active"
     },
     {
@@ -565,9 +581,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 177,
-  "shareCount": 282,
-  "viewCount": 587,
+  "likeCount": 180,
+  "shareCount": 287,
+  "viewCount": 596,
   "verseLikedBy": [
     "01dcd9ab3810c82c4f33c3aa0c5ff3165a82b3ed071a6b2d921bdebb945b2cbe",
     "04a6d2093b01069378839dd63416a4250eff6a687cdfc739295b40e0c2b6382b",
@@ -601,6 +617,7 @@
     "3790c872346f41d9233cc8456186630fafb633a44a9ff02f54cabf81bb70e024",
     "3852a6f51bd3211b9d141935d196305bcc96dc2c3439153d3571e68a2838aebd",
     "38a0b9e1f46bd1fd5ef61f7c3348fa27e171762a61322530780a552e32b879e7",
+    "394faae331dab836991e428f5b17f35bb5c06926bf8aa5326049195d00046d6d",
     "39ff02bbf7f11ae2c07af6cf5af9fd892bc99a1424d4b5b1481827489a4a05ec",
     "3b5df6d5f386d9223474d0ec8b068502b2353aac5e8ae6f25749cc8beee19810",
     "3e80ccff23c72ab95631e16c598fb083f2c07b70d3e7fc034af76ca51af10350",
@@ -691,6 +708,7 @@
     "b6153e752f2548698657c07868a73891d1c7716eacf98e01184580520102da6d",
     "b80bbadec12f12c5ff120a3dd0bce6924246525b7fa049c7489b2f1fe2440ee5",
     "b8f4e7308184fcc982fb0e52a770037592a57d443f932984e152bf7d172e477f",
+    "b9af931b61ff8de782f1c8cfc045477103c8b982060601e9135fd25f259db6b0",
     "b9c816680aabc8a6a7b096d4d37441b12f3ef3dc22a88304ebf5a118546f681a",
     "b9eab4345600ba1a7c94e13710a0283df855ae407e79b3294331212ac47af83d",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
@@ -733,6 +751,7 @@
     "ed7bda065049955c24f2a59e92c47fdb42c59b9dbb91e86e44b71a1205abc5b8",
     "f05995012397b228619a02337a45777e71f5797b9179ac3070d78782a44a1c28",
     "f2766479962b8baa839e9b8e02a389f64cce315f8bd4d5cccc77414de77a6c3a",
+    "f33f8fa12685b1a18d420c6890c46a2256b9c69010fbd6dce2cc4927306215df",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f6bb7a94607bdd0bd9222dfd3ff74dca5ff3172a10fe494df5a496671d168a91",
     "f855f39888552fdaf96ca34e39115a8294721d3014e44eca1b1fe97c1d9ee3ff",
