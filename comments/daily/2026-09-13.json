@@ -1,9 +1,23 @@
 {
   "date": "2026-09-13",
   "verseKey": "daily:2026-09-13",
-  "updatedAt": 1789264801035,
+  "updatedAt": 1789265695751,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789265693484",
+      "text": "Dios le vendiga",
+      "userDeviceId": "4a86f2dce4483fc76eacc9f00af734f497177f148e6b1fdf5742c81bd4d2786a",
+      "userName": "Ester",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789265695751,
+      "updatedAt": 1789265695751,
+      "status": "active"
+    },
     {
       "id": "local-1789264419814",
       "text": "amen",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 30,
+  "likeCount": 32,
   "shareCount": 33,
-  "viewCount": 107,
+  "viewCount": 115,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "0778ef58dd2d9c2e3468488a62210f9e7dbb5e80ba9a9b7ec53669cc6fd271c2",
@@ -142,6 +156,7 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2518e29502317a45428a4c54ff006fd80c0aeac5a7bf3df479cd10fdeb5ace87",
     "40db744cce64e3e7f22fe9acab0acb53749393aee0a00d9526355094e6566e4e",
+    "4a86f2dce4483fc76eacc9f00af734f497177f148e6b1fdf5742c81bd4d2786a",
     "4bef8a4cc3797c5e364a05515799eb5e37493fad175367876453383f603ba39d",
     "54928ca7765d140e71866454e9a7a66b0abfcbe568d1c828eaf951375e1667c0",
     "5cc5188856cf975a38bc9426f3df00d6727b05ead703e8a528a67dff1f63518a",
@@ -158,6 +173,7 @@
     "b9c816680aabc8a6a7b096d4d37441b12f3ef3dc22a88304ebf5a118546f681a",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "c922a37701731f967cfbba1b0f70e025dd986f579f051b1caaa24541758d6bb6",
+    "d314d78b9bf17b368b511ba3c4d5abb426c64ca932587a7dd0ff068b90a51bf5",
     "dd1e9a8a7f972251e47f63e8cf0a70d210d4380960fe6a44c61435265f1bb522",
     "df068f3e4c4b220c49315355249e9668a6dc8df1b187383e6c9ab306793a10fa",
     "e159763cf904a9d746531e19ffd4e042697d1047b524ea56f8775167603797b2",
