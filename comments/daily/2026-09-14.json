@@ -1,9 +1,23 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789366445761,
+  "updatedAt": 1789367404739,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789367385332",
+      "text": "amén amén amén 🙏",
+      "userDeviceId": "2222a7ca8096e411632b08828ec327e870a0acf19254aea61bc8e8311e6f79aa",
+      "userName": "Mortel Vanessa",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789367387064,
+      "updatedAt": 1789367387064,
+      "status": "active"
+    },
     {
       "id": "local-1789358514084",
       "text": "Amén amén amén 3Fois 🙏",
@@ -177,10 +191,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
-  "shareCount": 114,
-  "viewCount": 283,
+  "likeCount": 81,
+  "shareCount": 115,
+  "viewCount": 291,
   "verseLikedBy": [
+    "01cdcf5c920b8ee3e9f78594066fcad4bc8ab3a5681ab03e82c1c277347c9e78",
     "02052313443430b9c78617d65c4435e2cea2f648c2c94a436a3e93c89e7647bf",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "08c007c2898bbddfc3824df5890e3e113c0f6ea673f7d4c94473592d34de268b",
@@ -195,6 +210,7 @@
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f2708343b310b4a6d8a5ed63c389595479835cd78f2417afd320be2763d2244",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "2222a7ca8096e411632b08828ec327e870a0acf19254aea61bc8e8311e6f79aa",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2810ab1cee8c16789f1c201c9b2a6086c8576d5aec08ac1bab99d0b4dbb0ffd0",
     "2957fb526a5aac347386c16432ca705ca0466d32801d59de21acf0a66787bc46",
