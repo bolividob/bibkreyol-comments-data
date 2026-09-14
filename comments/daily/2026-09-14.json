@@ -1,9 +1,23 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789388047220,
+  "updatedAt": 1789389015044,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789388890374",
+      "text": "Amen",
+      "userDeviceId": "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
+      "userName": "Rose Myrlande Saint cilien",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789388893801,
+      "updatedAt": 1789388893801,
+      "status": "active"
+    },
     {
       "id": "local-1789387409467",
       "text": "amen",
@@ -317,9 +331,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 124,
-  "shareCount": 236,
-  "viewCount": 469,
+  "likeCount": 128,
+  "shareCount": 242,
+  "viewCount": 478,
   "verseLikedBy": [
     "00ba7ffd2e43b68ff21d5b1f313e7d3902c4bbc2a2a6ce85858794b8ec861f3b",
     "019271ac31e357a026078b00ae134322085f260af2ffff09077fb9501b7d1241",
@@ -357,6 +371,7 @@
     "465efd973078591038d5394b0901e81710f1d2a3c9f0e62c790ef55d68e7a906",
     "49e6df9544b534c516fb2338154ce1921e5fc68f4ff4ae940e32e356cd9b8d67",
     "4aa08fc693284f8ac11b08f75e3a8f7c57b790ad4d155dacadb67308e6303fc4",
+    "4ba1a7f383bd2dabb84ab10c96ab3e68eb582628102d0a7d15696bcca8908f56",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
     "52755430b49479e8b0577e1c0455de281beb6651bed3182bdd17ef89a2d35cee",
@@ -390,6 +405,7 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
     "8ee44fe83e3e27b0632c0e1e24fded72bcb73ec0947db546ed4f1613b8dbe3b2",
+    "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
     "92a4272b628a5864a344fcf8ab8ca13b625e5b5c50c45483bc438122ebce3c57",
     "9632e4a46ad16d86cf2466465c9f1b8740b976503ddb992645e9cd070b4f6985",
     "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
@@ -412,9 +428,11 @@
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bb5143df13d2e64af8219c18b57fcfe5af967ef78f1546cf2d4bfc0cda39e520",
     "beb11ac23daa81b9ed5ca8b42ee7ac2c2119536815e8fc445a9f917c1bd1fb5b",
+    "c2b817c29343e1693107c1c8b448e496894b166c232557e556fedcf7fba7245b",
     "c43a208f8701129cdf529792e4bad48d7f66730976490a57ae812bf9dcbee174",
     "c5354b2e8f2a735b82f54d4f2d923d16e46067aa29022cbc3b18714b28b166db",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "c9a8153ec06dbb7c67ea6c0c49a3bfb43a743b5d748315e5c5bfa9c15cf86901",
     "cccb3cbebef05357f6a57bddc83fdb016fac9c2b50ffca01481e2469b4456673",
     "cd3eb9ed77967fb83352b8209746936879f06e334dcdf4ef4457b1ef1230cc5d",
     "d2c172ce7fe7d8f54e14d68b4e33da1c9d7f8dd731c106ac3989e568466337f2",
