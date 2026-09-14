@@ -1,9 +1,23 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789425877142,
+  "updatedAt": 1789426800970,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789352714939",
+      "text": "vérité",
+      "userDeviceId": "e34d5c5acbc4b992f3eac4a328a9a1f7c9741f7fdea0eb2204ded2c0e4605525",
+      "userName": "sœur Mima",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789426394348,
+      "updatedAt": 1789426394348,
+      "status": "active"
+    },
     {
       "id": "local-1789424394784",
       "text": "jezi se limier 💡  se sové nou",
@@ -617,15 +631,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 180,
-  "shareCount": 359,
-  "viewCount": 816,
+  "likeCount": 183,
+  "shareCount": 367,
+  "viewCount": 826,
   "verseLikedBy": [
     "00ba7ffd2e43b68ff21d5b1f313e7d3902c4bbc2a2a6ce85858794b8ec861f3b",
     "019271ac31e357a026078b00ae134322085f260af2ffff09077fb9501b7d1241",
     "01cdcf5c920b8ee3e9f78594066fcad4bc8ab3a5681ab03e82c1c277347c9e78",
     "02052313443430b9c78617d65c4435e2cea2f648c2c94a436a3e93c89e7647bf",
     "0235c56e0935d8113eabb37de8a94cdcfd3a0ea4d726b62cc5e70ab5e66b54ab",
+    "0479f123160e2855e5393274d1cf06604bccd41ee52f4f150ee188057c86d292",
     "0576d2be5057367c2fe0b9a0116e278c3e7cd8113c6b96ec75ce2d7195d617d3",
     "060c196822945d935003356fef3c996f3c2232bfa2039986ae1e08b735f039c3",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -659,6 +674,7 @@
     "2da0e5fe190b61ffbdb717065e05367ce7ad4da55e3cce9485b81269e41f0e92",
     "2dc5fd74c0f34e77011122a24b4c35ca22e5bf0dc0cda0cbb6658d240dd0677b",
     "2fa64102594c31c677b84ec60371cf47ed45688097c39d2ee85594ea975d28e8",
+    "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "30ea815f3724bef47c306944c8b034ce43d31c9e20dd90baaac6bbd37827f745",
     "31f5bb531815beba91ab26065c3b4d802a96d29c54d7483c098d79fe58883d51",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
@@ -800,6 +816,7 @@
     "f8a544b1dc567ca03db2dbd5aab7bf6b4767b55e971624f7e3bde6b7784a5da9",
     "f9f9b7242f2f4e492f3adf0f66d6d9c24b725fa9f2a33b622d21c71f55dbc095",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
+    "ff05c99c663106464c32ff851beb8cbfd503cb9323e760eb168dfab9ca89f1b9",
     "ff5c8bc0116597bbfae14cec255448c3a870c6a76368c1510b4e3bbcfb5f9ccf"
   ],
   "verseViewBy": []
