@@ -1,9 +1,25 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789404242885,
+  "updatedAt": 1789405203153,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789404389544",
+      "text": "amèn men verite ah",
+      "userDeviceId": "80ccfcb2094a0970151deb91f91c9f060b3d4577ffd56e3072f631b239514406",
+      "userName": "Sr juslène ciné",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "80ccfcb2094a0970151deb91f91c9f060b3d4577ffd56e3072f631b239514406"
+      ],
+      "createdAt": 1789404390537,
+      "updatedAt": 1789404401423,
+      "status": "active"
+    },
     {
       "id": "local-1789397211834",
       "text": "Amén 🙌",
@@ -373,9 +389,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 148,
-  "shareCount": 310,
-  "viewCount": 620,
+  "likeCount": 149,
+  "shareCount": 312,
+  "viewCount": 629,
   "verseLikedBy": [
     "00ba7ffd2e43b68ff21d5b1f313e7d3902c4bbc2a2a6ce85858794b8ec861f3b",
     "019271ac31e357a026078b00ae134322085f260af2ffff09077fb9501b7d1241",
@@ -512,6 +528,7 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e6d456079d21a7c06f6afbfc31ca42c13353485d4c76884de9c74f29fe3372a8",
     "e6f2ec55050ff8c3e62c02ab3d13dc80264a174cb850476cee3f4a18a3ab2023",
+    "e99b97512bec857aef80c6450e4a0e5d71e60a93ba092852541b70d16d49e423",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
     "eb4b02302bf2212ebb7adff34e225fc74b177e949f0d23c883d524161868a006",
     "ec256f3e487e1135b19f410b0a8c03b14bb85e92736e3097dc6fc225a9c98f8b",
