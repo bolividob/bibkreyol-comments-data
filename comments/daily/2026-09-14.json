@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789405203153,
+  "updatedAt": 1789406044039,
   "version": 1,
   "comments": [
     {
@@ -70,10 +70,12 @@
       "verseName": "1 Timote 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "d60df3c1c70b0185d4c473978d0476f90d6514ea97f32aeafbb028e58856b743"
+      ],
       "createdAt": 1789388893801,
-      "updatedAt": 1789388893801,
+      "updatedAt": 1789405975693,
       "status": "active"
     },
     {
@@ -389,9 +391,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 149,
-  "shareCount": 312,
-  "viewCount": 629,
+  "likeCount": 152,
+  "shareCount": 316,
+  "viewCount": 636,
   "verseLikedBy": [
     "00ba7ffd2e43b68ff21d5b1f313e7d3902c4bbc2a2a6ce85858794b8ec861f3b",
     "019271ac31e357a026078b00ae134322085f260af2ffff09077fb9501b7d1241",
@@ -419,6 +421,7 @@
     "2222a7ca8096e411632b08828ec327e870a0acf19254aea61bc8e8311e6f79aa",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "2810ab1cee8c16789f1c201c9b2a6086c8576d5aec08ac1bab99d0b4dbb0ffd0",
     "2957fb526a5aac347386c16432ca705ca0466d32801d59de21acf0a66787bc46",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
@@ -476,6 +479,7 @@
     "92a4272b628a5864a344fcf8ab8ca13b625e5b5c50c45483bc438122ebce3c57",
     "946e1bcdb845319f03215412257a0b181fa4bbcfb52fbdb6f7790f4a4957566f",
     "9632e4a46ad16d86cf2466465c9f1b8740b976503ddb992645e9cd070b4f6985",
+    "9a38ff19ba2f3ed74465e90f88e9b287e42fc7a999b84f4b0f248c32b75537c5",
     "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
     "9d3a6537f84633c41b19830498f750c52260363329b81d6a795da5f64c96525d",
     "9e3b507cf22ee993942d3e00d743f3a1f577b30e401fc423e751cc42366069c5",
@@ -512,6 +516,7 @@
     "cf8739a8ab77e27226c831f1ab9eaa54bf1b6ccf941af7b031e5d78c081a8942",
     "d2c172ce7fe7d8f54e14d68b4e33da1c9d7f8dd731c106ac3989e568466337f2",
     "d314d78b9bf17b368b511ba3c4d5abb426c64ca932587a7dd0ff068b90a51bf5",
+    "d60df3c1c70b0185d4c473978d0476f90d6514ea97f32aeafbb028e58856b743",
     "d7b3c08211a6eb2b198822428de2c714f2b4fad6714cadb8f428e074414bedfe",
     "d87a78b52968c864f24a48faf25c4b80dc5b2c86d939a08ce521e75598267897",
     "d91f42535edfd15205354ed9dfa945c3ae258036b37e93085aa3e48af7b369e8",
