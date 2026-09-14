@@ -1,9 +1,23 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789351217284,
+  "updatedAt": 1789352116819,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789352090152",
+      "text": "amen amen",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789352091941,
+      "updatedAt": 1789352091941,
+      "status": "active"
+    },
     {
       "id": "local-1789350651725",
       "text": "Amen amen amen amen amen amen amen amen",
@@ -105,9 +119,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 41,
-  "shareCount": 56,
-  "viewCount": 138,
+  "likeCount": 48,
+  "shareCount": 63,
+  "viewCount": 149,
   "verseLikedBy": [
     "02052313443430b9c78617d65c4435e2cea2f648c2c94a436a3e93c89e7647bf",
     "08c007c2898bbddfc3824df5890e3e113c0f6ea673f7d4c94473592d34de268b",
@@ -137,19 +151,26 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
     "8ee44fe83e3e27b0632c0e1e24fded72bcb73ec0947db546ed4f1613b8dbe3b2",
+    "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a2a060dd25c3f0c541a58eee5efa9dda9bd1c8cb76719f3c9215c39625bb359e",
+    "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "b34860d980a076de85870f9ae0a1aa3ac6d25bcbe5a201bc2a02d75048a11fcf",
     "b9a4030be4d7c6589f192113082555f6845501b7265e7f1860a6fc5ada741aed",
     "beb11ac23daa81b9ed5ca8b42ee7ac2c2119536815e8fc445a9f917c1bd1fb5b",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "d2c172ce7fe7d8f54e14d68b4e33da1c9d7f8dd731c106ac3989e568466337f2",
+    "d314d78b9bf17b368b511ba3c4d5abb426c64ca932587a7dd0ff068b90a51bf5",
+    "d87a78b52968c864f24a48faf25c4b80dc5b2c86d939a08ce521e75598267897",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
+    "e1b575d3dd1bcba9cb04e82645fe4652f9fa5e05755de2d6810e381e5e27f01a",
     "e2fc09b42096f09cf5e6561e5edc71096d18f0f666ba22f83b6eaa7776174ced",
     "e454a3d9bc3b72f9bb35a3cac2effb4ada9480e13aa9c1c2c86250659bdaa960",
     "e6f2ec55050ff8c3e62c02ab3d13dc80264a174cb850476cee3f4a18a3ab2023",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
+    "f36b34c00fede0b11d6fe39c70253e766545598ceae4d4c760184ecd79576d9a",
     "f5ab1ad7204882d06c56935217136f9c413513d70d1396392c473e78a68e0744",
-    "f623ab878ead722ccd0ed8ec57caaaef7a5a22b4a0f371f6b3ab099146ef7b1c"
+    "f623ab878ead722ccd0ed8ec57caaaef7a5a22b4a0f371f6b3ab099146ef7b1c",
+    "f8a544b1dc567ca03db2dbd5aab7bf6b4767b55e971624f7e3bde6b7784a5da9"
   ],
   "verseViewBy": []
 }
