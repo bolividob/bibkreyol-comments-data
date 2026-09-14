@@ -1,9 +1,37 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789358403533,
+  "updatedAt": 1789359243480,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789358514084",
+      "text": "Amén amén amén 3Fois 🙏",
+      "userDeviceId": "2957fb526a5aac347386c16432ca705ca0466d32801d59de21acf0a66787bc46",
+      "userName": "Varnita",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789358516083,
+      "updatedAt": 1789358516083,
+      "status": "active"
+    },
+    {
+      "id": "local-1789358478344",
+      "text": "amèn 🙏🏾",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789358483416,
+      "updatedAt": 1789358483416,
+      "status": "active"
+    },
     {
       "id": "local-1789354031574",
       "text": "Amen",
@@ -26,10 +54,12 @@
       "verseName": "1 Timote 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f"
+      ],
       "createdAt": 1789353653446,
-      "updatedAt": 1789353653446,
+      "updatedAt": 1789358551224,
       "status": "active"
     },
     {
@@ -147,9 +177,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 94,
-  "viewCount": 210,
+  "likeCount": 70,
+  "shareCount": 99,
+  "viewCount": 217,
   "verseLikedBy": [
     "02052313443430b9c78617d65c4435e2cea2f648c2c94a436a3e93c89e7647bf",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -166,6 +196,7 @@
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2810ab1cee8c16789f1c201c9b2a6086c8576d5aec08ac1bab99d0b4dbb0ffd0",
+    "2957fb526a5aac347386c16432ca705ca0466d32801d59de21acf0a66787bc46",
     "31f5bb531815beba91ab26065c3b4d802a96d29c54d7483c098d79fe58883d51",
     "3a4abd9be5c5626b0584b54b8dc58f4c3311ab2ac59456f99ec6cba51bf3c143",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
@@ -173,6 +204,7 @@
     "49e6df9544b534c516fb2338154ce1921e5fc68f4ff4ae940e32e356cd9b8d67",
     "52755430b49479e8b0577e1c0455de281beb6651bed3182bdd17ef89a2d35cee",
     "52bcfb367eba62fa7ac44d64f1165372febb1621f21ec2b507b71278a427c51c",
+    "5d183eaf91e5626c440c2cc5f1ed4ce5d7273efd0f729e636842faad16236baf",
     "5d2790932efd629cac85d26b4daa583662c780966d492472eafc0e118f33ed24",
     "5d281b08796c214fe4b5b037a460b4f1fece5105f750e31eda35a34e2b8293fc",
     "5f78120834f52dce1a7d2b8bf0380d064c7928109d1f3239c7cd7c1b35ef5663",
