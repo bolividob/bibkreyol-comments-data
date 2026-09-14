@@ -1,9 +1,51 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789346643777,
+  "updatedAt": 1789347628672,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789347311366",
+      "text": "hi",
+      "userDeviceId": "64a2856212584c617edb0d63d738dfaf539bf0ebfb81465aac08fa66d0caa481",
+      "userName": "chantale",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789347313898,
+      "updatedAt": 1789347313898,
+      "status": "active"
+    },
+    {
+      "id": "local-1789347211385",
+      "text": "mesi wi senyè",
+      "userDeviceId": "e6f2ec55050ff8c3e62c02ab3d13dc80264a174cb850476cee3f4a18a3ab2023",
+      "userName": "asefieverdine",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789347214695,
+      "updatedAt": 1789347214695,
+      "status": "active"
+    },
+    {
+      "id": "local-1789347186674",
+      "text": "amén amén",
+      "userDeviceId": "e6f2ec55050ff8c3e62c02ab3d13dc80264a174cb850476cee3f4a18a3ab2023",
+      "userName": "asefieverdine",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789347189898,
+      "updatedAt": 1789347189898,
+      "status": "active"
+    },
     {
       "id": "local-1789346517708",
       "text": "Amén 🙏",
@@ -19,13 +61,18 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 15,
-  "viewCount": 85,
+  "likeCount": 21,
+  "shareCount": 20,
+  "viewCount": 95,
   "verseLikedBy": [
+    "08c007c2898bbddfc3824df5890e3e113c0f6ea673f7d4c94473592d34de268b",
+    "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
+    "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "3a4abd9be5c5626b0584b54b8dc58f4c3311ab2ac59456f99ec6cba51bf3c143",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "5f78120834f52dce1a7d2b8bf0380d064c7928109d1f3239c7cd7c1b35ef5663",
+    "64a2856212584c617edb0d63d738dfaf539bf0ebfb81465aac08fa66d0caa481",
     "79483ddbcdc69524c9eb988027d75f44a919ebaaf4e0fc10866c03d90c582a66",
     "812eea176ab037c0c034de7804bd56a5b23f58b9d7479dd73f5e8ad1714e3e0d",
     "84c6e3f65528af52bc8f02f62ca9972a289d42a6369aaf13280b987880ae5450",
@@ -33,7 +80,12 @@
     "8ee44fe83e3e27b0632c0e1e24fded72bcb73ec0947db546ed4f1613b8dbe3b2",
     "a2a060dd25c3f0c541a58eee5efa9dda9bd1c8cb76719f3c9215c39625bb359e",
     "b34860d980a076de85870f9ae0a1aa3ac6d25bcbe5a201bc2a02d75048a11fcf",
-    "beb11ac23daa81b9ed5ca8b42ee7ac2c2119536815e8fc445a9f917c1bd1fb5b"
+    "beb11ac23daa81b9ed5ca8b42ee7ac2c2119536815e8fc445a9f917c1bd1fb5b",
+    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+    "d2c172ce7fe7d8f54e14d68b4e33da1c9d7f8dd731c106ac3989e568466337f2",
+    "e6f2ec55050ff8c3e62c02ab3d13dc80264a174cb850476cee3f4a18a3ab2023",
+    "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
+    "f5ab1ad7204882d06c56935217136f9c413513d70d1396392c473e78a68e0744"
   ],
   "verseViewBy": []
 }
