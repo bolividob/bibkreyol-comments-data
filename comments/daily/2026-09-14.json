@@ -1,9 +1,23 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789391649357,
+  "updatedAt": 1789392602400,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789392362634",
+      "text": "Amém 🙏 🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789392364429,
+      "updatedAt": 1789392364429,
+      "status": "active"
+    },
     {
       "id": "local-1789388890374",
       "text": "Amen",
@@ -331,9 +345,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 132,
-  "shareCount": 247,
-  "viewCount": 504,
+  "likeCount": 136,
+  "shareCount": 251,
+  "viewCount": 514,
   "verseLikedBy": [
     "00ba7ffd2e43b68ff21d5b1f313e7d3902c4bbc2a2a6ce85858794b8ec861f3b",
     "019271ac31e357a026078b00ae134322085f260af2ffff09077fb9501b7d1241",
@@ -343,6 +357,7 @@
     "08c007c2898bbddfc3824df5890e3e113c0f6ea673f7d4c94473592d34de268b",
     "0b91a703a6e130969c108a1d757c8c486c46b6abbeaefb9ea2d576f2dbbbbd52",
     "0ce57d30edcd79373aac9f1e5267a7604a6c345bef95daedf12d1591d1fe2f89",
+    "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
@@ -383,6 +398,7 @@
     "5d183eaf91e5626c440c2cc5f1ed4ce5d7273efd0f729e636842faad16236baf",
     "5d2790932efd629cac85d26b4daa583662c780966d492472eafc0e118f33ed24",
     "5d281b08796c214fe4b5b037a460b4f1fece5105f750e31eda35a34e2b8293fc",
+    "5d54b25ed81325371fe50eaf59093dc0533cd015cb1a7cf25c564ee09ac9e3d8",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
     "5f78120834f52dce1a7d2b8bf0380d064c7928109d1f3239c7cd7c1b35ef5663",
     "5f9721de4b74db5a642395142f33040e8b5d256a33a26c8eed55b9a6b6ee29a7",
@@ -391,6 +407,7 @@
     "64a2856212584c617edb0d63d738dfaf539bf0ebfb81465aac08fa66d0caa481",
     "64a8a179c712e24ad19ce7125bbfd6829a3d153c88a1dec15e6662f681b2b9c4",
     "65c3e58d37138f890f07bd11374a110659fea523070b41c8b8a4ae4b9d64a98b",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6c90293159e5cb27359a0aab17a83d3e5373e6c729593911fa5b778b24edb1f4",
     "71119eba0cec6841fbd91217878a42aaee8550f686e22f11174358970a18e28a",
     "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
@@ -466,7 +483,8 @@
     "f5ab1ad7204882d06c56935217136f9c413513d70d1396392c473e78a68e0744",
     "f623ab878ead722ccd0ed8ec57caaaef7a5a22b4a0f371f6b3ab099146ef7b1c",
     "f690f6afe63ca1ab9831f14154c0ee8dcf046182b2d4a09a2a7c95bcfea39570",
-    "f8a544b1dc567ca03db2dbd5aab7bf6b4767b55e971624f7e3bde6b7784a5da9"
+    "f8a544b1dc567ca03db2dbd5aab7bf6b4767b55e971624f7e3bde6b7784a5da9",
+    "ff5c8bc0116597bbfae14cec255448c3a870c6a76368c1510b4e3bbcfb5f9ccf"
   ],
   "verseViewBy": []
 }
