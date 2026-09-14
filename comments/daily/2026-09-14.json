@@ -1,20 +1,39 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789345817824,
+  "updatedAt": 1789346643777,
   "version": 1,
-  "comments": [],
-  "likeCount": 7,
-  "shareCount": 12,
-  "viewCount": 76,
+  "comments": [
+    {
+      "id": "local-1789346517708",
+      "text": "Amén 🙏",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789346518928,
+      "updatedAt": 1789346518928,
+      "status": "active"
+    }
+  ],
+  "likeCount": 11,
+  "shareCount": 15,
+  "viewCount": 85,
   "verseLikedBy": [
     "16392767fe21c5c9f02fb0c72fe9c90c253f097e293249088803266cad59c290",
     "3a4abd9be5c5626b0584b54b8dc58f4c3311ab2ac59456f99ec6cba51bf3c143",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "79483ddbcdc69524c9eb988027d75f44a919ebaaf4e0fc10866c03d90c582a66",
+    "812eea176ab037c0c034de7804bd56a5b23f58b9d7479dd73f5e8ad1714e3e0d",
     "84c6e3f65528af52bc8f02f62ca9972a289d42a6369aaf13280b987880ae5450",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
     "8ee44fe83e3e27b0632c0e1e24fded72bcb73ec0947db546ed4f1613b8dbe3b2",
-    "b34860d980a076de85870f9ae0a1aa3ac6d25bcbe5a201bc2a02d75048a11fcf"
+    "a2a060dd25c3f0c541a58eee5efa9dda9bd1c8cb76719f3c9215c39625bb359e",
+    "b34860d980a076de85870f9ae0a1aa3ac6d25bcbe5a201bc2a02d75048a11fcf",
+    "beb11ac23daa81b9ed5ca8b42ee7ac2c2119536815e8fc445a9f917c1bd1fb5b"
   ],
   "verseViewBy": []
 }
