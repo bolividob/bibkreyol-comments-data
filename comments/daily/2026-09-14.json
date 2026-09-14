@@ -1,9 +1,37 @@
 {
   "date": "2026-09-14",
   "verseKey": "daily:2026-09-14",
-  "updatedAt": 1789407862662,
+  "updatedAt": 1789408801553,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789408323640",
+      "text": "amen, amen",
+      "userDeviceId": "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
+      "userName": "Claire-renee",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789408324922,
+      "updatedAt": 1789408324922,
+      "status": "active"
+    },
+    {
+      "id": "local-1789408284232",
+      "text": "amen, amen",
+      "userDeviceId": "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
+      "userName": "Claire-renee",
+      "verseName": "1 Timote 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789408285480,
+      "updatedAt": 1789408285480,
+      "status": "active"
+    },
     {
       "id": "local-1789404389544",
       "text": "amèn men verite ah",
@@ -391,9 +419,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 158,
+  "likeCount": 159,
   "shareCount": 324,
-  "viewCount": 652,
+  "viewCount": 660,
   "verseLikedBy": [
     "00ba7ffd2e43b68ff21d5b1f313e7d3902c4bbc2a2a6ce85858794b8ec861f3b",
     "019271ac31e357a026078b00ae134322085f260af2ffff09077fb9501b7d1241",
@@ -482,6 +510,7 @@
     "946e1bcdb845319f03215412257a0b181fa4bbcfb52fbdb6f7790f4a4957566f",
     "9632e4a46ad16d86cf2466465c9f1b8740b976503ddb992645e9cd070b4f6985",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+    "99f81bcd8fa3868c07fdb35de8008e15e4bc4168a8d397ff6cab09ae948374fb",
     "9a38ff19ba2f3ed74465e90f88e9b287e42fc7a999b84f4b0f248c32b75537c5",
     "9a7959d63d3164039fd070b9116f30a165e1d2416cc30d54ed26583bf727e2bb",
     "9d3a6537f84633c41b19830498f750c52260363329b81d6a795da5f64c96525d",
