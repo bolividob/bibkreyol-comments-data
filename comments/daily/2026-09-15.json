@@ -1,9 +1,23 @@
 {
   "date": "2026-09-15",
   "verseKey": "daily:2026-09-15",
-  "updatedAt": 1789465499000,
+  "updatedAt": 1789466411284,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789465869420",
+      "text": "amen",
+      "userDeviceId": "8f0e9c23cb0b62d3e6f412915f2dcfb1e0a17c784c215b62aa4ddff37194cfbc",
+      "userName": "soeur sandy Bazile",
+      "verseName": "Jid 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789465870917,
+      "updatedAt": 1789465870917,
+      "status": "active"
+    },
     {
       "id": "local-1789466223349",
       "text": "oui frem",
@@ -118,8 +132,8 @@
     }
   ],
   "likeCount": 70,
-  "shareCount": 247,
-  "viewCount": 377,
+  "shareCount": 254,
+  "viewCount": 385,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
