@@ -1,9 +1,23 @@
 {
   "date": "2026-09-15",
   "verseKey": "daily:2026-09-15",
-  "updatedAt": 1789443848728,
+  "updatedAt": 1789444812930,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789444811388",
+      "text": "amen 🙏 🙏 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Jesy",
+      "verseName": "Jid 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789444812930,
+      "updatedAt": 1789444812930,
+      "status": "active"
+    },
     {
       "id": "local-1789443504311",
       "text": "Amén Amén",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 166,
-  "viewCount": 194,
+  "likeCount": 53,
+  "shareCount": 168,
+  "viewCount": 203,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "07c302ae2c7ff95424be086dfe5d6fdc269afc5a576183375b2b17bafcc58345",
@@ -71,6 +85,7 @@
     "0b735588cdbc59c651467b5c35fe3072eb4e44c76f283bcda20b0ebaa997f9ef",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
     "183c33e87dbeed8e024f99f8074c1c7d705db0e990a1ebe144ee2985a25e052e",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1e5f9de8b854f933a4e96ef0dacd6c2a6714ead77aecdd4756b13adb0ff812e7",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -99,6 +114,7 @@
     "a29598a56fbfb1f7fffed0c18db0628ecbcb9a2ba1b23b0d00630897c86bda8b",
     "a371d29252c322856cdc1869fc841f6f0f4e64edac9b6588e8235d6a3f115810",
     "a43c66e2c1a8f2383c39e78627baee3f544e53c4cadd9f46708feec0cb1b9655",
+    "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "b31b73fd32d9fc8e94403f6c0a0a2b15aebf46a7b38d26d2c764a043a92d3665",
     "b3cee101a9e4523fa3ad49cb7e568769c53595580f2267eb31c5ee8aa7557c5d",
     "b5ceefaa489b2ae1dc84c116b00b756a96d41c2b2cbee2d503138cf07472a0d6",
