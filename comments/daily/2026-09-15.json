@@ -1,9 +1,37 @@
 {
   "date": "2026-09-15",
   "verseKey": "daily:2026-09-15",
-  "updatedAt": 1789438478182,
+  "updatedAt": 1789439445495,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789439374090",
+      "text": "ezayi 53",
+      "userDeviceId": "6950d9d4b6c28fd4b179317fd4106c5640245aff9a52d2ea8932f3ee97197ff2",
+      "userName": "Gerve",
+      "verseName": "Jid 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789439375317,
+      "updatedAt": 1789439375317,
+      "status": "active"
+    },
+    {
+      "id": "local-1789439354439",
+      "text": "jésus revient",
+      "userDeviceId": "6950d9d4b6c28fd4b179317fd4106c5640245aff9a52d2ea8932f3ee97197ff2",
+      "userName": "Gerve",
+      "verseName": "Jid 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789439355432,
+      "updatedAt": 1789439355432,
+      "status": "active"
+    },
     {
       "id": "local-1789437862737",
       "text": "nous béni fanmi Bondye yo",
@@ -19,10 +47,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 55,
-  "viewCount": 139,
+  "likeCount": 28,
+  "shareCount": 62,
+  "viewCount": 150,
   "verseLikedBy": [
+    "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "07c302ae2c7ff95424be086dfe5d6fdc269afc5a576183375b2b17bafcc58345",
     "0a5b93e6d2923211fba3e3be1462fbcf60faf905a27b970781837c7380ab8a91",
     "114cd5f275c5a8fddf7cd026616d72f1921ac3ebdf9da5703179f45532b2aab9",
@@ -30,11 +59,14 @@
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "4e28e1aff5e95a540aed0a03dc130807a8e35511207b962af7f5fca20268b7d4",
+    "4f24409bb49b3bd217b878d4ac5d6e197b73ce82518ad003d43e6f95adb95b69",
+    "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820",
     "5842175a207c03a51eff76c3dcc4afb9bf2913083a84d2ea1775a5f0c64aa363",
     "5e53b67bcc482d6e2894190deb138301edd6dff0ad4eb7079dbfcb75645b9b04",
     "5ff70624ab749794a6f15632f91de082dc74625d06a98e5dcd11b31cff26c663",
     "6394dd5a3dee23199485bf2e845c51fdc6155d652501bdd2bd88b18ec4a62449",
     "750af06b0e89691951887c515dbb4edb2803f509659aaa2533f242dc3d2e0a3e",
+    "7a7b7339cba44b51a46759642e48a347ec21cdc521be02f708e4548640b7805f",
     "93ad9a98115cde95dd8d2b6c38f6fb78404264bd6ef566fb18c604e55a8ab3d9",
     "a371d29252c322856cdc1869fc841f6f0f4e64edac9b6588e8235d6a3f115810",
     "b31b73fd32d9fc8e94403f6c0a0a2b15aebf46a7b38d26d2c764a043a92d3665",
@@ -44,7 +76,9 @@
     "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
     "d21d0bb729147a5bc671be7b1d49f4229e989c4ab2099c6dcf7dce47d0c4a83a",
     "d6683a366f5e849952999395d615ff003bcb491b3c8f094e654bf9a84be11088",
-    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37"
+    "e4d36986c28fb32b217a20b0aa1b5195b7dfaf92c733f58d85bd57c355e4234b",
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267"
   ],
   "verseViewBy": []
 }
