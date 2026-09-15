@@ -1,9 +1,23 @@
 {
   "date": "2026-09-15",
   "verseKey": "daily:2026-09-15",
-  "updatedAt": 1789446604331,
+  "updatedAt": 1789447520246,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789446828648",
+      "text": "amèn🙏🏾",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Jid 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789446830333,
+      "updatedAt": 1789446830333,
+      "status": "active"
+    },
     {
       "id": "local-1789444811388",
       "text": "amen 🙏 🙏 🙏",
@@ -75,11 +89,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 56,
-  "shareCount": 177,
-  "viewCount": 219,
+  "likeCount": 57,
+  "shareCount": 179,
+  "viewCount": 226,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "07c302ae2c7ff95424be086dfe5d6fdc269afc5a576183375b2b17bafcc58345",
     "0a5b93e6d2923211fba3e3be1462fbcf60faf905a27b970781837c7380ab8a91",
     "0b735588cdbc59c651467b5c35fe3072eb4e44c76f283bcda20b0ebaa997f9ef",
