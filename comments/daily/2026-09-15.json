@@ -1,9 +1,23 @@
 {
   "date": "2026-09-15",
   "verseKey": "daily:2026-09-15",
-  "updatedAt": 1789461854383,
+  "updatedAt": 1789462820933,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789466223349",
+      "text": "oui frem",
+      "userDeviceId": "8e71ac18d4a5f7ca66491335e71ff5afa2068ca17b78656fe9f0e2b5554c967d",
+      "userName": "Achille Charlina",
+      "verseName": "Jid 1:5",
+      "parentId": "local-1789439354439",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789462642174,
+      "updatedAt": 1789462642174,
+      "status": "active"
+    },
     {
       "id": "local-1789450497434",
       "text": "Amén y amén amén",
@@ -81,11 +95,11 @@
       "userName": "Gerve",
       "verseName": "Jid 1:5",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1789439355432,
-      "updatedAt": 1789439355432,
+      "updatedAt": 1789462642174,
       "status": "active"
     },
     {
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 215,
-  "viewCount": 347,
+  "likeCount": 68,
+  "shareCount": 222,
+  "viewCount": 355,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -143,6 +157,7 @@
     "7a1946699cdf5c426bc1b8d2af58cf3f3518c84f68ef83d6533f207b7c91553a",
     "7a7b7339cba44b51a46759642e48a347ec21cdc521be02f708e4548640b7805f",
     "8227dfc4e281248bd078f48b899aaec82270079ab131c22b362270ca40bd2a00",
+    "8e71ac18d4a5f7ca66491335e71ff5afa2068ca17b78656fe9f0e2b5554c967d",
     "91b22bb8cb9fade877fcf4e4f89d59d03a519a5a9fa89563c0c11b2f220ccb60",
     "93ad9a98115cde95dd8d2b6c38f6fb78404264bd6ef566fb18c604e55a8ab3d9",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
