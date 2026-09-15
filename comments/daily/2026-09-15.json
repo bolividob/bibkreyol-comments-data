@@ -1,9 +1,23 @@
 {
   "date": "2026-09-15",
   "verseKey": "daily:2026-09-15",
-  "updatedAt": 1789497002340,
+  "updatedAt": 1789497847111,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789497669706",
+      "text": "chajou Pou ye vèsè Pou mwen",
+      "userDeviceId": "b75b983b8aaf9a4c9a9e2d6b34dba44b96491c25549028796fd672413cb68342",
+      "userName": "561 2945308",
+      "verseName": "Jid 1:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789497672936,
+      "updatedAt": 1789497672936,
+      "status": "active"
+    },
     {
       "id": "local-1789488623007",
       "text": "mw kwè nan bondye wi anpil pa kwè nan li men kwè nan parol li yo",
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 132,
-  "shareCount": 392,
-  "viewCount": 661,
+  "likeCount": 134,
+  "shareCount": 393,
+  "viewCount": 669,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -249,9 +263,11 @@
     "8b48c92e3929e39025f0ae65f304a765937fea6623da18c8f2dd8b00c04e2a12",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8e71ac18d4a5f7ca66491335e71ff5afa2068ca17b78656fe9f0e2b5554c967d",
+    "9040b5b257e14d9a403184a4e9e594eb93b7bf49c7f6e5066d3c9ad481e28911",
     "91b22bb8cb9fade877fcf4e4f89d59d03a519a5a9fa89563c0c11b2f220ccb60",
     "93925dfac0d8f892915d27c55851559e28fa9ae5c97cd61739d51d9ad5a91190",
     "93ad9a98115cde95dd8d2b6c38f6fb78404264bd6ef566fb18c604e55a8ab3d9",
+    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "9a0360f1270fca0d23302f1b4f549342c6b76e105e7d0b67a20f45f9cb7196f4",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
