@@ -1,9 +1,37 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789557244003,
+  "updatedAt": 1789558201061,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789558066445",
+      "text": "amen amen amen",
+      "userDeviceId": "1f2708343b310b4a6d8a5ed63c389595479835cd78f2417afd320be2763d2244",
+      "userName": "philandine",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789558068673,
+      "updatedAt": 1789558068673,
+      "status": "active"
+    },
+    {
+      "id": "local-1789558026899",
+      "text": "Amen merci Bondye",
+      "userDeviceId": "aa444f4965f9ffefa6abeea34e1de78dcf6ae982483dcf9fe13e99e0b7a476a0",
+      "userName": "rose carla bien Aimè",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789558028167,
+      "updatedAt": 1789558028167,
+      "status": "active"
+    },
     {
       "id": "local-1789555894725",
       "text": "Bondye béni m servante",
@@ -328,9 +356,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 96,
-  "shareCount": 204,
-  "viewCount": 423,
+  "likeCount": 100,
+  "shareCount": 209,
+  "viewCount": 432,
   "verseLikedBy": [
     "01c307c449e79a405757eb622f013e77202af51035c7e11e262776fd5915b1f3",
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
@@ -345,6 +373,7 @@
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1bfbba8de0adc19151ca2a4699908465e14a4248bb11a444e0c347d1bdc66bea",
     "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49",
+    "1f2708343b310b4a6d8a5ed63c389595479835cd78f2417afd320be2763d2244",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -388,6 +417,7 @@
     "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "94ee17ddc54cad17b9c4f04d371919267858f892171180c910fa5af7d27e4082",
+    "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
     "a1a89e061722d81eddbd78a42fc6e1937e1302d2d6b68fcb4d47fa216add9789",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a549ce784e31fa97ed2b8c62693e547a5c0d52ee148459b5aeff09a8465dc190",
@@ -395,6 +425,7 @@
     "a6aae34eae4eb41560e3c81d9054aa5282bcedd9fa0268b0a516dec2655ab3a3",
     "a87d9f2722f38f94fb0fbd4f248bf36908c5e46d46c4c038453cf14039753a78",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
+    "aa444f4965f9ffefa6abeea34e1de78dcf6ae982483dcf9fe13e99e0b7a476a0",
     "ab155aa0cf6038577cb2c0954033cbc615e395106cb3d5ccfe39780dcb749ddf",
     "adb4046a00912d90cabbe92448709b6caf0666069410c5ae03cc916b5ce22a2e",
     "af15146dec7b6342bdc6f1d5126884079247615815864ac2713c6d97fc0c1325",
@@ -411,6 +442,7 @@
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cc56e4e2dec829bcac3f12be835f7e9cb3d990a5c173c3121fd1794d57b6ceb9",
     "cd14df45220491a164596cfc29b9761d5d9263e16e521b21684be81fb9160d32",
+    "d0b89744aed4263c987d60579c0875c3ab3f1bc73396e9de46f01179b22e725f",
     "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
     "db55d789bdb825bebd80dbfdfacdfc427b8582930a9983b38cdd6aeba04909b5",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
