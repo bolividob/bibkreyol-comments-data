@@ -1,9 +1,37 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789555456923,
+  "updatedAt": 1789556424491,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789555894725",
+      "text": "Bondye béni m servante",
+      "userDeviceId": "f47e64cafe97381877bca37be0fa5ee16bae3af303fa253ba711d3f687e67b94",
+      "userName": "Fr Boudwensky",
+      "verseName": "Jowèl 3:2",
+      "parentId": "local-1789553883631",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789555898556,
+      "updatedAt": 1789555898556,
+      "status": "active"
+    },
+    {
+      "id": "local-1789555750989",
+      "text": "Amen",
+      "userDeviceId": "f47e64cafe97381877bca37be0fa5ee16bae3af303fa253ba711d3f687e67b94",
+      "userName": "Fr Boudwensky",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789555872234,
+      "updatedAt": 1789555872234,
+      "status": "active"
+    },
     {
       "id": "local-1789554778702",
       "text": "amén amén amén twa fwa",
@@ -12,10 +40,12 @@
       "verseName": "Jowèl 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e43a2a38d39eb8c44e0d216a7369b6fddad9776919af26268e433f53d3624c96"
+      ],
       "createdAt": 1789554779937,
-      "updatedAt": 1789554779937,
+      "updatedAt": 1789556033145,
       "status": "active"
     },
     {
@@ -39,11 +69,13 @@
       "userName": "srGuerline sainvil",
       "verseName": "Jowèl 3:2",
       "parentId": null,
-      "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "replyCount": 1,
+      "likeCount": 1,
+      "likedBy": [
+        "f47e64cafe97381877bca37be0fa5ee16bae3af303fa253ba711d3f687e67b94"
+      ],
       "createdAt": 1789553884770,
-      "updatedAt": 1789553884770,
+      "updatedAt": 1789555898556,
       "status": "active"
     },
     {
@@ -296,14 +328,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 90,
-  "shareCount": 167,
-  "viewCount": 406,
+  "likeCount": 92,
+  "shareCount": 177,
+  "viewCount": 415,
   "verseLikedBy": [
     "01c307c449e79a405757eb622f013e77202af51035c7e11e262776fd5915b1f3",
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+    "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "0b7ab757bfd044c781ef9dc6d79f028d1a0a55f2576ff4c0ea195d475ed61671",
     "0bd1c79ee49cda331335f172b51a9da09a442929383b22b3e0871429f12fb653",
     "10562c94dcdd3196ec3717328e4c94fc5863eb99dbe31c9d90c6248434829fa1",
@@ -354,6 +387,7 @@
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "94ee17ddc54cad17b9c4f04d371919267858f892171180c910fa5af7d27e4082",
     "a1a89e061722d81eddbd78a42fc6e1937e1302d2d6b68fcb4d47fa216add9789",
+    "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a549ce784e31fa97ed2b8c62693e547a5c0d52ee148459b5aeff09a8465dc190",
     "a6344440672b002333a18227466c70a2985059f1052e8fdf28dbf55afd123c1f",
     "a6aae34eae4eb41560e3c81d9054aa5282bcedd9fa0268b0a516dec2655ab3a3",
