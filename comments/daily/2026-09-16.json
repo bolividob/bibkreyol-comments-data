@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789594202363,
+  "updatedAt": 1789595041591,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789521400677",
+      "text": "Merci seigneur",
+      "userDeviceId": "0ecdea8906330d3cf1a9705e540512f14768e513c18de3ca17bc866c48029564",
+      "userName": "livenson",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789594806634,
+      "updatedAt": 1789594806634,
+      "status": "active"
+    },
     {
       "id": "local-1789592820667",
       "text": "amen",
@@ -479,9 +493,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 171,
-  "shareCount": 347,
-  "viewCount": 771,
+  "likeCount": 173,
+  "shareCount": 349,
+  "viewCount": 778,
   "verseLikedBy": [
     "01c307c449e79a405757eb622f013e77202af51035c7e11e262776fd5915b1f3",
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
@@ -534,6 +548,7 @@
     "475efe5cd6d39a14eb1e407f67673a7f03306ae612c9393686c7ddeed0e4be9d",
     "49985b96da413022642c8df734e4653be48709c5643d0145a44ee19803b99beb",
     "49e6df9544b534c516fb2338154ce1921e5fc68f4ff4ae940e32e356cd9b8d67",
+    "4cbcb55779f552e5d4ad754617675b8ebb96c146bd6708718a98061bbe4034a1",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d2340d5bf6a3c103adaa02ac9152f8221f0c90bdddc5b9d4299c18b99f5e71d",
     "4d495ec9cbdc710dcce18be149029a8035da7961718829501e1c990d8e89115b",
@@ -605,6 +620,7 @@
     "b5b34e1975fdb3adcc45b053fd4580fb6581605cece93663edcf861043df16a3",
     "b5ccfcc0269306e47667f7040e27ae7cccea8bc4e686308a15d39610039778d6",
     "b6153e752f2548698657c07868a73891d1c7716eacf98e01184580520102da6d",
+    "b824e370d8aee59110c899b897292561c2ed9677d4c05b26ae68376d7c7d3e24",
     "b85a8f4f9f6132c86a37b0fba38e887aa443edafa5019449e22d565a186d9d5e",
     "ba94c0e7cef3ee7ac3f95736de5b01caf0d4126dc6a67f1f87d6fd8d0e444c7e",
     "bb4cf6d0423ad3d08ab2bd1a20f9f86480e7f0fa18d6ceaaf8fb5524626ebafd",
