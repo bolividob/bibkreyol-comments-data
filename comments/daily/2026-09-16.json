@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789567232686,
+  "updatedAt": 1789568084556,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789567335068",
+      "text": "amén amén amén",
+      "userDeviceId": "4d2340d5bf6a3c103adaa02ac9152f8221f0c90bdddc5b9d4299c18b99f5e71d",
+      "userName": "emiliana César",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789567341936,
+      "updatedAt": 1789567341936,
+      "status": "active"
+    },
     {
       "id": "local-1789567008908",
       "text": "amèn amèn amèn",
@@ -412,9 +426,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 122,
-  "shareCount": 266,
-  "viewCount": 519,
+  "likeCount": 124,
+  "shareCount": 270,
+  "viewCount": 529,
   "verseLikedBy": [
     "01c307c449e79a405757eb622f013e77202af51035c7e11e262776fd5915b1f3",
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
@@ -455,6 +469,7 @@
     "49985b96da413022642c8df734e4653be48709c5643d0145a44ee19803b99beb",
     "49e6df9544b534c516fb2338154ce1921e5fc68f4ff4ae940e32e356cd9b8d67",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
+    "4d2340d5bf6a3c103adaa02ac9152f8221f0c90bdddc5b9d4299c18b99f5e71d",
     "4d495ec9cbdc710dcce18be149029a8035da7961718829501e1c990d8e89115b",
     "507d303aefd1b7181098562ece34a45d11ad97f46eb8441b6da961585d8dcc6e",
     "56f6775a799c4513b86a71bc2acb9698177e2617b173c6a9ee65c2c307d5043f",
@@ -523,6 +538,7 @@
     "db55d789bdb825bebd80dbfdfacdfc427b8582930a9983b38cdd6aeba04909b5",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dc5a2df33b872126f4d0af82c3e827256977cc01ce7a8e5d88abbff5fa07ac1c",
+    "de26de1d84b4b7995723699718b226082a603e4a31c5e299d87da3b93516a6ea",
     "df068f3e4c4b220c49315355249e9668a6dc8df1b187383e6c9ab306793a10fa",
     "e18a5430e5a8727768f0bdee43afb35e911aaf6de4d5f7c69ed587d6e88ed315",
     "e403084def3361a85bf26036c51d7d6b99bbe6a754afe661c9ffa14bcdca809b",
