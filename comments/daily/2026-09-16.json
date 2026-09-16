@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789540222882,
+  "updatedAt": 1789541048919,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789540826085",
+      "text": "tout gloir pou Bondieu",
+      "userDeviceId": "d26b2c5dc4f59b83327eb036064124949ce0df222511d812b85e93b4454d64df",
+      "userName": "Rusmain beaunomme",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789540827301,
+      "updatedAt": 1789540827301,
+      "status": "active"
+    },
     {
       "id": "local-1789538588129",
       "text": "Amen 🙏",
@@ -213,8 +227,8 @@
     }
   ],
   "likeCount": 69,
-  "shareCount": 112,
-  "viewCount": 276,
+  "shareCount": 113,
+  "viewCount": 283,
   "verseLikedBy": [
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
