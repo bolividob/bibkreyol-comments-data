@@ -1,9 +1,37 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789538416854,
+  "updatedAt": 1789539242251,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789538588129",
+      "text": "Amen 🙏",
+      "userDeviceId": "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
+      "userName": "Rose Myrlande Saint cilien",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789538590876,
+      "updatedAt": 1789538590876,
+      "status": "active"
+    },
+    {
+      "id": "local-1789538557977",
+      "text": "Amén y amén mési pou pawol ou Senyé jezi",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789538558949,
+      "updatedAt": 1789538558949,
+      "status": "active"
+    },
     {
       "id": "local-1789533328461",
       "text": "amèn 🙏🏾",
@@ -184,9 +212,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 109,
-  "viewCount": 261,
+  "likeCount": 69,
+  "shareCount": 111,
+  "viewCount": 268,
   "verseLikedBy": [
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
@@ -228,6 +256,7 @@
     "80f79183de26c2f92267c9639c6031f9bcc8d7e2eb596aebb166999f7564b229",
     "815b71a6a912e5c04a806f106021f79bc747706be33c1a57bcc713b9cd2ec5af",
     "916b9be7918dfdbd21c79b95ac2410715e13558bfe6bd1dbc368310592f2a30b",
+    "919d29b1492b8dbc1ba716048ccb56d4bded55d597b91773f0dceb1d786eb9c3",
     "94ee17ddc54cad17b9c4f04d371919267858f892171180c910fa5af7d27e4082",
     "a1a89e061722d81eddbd78a42fc6e1937e1302d2d6b68fcb4d47fa216add9789",
     "a549ce784e31fa97ed2b8c62693e547a5c0d52ee148459b5aeff09a8465dc190",
@@ -246,6 +275,7 @@
     "cd14df45220491a164596cfc29b9761d5d9263e16e521b21684be81fb9160d32",
     "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
     "db55d789bdb825bebd80dbfdfacdfc427b8582930a9983b38cdd6aeba04909b5",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "dc5a2df33b872126f4d0af82c3e827256977cc01ce7a8e5d88abbff5fa07ac1c",
     "df068f3e4c4b220c49315355249e9668a6dc8df1b187383e6c9ab306793a10fa",
     "e403084def3361a85bf26036c51d7d6b99bbe6a754afe661c9ffa14bcdca809b",
