@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789533004773,
+  "updatedAt": 1789533862085,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789533328461",
+      "text": "amèn 🙏🏾",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789533329991,
+      "updatedAt": 1789533329991,
+      "status": "active"
+    },
     {
       "id": "local-1789529994197",
       "text": "amen",
@@ -170,18 +184,20 @@
       "status": "active"
     }
   ],
-  "likeCount": 59,
-  "shareCount": 90,
-  "viewCount": 215,
+  "likeCount": 61,
+  "shareCount": 92,
+  "viewCount": 223,
   "verseLikedBy": [
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0b7ab757bfd044c781ef9dc6d79f028d1a0a55f2576ff4c0ea195d475ed61671",
     "0bd1c79ee49cda331335f172b51a9da09a442929383b22b3e0871429f12fb653",
     "10562c94dcdd3196ec3717328e4c94fc5863eb99dbe31c9d90c6248434829fa1",
     "1237f60953ff88d14118a4cc38d025af39f6a56e9b5dc6f2b1406a2dbd56987a",
     "19f2074989a96f5a04418fc3a8258cd77d55800e643cb310cf1a241ab2c30b66",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1bfbba8de0adc19151ca2a4699908465e14a4248bb11a444e0c347d1bdc66bea",
     "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
