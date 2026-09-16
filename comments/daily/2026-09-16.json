@@ -1,9 +1,53 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789527601445,
+  "updatedAt": 1789528440821,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789528410877",
+      "text": "Amén 🙏",
+      "userDeviceId": "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49",
+      "userName": "Amén 🙏😇",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789528413850,
+      "updatedAt": 1789528413850,
+      "status": "active"
+    },
+    {
+      "id": "local-1789528386613",
+      "text": "Amén 🙏",
+      "userDeviceId": "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49",
+      "userName": "Amén 🙏😇",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789528390166,
+      "updatedAt": 1789528390166,
+      "status": "active"
+    },
+    {
+      "id": "local-1789527908557",
+      "text": "AMÈN SEIGNEUR 🙏🏽",
+      "userDeviceId": "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
+      "userName": "Raymondeline Riché🙏",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2"
+      ],
+      "createdAt": 1789527911129,
+      "updatedAt": 1789527926163,
+      "status": "active"
+    },
     {
       "id": "local-1789526298278",
       "text": "amén 🙏",
@@ -15,7 +59,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1789526300582,
-      "updatedAt": 1789526300582,
+      "updatedAt": 1789527924910,
       "status": "active"
     },
     {
@@ -26,10 +70,12 @@
       "verseName": "Jowèl 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49"
+      ],
       "createdAt": 1789526034240,
-      "updatedAt": 1789526034240,
+      "updatedAt": 1789528364571,
       "status": "active"
     },
     {
@@ -40,12 +86,13 @@
       "verseName": "Jowèl 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49",
         "57451ac7d00ee8704c3bfb4618a412637666ca8199e716c8a3a370a7ea3842b7"
       ],
       "createdAt": 1789523033541,
-      "updatedAt": 1789523069852,
+      "updatedAt": 1789528362784,
       "status": "active"
     },
     {
@@ -56,10 +103,12 @@
       "verseName": "Jowèl 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49"
+      ],
       "createdAt": 1789522986865,
-      "updatedAt": 1789523024625,
+      "updatedAt": 1789528361874,
       "status": "active"
     },
     {
@@ -70,22 +119,25 @@
       "verseName": "Jowèl 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49"
+      ],
       "createdAt": 1789520934803,
-      "updatedAt": 1789520934803,
+      "updatedAt": 1789528359545,
       "status": "active"
     }
   ],
-  "likeCount": 43,
-  "shareCount": 72,
-  "viewCount": 166,
+  "likeCount": 48,
+  "shareCount": 75,
+  "viewCount": 174,
   "verseLikedBy": [
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
     "0b7ab757bfd044c781ef9dc6d79f028d1a0a55f2576ff4c0ea195d475ed61671",
     "0bd1c79ee49cda331335f172b51a9da09a442929383b22b3e0871429f12fb653",
     "10562c94dcdd3196ec3717328e4c94fc5863eb99dbe31c9d90c6248434829fa1",
     "1237f60953ff88d14118a4cc38d025af39f6a56e9b5dc6f2b1406a2dbd56987a",
+    "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "250c111aa2c8848dbc0a4cf5d673aba629160e3d9269d5b7919287346560e198",
@@ -97,6 +149,7 @@
     "49e6df9544b534c516fb2338154ce1921e5fc68f4ff4ae940e32e356cd9b8d67",
     "507d303aefd1b7181098562ece34a45d11ad97f46eb8441b6da961585d8dcc6e",
     "57451ac7d00ee8704c3bfb4618a412637666ca8199e716c8a3a370a7ea3842b7",
+    "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
     "5bbebc25684a47f05e9dbfbc266e23dde83646bbe80a0fec7c54b4001a381d12",
     "5c3af2ae6327842adf356d7b35e38480f2692f344b3fb930e3e8cd91777a2f86",
     "6274123e36f26ad0fd422f81dce5cda96ba375d715a8dd368e2732542c2535ca",
@@ -116,12 +169,15 @@
     "b55f7dc9bafa157458390f7af997bf210d3a46a1b2655d142e0403a0d393ea7c",
     "b5b34e1975fdb3adcc45b053fd4580fb6581605cece93663edcf861043df16a3",
     "cc56e4e2dec829bcac3f12be835f7e9cb3d990a5c173c3121fd1794d57b6ceb9",
+    "cd14df45220491a164596cfc29b9761d5d9263e16e521b21684be81fb9160d32",
+    "d5b2f07aa64ce2d7b3e08644f40ed2ae289cbf8897c6c90cdd44fea837580cd2",
     "db55d789bdb825bebd80dbfdfacdfc427b8582930a9983b38cdd6aeba04909b5",
     "dc5a2df33b872126f4d0af82c3e827256977cc01ce7a8e5d88abbff5fa07ac1c",
     "df068f3e4c4b220c49315355249e9668a6dc8df1b187383e6c9ab306793a10fa",
     "e403084def3361a85bf26036c51d7d6b99bbe6a754afe661c9ffa14bcdca809b",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
+    "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
     "fa74961d88b7c9559da0f9b7a002982aa86614ec410423d1a47c32306aa1784c",
     "ff2620cfa9a389c36d2f0fd4581c493366f58501d327168cc6f396ac85164166"
   ],
