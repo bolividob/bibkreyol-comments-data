@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789592403944,
+  "updatedAt": 1789593281394,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789592820667",
+      "text": "amen",
+      "userDeviceId": "85bd016de630127b94a3207dde9f684c121f4e2493c413badae37c5f1b78ea85",
+      "userName": "Célita PIERRE",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789592836778,
+      "updatedAt": 1789592836778,
+      "status": "active"
+    },
     {
       "id": "local-1789575890315",
       "text": "Amen",
@@ -465,9 +479,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 169,
-  "shareCount": 345,
-  "viewCount": 753,
+  "likeCount": 170,
+  "shareCount": 346,
+  "viewCount": 761,
   "verseLikedBy": [
     "01c307c449e79a405757eb622f013e77202af51035c7e11e262776fd5915b1f3",
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
@@ -559,6 +573,7 @@
     "82987d31a173530f9ab3861a487ab9558d3a167fe142a96322e90adbfdc5428f",
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "84a526e3126418b293ae5d954a0bcf948bfa2afcb845529f0de64017697e2093",
+    "85bd016de630127b94a3207dde9f684c121f4e2493c413badae37c5f1b78ea85",
     "8ce508feaae60419beaf82250e56946ae1913c8b6c89cf2264b58b0bb42353b1",
     "90e3fbd810b6ba5ba88b58d47b0bc8def00bebfadcf359ff6c6f9640ff4319cf",
     "916b9be7918dfdbd21c79b95ac2410715e13558bfe6bd1dbc368310592f2a30b",
