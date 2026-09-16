@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789563603613,
+  "updatedAt": 1789564441536,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789564183192",
+      "text": "Amén 🙏🙏🙏🙏",
+      "userDeviceId": "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
+      "userName": "se lourdy",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789564365319,
+      "updatedAt": 1789564365319,
+      "status": "active"
+    },
     {
       "id": "local-1789555541231",
       "text": "yo",
@@ -384,9 +398,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 116,
-  "shareCount": 251,
-  "viewCount": 483,
+  "likeCount": 118,
+  "shareCount": 257,
+  "viewCount": 493,
   "verseLikedBy": [
     "01c307c449e79a405757eb622f013e77202af51035c7e11e262776fd5915b1f3",
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
@@ -412,6 +426,7 @@
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "250c111aa2c8848dbc0a4cf5d673aba629160e3d9269d5b7919287346560e198",
+    "2a4aba061f3e7c0fb6f47a15949f47978cd8d22c9280849a8a4bce9fc42db1c2",
     "2a5356307a3880bbb930b790522096a20e39cbc941708cab50f93814de900408",
     "2aa5ac574066a8d09a17f36e23aabe3024734a6783ff02e1b26560a40b9dbf6e",
     "2fa64102594c31c677b84ec60371cf47ed45688097c39d2ee85594ea975d28e8",
@@ -475,6 +490,7 @@
     "bb4cf6d0423ad3d08ab2bd1a20f9f86480e7f0fa18d6ceaaf8fb5524626ebafd",
     "bb5314d5a8022c07b7fcd6400155cd309a5aac23a2f617f7f640d5cb104126c7",
     "be0443c1edb008322cdd4e33c2c97f65a5cf36eb1f94a94692ee4016e1ffc838",
+    "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "bfab924e3eefd9488db115242c715953b8afddd93799c7e2ef50dd7bd36ec2c1",
     "c0230af13b6267a98cdc4d207243f2f617335e5b2ccf8030ccd0f0c2bf5451c1",
     "c5354b2e8f2a735b82f54d4f2d923d16e46067aa29022cbc3b18714b28b166db",
