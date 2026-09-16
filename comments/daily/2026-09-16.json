@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789596942860,
+  "updatedAt": 1789597809130,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Jowèl 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a6a578e95a72962e1c8c3db1e50635c1baa76e534535dc413809605dc20f9ba2"
+      ],
       "createdAt": 1789572606280,
-      "updatedAt": 1789572606280,
+      "updatedAt": 1789597153354,
       "status": "active"
     },
     {
@@ -495,7 +497,7 @@
   ],
   "likeCount": 176,
   "shareCount": 350,
-  "viewCount": 799,
+  "viewCount": 809,
   "verseLikedBy": [
     "01c307c449e79a405757eb622f013e77202af51035c7e11e262776fd5915b1f3",
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
