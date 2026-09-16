@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789543805262,
+  "updatedAt": 1789544642358,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789544134478",
+      "text": "amén",
+      "userDeviceId": "c5354b2e8f2a735b82f54d4f2d923d16e46067aa29022cbc3b18714b28b166db",
+      "userName": "elirose filidor",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789544137214,
+      "updatedAt": 1789544137214,
+      "status": "active"
+    },
     {
       "id": "local-1789540826085",
       "text": "tout gloir pou Bondieu",
@@ -226,9 +240,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
+  "likeCount": 72,
   "shareCount": 117,
-  "viewCount": 307,
+  "viewCount": 315,
   "verseLikedBy": [
     "0201aaca44c29d72af560d60fa10e90472f916041407d930626ceb072ae14dd3",
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
@@ -286,6 +300,7 @@
     "b55f7dc9bafa157458390f7af997bf210d3a46a1b2655d142e0403a0d393ea7c",
     "b5b34e1975fdb3adcc45b053fd4580fb6581605cece93663edcf861043df16a3",
     "bfab924e3eefd9488db115242c715953b8afddd93799c7e2ef50dd7bd36ec2c1",
+    "c5354b2e8f2a735b82f54d4f2d923d16e46067aa29022cbc3b18714b28b166db",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "cc56e4e2dec829bcac3f12be835f7e9cb3d990a5c173c3121fd1794d57b6ceb9",
     "cd14df45220491a164596cfc29b9761d5d9263e16e521b21684be81fb9160d32",
