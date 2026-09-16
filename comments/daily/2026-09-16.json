@@ -1,9 +1,37 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789525801288,
+  "updatedAt": 1789526711264,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789526298278",
+      "text": "amén 🙏",
+      "userDeviceId": "b33fad81bba62e3d62eafcae8c81cedb45cff69560049f49f02887661f351503",
+      "userName": "suzeline cheranfent 🙏🙏✨🇭🇹",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789526300582,
+      "updatedAt": 1789526300582,
+      "status": "active"
+    },
+    {
+      "id": "local-1789526031996",
+      "text": "amén amén",
+      "userDeviceId": "413917fb19b0af94a1ef4b341c3ae8912a57d06bb9f6e45916fb8b4d6d522e53",
+      "userName": "rodolph lindor",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789526034240,
+      "updatedAt": 1789526034240,
+      "status": "active"
+    },
     {
       "id": "local-1789523028978",
       "text": "No si",
@@ -49,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 38,
-  "shareCount": 58,
-  "viewCount": 147,
+  "likeCount": 41,
+  "shareCount": 69,
+  "viewCount": 158,
   "verseLikedBy": [
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
     "0b7ab757bfd044c781ef9dc6d79f028d1a0a55f2576ff4c0ea195d475ed61671",
@@ -65,11 +93,13 @@
     "37c138f67dce3cbdf50ccfecb067e185409989d290415254b7e12583968a81da",
     "3d188b73e16b3fbdc7ce518c68af7504904847ed47db92dcef95803f0eb064d4",
     "3e6279d7d34415ff44640bf8275eb2ca57122f1652f2db9b0c3fb1beb59662e1",
+    "413917fb19b0af94a1ef4b341c3ae8912a57d06bb9f6e45916fb8b4d6d522e53",
     "49e6df9544b534c516fb2338154ce1921e5fc68f4ff4ae940e32e356cd9b8d67",
     "507d303aefd1b7181098562ece34a45d11ad97f46eb8441b6da961585d8dcc6e",
     "57451ac7d00ee8704c3bfb4618a412637666ca8199e716c8a3a370a7ea3842b7",
     "5bbebc25684a47f05e9dbfbc266e23dde83646bbe80a0fec7c54b4001a381d12",
     "5c3af2ae6327842adf356d7b35e38480f2692f344b3fb930e3e8cd91777a2f86",
+    "6274123e36f26ad0fd422f81dce5cda96ba375d715a8dd368e2732542c2535ca",
     "667db1c0e441c2f5e486b1ae13cb44358865a8d609541060f6dd3a497b986f5f",
     "67a0f94d5353f0df9596229ca38832d996165ad2ebb449d5d0537132763062e0",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
@@ -82,6 +112,7 @@
     "ab155aa0cf6038577cb2c0954033cbc615e395106cb3d5ccfe39780dcb749ddf",
     "adb4046a00912d90cabbe92448709b6caf0666069410c5ae03cc916b5ce22a2e",
     "af15146dec7b6342bdc6f1d5126884079247615815864ac2713c6d97fc0c1325",
+    "b33fad81bba62e3d62eafcae8c81cedb45cff69560049f49f02887661f351503",
     "b55f7dc9bafa157458390f7af997bf210d3a46a1b2655d142e0403a0d393ea7c",
     "cc56e4e2dec829bcac3f12be835f7e9cb3d990a5c173c3121fd1794d57b6ceb9",
     "db55d789bdb825bebd80dbfdfacdfc427b8582930a9983b38cdd6aeba04909b5",
