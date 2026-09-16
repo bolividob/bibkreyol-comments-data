@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "verseKey": "daily:2026-09-16",
-  "updatedAt": 1789528440821,
+  "updatedAt": 1789529400766,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789528617467",
+      "text": "Amen 🙏 🙏 🙏",
+      "userDeviceId": "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+      "userName": "Jesy",
+      "verseName": "Jowèl 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789528618484,
+      "updatedAt": 1789528618484,
+      "status": "active"
+    },
     {
       "id": "local-1789528410877",
       "text": "Amén 🙏",
@@ -128,15 +142,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 48,
-  "shareCount": 75,
-  "viewCount": 174,
+  "likeCount": 51,
+  "shareCount": 80,
+  "viewCount": 182,
   "verseLikedBy": [
     "03de98bec1b06de5a86ec506b77cca8c188ca51b88da8da3c4f09d67fe9e2095",
     "0b7ab757bfd044c781ef9dc6d79f028d1a0a55f2576ff4c0ea195d475ed61671",
     "0bd1c79ee49cda331335f172b51a9da09a442929383b22b3e0871429f12fb653",
     "10562c94dcdd3196ec3717328e4c94fc5863eb99dbe31c9d90c6248434829fa1",
     "1237f60953ff88d14118a4cc38d025af39f6a56e9b5dc6f2b1406a2dbd56987a",
+    "19f2074989a96f5a04418fc3a8258cd77d55800e643cb310cf1a241ab2c30b66",
+    "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1e4dc140e5e20c00adb521b8e5199fe8f851059a8892cb502d8ab6c124373f49",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -156,6 +172,7 @@
     "667db1c0e441c2f5e486b1ae13cb44358865a8d609541060f6dd3a497b986f5f",
     "67a0f94d5353f0df9596229ca38832d996165ad2ebb449d5d0537132763062e0",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
+    "77d3eee3b7e1812b8a85eeb6030fe99148f2b2dc696f4bd8938aaff72c2adf6c",
     "7a4b9c15fdc0da14cf51dd12b770f6d0f0b9edb44295fd07415c6882e0531ae9",
     "815b71a6a912e5c04a806f106021f79bc747706be33c1a57bcc713b9cd2ec5af",
     "a1a89e061722d81eddbd78a42fc6e1937e1302d2d6b68fcb4d47fa216add9789",
