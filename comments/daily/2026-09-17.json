@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789624693363,
+  "updatedAt": 1789625702609,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789625378063",
+      "text": "hmm Amen wi",
+      "userDeviceId": "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
+      "userName": "esté",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789625380153,
+      "updatedAt": 1789625380153,
+      "status": "active"
+    },
     {
       "id": "local-1789621124983",
       "text": "Amén y amén",
@@ -171,9 +185,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 125,
-  "viewCount": 264,
+  "likeCount": 58,
+  "shareCount": 127,
+  "viewCount": 271,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
@@ -223,6 +237,7 @@
     "c5bd871c175e713431b924fba8662dcaa28d71e10502b1480757113be260a419",
     "c7ccc601f21c535484d9986e733f3d7ed14e03faf88a1b7772f657f293a78f6e",
     "c8b72331cf13de1ef0997c924213021a5c4ccba202823e059baa4b805fa05ea0",
+    "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "d53ceaf7a1473350681d2d0268e4e787d7ae68ceb6e35ca7e2255324c083c3d1",
     "d64d51baf22fd6fa7c4db529526d5fab2ba278515ef2902be870bfa48fb15c94",
     "df068f3e4c4b220c49315355249e9668a6dc8df1b187383e6c9ab306793a10fa",
