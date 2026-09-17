@@ -1,9 +1,37 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789615804293,
+  "updatedAt": 1789616641882,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789616476415",
+      "text": "Amén Amén",
+      "userDeviceId": "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+      "userName": "Amén amén eh amén",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789616480658,
+      "updatedAt": 1789616480658,
+      "status": "active"
+    },
+    {
+      "id": "local-1789616301506",
+      "text": "ou se met syel la et te a segne",
+      "userDeviceId": "9d86d7eb47ff61ac8c297f974ffa9fa6fe1a53b7111acd934abd8a05e21a0c37",
+      "userName": "Eveline Alzime",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789616303504,
+      "updatedAt": 1789616303504,
+      "status": "active"
+    },
     {
       "id": "local-1789613602525",
       "text": "Merci seigneur amen",
@@ -115,9 +143,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 45,
-  "shareCount": 97,
-  "viewCount": 185,
+  "likeCount": 46,
+  "shareCount": 102,
+  "viewCount": 195,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
@@ -147,6 +175,7 @@
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6f4f19d8e9672c04b0c4eb01f1d081a6b1246827318c5ed6eea7967a874a2fbd",
     "98be250a4396039fe448226946eef8da371aefc19f5b5237ae4ce2385d698387",
+    "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
