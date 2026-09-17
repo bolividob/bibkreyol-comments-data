@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789645445920,
+  "updatedAt": 1789646405910,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789645775142",
+      "text": "amèn 🙏🏾.",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789645778542,
+      "updatedAt": 1789645778542,
+      "status": "active"
+    },
     {
       "id": "local-1789643678580",
       "text": "mési bondye pou nuit la",
@@ -243,13 +257,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 87,
-  "shareCount": 211,
-  "viewCount": 446,
+  "likeCount": 90,
+  "shareCount": 214,
+  "viewCount": 455,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
     "061a843af76d786dcefdded31fb6c1073d28a131f4fd670c6fe8dcea9dc2ed46",
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "08c6154fa9a61381b17454fddb69ef06271a5a3dd3d18bdda10203a4bc6e1059",
     "0c4032b1a07c4a56f1777e5b7e3b4b3a9e6c1525419caa549ea5e6d301f438d5",
     "108979fa6653ade1795c57d7b0c40105b3a3786569e545cea2d2eece3ada2d0d",
@@ -267,6 +282,7 @@
     "2335eb02502f9ebc5832076dabe87bed0b5dc28f29c52e7de9c1298b8375b009",
     "25b3ec03ae295cf7b03460e07cfa1b5a781b072c3ab0b2980f77ae6073c6ac97",
     "266bff7390e2b12c82d96a5fd2d3aabae1e1f813b51f9ecc5d42a596c8f654b9",
+    "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "30d4491d8ae5757ae168ca549ba6b648b53b7f5aef7668133b60a2a5539ea514",
     "3412a6e45f4ae2d274437a642c4c48f0e6ccf731dfdf6454319281c92fdc9b86",
     "3418e287f926aac0a9cca912d404daf26a4ea7c1e5f36d8e05dcf7bf42bfa8e9",
@@ -312,6 +328,7 @@
     "af209ae0c643188410a22e78b6cd22b2a330619ba1af38dcac744487c7659da5",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b6153e752f2548698657c07868a73891d1c7716eacf98e01184580520102da6d",
+    "b984ab9e1bc669decb2f7cd7c1a2b54687504038b07b744ba8079f5cc8893fec",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bfab924e3eefd9488db115242c715953b8afddd93799c7e2ef50dd7bd36ec2c1",
     "c401e841cb5081d81185f23b8357cf8c40304305d4648ace6f465d5fec2c1c5c",
