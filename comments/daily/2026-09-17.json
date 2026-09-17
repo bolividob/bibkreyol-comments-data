@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789604060909,
+  "updatedAt": 1789605001437,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789604609524",
+      "text": "amén",
+      "userDeviceId": "6b61c42358e076abfd6cb9de85e91a75b2fcf4b2077c8c7c545d6b7ce84d7202",
+      "userName": "fenaldo Pierre",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789604611876,
+      "updatedAt": 1789604611876,
+      "status": "active"
+    },
     {
       "id": "local-1789608779492",
       "text": "Amen🙏",
@@ -21,12 +35,18 @@
       "status": "active"
     }
   ],
-  "likeCount": 3,
-  "shareCount": 10,
-  "viewCount": 61,
+  "likeCount": 9,
+  "shareCount": 19,
+  "viewCount": 74,
   "verseLikedBy": [
+    "1307ace1232a72ce61ea07badfd4a2a50e4bfd4a4e55ae35afe44f5331315b9d",
     "3839b5c2c09b598ae8879bf4d464f7fcfc492b9cebfb1eb22d61bf8e5da89127",
+    "4d562f9d02cc15b4c84371bf830b237acfb5bb47be1f7492be6f9fb98585f87a",
+    "6b61c42358e076abfd6cb9de85e91a75b2fcf4b2077c8c7c545d6b7ce84d7202",
+    "af209ae0c643188410a22e78b6cd22b2a330619ba1af38dcac744487c7659da5",
+    "c7ccc601f21c535484d9986e733f3d7ed14e03faf88a1b7772f657f293a78f6e",
     "d64d51baf22fd6fa7c4db529526d5fab2ba278515ef2902be870bfa48fb15c94",
+    "e0acdade63769cad1f49a07963add8007c5be068a470e2d292c8f8a978328786",
     "fc6610739f3db4550f5d269c7aa3484a5ff3879ab9c6d7f3aba1f0463c3c32b6"
   ],
   "verseViewBy": []
