@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789620315141,
+  "updatedAt": 1789621241337,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789621124983",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789621126022,
+      "updatedAt": 1789621126022,
+      "status": "active"
+    },
     {
       "id": "local-1789618756059",
       "text": "Amen 🙏",
@@ -157,9 +171,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 52,
-  "shareCount": 113,
-  "viewCount": 227,
+  "likeCount": 53,
+  "shareCount": 116,
+  "viewCount": 235,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
@@ -167,6 +181,7 @@
     "1307ace1232a72ce61ea07badfd4a2a50e4bfd4a4e55ae35afe44f5331315b9d",
     "16a74e61afb40f8590a26c1bef963f2f5a24c550bfec1763128000f5775157ce",
     "16ca6ae2627256629caac879cb1d23927dc59de922007bdda934ff713ffe8cef",
+    "1bfbba8de0adc19151ca2a4699908465e14a4248bb11a444e0c347d1bdc66bea",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1ded01b78f386480a85b128b207edd61b11b76150239edf40aed95eed68e341a",
     "21393b1372e19ccf47bab8feaf496f6ae2204d4c09cf0565fa920213dca1e328",
