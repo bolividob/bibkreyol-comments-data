@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789642803104,
+  "updatedAt": 1789643684172,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789643678580",
+      "text": "mési bondye pou nuit la",
+      "userDeviceId": "a520536e9b8042ccd838821a139c34b7ea1fec3140c69c40dedf95f2e2f09527",
+      "userName": "sé widline Pierre",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789643680636,
+      "updatedAt": 1789643680636,
+      "status": "active"
+    },
     {
       "id": "local-1789642341015",
       "text": "Amen",
@@ -227,9 +241,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 84,
-  "shareCount": 192,
-  "viewCount": 421,
+  "likeCount": 86,
+  "shareCount": 195,
+  "viewCount": 429,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
@@ -260,6 +274,7 @@
     "3acdd7d3ff3477babd90ffb9a6bba8a68923946ca1da1422c5a2422487a12de4",
     "40f033fd695f2c01f7c29338b47d8d6f462fd53a02a9427fc907ea4cfc6bb17f",
     "43cee7de124b08c787c4259a06860ca77d21966e339e8e9484ca68d8d3696b6b",
+    "4680de9303df2806bebe636a0058484966b5b04caf49a884faa9df0121c8272a",
     "49f33d0d44eeec843ee385ea9389a52235bcfc14a2cadb7e0d00b5c174901269",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d562f9d02cc15b4c84371bf830b237acfb5bb47be1f7492be6f9fb98585f87a",
@@ -288,6 +303,7 @@
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
+    "a520536e9b8042ccd838821a139c34b7ea1fec3140c69c40dedf95f2e2f09527",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
     "af209ae0c643188410a22e78b6cd22b2a330619ba1af38dcac744487c7659da5",
