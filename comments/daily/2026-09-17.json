@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789647342504,
+  "updatedAt": 1789648244416,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789647701593",
+      "text": "Amen,  ki vle nou menm kretyen aranje nou e pa panse nou k kche devan fas Bondye",
+      "userDeviceId": "986b617cbf64ccfd84afd13e42f0aaf0a97b0ec03b7a568041ff5d67aedb4d76",
+      "userName": "Jean Remy Bredy",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789647702769,
+      "updatedAt": 1789647702769,
+      "status": "active"
+    },
     {
       "id": "local-1789645775142",
       "text": "amèn 🙏🏾.",
@@ -29,7 +43,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1789643680636,
-      "updatedAt": 1789643680636,
+      "updatedAt": 1789648165557,
       "status": "active"
     },
     {
@@ -40,10 +54,12 @@
       "verseName": "Abdyas 1:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "90c8a751944cff5381eaa23f84bc110d808575508b925fdea030e41c9c9e4949"
+      ],
       "createdAt": 1789642342225,
-      "updatedAt": 1789642342225,
+      "updatedAt": 1789648164002,
       "status": "active"
     },
     {
@@ -257,9 +273,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
-  "shareCount": 216,
-  "viewCount": 463,
+  "likeCount": 94,
+  "shareCount": 225,
+  "viewCount": 472,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "036b9daa8e410412dfe561b24a7a25d512d9f6a7e191ca2707f9f4283c7bda86",
@@ -345,6 +361,7 @@
     "ce16992167c9366c9f5ac43d69f2e6e419cf148f60ce35d5515160a05fc3a083",
     "d53ceaf7a1473350681d2d0268e4e787d7ae68ceb6e35ca7e2255324c083c3d1",
     "d64d51baf22fd6fa7c4db529526d5fab2ba278515ef2902be870bfa48fb15c94",
+    "d87deebe392aca72f0971186cf885437953a58910f691fc6da7043db477a0504",
     "d8d26f6478384c82f8412f0ee7a9dba562e718dd0853166715c8c5cb69e936eb",
     "db845a8317f6a845dc7db651d0073812f339e5df3452c802cf2e357524e360b3",
     "df068f3e4c4b220c49315355249e9668a6dc8df1b187383e6c9ab306793a10fa",
