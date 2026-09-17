@@ -1,9 +1,37 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789633805046,
+  "updatedAt": 1789634648384,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789634239181",
+      "text": "gloua pou.Bondye",
+      "userDeviceId": "997e9cd264ba148baa0a297e8c244a112daf958f694cffa357b70ef28080b0c1",
+      "userName": "Gener dornevil",
+      "verseName": "Abdyas 1:4",
+      "parentId": "local-1789608779492",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789634241615,
+      "updatedAt": 1789634241615,
+      "status": "active"
+    },
+    {
+      "id": "local-1789634076013",
+      "text": "Bondye tout gloua se pou ou",
+      "userDeviceId": "997e9cd264ba148baa0a297e8c244a112daf958f694cffa357b70ef28080b0c1",
+      "userName": "Gener dornevil",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789634078989,
+      "updatedAt": 1789634078989,
+      "status": "active"
+    },
     {
       "id": "local-1789625378063",
       "text": "hmm Amen wi",
@@ -173,7 +201,7 @@
       "userName": "charleron Tanisha",
       "verseName": "Abdyas 1:4",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 3,
       "likedBy": [
         "16ca6ae2627256629caac879cb1d23927dc59de922007bdda934ff713ffe8cef",
@@ -181,13 +209,13 @@
         "d64d51baf22fd6fa7c4db529526d5fab2ba278515ef2902be870bfa48fb15c94"
       ],
       "createdAt": 1789597967899,
-      "updatedAt": 1789611222499,
+      "updatedAt": 1789634241615,
       "status": "active"
     }
   ],
   "likeCount": 61,
   "shareCount": 144,
-  "viewCount": 341,
+  "viewCount": 348,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
