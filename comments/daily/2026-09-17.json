@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789613143374,
+  "updatedAt": 1789614046310,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789613602525",
+      "text": "Merci seigneur amen",
+      "userDeviceId": "f17d1a328f9261a20d8961eca3478552819028475220968da36760e5a69c3a87",
+      "userName": "Amen",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789613605934,
+      "updatedAt": 1789613605934,
+      "status": "active"
+    },
     {
       "id": "local-1789613112175",
       "text": "amén amén amén 🙏",
@@ -101,14 +115,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 36,
-  "shareCount": 79,
-  "viewCount": 160,
+  "likeCount": 40,
+  "shareCount": 87,
+  "viewCount": 169,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
     "108979fa6653ade1795c57d7b0c40105b3a3786569e545cea2d2eece3ada2d0d",
     "1307ace1232a72ce61ea07badfd4a2a50e4bfd4a4e55ae35afe44f5331315b9d",
+    "16a74e61afb40f8590a26c1bef963f2f5a24c550bfec1763128000f5775157ce",
     "16ca6ae2627256629caac879cb1d23927dc59de922007bdda934ff713ffe8cef",
     "21393b1372e19ccf47bab8feaf496f6ae2204d4c09cf0565fa920213dca1e328",
     "22a8f0624007e052cf9ba4f5b93bf2c08c79278a4806adb9072a8b406adab415",
@@ -124,9 +139,11 @@
     "58907d99beee3826379c5e9157e2c95fbb17bfa8bb8009efea0d074e8858979a",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "5cdeb79a2c103cf86c784664224550b5290139a0aa2ad723cd21d5bc6ab1c5dc",
+    "6a060262e2b3ff60b545e68cf52de47716a73fc5571a3a45cfa11c95c9ad13f3",
     "6b61c42358e076abfd6cb9de85e91a75b2fcf4b2077c8c7c545d6b7ce84d7202",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6f4f19d8e9672c04b0c4eb01f1d081a6b1246827318c5ed6eea7967a874a2fbd",
+    "98be250a4396039fe448226946eef8da371aefc19f5b5237ae4ce2385d698387",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
     "af209ae0c643188410a22e78b6cd22b2a330619ba1af38dcac744487c7659da5",
@@ -139,6 +156,7 @@
     "df068f3e4c4b220c49315355249e9668a6dc8df1b187383e6c9ab306793a10fa",
     "e0acdade63769cad1f49a07963add8007c5be068a470e2d292c8f8a978328786",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
+    "f17d1a328f9261a20d8961eca3478552819028475220968da36760e5a69c3a87",
     "f6ebb4843776054ee6e47560804c2815b2dac34973dae56648d5f5a9ec77a567",
     "fc6610739f3db4550f5d269c7aa3484a5ff3879ab9c6d7f3aba1f0463c3c32b6"
   ],
