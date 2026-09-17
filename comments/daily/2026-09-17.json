@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789618441470,
+  "updatedAt": 1789619438333,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789618756059",
+      "text": "Amen 🙏",
+      "userDeviceId": "692f62a310acdc9c823bf1fb2cb2b70577e04b3e47e320b2a87c05a9328af5b9",
+      "userName": "Marilande",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789618757120,
+      "updatedAt": 1789618757120,
+      "status": "active"
+    },
     {
       "id": "local-1789616476415",
       "text": "Amén Amén",
@@ -143,9 +157,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 49,
-  "shareCount": 110,
-  "viewCount": 210,
+  "likeCount": 51,
+  "shareCount": 111,
+  "viewCount": 220,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
@@ -170,6 +184,7 @@
     "55c441f47e9e74ee92a2df2fdde3817e3a9804fe93e463ac156f0377bec01041",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "5cdeb79a2c103cf86c784664224550b5290139a0aa2ad723cd21d5bc6ab1c5dc",
+    "692f62a310acdc9c823bf1fb2cb2b70577e04b3e47e320b2a87c05a9328af5b9",
     "6a060262e2b3ff60b545e68cf52de47716a73fc5571a3a45cfa11c95c9ad13f3",
     "6b5babecd2624719b1c32f1ae9da123724351672826c3471d81e4f1a538bd5c2",
     "6b61c42358e076abfd6cb9de85e91a75b2fcf4b2077c8c7c545d6b7ce84d7202",
@@ -185,6 +200,7 @@
     "c401e841cb5081d81185f23b8357cf8c40304305d4648ace6f465d5fec2c1c5c",
     "c407e5efdb690b2eacab708d0426968b49c4b614d9017a1c5826a8edfdc55fc1",
     "c53142e5422e04162b95cbccc16a079f2bbc76e67388191a0aebe451c5637d1c",
+    "c5bd871c175e713431b924fba8662dcaa28d71e10502b1480757113be260a419",
     "c7ccc601f21c535484d9986e733f3d7ed14e03faf88a1b7772f657f293a78f6e",
     "c8b72331cf13de1ef0997c924213021a5c4ccba202823e059baa4b805fa05ea0",
     "d53ceaf7a1473350681d2d0268e4e787d7ae68ceb6e35ca7e2255324c083c3d1",
