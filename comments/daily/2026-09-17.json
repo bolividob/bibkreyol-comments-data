@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789641913202,
+  "updatedAt": 1789642803104,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789642341015",
+      "text": "Amen",
+      "userDeviceId": "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
+      "userName": "bébé",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789642342225,
+      "updatedAt": 1789642342225,
+      "status": "active"
+    },
     {
       "id": "local-1789634239181",
       "text": "gloua pou.Bondye",
@@ -213,9 +227,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 81,
-  "shareCount": 182,
-  "viewCount": 412,
+  "likeCount": 84,
+  "shareCount": 192,
+  "viewCount": 421,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "03aaa25953d002a0e43a27ce5cbeb8433924711156fcd3b3923d97e6367acf2d",
@@ -231,9 +245,11 @@
     "1bfbba8de0adc19151ca2a4699908465e14a4248bb11a444e0c347d1bdc66bea",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
     "1ded01b78f386480a85b128b207edd61b11b76150239edf40aed95eed68e341a",
+    "1f6f892aada9424e51621b6d62a176e1e2f6ef3b1cdbae51c10ac542f4d871f3",
     "21393b1372e19ccf47bab8feaf496f6ae2204d4c09cf0565fa920213dca1e328",
     "22a8f0624007e052cf9ba4f5b93bf2c08c79278a4806adb9072a8b406adab415",
     "2335eb02502f9ebc5832076dabe87bed0b5dc28f29c52e7de9c1298b8375b009",
+    "25b3ec03ae295cf7b03460e07cfa1b5a781b072c3ab0b2980f77ae6073c6ac97",
     "266bff7390e2b12c82d96a5fd2d3aabae1e1f813b51f9ecc5d42a596c8f654b9",
     "30d4491d8ae5757ae168ca549ba6b648b53b7f5aef7668133b60a2a5539ea514",
     "3412a6e45f4ae2d274437a642c4c48f0e6ccf731dfdf6454319281c92fdc9b86",
@@ -247,6 +263,7 @@
     "49f33d0d44eeec843ee385ea9389a52235bcfc14a2cadb7e0d00b5c174901269",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d562f9d02cc15b4c84371bf830b237acfb5bb47be1f7492be6f9fb98585f87a",
+    "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
     "4dfe08efde62039cd1849fd49953c43052ed79b1d07a776ca554e4122f63c713",
     "5185bcf9f44cf8cf6472303ca5f0c0c82748ba1d92c0e85366e5bbb8e3cda38d",
     "5347f1d6cea64350ec51b408d421e7fdaee0c7e1592cc291d19d3d41b0246259",
