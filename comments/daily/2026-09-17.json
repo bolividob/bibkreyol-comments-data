@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789655439883,
+  "updatedAt": 1789656277760,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789655416125",
+      "text": "🙏🙏amèm",
+      "userDeviceId": "50a92fa5a7ab5e87078ff783ef9f897fdbe3efa8b049ee1adf0459524ee7336f",
+      "userName": "widoo",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789655460173,
+      "updatedAt": 1789655460173,
+      "status": "active"
+    },
     {
       "id": "local-1789647701593",
       "text": "Amen,  ki vle nou menm kretyen aranje nou e pa panse nou k kche devan fas Bondye",
@@ -274,8 +288,8 @@
     }
   ],
   "likeCount": 112,
-  "shareCount": 252,
-  "viewCount": 540,
+  "shareCount": 255,
+  "viewCount": 547,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "036b9daa8e410412dfe561b24a7a25d512d9f6a7e191ca2707f9f4283c7bda86",
