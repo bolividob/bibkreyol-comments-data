@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789663444654,
+  "updatedAt": 1789664401981,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789663856718",
+      "text": "amen 3fwa",
+      "userDeviceId": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
+      "userName": "BrebiBonDye😊🙏",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789663859815,
+      "updatedAt": 1789663859815,
+      "status": "active"
+    },
     {
       "id": "local-1789655416125",
       "text": "🙏🙏amèm",
@@ -296,9 +310,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 124,
-  "shareCount": 279,
-  "viewCount": 613,
+  "likeCount": 126,
+  "shareCount": 282,
+  "viewCount": 621,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "036b9daa8e410412dfe561b24a7a25d512d9f6a7e191ca2707f9f4283c7bda86",
@@ -317,6 +331,7 @@
     "1b4164501d83a013b9ea552ac0461640129c3092d3a2c12d66e21a1fe5c93893",
     "1bfbba8de0adc19151ca2a4699908465e14a4248bb11a444e0c347d1bdc66bea",
     "1c310e0b76cc4d35a39f86d563cc93d72ec00ade4bd1490dc251c466aeae294c",
+    "1cb29fc4ba97b483c2f2be304dc9716b56e6f64b9f5fb53f9e6f9a35e1660076",
     "1ded01b78f386480a85b128b207edd61b11b76150239edf40aed95eed68e341a",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
@@ -420,6 +435,7 @@
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
     "ecd5f9bb383de5016b8102fe33cd01f8b861ea860155f54dfe08296c65a2b6ce",
     "f17d1a328f9261a20d8961eca3478552819028475220968da36760e5a69c3a87",
+    "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
     "f6ebb4843776054ee6e47560804c2815b2dac34973dae56648d5f5a9ec77a567",
     "f99e0563b49a831071f9587f74394b808e3d0297c29f2432d378df1d707a1cf0",
     "fabcb19cd80608a74fb518abb4b40cfa0663a0051f7f8ba7b077aad27ca376fe",
