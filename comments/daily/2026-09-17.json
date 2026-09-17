@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789608602565,
+  "updatedAt": 1789609467153,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789609257363",
+      "text": "Amen amen amen amen",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789609258672,
+      "updatedAt": 1789609258672,
+      "status": "active"
+    },
     {
       "id": "local-1789606311145",
       "text": "god la",
@@ -50,8 +64,8 @@
     }
   ],
   "likeCount": 20,
-  "shareCount": 44,
-  "viewCount": 112,
+  "shareCount": 49,
+  "viewCount": 121,
   "verseLikedBy": [
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
     "1307ace1232a72ce61ea07badfd4a2a50e4bfd4a4e55ae35afe44f5331315b9d",
