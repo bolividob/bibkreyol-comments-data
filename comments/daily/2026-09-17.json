@@ -1,9 +1,23 @@
 {
   "date": "2026-09-17",
   "verseKey": "daily:2026-09-17",
-  "updatedAt": 1789605862141,
+  "updatedAt": 1789606822418,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789606311145",
+      "text": "god la",
+      "userDeviceId": "5cdeb79a2c103cf86c784664224550b5290139a0aa2ad723cd21d5bc6ab1c5dc",
+      "userName": "godson",
+      "verseName": "Abdyas 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789606312735,
+      "updatedAt": 1789606312735,
+      "status": "active"
+    },
     {
       "id": "local-1789604609524",
       "text": "amén",
@@ -35,18 +49,20 @@
       "status": "active"
     }
   ],
-  "likeCount": 11,
-  "shareCount": 24,
-  "viewCount": 82,
+  "likeCount": 13,
+  "shareCount": 31,
+  "viewCount": 94,
   "verseLikedBy": [
     "1307ace1232a72ce61ea07badfd4a2a50e4bfd4a4e55ae35afe44f5331315b9d",
     "3839b5c2c09b598ae8879bf4d464f7fcfc492b9cebfb1eb22d61bf8e5da89127",
     "3a4abd9be5c5626b0584b54b8dc58f4c3311ab2ac59456f99ec6cba51bf3c143",
     "4d562f9d02cc15b4c84371bf830b237acfb5bb47be1f7492be6f9fb98585f87a",
+    "5cdeb79a2c103cf86c784664224550b5290139a0aa2ad723cd21d5bc6ab1c5dc",
     "6b61c42358e076abfd6cb9de85e91a75b2fcf4b2077c8c7c545d6b7ce84d7202",
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
     "af209ae0c643188410a22e78b6cd22b2a330619ba1af38dcac744487c7659da5",
     "c7ccc601f21c535484d9986e733f3d7ed14e03faf88a1b7772f657f293a78f6e",
+    "c8b72331cf13de1ef0997c924213021a5c4ccba202823e059baa4b805fa05ea0",
     "d64d51baf22fd6fa7c4db529526d5fab2ba278515ef2902be870bfa48fb15c94",
     "e0acdade63769cad1f49a07963add8007c5be068a470e2d292c8f8a978328786",
     "fc6610739f3db4550f5d269c7aa3484a5ff3879ab9c6d7f3aba1f0463c3c32b6"
