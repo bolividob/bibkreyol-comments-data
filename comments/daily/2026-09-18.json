@@ -1,9 +1,23 @@
 {
   "date": "2026-09-18",
   "verseKey": "daily:2026-09-18",
-  "updatedAt": 1789747223023,
+  "updatedAt": 1789748145028,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789748052751",
+      "text": "Glwa a Dye 🙏🙏",
+      "userDeviceId": "a3c4ccf1b19be6894308381be811a8c7902a5727655a6e5ffcb444a47b2fc31c",
+      "userName": "Mme Françoise",
+      "verseName": "Matye 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789748055062,
+      "updatedAt": 1789748055062,
+      "status": "active"
+    },
     {
       "id": "local-1789734732883",
       "text": "Amén",
@@ -91,9 +105,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 92,
-  "shareCount": 137,
-  "viewCount": 600,
+  "likeCount": 95,
+  "shareCount": 138,
+  "viewCount": 608,
   "verseLikedBy": [
     "0313e8f79dee53908bf8a349719f858ac9ebe31a764ed049750d0a5cc2ec75cc",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -109,6 +123,7 @@
     "1cd0dbc620e733a017202487627b53a4f35664e7cb232d8cd3090e7daba8ea50",
     "1d3cac66c33d5b6ca049e6037d2c2e98be1450d87d1b587b22320f7f1c582c5d",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
+    "1ee5d233e10d7431328c42f3116f12c38c47d0ede9352de2b65f90593b3480cf",
     "1ef9bc8482d8b63d3ac67db597a5d52fb559825372e4e9bdc1e6aced002f0ceb",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
@@ -156,6 +171,7 @@
     "9f87f9c4fc90a87cf0a28440ca9b7a3cccda1f5bcc2ee71abd1bc55c4fd88bb9",
     "a2655b4c05174787c5ce2950f9ef26f40048d973174958947b2e6d105d8b54cf",
     "a3322b3bbea53b2dc5ebe12c39eb4a1212fa96d96010648457a62a017d068395",
+    "a3c4ccf1b19be6894308381be811a8c7902a5727655a6e5ffcb444a47b2fc31c",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9a203b71775d3914add4ba39c74519b23b6d2e8fe0808fd39fdffbbc9b05a0c",
     "b2d29a99ceb9e5f017f78a90ab45abfcdb380071e9bef1062c494f10f4e51b2a",
@@ -174,6 +190,7 @@
     "d16f2cde625e4aeba94de540c3b36e827da4d81141dfbe836ec703369a94553d",
     "d1b89fab6d422252dc4641c653537f90a11569ebad660bfea5a0b7a2815e3d39",
     "d3b9783e606d06172606941084ce71b1dedcef4179a93dac8079b55e6b5cee9b",
+    "d5c09c9fc804346d3385599a0f7a8d8fce33a8205037e245016ce4dddd5ce2d0",
     "d8d26f6478384c82f8412f0ee7a9dba562e718dd0853166715c8c5cb69e936eb",
     "dbc0bc86d30b22273e2edea34154e80aa3ce63da83f2e7f219676364a38e3835",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
