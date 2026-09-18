@@ -1,9 +1,23 @@
 {
   "date": "2026-09-18",
   "verseKey": "daily:2026-09-18",
-  "updatedAt": 1789734601729,
+  "updatedAt": 1789735446893,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789734732883",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Matye 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789734734642,
+      "updatedAt": 1789734734642,
+      "status": "active"
+    },
     {
       "id": "local-1789732932317",
       "text": "amen 🙏🙌",
@@ -77,9 +91,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 75,
-  "shareCount": 110,
-  "viewCount": 476,
+  "likeCount": 76,
+  "shareCount": 111,
+  "viewCount": 484,
   "verseLikedBy": [
     "0313e8f79dee53908bf8a349719f858ac9ebe31a764ed049750d0a5cc2ec75cc",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -107,6 +121,7 @@
     "39b4a21ca415b040d538d76bd61751b7a974145f3b692daa6e34bad4999210f3",
     "3a4abd9be5c5626b0584b54b8dc58f4c3311ab2ac59456f99ec6cba51bf3c143",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "49c9d982ad768f8da05288008ce3f7c1e5c8197ed9ed5d2abe73b77017835e1b",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "53e15533cd40c51a49d8e61cba5b451a6198222e7c9cf7eaaf8fc25c47fef074",
