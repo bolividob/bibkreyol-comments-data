@@ -1,9 +1,23 @@
 {
   "date": "2026-09-19",
   "verseKey": "daily:2026-09-19",
-  "updatedAt": 1789782274709,
+  "updatedAt": 1789783205741,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789782949652",
+      "text": "amén amén amén",
+      "userDeviceId": "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+      "userName": "amén amén amén",
+      "verseName": "2 Korentyen 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789783025352,
+      "updatedAt": 1789783025352,
+      "status": "active"
+    },
     {
       "id": "local-1789777444641",
       "text": "amén trois froi",
@@ -19,11 +33,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 17,
-  "shareCount": 39,
-  "viewCount": 113,
+  "likeCount": 21,
+  "shareCount": 42,
+  "viewCount": 123,
   "verseLikedBy": [
+    "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "09e12c43b33cb6f6c9dfa5988f75ee2ba898241a6e914d191e31e1f8c9a79f37",
     "0fed0a9b981ec8167d40aa8a8ae64166d94879bc4ca021891e649c5467380106",
+    "18fc07e30260768e3d53d36ad1d73defa60907ae3dc4aec9cc2afad0ee1a6498",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3df690f2634ef00c36461aa634f9b0ada73daf5cbd33c7ed0f012df07a40a1e7",
@@ -36,6 +53,7 @@
     "935aa8e04633ec41de1bb237023b1c2b6d661feac5ef6bdd9ead11558f6cacae",
     "9caeb3ecd88557a301c301799f70426b86a6c8d828920456e78f7572c80b7c2b",
     "a24fa431a15994070197856d431230e77c8d1f3413d7caf12a6ed9d68371655d",
+    "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
     "c2f78a44aee0e45a48329ee009133ca3b4fb940025db910eb2809cd64c7c9a02",
     "c39aed24b3a7876842ee708a09a5b9bd441f03cd461d220bc2c1be9f2e9cab02",
     "d3546b040e9a50179fd655619fe411029a1d27711b8c45db34f52dd68f722a3b",
