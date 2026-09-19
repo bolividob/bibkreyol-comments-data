@@ -1,9 +1,23 @@
 {
   "date": "2026-09-19",
   "verseKey": "daily:2026-09-19",
-  "updatedAt": 1789816450020,
+  "updatedAt": 1789817438666,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789816557526",
+      "text": "Amen",
+      "userDeviceId": "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
+      "userName": "bébé",
+      "verseName": "2 Korentyen 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789816560966,
+      "updatedAt": 1789816560966,
+      "status": "active"
+    },
     {
       "id": "local-1789805856717",
       "text": "Amen amen amen amen amen 🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼🙏🏼",
@@ -89,9 +103,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
-  "shareCount": 124,
-  "viewCount": 422,
+  "likeCount": 75,
+  "shareCount": 131,
+  "viewCount": 430,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "0548b4b25fb169b87ef1f5fb71c218335ef43c8d7c1206527663953c35fa24ae",
@@ -121,6 +135,7 @@
     "425d643ea6b1f12236286242e1e386163f4b37a90c7f51b1e769ad1ca78c1aa9",
     "46e7dc0bd44e67a53f9fa7e716f505bfd3c4b1efabc1276dc92b800cde55aaf4",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
+    "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
     "4e31e9e255e0474941247bc50b27312e8a5242d55b93f9bdb769a843df4c0773",
     "5108d29246a40e41da51cc89e1135eea0cae0f74e0eb02d37099c7c7b025f988",
     "6467a0998f541952987508901c004e3b6fff74a42940a3458d60ee8bc529ce0e",
@@ -135,6 +150,7 @@
     "858dcc5b051bbf1e2d9c6bc2faaa67b7d6273728a47f820c3fbd882add3240ee",
     "89eb0be1822ffd8dab9faedb16a8e4c65a2dbcd114730a96bff16f983eb70f22",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
+    "914760230ad61494514b4ad98cb63489bef3bc2b85f6b51ee507a082b59eff1f",
     "935aa8e04633ec41de1bb237023b1c2b6d661feac5ef6bdd9ead11558f6cacae",
     "97f31a8c0aed73b14f7e8ac2f6e53488eedfcf3d2670adb2ab92c86b6addf944",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
