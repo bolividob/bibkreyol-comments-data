@@ -1,9 +1,23 @@
 {
   "date": "2026-09-19",
   "verseKey": "daily:2026-09-19",
-  "updatedAt": 1789857841618,
+  "updatedAt": 1789858815898,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789858322349",
+      "text": "tout glwa pou Bondye.",
+      "userDeviceId": "bffec6fd349217b2af29cd733fbe4acb5b84d85d0039dcfd57ace7477393cc98",
+      "userName": "Bendy Beaubrun",
+      "verseName": "2 Korentyen 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789858324129,
+      "updatedAt": 1789858324129,
+      "status": "active"
+    },
     {
       "id": "local-1789839535417",
       "text": "amen amen amen 🙏🙏",
@@ -224,9 +238,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 136,
-  "shareCount": 238,
-  "viewCount": 800,
+  "likeCount": 137,
+  "shareCount": 241,
+  "viewCount": 809,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "052bcdd2eb0908665863e1c262a5890ffa606e851225249ee312b2ddd9b62959",
@@ -331,6 +345,7 @@
     "bb2814e289bd0adcb6718e36c165c9c829799c2156fa3c62d41e025d9a150e12",
     "bcc24b7c6ada8d281f98e3587b8b9da34faa913eb05ba20fe6d6e95e321471cc",
     "be0443c1edb008322cdd4e33c2c97f65a5cf36eb1f94a94692ee4016e1ffc838",
+    "bffec6fd349217b2af29cd733fbe4acb5b84d85d0039dcfd57ace7477393cc98",
     "c0e6e296065ec2d463268841793f0875eed9224a280c335ca2bc7fbc26651e5e",
     "c1be42f45b6676649a7eb44de863b956697291fcebbdf15944cec809c9fcee44",
     "c238e5243b1fb296a49af1b4750eb536a95109308ed9d544fa20dad883723bb9",
