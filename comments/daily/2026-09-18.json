@@ -1,9 +1,23 @@
 {
   "date": "2026-09-18",
   "verseKey": "daily:2026-09-18",
-  "updatedAt": 1789775040869,
+  "updatedAt": 1789776001829,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789775230979",
+      "text": "🙏 amen",
+      "userDeviceId": "5426dae8f9e742121064a98dd284cab80d407af53e4914c5088a01817c70a97e",
+      "userName": "christ",
+      "verseName": "Matye 1:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789775232271,
+      "updatedAt": 1789775232271,
+      "status": "active"
+    },
     {
       "id": "local-1789752907947",
       "text": "bonDieu grand",
@@ -12,10 +26,12 @@
       "verseName": "Egzòd 4:8",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "0ace02b105bbda5f65a52aff6da186ba7c8f14d89245399033cef052f9f5609d"
+      ],
       "createdAt": 1789757956098,
-      "updatedAt": 1789757956098,
+      "updatedAt": 1789775404156,
       "status": "active"
     },
     {
@@ -133,15 +149,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 126,
-  "shareCount": 206,
-  "viewCount": 872,
+  "likeCount": 127,
+  "shareCount": 208,
+  "viewCount": 881,
   "verseLikedBy": [
     "00710c6725b352cf6768822f20509698784314f6d0b1f891d339da1b948811a0",
     "00db9f2c2d10825d7fc8e96b970ea2ab1b771b14c5da7a5e0713aa57fdbdb491",
     "0313e8f79dee53908bf8a349719f858ac9ebe31a764ed049750d0a5cc2ec75cc",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "08c0a284b028104bc10faabe637bd916728d7669736217cc4f2a2d3f44f75a9f",
+    "0ace02b105bbda5f65a52aff6da186ba7c8f14d89245399033cef052f9f5609d",
     "0b1e51d825c780ed1530e2a0e63f4db4b9baee4e17c1c799a629ed01ff9b0513",
     "0ce57d30edcd79373aac9f1e5267a7604a6c345bef95daedf12d1591d1fe2f89",
     "0e8996d42d1f856d44b023548c5c6391358dc70b9c99cf96046fefc67791475d",
