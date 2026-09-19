@@ -1,9 +1,25 @@
 {
   "date": "2026-09-19",
   "verseKey": "daily:2026-09-19",
-  "updatedAt": 1789828206692,
+  "updatedAt": 1789829113896,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789828875294",
+      "text": "amen",
+      "userDeviceId": "052bcdd2eb0908665863e1c262a5890ffa606e851225249ee312b2ddd9b62959",
+      "userName": "Djulens pou tout tan",
+      "verseName": "2 Korentyen 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "052bcdd2eb0908665863e1c262a5890ffa606e851225249ee312b2ddd9b62959"
+      ],
+      "createdAt": 1789828876604,
+      "updatedAt": 1789828896388,
+      "status": "active"
+    },
     {
       "id": "local-1789825034752",
       "text": "Gloria",
@@ -12,10 +28,12 @@
       "verseName": "2 Korentyen 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "052bcdd2eb0908665863e1c262a5890ffa606e851225249ee312b2ddd9b62959"
+      ],
       "createdAt": 1789826376095,
-      "updatedAt": 1789826376095,
+      "updatedAt": 1789828896779,
       "status": "active"
     },
     {
@@ -26,10 +44,12 @@
       "verseName": "2 Korentyen 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "052bcdd2eb0908665863e1c262a5890ffa606e851225249ee312b2ddd9b62959"
+      ],
       "createdAt": 1789823917814,
-      "updatedAt": 1789823917814,
+      "updatedAt": 1789828912365,
       "status": "active"
     },
     {
@@ -147,11 +167,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 95,
-  "shareCount": 167,
-  "viewCount": 532,
+  "likeCount": 96,
+  "shareCount": 183,
+  "viewCount": 539,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
+    "052bcdd2eb0908665863e1c262a5890ffa606e851225249ee312b2ddd9b62959",
     "0548b4b25fb169b87ef1f5fb71c218335ef43c8d7c1206527663953c35fa24ae",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
