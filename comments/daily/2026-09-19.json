@@ -1,9 +1,23 @@
 {
   "date": "2026-09-19",
   "verseKey": "daily:2026-09-19",
-  "updatedAt": 1789830002158,
+  "updatedAt": 1789830895633,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789830702108",
+      "text": "amen",
+      "userDeviceId": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
+      "userName": "BrebiBonDye😊🙏",
+      "verseName": "2 Korentyen 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789830704942,
+      "updatedAt": 1789830704942,
+      "status": "active"
+    },
     {
       "id": "local-1789828875294",
       "text": "amen",
@@ -167,9 +181,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 98,
-  "shareCount": 187,
-  "viewCount": 547,
+  "likeCount": 100,
+  "shareCount": 189,
+  "viewCount": 554,
   "verseLikedBy": [
     "008bbb91e6fc0d0f8b7ce0728f79406d66792d17e4529bc5c8773bf3e3460dc1",
     "052bcdd2eb0908665863e1c262a5890ffa606e851225249ee312b2ddd9b62959",
@@ -203,6 +217,7 @@
     "3418e287f926aac0a9cca912d404daf26a4ea7c1e5f36d8e05dcf7bf42bfa8e9",
     "3601e3723987d6f9134d700ed12bf333d5fc865505ce5a0946625debf3ad822f",
     "39b4a21ca415b040d538d76bd61751b7a974145f3b692daa6e34bad4999210f3",
+    "39f79c9eb7eb859bace662a267b7dd6ab6cb031f9ae29e345a42f84282d74257",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3b68042c7609ebcc37bf757ecd145f063a82be6fb03a1fff94b7442474fd0a1f",
     "3df690f2634ef00c36461aa634f9b0ada73daf5cbd33c7ed0f012df07a40a1e7",
@@ -266,6 +281,7 @@
     "e7c879a1075fbaf7fa8a66ce79766422efb521b6240825db8c5d9fba144f1144",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
     "f09d10fddb980b6da9f811f0390f22383b3fcc7163e3cef2d9499105f2b9a425",
+    "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
     "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
     "f9b789e0b9d3dba46fa164c5e65f7482fc16068ca68b9fa8a10a03a6f53ecd51",
     "ff5c8bc0116597bbfae14cec255448c3a870c6a76368c1510b4e3bbcfb5f9ccf"
