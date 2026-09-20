@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789892182140,
+  "updatedAt": 1789893007209,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789892624751",
+      "text": "amen amen amen amen",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789892627243,
+      "updatedAt": 1789892627243,
+      "status": "active"
+    },
     {
       "id": "local-1789888524395",
       "text": "Amén y amén amén",
@@ -174,9 +188,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 101,
-  "viewCount": 308,
+  "likeCount": 69,
+  "shareCount": 105,
+  "viewCount": 315,
   "verseLikedBy": [
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
@@ -221,6 +235,7 @@
     "9e77597de0b7c1c7e853a5aac51d5900ab7391bb1908412fd79e979ad6c13f0d",
     "9f0d9138575774bedd202b24534529c4ef6bd2057a754b964d02781594edb589",
     "a18fd5193de549afe155253e38bbe74adc5d160e963a55c6bc08fdce9e113085",
+    "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "ab3a0387f1c041bbaff2ac917ecab0ce0d89570f010cabda8f736ba76349ed75",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
