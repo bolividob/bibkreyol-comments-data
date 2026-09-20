@@ -1,9 +1,37 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789867833328,
+  "updatedAt": 1789868641048,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789868465036",
+      "text": "senyè kenbe menm fèm rive kotem paka rive pou kont mw🙏🙏",
+      "userDeviceId": "18b8dc7c3378bdd33b27bd80af53d52395816c7032aabc20199c6bd4152aa14c",
+      "userName": "marie",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789868469250,
+      "updatedAt": 1789868469250,
+      "status": "active"
+    },
+    {
+      "id": "local-1789867989433",
+      "text": "som 2",
+      "userDeviceId": "ee1b738b51da9d6dc15fcbb1730ad94f11f0601ba778a7b14665bbf69e173f9a",
+      "userName": "som",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789867991950,
+      "updatedAt": 1789867991950,
+      "status": "active"
+    },
     {
       "id": "local-1789866381921",
       "text": "senyè banm fòs pou m fè fòs ak tout sa vle fè fòs avem",
@@ -12,23 +40,28 @@
       "verseName": "Jòb 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724"
+      ],
       "createdAt": 1789866382834,
-      "updatedAt": 1789866382834,
+      "updatedAt": 1789868106570,
       "status": "active"
     }
   ],
-  "likeCount": 16,
+  "likeCount": 19,
   "shareCount": 39,
-  "viewCount": 85,
+  "viewCount": 94,
   "verseLikedBy": [
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
     "1592a1c4f9b55f2d1bfc5304eca4a205ed0b6e39b94d64d1818a8114b6d19525",
     "162706f9052aa7b8484cb880a7a7ad15529ca225a57053bdd794a02d814b2cb4",
+    "1837578db653aed30c7e8aa322d2e46d73e839f7e513ed818c7e3b71a4432f60",
     "184b4e8acc0fadc7c59b9f10dbfc996e59c77f43c488d6d5b5eb4e2f288798b9",
+    "18b8dc7c3378bdd33b27bd80af53d52395816c7032aabc20199c6bd4152aa14c",
     "20a1a200bd587d15eb33208b3e58a022956cebbe00e2e9f007c95e25435dbc61",
+    "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "608e469e42ebaa99a423c2f991481f8c700139ebbc7801eb499ab3e9cc3be5d7",
     "8c4217a8c9661ecae5b95996f3d282d4115e643f05d52843190d8df4910a941c",
     "9957b2563756b8042fbac65b71626f632b446a35fd8d0476fa32efd8d5c6d412",
