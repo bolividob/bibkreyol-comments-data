@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789877762710,
+  "updatedAt": 1789878606033,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789878193896",
+      "text": "amèn 🙏🏾 Senyè banm kouraj a fòs pou'm kontinye batay la.",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789878195741,
+      "updatedAt": 1789878195741,
+      "status": "active"
+    },
     {
       "id": "local-1789871819645",
       "text": "Bondye poukisa ou la gèm konsa senyè",
@@ -111,12 +125,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 55,
-  "shareCount": 75,
-  "viewCount": 183,
+  "likeCount": 56,
+  "shareCount": 78,
+  "viewCount": 190,
   "verseLikedBy": [
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0ce57d30edcd79373aac9f1e5267a7604a6c345bef95daedf12d1591d1fe2f89",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1592a1c4f9b55f2d1bfc5304eca4a205ed0b6e39b94d64d1818a8114b6d19525",
