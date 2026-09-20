@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789889419049,
+  "updatedAt": 1789890326617,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Jòb 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7a1946699cdf5c426bc1b8d2af58cf3f3518c84f68ef83d6533f207b7c91553a"
+      ],
       "createdAt": 1789878195741,
-      "updatedAt": 1789878195741,
+      "updatedAt": 1789889985496,
       "status": "active"
     },
     {
@@ -68,12 +70,13 @@
       "verseName": "Jòb 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "7a1946699cdf5c426bc1b8d2af58cf3f3518c84f68ef83d6533f207b7c91553a",
         "93fb45ddeac95757c8f2657626cf5144d3945f3e0b3c199461135b1f294266a6"
       ],
       "createdAt": 1789871822412,
-      "updatedAt": 1789871839216,
+      "updatedAt": 1789889982649,
       "status": "active"
     },
     {
@@ -114,12 +117,13 @@
       "verseName": "Jòb 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+        "7a1946699cdf5c426bc1b8d2af58cf3f3518c84f68ef83d6533f207b7c91553a"
       ],
       "createdAt": 1789868990134,
-      "updatedAt": 1789868999272,
+      "updatedAt": 1789889997237,
       "status": "active"
     },
     {
@@ -130,10 +134,12 @@
       "verseName": "Jòb 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7a1946699cdf5c426bc1b8d2af58cf3f3518c84f68ef83d6533f207b7c91553a"
+      ],
       "createdAt": 1789868469250,
-      "updatedAt": 1789868469250,
+      "updatedAt": 1789890006810,
       "status": "active"
     },
     {
@@ -158,18 +164,19 @@
       "verseName": "Jòb 4:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724"
+        "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724",
+        "7a1946699cdf5c426bc1b8d2af58cf3f3518c84f68ef83d6533f207b7c91553a"
       ],
       "createdAt": 1789866382834,
-      "updatedAt": 1789868106570,
+      "updatedAt": 1789890017856,
       "status": "active"
     }
   ],
-  "likeCount": 67,
+  "likeCount": 68,
   "shareCount": 98,
-  "viewCount": 284,
+  "viewCount": 292,
   "verseLikedBy": [
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
@@ -188,6 +195,7 @@
     "1efc22754f8ff38ea5f722aa8e2d346a84a6ce22057163cadb801fc6c41d0a26",
     "20a1a200bd587d15eb33208b3e58a022956cebbe00e2e9f007c95e25435dbc61",
     "23ee1b10c84cbc6b791bcc3e6b7bddb20b300c7cb0004e2bc11c88b8fab7fe22",
+    "287eadb6f9e649e7d3bae47e50b0f5c98a4597bd92b0574fbbb8e51a565fe2a8",
     "29de3b87390e535eb339d53e4d82bd14457cd8ac7ff685a876d0dc87b059fde9",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "32413903c6a50c126a314c2538682da8626c42447f0320852174231511fe5283",
