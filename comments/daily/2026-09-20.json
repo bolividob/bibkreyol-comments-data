@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789923727615,
+  "updatedAt": 1789924594293,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789924556625",
+      "text": "Amén 🙏🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789924558897,
+      "updatedAt": 1789924558897,
+      "status": "active"
+    },
     {
       "id": "local-1789914023476",
       "text": "bon trayvay",
@@ -323,9 +337,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 190,
-  "shareCount": 263,
-  "viewCount": 638,
+  "likeCount": 191,
+  "shareCount": 264,
+  "viewCount": 645,
   "verseLikedBy": [
     "0153d1d0dd3791cbbcd94a6451151b69b02d2285dde0f135ea8903c5aa723252",
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
@@ -398,6 +412,7 @@
     "6aa707879324a825c3a6e18bceaea4a060cc9563e4f0b1ef230e49db514d3835",
     "6b0902feae4aab0a0c4be406bf5b7f7d49c57299386c5a8e2c55f3cc20654053",
     "6b78295839501e1f254020443cb5d29daf4178fa20d4631ee6cce9d9e5d088c3",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "72ce24ac784f05347fee4ed2b6cceb7478d91c55ec5cdcd685d36e8a622a649c",
     "748eab4d293958185127c6c80d2cd7c863c8f586d08d2abeb45e8714bc1483aa",
     "74e7514aafd97b0ce650cbe3e2ebb04e959e6c9a46640bd8fe3ef8125a4246d3",
