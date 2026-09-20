@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789942565161,
+  "updatedAt": 1789943406876,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789943059353",
+      "text": "Bondye",
+      "userDeviceId": "37efe94cddd57a2b5680d71bceb53a612e34dabe3b479023fc56d4b77489d44e",
+      "userName": "SCHERDJIEX PROMO TOUTAN VALIDE",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789943061381,
+      "updatedAt": 1789943061381,
+      "status": "active"
+    },
     {
       "id": "local-1789942399990",
       "text": "amén 🙏",
@@ -101,7 +115,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1789914024325,
-      "updatedAt": 1789914024325,
+      "updatedAt": 1789943031578,
       "status": "active"
     },
     {
@@ -409,9 +423,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 224,
+  "likeCount": 225,
   "shareCount": 303,
-  "viewCount": 812,
+  "viewCount": 819,
   "verseLikedBy": [
     "0153d1d0dd3791cbbcd94a6451151b69b02d2285dde0f135ea8903c5aa723252",
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
@@ -615,6 +629,7 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e5d22ece0b27a514fd777bfc7aaa061f4dcba63acfc3f711d5e62b24e8486642",
     "e6150fc242ac564d02d053421c0c8d8197824d1f1d77f4c000dc41abece7b050",
+    "e616c5b1f4fff173ecd8133745ee4e9db1f12227451c7d865440346278547204",
     "e65aa8cb00e5ccefc8a3b492af854086133d59fee7612ffecdbbf3aad94e0d3a",
     "e7145beb429cce1a254fac15b0e84f6de730693b6ead043d912513e971f93511",
     "e71fe65c73e575dbe505428e071180c74d285ce04b06ceb48462648367000a09",
