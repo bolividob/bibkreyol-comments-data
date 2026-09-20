@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789900207417,
+  "updatedAt": 1789901160991,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789823130408",
+      "text": "Amen! 🙏",
+      "userDeviceId": "6ffaacc09d0d84605fd2d8392a0dcf5d5df579bae56b9a779ab48f18f234f171",
+      "userName": "Robenson Delisca",
+      "verseName": "Lèvitik 7:15",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789900772676,
+      "updatedAt": 1789900772676,
+      "status": "active"
+    },
     {
       "id": "local-1789892624751",
       "text": "amen amen amen amen",
@@ -188,11 +202,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 75,
-  "shareCount": 121,
-  "viewCount": 375,
+  "likeCount": 80,
+  "shareCount": 122,
+  "viewCount": 383,
   "verseLikedBy": [
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
+    "02b7e9ecfaf0fdef6fd67401067c9daff06f8275ab46f766c57ee1fd1cb0f762",
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0ce57d30edcd79373aac9f1e5267a7604a6c345bef95daedf12d1591d1fe2f89",
@@ -216,6 +231,7 @@
     "32413903c6a50c126a314c2538682da8626c42447f0320852174231511fe5283",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3c301e79fb455265ed32173b44131a2e27c000d5d90f84e3c43fdd038498b632",
+    "3d2dae04eae7e212f10a2ad83c4438ac3d03ab273f1c80db321b412d19660d7d",
     "3ee52ebb01256596e4ee9931bc612faa5f0461359482d699f5e8a3e466473f19",
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
     "5af6cde26d70319ee191feca81362337b05daa8378a3c638dbfbe8f2bf8ecdf7",
@@ -244,6 +260,7 @@
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
     "b01a5d105df6aa0f09b2e77331816d30cb5f7016e157835c4f24b5aea58979ef",
     "b15959b9bb724c00a2b1b7465d9715f050eca871878ad5d1f9d4a977a615f80e",
+    "b7f041c41dc48294075937fc0b2daaf0d2eae2106a0370cd2a242fa3ad7988ed",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bb89ce31a24e2797db169726ef6e3c0a703c12c5ec4af8ce0be75bc01e6bcf89",
     "c23f6f004553dd04e09e39dde2d97baac974f1cb418223aa991d52425a1752ec",
@@ -266,6 +283,8 @@
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f5c5b351a7d3411e36b319570016bf2141cd24f5c59deaad4f4226c10e6220f3",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
+    "f9ce75a74ee7bd6b3221529766ea4cf9ee13a164cdce3aa0ede795bd1126317a",
+    "fa155ff6c3101fd3d1cfcfaeebc31b64ef19026140bee11b2aaa524ca145d74f",
     "fd0805567d4ba5ee49148bd1eb5d53e76c98381f054b9c5610a9a25788fe6db3"
   ],
   "verseViewBy": []
