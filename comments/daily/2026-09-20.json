@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789934523988,
+  "updatedAt": 1789935361892,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789934554744",
+      "text": "banm fos Senyè",
+      "userDeviceId": "49566af5bbb770dd0d44bb753a9795bd1b5470c28b105ba2b81579e6d8fab1fc",
+      "userName": "sr sansann",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789934556265,
+      "updatedAt": 1789934556265,
+      "status": "active"
+    },
     {
       "id": "local-1789933757461",
       "text": "amén",
@@ -379,9 +393,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 207,
-  "shareCount": 287,
-  "viewCount": 734,
+  "likeCount": 208,
+  "shareCount": 289,
+  "viewCount": 742,
   "verseLikedBy": [
     "0153d1d0dd3791cbbcd94a6451151b69b02d2285dde0f135ea8903c5aa723252",
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
@@ -447,6 +461,7 @@
     "534f9507c1d5cddba3a37b6e75bdd81dd1bf2e0c134691dbe902fa6d615a32c4",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
+    "5a77b95197d17bc90eb51aff18f22d0b11b95acff3c0e66ec18872180683410d",
     "5a7ff4897aa4c9ea0c8778fd5901253f11fb61b5e4d428c204ab19c39222971c",
     "5ab6ab09f94929e567bff3b9a716091ff562e92971d8f84526b30d9e5a5fcfee",
     "5af6cde26d70319ee191feca81362337b05daa8378a3c638dbfbe8f2bf8ecdf7",
