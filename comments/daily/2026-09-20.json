@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789924594293,
+  "updatedAt": 1789925499457,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789925080884",
+      "text": "amén amén amén",
+      "userDeviceId": "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+      "userName": "amén amén amén",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789925153179,
+      "updatedAt": 1789925153179,
+      "status": "active"
+    },
     {
       "id": "local-1789924556625",
       "text": "Amén 🙏🙏🙏",
@@ -337,15 +351,16 @@
       "status": "active"
     }
   ],
-  "likeCount": 191,
-  "shareCount": 264,
-  "viewCount": 645,
+  "likeCount": 193,
+  "shareCount": 270,
+  "viewCount": 653,
   "verseLikedBy": [
     "0153d1d0dd3791cbbcd94a6451151b69b02d2285dde0f135ea8903c5aa723252",
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
     "02b7e9ecfaf0fdef6fd67401067c9daff06f8275ab46f766c57ee1fd1cb0f762",
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+    "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "07c2145afe0d0f355daf188117223492dd8acd59dd1799d3badddd0f35a0fcfa",
     "0ccb3ac68548625734465cee7f05ce9a7dcda4cdc0409650ca834c272dce2c60",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -492,6 +507,7 @@
     "c8830303ba0b8b5d64805d81815990e62143366725f2fb47e37c450c5795df9c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
+    "cc06824336bbd3ec0d526f522c8a2e3dcf4b25fbaa2eba9d0a0a1019279e46d2",
     "cf12c5fbc77af42766305509ed70b9be9f3ea75d0799cfc11b4175144ca42693",
     "d05cf7ae2c0b9b3c7ba67eef41110fdfd217b1e426d8de977e2853b8f4539f19",
     "d1f48ae7b3ba0ebe4aecfd541b56680a22608e0e0b030e5cfe802f0a48c19033",
