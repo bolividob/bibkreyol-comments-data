@@ -1,9 +1,41 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789871400902,
+  "updatedAt": 1789872330878,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789871819645",
+      "text": "Bondye poukisa ou la gèm konsa senyè",
+      "userDeviceId": "93fb45ddeac95757c8f2657626cf5144d3945f3e0b3c199461135b1f294266a6",
+      "userName": "guency moïse",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "93fb45ddeac95757c8f2657626cf5144d3945f3e0b3c199461135b1f294266a6"
+      ],
+      "createdAt": 1789871822412,
+      "updatedAt": 1789871839216,
+      "status": "active"
+    },
+    {
+      "id": "local-1789871705980",
+      "text": "guency moïse",
+      "userDeviceId": "93fb45ddeac95757c8f2657626cf5144d3945f3e0b3c199461135b1f294266a6",
+      "userName": "guency moïse",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "93fb45ddeac95757c8f2657626cf5144d3945f3e0b3c199461135b1f294266a6"
+      ],
+      "createdAt": 1789871708755,
+      "updatedAt": 1789871754524,
+      "status": "active"
+    },
     {
       "id": "local-1789859064685",
       "text": "amen",
@@ -79,9 +111,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 26,
-  "shareCount": 50,
-  "viewCount": 125,
+  "likeCount": 33,
+  "shareCount": 62,
+  "viewCount": 132,
   "verseLikedBy": [
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
     "04d8dd740737e018fb89437970ed2526e590afab460558dba4d53a533dd7594d",
@@ -92,6 +124,8 @@
     "184b4e8acc0fadc7c59b9f10dbfc996e59c77f43c488d6d5b5eb4e2f288798b9",
     "18b8dc7c3378bdd33b27bd80af53d52395816c7032aabc20199c6bd4152aa14c",
     "20a1a200bd587d15eb33208b3e58a022956cebbe00e2e9f007c95e25435dbc61",
+    "29de3b87390e535eb339d53e4d82bd14457cd8ac7ff685a876d0dc87b059fde9",
+    "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "608e469e42ebaa99a423c2f991481f8c700139ebbc7801eb499ab3e9cc3be5d7",
     "6a3d4a95b5607eb51bf09108f81bd25ba83981017152a0703a5530c7cc510450",
@@ -99,14 +133,19 @@
     "8ac9fafbd3b15d6dada75d8e1ce4896907b09b91a55a29e065d5ca20bc3c7245",
     "8c4217a8c9661ecae5b95996f3d282d4115e643f05d52843190d8df4910a941c",
     "9380b0992442000e9dbb7e3ddd2b4a718ff9c0f3324699bd687bedebc4f9bd93",
+    "93fb45ddeac95757c8f2657626cf5144d3945f3e0b3c199461135b1f294266a6",
     "9957b2563756b8042fbac65b71626f632b446a35fd8d0476fa32efd8d5c6d412",
     "9d298e0109c7772e01a5a94fe273d548b449d64dc50c0715ab39802b5d420e8a",
+    "9e77597de0b7c1c7e853a5aac51d5900ab7391bb1908412fd79e979ad6c13f0d",
     "a18fd5193de549afe155253e38bbe74adc5d160e963a55c6bc08fdce9e113085",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
     "b15959b9bb724c00a2b1b7465d9715f050eca871878ad5d1f9d4a977a615f80e",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7",
     "e49acd61b5d9028c3a9da25dd28297370d062b6a58e1c4c7efa3376588e62231",
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "e5d22ece0b27a514fd777bfc7aaa061f4dcba63acfc3f711d5e62b24e8486642",
+    "edd064e8301104f435b566991380a768bd00f17c4302f3564dd3d2b504959bd4",
     "f5c5b351a7d3411e36b319570016bf2141cd24f5c59deaad4f4226c10e6220f3",
     "fd0805567d4ba5ee49148bd1eb5d53e76c98381f054b9c5610a9a25788fe6db3"
   ],
