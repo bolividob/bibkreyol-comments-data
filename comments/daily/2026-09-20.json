@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "verseKey": "daily:2026-09-20",
-  "updatedAt": 1789910171892,
+  "updatedAt": 1789911061050,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789910729713",
+      "text": "Bondye papa jodi Dimanche 20 sept. 2026 map mandew padon pou tout peche'm yo.",
+      "userDeviceId": "bd15971d4d272448fa8081c9d3f9785f3a9fb0652697fdbe63fea2b0d61e8c8e",
+      "userName": "Givens",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789910731939,
+      "updatedAt": 1789910731939,
+      "status": "active"
+    },
     {
       "id": "local-1789904616551",
       "text": "amén amén amén 🙏🙏🙏",
@@ -237,9 +251,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
-  "shareCount": 193,
-  "viewCount": 487,
+  "likeCount": 132,
+  "shareCount": 201,
+  "viewCount": 499,
   "verseLikedBy": [
     "01f2a8b99aa0eb455cd7889ea2db1e22cddfddfa7ffde94d407f9c4e0b98f1f9",
     "02b7e9ecfaf0fdef6fd67401067c9daff06f8275ab46f766c57ee1fd1cb0f762",
@@ -279,6 +293,8 @@
     "461bc1eb15a9642766ac9db10884504d4a3d97d8315785cdafc174403b55e03b",
     "48a3eb910033e6eb8f873a601ac590092f598cda13a1da2fc94d133ebeca2770",
     "48af9fdb8ef14d8b2c1246c36253c3312121d84327159f2bee5535ca81d7774e",
+    "524c9aa1408665043503f7fdf86d0d8dfa1b109fbab14040f1c9bfcdb1889869",
+    "52f12cf5ab53bfdb81181b27c0f20ea6453854a99a981e5d03883da0ddbbe50d",
     "59249a6f0447ba6462ba19c6af38d1e632f36a753b0ad17ab1916a07136866ac",
     "5a6da14447c90166d5823d164b369f6a09b65415069123ccc08393bc8e6d76e4",
     "5ab6ab09f94929e567bff3b9a716091ff562e92971d8f84526b30d9e5a5fcfee",
@@ -295,6 +311,7 @@
     "8494b635c699f55088dffe69edea742a6f33e20661ccd3a7ee37ef3c65d98c20",
     "84a526e3126418b293ae5d954a0bcf948bfa2afcb845529f0de64017697e2093",
     "88350e7b1b1b0dc495649f8e0b0633fc45089d7f3353b4d05700eba8871e6bcf",
+    "88e8e234bfa6fa01b1f3e317c213b02e1c57c4e2408570ebe9ec9420153e91e2",
     "898e044578d7aacaf8677e45a6ded832f0f0dd35095aeb1bd3cfe573b30ff8b6",
     "8ac9fafbd3b15d6dada75d8e1ce4896907b09b91a55a29e065d5ca20bc3c7245",
     "8b48c92e3929e39025f0ae65f304a765937fea6623da18c8f2dd8b00c04e2a12",
@@ -334,6 +351,7 @@
     "bd15971d4d272448fa8081c9d3f9785f3a9fb0652697fdbe63fea2b0d61e8c8e",
     "c1484f21a469830bc254f95e56df316a545fbfb89c3e9aa5e4d8c1b11120ba23",
     "c23f6f004553dd04e09e39dde2d97baac974f1cb418223aa991d52425a1752ec",
+    "c2e8074a2ff6b1c6854f7930869590ee8131b90b01b37ff9a3cfe7c6160b1c8c",
     "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "c8830303ba0b8b5d64805d81815990e62143366725f2fb47e37c450c5795df9c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
@@ -346,6 +364,7 @@
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7",
     "dad110b3d319de82473ff5f5e9d6fb8ef4a2ee81d5a5ecae082b4610bb75c395",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "dcf0ef26120e426f12dde482610cd2babc0d7db7d601be733d54b5c984d4954a",
     "df6637ecde5c5a2a7db4ebaaa611b7a1edcb9ac29cc08587a96ad5e8840a29ad",
     "e0c364b4b767274d7febf08ff9db3cae42723683bfe950b4f70d8ff7d3b13526",
     "e421198cb4421569d977c7b33a2894f1af78d0b2f9434a4ce0f98eb5c632154f",
