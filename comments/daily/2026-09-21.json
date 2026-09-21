@@ -1,9 +1,25 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1790020803898,
+  "updatedAt": 1790021762880,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790021655814",
+      "text": "amèn",
+      "userDeviceId": "5509866231436512c11efb0e63b3b864336f71e091365e94115bf784a0d53da8",
+      "userName": "Pouchon Jean",
+      "verseName": "Travay 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "5509866231436512c11efb0e63b3b864336f71e091365e94115bf784a0d53da8"
+      ],
+      "createdAt": 1790021657407,
+      "updatedAt": 1790021665563,
+      "status": "active"
+    },
     {
       "id": "local-1790012341436",
       "text": "amèn",
@@ -209,8 +225,8 @@
     }
   ],
   "likeCount": 116,
-  "shareCount": 223,
-  "viewCount": 706,
+  "shareCount": 225,
+  "viewCount": 716,
   "verseLikedBy": [
     "0046c49d2d6709054e0e6d6f41293ce798f7ed38a0803466e865fe7206213e23",
     "02786c7040e7d40929472bae0a8f3a07b5ce6d5c19773c6c127d234099b45d57",
