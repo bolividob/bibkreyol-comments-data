@@ -1,9 +1,23 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1790031601862,
+  "updatedAt": 1790032561163,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790032421468",
+      "text": "amen amen amen amen",
+      "userDeviceId": "badc11f523a734c866fac088d7f4813e4fabe7fd87aef6c5985a04e212a869c7",
+      "userName": "amen",
+      "verseName": "Travay 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790032422983,
+      "updatedAt": 1790032422983,
+      "status": "active"
+    },
     {
       "id": "local-1790021655814",
       "text": "amèn",
@@ -225,9 +239,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 129,
-  "shareCount": 240,
-  "viewCount": 804,
+  "likeCount": 130,
+  "shareCount": 241,
+  "viewCount": 813,
   "verseLikedBy": [
     "0046c49d2d6709054e0e6d6f41293ce798f7ed38a0803466e865fe7206213e23",
     "02786c7040e7d40929472bae0a8f3a07b5ce6d5c19773c6c127d234099b45d57",
@@ -333,6 +347,7 @@
     "b60054d75a9769160e3e9e66864fd15e9ec34d47a9357d24f029be0aef7610e2",
     "b66e3fee37bf5925dd6947595020715749442e5d64c40908cbc19a0e53007697",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+    "badc11f523a734c866fac088d7f4813e4fabe7fd87aef6c5985a04e212a869c7",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "c56ea76eb3286e26ceb18ee5f21be3046f47fbb3bb07906e28cef6826a4d70f9",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
