@@ -1,9 +1,23 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1790033403167,
+  "updatedAt": 1790034274090,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790034024996",
+      "text": "amén",
+      "userDeviceId": "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
+      "userName": "justeeliamenne@gmail.com",
+      "verseName": "Travay 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790034027407,
+      "updatedAt": 1790034027407,
+      "status": "active"
+    },
     {
       "id": "local-1790032421468",
       "text": "amen amen amen amen",
@@ -239,9 +253,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 131,
-  "shareCount": 244,
-  "viewCount": 823,
+  "likeCount": 132,
+  "shareCount": 247,
+  "viewCount": 833,
   "verseLikedBy": [
     "0046c49d2d6709054e0e6d6f41293ce798f7ed38a0803466e865fe7206213e23",
     "02786c7040e7d40929472bae0a8f3a07b5ce6d5c19773c6c127d234099b45d57",
@@ -301,6 +315,7 @@
     "6306756bbfe53d3d6c13f5aba799c5a84a41d05527ea0843c99b29c312e05561",
     "63a773238fa18ef619cc53163471a34bb52a0c91393cd7bb457f6a2fde2ffc53",
     "66425873e69d37316df717025b65fe0fb20ec83989de6b78a5e94aae98a9ff23",
+    "696e014af1d006e9b8078b3cffe7fda1eb44457bfbf27dced5673fadd165fe35",
     "6aa707879324a825c3a6e18bceaea4a060cc9563e4f0b1ef230e49db514d3835",
     "6ac13658b57687ea30f8a60c1695ddd3e5ef7d3b7c611e52003eb52ecc9244d2",
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
