@@ -1,9 +1,23 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1789997495631,
+  "updatedAt": 1789998376771,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789997583149",
+      "text": "amen",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Travay 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789997584989,
+      "updatedAt": 1789997584989,
+      "status": "active"
+    },
     {
       "id": "local-1789935152470",
       "text": "segnie",
@@ -172,8 +186,8 @@
     }
   ],
   "likeCount": 83,
-  "shareCount": 174,
-  "viewCount": 492,
+  "shareCount": 177,
+  "viewCount": 502,
   "verseLikedBy": [
     "02786c7040e7d40929472bae0a8f3a07b5ce6d5c19773c6c127d234099b45d57",
     "058f83fc3a58dad380420837b853baf20ada4ff1f43a50b5935f93aeb9cfcc41",
