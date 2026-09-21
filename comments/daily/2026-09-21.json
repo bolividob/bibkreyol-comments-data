@@ -1,9 +1,23 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1789989362113,
+  "updatedAt": 1789990205834,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789935152470",
+      "text": "segnie",
+      "userDeviceId": "c460a5bf00c78aafa7c410552b8c9e798dd4ee2edbe9a1842681778c9378bdaa",
+      "userName": "vitase",
+      "verseName": "Jòb 4:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789989905645,
+      "updatedAt": 1789989905645,
+      "status": "active"
+    },
     {
       "id": "local-1789989276686",
       "text": "Amén 🙏🙏🙏",
@@ -158,8 +172,8 @@
     }
   ],
   "likeCount": 75,
-  "shareCount": 134,
-  "viewCount": 418,
+  "shareCount": 136,
+  "viewCount": 427,
   "verseLikedBy": [
     "02786c7040e7d40929472bae0a8f3a07b5ce6d5c19773c6c127d234099b45d57",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
