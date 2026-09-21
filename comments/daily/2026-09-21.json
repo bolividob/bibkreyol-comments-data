@@ -1,9 +1,23 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1789963201430,
+  "updatedAt": 1789964163999,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1789963518596",
+      "text": "amèn 🙏🏾 Senyè Bondye",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Travay 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1789963555482,
+      "updatedAt": 1789963555482,
+      "status": "active"
+    },
     {
       "id": "local-1789961311848",
       "text": "Amén y amén",
@@ -112,10 +126,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 46,
+  "likeCount": 48,
   "shareCount": 54,
-  "viewCount": 196,
+  "viewCount": 205,
   "verseLikedBy": [
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "080135e1553c84c610dce0e4549d0e0f3e58576c398d1feae0e1d01d5bb11fb4",
     "095904ee0dff142121e00c3465462ed4360cf3b83fbde2d8a01fec02567cb444",
@@ -156,6 +171,7 @@
     "a6db9c0ee0dca06ef3bd9fa37796d66133467a65e1f33fc72345078813eb6f97",
     "b5c4b6c4fc76b35f9d1f350f0847848e7074b74ba25f5002be4b1c766d40773a",
     "b5ccfcc0269306e47667f7040e27ae7cccea8bc4e686308a15d39610039778d6",
+    "b66e3fee37bf5925dd6947595020715749442e5d64c40908cbc19a0e53007697",
     "bd04bacc6cbdf39650e091e17ae23c8160f139257a71f7bbb9d3fb6844fd4356",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
