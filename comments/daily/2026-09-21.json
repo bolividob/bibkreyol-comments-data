@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1790018163525,
+  "updatedAt": 1790019001811,
   "version": 1,
   "comments": [
     {
@@ -28,12 +28,13 @@
       "verseName": "Travay 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "549b9161dc96fe68173fb63fb58a930161f5b92a789b1bc7d7c5eaeac4e8e2d1",
         "c5a7194b68826fe87431c15ba593d41fee523889707232e96be4e0d904243cd3"
       ],
       "createdAt": 1789997584989,
-      "updatedAt": 1790009988035,
+      "updatedAt": 1790018338208,
       "status": "active"
     },
     {
@@ -58,10 +59,12 @@
       "verseName": "Travay 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "549b9161dc96fe68173fb63fb58a930161f5b92a789b1bc7d7c5eaeac4e8e2d1"
+      ],
       "createdAt": 1789989278183,
-      "updatedAt": 1789989278183,
+      "updatedAt": 1790018337955,
       "status": "active"
     },
     {
@@ -161,12 +164,13 @@
       "verseName": "Travay 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "549b9161dc96fe68173fb63fb58a930161f5b92a789b1bc7d7c5eaeac4e8e2d1",
         "a6db9c0ee0dca06ef3bd9fa37796d66133467a65e1f33fc72345078813eb6f97"
       ],
       "createdAt": 1789952856117,
-      "updatedAt": 1789955055255,
+      "updatedAt": 1790018348372,
       "status": "active"
     },
     {
@@ -193,19 +197,20 @@
       "verseName": "Travay 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
+        "549b9161dc96fe68173fb63fb58a930161f5b92a789b1bc7d7c5eaeac4e8e2d1",
         "8e6fb732b336b68c2ee8d1eb17d3392687db53dfb0d1f3985cfabaf8bc661964",
         "a6db9c0ee0dca06ef3bd9fa37796d66133467a65e1f33fc72345078813eb6f97"
       ],
       "createdAt": 1789950748127,
-      "updatedAt": 1789955055474,
+      "updatedAt": 1790018303202,
       "status": "active"
     }
   ],
   "likeCount": 114,
-  "shareCount": 218,
-  "viewCount": 682,
+  "shareCount": 222,
+  "viewCount": 690,
   "verseLikedBy": [
     "0046c49d2d6709054e0e6d6f41293ce798f7ed38a0803466e865fe7206213e23",
     "02786c7040e7d40929472bae0a8f3a07b5ce6d5c19773c6c127d234099b45d57",
