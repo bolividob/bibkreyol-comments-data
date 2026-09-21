@@ -1,9 +1,23 @@
 {
   "date": "2026-09-21",
   "verseKey": "daily:2026-09-21",
-  "updatedAt": 1790011808415,
+  "updatedAt": 1790012764763,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790012341436",
+      "text": "amèn",
+      "userDeviceId": "740a1541a05821573c44c362d2d90fdd2662d55d921d5ac1fdf10e1e9585d8ff",
+      "userName": "Aquis Bonety",
+      "verseName": "Travay 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790012346589,
+      "updatedAt": 1790012346589,
+      "status": "active"
+    },
     {
       "id": "local-1789997583149",
       "text": "amen",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 105,
-  "shareCount": 210,
-  "viewCount": 628,
+  "likeCount": 106,
+  "shareCount": 213,
+  "viewCount": 636,
   "verseLikedBy": [
     "0046c49d2d6709054e0e6d6f41293ce798f7ed38a0803466e865fe7206213e23",
     "02786c7040e7d40929472bae0a8f3a07b5ce6d5c19773c6c127d234099b45d57",
@@ -294,6 +308,7 @@
     "dfae21f72478e560f6751fe9d4691f8bfab7b412ac3d90715b972421990e0515",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "ee7eafd4f6a6582e920f36c3f77488c13db4b5a22db6caeeebb30b90a76b800b",
+    "f2af5fdf5adfc1270ab123f6495871ea840d6220ab6ce8a276b1e7dcdbe79fae",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f85b0949826dac1be3fa4aa38f019b1a5a58b819704ee5ffbf7a28d59a6ad3fc"
   ],
