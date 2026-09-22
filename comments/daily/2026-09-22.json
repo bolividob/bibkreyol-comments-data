@@ -1,9 +1,37 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790067734828,
+  "updatedAt": 1790068567699,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790068534669",
+      "text": "louwanj Pou u senyè te amó",
+      "userDeviceId": "13d682b1ee426931f79fd927409c6b39e2fd583e9d6bf2b7374c6ccfc4f5e498",
+      "userName": "Rones",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790068537430,
+      "updatedAt": 1790068537430,
+      "status": "active"
+    },
+    {
+      "id": "local-1790071606523",
+      "text": "alelouya",
+      "userDeviceId": "fe751175d28f1a3374057ea00e5b20de2079311cae06053c40de1792d75d0a62",
+      "userName": "témoin de Dieu",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790068033399,
+      "updatedAt": 1790068033399,
+      "status": "active"
+    },
     {
       "id": "local-1790051255152",
       "text": "amèn 🙏🏾 tout glwa pou Bondye se li ki Wa dè wa.",
@@ -105,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 70,
-  "shareCount": 102,
-  "viewCount": 348,
+  "likeCount": 72,
+  "shareCount": 105,
+  "viewCount": 355,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -128,6 +156,7 @@
     "3a64f72b70966e731f54327817a6b0faa0ed25fbc95da8b410d06aba93b4ac52",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3db4bf6cbc2ad14dc8f5e38d5564b10e2289b802b9e19770766d36904e4bb61b",
+    "3e30b1f811df5b50805e36fae8d58f889bd57eb8c5aa84b8d73d846509330a19",
     "46c2ac41fcee676a9b9d4437ca38686de0a9b0decc1f35b5820f4a961f9d8d6c",
     "470fd9bdf1f1a649312d66a717763418a1302ad22831134ba2394d5850bb401e",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
@@ -178,7 +207,8 @@
     "f89e86e220dd4664f4072d33b2214df53818288929ffbfb19222e2680c52efa2",
     "f96ae100997d807ea9cb7c2ee47bd4738be73c8694d138d710f59b8995b68558",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
-    "fb6865b155b03251f975a60ee25fb49e1820792584e437b76d94e9dc5ecfef64"
+    "fb6865b155b03251f975a60ee25fb49e1820792584e437b76d94e9dc5ecfef64",
+    "fe751175d28f1a3374057ea00e5b20de2079311cae06053c40de1792d75d0a62"
   ],
   "verseViewBy": []
 }
