@@ -1,9 +1,23 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790093761897,
+  "updatedAt": 1790094602275,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790094376601",
+      "text": "amen",
+      "userDeviceId": "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
+      "userName": "BrebiBonDye😊🙏",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790094378773,
+      "updatedAt": 1790094378773,
+      "status": "active"
+    },
     {
       "id": "local-1790086439333",
       "text": "se pou dife Bondye ki anwo nan syèl la soufle sou tout mechan ki kanpe pou lavi'm pase mal yo. O non de Jezi de nazarèt",
@@ -273,9 +287,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 118,
-  "shareCount": 197,
-  "viewCount": 589,
+  "likeCount": 121,
+  "shareCount": 199,
+  "viewCount": 596,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
@@ -348,7 +362,9 @@
     "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
     "9acb3a566592f294c0abcb4affef853dd5f138eb8440285feb0bc8f2547cbc0f",
     "9f80686c4412fceeedc5c953df94665a396ef91ba54f417ae7e5d763a1d57c35",
+    "9faa3c4f492f7cdf9253f45364dec32e89591d0a058cae9698734d3bc8bfd398",
     "a1ba5897e5b53724b02402d149d4c731c97ce1f93b18439a404be94efdab8753",
+    "a78799eb821939fd7cb94ace8bdf7dfcbe02c3d14b45ca7f3f7e41c82308a250",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "ab6025fa8e9a4d7af27539051b03c2ccaff9b589f775cc819f08767daec8f0bc",
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
@@ -388,6 +404,7 @@
     "f14fb7b11f3f381c69e1ede46dff8efc26c2bb16d8888842a08e1582a9d230d9",
     "f20f7f2cf1d7abbb793bf027c6cf229bacd4aa01ce838ab7c763b33b6e9ee453",
     "f55ed38170f408eaf6907fb401cee97a64f2b732f0d902410c452f067a583f47",
+    "f5fb44fc8587270260bb4d3ccd2fa1878880c002b28ad79f3d2f0d57ac20607d",
     "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
     "f7dd038a29eb2335af83c1dd64607e3ce58630f9774e82869d54fda503c852c6",
     "f89e86e220dd4664f4072d33b2214df53818288929ffbfb19222e2680c52efa2",
