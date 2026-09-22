@@ -1,9 +1,23 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790105406530,
+  "updatedAt": 1790106368369,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790105705018",
+      "text": "Amen",
+      "userDeviceId": "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
+      "userName": "Helioth",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790105705931,
+      "updatedAt": 1790105705931,
+      "status": "active"
+    },
     {
       "id": "local-1790103508325",
       "text": "amen bondieu je t'aime",
@@ -97,7 +111,7 @@
         "3e67a6875b16bff17cab5777176825ca0c16d3fe30b2d871a55f5fb8e8bcccbd"
       ],
       "createdAt": 1790079922476,
-      "updatedAt": 1790103533296,
+      "updatedAt": 1790105651946,
       "status": "active"
     },
     {
@@ -335,9 +349,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 132,
+  "likeCount": 134,
   "shareCount": 211,
-  "viewCount": 695,
+  "viewCount": 705,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0a3b629e1e26240611382953b795d9333da1aec4e78bd63456435c326fbe3e87",
@@ -362,6 +376,7 @@
     "28316d904de09b6021543a251d92cd5d2138849c27fdbedf872b7e288ac27760",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "2e4a5c96fe13db2429c1ee08961c116ca5a0f3494061c1eb2335efec94e776fb",
+    "305fdf9370720441953f23d80e5d96a77f418c684ea11d7a912f81b52ec22956",
     "30dc57cfe48fbd2350991103e1f359c2f0eab2defb0f350a8f7660f4f44f2cd6",
     "30dd5e239de2647a0f12683749b7ac72a67dc85816242d4e395d990ecc13da05",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
@@ -412,6 +427,7 @@
     "9310b8e4bd8aaa4110090217516d8385ef0091d91b4026f3f6873f43c4ae4616",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "946572016001e9c7b8fbd29350fa6dc325dc06746df88d27d55a14de74e8a1a6",
+    "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
     "9acb3a566592f294c0abcb4affef853dd5f138eb8440285feb0bc8f2547cbc0f",
