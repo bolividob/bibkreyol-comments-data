@@ -1,9 +1,23 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790050562003,
+  "updatedAt": 1790051406073,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790051255152",
+      "text": "amèn 🙏🏾 tout glwa pou Bondye se li ki Wa dè wa.",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790051257624,
+      "updatedAt": 1790051257624,
+      "status": "active"
+    },
     {
       "id": "local-1790048968242",
       "text": "Amen wi lè Bondye ankolè anyen paka barel.",
@@ -91,10 +105,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 51,
-  "shareCount": 76,
-  "viewCount": 204,
+  "likeCount": 54,
+  "shareCount": 77,
+  "viewCount": 211,
   "verseLikedBy": [
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
     "1a2ee4867e7ec287bbf1b0aa8cf09bfbd6fb94246c91d849b458b2b56c0c5682",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
@@ -107,6 +122,7 @@
     "3a64f72b70966e731f54327817a6b0faa0ed25fbc95da8b410d06aba93b4ac52",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "46c2ac41fcee676a9b9d4437ca38686de0a9b0decc1f35b5820f4a961f9d8d6c",
+    "470fd9bdf1f1a649312d66a717763418a1302ad22831134ba2394d5850bb401e",
     "4ebeed0e45a1e8cb4d9d8abd4e1f488cc013b1bce65e59c5eb38231a718e6653",
     "4f4bcb22133749aedc7766c42ceea95c7c6bd57254f4e1208f735bd27c8194d8",
     "50b9baca8bdc0a0169729bc97cb4705c6eb2a00a8abafa6f02a764ad1178e1b5",
@@ -127,6 +143,7 @@
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "b388fa208eeab4b114efd2958fe68870ac81f436d68a5f9b426b94c5772dd8a3",
     "b405f12dd65a9cf4a2bfed29494c64f4ff06e56db913dd46a872aa9a2cc32c03",
+    "b63dfd49cfcaf28f1d54a93835daad0618a16c6e219a0595fef7221374bd437b",
     "b85a8f4f9f6132c86a37b0fba38e887aa443edafa5019449e22d565a186d9d5e",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "c0a09a8e3e85034ca2a147acfc3cd875d75e07f41fb77e360668c9cceda5d63b",
