@@ -1,9 +1,23 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790071323329,
+  "updatedAt": 1790072162778,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790072160033",
+      "text": "mmmm m",
+      "userDeviceId": "0a9922e12ca8c7e1755b7ae279301b2195278e42f15ca38a4ebb75ee26117130",
+      "userName": "yolemie Simon",
+      "verseName": "Levitik 10:2",
+      "parentId": "local-1790070043933",
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790072162778,
+      "updatedAt": 1790072162778,
+      "status": "active"
+    },
     {
       "id": "local-1790070043933",
       "text": "Amè🙏🏿",
@@ -11,11 +25,11 @@
       "userName": "Frè Ismaël",
       "verseName": "Levitik 10:2",
       "parentId": null,
-      "replyCount": 0,
+      "replyCount": 1,
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1790070045946,
-      "updatedAt": 1790070045946,
+      "updatedAt": 1790072162778,
       "status": "active"
     },
     {
@@ -148,8 +162,8 @@
     }
   ],
   "likeCount": 76,
-  "shareCount": 110,
-  "viewCount": 380,
+  "shareCount": 116,
+  "viewCount": 387,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
