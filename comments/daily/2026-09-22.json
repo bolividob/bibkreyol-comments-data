@@ -1,9 +1,23 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790046001767,
+  "updatedAt": 1790046967848,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790046377763",
+      "text": "amèn tout glwa pou bondye",
+      "userDeviceId": "c0a09a8e3e85034ca2a147acfc3cd875d75e07f41fb77e360668c9cceda5d63b",
+      "userName": "amèn💥💥💥💥💥",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790046379365,
+      "updatedAt": 1790046379365,
+      "status": "active"
+    },
     {
       "id": "local-1790044925869",
       "text": "amén amén amén 🙏 senyé jezi huit lan nanmenmw papa",
@@ -63,9 +77,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 38,
-  "shareCount": 53,
-  "viewCount": 158,
+  "likeCount": 40,
+  "shareCount": 56,
+  "viewCount": 169,
   "verseLikedBy": [
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
     "1a2ee4867e7ec287bbf1b0aa8cf09bfbd6fb94246c91d849b458b2b56c0c5682",
@@ -92,7 +106,9 @@
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "b405f12dd65a9cf4a2bfed29494c64f4ff06e56db913dd46a872aa9a2cc32c03",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+    "c0a09a8e3e85034ca2a147acfc3cd875d75e07f41fb77e360668c9cceda5d63b",
     "c0b2b945ed1644e4378d4db8fa25adbf30b9b0d888e33ed38b509e977f0dd1fa",
+    "c17146915950e041f423c1104057e425882b7408b1410fd2b77c9cb5d470e23c",
     "c1e6253b94f1264a8c13aee236f3816d6bea9d37259b6628707125a36d1fd49c",
     "c82f596de282c84729e068a69f24754e52cfb7453c25778814e20d8d857b1186",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
