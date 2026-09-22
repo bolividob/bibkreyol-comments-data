@@ -1,9 +1,23 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790108165912,
+  "updatedAt": 1790109135565,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790036768819",
+      "text": "amén amén amén",
+      "userDeviceId": "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+      "userName": "amén amén amén",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790108367069,
+      "updatedAt": 1790108367069,
+      "status": "active"
+    },
     {
       "id": "local-1790105705018",
       "text": "Amen",
@@ -350,8 +364,8 @@
     }
   ],
   "likeCount": 134,
-  "shareCount": 215,
-  "viewCount": 722,
+  "shareCount": 216,
+  "viewCount": 731,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0a3b629e1e26240611382953b795d9333da1aec4e78bd63456435c326fbe3e87",
