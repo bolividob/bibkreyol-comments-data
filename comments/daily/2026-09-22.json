@@ -1,9 +1,23 @@
 {
   "date": "2026-09-22",
   "verseKey": "daily:2026-09-22",
-  "updatedAt": 1790080254052,
+  "updatedAt": 1790081161353,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790080880594",
+      "text": "atake enmi ki pa vle wèm yo",
+      "userDeviceId": "b9c816680aabc8a6a7b096d4d37441b12f3ef3dc22a88304ebf5a118546f681a",
+      "userName": "delma johnny",
+      "verseName": "Levitik 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790080888054,
+      "updatedAt": 1790080888054,
+      "status": "active"
+    },
     {
       "id": "local-1790079921183",
       "text": "amen",
@@ -232,8 +246,8 @@
     }
   ],
   "likeCount": 96,
-  "shareCount": 153,
-  "viewCount": 459,
+  "shareCount": 156,
+  "viewCount": 469,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
