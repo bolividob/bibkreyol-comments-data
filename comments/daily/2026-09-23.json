@@ -1,9 +1,23 @@
 {
   "date": "2026-09-23",
   "verseKey": "daily:2026-09-23",
-  "updatedAt": 1790197568103,
+  "updatedAt": 1790198166227,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790197903215",
+      "text": "bond ye beni nous",
+      "userDeviceId": "31b91b2a2e319f1a01b857c7c734fcdfe2857e84cd26a34fd7bfd889bbf39203",
+      "userName": "danely  cerandieu",
+      "verseName": "Nòm 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790197904490,
+      "updatedAt": 1790197904490,
+      "status": "active"
+    },
     {
       "id": "local-1790189600560",
       "text": "amén 🙏",
@@ -144,9 +158,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 121,
+  "likeCount": 122,
   "shareCount": 223,
-  "viewCount": 753,
+  "viewCount": 758,
   "verseLikedBy": [
     "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -178,6 +192,7 @@
     "2de8d83f1d39644ab3a76fe6f0a965b29acdb4c06106bc8f3b5910ac271e47a7",
     "2ffb551e1864acf82201b693c2a51a4f8cf8c299f86e910962290a7592f667bf",
     "315c579b906436f6a7840864ab02ec56437ce607c21d4612312b098b4406539d",
+    "31b91b2a2e319f1a01b857c7c734fcdfe2857e84cd26a34fd7bfd889bbf39203",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "3ae1c39d55b6c9a91ebaab8802ff7ef9fe62a92687479036c7d06901de32da10",
     "3b2fe097a15991df122d8895252015c338fc333ac894811955e81ebefb118208",
