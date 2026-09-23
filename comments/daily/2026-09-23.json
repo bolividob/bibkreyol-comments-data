@@ -1,9 +1,23 @@
 {
   "date": "2026-09-23",
   "verseKey": "daily:2026-09-23",
-  "updatedAt": 1790189173186,
+  "updatedAt": 1790190010441,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790189600560",
+      "text": "amén 🙏",
+      "userDeviceId": "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
+      "userName": "doniz",
+      "verseName": "Nòm 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790189603117,
+      "updatedAt": 1790189603117,
+      "status": "active"
+    },
     {
       "id": "local-1790176803537",
       "text": "som 46",
@@ -132,7 +146,7 @@
   ],
   "likeCount": 118,
   "shareCount": 190,
-  "viewCount": 679,
+  "viewCount": 687,
   "verseLikedBy": [
     "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
