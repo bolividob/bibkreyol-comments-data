@@ -1,9 +1,23 @@
 {
   "date": "2026-09-23",
   "verseKey": "daily:2026-09-23",
-  "updatedAt": 1790143234518,
+  "updatedAt": 1790144183108,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790143398840",
+      "text": "Amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Nòm 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790143400267,
+      "updatedAt": 1790143400267,
+      "status": "active"
+    },
     {
       "id": "local-1790137642768",
       "text": "amèn🙏🏾.",
@@ -19,9 +33,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 56,
-  "shareCount": 61,
-  "viewCount": 256,
+  "likeCount": 58,
+  "shareCount": 63,
+  "viewCount": 264,
   "verseLikedBy": [
     "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -33,6 +47,7 @@
     "1ce3793e75ecc3b3131dc067ff278ff74d8d2be51d8769265b5eb6a0cd6b758f",
     "2669f103167ec89096080d80b888af828d3c22610cf9cde2328c772c6a492086",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
     "2b21cb8866ab55fcd4e3008ee1ae0d4a341f70c9ca2939ca13b16e4cf3a6c4f1",
     "2dd62c3c8557605ce5b69b4fe941422a4670289b49a25f6873b7ce94baccfe85",
     "2de8d83f1d39644ab3a76fe6f0a965b29acdb4c06106bc8f3b5910ac271e47a7",
@@ -75,6 +90,7 @@
     "c0bca2801e0b16796db85f7e40c6efb46b65d59771b4184e7e590c112c4defd2",
     "ce58b29a7031254381798a4339e32be59e141fbd6cb4f8d77c0d3a6a339d612b",
     "d28794a508cfe491bdcf6468c1e45a8a1b8ba51ae9457c05c7522c2284c998b1",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e0d8ff0342adf32f8b77ce04d216e5c919b835b4cbcff17006719d49ad4376c4",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
