@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "verseKey": "daily:2026-09-23",
-  "updatedAt": 1790185584766,
+  "updatedAt": 1790186527562,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Nòm 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7331c424dee10c9e2a2439e8a2bc75b8a148b6d2146a8cc01b3bd90c2327bf75"
+      ],
       "createdAt": 1790176804592,
-      "updatedAt": 1790176804592,
+      "updatedAt": 1790185793800,
       "status": "active"
     },
     {
@@ -26,10 +28,12 @@
       "verseName": "Nòm 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7331c424dee10c9e2a2439e8a2bc75b8a148b6d2146a8cc01b3bd90c2327bf75"
+      ],
       "createdAt": 1790173827953,
-      "updatedAt": 1790173827953,
+      "updatedAt": 1790185782918,
       "status": "active"
     },
     {
@@ -43,7 +47,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1790173065498,
-      "updatedAt": 1790173065498,
+      "updatedAt": 1790185795617,
       "status": "active"
     },
     {
@@ -126,9 +130,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
+  "likeCount": 118,
   "shareCount": 189,
-  "viewCount": 645,
+  "viewCount": 654,
   "verseLikedBy": [
     "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -240,6 +244,7 @@
     "db845a8317f6a845dc7db651d0073812f339e5df3452c802cf2e357524e360b3",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e0d8ff0342adf32f8b77ce04d216e5c919b835b4cbcff17006719d49ad4376c4",
+    "e39ca91ea92f9a7518264d82ce39557583fdee77c61d93ff57ab75048de90ae7",
     "e3dae0a7cd62a142755ac39418e18c0e7f1033bf7f05303b1113933e91c812d4",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "ea1c7953aa7918a57cd2f33384b8c5a5fcdd7d6ebc30fa4afb44ac7b74859057",
