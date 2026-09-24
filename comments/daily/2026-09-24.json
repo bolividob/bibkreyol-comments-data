@@ -1,12 +1,46 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790208121965,
+  "updatedAt": 1790208961650,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
-  "shareCount": 1,
-  "viewCount": 34,
-  "verseLikedBy": [],
+  "comments": [
+    {
+      "id": "local-1790208904713",
+      "text": "Amen🙏🙏🙏",
+      "userDeviceId": "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+      "userName": "Widoo",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790208907341,
+      "updatedAt": 1790208907341,
+      "status": "active"
+    },
+    {
+      "id": "local-1790208532031",
+      "text": "la parole de Dieu",
+      "userDeviceId": "e48ec7bd569147db28c6bd722d92e98eff0a0a9ee7634f84e7bdeeb82f230646",
+      "userName": "Dieuly",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790208534364,
+      "updatedAt": 1790208534364,
+      "status": "active"
+    }
+  ],
+  "likeCount": 4,
+  "shareCount": 3,
+  "viewCount": 43,
+  "verseLikedBy": [
+    "9f226f590011cac91f3d9f51bc67ddc6f8b20a2fcdb3f8b51d5b17f5ce830e87",
+    "a534ea35493f7df0e47aab256bfe5ef25916566dd1aad9dcbba47419b79a73a2",
+    "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+    "e48ec7bd569147db28c6bd722d92e98eff0a0a9ee7634f84e7bdeeb82f230646"
+  ],
   "verseViewBy": []
 }
