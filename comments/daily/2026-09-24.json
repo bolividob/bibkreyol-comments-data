@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790248118482,
+  "updatedAt": 1790248573090,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Revelasyon 1:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "4e19500f0afbc588b69ecd5deeda387293ff1bacbd0050493acdd0be7556a4ac"
+      ],
       "createdAt": 1790226400844,
-      "updatedAt": 1790226400844,
+      "updatedAt": 1790248276326,
       "status": "active"
     },
     {
@@ -177,9 +179,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 82,
-  "shareCount": 161,
-  "viewCount": 418,
+  "likeCount": 83,
+  "shareCount": 168,
+  "viewCount": 422,
   "verseLikedBy": [
     "0403bc7207762224665c0fc53df48424dd5e060463734c0293581b73ed708ca0",
     "053d88b71350ba68f0308440bd89a42b665229259895bc9b513082424d89920c",
@@ -240,6 +242,7 @@
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
     "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
     "a48e47528b7fad65273d9bc2d54a7b17ff140e8e10b0b3e0e74dae346e30ecb6",
+    "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a534ea35493f7df0e47aab256bfe5ef25916566dd1aad9dcbba47419b79a73a2",
     "a6e7b4b9ede5183461cc15c977d4b5ce907cca199da384c3897a2c42b712b6a5",
     "a898a5715008bd9bd8edf2b195e9fe7fa356e3c901943e4bb7c2577bebb813a2",
