@@ -1,9 +1,37 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790262963490,
+  "updatedAt": 1790263802526,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790263621865",
+      "text": "slt",
+      "userDeviceId": "513875379339d8bc7968e099fdf8936b71ed1da5ceddf6018c436f76ab65cbc4",
+      "userName": "amen",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790263647090,
+      "updatedAt": 1790263647090,
+      "status": "active"
+    },
+    {
+      "id": "local-1790263610761",
+      "text": "slt",
+      "userDeviceId": "513875379339d8bc7968e099fdf8936b71ed1da5ceddf6018c436f76ab65cbc4",
+      "userName": "amen",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790263643658,
+      "updatedAt": 1790263643658,
+      "status": "active"
+    },
     {
       "id": "local-1790261907004",
       "text": "som 121",
@@ -292,8 +320,8 @@
     }
   ],
   "likeCount": 114,
-  "shareCount": 218,
-  "viewCount": 558,
+  "shareCount": 220,
+  "viewCount": 566,
   "verseLikedBy": [
     "03c7f346f3c9369e295c4375f213b47b96c3158ccc1932582a58ecf0b5e9a37a",
     "0403bc7207762224665c0fc53df48424dd5e060463734c0293581b73ed708ca0",
