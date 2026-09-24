@@ -1,9 +1,23 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790224210517,
+  "updatedAt": 1790225162416,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790224488418",
+      "text": "Merci Jesús",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790224489962,
+      "updatedAt": 1790224489962,
+      "status": "active"
+    },
     {
       "id": "local-1790222258055",
       "text": "amén 🙏🏽 Bondye",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
-  "shareCount": 66,
-  "viewCount": 204,
+  "likeCount": 54,
+  "shareCount": 69,
+  "viewCount": 213,
   "verseLikedBy": [
     "0403bc7207762224665c0fc53df48424dd5e060463734c0293581b73ed708ca0",
     "053d88b71350ba68f0308440bd89a42b665229259895bc9b513082424d89920c",
@@ -146,6 +160,7 @@
     "519051ba33d557077aa2e277729e05bc67c9257f50f48505844371db926058a2",
     "51a28df80578f42164eae4f18a6603a63f896edcaa84c5a44feaa65e30dfe63f",
     "533008acb6f1174fe021f81b8ca3d8cd57eb1ee2463f95178479e08d277728e4",
+    "60dbeaeeefbb6fad80566a83823962ae842c83ff45a13b15ed3c4118bf32f408",
     "762905568bd2e95e5f3a9b870d076fa609374894a511b51f798684f032442088",
     "7643f9cb11a3d0aeae4db310bca0777b6396610a9312538dcfa37a2080211d9f",
     "83219c4148a2eb63b014d0dcd4ae4e8af5d965cb58254d3b304c931bdc9c941c",
@@ -158,9 +173,12 @@
     "9e241720e30315e581d8ea104dac4e6f8711b6520637ae6d189f73589332fb1b",
     "9f226f590011cac91f3d9f51bc67ddc6f8b20a2fcdb3f8b51d5b17f5ce830e87",
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
+    "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+    "a48e47528b7fad65273d9bc2d54a7b17ff140e8e10b0b3e0e74dae346e30ecb6",
     "a534ea35493f7df0e47aab256bfe5ef25916566dd1aad9dcbba47419b79a73a2",
     "a6e7b4b9ede5183461cc15c977d4b5ce907cca199da384c3897a2c42b712b6a5",
     "b031938925def14c965457430842fc0b603779ff7801a0b62a74082322430f94",
+    "b85a8f4f9f6132c86a37b0fba38e887aa443edafa5019449e22d565a186d9d5e",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "d331a5381cc81744c84cf07702395cf1d2aef01ece4aa74fdf8e50b3e9a15fd9",
     "d965c3c8f93ab50ab4702f3b42cff30227fe9e2e42c948f7d5b68d60fdb9ff7c",
