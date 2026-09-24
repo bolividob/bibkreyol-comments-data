@@ -1,9 +1,37 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790226973837,
+  "updatedAt": 1790227822785,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790227815357",
+      "text": "amén y amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790227816818,
+      "updatedAt": 1790227816818,
+      "status": "active"
+    },
+    {
+      "id": "local-1790227404616",
+      "text": "amen 🙏",
+      "userDeviceId": "2bb26d459fa64c06b2b4fc9360105d22000e7779f62da0aebb72b1b6d58dc642",
+      "userName": "psalmiste Célestin",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790227406325,
+      "updatedAt": 1790227406325,
+      "status": "active"
+    },
     {
       "id": "local-1790226400086",
       "text": "Amen",
@@ -147,13 +175,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 73,
-  "viewCount": 228,
+  "likeCount": 59,
+  "shareCount": 90,
+  "viewCount": 235,
   "verseLikedBy": [
     "0403bc7207762224665c0fc53df48424dd5e060463734c0293581b73ed708ca0",
     "053d88b71350ba68f0308440bd89a42b665229259895bc9b513082424d89920c",
     "153e9d2e3a3cf740dda1dd1127a270791fa54ac7bcc9b16001f3c354468501a4",
+    "1575e33f295a00a3c040ee75233be2f86707810047bea43b0c0a7a1af9802905",
     "15864793fec8e5b7cade640e67fec6787ff7e0783e65e4dcd71012639e06dc2b",
     "1632ad6003c97900a4cecedf096fb9d4447921f79ee560b2738dbc511dd967cc",
     "172f23e3bfec90f0e835fc7bf86764187eeb0ff5ca8f5156a0bd2c144605197a",
@@ -200,6 +229,7 @@
     "d331a5381cc81744c84cf07702395cf1d2aef01ece4aa74fdf8e50b3e9a15fd9",
     "d965c3c8f93ab50ab4702f3b42cff30227fe9e2e42c948f7d5b68d60fdb9ff7c",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
+    "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
     "e2eefec0c4818372af134918db90ddcee35d97826803ff6b144bf0ad0b4117a5",
     "e48ec7bd569147db28c6bd722d92e98eff0a0a9ee7634f84e7bdeeb82f230646",
