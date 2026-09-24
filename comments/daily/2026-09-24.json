@@ -1,9 +1,37 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790261646290,
+  "updatedAt": 1790262104722,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790261907004",
+      "text": "som 121",
+      "userDeviceId": "3098d1be3557e9ee8ae1d19dfcfccfae61824779e35b72080d7cd92b4cdc5a65",
+      "userName": "so 121.",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790261788828,
+      "updatedAt": 1790261788828,
+      "status": "active"
+    },
+    {
+      "id": "local-1790261896314",
+      "text": "som 121",
+      "userDeviceId": "3098d1be3557e9ee8ae1d19dfcfccfae61824779e35b72080d7cd92b4cdc5a65",
+      "userName": "so 121.",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790261784258,
+      "updatedAt": 1790261784258,
+      "status": "active"
+    },
     {
       "id": "local-1790261389735",
       "text": "Kris se sove",
@@ -263,9 +291,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 112,
-  "shareCount": 215,
-  "viewCount": 545,
+  "likeCount": 113,
+  "shareCount": 217,
+  "viewCount": 548,
   "verseLikedBy": [
     "03c7f346f3c9369e295c4375f213b47b96c3158ccc1932582a58ecf0b5e9a37a",
     "0403bc7207762224665c0fc53df48424dd5e060463734c0293581b73ed708ca0",
@@ -334,6 +362,7 @@
     "930d6fcec7c2d98f60385baf47027cfe2f0890c86722dc0e3d6cb4012e183565",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "940dda370a6c345110494a58eba2c7c5bda367bd87d2449c243534328ab278f2",
+    "983bf4543792bb6bc4ea1dfcb15c0c1e69c29eaf086bb59b4f2912b3fb6409cc",
     "987dedeb92c4e7fee891c4109f160180c6509593fa16e1a8e2d5b90ed22069ef",
     "9a24ab928faaa4396b54517791e2d61f176e7bfaa9e8d9229ad43d24a51ec56a",
     "9e241720e30315e581d8ea104dac4e6f8711b6520637ae6d189f73589332fb1b",
