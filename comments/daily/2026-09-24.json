@@ -1,9 +1,23 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790210764336,
+  "updatedAt": 1790211604256,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790211434184",
+      "text": "Amen 🙇🙇🙇🙇🙇🙇",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790211436739,
+      "updatedAt": 1790211436739,
+      "status": "active"
+    },
     {
       "id": "local-1790208904713",
       "text": "Amen🙏🙏🙏",
@@ -35,15 +49,21 @@
       "status": "active"
     }
   ],
-  "likeCount": 9,
-  "shareCount": 14,
-  "viewCount": 63,
+  "likeCount": 15,
+  "shareCount": 20,
+  "viewCount": 70,
   "verseLikedBy": [
+    "1632ad6003c97900a4cecedf096fb9d4447921f79ee560b2738dbc511dd967cc",
+    "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "519051ba33d557077aa2e277729e05bc67c9257f50f48505844371db926058a2",
+    "83219c4148a2eb63b014d0dcd4ae4e8af5d965cb58254d3b304c931bdc9c941c",
     "940dda370a6c345110494a58eba2c7c5bda367bd87d2449c243534328ab278f2",
     "9f226f590011cac91f3d9f51bc67ddc6f8b20a2fcdb3f8b51d5b17f5ce830e87",
     "a0b357571494b9d3edf058038440cd47e58f8fb7890e7db01fcbc69bc7f08bfc",
     "a534ea35493f7df0e47aab256bfe5ef25916566dd1aad9dcbba47419b79a73a2",
+    "b031938925def14c965457430842fc0b603779ff7801a0b62a74082322430f94",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "d965c3c8f93ab50ab4702f3b42cff30227fe9e2e42c948f7d5b68d60fdb9ff7c",
     "ddb86a97e76ad25d225abb0df13f5dfc4abfbb708afd734d6b6b927a7a852edd",
