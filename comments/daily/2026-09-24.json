@@ -1,9 +1,23 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790292656085,
+  "updatedAt": 1790293562460,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790292797913",
+      "text": "wisesa",
+      "userDeviceId": "1a9b6bab94cd288d30aa5eb3776892327a73a374cfd77c2fc5d77934ec73d8d9",
+      "userName": "widlen",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790292985448,
+      "updatedAt": 1790292985448,
+      "status": "active"
+    },
     {
       "id": "local-1790261591909",
       "text": "bravo",
@@ -347,9 +361,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 158,
-  "shareCount": 306,
-  "viewCount": 831,
+  "likeCount": 160,
+  "shareCount": 308,
+  "viewCount": 841,
   "verseLikedBy": [
     "01595868ffcd1b4812025462ead58a57dd264366420a94cd7fe53c7bb82ba724",
     "01b32348c911c453e7d9cd8267a30101022a83d4c7f1e7fd5b73f9b98c73c7cd",
@@ -420,12 +434,14 @@
     "58373910e03902e92ae419582c75eac086d407796f2cba8980b2fe6a6691786c",
     "59d7e66fb2ee03c63d6ebb1e740266037e8f128f28c14a6e217e95add8267aae",
     "5add4c5df43038a719dcc1d34e4f0197b6041cb26d9747e92eced1578209d1ce",
+    "5d79f0e79229bb3dde0be6d0b080bddbf4ee3f3c70b4e960d31ff8c5cc7021d4",
     "60dbeaeeefbb6fad80566a83823962ae842c83ff45a13b15ed3c4118bf32f408",
     "6237fcc613f8f6da1888b6caf6d12abeff1b3ab4e422ffa8ebe90343b8e5e604",
     "69d08820d41da1b04f40678992d69f46d5e589b86450cc28f071172a80a5657b",
     "6aa707879324a825c3a6e18bceaea4a060cc9563e4f0b1ef230e49db514d3835",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6c9647990fb3adbce837cc26faea22b43f5c4731931e4069519ff2bba4037712",
+    "70f20c0220f6974c4c272f4f2e7f2bf4ec6ab9d83a22343c3409c894b41d892b",
     "762905568bd2e95e5f3a9b870d076fa609374894a511b51f798684f032442088",
     "7643f9cb11a3d0aeae4db310bca0777b6396610a9312538dcfa37a2080211d9f",
     "77ca2c084ede060acaf3dedcd849fa1bf78842a17e4412af9cde54177406cc02",
