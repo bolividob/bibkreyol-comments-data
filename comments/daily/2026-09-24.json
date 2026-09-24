@@ -1,9 +1,23 @@
 {
   "date": "2026-09-24",
   "verseKey": "daily:2026-09-24",
-  "updatedAt": 1790274664972,
+  "updatedAt": 1790275539396,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790275538158",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Revelasyon 1:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790275539396,
+      "updatedAt": 1790275539396,
+      "status": "active"
+    },
     {
       "id": "local-1790263621865",
       "text": "slt",
@@ -319,9 +333,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 127,
+  "likeCount": 128,
   "shareCount": 257,
-  "viewCount": 664,
+  "viewCount": 672,
   "verseLikedBy": [
     "01b32348c911c453e7d9cd8267a30101022a83d4c7f1e7fd5b73f9b98c73c7cd",
     "03c7f346f3c9369e295c4375f213b47b96c3158ccc1932582a58ecf0b5e9a37a",
@@ -383,6 +397,7 @@
     "6237fcc613f8f6da1888b6caf6d12abeff1b3ab4e422ffa8ebe90343b8e5e604",
     "69d08820d41da1b04f40678992d69f46d5e589b86450cc28f071172a80a5657b",
     "6aa707879324a825c3a6e18bceaea4a060cc9563e4f0b1ef230e49db514d3835",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "762905568bd2e95e5f3a9b870d076fa609374894a511b51f798684f032442088",
     "7643f9cb11a3d0aeae4db310bca0777b6396610a9312538dcfa37a2080211d9f",
     "77ca2c084ede060acaf3dedcd849fa1bf78842a17e4412af9cde54177406cc02",
