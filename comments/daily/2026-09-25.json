@@ -1,9 +1,23 @@
 {
   "date": "2026-09-25",
   "verseKey": "daily:2026-09-25",
-  "updatedAt": 1790308921739,
+  "updatedAt": 1790309767076,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790309176797",
+      "text": "Amèn🙏🏽",
+      "userDeviceId": "51a28df80578f42164eae4f18a6603a63f896edcaa84c5a44feaa65e30dfe63f",
+      "userName": "Carole Jean",
+      "verseName": "Kantik 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790309200817,
+      "updatedAt": 1790309200817,
+      "status": "active"
+    },
     {
       "id": "local-1790305059021",
       "text": "amén alelulla",
@@ -77,9 +91,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 52,
-  "shareCount": 76,
-  "viewCount": 195,
+  "likeCount": 54,
+  "shareCount": 77,
+  "viewCount": 202,
   "verseLikedBy": [
     "008e1486a63590e633532f7665af75fa02cf7d10d81b2868daded201e7cb8e31",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -96,6 +110,7 @@
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3b9a26a108bab2fc6447be5b8c0187f7a938001b1f5f3dc1f49760245d180a74",
     "3f9158dd32a105e6f35ce0a1e180dac2ad4cd821af4be46d78e1e08fcf766879",
+    "51a28df80578f42164eae4f18a6603a63f896edcaa84c5a44feaa65e30dfe63f",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
     "5d873d5bd8a2471381137ca3e540fd77cd5d8b3afdb0e0de7df30f7362ae150a",
     "70a2e27b2e82d73c080bcde543242dc2445e95fbc708087ec5d4989f2766e6bb",
@@ -116,6 +131,7 @@
     "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721",
     "a7c4f34d947e78535d692842a47fe3701b5ebf6017d0999fcaa5788a5887e8f0",
     "a83589e2e59c994be5bd1323d8ffe7774c1d423c9d5b4a52c305a4f367dcf1ea",
+    "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "a9048c3ebc4ac33fde12150d906ef9a57f5b22c1672c60c1209eeaea8f6553bb",
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
     "c269d197bab24e060b193f52e527721d0795d7c1651f4c3330254cd6f8bbe4f5",
