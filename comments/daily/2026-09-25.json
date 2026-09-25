@@ -1,9 +1,23 @@
 {
   "date": "2026-09-25",
   "verseKey": "daily:2026-09-25",
-  "updatedAt": 1790356927766,
+  "updatedAt": 1790357403055,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790357391069",
+      "text": "amén wi tout gloire pour bondye vivant en 🙏🙏🙏",
+      "userDeviceId": "21a9d4a6f5c6eeeda7b79d123586ebf7e1206a37dc100a70cad3cd40b011a5aa",
+      "userName": "amen gloria a Dios 🙏",
+      "verseName": "Kantik 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790357394323,
+      "updatedAt": 1790357394323,
+      "status": "active"
+    },
     {
       "id": "local-1790356516505",
       "text": "amen",
@@ -165,9 +179,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 117,
+  "likeCount": 119,
   "shareCount": 256,
-  "viewCount": 631,
+  "viewCount": 635,
   "verseLikedBy": [
     "008e1486a63590e633532f7665af75fa02cf7d10d81b2868daded201e7cb8e31",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
@@ -184,6 +198,7 @@
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+    "21a9d4a6f5c6eeeda7b79d123586ebf7e1206a37dc100a70cad3cd40b011a5aa",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2379d14e0f337d6687b4deb2d687f88b7a22d96bf53f211872b61071f652e1e3",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
@@ -247,6 +262,7 @@
     "a3322b3bbea53b2dc5ebe12c39eb4a1212fa96d96010648457a62a017d068395",
     "a388718aa882998a0d28c067c190c1ff184eb1ac0d86c3bf1f6a05d75de4242f",
     "a460499a7c33a51fa27f3868ec03dbe1d6859d87de6819020728922d468be139",
+    "a52ddbbf7d7c79e3db3ac3406a6fbc39c4c2a23d95892b0476404dcff9ef1e6b",
     "a695a568fad6e325ea154c690b8f58bae209e1d156807368358261871ce7e8f3",
     "a69bc01037f526c47091c92c030fa3c84c8292379f679f0284f2080a82745c9e",
     "a6e62739d586d12c23ed574386d8b08f272421b4367e6647b25554f7066f7721",
