@@ -1,9 +1,23 @@
 {
   "date": "2026-09-25",
   "verseKey": "daily:2026-09-25",
-  "updatedAt": 1790367364475,
+  "updatedAt": 1790368326090,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790367607458",
+      "text": "se pou gras bondye kouvriw",
+      "userDeviceId": "9794f656cff7a86b7ec189948c2a155e75ff20518761cf116bf9e0347ce510f2",
+      "userName": "Liline",
+      "verseName": "Kantik 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790367609068,
+      "updatedAt": 1790367609068,
+      "status": "active"
+    },
     {
       "id": "local-1790366040883",
       "text": "aleluya",
@@ -210,8 +224,8 @@
     }
   ],
   "likeCount": 132,
-  "shareCount": 266,
-  "viewCount": 727,
+  "shareCount": 267,
+  "viewCount": 735,
   "verseLikedBy": [
     "008e1486a63590e633532f7665af75fa02cf7d10d81b2868daded201e7cb8e31",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
