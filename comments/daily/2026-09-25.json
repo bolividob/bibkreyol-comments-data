@@ -1,9 +1,23 @@
 {
   "date": "2026-09-25",
   "verseKey": "daily:2026-09-25",
-  "updatedAt": 1790365581521,
+  "updatedAt": 1790366522114,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790366040883",
+      "text": "aleluya",
+      "userDeviceId": "34277f05e4dd86dfc4b465cc05c6a53ad4e99b9322b4f33131a955c79ae80bd0",
+      "userName": "Yenny Francois",
+      "verseName": "Kantik 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790366043825,
+      "updatedAt": 1790366043825,
+      "status": "active"
+    },
     {
       "id": "local-1790357391069",
       "text": "amén wi tout gloire pour bondye vivant en 🙏🙏🙏",
@@ -12,10 +26,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790357394323,
-      "updatedAt": 1790357394323,
+      "updatedAt": 1790365982957,
       "status": "active"
     },
     {
@@ -26,10 +42,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790356538717,
-      "updatedAt": 1790356538717,
+      "updatedAt": 1790365980920,
       "status": "active"
     },
     {
@@ -40,10 +58,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790352137067,
-      "updatedAt": 1790352137067,
+      "updatedAt": 1790365977616,
       "status": "active"
     },
     {
@@ -70,10 +90,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790338844495,
-      "updatedAt": 1790338844495,
+      "updatedAt": 1790365976552,
       "status": "active"
     },
     {
@@ -84,10 +106,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790312737379,
-      "updatedAt": 1790312737379,
+      "updatedAt": 1790365973717,
       "status": "active"
     },
     {
@@ -98,10 +122,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790309200817,
-      "updatedAt": 1790309200817,
+      "updatedAt": 1790365970700,
       "status": "active"
     },
     {
@@ -112,10 +138,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790305058126,
-      "updatedAt": 1790305058126,
+      "updatedAt": 1790365969155,
       "status": "active"
     },
     {
@@ -147,7 +175,7 @@
         "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
       ],
       "createdAt": 1790297882551,
-      "updatedAt": 1790297889908,
+      "updatedAt": 1790365966182,
       "status": "active"
     },
     {
@@ -158,10 +186,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63"
+      ],
       "createdAt": 1790296086552,
-      "updatedAt": 1790296168481,
+      "updatedAt": 1790365966715,
       "status": "active"
     },
     {
@@ -179,9 +209,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 128,
+  "likeCount": 132,
   "shareCount": 264,
-  "viewCount": 711,
+  "viewCount": 720,
   "verseLikedBy": [
     "008e1486a63590e633532f7665af75fa02cf7d10d81b2868daded201e7cb8e31",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
@@ -195,6 +225,7 @@
     "1807904e7614741f6b89474ac62fcf4851e6dfb20165412862a9cf44553423f1",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1c1a6cead95d42b52f3b11243b70a2f83e9421f484c9fbdb34ebd76e79ba3ab9",
+    "1e3c0dfac11ccbd4c747b0b8b9451e45314178704f937ee726e2bc17dfc24b91",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -210,6 +241,7 @@
     "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "2fd17d235d6b0cb85023abd28af01077721df1ea70fa8b0ef641c81fd52f091b",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
+    "34277f05e4dd86dfc4b465cc05c6a53ad4e99b9322b4f33131a955c79ae80bd0",
     "3776190d44d2da9385ff2a269d8e84c7a8f6870c9e80f583fdb1032724f96214",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3b9a26a108bab2fc6447be5b8c0187f7a938001b1f5f3dc1f49760245d180a74",
@@ -240,6 +272,7 @@
     "72611ac523dd4dcb7c32bbda9a3a891caaf8d6e5f46f1e9d30c04278d0c5e6ca",
     "72e00eff58726a1d2a54877f48b9171ae5723c5516852eca31f637eaa3f9a48a",
     "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
+    "739b93163e23fe8896f1d437a380f9ffb93cddb380a5b7509aa070dc24f5ce63",
     "750b60f403d5cb8dd66360254b4148dba5ca516067cd20ca4b62b54d89d39228",
     "7589d30e7dc4f9741ee6f34956477e65829d8c38a66a65b3a841a16994f46eff",
     "78c41f846e8662e331168acd8319e7c37f148e325afa299d6d031573f7e39c1d",
@@ -302,6 +335,7 @@
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e57f686a70c2e8a2b4fd08e297fb33072c64c2c0a7c3067e5993a33565c919ab",
     "e71fe65c73e575dbe505428e071180c74d285ce04b06ceb48462648367000a09",
+    "e824d09921e618151f88fa7b36f094ebbd06ea8f89977c5b139168434afbbdc6",
     "e854f6bbcf1619d3051ebb8d776c3c8b8d7dbffdd1fdc0d9f59be796c55c9d24",
     "e9b01944993157c4844911bb0d5aad73df282e462cec21b8346e6453415b3b7c",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
