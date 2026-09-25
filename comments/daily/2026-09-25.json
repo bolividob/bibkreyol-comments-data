@@ -1,9 +1,23 @@
 {
   "date": "2026-09-25",
   "verseKey": "daily:2026-09-25",
-  "updatedAt": 1790355723521,
+  "updatedAt": 1790356927766,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790356516505",
+      "text": "amen",
+      "userDeviceId": "1c1a6cead95d42b52f3b11243b70a2f83e9421f484c9fbdb34ebd76e79ba3ab9",
+      "userName": "servante bondieu",
+      "verseName": "Kantik 2:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790356538717,
+      "updatedAt": 1790356538717,
+      "status": "active"
+    },
     {
       "id": "local-1790352134180",
       "text": "Amèn 🙏🏾 Seigneur",
@@ -151,9 +165,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 116,
-  "shareCount": 255,
-  "viewCount": 620,
+  "likeCount": 117,
+  "shareCount": 256,
+  "viewCount": 631,
   "verseLikedBy": [
     "008e1486a63590e633532f7665af75fa02cf7d10d81b2868daded201e7cb8e31",
     "02f01e4fce8e7b7b05d16292fe0411fc036f605126d89554a98c261bd9f62e04",
@@ -166,6 +180,7 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "1807904e7614741f6b89474ac62fcf4851e6dfb20165412862a9cf44553423f1",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1c1a6cead95d42b52f3b11243b70a2f83e9421f484c9fbdb34ebd76e79ba3ab9",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
