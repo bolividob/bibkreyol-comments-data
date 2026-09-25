@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "verseKey": "daily:2026-09-25",
-  "updatedAt": 1790336763638,
+  "updatedAt": 1790337736152,
   "version": 1,
   "comments": [
     {
@@ -54,10 +54,12 @@
       "verseName": "Kantik 2:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7187274793a169f2a27212405587fbb318fd2b75dfbe6def4c29925ae9f3fb6c"
+      ],
       "createdAt": 1790300393458,
-      "updatedAt": 1790300393458,
+      "updatedAt": 1790337384673,
       "status": "active"
     },
     {
@@ -106,8 +108,8 @@
     }
   ],
   "likeCount": 85,
-  "shareCount": 169,
-  "viewCount": 438,
+  "shareCount": 173,
+  "viewCount": 448,
   "verseLikedBy": [
     "008e1486a63590e633532f7665af75fa02cf7d10d81b2868daded201e7cb8e31",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
