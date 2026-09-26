@@ -1,9 +1,23 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790399652667,
+  "updatedAt": 1790400617185,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790399947906",
+      "text": "Amén y amén amén amén",
+      "userDeviceId": "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+      "userName": "Darline Claivoyant",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790399949333,
+      "updatedAt": 1790399949333,
+      "status": "active"
+    },
     {
       "id": "local-1790393971886",
       "text": "Merci BonDye merci BonDye 🙏",
@@ -126,8 +140,8 @@
     }
   ],
   "likeCount": 57,
-  "shareCount": 84,
-  "viewCount": 231,
+  "shareCount": 87,
+  "viewCount": 239,
   "verseLikedBy": [
     "07b41930f8263b5ecc6580de01c43c591fcaaa2be2e6f2207822eb8818d5478a",
     "0aba23eaa49a46d39628d9ba5221337b8b1c1ae96ff3eb583e3efad46bfc785d",
