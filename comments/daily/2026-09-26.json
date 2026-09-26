@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790434241202,
+  "updatedAt": 1790434801120,
   "version": 1,
   "comments": [
     {
@@ -70,12 +70,13 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "a1eb0a929ce8e7bea2f0a3ca92137c04fdee4df27bcc757fddc028018eb20d7b"
+        "a1eb0a929ce8e7bea2f0a3ca92137c04fdee4df27bcc757fddc028018eb20d7b",
+        "c3eb57a6b046983823af00be12d783a7eb3b9a5281b9600cc4ebb9ed7f287b83"
       ],
       "createdAt": 1790427200231,
-      "updatedAt": 1790429076475,
+      "updatedAt": 1790434566874,
       "status": "active"
     },
     {
@@ -114,12 +115,13 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "c3eb57a6b046983823af00be12d783a7eb3b9a5281b9600cc4ebb9ed7f287b83",
         "da3d01ad29676ea94085e0dc5e1fb37d1364aa83ac604398b3dcb1011ba09f53"
       ],
       "createdAt": 1790393977536,
-      "updatedAt": 1790429075359,
+      "updatedAt": 1790434559850,
       "status": "active"
     },
     {
@@ -158,13 +160,14 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "29adbf67d95a120ef9231de5d539081605399e33a277c2b7086cec222082696d",
-        "89b7cfa8ef4004305b0cdca219631fa76aaf8322b8f4e7cc358a8f040f5fbfa6"
+        "89b7cfa8ef4004305b0cdca219631fa76aaf8322b8f4e7cc358a8f040f5fbfa6",
+        "c3eb57a6b046983823af00be12d783a7eb3b9a5281b9600cc4ebb9ed7f287b83"
       ],
       "createdAt": 1790388807956,
-      "updatedAt": 1790432003734,
+      "updatedAt": 1790434551624,
       "status": "active"
     },
     {
@@ -175,10 +178,12 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c3eb57a6b046983823af00be12d783a7eb3b9a5281b9600cc4ebb9ed7f287b83"
+      ],
       "createdAt": 1790386829670,
-      "updatedAt": 1790386829670,
+      "updatedAt": 1790434545332,
       "status": "active"
     },
     {
@@ -203,12 +208,13 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+        "c3eb57a6b046983823af00be12d783a7eb3b9a5281b9600cc4ebb9ed7f287b83"
       ],
       "createdAt": 1790385235113,
-      "updatedAt": 1790385247367,
+      "updatedAt": 1790434573253,
       "status": "active"
     },
     {
@@ -219,18 +225,19 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd"
+        "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+        "c3eb57a6b046983823af00be12d783a7eb3b9a5281b9600cc4ebb9ed7f287b83"
       ],
       "createdAt": 1790383214912,
-      "updatedAt": 1790385242554,
+      "updatedAt": 1790434576995,
       "status": "active"
     }
   ],
   "likeCount": 115,
-  "shareCount": 245,
-  "viewCount": 535,
+  "shareCount": 246,
+  "viewCount": 540,
   "verseLikedBy": [
     "0397c3c7023f634c060069d9b64bd7d3a5e97450e7f0bb1a95da3ec928da994d",
     "0615040af37ca3bc9dfb37af7f6fe25142943c8d0f333f9a6e7aae1aed7bf88f",
