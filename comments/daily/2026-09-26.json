@@ -1,9 +1,37 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790385293041,
+  "updatedAt": 1790387043266,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790386751017",
+      "text": "amén amén amén",
+      "userDeviceId": "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+      "userName": "amén amén amén",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790386829670,
+      "updatedAt": 1790386829670,
+      "status": "active"
+    },
+    {
+      "id": "local-1790385734450",
+      "text": "amen",
+      "userDeviceId": "433d06ae482e4e82fed8fa969b8fa017f6594c342ab3c9fb55f8d1bad2cb0925",
+      "userName": "fhhbg",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790385739276,
+      "updatedAt": 1790385739276,
+      "status": "active"
+    },
     {
       "id": "local-1790385232907",
       "text": "Amen anpil Bondye papa Pou grasw ak favè ou senyè 🙏🏼🙇🙏🏼🙇🙏🏼🙇🙏🏼🙏🏼",
@@ -37,12 +65,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 14,
-  "shareCount": 26,
-  "viewCount": 88,
+  "likeCount": 17,
+  "shareCount": 37,
+  "viewCount": 107,
   "verseLikedBy": [
+    "0c78d73f7b652f0cb357c51e0302fa51ed782f48cb03e45a31140740bd2ebc96",
     "2d1ad2b7c00b976d9d4c4e3baaddf2fc1f4da2aa08567048fc4f6a4538b5c153",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+    "433d06ae482e4e82fed8fa969b8fa017f6594c342ab3c9fb55f8d1bad2cb0925",
     "45ec7c0693b1c77f9ed402a3cdd2f12951c9cfad7c6b37dd30285ce12ee73f53",
     "490bbb2f5d282edd47593e4f5c11906b81a833c58a9eb4304531016b9490851d",
     "5fa12194907d08a8544d1fcaf14c1da956cbce30e14112a70023e4f909b69b08",
@@ -54,7 +84,8 @@
     "9f463620369f1ddbc1d0e0156b71579445f79a1d52eb006cb085b9cf8e66af2c",
     "a2ecf0b159beb9d281805caf405680bfa3c628cc14756cada745c5580fa92513",
     "c46b5bb42dad966746d220295a48f6f38d1fb855a4b0df85dc240e441f92859e",
-    "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e"
+    "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
+    "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1"
   ],
   "verseViewBy": []
 }
