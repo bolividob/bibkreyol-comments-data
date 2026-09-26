@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790428498962,
+  "updatedAt": 1790429401720,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "1 Jan 3:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "a1eb0a929ce8e7bea2f0a3ca92137c04fdee4df27bcc757fddc028018eb20d7b"
+      ],
       "createdAt": 1790427200231,
-      "updatedAt": 1790427200231,
+      "updatedAt": 1790429076475,
       "status": "active"
     },
     {
@@ -57,7 +59,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1790419721629,
-      "updatedAt": 1790419721629,
+      "updatedAt": 1790429084824,
       "status": "active"
     },
     {
@@ -87,7 +89,7 @@
         "da3d01ad29676ea94085e0dc5e1fb37d1364aa83ac604398b3dcb1011ba09f53"
       ],
       "createdAt": 1790393977536,
-      "updatedAt": 1790393986712,
+      "updatedAt": 1790429075359,
       "status": "active"
     },
     {
@@ -195,9 +197,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 99,
-  "shareCount": 215,
-  "viewCount": 481,
+  "likeCount": 101,
+  "shareCount": 221,
+  "viewCount": 490,
   "verseLikedBy": [
     "0397c3c7023f634c060069d9b64bd7d3a5e97450e7f0bb1a95da3ec928da994d",
     "07b41930f8263b5ecc6580de01c43c591fcaaa2be2e6f2207822eb8818d5478a",
@@ -223,6 +225,7 @@
     "36dc4133f559acf6dafcc3e05a8563ed636ec89d059e1022e8055be4efcedab7",
     "3a80db805789ee8edb8ede52608b2d1af29f07205863cc393f056499f8637cfd",
     "3c02949efa4c7954036bbf075287440c6dc732a30209ee57499c580301ef6b66",
+    "3c2dd666a9fc599b086fef17b8e6bcbecaafe49419858d79338583b9ccc5c9d3",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "404fc153e4daa0fe743ec56dd5d1802330fb0a6b47cc8c2828626c10e56d8cb9",
     "42fef3ea6c28f98905ac3b42dfb7b4a11facb616987e8a4006774ae7ba8ef0f6",
@@ -245,6 +248,7 @@
     "67cc3c02d0d475c54919cc44e24f0a18320bfc71d7ff3a4a2f2ba0378014f55f",
     "6aa76d76651420f0e65bd1763ca4ed6b09e4136af6956c0c2b83adf7a3420f92",
     "7098c892f0439fb0dd097b6e43dfc22903c9395a8aa3c90ca128953dcf6f17cc",
+    "70d79b41ff96b2ef90a51fc693f2bd884dd573c46a844d1e23ed133c3f2101d2",
     "74eac351d3c5052ab9626f34848bb684c1300c28a29f026e5d17319fa11af9fa",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "7713252179ee207d6864379ee48f94463746df983178aa4083f107c7b16e099e",
