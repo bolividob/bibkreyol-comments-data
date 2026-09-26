@@ -1,9 +1,23 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790392495630,
+  "updatedAt": 1790393403014,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790392294168",
+      "text": "amèn",
+      "userDeviceId": "e69913180b30cdc7fc26db0a9f3d7bebd4bbf08793792b83f0fb231bc818bec0",
+      "userName": "silvena cile",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790392580108,
+      "updatedAt": 1790392580108,
+      "status": "active"
+    },
     {
       "id": "local-1790389029718",
       "text": "Amén",
@@ -95,9 +109,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 37,
-  "shareCount": 68,
-  "viewCount": 164,
+  "likeCount": 40,
+  "shareCount": 70,
+  "viewCount": 173,
   "verseLikedBy": [
     "0c78d73f7b652f0cb357c51e0302fa51ed782f48cb03e45a31140740bd2ebc96",
     "0f8a6efa220e6ac31c7148d60229c16af3f23e86e2b9172da7ddb054470ccd3b",
@@ -121,6 +135,7 @@
     "7929c912c861a930968aa1c31483633f9ea528bf98c0cda229761933427777d3",
     "7b765fb40d7eaba3cd3a474ace1add024b3eff730e49f9f079b84ad0b759d786",
     "7c9a442717f7b81baba80a8f3757246fe838f093b86555be4495194b13406066",
+    "815b71a6a912e5c04a806f106021f79bc747706be33c1a57bcc713b9cd2ec5af",
     "89b7cfa8ef4004305b0cdca219631fa76aaf8322b8f4e7cc358a8f040f5fbfa6",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
     "991c79849d689e370319ff82a27cf2e47cdf9f668cb91ed9ca937e7829fa4860",
@@ -134,6 +149,8 @@
     "d4d58eee260987cb8620d06749f5356fdb1af90bbccb47574ddca73ba485ed7d",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
+    "e640f38e64b70485a032685189ad6c9fb42caadf6bf64200cabebc5123f95b7a",
+    "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
     "f9658960776c648e954b4e5344777d71e7f346f0a3e5eafacf51bfc23260ee43",
     "fe595ed9c564b86ce285cd483dbee8b1f01728b732360b1d71a6615fee0b675f"
   ],
