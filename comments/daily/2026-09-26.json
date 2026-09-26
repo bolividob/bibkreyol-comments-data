@@ -1,9 +1,23 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790419509368,
+  "updatedAt": 1790420403803,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790419720597",
+      "text": "amén",
+      "userDeviceId": "1ab80846f378edc55947516c4b24c0bcb56116dadd056ba69cbce54c8f31b258",
+      "userName": "amén",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790419721629,
+      "updatedAt": 1790419721629,
+      "status": "active"
+    },
     {
       "id": "local-1790399947906",
       "text": "Amén y amén amén amén",
@@ -139,9 +153,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 72,
-  "shareCount": 146,
-  "viewCount": 401,
+  "likeCount": 74,
+  "shareCount": 152,
+  "viewCount": 409,
   "verseLikedBy": [
     "07b41930f8263b5ecc6580de01c43c591fcaaa2be2e6f2207822eb8818d5478a",
     "0aba23eaa49a46d39628d9ba5221337b8b1c1ae96ff3eb583e3efad46bfc785d",
@@ -150,6 +164,7 @@
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "184b4e8acc0fadc7c59b9f10dbfc996e59c77f43c488d6d5b5eb4e2f288798b9",
+    "1ab80846f378edc55947516c4b24c0bcb56116dadd056ba69cbce54c8f31b258",
     "22f5a81b1b567b44e442f51c9129a6df18bdc1c1aeac55195645afb7c6a2f7e3",
     "2b66a7b91e66110e6fe7e0f6d6b5b37348bea53618af348eeba794645034c059",
     "2d1ad2b7c00b976d9d4c4e3baaddf2fc1f4da2aa08567048fc4f6a4538b5c153",
@@ -184,6 +199,7 @@
     "815b71a6a912e5c04a806f106021f79bc747706be33c1a57bcc713b9cd2ec5af",
     "89b7cfa8ef4004305b0cdca219631fa76aaf8322b8f4e7cc358a8f040f5fbfa6",
     "8d451d15fb8996ee60107a28ee9283d5b3e39159dae1e212a4f91327bdb48bab",
+    "8ff8cf4e4121bba54fa64429667ac85d56ade3af5a2d4aa82391f4872ff28102",
     "97689119c07d4ade1dc7ab2e219f8c8d6f4aa2f47dca4a8fe2fac0f646f98672",
     "991c79849d689e370319ff82a27cf2e47cdf9f668cb91ed9ca937e7829fa4860",
     "9a03c955ff159354ab6f29068ff63a6a592dc3755970def3db7579f5b2025fdb",
