@@ -1,9 +1,23 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790432051963,
+  "updatedAt": 1790433001340,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790432795052",
+      "text": "Amen",
+      "userDeviceId": "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
+      "userName": "Jehochoua",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790432796339,
+      "updatedAt": 1790432796339,
+      "status": "active"
+    },
     {
       "id": "local-1790428433503",
       "text": "diyon mon pour mw papá",
@@ -200,9 +214,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 108,
+  "likeCount": 109,
   "shareCount": 232,
-  "viewCount": 511,
+  "viewCount": 522,
   "verseLikedBy": [
     "0397c3c7023f634c060069d9b64bd7d3a5e97450e7f0bb1a95da3ec928da994d",
     "07b41930f8263b5ecc6580de01c43c591fcaaa2be2e6f2207822eb8818d5478a",
@@ -292,6 +306,7 @@
     "c46b5bb42dad966746d220295a48f6f38d1fb855a4b0df85dc240e441f92859e",
     "c5c4da39ff4e14ea483548d4933a537866641cc8dda169ef80f308b72827733f",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
+    "c8f557c2494ec0fa3c8628f89d086fca811bcadf588b370072380bfe1e753dad",
     "c957196c3c30c0cf0d6c76e5a2dbca84b2c8399b8222b11527b8c53028e92438",
     "c99adbfc1dae762f69ff77a1670537ecc5b555ddec141ca348da6185b1aca7ad",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
