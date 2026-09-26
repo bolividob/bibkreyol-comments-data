@@ -1,9 +1,37 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790427603361,
+  "updatedAt": 1790428498962,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790428433503",
+      "text": "diyon mon pour mw papá",
+      "userDeviceId": "edefaccc633c7251dfc9fa66eee76e6558312a8ef8abe81e9aac616f1470f0c3",
+      "userName": "fabie",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790428436091,
+      "updatedAt": 1790428436091,
+      "status": "active"
+    },
+    {
+      "id": "local-1790428387050",
+      "text": "merci papá pour gras ou",
+      "userDeviceId": "edefaccc633c7251dfc9fa66eee76e6558312a8ef8abe81e9aac616f1470f0c3",
+      "userName": "fabie",
+      "verseName": "1 Jan 3:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790428389680,
+      "updatedAt": 1790428389680,
+      "status": "active"
+    },
     {
       "id": "local-1790427199548",
       "text": "mèsi papa pou gras ou 🙏🙏🙏",
@@ -167,9 +195,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 98,
-  "shareCount": 211,
-  "viewCount": 474,
+  "likeCount": 99,
+  "shareCount": 215,
+  "viewCount": 481,
   "verseLikedBy": [
     "0397c3c7023f634c060069d9b64bd7d3a5e97450e7f0bb1a95da3ec928da994d",
     "07b41930f8263b5ecc6580de01c43c591fcaaa2be2e6f2207822eb8818d5478a",
@@ -263,6 +291,7 @@
     "e640f38e64b70485a032685189ad6c9fb42caadf6bf64200cabebc5123f95b7a",
     "e8bcbdfdb9f4f3c86364b8519c4786a2852c6670c0dec0c63317e2c3be100dfc",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
+    "edefaccc633c7251dfc9fa66eee76e6558312a8ef8abe81e9aac616f1470f0c3",
     "f34124082cf3ec230a889af558a278067eed77fa70f6efc9363d02dcd6a843c7",
     "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
     "f67807b2ba25b72754a2ba1fdeb1cb5638b921afaeb9283f7f10f82f55c5445e",
