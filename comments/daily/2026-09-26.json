@@ -1,9 +1,23 @@
 {
   "date": "2026-09-26",
   "verseKey": "daily:2026-09-26",
-  "updatedAt": 1790388841883,
+  "updatedAt": 1790389800898,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790389029718",
+      "text": "Amén",
+      "userDeviceId": "1c77cac0d184bdeb7a812fc90fdb79c0e6fb084a3ce1ca80d954164cf4068b9e",
+      "userName": "vése yo tro kout",
+      "verseName": "2 Samwèl 8:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790389067336,
+      "updatedAt": 1790389067336,
+      "status": "active"
+    },
     {
       "id": "local-1790388804193",
       "text": "Merci seigneur 🙏🙏",
@@ -79,17 +93,20 @@
       "status": "active"
     }
   ],
-  "likeCount": 23,
-  "shareCount": 46,
-  "viewCount": 129,
+  "likeCount": 27,
+  "shareCount": 53,
+  "viewCount": 138,
   "verseLikedBy": [
     "0c78d73f7b652f0cb357c51e0302fa51ed782f48cb03e45a31140740bd2ebc96",
     "184b4e8acc0fadc7c59b9f10dbfc996e59c77f43c488d6d5b5eb4e2f288798b9",
     "2d1ad2b7c00b976d9d4c4e3baaddf2fc1f4da2aa08567048fc4f6a4538b5c153",
+    "36dc4133f559acf6dafcc3e05a8563ed636ec89d059e1022e8055be4efcedab7",
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "433d06ae482e4e82fed8fa969b8fa017f6594c342ab3c9fb55f8d1bad2cb0925",
     "45ec7c0693b1c77f9ed402a3cdd2f12951c9cfad7c6b37dd30285ce12ee73f53",
     "490bbb2f5d282edd47593e4f5c11906b81a833c58a9eb4304531016b9490851d",
+    "490d570c8e95ffcbfdd103c838624337f31e65c8b32f41ca4d0ba1e60ae85665",
+    "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c",
     "54daed8b9715c63d5c999028c0b541dcb1b5977fbbf21e476ea9a811ded1543e",
     "5fa12194907d08a8544d1fcaf14c1da956cbce30e14112a70023e4f909b69b08",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
@@ -105,7 +122,8 @@
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
     "e28494704a4c089b5a246a30f73da7a130e16de95f485eef89cf86425c4efa25",
-    "f9658960776c648e954b4e5344777d71e7f346f0a3e5eafacf51bfc23260ee43"
+    "f9658960776c648e954b4e5344777d71e7f346f0a3e5eafacf51bfc23260ee43",
+    "fe595ed9c564b86ce285cd483dbee8b1f01728b732360b1d71a6615fee0b675f"
   ],
   "verseViewBy": []
 }
