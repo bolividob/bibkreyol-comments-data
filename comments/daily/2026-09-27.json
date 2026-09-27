@@ -1,9 +1,23 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790514047635,
+  "updatedAt": 1790514842533,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790514372470",
+      "text": "amen amen 🙏",
+      "userDeviceId": "37ccff2399e9ef7fb900228d7c6edd282835ac47874a8ccf28f8ef79bf3d1a35",
+      "userName": "missou",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790514529639,
+      "updatedAt": 1790514529639,
+      "status": "active"
+    },
     {
       "id": "local-1790513434806",
       "text": "bon travail mwn renmen bib men mwn gen yon ti problème memwa",
@@ -59,7 +73,7 @@
         "676a33eee8353a2a969581e56eec8201822217190bf9dab067216c42281fe447"
       ],
       "createdAt": 1790512079201,
-      "updatedAt": 1790513170533,
+      "updatedAt": 1790514392208,
       "status": "active"
     },
     {
@@ -290,7 +304,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1790473358191,
-      "updatedAt": 1790473358191,
+      "updatedAt": 1790514439327,
       "status": "active"
     },
     {
@@ -301,24 +315,26 @@
       "verseName": "Eklezyas 10:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "081ab3dac5d7d01d950dc06ccf1895067e158f284ff4eabbace1d07a45c603c0",
         "a48e23b03b4e91d47714e640e49eb024c4e3dafeb8e71325a547a631854778f8"
       ],
       "createdAt": 1790471930666,
-      "updatedAt": 1790476769675,
+      "updatedAt": 1790514435089,
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 224,
-  "viewCount": 504,
+  "likeCount": 114,
+  "shareCount": 227,
+  "viewCount": 517,
   "verseLikedBy": [
     "023c3e93f280651961211bd5a75291fbd1e34463464134d2b9eb5347148cc9cf",
     "04da0c08c9d25833c332ee4d733060f1ada876a1ddc9ee967f09173be0060b88",
     "0615040af37ca3bc9dfb37af7f6fe25142943c8d0f333f9a6e7aae1aed7bf88f",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "081ab3dac5d7d01d950dc06ccf1895067e158f284ff4eabbace1d07a45c603c0",
     "0a147d53a5bf9951a489ae8d5d9c22948fbd30a387926bf9075eaf308c7901f6",
     "0b3b112de1b38ed098d077d2d77bd60f499d0999c426871c33ec183f7a546d4c",
     "1311a315a0fa25208a5c933901185e4c0f19f107916e613343c499ab44737ec3",
@@ -335,6 +351,7 @@
     "34d9fc89093980e9dc1bdc2b7d463c507e68ad8197a546146716c1622d3cd195",
     "3723d092d5514d9237d87c652f6ff66150bdc076c329d97d7d9b22f73198908d",
     "37fa5bf334279e4192cc89d068cac385c1df8a474409279c7723025c331c9750",
+    "39da20956a233c4024419da019f101bcd342506a3fd63e9928c35922aba7c2d3",
     "3a64f72b70966e731f54327817a6b0faa0ed25fbc95da8b410d06aba93b4ac52",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3b9a662e19e1a2b1b9950a040f1262f34f5b35b0d907f49f0743ab41960475b8",
@@ -385,8 +402,10 @@
     "a48e23b03b4e91d47714e640e49eb024c4e3dafeb8e71325a547a631854778f8",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
+    "aaca29f0bdcf18ecefcb062c4c4a204b8ee6f9626b4e39c485fac710909eb812",
     "ab230e73ae53e4dd03d30217a15bf8cb372e583d9b15cc5baefdf5fa336f51c1",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
+    "acd5d6f0835ee2ca7cfa35092f771a6d882d4e0337cfa9cd380bdcbedc8927d9",
     "b0002b9512d7a74133b21cf562795b7171c1e916f143c4b0183c36653b77f523",
     "b15959b9bb724c00a2b1b7465d9715f050eca871878ad5d1f9d4a977a615f80e",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
