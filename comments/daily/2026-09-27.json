@@ -1,14 +1,30 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790471682141,
+  "updatedAt": 1790472614161,
   "version": 1,
-  "comments": [],
-  "likeCount": 12,
-  "shareCount": 19,
-  "viewCount": 82,
+  "comments": [
+    {
+      "id": "local-1790471929017",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790471930666,
+      "updatedAt": 1790471930666,
+      "status": "active"
+    }
+  ],
+  "likeCount": 16,
+  "shareCount": 20,
+  "viewCount": 92,
   "verseLikedBy": [
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "507d92207f680f9e4c8ddf3d64079b4333c6511e51cf34e1058ff6ee5e4469ad",
     "5766e8d7f4115128b2aac585fc8701aea3f611f0638a98e3303a363cc0f8fb69",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
@@ -16,7 +32,10 @@
     "7c9a442717f7b81baba80a8f3757246fe838f093b86555be4495194b13406066",
     "885169aecfa30b7dad4c7f9ca0245dfd1514481ba4e13b813a8c0ebd1643947e",
     "8a0f227abae4f8406aee026c331d20ae5a4823d9db2a599611cd5cbf1f7881d8",
+    "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b61ac210e5f47fc5309a53449928e9fe26d3c547fab0d4a3572da90beef020b3",
+    "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+    "cac8875b459c5b25bc051906cd05d014121f86d564cc792a1e40fbc8ec8b060c",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "eb222bbbb4b5e7aae3cd76b6d03dce2a2bc6ba0905a7373b410192e2ac8f62a6",
     "f520f45647a75fd32ba0946b92a9ea07e2fd71dc598ac48f8e8f8d7b91764895"
