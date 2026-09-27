@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790539201358,
+  "updatedAt": 1790540047033,
   "version": 1,
   "comments": [
     {
@@ -12,10 +12,12 @@
       "verseName": "Eklezyas 10:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "70cc8ec17026ca63801089bef91b96643ccd78bd05519538602ac3645d268749"
+      ],
       "createdAt": 1790536754364,
-      "updatedAt": 1790538821321,
+      "updatedAt": 1790539747157,
       "status": "active"
     },
     {
@@ -74,10 +76,12 @@
       "verseName": "Eklezyas 10:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "70cc8ec17026ca63801089bef91b96643ccd78bd05519538602ac3645d268749"
+      ],
       "createdAt": 1790521998919,
-      "updatedAt": 1790521998919,
+      "updatedAt": 1790539737691,
       "status": "active"
     },
     {
@@ -458,9 +462,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 179,
+  "likeCount": 180,
   "shareCount": 358,
-  "viewCount": 774,
+  "viewCount": 783,
   "verseLikedBy": [
     "00f981b24ab9c6740744b9630692a200149a57f4da8fc27a197a3d2349c22ee0",
     "023c3e93f280651961211bd5a75291fbd1e34463464134d2b9eb5347148cc9cf",
@@ -473,6 +477,7 @@
     "0a147d53a5bf9951a489ae8d5d9c22948fbd30a387926bf9075eaf308c7901f6",
     "0b3b112de1b38ed098d077d2d77bd60f499d0999c426871c33ec183f7a546d4c",
     "1311a315a0fa25208a5c933901185e4c0f19f107916e613343c499ab44737ec3",
+    "13d682b1ee426931f79fd927409c6b39e2fd583e9d6bf2b7374c6ccfc4f5e498",
     "13e9fb4716e44526d00fbb4d47d8ec735d8fba34f0f30427e42e210225b86bd1",
     "18b4be217e608af8d2772dda7a80058343a634422a0b51693028369a5915c8dd",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
