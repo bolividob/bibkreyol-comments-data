@@ -1,9 +1,23 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790536447875,
+  "updatedAt": 1790537401560,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790536749367",
+      "text": "amen",
+      "userDeviceId": "8d5b34de3819d6342a388c5064902bc3de0fbcde71d2c29d7986fc41da2f75c9",
+      "userName": "Josie",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790536754364,
+      "updatedAt": 1790536754364,
+      "status": "active"
+    },
     {
       "id": "local-1790529329327",
       "text": "bondye bondye chanjem",
@@ -440,9 +454,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 177,
-  "shareCount": 354,
-  "viewCount": 749,
+  "likeCount": 179,
+  "shareCount": 356,
+  "viewCount": 758,
   "verseLikedBy": [
     "00f981b24ab9c6740744b9630692a200149a57f4da8fc27a197a3d2349c22ee0",
     "023c3e93f280651961211bd5a75291fbd1e34463464134d2b9eb5347148cc9cf",
@@ -539,6 +553,7 @@
     "8a95d7ad6284aff87bff244ddb0250b44dfe95d2a4fb7ddc55538021e9d559e5",
     "8b7083b06d02c9659c13c2987d2bf3a51b30282696c418f391fd58dbe7ee8c92",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
+    "8d5b34de3819d6342a388c5064902bc3de0fbcde71d2c29d7986fc41da2f75c9",
     "95a6dde021927516cd73b18de5aacf7b5d656128f387a878173f1b4afb4f6a30",
     "95d9b6bb5b46fd3568eb1492d22723e76f9130f6cb605fee68f3e4933e62fbc6",
     "96ed31dc822a23ed0480bc6ac900f5b13a389bd48371d2122fb01e71c6651b12",
@@ -573,6 +588,7 @@
     "ba9f524953a630b501c0ac2c88649746740e7c0e338f7a7ff8257f4dd5aeaac5",
     "be4f139970f1f1448095644921f0f51503f54b0c47ef7f50b427d7f8a10ce3ba",
     "c052615b3d0fef31abfc4d6119f1cfd43b9195cdfcc1df6ddef0f4421536b04f",
+    "c0530b9bfd663d887e8c727bbab3390ee0bf607ffd6d96bdca30be085eac7ca0",
     "c21a2f3147651063aaa7d9d6aa9a22a129edb43d8c1a006cb606318a5d7d149e",
     "c2539ba50d0f8684529e02feb5fd572d4b7b8777c1aef1d68aad2ab246a485e1",
     "c80ad87f045af3412f55aa72f9de51d05f5670117d834b67784bbcdd1949194b",
