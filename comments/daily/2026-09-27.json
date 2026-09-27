@@ -1,9 +1,37 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790484247588,
+  "updatedAt": 1790485206923,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790485007846",
+      "text": "Amen 🙏",
+      "userDeviceId": "7db3df334c5ad7723b952557406794a87bddc6a3a8240807fd1d95e8a5b9238f",
+      "userName": "karaline Mme shychem",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790485013494,
+      "updatedAt": 1790485013494,
+      "status": "active"
+    },
+    {
+      "id": "local-1790484981602",
+      "text": "Amen 🙏",
+      "userDeviceId": "7db3df334c5ad7723b952557406794a87bddc6a3a8240807fd1d95e8a5b9238f",
+      "userName": "karaline Mme shychem",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790484986299,
+      "updatedAt": 1790484986299,
+      "status": "active"
+    },
     {
       "id": "local-1790481926030",
       "text": "Amèn 🙏🏾 3fwa Senyè.",
@@ -121,13 +149,14 @@
       "status": "active"
     }
   ],
-  "likeCount": 54,
-  "shareCount": 80,
-  "viewCount": 215,
+  "likeCount": 57,
+  "shareCount": 81,
+  "viewCount": 223,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
     "1311a315a0fa25208a5c933901185e4c0f19f107916e613343c499ab44737ec3",
+    "1f2708343b310b4a6d8a5ed63c389595479835cd78f2417afd320be2763d2244",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
@@ -142,6 +171,7 @@
     "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c",
     "5766e8d7f4115128b2aac585fc8701aea3f611f0638a98e3303a363cc0f8fb69",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
+    "5c5073105f047f13aa793252fc914ffc10002a186e81a867eab991b4753b0a66",
     "5f052a256531f8003f64fce5ac5862a594616aa76b493021cbd2540616b69b18",
     "67e8b9c4595a09778d74648209e4299d1c1aa25c2080888b8b381bf26de63b50",
     "68c3dd49153470822c0006069d64514facd1ed595b8ffd393ac1d51916fd8aac",
@@ -152,6 +182,7 @@
     "7a1ca193bf7c27a54551b6d74aa44b08fcc067a00055c4df9945a89ad72a7f9b",
     "7b765fb40d7eaba3cd3a474ace1add024b3eff730e49f9f079b84ad0b759d786",
     "7c9a442717f7b81baba80a8f3757246fe838f093b86555be4495194b13406066",
+    "7db3df334c5ad7723b952557406794a87bddc6a3a8240807fd1d95e8a5b9238f",
     "81848fe5c502d116584dfdbe0030ca2ef26c3d94f314ea7372e6d3f0d3fb01b9",
     "86f6a8e557951723013ea475d7c124a2b3de95f89265040ed2a9b6181661fed4",
     "885169aecfa30b7dad4c7f9ca0245dfd1514481ba4e13b813a8c0ebd1643947e",
