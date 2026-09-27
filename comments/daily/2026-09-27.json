@@ -1,9 +1,37 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790550841534,
+  "updatedAt": 1790551990188,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790551987808",
+      "text": "amén",
+      "userDeviceId": "91905e08fe2b46a64b626ccea213db26cc8f452dc873227ee60516ea04ed254e",
+      "userName": "Oberson Desrosiers",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790551990188,
+      "updatedAt": 1790551990188,
+      "status": "active"
+    },
+    {
+      "id": "local-1790551535868",
+      "text": "bondye chajem",
+      "userDeviceId": "ab0b2ae55d290f03d8a0b630b1501720d9fd54b1b3b828b1b17453963e030270",
+      "userName": "cma",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790551541111,
+      "updatedAt": 1790551541111,
+      "status": "active"
+    },
     {
       "id": "local-1790549261673",
       "text": "amén 🙏",
@@ -494,9 +522,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 197,
-  "shareCount": 386,
-  "viewCount": 890,
+  "likeCount": 199,
+  "shareCount": 391,
+  "viewCount": 901,
   "verseLikedBy": [
     "00f981b24ab9c6740744b9630692a200149a57f4da8fc27a197a3d2349c22ee0",
     "023c3e93f280651961211bd5a75291fbd1e34463464134d2b9eb5347148cc9cf",
@@ -624,8 +652,10 @@
     "a275cb09f6b89b450239fdb7cf95e6533359cd1a093bc3d53939e3d1bf1a4d73",
     "a48e23b03b4e91d47714e640e49eb024c4e3dafeb8e71325a547a631854778f8",
     "a4ad6b5f2c50f7ae68d2efe5fa49f11bbb805f54863cce7b74086092412b519a",
+    "a6524c53658a40ea18f0b74cb404140d19fe5409b703cf998027303492d3f03b",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "aaca29f0bdcf18ecefcb062c4c4a204b8ee6f9626b4e39c485fac710909eb812",
+    "ab0b2ae55d290f03d8a0b630b1501720d9fd54b1b3b828b1b17453963e030270",
     "ab0bfacf42e3f24f2087c45849549097a7289898525961600798e8f7c32de3c2",
     "ab230e73ae53e4dd03d30217a15bf8cb372e583d9b15cc5baefdf5fa336f51c1",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
