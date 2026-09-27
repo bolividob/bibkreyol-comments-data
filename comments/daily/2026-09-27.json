@@ -1,9 +1,23 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790488801144,
+  "updatedAt": 1790489654945,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790488880822",
+      "text": "amèn🙏🙏🙏🙏",
+      "userDeviceId": "b1864c3109648372bf5973ebef09724b26baf264a4824dfcdbc9c52c47c4c428",
+      "userName": "Peterson",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790488883820,
+      "updatedAt": 1790488883820,
+      "status": "active"
+    },
     {
       "id": "local-1790486063852",
       "text": "Amén y amén amén",
@@ -164,8 +178,8 @@
     }
   ],
   "likeCount": 63,
-  "shareCount": 89,
-  "viewCount": 253,
+  "shareCount": 91,
+  "viewCount": 260,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
