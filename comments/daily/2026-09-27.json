@@ -1,9 +1,23 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790501410171,
+  "updatedAt": 1790502324361,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790502322466",
+      "text": "Patrick",
+      "userDeviceId": "34d9fc89093980e9dc1bdc2b7d463c507e68ad8197a546146716c1622d3cd195",
+      "userName": "Daniel",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790502324361,
+      "updatedAt": 1790502324361,
+      "status": "active"
+    },
     {
       "id": "local-1790488880822",
       "text": "amèn🙏🙏🙏🙏",
@@ -177,12 +191,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 67,
-  "shareCount": 109,
-  "viewCount": 358,
+  "likeCount": 70,
+  "shareCount": 112,
+  "viewCount": 365,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
+    "0b3b112de1b38ed098d077d2d77bd60f499d0999c426871c33ec183f7a546d4c",
     "1311a315a0fa25208a5c933901185e4c0f19f107916e613343c499ab44737ec3",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1f2708343b310b4a6d8a5ed63c389595479835cd78f2417afd320be2763d2244",
@@ -190,6 +205,7 @@
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "25079010d5bb088577cdf7401d6421121b180dbe6853ee8af151efaebcf957f7",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
+    "34d9fc89093980e9dc1bdc2b7d463c507e68ad8197a546146716c1622d3cd195",
     "37fa5bf334279e4192cc89d068cac385c1df8a474409279c7723025c331c9750",
     "3a64f72b70966e731f54327817a6b0faa0ed25fbc95da8b410d06aba93b4ac52",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
@@ -226,6 +242,7 @@
     "a48e23b03b4e91d47714e640e49eb024c4e3dafeb8e71325a547a631854778f8",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "acbda28ca1ed491fe5ce452a44de70c791590327d7464fce7e81a134eddf927a",
+    "b15959b9bb724c00a2b1b7465d9715f050eca871878ad5d1f9d4a977a615f80e",
     "b252eb22bb92dd2d8cd17872befbfbc896661b1071ee3de558e3e0776a1cabcd",
     "b5ccfcc0269306e47667f7040e27ae7cccea8bc4e686308a15d39610039778d6",
     "b61ac210e5f47fc5309a53449928e9fe26d3c547fab0d4a3572da90beef020b3",
