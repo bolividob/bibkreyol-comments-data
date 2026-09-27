@@ -1,9 +1,25 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790548202498,
+  "updatedAt": 1790549041228,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790548903223",
+      "text": "Dios Mío",
+      "userDeviceId": "37efe94cddd57a2b5680d71bceb53a612e34dabe3b479023fc56d4b77489d44e",
+      "userName": "SCHERDJIEX PROMO TOUTAN VALIDE",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "37efe94cddd57a2b5680d71bceb53a612e34dabe3b479023fc56d4b77489d44e"
+      ],
+      "createdAt": 1790548906089,
+      "updatedAt": 1790548926535,
+      "status": "active"
+    },
     {
       "id": "local-1790536749367",
       "text": "amen",
@@ -279,12 +295,13 @@
       "verseName": "Eklezyas 10:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "37efe94cddd57a2b5680d71bceb53a612e34dabe3b479023fc56d4b77489d44e",
         "a272c1c893b546abfd0450f2a763b9be3b144b36cbfbcd343a65a786675de247"
       ],
       "createdAt": 1790502324361,
-      "updatedAt": 1790506951773,
+      "updatedAt": 1790548937825,
       "status": "active"
     },
     {
@@ -326,7 +343,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1790485013494,
-      "updatedAt": 1790485013494,
+      "updatedAt": 1790548942250,
       "status": "active"
     },
     {
@@ -462,9 +479,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 192,
+  "likeCount": 194,
   "shareCount": 380,
-  "viewCount": 862,
+  "viewCount": 871,
   "verseLikedBy": [
     "00f981b24ab9c6740744b9630692a200149a57f4da8fc27a197a3d2349c22ee0",
     "023c3e93f280651961211bd5a75291fbd1e34463464134d2b9eb5347148cc9cf",
@@ -479,6 +496,7 @@
     "1311a315a0fa25208a5c933901185e4c0f19f107916e613343c499ab44737ec3",
     "13d682b1ee426931f79fd927409c6b39e2fd583e9d6bf2b7374c6ccfc4f5e498",
     "13e9fb4716e44526d00fbb4d47d8ec735d8fba34f0f30427e42e210225b86bd1",
+    "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "18b4be217e608af8d2772dda7a80058343a634422a0b51693028369a5915c8dd",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
     "1ef614a440fa6b38b713e3065a20174be6d5b8e770a5453524bf9881e0f20a7e",
@@ -495,6 +513,7 @@
     "2b3142cb5d4d96021bb2f2d464f5f15881dd87f88e086ea47201bb223f618a35",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "32d1cc3f85006e5b3ef72f82e19c5b4a0cfa83f79dd168b52d7370898f812a57",
+    "344c7c9a682d326987a42249b29f2cf32a40a8165bd75ebf59e93af608b85259",
     "34d9fc89093980e9dc1bdc2b7d463c507e68ad8197a546146716c1622d3cd195",
     "3723d092d5514d9237d87c652f6ff66150bdc076c329d97d7d9b22f73198908d",
     "37fa5bf334279e4192cc89d068cac385c1df8a474409279c7723025c331c9750",
