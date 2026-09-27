@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "verseKey": "daily:2026-09-27",
-  "updatedAt": 1790505844192,
+  "updatedAt": 1790506813003,
   "version": 1,
   "comments": [
     {
@@ -26,10 +26,12 @@
       "verseName": "Eklezyas 10:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c2539ba50d0f8684529e02feb5fd572d4b7b8777c1aef1d68aad2ab246a485e1"
+      ],
       "createdAt": 1790502465843,
-      "updatedAt": 1790502465843,
+      "updatedAt": 1790506376640,
       "status": "active"
     },
     {
@@ -219,9 +221,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 77,
-  "shareCount": 130,
-  "viewCount": 401,
+  "likeCount": 80,
+  "shareCount": 139,
+  "viewCount": 412,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "076998429806efe84a15e04b636401946de0e8fc8f65cbeafc93e241d52a6d03",
@@ -242,6 +244,7 @@
     "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "417a3c7e1b516286b61ccc786617a7808fc3e8d479d0c173cabd3a0b324ae56f",
     "45c5aef855cac47b3fc084d0b9b0b378feb0f53b485749ce420aa13302b0d1c7",
+    "49dfd2530e210982c008d553637c4bc2b4a6ca97645ce6d4e7cde2f1538cf29e",
     "4aae58b7ff19ffd8c90b51d04ed662a68f24c8b517b25f452b7a3da042cf1d4d",
     "5045d577156768d7613bee2d6805c289906447fd94e8d1820c37e43302860638",
     "507d92207f680f9e4c8ddf3d64079b4333c6511e51cf34e1058ff6ee5e4469ad",
@@ -280,6 +283,7 @@
     "b5ccfcc0269306e47667f7040e27ae7cccea8bc4e686308a15d39610039778d6",
     "b61ac210e5f47fc5309a53449928e9fe26d3c547fab0d4a3572da90beef020b3",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+    "c2539ba50d0f8684529e02feb5fd572d4b7b8777c1aef1d68aad2ab246a485e1",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
@@ -294,6 +298,7 @@
     "eb222bbbb4b5e7aae3cd76b6d03dce2a2bc6ba0905a7373b410192e2ac8f62a6",
     "ef2a123655e3c0f598dd81a475f058c9499bd2951f92a5fed6aa8ebfe27d13cc",
     "ef2cd1974b68b8a4b41942c3afa0b52fc13fadccd75220b1d10330e710281ad3",
+    "f0d62b50d69e85646262eedf896917ecc83cdd877331008fcbcf32cba5c42bc6",
     "f3acf1d8ec221d027a0f2ee6354c5c99fc6aecbb44ec647b0b42181c81788c85",
     "f476e41bfc37c2a05417a5df9a6b6aa28d2cebd2d7048303893add8e8d76a169",
     "f520f45647a75fd32ba0946b92a9ea07e2fd71dc598ac48f8e8f8d7b91764895",
