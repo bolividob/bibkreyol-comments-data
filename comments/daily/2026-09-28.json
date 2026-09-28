@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790606641781,
+  "updatedAt": 1790607604211,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790607314099",
+      "text": "amèn",
+      "userDeviceId": "207384a1c008bd2439055e2936741ff93444830533c92de475318c7918be70bd",
+      "userName": "desinord",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790607319574,
+      "updatedAt": 1790607319574,
+      "status": "active"
+    },
     {
       "id": "local-1790600468154",
       "text": "Amen",
@@ -26,10 +40,12 @@
       "verseName": "Filemon 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "c1b6aa326711b94fe04ec593d908273619af19bfbecf6b89d5b2fdc13e5b5ae6"
+      ],
       "createdAt": 1790598988669,
-      "updatedAt": 1790598988669,
+      "updatedAt": 1790606797944,
       "status": "active"
     },
     {
@@ -334,8 +350,8 @@
     }
   ],
   "likeCount": 134,
-  "shareCount": 280,
-  "viewCount": 563,
+  "shareCount": 284,
+  "viewCount": 571,
   "verseLikedBy": [
     "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
