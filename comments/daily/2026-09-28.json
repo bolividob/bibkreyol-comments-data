@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790571607244,
+  "updatedAt": 1790572927721,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790572672200",
+      "text": "se nan Bondye ki genyen lavi",
+      "userDeviceId": "6fcf3b7cd788a473d3d7cf35cc8ee9306ceeaab5f1fb66da42d6a3c02d8985b9",
+      "userName": "Bondye sovem",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790572702020,
+      "updatedAt": 1790572702020,
+      "status": "active"
+    },
     {
       "id": "local-1790569275286",
       "text": "amèn 🙏🏾 wi Bondye.",
@@ -133,9 +147,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 68,
-  "shareCount": 131,
-  "viewCount": 251,
+  "likeCount": 70,
+  "shareCount": 133,
+  "viewCount": 262,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "03ea530ba2804a3f4120d2a66b47f224b54bde767fb700eed7fd4ec026a1340b",
@@ -166,6 +180,7 @@
     "628e5a4322e2ebc793bde1fff76edfcbaca4e8071935319e69b0863f8d26d7eb",
     "6568618865f325272c702d085d68debf345849558ab02c7e9e1ed5c41dc991e2",
     "6e1a599fa130cfd1aee920be28ed384640b9e15bfda6a1bd5a2fb23fd93e8eb8",
+    "6fcf3b7cd788a473d3d7cf35cc8ee9306ceeaab5f1fb66da42d6a3c02d8985b9",
     "714c0490005e40214cb62ce2098d4939087f5e03ddb418eff73cb75b53d49cb2",
     "72b88739a3e330936dc61a255a0aaf829961567146ac9e74af2caf52959d4bc8",
     "7643f9cb11a3d0aeae4db310bca0777b6396610a9312538dcfa37a2080211d9f",
@@ -184,6 +199,7 @@
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "ae93b0be81f004884dbbd53f762047f59cd1d3cf62c918fa4577bf6ae337b1a4",
     "b3d7b66a86b3a2d0712b0fc38a8f3e59eaf3261faf6ab02fcd573e4b4e8fa671",
+    "b6153e752f2548698657c07868a73891d1c7716eacf98e01184580520102da6d",
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bbc1776f25d93b231638ddec6f1cf747c21c8dd77679a839b560179cc09d39e0",
