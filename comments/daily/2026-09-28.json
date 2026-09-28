@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790568841206,
+  "updatedAt": 1790569812565,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790569275286",
+      "text": "amèn 🙏🏾 wi Bondye.",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790569279084,
+      "updatedAt": 1790569279084,
+      "status": "active"
+    },
     {
       "id": "local-1790567926587",
       "text": "amèn wii Bondye",
@@ -119,9 +133,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 64,
+  "likeCount": 65,
   "shareCount": 124,
-  "viewCount": 227,
+  "viewCount": 235,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "03ea530ba2804a3f4120d2a66b47f224b54bde767fb700eed7fd4ec026a1340b",
@@ -144,6 +158,7 @@
     "42067c22c5901868c24d4c999067aea1e85d6e9567602bb28bfe2cd8d2c6ffe6",
     "4e17189286dc80f84efb333d3fb7a849641124d85102a58f28123a02db057b57",
     "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820",
+    "54cc0e95f0e36a377e210d250b922f72a9d7de882582d20a01fffe1f0a72d262",
     "55787f018673b38a061a08abf64a410fe238bb19a1ee6ab271994d7da372d1b1",
     "5613be51d949ab3ba2357196e2a3878b6ac7d463027e479c2548ad17330a3362",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
