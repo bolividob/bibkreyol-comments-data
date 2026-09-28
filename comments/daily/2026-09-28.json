@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790598603920,
+  "updatedAt": 1790599516422,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790598987525",
+      "text": "bonjour frè m ak sèm yo",
+      "userDeviceId": "2ad464c22fdf8f08212b2d51786bda40a428f0b55ceccb375de3231b51e3aed3",
+      "userName": "Adlet Moise",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790598988669,
+      "updatedAt": 1790598988669,
+      "status": "active"
+    },
     {
       "id": "local-1790518915566",
       "text": "merci jezu pou lanmou sa a",
@@ -305,9 +319,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 116,
-  "shareCount": 253,
-  "viewCount": 490,
+  "likeCount": 118,
+  "shareCount": 258,
+  "viewCount": 497,
   "verseLikedBy": [
     "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
@@ -379,6 +393,7 @@
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8c4217a8c9661ecae5b95996f3d282d4115e643f05d52843190d8df4910a941c",
     "9310b8e4bd8aaa4110090217516d8385ef0091d91b4026f3f6873f43c4ae4616",
+    "9331158e7ccf1a40b755e5ed60d597e94f85e66e8ed3628b82f3dc2b8890f685",
     "937cf952b42f9203125e0277ffc3a193a514f8cdc6825f3dbcf3ca36a237599c",
     "94755943bf8c7a5ad49234f453f64e6a0dc37e66343523deefa820fad6b889ba",
     "995410c74e0edb5ac36c9c79fce7db969511593587dfb7f07066fd9c643c47e1",
@@ -404,6 +419,7 @@
     "c0230af13b6267a98cdc4d207243f2f617335e5b2ccf8030ccd0f0c2bf5451c1",
     "c23873175b53d95cc5cb246c56699a34c3e160073fc65f727429e7cfd30f5405",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
+    "c47dfcfef58ef00d121692013e14dce8232638c54198cf77eff5f29747800b5d",
     "c4e931760a7f3b8ed66d13f305127c93e1c4f6b817623e8ae2099c5fc3369d0d",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "c782febbef0ca884a62e324988b4dc45b56ef95d00daf3f80a3bf5844b8ed4ab",
