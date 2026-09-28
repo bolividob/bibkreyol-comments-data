@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790618402896,
+  "updatedAt": 1790619245682,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790619114610",
+      "text": "Amen",
+      "userDeviceId": "51003710cc8fcd67177abe86807b93e77de3dfbf228b2452dc173c17d731a2c8",
+      "userName": "mithou",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790619115659,
+      "updatedAt": 1790619115659,
+      "status": "active"
+    },
     {
       "id": "local-1790612920789",
       "text": "bonsoir",
@@ -365,9 +379,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 155,
-  "shareCount": 311,
-  "viewCount": 665,
+  "likeCount": 157,
+  "shareCount": 314,
+  "viewCount": 672,
   "verseLikedBy": [
     "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
@@ -420,6 +434,7 @@
     "4e17189286dc80f84efb333d3fb7a849641124d85102a58f28123a02db057b57",
     "4f4ff1fbe5d28970a36a0695aba4a4f7ef1e676ca44b44cf81984128173d6320",
     "509c1493e8bf0e954f58b878529e3c15dfc16d1a1b645423cc38470c30186518",
+    "51003710cc8fcd67177abe86807b93e77de3dfbf228b2452dc173c17d731a2c8",
     "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820",
     "519051ba33d557077aa2e277729e05bc67c9257f50f48505844371db926058a2",
     "5431788a869c7c983d24d9871d34debbdbd35189058c27d038fd7b0391d068b3",
@@ -446,6 +461,7 @@
     "7b765fb40d7eaba3cd3a474ace1add024b3eff730e49f9f079b84ad0b759d786",
     "7c8bd5ebee59e0fbfdd7871a49bc669c8ea03c6c8088a8519a673a6b86127a53",
     "81848fe5c502d116584dfdbe0030ca2ef26c3d94f314ea7372e6d3f0d3fb01b9",
+    "8311531c4370ff4759fcaaf18c7d4aa75d50a568ed83563b10a0b7590b36e7dd",
     "856e9b1cf8a92f725080589f99848811fee0bf8dc951a4741f6a206eb21fdac1",
     "8a4f291babee5c0581d1db4338692280c9ce4188f54fc3dcec3bfa35e5c2d083",
     "8b533d6c07268e0753e9fc0df58f8dc8c3f89807260850007860d4c37cf1c42c",
