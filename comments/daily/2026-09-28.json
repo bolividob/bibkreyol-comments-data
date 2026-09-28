@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790567050217,
+  "updatedAt": 1790568002053,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790567926587",
+      "text": "amèn wii Bondye",
+      "userDeviceId": "c23873175b53d95cc5cb246c56699a34c3e160073fc65f727429e7cfd30f5405",
+      "userName": "amèn",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790567928623,
+      "updatedAt": 1790567928623,
+      "status": "active"
+    },
     {
       "id": "local-1790564304287",
       "text": "alelouya",
@@ -105,9 +119,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
-  "shareCount": 119,
-  "viewCount": 212,
+  "likeCount": 63,
+  "shareCount": 121,
+  "viewCount": 220,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "03ea530ba2804a3f4120d2a66b47f224b54bde767fb700eed7fd4ec026a1340b",
@@ -122,6 +136,7 @@
     "2fb043981504a904030fa443c3043cecb1a1c720f268a85719400d30b9fdd417",
     "31b0e3664dcc052961604a93850cb46f11dff3289660e4dc01942800f2000aee",
     "33dcaea995be09ba131a4a297795149e48e47531b4c5c7283143553e58935e5d",
+    "34a01716ab6ff9ca7a1dec3b73ed790833ecb9756ee1d45614afb85b2ce52eb4",
     "37b74dd54dc44a58b31e9f68cb1f351c188f41dee4c45b257a788b1ac2ad314f",
     "3ad8949f80aa7acaa412f3bcb0b8826450ed8f49fb0b16aa506f0330e509f026",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
@@ -149,11 +164,13 @@
     "9a0ea2517269beda677a907f7f9afee104c7945b07087d23bd70306d7a1c2af8",
     "9a24ab928faaa4396b54517791e2d61f176e7bfaa9e8d9229ad43d24a51ec56a",
     "9ce7eb7bac876828920f6396d5f6ed73d26930f508be505a4ce8ef960f2b102e",
+    "9e66969dacc9d84f8bf3970bd3b475913e81dcade1d3849f27a8945c8a3033b2",
     "ae93b0be81f004884dbbd53f762047f59cd1d3cf62c918fa4577bf6ae337b1a4",
     "b3d7b66a86b3a2d0712b0fc38a8f3e59eaf3261faf6ab02fcd573e4b4e8fa671",
     "b653bac95b306166ee39eb684427917d8463c19bfe70cec0c23f0361f6015a00",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bc3aac1e71a10108a0fee5a398eb75fcb5a1996c43b80eb9bb21f5285314c7fd",
+    "c23873175b53d95cc5cb246c56699a34c3e160073fc65f727429e7cfd30f5405",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "c5cece056735bfebe09b770a63755affba1d9ff35405650eec0775b4705ae97e",
     "c782febbef0ca884a62e324988b4dc45b56ef95d00daf3f80a3bf5844b8ed4ab",
