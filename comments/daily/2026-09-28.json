@@ -1,9 +1,37 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790583258121,
+  "updatedAt": 1790584208365,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790584024189",
+      "text": "amén papá di yon mo pou ti mouton w yo fèm gras Jehová 🙏🏾🥹🙏🏾",
+      "userDeviceId": "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
+      "userName": "pitit Dieu",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790584025827,
+      "updatedAt": 1790584025827,
+      "status": "active"
+    },
+    {
+      "id": "local-1790583752063",
+      "text": "Amen merci seigneur, 🙏",
+      "userDeviceId": "40c3a3c9ae284f11dee33bfb1409c9336bab775fae8a0f2a3b53812526d1134f",
+      "userName": "Bijou",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790583752279,
+      "updatedAt": 1790583752279,
+      "status": "active"
+    },
     {
       "id": "local-1790572672200",
       "text": "se nan Bondye ki genyen lavi",
@@ -12,10 +40,12 @@
       "verseName": "Filemon 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e"
+      ],
       "createdAt": 1790572702020,
-      "updatedAt": 1790572702020,
+      "updatedAt": 1790584051361,
       "status": "active"
     },
     {
@@ -26,10 +56,12 @@
       "verseName": "Filemon 1:3",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e"
+      ],
       "createdAt": 1790569279084,
-      "updatedAt": 1790569279084,
+      "updatedAt": 1790584049884,
       "status": "active"
     },
     {
@@ -147,10 +179,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
-  "shareCount": 146,
-  "viewCount": 353,
+  "likeCount": 81,
+  "shareCount": 150,
+  "viewCount": 362,
   "verseLikedBy": [
+    "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "03ea530ba2804a3f4120d2a66b47f224b54bde767fb700eed7fd4ec026a1340b",
     "04c80f42138e308d7aa94155107d1e9687d62dc4ac07fcfc7d7b17bdc4415ddc",
@@ -171,6 +204,7 @@
     "37b74dd54dc44a58b31e9f68cb1f351c188f41dee4c45b257a788b1ac2ad314f",
     "3ad8949f80aa7acaa412f3bcb0b8826450ed8f49fb0b16aa506f0330e509f026",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
+    "40c3a3c9ae284f11dee33bfb1409c9336bab775fae8a0f2a3b53812526d1134f",
     "413a7fa199670ff1b0a8df3c3cad95bd94d975b81b8541646e8d2de6c887d6c0",
     "42067c22c5901868c24d4c999067aea1e85d6e9567602bb28bfe2cd8d2c6ffe6",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
