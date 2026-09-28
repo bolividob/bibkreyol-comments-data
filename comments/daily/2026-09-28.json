@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790622003661,
+  "updatedAt": 1790622844083,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790622290685",
+      "text": "amen",
+      "userDeviceId": "2cdc906a51e8569d7356b6e9a5bc2df721c1568bca25d358214a05757833ae06",
+      "userName": "Linda Moncher",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790622293408,
+      "updatedAt": 1790622293408,
+      "status": "active"
+    },
     {
       "id": "local-1790621904490",
       "text": "Amèn amèn amèn 3fwa",
@@ -407,9 +421,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 162,
+  "likeCount": 164,
   "shareCount": 318,
-  "viewCount": 696,
+  "viewCount": 704,
   "verseLikedBy": [
     "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
@@ -440,6 +454,7 @@
     "2a366a068fe7495b0a78e92afe3068105cd3f1f9b3644bfd1d97b1f7bc72c20a",
     "2bf5b01fd9a58ec1f256fe963ecc26c6ceac3f7ba1fa4181bcf250a8d3df698a",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
+    "2cdc906a51e8569d7356b6e9a5bc2df721c1568bca25d358214a05757833ae06",
     "2fb043981504a904030fa443c3043cecb1a1c720f268a85719400d30b9fdd417",
     "2fd17d235d6b0cb85023abd28af01077721df1ea70fa8b0ef641c81fd52f091b",
     "31b0e3664dcc052961604a93850cb46f11dff3289660e4dc01942800f2000aee",
@@ -554,6 +569,7 @@
     "cb190f06aa14959e4a13ccb5efe9d583c981f5b297e98f537662e5be63118a18",
     "cd1856597b2f3541e34b4be8fce8105883dcdab0b781cae0290567b0ec6c868a",
     "cfac4e423054a425d5ddef5b72cd1e45733053b0853f6fab4a348528135cef00",
+    "d2307a7d53c0f24009c1da9800bc0f87667f06483e0988d892685b32ac8a1f7e",
     "d5bc740858f98d2b9703466e43d96b5c96293300a5dc9fcacb11c503d66a5ee4",
     "d8a22b0a8b515bd31c3c0b09968e3ba647eb8e78e659dc81ffb1dbb4e7665f58",
     "db845a8317f6a845dc7db651d0073812f339e5df3452c802cf2e357524e360b3",
