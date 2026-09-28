@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790595911509,
+  "updatedAt": 1790596803032,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790596575081",
+      "text": "Amén 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Filemon 1:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790596575909,
+      "updatedAt": 1790596575909,
+      "status": "active"
+    },
     {
       "id": "local-1790594054416",
       "text": "Bondye avek nou",
@@ -277,9 +291,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 107,
-  "shareCount": 230,
-  "viewCount": 464,
+  "likeCount": 110,
+  "shareCount": 236,
+  "viewCount": 475,
   "verseLikedBy": [
     "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
@@ -302,6 +316,7 @@
     "24b07a970ba4fe4ad137a33aff9d5485dfa73121297c4308fadde3c9dcfd0a64",
     "26c90e0373722316e6106052d1e43fcbde5a74fc1d31f0a3a497770c15f301ce",
     "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
+    "2bf5b01fd9a58ec1f256fe963ecc26c6ceac3f7ba1fa4181bcf250a8d3df698a",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
     "2fb043981504a904030fa443c3043cecb1a1c720f268a85719400d30b9fdd417",
     "2fd17d235d6b0cb85023abd28af01077721df1ea70fa8b0ef641c81fd52f091b",
@@ -321,6 +336,7 @@
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4e17189286dc80f84efb333d3fb7a849641124d85102a58f28123a02db057b57",
+    "4f4ff1fbe5d28970a36a0695aba4a4f7ef1e676ca44b44cf81984128173d6320",
     "512b1566affdbfa07d99e89df95f2b4438444ccbc488d9c93e362663701a3820",
     "519051ba33d557077aa2e277729e05bc67c9257f50f48505844371db926058a2",
     "5431788a869c7c983d24d9871d34debbdbd35189058c27d038fd7b0391d068b3",
@@ -331,6 +347,7 @@
     "59ef23088401ef103ca5348a3e89be354eb59ad416573ea6842b4da228261ff4",
     "628e5a4322e2ebc793bde1fff76edfcbaca4e8071935319e69b0863f8d26d7eb",
     "6568618865f325272c702d085d68debf345849558ab02c7e9e1ed5c41dc991e2",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6e1a599fa130cfd1aee920be28ed384640b9e15bfda6a1bd5a2fb23fd93e8eb8",
     "6fcf3b7cd788a473d3d7cf35cc8ee9306ceeaab5f1fb66da42d6a3c02d8985b9",
     "714c0490005e40214cb62ce2098d4939087f5e03ddb418eff73cb75b53d49cb2",
