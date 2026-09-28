@@ -1,9 +1,23 @@
 {
   "date": "2026-09-28",
   "verseKey": "daily:2026-09-28",
-  "updatedAt": 1790596803032,
+  "updatedAt": 1790597691966,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790518915566",
+      "text": "merci jezu pou lanmou sa a",
+      "userDeviceId": "15481df51487b890d88081fba5d176fa0d17bd371997ab299604108792b4cadc",
+      "userName": "p.yolande jophse",
+      "verseName": "Eklezyas 10:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790596872974,
+      "updatedAt": 1790596872974,
+      "status": "active"
+    },
     {
       "id": "local-1790596575081",
       "text": "Amén 🙏🙏",
@@ -291,9 +305,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 236,
-  "viewCount": 475,
+  "likeCount": 112,
+  "shareCount": 246,
+  "viewCount": 482,
   "verseLikedBy": [
     "022dfe5c0c65e63aaa9da7e9706f2ae074ed7bbdb8418d9e297f2027f28c959e",
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
@@ -347,6 +361,7 @@
     "59ef23088401ef103ca5348a3e89be354eb59ad416573ea6842b4da228261ff4",
     "628e5a4322e2ebc793bde1fff76edfcbaca4e8071935319e69b0863f8d26d7eb",
     "6568618865f325272c702d085d68debf345849558ab02c7e9e1ed5c41dc991e2",
+    "68b2b78876e2d9cbc72d1a64d22af00fe6a018c724b910d44580eba51f86c8ae",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6e1a599fa130cfd1aee920be28ed384640b9e15bfda6a1bd5a2fb23fd93e8eb8",
     "6fcf3b7cd788a473d3d7cf35cc8ee9306ceeaab5f1fb66da42d6a3c02d8985b9",
@@ -383,6 +398,7 @@
     "bbc1776f25d93b231638ddec6f1cf747c21c8dd77679a839b560179cc09d39e0",
     "bc3aac1e71a10108a0fee5a398eb75fcb5a1996c43b80eb9bb21f5285314c7fd",
     "bfc5c1924370e57d43ffd87c755054d56a7bea6412892d861eb2906f9aeb1680",
+    "c0230af13b6267a98cdc4d207243f2f617335e5b2ccf8030ccd0f0c2bf5451c1",
     "c23873175b53d95cc5cb246c56699a34c3e160073fc65f727429e7cfd30f5405",
     "c37e25210a921c286bc201faeaad0696c5f7c8f80ce0ccb61b331d7b0bdc53ab",
     "c4e931760a7f3b8ed66d13f305127c93e1c4f6b817623e8ae2099c5fc3369d0d",
