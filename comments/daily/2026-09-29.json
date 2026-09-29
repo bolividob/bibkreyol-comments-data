@@ -1,9 +1,23 @@
 {
   "date": "2026-09-29",
   "verseKey": "daily:2026-09-29",
-  "updatedAt": 1790672520863,
+  "updatedAt": 1790673338631,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790673233888",
+      "text": "Good",
+      "userDeviceId": "280eb0fd6d28c8b89c1c2add26a55e773f853869e7bc1e36bb031b5ce02c5cd5",
+      "userName": "LOJACO",
+      "verseName": "2 Wa 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790673236181,
+      "updatedAt": 1790673236181,
+      "status": "active"
+    },
     {
       "id": "local-1790667464172",
       "text": "mw vle konprann  labib",
@@ -50,9 +64,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 61,
-  "shareCount": 68,
-  "viewCount": 348,
+  "likeCount": 63,
+  "shareCount": 70,
+  "viewCount": 357,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "06cf8b99936dc79112b00a259724ebf12d2e5402d51e5d2937c64a4572ba1c64",
@@ -94,6 +108,7 @@
     "a6aee811b3123c08cc3a75654d6f7dc8dd3ab2951a0e5b855a45c7bcaaf7dd76",
     "a82ec92ac110cbc8da634886d0cd3f63301d1137c65276489ec1fadb0ba059bf",
     "ac261f9108e15f55623014d5747ad411c8ed14a3d64ed22a87de2485434a5ad1",
+    "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "c1e6253b94f1264a8c13aee236f3816d6bea9d37259b6628707125a36d1fd49c",
     "c23873175b53d95cc5cb246c56699a34c3e160073fc65f727429e7cfd30f5405",
     "c2f65c51d8c4ea6050dca82ccaf079822da6cd215e666ffc56320f4e9ef21ac8",
@@ -113,6 +128,7 @@
     "ee592ae9719ef4a5e5625af2e2681f4d8d53a0b9ca56422b95673fad7a067f22",
     "f12b8ff001bdd6392b94c1e0bb2871d4b43dcde2a05a00fb586d756a50cc8194",
     "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
+    "fc0977fc292b77d934019807138f16ad192222efcdab1fb0e2a18b3794138602",
     "fc41f0e452f20dd69d7d8a436c6a79ebd11840d4d70bcbf5be13e82d25f816ea",
     "fcf163ed5a309684659e5791c1415fa5072cbcabb78d5978b20d4ca23d1cf683"
   ],
