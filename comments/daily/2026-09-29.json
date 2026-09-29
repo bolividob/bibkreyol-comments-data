@@ -1,9 +1,23 @@
 {
   "date": "2026-09-29",
   "verseKey": "daily:2026-09-29",
-  "updatedAt": 1790676841308,
+  "updatedAt": 1790677849107,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790677280702",
+      "text": "amen",
+      "userDeviceId": "79b29a07870a3e58bcfb4510350f99848a746f9712d5fe202c227e542729d2be",
+      "userName": "Richasson",
+      "verseName": "2 Wa 5:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790677411454,
+      "updatedAt": 1790677411454,
+      "status": "active"
+    },
     {
       "id": "local-1790673233888",
       "text": "Good",
@@ -64,9 +78,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 69,
-  "shareCount": 79,
-  "viewCount": 392,
+  "likeCount": 71,
+  "shareCount": 84,
+  "viewCount": 401,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "06cf8b99936dc79112b00a259724ebf12d2e5402d51e5d2937c64a4572ba1c64",
@@ -108,6 +122,7 @@
     "8b22b4d86aa13b532a7d86323aaf5f7bd6e663bc27dd2aeb84af63c241dc0760",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
     "94f8b2a2b79206c1e2cee96a6c453ae7fe10742f4988c68d5aa6e1b0d3333bb2",
+    "9ade98cad0e0c5d05bf1e0af16abfcdc67149c58b1b7c259e6b271e0f722b8da",
     "9ee636fae05fc11927b3c27a470a24a11892ff62d51bd68a247e3002752de247",
     "a6aee811b3123c08cc3a75654d6f7dc8dd3ab2951a0e5b855a45c7bcaaf7dd76",
     "a82ec92ac110cbc8da634886d0cd3f63301d1137c65276489ec1fadb0ba059bf",
@@ -127,6 +142,7 @@
     "df6492aaa28be1f707124d018e1a9ebc56ec973b8ef0b6c8b334a64376fc3cd5",
     "e46c0b34d847e89abc59f2b5ef4416c5188a94c3a15fc4985b6dbd6c10b70b9b",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "e79476579ee54328a4332ddf4f3074e27ee8fcc626eafaa2321c44cb946e1cef",
     "e9b2ec00cbeec33f325a8c0f422d155785192e7e7f6242e4b5c719a02c703cc1",
     "ea12e63f6e554bf4c652ee4c2db68b408ba560a7baae289d7d56f7f2b8dba3be",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
