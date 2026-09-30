@@ -1,9 +1,37 @@
 {
   "date": "2026-09-30",
   "verseKey": "daily:2026-09-30",
-  "updatedAt": 1790759678439,
+  "updatedAt": 1790760687781,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790760522525",
+      "text": "amen",
+      "userDeviceId": "fda07e812b79fe73d6088b5521bd8ffbe68015844d3a40cbafe18da6117c05a6",
+      "userName": "Pierre Richard",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790760527393,
+      "updatedAt": 1790760527393,
+      "status": "active"
+    },
+    {
+      "id": "local-1790760482819",
+      "text": "amen",
+      "userDeviceId": "fda07e812b79fe73d6088b5521bd8ffbe68015844d3a40cbafe18da6117c05a6",
+      "userName": "Pierre Richard",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790760487696,
+      "updatedAt": 1790760487696,
+      "status": "active"
+    },
     {
       "id": "local-1790754182472",
       "text": "Amen Amen Amen 🙏🙏",
@@ -191,9 +219,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 60,
-  "shareCount": 131,
-  "viewCount": 342,
+  "likeCount": 62,
+  "shareCount": 145,
+  "viewCount": 350,
   "verseLikedBy": [
     "0019fa3a0ce77f591d7840f80a0560c26c4c1fbd45dd0ffae82f84e3d48b27da",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -236,6 +264,7 @@
     "af3347f90ec49f576b9f3491ec9883058626f7cf38da069136cf6b388ecfde86",
     "b60054d75a9769160e3e9e66864fd15e9ec34d47a9357d24f029be0aef7610e2",
     "b729b7eadf9924959cb84705a88e56e567c8eadf215795f0c43b8a3667404a7e",
+    "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bae4eeaef14562c7c36c4777f8c23b428357b843e68e446c4bad348b6f851a59",
     "bc5a077770832ea549984306cc2732ab567ae22f747d975b8a49756e259f0a2d",
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
@@ -254,6 +283,7 @@
     "f62c25877e60e52d95becf37ce08271bebb4132ffab8f3e9107c200beeb68a9a",
     "f8772c92580afd1e9b9917c863dd98af7c5b5dba2884b3f828e1b5314e5cd395",
     "fccb7ff43da7f8efe6fa2f30120c5f6697cc68abf832315eea3204d08bae1966",
+    "fda07e812b79fe73d6088b5521bd8ffbe68015844d3a40cbafe18da6117c05a6",
     "ff4ddb5638e05933fe7d35499dc4e507d2df70abc08bfa0436805d81a8497590"
   ],
   "verseViewBy": []
