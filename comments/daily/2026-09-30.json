@@ -1,9 +1,23 @@
 {
   "date": "2026-09-30",
   "verseKey": "daily:2026-09-30",
-  "updatedAt": 1790733601115,
+  "updatedAt": 1790734521259,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790733984766",
+      "text": "🙏🙏🙏",
+      "userDeviceId": "353dc2440fdfe21453fb8df524beb6fad570bdf4747665d08227e7fdbfc93ad9",
+      "userName": "fernanda",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790733987661,
+      "updatedAt": 1790733987661,
+      "status": "active"
+    },
     {
       "id": "local-1790732437520",
       "text": "amèn",
@@ -65,9 +79,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 22,
-  "shareCount": 47,
-  "viewCount": 115,
+  "likeCount": 23,
+  "shareCount": 49,
+  "viewCount": 125,
   "verseLikedBy": [
     "0019fa3a0ce77f591d7840f80a0560c26c4c1fbd45dd0ffae82f84e3d48b27da",
     "1c0bb48e46278e985c9f69eb74b3e496c8f30eabed9927e7862244dc6ba2e76b",
@@ -87,6 +101,7 @@
     "b729b7eadf9924959cb84705a88e56e567c8eadf215795f0c43b8a3667404a7e",
     "bae4eeaef14562c7c36c4777f8c23b428357b843e68e446c4bad348b6f851a59",
     "bc5a077770832ea549984306cc2732ab567ae22f747d975b8a49756e259f0a2d",
+    "d35905f03e24f218c91e6daa3a842937e120a93ea22b74695285090f94fa4f9d",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e306c4dcac61bee290baf557916f573310faf09201f6ecb6d149b7e8c89e4a87",
     "f8772c92580afd1e9b9917c863dd98af7c5b5dba2884b3f828e1b5314e5cd395",
