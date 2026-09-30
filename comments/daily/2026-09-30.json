@@ -1,9 +1,23 @@
 {
   "date": "2026-09-30",
   "verseKey": "daily:2026-09-30",
-  "updatedAt": 1790737207049,
+  "updatedAt": 1790738041599,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790737562425",
+      "text": "Se Salman pa L'esprit Bondye yon moun ka fè sa ki byen",
+      "userDeviceId": "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
+      "userName": "sr Mama",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790737564200,
+      "updatedAt": 1790737564200,
+      "status": "active"
+    },
     {
       "id": "local-1790735563819",
       "text": "amèn 😷🤧😇😪🤕🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏",
@@ -107,9 +121,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 34,
-  "shareCount": 63,
-  "viewCount": 152,
+  "likeCount": 36,
+  "shareCount": 69,
+  "viewCount": 160,
   "verseLikedBy": [
     "0019fa3a0ce77f591d7840f80a0560c26c4c1fbd45dd0ffae82f84e3d48b27da",
     "0d4836be7179cf6b3d8598b6f31ec72386c44ac17feeaaf8b2c4d6fed2877dd5",
@@ -131,6 +145,7 @@
     "7cb896243bdd0da00b337d1ae40a951612bf3a368f8a72b3ddba9913dbd18357",
     "8f6e5d205e1a0a790a7a0ea0ea206fe95d51f17a642e4db4789a5f5011d02bde",
     "971fc5f04edf447bd2511b71e653d9a9ab8e57f333cf519f3c5c6722b3c69e3b",
+    "98bfa150d3f68de1e9386cbe8f95e5acfde130fb9acf2055a2579c2544d9059a",
     "a395fe8987cd6ae1c5afc75ba86747959d2a02bb4ba5520d4c84e59df923495d",
     "af3347f90ec49f576b9f3491ec9883058626f7cf38da069136cf6b388ecfde86",
     "b60054d75a9769160e3e9e66864fd15e9ec34d47a9357d24f029be0aef7610e2",
@@ -141,6 +156,7 @@
     "d35905f03e24f218c91e6daa3a842937e120a93ea22b74695285090f94fa4f9d",
     "e19a4c5dc2b56596897075b27268b17d4328437e27b3ad26bb078f3c27df2b15",
     "e306c4dcac61bee290baf557916f573310faf09201f6ecb6d149b7e8c89e4a87",
+    "e76b5e471895ed5f6045e6fe4b75b07e017e35a9d81b85f5543d5218a4384a3d",
     "f62c25877e60e52d95becf37ce08271bebb4132ffab8f3e9107c200beeb68a9a",
     "f8772c92580afd1e9b9917c863dd98af7c5b5dba2884b3f828e1b5314e5cd395",
     "fccb7ff43da7f8efe6fa2f30120c5f6697cc68abf832315eea3204d08bae1966",
