@@ -1,9 +1,37 @@
 {
   "date": "2026-09-30",
   "verseKey": "daily:2026-09-30",
-  "updatedAt": 1790779444151,
+  "updatedAt": 1790780417938,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790779664011",
+      "text": "amen",
+      "userDeviceId": "c457f3c6572a5cb94b370af1ff6145f41e43a33917f05251e42733b7b4329aef",
+      "userName": "Mama Cadet",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790779665969,
+      "updatedAt": 1790779665969,
+      "status": "active"
+    },
+    {
+      "id": "local-1790779653558",
+      "text": "amen",
+      "userDeviceId": "c457f3c6572a5cb94b370af1ff6145f41e43a33917f05251e42733b7b4329aef",
+      "userName": "Mama Cadet",
+      "verseName": "Som 11:3",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790779655445,
+      "updatedAt": 1790779655445,
+      "status": "active"
+    },
     {
       "id": "local-1790770447619",
       "text": "/9",
@@ -275,9 +303,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
-  "shareCount": 267,
-  "viewCount": 526,
+  "likeCount": 96,
+  "shareCount": 270,
+  "viewCount": 534,
   "verseLikedBy": [
     "0019fa3a0ce77f591d7840f80a0560c26c4c1fbd45dd0ffae82f84e3d48b27da",
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
@@ -314,6 +342,7 @@
     "6bf70f140c6aef2c46a99c3ecff200997a5442ed7b271731c601983ec51c5303",
     "6e38282c4e8f7c47d7ec3ed11607444bfeca3935ce652b73b2d5b8f44b30c8a3",
     "70ed8f6019c98ecc31946769d7adf3c870a82e69028ff5e5afada22c3592ac19",
+    "73aa0a203573e4197721066807353caa58526efb2bf4a4844740094755a80090",
     "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
     "7713252179ee207d6864379ee48f94463746df983178aa4083f107c7b16e099e",
     "777edcdfde3e02ee7176f409d9cdc4b882213c5a0a8b4a2eb11f10e3b0581a93",
@@ -349,9 +378,11 @@
     "be1bdaa3e8aa994844a96881127d056dacdc6be83c780995d64b93f7637bed56",
     "bfab924e3eefd9488db115242c715953b8afddd93799c7e2ef50dd7bd36ec2c1",
     "c1561db3b958f6ee42f352cde2074eedc6ded54bd583b1478961941a841ee68a",
+    "c457f3c6572a5cb94b370af1ff6145f41e43a33917f05251e42733b7b4329aef",
     "c63f2e0aeff78ff39eb22338199880ebad0adc8ef85df0705f93788c5e1a9ccb",
     "c910edf8aed1784b04090e743fcfb5f6c866d6cb6214a4d33820424d5bd9e2ad",
     "ca79120176e45765104ba0a68467563987dc869a2ef072109a84e1edd3b6d9f4",
+    "caf6195fa7174bc2b9b77e82537e0b5dea9bdab8f71c5f5f8b30950826353b64",
     "cf5ad95dcaf10ffa66cb068d4c7132e11b5dbe8f56ca6549b05b029d24cf23fa",
     "d35905f03e24f218c91e6daa3a842937e120a93ea22b74695285090f94fa4f9d",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
