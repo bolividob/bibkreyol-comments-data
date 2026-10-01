@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "verseKey": "daily:2026-10-01",
-  "updatedAt": 1790878536625,
+  "updatedAt": 1790879331391,
   "version": 1,
   "comments": [
     {
@@ -40,10 +40,12 @@
       "verseName": "Nawoum 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "e8e4cde6eb48ebe3a52cc9b3d193a31daecf33666d16dda21a04abf1ee1967ea"
+      ],
       "createdAt": 1790861462718,
-      "updatedAt": 1790861462718,
+      "updatedAt": 1790878695082,
       "status": "active"
     },
     {
@@ -54,13 +56,14 @@
       "verseName": "Nawoum 1:1",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "1f4cc6184cf652e7cd7882a1e205fbc45b883a8617fa54ce59f3d1ea23540ad8",
-        "3e886dfd34ce4cf4276886badd2b878f09b0e3fe45ceee99eea117f27e3b973b"
+        "3e886dfd34ce4cf4276886badd2b878f09b0e3fe45ceee99eea117f27e3b973b",
+        "e8e4cde6eb48ebe3a52cc9b3d193a31daecf33666d16dda21a04abf1ee1967ea"
       ],
       "createdAt": 1790859520243,
-      "updatedAt": 1790864978196,
+      "updatedAt": 1790878697349,
       "status": "active"
     },
     {
@@ -322,9 +325,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 113,
-  "shareCount": 238,
-  "viewCount": 645,
+  "likeCount": 114,
+  "shareCount": 239,
+  "viewCount": 652,
   "verseLikedBy": [
     "036ae9e7036129de3812e932a9947c2b627f6c144f02f525629d4e077f0cef5d",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -431,6 +434,7 @@
     "e41860734ed44c1568e3df49a0e3da6c969ca04b761cc0cc3909870d6cf0aba9",
     "e4da312648131d9df82587f2f2360334d6af03487daba0eb77c9338763e3f6bd",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "e8e4cde6eb48ebe3a52cc9b3d193a31daecf33666d16dda21a04abf1ee1967ea",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "f25523e3750fcc108fd6af73a5d34099d5c9cc0e5f4c18814ce8676eb71bd94d",
     "f432640d8f27b686de2e6ade9f10f9da26046318db8e8e65e488568a1ba178c4",
