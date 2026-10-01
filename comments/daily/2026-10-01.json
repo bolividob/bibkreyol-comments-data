@@ -1,9 +1,23 @@
 {
   "date": "2026-10-01",
   "verseKey": "daily:2026-10-01",
-  "updatedAt": 1790851492968,
+  "updatedAt": 1790852406237,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790851519850",
+      "text": "a men amen",
+      "userDeviceId": "a2199390b99d300eff2450f2cd8a0f8bcf244b9ea08ca6e2618e77b3d10762a9",
+      "userName": "jezi viv nn mwe Mesi bondye",
+      "verseName": "Nawoum 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790851522294,
+      "updatedAt": 1790851522294,
+      "status": "active"
+    },
     {
       "id": "local-1790847756393",
       "text": "amén",
@@ -215,10 +229,11 @@
       "status": "active"
     }
   ],
-  "likeCount": 73,
-  "shareCount": 118,
-  "viewCount": 400,
+  "likeCount": 75,
+  "shareCount": 123,
+  "viewCount": 412,
   "verseLikedBy": [
+    "036ae9e7036129de3812e932a9947c2b627f6c144f02f525629d4e077f0cef5d",
     "052fe4bf3b81899a25b6e50b5b520487d7ba510e79a6f09142f5a4140c02585b",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0ba1b634584761dfe25e309316d16f1561149778e162b4492791ca8cfd12ca85",
@@ -246,6 +261,7 @@
     "5500682ecb05cd3d78fbdb4eca473369afe316aa8c9e1002e30b121f2610e32f",
     "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
     "5ad2c3ab9e84717034432f28991e3127e76d4bf600050088ced7bc562147e2a3",
+    "5fe07456ee1598936f1002f8f7d51596fb5a72f721b6825f9a3826412d8470f8",
     "65160492024921749a17ee15af17d605c498f4a5f4c497474b4d9bcab3de8f0e",
     "68b2b78876e2d9cbc72d1a64d22af00fe6a018c724b910d44580eba51f86c8ae",
     "6a9f79e1e6349a5cb69638a9d11e86dbfd1c33222168b385bd16750ab1ccbdc5",
