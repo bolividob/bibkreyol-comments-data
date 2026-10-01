@@ -1,9 +1,23 @@
 {
   "date": "2026-10-01",
   "verseKey": "daily:2026-10-01",
-  "updatedAt": 1790823609816,
+  "updatedAt": 1790824441131,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790827245536",
+      "text": "salut",
+      "userDeviceId": "d9a2a44c0d92b4d63c3e04b36cf1a169bb0fff7791491cb91d206f8962cb754b",
+      "userName": "Marise",
+      "verseName": "Nawoum 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790823750474,
+      "updatedAt": 1790823750474,
+      "status": "active"
+    },
     {
       "id": "local-1790822672152",
       "text": "som35",
@@ -19,15 +33,17 @@
       "status": "active"
     }
   ],
-  "likeCount": 28,
-  "shareCount": 39,
-  "viewCount": 159,
+  "likeCount": 34,
+  "shareCount": 42,
+  "viewCount": 167,
   "verseLikedBy": [
     "130cddd3b08abb1316d41122d2ae3002ecb018daa0d1b5c14b7ecdde72b454bb",
     "15cda2d699a9c03dab04045e28f49a8fd5653c60481b41c1b1f522e0b04dc838",
     "1e5eb2161b977b525483f5667561166d570ff35b36125466996879eb5dbe8452",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
+    "291288b62ad8b5e0a26f61972e0a63e95636b1eccaafb991134db7315294f3cc",
+    "2939838a60073f59816775e231501791b9c11d46072e441e435933cd4cc9c9bc",
     "3439d6667146462557b6b4d4c9abcc8e18a709860cb05c5b7f64c2ed019f4e52",
     "38d9804974e5493497706306847557d1ac81cf6437594266668202f6468d1c37",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
@@ -35,6 +51,7 @@
     "5500682ecb05cd3d78fbdb4eca473369afe316aa8c9e1002e30b121f2610e32f",
     "6a9f79e1e6349a5cb69638a9d11e86dbfd1c33222168b385bd16750ab1ccbdc5",
     "723a9a858b794d752cf78fa6031fd34e1761f21cd735210b550fc530955bad6f",
+    "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8c6727f2ed3bfe3a66c4a958efa404142a17e65e6c01ae843575664bdf3482ee",
     "90354fce138d3ed4196c9395dbe6ba986bfdfd261423d9297a308785d2c8a0e1",
     "924b42193e99f6ba6591bb55ffbae636ca8891a940c1a5193131786ddf30f28d",
@@ -46,10 +63,13 @@
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
     "c9f06006e332a9f2aa6c12163dcf406e0b6e904c825bef77858dfea52c27ac05",
     "d50d00284d64923d56a42bedb26a066137a5e7dcd2f0574f4c06e2afd02b7abc",
+    "d9a2a44c0d92b4d63c3e04b36cf1a169bb0fff7791491cb91d206f8962cb754b",
+    "ddb68392496343be6e109ea002dbd4d7228c39b2ee746b1ad3afdf2c9803e3c8",
     "e3ffa3023e9dfffe6920bfbd4c15f73d4ef5a42b80c4154371a7f013050cad38",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "eb9935984883a7fc15ba66f870bbc27ac70d91727a8b1272163b78212651d649",
     "f432640d8f27b686de2e6ade9f10f9da26046318db8e8e65e488568a1ba178c4",
+    "f49effd189da3a83cddc0f64b8bff569a4a3622b832702068d6e03a3a8d3afc6",
     "f6ebb4843776054ee6e47560804c2815b2dac34973dae56648d5f5a9ec77a567"
   ],
   "verseViewBy": []
