@@ -1,9 +1,37 @@
 {
   "date": "2026-10-01",
   "verseKey": "daily:2026-10-01",
-  "updatedAt": 1790861405289,
+  "updatedAt": 1790862246527,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790861763791",
+      "text": "Tout glwa pou ou papa",
+      "userDeviceId": "bd087ebe43148341fea55a80100039a62b3a42de30f9b9f3d292c4dd99e5e03a",
+      "userName": "bondye kon tout bagay",
+      "verseName": "Nawoum 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790861764842,
+      "updatedAt": 1790861764842,
+      "status": "active"
+    },
+    {
+      "id": "local-1790861461742",
+      "text": "Amén 🙏",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Nawoum 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790861462718,
+      "updatedAt": 1790861462718,
+      "status": "active"
+    },
     {
       "id": "local-1790859519664",
       "text": "amèn amèn amèn viv jezi",
@@ -277,9 +305,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 93,
-  "shareCount": 171,
-  "viewCount": 491,
+  "likeCount": 95,
+  "shareCount": 174,
+  "viewCount": 498,
   "verseLikedBy": [
     "036ae9e7036129de3812e932a9947c2b627f6c144f02f525629d4e077f0cef5d",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -311,6 +339,7 @@
     "38d9804974e5493497706306847557d1ac81cf6437594266668202f6468d1c37",
     "3a64f72b70966e731f54327817a6b0faa0ed25fbc95da8b410d06aba93b4ac52",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "48fe60b27bad3f21181df5d129cde93517b838f6331030ee80dc5bf7a7d45bc6",
     "4b1d11641a7139c8f29da8c31108d3421327c8538b12c127afa52c0ab6590f90",
@@ -348,6 +377,7 @@
     "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
     "b5b34e1975fdb3adcc45b053fd4580fb6581605cece93663edcf861043df16a3",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
+    "bd087ebe43148341fea55a80100039a62b3a42de30f9b9f3d292c4dd99e5e03a",
     "c043b8f44b9bcc27d93645909496eebdbafe146c2769025062ec89724fa78b46",
     "c1e6253b94f1264a8c13aee236f3816d6bea9d37259b6628707125a36d1fd49c",
     "c2e07d24fb5b0cbd153c048483ca946b5634fdbce0b7ef2095060fdfd31ff9ef",
