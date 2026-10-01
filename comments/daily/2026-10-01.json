@@ -1,9 +1,23 @@
 {
   "date": "2026-10-01",
   "verseKey": "daily:2026-10-01",
-  "updatedAt": 1790875803753,
+  "updatedAt": 1790876706133,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790876537299",
+      "text": "bonsoir",
+      "userDeviceId": "b0ad2b02164ca0aee217a05820d9e9bc5240ce00a7ab9b1f38ad1f74ff59f8ba",
+      "userName": "Nachelie",
+      "verseName": "Nawoum 1:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790876537409,
+      "updatedAt": 1790876639181,
+      "status": "active"
+    },
     {
       "id": "local-1790861763791",
       "text": "Tout glwa pou ou papa",
@@ -308,9 +322,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 110,
-  "shareCount": 236,
-  "viewCount": 622,
+  "likeCount": 113,
+  "shareCount": 238,
+  "viewCount": 629,
   "verseLikedBy": [
     "036ae9e7036129de3812e932a9947c2b627f6c144f02f525629d4e077f0cef5d",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -386,9 +400,12 @@
     "aae70c1dee6b245c2b3841d765399885baa93a3c2da5def98e6c24037ea585e5",
     "ac51ef3bf2caac26702fd396d6a5e4ed0781c1463e0d004a7e6852b18b96e6e9",
     "ae2f1b6482b641188d7e88a9c94e688a9a39f31704c460f14354d6225c775e51",
+    "ae678e18a593955fada9c7ff4754ceaa6e0c6d85d9a57ef3b3bb6152151cb92a",
+    "b0ad2b02164ca0aee217a05820d9e9bc5240ce00a7ab9b1f38ad1f74ff59f8ba",
     "b5b34e1975fdb3adcc45b053fd4580fb6581605cece93663edcf861043df16a3",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bd087ebe43148341fea55a80100039a62b3a42de30f9b9f3d292c4dd99e5e03a",
+    "bd15cb1cfa1b24b7a60a79b778262fd01718a4ec921a791585f976df61e30ab7",
     "c043b8f44b9bcc27d93645909496eebdbafe146c2769025062ec89724fa78b46",
     "c1e6253b94f1264a8c13aee236f3816d6bea9d37259b6628707125a36d1fd49c",
     "c2e07d24fb5b0cbd153c048483ca946b5634fdbce0b7ef2095060fdfd31ff9ef",
