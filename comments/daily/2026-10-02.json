@@ -1,9 +1,23 @@
 {
   "date": "2026-10-02",
   "verseKey": "daily:2026-10-02",
-  "updatedAt": 1790942406600,
+  "updatedAt": 1790943257420,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790942783965",
+      "text": "amen",
+      "userDeviceId": "73308ea861a46f7c5520b18eb281848e1e7e5debba902dc944b0fd30a9c82a6b",
+      "userName": "merlande",
+      "verseName": "Jenèz 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790942789927,
+      "updatedAt": 1790942789927,
+      "status": "active"
+    },
     {
       "id": "local-1790909182335",
       "text": "edem priye mw  malade mw tonbe nan tansyon li paralize on bor nan mw",
@@ -26,10 +40,12 @@
       "verseName": "Jenèz 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "61fa7d62705845b5ef484848e720c9bcaf56fb0b9cd284680717bb4924ad67e3"
+      ],
       "createdAt": 1790921744525,
-      "updatedAt": 1790921744525,
+      "updatedAt": 1790943186787,
       "status": "active"
     },
     {
@@ -40,10 +56,12 @@
       "verseName": "Jenèz 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "61fa7d62705845b5ef484848e720c9bcaf56fb0b9cd284680717bb4924ad67e3"
+      ],
       "createdAt": 1790917761861,
-      "updatedAt": 1790917761861,
+      "updatedAt": 1790943197200,
       "status": "active"
     },
     {
@@ -131,9 +149,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 71,
-  "shareCount": 107,
-  "viewCount": 432,
+  "likeCount": 72,
+  "shareCount": 114,
+  "viewCount": 440,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -163,6 +181,7 @@
     "6980c9590a349c4c8d39e47758ff9072ea633cd171f0b07d117323e455e77b2b",
     "6ff5b6e3ace49a2f08463e042a5c8d90325455f521b639a25968187b4d8c55a8",
     "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
+    "73308ea861a46f7c5520b18eb281848e1e7e5debba902dc944b0fd30a9c82a6b",
     "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
     "793f674b3d03bf14fe9096be2eb1f4423e956353e4ea4b360abcb41d6be49d28",
     "7c493d3a1922b422f5772548adb4db99218c362354a4391463df3b89498360dc",
