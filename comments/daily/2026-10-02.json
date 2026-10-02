@@ -1,9 +1,23 @@
 {
   "date": "2026-10-02",
   "verseKey": "daily:2026-10-02",
-  "updatedAt": 1790967602300,
+  "updatedAt": 1790968440998,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790961931632",
+      "text": "mesi anpil Pou travaux la",
+      "userDeviceId": "843072e7525e6490e2d16d75af20d8a38192f76269d30b9701a78fbad9e746fa",
+      "userName": "tata odicène",
+      "verseName": "Jenèz 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790967851737,
+      "updatedAt": 1790967851737,
+      "status": "active"
+    },
     {
       "id": "local-1790955629757",
       "text": "Amén",
@@ -164,9 +178,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 102,
-  "shareCount": 157,
-  "viewCount": 658,
+  "likeCount": 103,
+  "shareCount": 158,
+  "viewCount": 665,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "0510bbc930df2fcb0e5109c8f2336997a3f3ae1f3ade801064a104b762884f46",
@@ -175,6 +189,7 @@
     "11c32ac9a63622359f84e0f795dfda19e3823082b2f77e8449fd39f5072149c6",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1badd6207c27581fbc1b03337f4cc49522d9e7505dc824413066d571346fd289",
     "1ede548b6e1c771f479e32c053f90bc6181b5ff651feb93062fb8bd0d2018413",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "209338d2778fc92d43c9766f3b3c401236645e30dba5e090bf0e737a1203ecd5",
