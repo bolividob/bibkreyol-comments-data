@@ -1,9 +1,23 @@
 {
   "date": "2026-10-02",
   "verseKey": "daily:2026-10-02",
-  "updatedAt": 1790934241282,
+  "updatedAt": 1790937002409,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790909182335",
+      "text": "edem priye mw  malade mw tonbe nan tansyon li paralize on bor nan mw",
+      "userDeviceId": "74896a228ca8b63e5190fb00736ae28f3a9ae4b92a836ea7bfa8afc6b1565cf9",
+      "userName": "major rosena",
+      "verseName": "Jozwè 6:6",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790935753714,
+      "updatedAt": 1790935753714,
+      "status": "active"
+    },
     {
       "id": "local-1790921743935",
       "text": "Amen Amen Amen Amen Amen",
@@ -117,9 +131,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 53,
-  "shareCount": 76,
-  "viewCount": 363,
+  "likeCount": 58,
+  "shareCount": 83,
+  "viewCount": 387,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -135,6 +149,9 @@
     "2e11d5d9ab1a6da0e06843e10f09f9f5675cc328fc4a8f2a600f1e16a62e4625",
     "332130db339cfc1146b86a45a04b0c6a11d6ab7782fd4fb078af0ce012318f2d",
     "3418e287f926aac0a9cca912d404daf26a4ea7c1e5f36d8e05dcf7bf42bfa8e9",
+    "3534ce10ad14a2cc1c70c0a771a55fc864bd4bba3a00d901f0c884246d7e93ce",
+    "3c3fe69cc470136a32255268546d9c6a49c8bf773fda29fe671d761f16a4811b",
+    "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "57dd2a2de4b17a86f72933d302f9efc205bc05871d6649acd0e67882346efabf",
     "6316c8341e0edf8e0b9680d270d4668ab9816afd5ee8669da507a7255d7dfa1e",
@@ -158,10 +175,12 @@
     "a33c130cf2b9af413aadcb6f822181bd783b2f270746f65ee2fa80a725a28342",
     "a35ead36bae50a1c535cee584916026c577896d4e53180016e544146cd2f2f9c",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
+    "b183a318a67bc8c6a0513226802d43ac78363700eab51fe896bd777beaafe87e",
     "b8bad1b77c484e5f9771fd11644c09dbaef7cf3af85b1ed61ea56220d15ba418",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bc322628f95ce53f464d7fdb55dc314b665dbdbffb0537b2ebe8aeea2bf91cef",
     "c904e3cf31464ca265e937f46ea2367218466bb3604aeaa939ecba6a3403a67b",
+    "cfcd4a16137cbd13cc2a8fad2ac10bfaef98f5cecfb750b3b13a44b3e59ed955",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d9846ae458def2669e512fc76545ebcdf0f5d262bba3c923b7fcc2c5534bdbe1",
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7",
