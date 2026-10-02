@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "verseKey": "daily:2026-10-02",
-  "updatedAt": 1790977445064,
+  "updatedAt": 1790978405944,
   "version": 1,
   "comments": [
     {
@@ -15,7 +15,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1790967851737,
-      "updatedAt": 1790967851737,
+      "updatedAt": 1790977606693,
       "status": "active"
     },
     {
@@ -40,10 +40,12 @@
       "verseName": "Jenèz 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "7a7b7339cba44b51a46759642e48a347ec21cdc521be02f708e4548640b7805f"
+      ],
       "createdAt": 1790942789927,
-      "updatedAt": 1790942789927,
+      "updatedAt": 1790977667738,
       "status": "active"
     },
     {
@@ -179,8 +181,8 @@
     }
   ],
   "likeCount": 113,
-  "shareCount": 166,
-  "viewCount": 746,
+  "shareCount": 170,
+  "viewCount": 757,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "0510bbc930df2fcb0e5109c8f2336997a3f3ae1f3ade801064a104b762884f46",
