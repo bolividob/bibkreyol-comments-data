@@ -1,9 +1,23 @@
 {
   "date": "2026-10-02",
   "verseKey": "daily:2026-10-02",
-  "updatedAt": 1790921712611,
+  "updatedAt": 1790922499617,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790921743935",
+      "text": "Amen Amen Amen Amen Amen",
+      "userDeviceId": "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+      "userName": "Myrlande usta",
+      "verseName": "Jenèz 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790921744525,
+      "updatedAt": 1790921744525,
+      "status": "active"
+    },
     {
       "id": "local-1790917760961",
       "text": "Amén y amén",
@@ -103,9 +117,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 43,
+  "likeCount": 44,
   "shareCount": 53,
-  "viewCount": 256,
+  "viewCount": 263,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
@@ -145,6 +159,7 @@
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7",
     "da29da75cd91dee0bf98adb4365eb08b1adbb987e187ce445d1ea598d92a49ac",
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
+    "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
     "e58493aa26c96c4a3f90976b489bb54a42315b29178731bad9a01cb598741013",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
     "ebb9ed0a99d992772889de3fc861c6fa565a40e0cd5c7452d3d145b1ccb0aa84",
