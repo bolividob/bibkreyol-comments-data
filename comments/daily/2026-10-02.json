@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "verseKey": "daily:2026-10-02",
-  "updatedAt": 1790946851813,
+  "updatedAt": 1790947801833,
   "version": 1,
   "comments": [
     {
@@ -29,7 +29,7 @@
       "likeCount": 0,
       "likedBy": [],
       "createdAt": 1790935753714,
-      "updatedAt": 1790935753714,
+      "updatedAt": 1790947232878,
       "status": "active"
     },
     {
@@ -40,12 +40,13 @@
       "verseName": "Jenèz 3:2",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
-        "61fa7d62705845b5ef484848e720c9bcaf56fb0b9cd284680717bb4924ad67e3"
+        "61fa7d62705845b5ef484848e720c9bcaf56fb0b9cd284680717bb4924ad67e3",
+        "7a612b7d1a9bd49c7cfc5eb367f2c4fd5dc41598d0af16645e311f8f854b65b5"
       ],
       "createdAt": 1790921744525,
-      "updatedAt": 1790943186787,
+      "updatedAt": 1790947229827,
       "status": "active"
     },
     {
@@ -149,11 +150,12 @@
       "status": "active"
     }
   ],
-  "likeCount": 77,
-  "shareCount": 130,
-  "viewCount": 470,
+  "likeCount": 79,
+  "shareCount": 135,
+  "viewCount": 478,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
+    "0510bbc930df2fcb0e5109c8f2336997a3f3ae1f3ade801064a104b762884f46",
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0cd248f571f990e8dc9454c052fa3f0102b5f448c279963043001c2ce89fa45b",
     "156e3f18f664944b23a481f4bbda665e7a2f17efbc96a6fa4123a79e19fcdc98",
@@ -185,6 +187,7 @@
     "73308ea861a46f7c5520b18eb281848e1e7e5debba902dc944b0fd30a9c82a6b",
     "74a313226fa2d8893787be110c16a9ce4eb91f1107ccbe8843d0af6513fb37d7",
     "793f674b3d03bf14fe9096be2eb1f4423e956353e4ea4b360abcb41d6be49d28",
+    "7a612b7d1a9bd49c7cfc5eb367f2c4fd5dc41598d0af16645e311f8f854b65b5",
     "7c493d3a1922b422f5772548adb4db99218c362354a4391463df3b89498360dc",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
     "8c6727f2ed3bfe3a66c4a958efa404142a17e65e6c01ae843575664bdf3482ee",
