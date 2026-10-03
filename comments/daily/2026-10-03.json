@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791065643698,
+  "updatedAt": 1791066601852,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791065871179",
+      "text": "de zzd. z xx xx xx",
+      "userDeviceId": "b888d4ae9aee563f7116b7d43ec476dc41bad48b28200ada2947b66e3516b3d4",
+      "userName": "lo",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791065873332,
+      "updatedAt": 1791065873332,
+      "status": "active"
+    },
     {
       "id": "local-1791063564749",
       "text": "nn",
@@ -265,9 +279,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 102,
+  "likeCount": 103,
   "shareCount": 148,
-  "viewCount": 776,
+  "viewCount": 784,
   "verseLikedBy": [
     "03c135cca593bfbd5ba668abf1265cce861dd65eab4c0f4f13fc21b1864c6c24",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -305,6 +319,7 @@
     "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
     "4ffc67f53679930a38d1f185b4b973d7396059d13ef7b4129cb1fe42863d2dec",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
+    "594f04ec86c17a4cb151304a346522ed139d7782f9da3cf49fd35a9616ea02e3",
     "5b590afa762fde1946203449c14ec94b6d899a842687cbd2dbc7d01c5dcf3c64",
     "6032bdf5e28bdf7df92cb2ffbe084c615f7133a08fecd3cbc95ffdd0c96fb4ff",
     "6057bcafc37cad0f1f46bf9d832bf89c6038480114e5861f38c2a203f26da9a1",
