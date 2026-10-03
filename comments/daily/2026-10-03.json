@@ -1,9 +1,25 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791044045323,
+  "updatedAt": 1791045010328,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791044732363",
+      "text": "bon dieu se tout Nou bé zwen meza",
+      "userDeviceId": "5b590afa762fde1946203449c14ec94b6d899a842687cbd2dbc7d01c5dcf3c64",
+      "userName": "naldo",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 1,
+      "likedBy": [
+        "5b590afa762fde1946203449c14ec94b6d899a842687cbd2dbc7d01c5dcf3c64"
+      ],
+      "createdAt": 1791044735168,
+      "updatedAt": 1791044768121,
+      "status": "active"
+    },
     {
       "id": "local-1791043565666",
       "text": "nou renmen jezi anpil",
@@ -217,9 +233,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 82,
+  "likeCount": 83,
   "shareCount": 131,
-  "viewCount": 587,
+  "viewCount": 596,
   "verseLikedBy": [
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "0d78152ebcadffccdd3597f1faea57a1236ebc57dc1e586ab0598e76aa7118af",
@@ -250,6 +266,7 @@
     "4d6cf5e9ba5a2796479c213945310164c8b4ddbe9cc1f6920b5953b8a19d2cb2",
     "4ffc67f53679930a38d1f185b4b973d7396059d13ef7b4129cb1fe42863d2dec",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
+    "5b590afa762fde1946203449c14ec94b6d899a842687cbd2dbc7d01c5dcf3c64",
     "6032bdf5e28bdf7df92cb2ffbe084c615f7133a08fecd3cbc95ffdd0c96fb4ff",
     "6057bcafc37cad0f1f46bf9d832bf89c6038480114e5861f38c2a203f26da9a1",
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
