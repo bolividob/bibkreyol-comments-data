@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791027002109,
+  "updatedAt": 1791027856192,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791027659887",
+      "text": "Dios te bendiga siempre para todos",
+      "userDeviceId": "d20ce6add78dac6e5723212668dbf5d1e23dc331fd76ed8524c40513cafa1819",
+      "userName": "Joseph Berjot",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791027661473,
+      "updatedAt": 1791027661473,
+      "status": "active"
+    },
     {
       "id": "local-1791026311551",
       "text": "amén 🙏🏼🙏🏼",
@@ -173,9 +187,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 57,
-  "shareCount": 82,
-  "viewCount": 424,
+  "likeCount": 59,
+  "shareCount": 85,
+  "viewCount": 431,
   "verseLikedBy": [
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
@@ -197,6 +211,7 @@
     "4ffc67f53679930a38d1f185b4b973d7396059d13ef7b4129cb1fe42863d2dec",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
     "6032bdf5e28bdf7df92cb2ffbe084c615f7133a08fecd3cbc95ffdd0c96fb4ff",
+    "6057bcafc37cad0f1f46bf9d832bf89c6038480114e5861f38c2a203f26da9a1",
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
     "6c5f212c146b4b9927c2116d48527ef07f80f9666995ab8da06a3d81d0d3b4bc",
     "72fc67669dd7402010e1bb7e72cd45a66449eee4a88aad076c7fac137f6334dd",
@@ -217,6 +232,7 @@
     "a4143e10fcf0a590cac8ac8becb9fe655f5c2c30a81f5b332bb9d2e7fa048869",
     "a898a5715008bd9bd8edf2b195e9fe7fa356e3c901943e4bb7c2577bebb813a2",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
+    "ac2d0ab33ecc17d51222b29d50721098b961d2e7c46e7f03f5f15e8e292ec2f6",
     "b13cfd6195977455aafc8fae48330e64e644e65ea3177109754670d67893fe60",
     "b6472964c0674328cb7cefc7109e101d5317494643cfcf0a49ac280398a2b92d",
     "b8e1785c32af724e3325281359f8aef2e2de850448a2d7f7bd668ee43ca1fc90",
