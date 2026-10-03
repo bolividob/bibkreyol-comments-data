@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1790994604994,
+  "updatedAt": 1790995440940,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790995354651",
+      "text": "Jezi rnmen nou",
+      "userDeviceId": "18c1c155e22ea78609001eb249967b20e30551cca221414e22391ebe4d4b66c8",
+      "userName": "Djouben",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790995378751,
+      "updatedAt": 1790995378751,
+      "status": "active"
+    },
     {
       "id": "local-1790990316870",
       "text": "mési Jésus",
@@ -61,12 +75,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 23,
-  "shareCount": 22,
-  "viewCount": 138,
+  "likeCount": 24,
+  "shareCount": 25,
+  "viewCount": 148,
   "verseLikedBy": [
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "23453490a7a17d9e84757a476f14a5990eedbc39bdf71956ae36550a3d21c8ab",
+    "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
     "31fdf156e5cc21ad786b79589be3d88032aac93903273d46eacdece4e0748447",
     "38f1b7632998230c874517e888eee87defd60686dc81686e2e1b2aa802319221",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
