@@ -1,9 +1,23 @@
 {
   "date": "2026-10-02",
   "verseKey": "daily:2026-10-02",
-  "updatedAt": 1790984642592,
+  "updatedAt": 1790985613944,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790985056288",
+      "text": "🙏🙏🙏🙏",
+      "userDeviceId": "b382551eaf50f2da815b5c0fac9b434dc1927f3ed185fb570ce8d19a4af6dcb2",
+      "userName": "esmelayda",
+      "verseName": "Jenèz 3:2",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790985059978,
+      "updatedAt": 1790985059978,
+      "status": "active"
+    },
     {
       "id": "local-1790978717063",
       "text": "amen !",
@@ -194,9 +208,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 121,
-  "shareCount": 228,
-  "viewCount": 818,
+  "likeCount": 123,
+  "shareCount": 234,
+  "viewCount": 828,
   "verseLikedBy": [
     "025236d5afa80935c373f709523880f735ed1c519d1e72b3ea450477504903d9",
     "0510bbc930df2fcb0e5109c8f2336997a3f3ae1f3ade801064a104b762884f46",
@@ -250,6 +264,7 @@
     "7a612b7d1a9bd49c7cfc5eb367f2c4fd5dc41598d0af16645e311f8f854b65b5",
     "7c493d3a1922b422f5772548adb4db99218c362354a4391463df3b89498360dc",
     "7dbb47e709e16d95b3d757f1eb99611c7773085fc67dbc6a8611212a9b3d7c5c",
+    "8021912293e7c112b36c723dee726895ad1a73799d50f8a8e6f45408c0ccd115",
     "82d0e3509851fe481a38fb8ecf6d946b30f0b283af2414547248d305f12d950a",
     "862322bfd9cdf5d89cd802192a95f5558e639869350844cb85935c06840fe2e4",
     "89abae4d62179b08c092b0b068b0441c48e403de6c3baa86c0277ab1d6e7f154",
@@ -316,6 +331,7 @@
     "ec31465dc1d4ec2eae38b62fdb6b932b171e2c26f8be9fbc8a7e5758f9eab11b",
     "ee78e76a28665c1d4aa243cb07a9f97787f534c9868ff3c0bcb51f7405e55388",
     "eedc40d94459ab8ed638d45b7cb89c2a152298492796b3df4225c286290a513e",
+    "ef28afa74603e02f69b8ffeccbf8314df9dd392e885b514e397f68de19402855",
     "f5ab1ad7204882d06c56935217136f9c413513d70d1396392c473e78a68e0744",
     "f793005a1e48e3d05c679be7448603ae65dec0d5f1228f701884619c9800df80",
     "fa8bf9bba651fd6794325f7b248f7a063513cedc9b07bd47a7c63f41facedc37"
