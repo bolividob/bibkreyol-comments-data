@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791060243162,
+  "updatedAt": 1791061201902,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791060844106",
+      "text": "Amém 🙏🙏",
+      "userDeviceId": "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
+      "userName": "Mose belle",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791060844745,
+      "updatedAt": 1791060844745,
+      "status": "active"
+    },
     {
       "id": "local-1791044732363",
       "text": "bon dieu se tout Nou bé zwen meza",
@@ -237,9 +251,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 97,
-  "shareCount": 144,
-  "viewCount": 728,
+  "likeCount": 99,
+  "shareCount": 145,
+  "viewCount": 736,
   "verseLikedBy": [
     "03c135cca593bfbd5ba668abf1265cce861dd65eab4c0f4f13fc21b1864c6c24",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -280,6 +294,7 @@
     "6057bcafc37cad0f1f46bf9d832bf89c6038480114e5861f38c2a203f26da9a1",
     "6429b13a6444324745db77a92e907258e27a2bc897e927d3da27ead14112fd87",
     "6bd5adb30bd51409705a832438c3926f1742abda5ff7c4479dd6d3da807aa1d4",
+    "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6c5f212c146b4b9927c2116d48527ef07f80f9666995ab8da06a3d81d0d3b4bc",
     "72fc67669dd7402010e1bb7e72cd45a66449eee4a88aad076c7fac137f6334dd",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
@@ -290,6 +305,7 @@
     "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "8480f2b4d644b17804fef0ad0b79819da80ddbb197fb31723e4f585c549f9707",
     "8494241d0781117e48473dc2e67e34edba2d8ba241de851b967248652ddb8069",
+    "86483ccb3efe7d217d4777a75ef1906e65c7557be907b38f0139b5027834bb4a",
     "8bbd0bfde42d97fb1682fa0315fe70fdcd5b78a680020725aafbd6469808b4f0",
     "8be0ec0ee9ed4dcda2eaf67d9d2286cb7f825ec3caabd310ba5fe35af0c764a9",
     "8fe64efae17e2ab325374acf9147f6f4119f729ebe01be3d1b4719fddc219ac2",
