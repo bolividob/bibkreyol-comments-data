@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791030607671,
+  "updatedAt": 1791031448808,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791031009215",
+      "text": "slt",
+      "userDeviceId": "321c36bcd561be90e6f1f6bbc05443aed91e9e7b0ac2c1c2523da7c6ced224fc",
+      "userName": "Fabien",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791031011773,
+      "updatedAt": 1791031011773,
+      "status": "active"
+    },
     {
       "id": "local-1791027659887",
       "text": "Dios te bendiga siempre para todos",
@@ -187,9 +201,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 66,
-  "shareCount": 95,
-  "viewCount": 462,
+  "likeCount": 68,
+  "shareCount": 113,
+  "viewCount": 469,
   "verseLikedBy": [
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "111973ad9dc5f9c815265f473ae64f7ba72f819d0cd10aad8fa234a8c57b77b1",
@@ -247,9 +261,11 @@
     "c80ad87f045af3412f55aa72f9de51d05f5670117d834b67784bbcdd1949194b",
     "c90757cb517d02c94aac2491d2d7a5c2168dd45db7171bf02db4d7d164c664ab",
     "cde586f4da753ef136575a270dc3d9eec739d7132ed2c3dc6f53e040f0d14c33",
+    "d10d18643ebf4e1fd977683a75d51cd4d62bf8347ae2b371c5b4b64e94bd6c37",
     "d36d002f839c61fd0f34cc613e54a4776fdfcfe5b83f73f57d1e2b0ad03bc441",
     "d68feaa10e02c8e6e5b6ce24f24b1a791e973c026a10ad39e2046ce9c554ee40",
     "d870e8fb7468ad033e5eb555375d25b74f8823227440f1096cc540c0a59c306a",
+    "d9dabdcfea195164cd5ee583d91f7e9606a399d28a8b62dc7b68a2e00fdf8d77",
     "d9dcf6ca01f60c26dcbdc1babf9dcd43f7422dc722e7f343d2acbb6e9e181fd7",
     "dccc30e419aa2ff9b1d7f2f6ebc5ea00b2f9da1f5756f5ee5d98189180e8754d",
     "e2be9b73a64d9be4cfb0e48fd76ac83da1ff8fa6d507121d98cd60c46bdac26c",
