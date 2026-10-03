@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791063001551,
+  "updatedAt": 1791063841388,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791063564749",
+      "text": "nn",
+      "userDeviceId": "1ef92e834f40f864ecbcc0e26143460ecf761b3d62acd1a7ea01ce1958eb733a",
+      "userName": "ANÈL AKSiDE",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791063568152,
+      "updatedAt": 1791063568152,
+      "status": "active"
+    },
     {
       "id": "local-1791060844106",
       "text": "Amém 🙏🙏",
@@ -251,9 +265,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 99,
+  "likeCount": 100,
   "shareCount": 146,
-  "viewCount": 750,
+  "viewCount": 758,
   "verseLikedBy": [
     "03c135cca593bfbd5ba668abf1265cce861dd65eab4c0f4f13fc21b1864c6c24",
     "0507cf14957c365b6072ddf30ae2947ca140d159fb7d1a034f59a913589219bb",
@@ -312,6 +326,7 @@
     "925c135dd13aafe2e01b51acbc0608da61bde29a0b04e5c4718670e440560fd0",
     "9297decd04287fd3179cc63ac539fd7ded017e2a1912bdfe95c8f7566fd2520d",
     "93dffbe10ce0b01348e1321f710591cce5659ce6f44ec7c66c8ad06bde517807",
+    "93ef74b7bb8b7744ac6d60cd06b88c3e5051d2004a60f11a0389ee9d8d46e18e",
     "9a24ab928faaa4396b54517791e2d61f176e7bfaa9e8d9229ad43d24a51ec56a",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
     "a04ac22f87703647ef2cc6c18814a9c36a80d83b32d7b049cdc515524aa7eece",
