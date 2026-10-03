@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791016207422,
+  "updatedAt": 1791017056236,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791016637110",
+      "text": "Amén",
+      "userDeviceId": "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
+      "userName": "bijou",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791016638179,
+      "updatedAt": 1791016638179,
+      "status": "active"
+    },
     {
       "id": "local-1790998221173",
       "text": "Sovem bondye",
@@ -131,9 +145,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 44,
+  "likeCount": 45,
   "shareCount": 61,
-  "viewCount": 328,
+  "viewCount": 335,
   "verseLikedBy": [
     "18fc07e30260768e3d53d36ad1d73defa60907ae3dc4aec9cc2afad0ee1a6498",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
@@ -145,6 +159,7 @@
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
     "3d2c20698e4b5fc0c26e6343e9504490ef2f16586248f5cc0561b71f65ddbc3c",
     "3d98d27d3d30bce563968405807938f22ce853e6a523a1855a7ef1cb58db3de5",
+    "3e201e485b3d630fcaec41fa29608e40353bea1aa95b07ca68014dc83b07c96f",
     "4c952bcd949cfd7dac6069bcd81b6fb35fb7c62c8d0eaacb4cb68bc9f246399c",
     "4ffc67f53679930a38d1f185b4b973d7396059d13ef7b4129cb1fe42863d2dec",
     "585993c00b21fec17c7a3747d4509ba08887f7a080bcf679d7678a8a1a0cc244",
