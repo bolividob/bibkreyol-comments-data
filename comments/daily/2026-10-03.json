@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1791043202897,
+  "updatedAt": 1791044045323,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791043565666",
+      "text": "nou renmen jezi anpil",
+      "userDeviceId": "fd3219d5c051214da66bec60be680f1cb9c5f3f97e275b07edc62e287b006a54",
+      "userName": "serviteur Jeannel 🙏🙏",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791043568874,
+      "updatedAt": 1791043568874,
+      "status": "active"
+    },
     {
       "id": "local-1791031009215",
       "text": "slt",
@@ -203,9 +217,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 79,
+  "likeCount": 82,
   "shareCount": 131,
-  "viewCount": 580,
+  "viewCount": 587,
   "verseLikedBy": [
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "0d78152ebcadffccdd3597f1faea57a1236ebc57dc1e586ab0598e76aa7118af",
@@ -223,6 +237,7 @@
     "27c3d8ccaf79078496c023c15a8eac4fa716502fe1fc988d50b9715300f52623",
     "2a30b5647298200f601fe80d9680e01361f96bb36380b47e1c3df237c88b6027",
     "2cc4f94944daa9bfd9cd8d94c2d098ef2ec68426df0df1e94f7de45aa93df866",
+    "2dd8f69ca9f17a1698b9eb07396054c5e7a31a0b294d4a3f6f680903eaeba3cf",
     "31fdf156e5cc21ad786b79589be3d88032aac93903273d46eacdece4e0748447",
     "38f1b7632998230c874517e888eee87defd60686dc81686e2e1b2aa802319221",
     "3b47a74a2dad90cddb28fd1171069c5e909ef93f8870531349ceec355cddd3da",
@@ -265,6 +280,7 @@
     "b6472964c0674328cb7cefc7109e101d5317494643cfcf0a49ac280398a2b92d",
     "b711838aecfbdee26b74101d1e21a8207dbe95b7d16adc71f35fb47fc0a364ab",
     "b8e1785c32af724e3325281359f8aef2e2de850448a2d7f7bd668ee43ca1fc90",
+    "bd8790cd628e75ffc82fce35a4a93cc81c4f69d35f3688c6f3ff7e6000e08bc4",
     "bfe70a89352dc6267a2155ad9586ccf71e64de8ff463f32203d6c5668c85e9d0",
     "c1e6253b94f1264a8c13aee236f3816d6bea9d37259b6628707125a36d1fd49c",
     "c3857d6ad141e21b9c52955e59108dc09972542a24d2b565856e18f62bc7dae6",
@@ -285,7 +301,8 @@
     "e5949cca3011b0c86604c01d51a23f3b03e1a78a11ad5c2edd1312becbd616c4",
     "e9c02c2ba7405f70bd5df5518d2592308fd5c783bd85e38e67d7965720986a5c",
     "eeaffa1d08793d231d18b1b677802d189683c48f2ea9b53bfca93cad8837eaa6",
-    "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267"
+    "f61882912288f86bb56b3e9ce701a7de17003a3f017a330d56d862d59c122267",
+    "fd3219d5c051214da66bec60be680f1cb9c5f3f97e275b07edc62e287b006a54"
   ],
   "verseViewBy": []
 }
