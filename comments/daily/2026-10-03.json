@@ -1,9 +1,23 @@
 {
   "date": "2026-10-03",
   "verseKey": "daily:2026-10-03",
-  "updatedAt": 1790998204563,
+  "updatedAt": 1790999042433,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1790998221173",
+      "text": "Sovem bondye",
+      "userDeviceId": "61bfd38cda1a3783474f3d78c39b6906bbce33d4efddc27e1af535e95afd2d66",
+      "userName": "Mimose",
+      "verseName": "Malaki 2:1",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1790998233541,
+      "updatedAt": 1790998233541,
+      "status": "active"
+    },
     {
       "id": "local-1790997367930",
       "text": "amen",
@@ -119,7 +133,7 @@
   ],
   "likeCount": 33,
   "shareCount": 29,
-  "viewCount": 174,
+  "viewCount": 181,
   "verseLikedBy": [
     "18fc07e30260768e3d53d36ad1d73defa60907ae3dc4aec9cc2afad0ee1a6498",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
