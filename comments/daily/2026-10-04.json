@@ -1,9 +1,23 @@
 {
   "date": "2026-10-04",
   "verseKey": "daily:2026-10-04",
-  "updatedAt": 1791087244421,
+  "updatedAt": 1791088203350,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791087585118",
+      "text": "amèn 🙏🏾",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "Deteronòm 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791087589175,
+      "updatedAt": 1791087589175,
+      "status": "active"
+    },
     {
       "id": "local-1791086269932",
       "text": "Amén Amén",
@@ -33,12 +47,13 @@
       "status": "active"
     }
   ],
-  "likeCount": 50,
-  "shareCount": 69,
-  "viewCount": 199,
+  "likeCount": 51,
+  "shareCount": 71,
+  "viewCount": 207,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "03ffabcc66760073fb02f7c4284f63560de1cb0e67a3ad40c8f9bbb3780d7513",
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "0a4b7382faaeed25692115ea472a17e4d830575d5d52ec281b2b28ed230981c0",
     "0acd74a5ea302535666843c1dfa9619eecc5acbee72afc0d9efcd0413b5adcd8",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
