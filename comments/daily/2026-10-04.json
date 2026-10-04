@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "verseKey": "daily:2026-10-04",
-  "updatedAt": 1791113415447,
+  "updatedAt": 1791114288811,
   "version": 1,
   "comments": [
     {
@@ -28,10 +28,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "1c98b33489cea17ab79a2fb3b860cb171c45eb29d4a3989f03d929fa2bf61123"
+      ],
       "createdAt": 1791112231301,
-      "updatedAt": 1791112231301,
+      "updatedAt": 1791113537243,
       "status": "active"
     },
     {
@@ -191,9 +193,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 90,
-  "shareCount": 152,
-  "viewCount": 423,
+  "likeCount": 94,
+  "shareCount": 155,
+  "viewCount": 431,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "007882447c65d8b4c97f7eeff88fa51f8687f15e863a9858c2d13b8ce2603bd3",
@@ -203,8 +205,10 @@
     "0708e5b9dd6c4905adacb9860a3ec5012f23488a4b7ca85b0da36ab06a055ad2",
     "0a4b7382faaeed25692115ea472a17e4d830575d5d52ec281b2b28ed230981c0",
     "0acd74a5ea302535666843c1dfa9619eecc5acbee72afc0d9efcd0413b5adcd8",
+    "12deb4a04bdaa3f2cb07411e208e1dd86a55cad2349a9d2241fdf0f43aceff65",
     "14d5f00ea2d5509054a44bfcb6c9575e16f9ea038c4e451817f25355226abfca",
     "1ad2db71b3fe362053dbd00e049fca2cf8ee641750bb11f2b41296e12e643240",
+    "1c98b33489cea17ab79a2fb3b860cb171c45eb29d4a3989f03d929fa2bf61123",
     "1ee6c29bb97b784c257c65b32b6510b6de0b01c4aecb3548c06c56a8ebc477dd",
     "1f4d18f966ff0bdd7d25a173772c633f2a1ddd20bda249ac9ecd9e5b0ba37b61",
     "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
@@ -281,10 +285,12 @@
     "e347cdf6e256c4ab1c214fbdb1726e684bc7e2d9b739d6251b1b69f88fa5b4a5",
     "e3c272c9ac47c8ec8ca44048015ea9ff4a5da893134ec89cd08c0d5f2696143f",
     "e53e5f230e2d9d937a338cbb4c0d6fb25d6e2dbf2196901f4d4294a632c06c37",
+    "e5b6c0819e12852af2cfb3259098068e4a902482cbbb5c57d9fe870cedc85e47",
     "e722bacad2c57f76b73311300cd1fa149e5b0e2f4ebca0ffdb02e7f578897694",
     "e9568bc74df0e21816e8c61cf2599db658aaf14ec12e21d8cbd3c0c04f70b572",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
-    "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385"
+    "fa55b627dd5474f18224d62ab1becf085e413f1305bf410065a86be43dfa2385",
+    "fd9b6e198c2eac4e6f48294196354147457d53a7b9fb6c20ec970aab7107632b"
   ],
   "verseViewBy": []
 }
