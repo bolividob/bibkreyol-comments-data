@@ -1,9 +1,23 @@
 {
   "date": "2026-10-04",
   "verseKey": "daily:2026-10-04",
-  "updatedAt": 1791098054285,
+  "updatedAt": 1791098888659,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791102168204",
+      "text": "Le nom de jesus",
+      "userDeviceId": "37b74dd54dc44a58b31e9f68cb1f351c188f41dee4c45b257a788b1ac2ad314f",
+      "userName": "Chelsaint kerson",
+      "verseName": "Deteronòm 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791098612954,
+      "updatedAt": 1791098612954,
+      "status": "active"
+    },
     {
       "id": "local-1791091272238",
       "text": "amém amém amém",
@@ -75,9 +89,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 58,
+  "likeCount": 60,
   "shareCount": 85,
-  "viewCount": 290,
+  "viewCount": 297,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "03ffabcc66760073fb02f7c4284f63560de1cb0e67a3ad40c8f9bbb3780d7513",
@@ -91,6 +105,7 @@
     "256023a226dd4158764d39d89ae44fe2372edc6f100ca15e9b1af1404931f08f",
     "28aead850cc00a71ed6ee7fa4e2856ebd699443173efec8d2901c37189877711",
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
+    "37b74dd54dc44a58b31e9f68cb1f351c188f41dee4c45b257a788b1ac2ad314f",
     "3c609ec9de33bc49ab7d44a9d809df40fb2c6de1981d84e13236e50260b24d30",
     "3f9158dd32a105e6f35ce0a1e180dac2ad4cd821af4be46d78e1e08fcf766879",
     "41392794811d9926d6badc4da343131d54518599d5162cb236919d8c264d2081",
@@ -117,6 +132,7 @@
     "9eede8c58c365037c08f614923c5d24b7f0cf476774a9773d1bc2b0b59750cd5",
     "a8c268223b6d8ba2b802e04dc29088eec2c13947a679ce6fe60a86087a92346f",
     "aab9590ff319c4439eeb33321149a51af8bf80769f4cef8875cacf56041c29f9",
+    "ab6025fa8e9a4d7af27539051b03c2ccaff9b589f775cc819f08767daec8f0bc",
     "b280384d550394f8ccca06a1a363997f984d72249e51f9e3f9b5370745e8e6eb",
     "b60054d75a9769160e3e9e66864fd15e9ec34d47a9357d24f029be0aef7610e2",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
