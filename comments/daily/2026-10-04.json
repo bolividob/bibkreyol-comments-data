@@ -1,9 +1,23 @@
 {
   "date": "2026-10-04",
   "verseKey": "daily:2026-10-04",
-  "updatedAt": 1791090847262,
+  "updatedAt": 1791091705678,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791091272238",
+      "text": "amém amém amém",
+      "userDeviceId": "9eede8c58c365037c08f614923c5d24b7f0cf476774a9773d1bc2b0b59750cd5",
+      "userName": "Mela Lebrun",
+      "verseName": "Deteronòm 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791091274603,
+      "updatedAt": 1791091274603,
+      "status": "active"
+    },
     {
       "id": "local-1791089268736",
       "text": "Amén y amén",
@@ -61,9 +75,9 @@
       "status": "active"
     }
   ],
-  "likeCount": 53,
-  "shareCount": 73,
-  "viewCount": 229,
+  "likeCount": 55,
+  "shareCount": 75,
+  "viewCount": 236,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "03ffabcc66760073fb02f7c4284f63560de1cb0e67a3ad40c8f9bbb3780d7513",
@@ -99,6 +113,7 @@
     "96e1a294ead74a8fb689b8322df9935457f9190e90c65ad6f0d828bab4dc2489",
     "99079511136c706fdf10c70870dba4e6cb2c7774dff9588f977374b619fe127f",
     "9b8477bb4d848d64a88f32c9d6e7e89f627e6f0887606037c41827632cfb9b32",
+    "9eede8c58c365037c08f614923c5d24b7f0cf476774a9773d1bc2b0b59750cd5",
     "aab9590ff319c4439eeb33321149a51af8bf80769f4cef8875cacf56041c29f9",
     "b280384d550394f8ccca06a1a363997f984d72249e51f9e3f9b5370745e8e6eb",
     "b60054d75a9769160e3e9e66864fd15e9ec34d47a9357d24f029be0aef7610e2",
@@ -109,6 +124,7 @@
     "c80ad87f045af3412f55aa72f9de51d05f5670117d834b67784bbcdd1949194b",
     "c8dcdcd7f75db8050ffdfe84a36e0e68daceed43bd27e3511966af75eebd8ac3",
     "c8f9858059b4b178459ab1392a29e85f2afd8f81fb85b5a17a51348beec6712c",
+    "cc4bbe39f60090db67b914d5785724e3119d6d5e8e1b0449de325dafb73f1054",
     "ccd1338b150cf7157839cae75769562dbc601a9c727d08584f5f961ccaa8788e",
     "cf2089eff6e7dbfd8499d32b6305b15944a23b81395166914898e257b48c1a9f",
     "d90705f2f5ab5a632486341ace0dbe119dface1a87e780e23dc7456284944106",
