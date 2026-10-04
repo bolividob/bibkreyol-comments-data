@@ -1,9 +1,65 @@
 {
   "date": "2026-10-04",
   "verseKey": "daily:2026-10-04",
-  "updatedAt": 1791125134591,
+  "updatedAt": 1791126000989,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791125828391",
+      "text": "Amen🙏🙏🙏🙏🙏🙏🙏🙏🙏",
+      "userDeviceId": "326ad555693ecdeb3f329251e6c554b74067421461a1e532a03e853405859ced",
+      "userName": "Amenn🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏",
+      "verseName": "Deteronòm 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791125829463,
+      "updatedAt": 1791125829463,
+      "status": "active"
+    },
+    {
+      "id": "local-1791125700384",
+      "text": "bon travay",
+      "userDeviceId": "26cc7f11ab6ef04193f1c28608406fec4eaf931498a68ceb68e68b6650b639ba",
+      "userName": "jacques",
+      "verseName": "Deteronòm 6:5",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791125701423,
+      "updatedAt": 1791125701423,
+      "status": "active"
+    },
+    {
+      "id": "local-1791125364180",
+      "text": "mèsi wi Jezi ou protège m",
+      "userDeviceId": "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
+      "userName": "choudelietoussaint@gmail.com",
+      "verseName": "Rit 12:20",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791125368093,
+      "updatedAt": 1791125368093,
+      "status": "active"
+    },
+    {
+      "id": "local-1791125174860",
+      "text": "Bondye beni nou",
+      "userDeviceId": "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
+      "userName": "choudelietoussaint@gmail.com",
+      "verseName": "Rit 12:20",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791125214522,
+      "updatedAt": 1791125214522,
+      "status": "active"
+    },
     {
       "id": "local-1791123028119",
       "text": "bondye mèsi pou tout sa ou fè pou mwen papam kenbe lavim seyè",
@@ -26,10 +82,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791122916294,
-      "updatedAt": 1791122916294,
+      "updatedAt": 1791125231204,
       "status": "active"
     },
     {
@@ -40,10 +98,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791119056299,
-      "updatedAt": 1791119056299,
+      "updatedAt": 1791125229765,
       "status": "active"
     },
     {
@@ -98,13 +158,14 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "21134e2c699d1ee2ddba17b5008fb8eaec4bdfb68ec0cb39e0d9759ea3c027bd",
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
         "7cb50a48c3ed2b1efe06c43dc41e8cc6babfd7ede080735584967c42263adab1"
       ],
       "createdAt": 1791112533750,
-      "updatedAt": 1791116477165,
+      "updatedAt": 1791125244256,
       "status": "active"
     },
     {
@@ -115,13 +176,14 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "1c98b33489cea17ab79a2fb3b860cb171c45eb29d4a3989f03d929fa2bf61123",
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
         "7cb50a48c3ed2b1efe06c43dc41e8cc6babfd7ede080735584967c42263adab1"
       ],
       "createdAt": 1791112231301,
-      "updatedAt": 1791116478060,
+      "updatedAt": 1791125252400,
       "status": "active"
     },
     {
@@ -132,12 +194,13 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
         "7cb50a48c3ed2b1efe06c43dc41e8cc6babfd7ede080735584967c42263adab1"
       ],
       "createdAt": 1791111691967,
-      "updatedAt": 1791116507688,
+      "updatedAt": 1791125252425,
       "status": "active"
     },
     {
@@ -148,12 +211,13 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
         "7cb50a48c3ed2b1efe06c43dc41e8cc6babfd7ede080735584967c42263adab1"
       ],
       "createdAt": 1791109714333,
-      "updatedAt": 1791116503970,
+      "updatedAt": 1791125257748,
       "status": "active"
     },
     {
@@ -164,13 +228,14 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "likedBy": [
         "42a4e1e3dd6cd5a0a8a30d5f1f418b397a94a2a584d5b7be5d2a9a88006c261a",
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
         "7cb50a48c3ed2b1efe06c43dc41e8cc6babfd7ede080735584967c42263adab1"
       ],
       "createdAt": 1791109447321,
-      "updatedAt": 1791116509651,
+      "updatedAt": 1791125269576,
       "status": "active"
     },
     {
@@ -181,12 +246,13 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
         "7cb50a48c3ed2b1efe06c43dc41e8cc6babfd7ede080735584967c42263adab1"
       ],
       "createdAt": 1791109195433,
-      "updatedAt": 1791116504316,
+      "updatedAt": 1791125257307,
       "status": "active"
     },
     {
@@ -197,10 +263,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791107582263,
-      "updatedAt": 1791107582263,
+      "updatedAt": 1791125270321,
       "status": "active"
     },
     {
@@ -211,10 +279,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791098612954,
-      "updatedAt": 1791098612954,
+      "updatedAt": 1791125262090,
       "status": "active"
     },
     {
@@ -225,10 +295,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791091274603,
-      "updatedAt": 1791091274603,
+      "updatedAt": 1791125259032,
       "status": "active"
     },
     {
@@ -239,10 +311,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791089269636,
-      "updatedAt": 1791089269636,
+      "updatedAt": 1791125259229,
       "status": "active"
     },
     {
@@ -253,10 +327,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791087589175,
-      "updatedAt": 1791087589175,
+      "updatedAt": 1791125265819,
       "status": "active"
     },
     {
@@ -267,10 +343,12 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791086272295,
-      "updatedAt": 1791086272295,
+      "updatedAt": 1791125289947,
       "status": "active"
     },
     {
@@ -281,16 +359,18 @@
       "verseName": "Deteronòm 6:5",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd"
+      ],
       "createdAt": 1791084084546,
-      "updatedAt": 1791084084546,
+      "updatedAt": 1791125276309,
       "status": "active"
     }
   ],
-  "likeCount": 150,
-  "shareCount": 343,
-  "viewCount": 576,
+  "likeCount": 156,
+  "shareCount": 351,
+  "viewCount": 588,
   "verseLikedBy": [
     "006717d78cb3f3b5286fe9e286e345e7a71d89a9574e608f041ec3eb2536863c",
     "007882447c65d8b4c97f7eeff88fa51f8687f15e863a9858c2d13b8ce2603bd3",
@@ -324,6 +404,7 @@
     "2fd5ef27bdc47e7d2d780daa59087a1fe63537ddddacb174bd8521af958f7b4a",
     "3042e047a92a4cd7a898009722c011e542f220940c0b944063f19c2997534bf1",
     "316e226bf1a7e471025797b53050af40f49f958c19742156399891220275c37d",
+    "326ad555693ecdeb3f329251e6c554b74067421461a1e532a03e853405859ced",
     "3295d5e19f95953b9169054f26e14401ee9381b2ad09332c98a93f251818ddd0",
     "32a19b5a5950e8aaa57b40a5a73fc9d85855a9e82c1006052369d6898d359373",
     "3509c9c24decd320fe9f1ac37d42a99f961c0abd0c17f1d98d1d348c2879990c",
@@ -339,6 +420,7 @@
     "419784ba89210bcd291992dafc003a45f4f9254424fce5da4f547389d12f3453",
     "41fc93dba77c9f466c7a029830470f40161923c30e60aa817aa9731903146c14",
     "42a4e1e3dd6cd5a0a8a30d5f1f418b397a94a2a584d5b7be5d2a9a88006c261a",
+    "42beb2e460e46a74105a62643d3a63abc419b67f17bcc2c999de267b17d8b0dd",
     "43bfe1b9cb9ab341768d4cdeba515fefdf5b4041a8ea554066ab0a9a9071aa7c",
     "465efd973078591038d5394b0901e81710f1d2a3c9f0e62c790ef55d68e7a906",
     "46900d3175387ee79559762cc268e56ca734f0710d6a618898c8d3aa66813e9c",
@@ -346,6 +428,7 @@
     "49c7a1c7c48942e00351384227c52c5fdb362bdeea4975b265724766277da3a2",
     "4ccdd982d2a10f3ea4bef7a1270139c543ad82e3ac19432da89aa709dc4c5ae5",
     "4d2340d5bf6a3c103adaa02ac9152f8221f0c90bdddc5b9d4299c18b99f5e71d",
+    "53d9b0b99567d0f6acc91d85df3acbc1549664d2a16059837d72764d5fb938c3",
     "54ccffc6e8af2b6a339ea9f8b2e54456f723328fd4c893bc66096db57553d22c",
     "5d7dff55186cab0b7b933f6ee6507c0bac8a50f372c92b8948353035698f4459",
     "5ec5cc17fb1ede6eee896722dec18ee2690aff71385ce42de1f202cd76a7cce9",
@@ -358,12 +441,14 @@
     "6a9a54a0247c79b2f40dd0785ecd114e832c5081709d8d2bdfee907e66a65fe3",
     "6bd6216b99fa0cf875e096ba4b9448e7e244e328666f16fc8205cc062e3aab8e",
     "6db4153d6ac3566a5cefb4b07483cf24f9bc843da95ffd9acbfad640bc425a83",
+    "6feb3aaeb0b3301f326d8550e6c0cceb8cf0354e3b8a8eddb32ec2adc148626f",
     "70d79b41ff96b2ef90a51fc693f2bd884dd573c46a844d1e23ed133c3f2101d2",
     "7159e78cab3fddfc51bad966319fa72d2322775506927202859f24ac4f6d42ac",
     "720d2441cc2bd9e891689faf42328be9c9fc73f4c2e6a0a8678a85a0a6f7aaea",
     "724bf419ae5d9784288bff531f3852bbdedfbbb331c4c3a2680e0880a4a48c1f",
     "732c76e23497e0e612b48759273d680fed4e72b5e9a8a4e904e48cd1f1da0bc8",
     "75f59dd0093d2fef093082f24451828c1cc53ce19eaccdefd8ccebbfe196d452",
+    "76fb7c753f5560394ce6b5fec350ef7a4c5dd970c86aceb05cb180bb8ec27d44",
     "78f74b2e55e1517d85fbcc6c03b3898ae2e392082fe17f8b72e95a4ee5bca699",
     "7a139be9e4ecb0a8f83f71c7bbd3f60b4be66eb537c978cac77154920c16065d",
     "7bd6be1771fb24b3597622ebfa3201c5a16e10da5fcd120934e0c4e4b168e39d",
@@ -395,6 +480,7 @@
     "b280384d550394f8ccca06a1a363997f984d72249e51f9e3f9b5370745e8e6eb",
     "b60054d75a9769160e3e9e66864fd15e9ec34d47a9357d24f029be0aef7610e2",
     "b7bf987b63c647ce20b83cf443c4b26d22bfc1442232993eb45122571366f73c",
+    "b7cdb71e2f271aa265d63186970fd0da10742f4b14e9bf8ef4e0a342a4041b2d",
     "b8a7953eb9c352046a393f9c39ba8de29fae3964bc2662c2eac171d4c3dea808",
     "b9f49b48f50b1a24eeced76398255bb9674ba2df121a5a510a03072fe1f6ab40",
     "bc7d00917d219d215a48bf61c8920e92af0fe90ec1ef3c96e8243b08500a33f7",
