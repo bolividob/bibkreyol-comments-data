@@ -1,9 +1,23 @@
 {
   "date": "2026-10-05",
   "verseKey": "daily:2026-10-05",
-  "updatedAt": 1791179116516,
+  "updatedAt": 1791180054759,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791167948941",
+      "text": "amén 🙏",
+      "userDeviceId": "0487c845c75bbd3ac4fd94f079ddeaed1c994050aa58dc664f2bf1d8d106f23d",
+      "userName": "cadet stephania",
+      "verseName": "2 Samyèl 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791179513414,
+      "updatedAt": 1791179513414,
+      "status": "active"
+    },
     {
       "id": "local-1791173113818",
       "text": "amèn 🙏🏾",
@@ -166,8 +180,8 @@
     }
   ],
   "likeCount": 58,
-  "shareCount": 85,
-  "viewCount": 255,
+  "shareCount": 86,
+  "viewCount": 263,
   "verseLikedBy": [
     "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "10c1b0ea1334f78a8438b4c618b91505adb3fbddee133a57701bae357fa9f915",
