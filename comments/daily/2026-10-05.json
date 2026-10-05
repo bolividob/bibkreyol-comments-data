@@ -1,9 +1,23 @@
 {
   "date": "2026-10-05",
   "verseKey": "daily:2026-10-05",
-  "updatedAt": 1791172801907,
+  "updatedAt": 1791173704870,
   "version": 1,
   "comments": [
+    {
+      "id": "local-1791173113818",
+      "text": "amèn 🙏🏾",
+      "userDeviceId": "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
+      "userName": "Jean Stivens",
+      "verseName": "2 Samyèl 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791173115720,
+      "updatedAt": 1791173115720,
+      "status": "active"
+    },
     {
       "id": "local-1791170677275",
       "text": "bondye papa se wou menm kikonn tout bagay diyon mo Pou mwn papa",
@@ -26,10 +40,12 @@
       "verseName": "2 Samyèl 6:4",
       "parentId": null,
       "replyCount": 0,
-      "likeCount": 0,
-      "likedBy": [],
+      "likeCount": 1,
+      "likedBy": [
+        "313315bd2f1c425460c3707adcf230a9f2792f7acffae6668b74f5ce84c237e1"
+      ],
       "createdAt": 1791168472095,
-      "updatedAt": 1791168472095,
+      "updatedAt": 1791173699707,
       "status": "active"
     },
     {
@@ -147,13 +163,15 @@
       "status": "active"
     }
   ],
-  "likeCount": 47,
-  "shareCount": 76,
-  "viewCount": 202,
+  "likeCount": 52,
+  "shareCount": 80,
+  "viewCount": 209,
   "verseLikedBy": [
+    "065e77aba972a361ab9a2ade1b28aa768c94570dc7f6dff2dd4b314c716bc65f",
     "10c1b0ea1334f78a8438b4c618b91505adb3fbddee133a57701bae357fa9f915",
     "2323f4a555cd13e82919425a89bbe547db38566165fa50af1391a075bd0872e4",
     "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
+    "313315bd2f1c425460c3707adcf230a9f2792f7acffae6668b74f5ce84c237e1",
     "3aca4b46d8916a1faa3a58171902ed058c9cf9a420ac7961c98fc71c5a205ee4",
     "3b2edef13e5ff91fbd9d3b6864caeb7b32582bba050b77e824caa29e1b6d9d12",
     "43b484f7c7103ff8de07ff7d324bc49510236e803a9db298c2b29c2fea2b3969",
@@ -172,6 +190,7 @@
     "6c69de6949b960aac35ac3a9345c2224aaa1b9ac4a3e3c9814ce325ab35dcdeb",
     "769995e44a2359bde380bd1fad7c967d309a39c15206789437f170eac9818d2a",
     "805660a603df4b85660a9b2a06536a9389cc89d4704581147cabad5192825b31",
+    "831f41abdbfe387eb97eaa942207ca3aa78e3546b1d7508cdd7aeac6f83f8841",
     "91dcded42e87a8b61ceb63e355b9c0235b64cb1efa612d1f2f132e05c30e971e",
     "9241953ab73c441507ec1f7efec8ffff55850d1eeab3df0a7169d42343553f68",
     "9310b8e4bd8aaa4110090217516d8385ef0091d91b4026f3f6873f43c4ae4616",
@@ -179,6 +198,7 @@
     "9b38f8f14cf59197957c51f0cee90c41581ceee790fbbcd2147ba0c46c264351",
     "9b9d6c3f79020b4c7c680d35a92ba85d709c178c8b97b6500f7a359138186364",
     "a0d44fe39933f3a505226bcc984d7e9bd81a538d2ba1dd3c80982edbaec6747c",
+    "a1eb6e2cc8e4ba9d5eb73ccf0139f3d083e424e169810019318ce3bf38f58952",
     "abad80362a1b0a2fe17dd004734efa9500b330302e601b0acc089eddf47ffdcc",
     "adfed8d82b2cb2c51d2e215e6abe8b3dbc266642503faa38e2c01de363441b60",
     "b5ccfcc0269306e47667f7040e27ae7cccea8bc4e686308a15d39610039778d6",
@@ -196,6 +216,7 @@
     "dbe0d0853ad687af06e1686d4bb2ea692f03567d469404b27b1b6186bd2bdff2",
     "e2611c2ac0c195996acb9f44c993b40a6db33c7ddd5efe359b91b38c1052be7b",
     "ead4807426794964a2a688f60306a8d13fed97ab6d5369ace06f2b9e191e05ff",
+    "f14a466a4ce5b5bb2a7820008d206e443c1406867c28506fcb0c9200a12b38da",
     "f69a3ed82918e3a57914fb7d8680dbc4ceb8c117251d927a3b72b575905c405b",
     "fb18a47ce5c10a521f83c79cb14d4af1b48da506c2f01989cc7add15a1610aae"
   ],
