@@ -1,12 +1,59 @@
 {
   "date": "2026-10-05",
   "verseKey": "daily:2026-10-05",
-  "updatedAt": 1791158403973,
+  "updatedAt": 1791159312051,
   "version": 1,
-  "comments": [],
-  "likeCount": 0,
-  "shareCount": 0,
-  "viewCount": 45,
-  "verseLikedBy": [],
+  "comments": [
+    {
+      "id": "local-1791159178299",
+      "text": "🥰",
+      "userDeviceId": "5d79f0e79229bb3dde0be6d0b080bddbf4ee3f3c70b4e960d31ff8c5cc7021d4",
+      "userName": "Renande Joseph",
+      "verseName": "2 Samyèl 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791159179434,
+      "updatedAt": 1791159179434,
+      "status": "active"
+    },
+    {
+      "id": "local-1791159174709",
+      "text": "u dwe mete plis ki bye bel",
+      "userDeviceId": "5d79f0e79229bb3dde0be6d0b080bddbf4ee3f3c70b4e960d31ff8c5cc7021d4",
+      "userName": "Renande Joseph",
+      "verseName": "2 Samyèl 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791159175850,
+      "updatedAt": 1791159175850,
+      "status": "active"
+    },
+    {
+      "id": "local-1791159149738",
+      "text": "Li bel bib",
+      "userDeviceId": "5d79f0e79229bb3dde0be6d0b080bddbf4ee3f3c70b4e960d31ff8c5cc7021d4",
+      "userName": "Renande Joseph",
+      "verseName": "2 Samyèl 6:4",
+      "parentId": null,
+      "replyCount": 0,
+      "likeCount": 0,
+      "likedBy": [],
+      "createdAt": 1791159151076,
+      "updatedAt": 1791159151076,
+      "status": "active"
+    }
+  ],
+  "likeCount": 3,
+  "shareCount": 2,
+  "viewCount": 53,
+  "verseLikedBy": [
+    "2531ff58b395afa3d9b7e483ea5fbc20d710b95ee7afdd5635b6939b16757a7e",
+    "91dcded42e87a8b61ceb63e355b9c0235b64cb1efa612d1f2f132e05c30e971e",
+    "bbb330695b873cfd10b78aae616397f1caf4584319e8d14ba9908b241fce8d77"
+  ],
   "verseViewBy": []
 }
